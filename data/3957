@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nam Định: Xe máy va chạm với ô tô, một người tử vong - Pháp Luật Plus
+</title><meta name="keywords" content="Nam Định,quốc lộ 10,Mỹ Xá,Yên Chính,khu công nghiệp hòa xá,Đường Phạm Ngũ Lão,Ý Yên,MINH TRANG,Đại Lộc,phân luồng giao thông,tiến hành điều tra,tử vong" /><meta name="description" content="Vào khoảng 8h, ngày 14/3, tại nút giao giữa QL 10 và đường Phạm Ngũ Lão (có đèn tín hiệu giao thông) thuộc địa bàn xã Mỹ Xá, TP Nam Định (Nam Định) đã xảy r..." />
+<link rel="canonical" href="http://www.baomoi.com/nam-dinh-xe-may-va-cham-voi-o-to-mot-nguoi-tu-vong/c/21764011.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21764011" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21764011" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.phapluatplus.vn/nam-dinh-xe-may-va-cham-voi-o-to-mot-nguoi-tu-vong-d38152.html");
+else
+window.location.replace("http://www.baomoi.com/nam-dinh-xe-may-va-cham-voi-o-to-mot-nguoi-tu-vong/c/21764011.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thầy giáo gần 20 năm sáng tác tranh gạo - Tiin
+</title><meta name="keywords" content="thị xã Quảng Yên,Liên Hòa,Minh Cương,thpt ngô gia tự,Quảng Yên,Đinh Dậu,sáng tác,Quảng Ninh,sáng tạo" /><meta name="description" content="Thầy Đào Thế Am, giáo viên Trường Tiểu học - THCS Tiền Phong (thị xã Quảng Yên, Quảng Ninh) nhiều năm dạy học trò sắp xếp hạt gạo thành bức tranh độc đáo." />
+<link rel="canonical" href="http://www.baomoi.com/thay-giao-gan-20-nam-sang-tac-tranh-gao/c/21789854.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789854" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789854" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://tiin.vn/chuyen-muc/hoc/thay-giao-gan-20-nam-sang-tac-tranh-gao.html");
+else
+window.location.replace("http://www.baomoi.com/thay-giao-gan-20-nam-sang-tac-tranh-gao/c/21789854.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

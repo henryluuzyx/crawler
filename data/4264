@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hà Nội ra quân lấy lại vỉa hè cho người đi bộ - Hải Quan
+</title><meta name="keywords" content="vi phạm,ra quân,đường 32,Hữu Linh,Hà Nội,Báo Hải,đường Hồ Tùng Mậu,Quận Bắc Từ Liêm,chấp hành,cưỡng chế,ghi nhận,thu giữ" /><meta name="description" content="Sáng nay 10/3, lực lượng chức năng nhiều quận, huyện ở Hà Nội đồng loạt ra quân lập lại trật tự đô thị, xử lý các vi phạm trên lòng đường, vỉa hè. Hà Nội xá..." />
+<link rel="canonical" href="http://www.baomoi.com/ha-noi-ra-quan-lay-lai-via-he-cho-nguoi-di-bo/c/21731577.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21731577" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21731577" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baohaiquan.vn/pages/ha-noi-ra-quan-lay-lai-via-he-cho-nguoi-di-bo.aspx");
+else
+window.location.replace("http://www.baomoi.com/ha-noi-ra-quan-lay-lai-via-he-cho-nguoi-di-bo/c/21731577.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

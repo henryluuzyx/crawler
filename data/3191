@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bảo mẫu trông trẻ thừa nhận đánh các em bé khi cho ăn - Lao Động
+</title><meta name="keywords" content="Đường Nguyễn Oanh,Gò Vấp,Phường 17" /><meta name="description" content="Chiều nay (16.3), trong buổi làm việc với công an phường 17, quận Gò Vấp, bà Phạm Thị Phạm Thị Mộng Thu (SN 1968 - chủ điểm giữ trẻ tự phát số 214/77 đường ..." />
+<link rel="canonical" href="http://www.baomoi.com/bao-mau-trong-tre-thua-nhan-danh-cac-em-be-khi-cho-an/c/21788027.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21788027" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21788027" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://laodong.com.vn/video-thoi-su/bao-mau-trong-tre-thua-nhan-danh-cac-em-be-khi-cho-an-647541.bld");
+else
+window.location.replace("http://www.baomoi.com/bao-mau-trong-tre-thua-nhan-danh-cac-em-be-khi-cho-an/c/21788027.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

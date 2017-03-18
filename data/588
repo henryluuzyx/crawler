@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Linh cẩu 68kg bị trăn khổng lồ nuốt chửng - VietnamNet
+</title><meta name="keywords" content="Mỹ,vi-đê-ô,châu phi,Jos Bakker,Kay Holekamp,trưởng thành,thiết kế website,hà lan,Hải Nguyên,phản công,đại học michigan" /><meta name="description" content="Một cảnh tượng vô cùng hiếm gặp khi con linh cẩu nặng chừng 68kg bị trăn đá nuốt chửng tại khu bảo tồn Quốc gia Masai Mara, châu Phi." />
+<link rel="canonical" href="http://www.baomoi.com/linh-cau-68kg-bi-tran-khong-lo-nuot-chung/c/21792479.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792479" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792479" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/the-gioi/the-gioi-do-day/linh-cau-68kg-bi-tran-khong-lo-nuot-chung-361853.html");
+else
+window.location.replace("http://www.baomoi.com/linh-cau-68kg-bi-tran-khong-lo-nuot-chung/c/21792479.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

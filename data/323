@@ -1,0 +1,1484 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=100" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+<link rel="dns-prefetch" href="http://st.f3.ione.vnecdn.net"/>
+<link rel="dns-prefetch" href="http://st.f2.ione.vnecdn.net"/>
+<link rel="dns-prefetch" href="http://la.eclick.vn"/>
+<link rel="dns-prefetch" href="http://usi.saas.vnexpress.net"/>
+<link rel="dns-prefetch" href="//s.eclick.vn"/>
+<link rel="dns-prefetch" href="//st.core.polyad.net"/>
+<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+<link rel="dns-prefetch" href="http://b.scorecardresearch.com"/>
+
+    <meta http-equiv="REFRESH" content="1800" />
+<!--Title-->
+<title>iOne -Trang tin đời sống, giải trí dành cho giới trẻ</title><!--Meta Tag-->
+ <meta name="description" content="Trang tin tổng hợp dành cho giới trẻ luôn cập nhật tin mới nhất, HOT nhất về tuổi teen, ngôi sao và các sự kiện trong và ngoài nước." >
+<meta name="keywords" content="ione, teen, teen,gioi tre,scandal, người đẹp, hot boy, ngôi sao, idol, hot girl, trò chuyện,Nhịp sống,Học A-Z,Showbiz,
+Thời trang,Chiêm tinh,Giới tính +,Ba lô,Tự chế,Vui độc,Video,Ảnh ,Mốt ,Làm đẹp, Kstyle, Phong cách sao,Showbiz,Sao, 
+Nhạc,Phim-TV Nhịp sống, Gương mặt ,Tips ,Teen xinh,Hitek,Học A-Z,Du học,Thi cử,Thâm cung bí sử,Giới tính +,Khỏe,Đẹp,Yêu" ><meta name="tt_site_id" content="1002764" />
+<meta name="tt_category_id" content="1002764" />
+<meta name="tt_article_id" content="1002764" />
+<meta name="tt_page_type" content="site" />
+<link rel="DC.Creator" href="http://vnexpress.net">
+<meta name="DC.Title" content="iOne -Trang tin đời sống, giải trí dành cho giới trẻ">
+<meta name="DC.Subject" content="ione, teen, teen,gioi tre,scandal, người đẹp, hot boy, ngôi sao, idol, hot girl, trò chuyện,Nhịp sống,Học A-Z,Showbiz, Thời trang,Chiêm tinh,Giới tính +,Ba lô,Tự chế,Vui độc,Video,Ảnh ,Mốt ,Làm đẹp, Kstyle, Phong cách sao,Showbiz,Sao, Nhạc,Phim-TV Nhịp sống, Gương mặt ,Tips ,Teen xinh,Hitek,Học A-Z,Du học,Thi cử,Thâm cung bí sử,Giới tính +,Khỏe,Đẹp,Yêu">
+<meta name="DC.Description" content="Trang tin tổng hợp dành cho giới trẻ luôn cập nhật tin mới nhất, HOT nhất về tuổi teen, ngôi sao và các sự kiện trong và ngoài nước.">
+<meta name="DC.Publisher" content="VnExpress">
+<meta name="dc.rights.copyright" content="VnExpress">
+<meta name="dc.creator.name" content="VnExpress">
+<meta name="dc.creator.email" content="webmaster@vnexpress.net">
+<meta name="dc.identifier" content="http://vnexpress.net">
+<meta name="copyright" content="VnExpress" />
+<meta name="author" content="VnExpress" />
+<meta name="DC.Contributor" content="fpt">
+<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text" />
+<meta name="DC.format" content="text/html; charset=UTF-8" />
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="vi" />
+<link rel="alternate" href=" http://ione.vnexpress.net" hreflang="vi" />
+<meta name="twitter:card" value="summary">
+<meta name="twitter:site" content="@VnEnews">
+<meta name="twitter:creator" content="@VnEnews">
+<meta property="fb:pages" content="156492024370599" />
+<meta property="fb:app_id" content="1547540628876392" />
+<link rel="canonical" href="ione.vnexpress.net" />
+<script language="javascript" type="text/javascript">
+    var interactions_url    = 'http://usi.saas.vnexpress.net';
+    var base_url            = 'http://ione.vnexpress.net';
+    var css_url             = 'http://st.f3.ione.vnecdn.net/c/v17';
+	var jsurl             	= 'http://st.f2.ione.vnecdn.net/j/v24';
+	var js_url             	= 'http://st.f2.vnecdn.net/responsive/j/v16';
+    var FLASH_URL           = 'http://st.f1.ione.vnecdn.net/f/v2';
+    var img_url             = 'http://st.f1.ione.vnecdn.net/i/v4';
+    var api_upload         	= 'http://photo.upload.vnexpress.net/attachment';
+	var api_upload_url      = 'http://c0.attachment.vnecdn.net';
+    var site_id             =  1002764;
+    var SITE_ID             =  1002764;
+	var PAGE_FOLDER         =1002764;
+    var PAGE_DETAIL         = 0;
+	var PageHot             = 0;
+    var device_env          = 4;
+	var page_name           = 'home';
+	var SHOW_TOTAL_COMMENT = 1;
+	document.domain = 'vnexpress.net';
+		
+</script>
+<!-- GA TRACKING -->
+<script type="text/javascript">
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-249346-20', 'auto', {'name': 't0'});  
+  ga('create', 'UA-249346-42', 'auto', {'name': 't1'});//vne    
+</script>
+	<!-- Start FOSP Web Analytics Tracker -->
+	<script type="text/javascript">
+		ga('t0.send', 'pageview');
+		ga('t1.send', 'pageview'); 
+		var _siteId="8";
+		(function(){
+		var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";
+		var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+	</script>
+	<!-- End FOSP Web Analytics Code -->
+	  
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N3FNJF');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PD4X6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5PD4X6');</script>
+<!-- End Google Tag Manager -->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "19747654" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=19747654&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link rel="stylesheet" href="http://st.f3.ione.vnecdn.net/c/v17/general.css" media="all" />
+<link rel="stylesheet" href="http://st.f3.ione.vnecdn.net/c/v17/event_nokia.css" media="all" />
+<link rel="stylesheet" href="http://stmy.vnexpress.net/myvne/c/v3/my_index.css"  media="all"/>
+<link rel="stylesheet" href="http://stmy.vnexpress.net/myvne/c/v3/lib/jquery.fancybox.css"  media="all"/>
+<script language="javascript" type="text/javascript" src="http://st.core.polyad.net/ShowAds.js"></script>
+<script type="text/javascript" src="http://s.eclick.vn/delivery/asset/adsbyeclick.js"></script>
+<script language="javascript" type="text/javascript" src="http://st.f2.ione.vnecdn.net/j/v24/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/utils/utils.js"></script>
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/interactions/parser_v3.js"></script>
+<script language="javascript" type="text/javascript" src="http://s.eclick.vn/delivery/eclick.js" async></script>
+</head>
+<body>
+	<div id="myvne_taskbar"></div>
+	 <!--Check is switch-->
+    	<div id="box_col_left" class="block_more_info">
+	  <div class="box_width_common">
+	    <div class="btn_control_col_left"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_left_panel.gif" alt="" /></div>
+	    <div class="block_scoll_menu">
+	      <div class="block_search">
+	      	<form id="search" target="_blank" method="get" action="http://ione.vnexpress.net/search">
+	        <input type="text" onblur="if (this.value == ''); this.value = this.defaultValue;" onfocus="if (this.value == this.defaultValue); this.value = '';" value="Tìm kiếm" class="input_search" maxlength="80" name="q">
+	        <input type="submit" class="icon_menu_phone btn_search" value="">
+	        </form>
+	        <div class="clear">&nbsp;</div>
+	      </div>
+	      	      <ul class="list_item_panel">
+	        <li class="active"><a href="http://ione.vnexpress.net"><span class="icon_menu_phone ico_menu_01">&nbsp;</span>Trang chủ</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/sao" ><span class="icon_menu_phone ico_menu_03">&nbsp;</span>Sao</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/phim" class=""><span class="icon_menu_phone ico_menu_02">&nbsp;</span>Phim</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/thoi-trang" ><span class="icon_menu_phone ico_menu_05">&nbsp;</span>Thời trang</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/lam-dep"><span class="icon_menu_phone ico_menu_04">&nbsp;</span>Làm đẹp</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/nhip-song" class=""><span class="icon_menu_phone ico_menu_02">&nbsp;</span>Nhịp sống</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh"><span class="icon_menu_phone ico_menu_06">&nbsp;</span>Chiêm tinh</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/vui-doc"><span class="icon_menu_phone ico_menu_10">&nbsp;</span>Vui độc</a></li>
+			<li ><a href="http://ione.vnexpress.net/tin-tuc/gioi-tinh"><span class="icon_menu_phone ico_menu_07">&nbsp;</span>Giới tính +</a></li>
+			<li ><a href="http://ione.vnexpress.net/video"><span class="icon_menu_phone ico_menu_13">&nbsp;</span>Video</a></li>
+	        <li ><a href="http://ione.vnexpress.net/tin-tuc/qua-tang"><span class="icon_menu_phone ico_menu_12">&nbsp;</span>Quà tặng</a></li>
+	        <li><a href="http://ione.vnexpress.net/contactus/" class="bg_666"><span class="icon_menu_phone ico_menu_15">&nbsp;</span>Liên hệ tòa soạn</a></li>
+	        <li class="end"><a href="http://vnexpress.net/contact.htm"  class="bg_666"><span class="icon_menu_phone ico_menu_16">&nbsp;</span>Thông tin tòa soạn</a></li>
+	      </ul>
+	      <div class="coppy_right_left width_common">
+	        <div class="txt_coppy_right">
+	          <p>© Copyright 2010 iOne.vnexpress.net, All rights reserved</p>
+	          <p>® VnExpress giữ bản quyền nội dung trên website này.</p>
+	        </div>
+	        <div class="txt_lienhe"> Hotline:<br>
+	          <a href="tel:012388801238">0123.888.0123 (Hà Nội)</a> <br>
+	          <a href="tel:01292333555">0129.233.3555 (TP HCM) </a></div>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="clear"></div>
+	</div>
+	<div style="background: none repeat scroll 0% 0% rgb(0, 0, 0); display: block;" id="slideshow_popup"></div>
+	<div id="page">
+		<div id="wrapper_header">
+	<div id="header">
+	  <div class="width_common">
+		<div class="logovne"> 
+			<a href="http://ione.vnexpress.net">
+				<img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_logo_ione_mobile.gif" alt="ione logo" class="img_logo" />
+				<!--<img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/ione_logo2017_web_mobile1.jpg" alt="ione logo" class="img_logo" style="margin:4px 0 7px 40px;" />-->
+			</a>
+		  <div class="right ipad_header">
+			<div class="web">
+			 
+			</div>			
+		  </div>
+		</div>
+		<div class="clear">&nbsp;</div>
+	  </div>
+	  <div class="clear">&nbsp;</div>
+	</div>
+</div>
+<div id="header_web" class="width_common">
+	<div id="header_main">
+	  <div class="header_logo width_common">
+		<a href="http://ione.vnexpress.net">			
+			<img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_logo_ione_web.gif" alt="ione logo"  class="left logo_web"/>
+			<!--<img style="margin-top:10px;" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/ione_logo2017_web.jpg" alt="ione logo" class="img_logo" />-->
+		</a>
+		<div class="banner_728x90 right">	
+			<script type="text/javascript">Poly_Top();</script>	
+			
+		</div>
+	  </div>
+	  <ul id="menu_web" class="width_common">
+		<li><a  onclick="ga('t0.send', 'Menu', 'Clk_Item_0', 'ione');" href="http://ione.vnexpress.net"><img class="logo_icon_home" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif"></a></li>
+						<li ><a href="http://ione.vnexpress.net/tin-tuc/sao" onclick="ga('t0.send', 'Menu','Clk_Item_1', 'ione');" class="mnu_showbiz">Sao</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/phim" onclick="ga('t0.send', 'Menu','Clk_Item_2', 'ione');" class="mnu_nhipsong">Phim</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/thoi-trang" onclick="ga('t0.send', 'Menu','Clk_Item_3', 'ione');" class="mnu_thoitrang">Thời trang</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/lam-dep" onclick="ga('t0.send', 'Menu','Clk_Item_4', 'ione');" class="mnu_nhipsong">Làm đẹp</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/nhip-song" onclick="ga('t0.send', 'Menu','Clk_Item_6', 'ione');" class="mnu_nhipsong">Nhịp sống</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh" onclick="ga('t0.send', 'Menu','Clk_Item_7', 'ione');" class="mnu_chiemtinh">Chiêm tinh</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/vui-doc" onclick="ga('t0.send', 'Menu','Clk_Item_8', 'ione');" class="mnu_vuidoc">Vui độc</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/gioi-tinh" onclick="ga('t0.send', 'Menu','Clk_Item_9', 'ione');" class="mnu_gioitinh">Giới tính +</a></li>
+							<li ><a href="http://ione.vnexpress.net/video" onclick="ga('t0.send', 'Menu','Clk_Item_10', 'ione');" class="mnu_video">Video</a></li>
+							<li ><a href="http://ione.vnexpress.net/tin-tuc/qua-tang" onclick="ga('t0.send', 'Menu','Clk_Item_11', 'ione');" class="mnu_quatang">Quà tặng</a></li>
+				
+	  </ul>
+	  <div class="mid_header width_common">		
+	    		<div class="left"> 
+			<a href="javascript:void(0)" class="txt_sethome" id="lbox_datlamtranchu">Đặt làm trang chủ</a> <span class="txt_999 left drash"> | </span>
+		    <div class="txt_timer" id="clockDiv"></div>
+		   <span class="txt_999 left drash"> | </span> <a href="http://ione.vnexpress.net/rss" class="img_rss left"><img src="http://st.f3.ione.vnecdn.net/c/v17/images/graphics/img_rss_2.gif" alt="" /></a> 
+		</div>
+				
+		<div class="block_breakumb_left">
+          <div class="list_arrow_breakumb">
+			          </div>
+        </div>	
+				<div id="textsearch" class="right">			
+			<form action="/search?" id="formsearch" name="formsearch">
+				<div class="block_search_web left">
+					<input type="text" name="q" value="Tìm kiếm" onblur="if(this.value=='') this.value=this.defaultValue" onfocus="if(this.value==this.defaultValue) this.value=''" class="txt_input">
+					<input type="submit" value="" name="" class="icon_seach_web1">
+				</div>
+			</form>
+		</div>
+				<div class="right" id="iconfb" style="margin:0 5px 0 5px;">
+			<!--<div class="fb-like" data-href="https://www.facebook.com/ione.net" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div>-->
+		 </div>
+	  </div>
+	  <div class="clear">&nbsp;</div>
+	</div>
+</div>
+		<div id="wrapper_container">
+			<div id="container">
+				<div class="width_common" id="homepage" >
+								 <div class="width_common line_col">
+	<div id="col_660" class="left">
+		<div id="box_news_top" class="width_common box_category">
+		  	
+		  <div class="box_hot_news" id="box_hot_news">
+			<div class="block_news_big"> 
+				<a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/tro-thanh-nguoi-lich-su-khong-kho-neu-ban-thuoc-long-may-quy-tac-sau-3556996.html" class="txt_link" title="Trở thành người lịch sự không khó, nếu bạn thuộc lòng mấy quy tắc sau" alt="Trở thành người lịch sự không khó, nếu bạn thuộc lòng mấy quy tắc sau"><img src="http://img.f20.ione.vnecdn.net/2017/03/17/7-loi-sai-ve-ung-xu-ma-chung-t-7048-8341-1489745523_490x294.jpg" class="width_image_common" alt="Trở thành người lịch sự không khó, nếu bạn thuộc lòng mấy quy tắc sau"> </a>
+							</div>
+			<div class="block_bg_hot_news">
+			  <h1 class="title_news">
+				<a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/tro-thanh-nguoi-lich-su-khong-kho-neu-ban-thuoc-long-may-quy-tac-sau-3556996.html" class="txt_link" title="Trở thành người lịch sự không khó, nếu bạn thuộc lòng mấy quy tắc sau" alt="Trở thành người lịch sự không khó, nếu bạn thuộc lòng mấy quy tắc sau">
+					Trở thành người lịch sự không khó, nếu bạn thuộc lòng mấy quy tắc sau					<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+				</a>
+				<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/tro-thanh-nguoi-lich-su-khong-kho-neu-ban-thuoc-long-may-quy-tac-sau-3556996.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556996"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>			  </h1>
+			  <div class="news_lead"> Bạn nữ đừng bắt người yêu xách túi cho mình, còn bạn nam đừng mải mê điện thoại khi đang hẹn hò nhé.</div>
+			</div>
+		  </div>
+		  		  <div class="box_sub_hot_news" id="box_sub_hot_news">
+			<ul>
+								  <li>
+				    					<div class="thumb"> <a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia-3557085.html" title="Đặng Thu Thảo bức xúc vì bị nói 'bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia'" alt="Đặng Thu Thảo bức xúc vì bị nói 'bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia'"><img src="http://img.f23.ngoisao.vnecdn.net/2017/03/18/top1-1489771602_180x108.jpg" alt="Đặng Thu Thảo bức xúc vì bị nói 'bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia'"></a> </div>
+										<h3 class="title_news">
+						<a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia-3557085.html" class="txt_link">
+							Đặng Thu Thảo bức xúc vì bị nói 'bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia'							<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+						</a>
+						<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/sao/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia-3557085.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3557085"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>					</h3>
+				  </li>
+								  <li>
+				    					<div class="thumb"> <a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/quiz-sanh-dieu-doan-tui-hang-hieu-3556949.html" title="Quiz: Sành điệu đoán túi hàng hiệu" alt="Quiz: Sành điệu đoán túi hàng hiệu"><img src="http://img.f18.ione.vnecdn.net/2017/03/17/Untitled5-1489741303-3276-1489741313_180x108.jpg" alt="Quiz: Sành điệu đoán túi hàng hiệu"></a> </div>
+										<h3 class="title_news">
+						<a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/quiz-sanh-dieu-doan-tui-hang-hieu-3556949.html" class="txt_link">
+							Quiz: Sành điệu đoán túi hàng hiệu							<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+						</a>
+						<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/quiz-sanh-dieu-doan-tui-hang-hieu-3556949.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556949"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>					</h3>
+				  </li>
+								  <li>
+				    					<div class="thumb"> <a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/co-ban-14-tuoi-khong-tay-choi-dan-dieu-luyen-bang-chan-3557026.html" title="Cô bạn 14 tuổi không tay, chơi đàn điêu luyện bằng chân" alt="Cô bạn 14 tuổi không tay, chơi đàn điêu luyện bằng chân"><img src="http://img.f20.ione.vnecdn.net/2017/03/17/20170317180629-1489750801_180x108.jpg" alt="Cô bạn 14 tuổi không tay, chơi đàn điêu luyện bằng chân"></a> </div>
+										<h3 class="title_news">
+						<a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/co-ban-14-tuoi-khong-tay-choi-dan-dieu-luyen-bang-chan-3557026.html" class="txt_link">
+							Cô bạn 14 tuổi không tay, chơi đàn điêu luyện bằng chân							<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+						</a>
+						<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/co-ban-14-tuoi-khong-tay-choi-dan-dieu-luyen-bang-chan-3557026.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3557026"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>					</h3>
+				  </li>
+								  <li>
+				    					<div class="thumb"> <a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/nguoi-cha-ngheo-lang-le-nhin-2-con-gai-an-ga-ran-3556700.html" title="Người cha nghèo lặng lẽ nhìn 2 con gái ăn gà rán" alt="Người cha nghèo lặng lẽ nhìn 2 con gái ăn gà rán"><img src="http://img.f20.ione.vnecdn.net/2017/03/17/1-8793-1489719384_180x108.jpg" alt="Người cha nghèo lặng lẽ nhìn 2 con gái ăn gà rán"></a> </div>
+										<h3 class="title_news">
+						<a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/nguoi-cha-ngheo-lang-le-nhin-2-con-gai-an-ga-ran-3556700.html" class="txt_link">
+							Người cha nghèo lặng lẽ nhìn 2 con gái ăn gà rán							<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+						</a>
+						<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/nguoi-cha-ngheo-lang-le-nhin-2-con-gai-an-ga-ran-3556700.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556700"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>					</h3>
+				  </li>
+								  <li>
+				    					<div class="thumb"> <a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/daily/tu-vi-thu-bay-18-3-3556313.html" title="Tử vi thứ Bảy 18/3" alt="Tử vi thứ Bảy 18/3"><img src="http://img.f20.ione.vnecdn.net/2017/03/17/8NatureWallpapers-1489724207-6288-1489727973_180x108.jpg" alt="Tử vi thứ Bảy 18/3"></a> </div>
+										<h3 class="title_news">
+						<a onClick="ga('t0.send', 'TopStory', 'Clk_TopStory_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/daily/tu-vi-thu-bay-18-3-3556313.html" class="txt_link">
+							Tử vi thứ Bảy 18/3							<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+						</a>
+						<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/daily/tu-vi-thu-bay-18-3-3556313.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556313"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>					</h3>
+				  </li>
+							 								
+			</ul>			
+		  </div>
+		</div>
+		 ﻿<div class="row_item">
+  <div class="box_category width_common block_6tin" id="box_showbiz">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"> <a onclick="ga('t0.send', 'box_showbiz', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao"><span class="color_tim">S</span>ao</a></div>
+	  <div class="block_category_child">
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Sub_Title_Box_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam">Việt Nam</a>
+						<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Sub_Title_Box_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a">Châu Á</a>
+						<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Sub_Title_Box_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/us-uk">US-UK</a>
+				  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	 	
+	  <div class="list_3image_inrow">
+		<ul class="list_news_image">
+						   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/sao-han-17-3-tae-yeon-tao-dang-sang-chanh-seol-hyun-khoe-dui-mat-ong-3556802.html" title="Sao Hàn 17/3: Tae Yeon tạo dáng sang chảnh, Seol Hyun khoe đùi mật ong" alt="Sao Hàn 17/3: Tae Yeon tạo dáng sang chảnh, Seol Hyun khoe đùi mật ong">
+											<img title="Sao Hàn 17/3: Tae Yeon tạo dáng sang chảnh, Seol Hyun khoe đùi mật ong" alt="Sao Hàn 17/3: Tae Yeon tạo dáng sang chảnh, Seol Hyun khoe đùi mật ong" src="http://img.f20.ione.vnecdn.net/2017/03/17/t-1489738404_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/sao-han-17-3-tae-yeon-tao-dang-sang-chanh-seol-hyun-khoe-dui-mat-ong-3556802.html" class="txt_link" title="Sao Hàn 17/3: Tae Yeon tạo dáng sang chảnh, Seol Hyun khoe đùi mật ong" alt="Sao Hàn 17/3: Tae Yeon tạo dáng sang chảnh, Seol Hyun khoe đùi mật ong">
+						Sao Hàn 17/3: Tae Yeon tạo dáng sang chảnh, Seol Hyun khoe đùi mật ong						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/sao-han-17-3-tae-yeon-tao-dang-sang-chanh-seol-hyun-khoe-dui-mat-ong-3556802.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556802"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Trưởng nhóm SNSD phối quần jeans rách gấu và giày cao gót 'khủng' sành điệu.</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/3-buc-anh-cua-sao-han-khien-ban-dau-dau-khi-nhin-3556910.html" title="3 bức ảnh của sao Hàn khiến bạn 'đau đầu' khi nhìn" alt="3 bức ảnh của sao Hàn khiến bạn 'đau đầu' khi nhìn">
+											<img title="3 bức ảnh của sao Hàn khiến bạn 'đau đầu' khi nhìn" alt="3 bức ảnh của sao Hàn khiến bạn 'đau đầu' khi nhìn" src="http://img.f18.ione.vnecdn.net/2017/03/17/20170316232156dd-1489740670-7106-1489740815_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/3-buc-anh-cua-sao-han-khien-ban-dau-dau-khi-nhin-3556910.html" class="txt_link" title="3 bức ảnh của sao Hàn khiến bạn 'đau đầu' khi nhìn" alt="3 bức ảnh của sao Hàn khiến bạn 'đau đầu' khi nhìn">
+						3 bức ảnh của sao Hàn khiến bạn 'đau đầu' khi nhìn						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/3-buc-anh-cua-sao-han-khien-ban-dau-dau-khi-nhin-3556910.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556910"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Bạn sẽ không thể hiểu được sao Chan Yeol có 3 cánh tay hay người chụp ảnh cùng Kim So...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/2-sao-trung-e-ben-vung-luon-bi-neu-ten-moi-khi-co-dam-cuoi-3556943.html" title="2 sao Trung 'ế bền vững' luôn bị nêu tên mỗi khi có đám cưới" alt="2 sao Trung 'ế bền vững' luôn bị nêu tên mỗi khi có đám cưới">
+											<img title="2 sao Trung 'ế bền vững' luôn bị nêu tên mỗi khi có đám cưới" alt="2 sao Trung 'ế bền vững' luôn bị nêu tên mỗi khi có đám cưới" src="http://img.f19.ione.vnecdn.net/2017/03/17/HoCa-1489747379_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/2-sao-trung-e-ben-vung-luon-bi-neu-ten-moi-khi-co-dam-cuoi-3556943.html" class="txt_link" title="2 sao Trung 'ế bền vững' luôn bị nêu tên mỗi khi có đám cưới" alt="2 sao Trung 'ế bền vững' luôn bị nêu tên mỗi khi có đám cưới">
+						2 sao Trung 'ế bền vững' luôn bị nêu tên mỗi khi có đám cưới						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/2-sao-trung-e-ben-vung-luon-bi-neu-ten-moi-khi-co-dam-cuoi-3556943.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556943"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Hồ Ca và Trần Kiều Ân từng nhiều lần khổ sở vì bị điểm danh mỗi khi làng giải trí...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam/sao-viet-17-3-chi-pu-noi-bat-ben-a-hau-han-khoi-my-dap-tra-khi-bi-che-chan-map-3556815.html" title="Sao Việt 17/3: Chi Pu nổi bật bên Á hậu Hàn, Khởi My đáp trả khi bị chê 'chân mập'" alt="Sao Việt 17/3: Chi Pu nổi bật bên Á hậu Hàn, Khởi My đáp trả khi bị chê 'chân mập'">
+											<img title="Sao Việt 17/3: Chi Pu nổi bật bên Á hậu Hàn, Khởi My đáp trả khi bị chê 'chân mập'" alt="Sao Việt 17/3: Chi Pu nổi bật bên Á hậu Hàn, Khởi My đáp trả khi bị chê 'chân mập'" src="http://img.f20.ione.vnecdn.net/2017/03/17/top-1489726614-2783-1489727283_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam/sao-viet-17-3-chi-pu-noi-bat-ben-a-hau-han-khoi-my-dap-tra-khi-bi-che-chan-map-3556815.html" class="txt_link" title="Sao Việt 17/3: Chi Pu nổi bật bên Á hậu Hàn, Khởi My đáp trả khi bị chê 'chân mập'" alt="Sao Việt 17/3: Chi Pu nổi bật bên Á hậu Hàn, Khởi My đáp trả khi bị chê 'chân mập'">
+						Sao Việt 17/3: Chi Pu nổi bật bên Á hậu Hàn, Khởi My đáp trả khi bị chê 'chân mập'						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam/sao-viet-17-3-chi-pu-noi-bat-ben-a-hau-han-khoi-my-dap-tra-khi-bi-che-chan-map-3556815.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556815"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Chi Pu khoe thần thái cuốn hút khi chụp hình thời trang với Á hậu Hàn; Khởi My hài hước...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/thu-nhap-beo-bot-bi-chia-5-xe-7-cua-sao-han-3556442.html" title="Thu nhập bèo bọt, bị 'chia 5 xẻ 7' của sao Hàn" alt="Thu nhập bèo bọt, bị 'chia 5 xẻ 7' của sao Hàn">
+											<img title="Thu nhập bèo bọt, bị 'chia 5 xẻ 7' của sao Hàn" alt="Thu nhập bèo bọt, bị 'chia 5 xẻ 7' của sao Hàn" src="http://img.f18.ione.vnecdn.net/2017/03/16/2b81bed0db4eaad942a476a87ff219-7095-5389-1489661395_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/thu-nhap-beo-bot-bi-chia-5-xe-7-cua-sao-han-3556442.html" class="txt_link" title="Thu nhập bèo bọt, bị 'chia 5 xẻ 7' của sao Hàn" alt="Thu nhập bèo bọt, bị 'chia 5 xẻ 7' của sao Hàn">
+						Thu nhập bèo bọt, bị 'chia 5 xẻ 7' của sao Hàn						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/thu-nhap-beo-bot-bi-chia-5-xe-7-cua-sao-han-3556442.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556442"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Không phải bất cứ thần tượng nào cũng kiếm bội tiền, họ phải chia phần lớn thu nhập cho công...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam/yanbi-tai-xuat-sau-3-nam-ngap-ngua-trong-scandal-3556739.html" title="Yanbi tái xuất sau 3 năm 'ngập ngụa' trong scandal" alt="Yanbi tái xuất sau 3 năm 'ngập ngụa' trong scandal">
+											<img title="Yanbi tái xuất sau 3 năm 'ngập ngụa' trong scandal" alt="Yanbi tái xuất sau 3 năm 'ngập ngụa' trong scandal" src="http://img.f17.ione.vnecdn.net/2017/03/17/Sequence0100044718Still026-1489742898_300x180.png">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_showbiz', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam/yanbi-tai-xuat-sau-3-nam-ngap-ngua-trong-scandal-3556739.html" class="txt_link" title="Yanbi tái xuất sau 3 năm 'ngập ngụa' trong scandal" alt="Yanbi tái xuất sau 3 năm 'ngập ngụa' trong scandal">
+						Yanbi tái xuất sau 3 năm 'ngập ngụa' trong scandal						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam/yanbi-tai-xuat-sau-3-nam-ngap-ngua-trong-scandal-3556739.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556739"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Nam ca sĩ thấy trưởng thành hơn sau những ồn ào và mong được đón nhận trong lần trở lại.</div>
+				 				
+			  </li>
+			  			 
+		</ul>
+	  </div>
+	  	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common block_6tin" id="box_phim">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"> <a onclick="ga('t0.send', 'box_phim', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim"><span class="color_tim">P</span>him</a></div>
+	  <div class="block_category_child">
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Sub_Title_Box_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/chau-a">Châu Á</a>
+						<a onclick="ga('t0.send', 'box_phim', 'Clk_Sub_Title_Box_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk">US-UK</a>
+						<a onclick="ga('t0.send', 'box_phim', 'Clk_Sub_Title_Box_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/vietnam">Việt Nam</a>
+				  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	 	
+	  <div class="list_3image_inrow">
+		<ul class="list_news_image">
+						   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/motif-nguoi-dep-va-quai-vat-chung-minh-ngoai-hinh-khong-xung-dung-mo-thanh-doi-3556973.html" title="Motif 'Người đẹp và Quái vật' chứng minh ngoại hình không xứng đừng mơ thành đôi" alt="Motif 'Người đẹp và Quái vật' chứng minh ngoại hình không xứng đừng mơ thành đôi">
+											<img title="Motif 'Người đẹp và Quái vật' chứng minh ngoại hình không xứng đừng mơ thành đôi" alt="Motif 'Người đẹp và Quái vật' chứng minh ngoại hình không xứng đừng mơ thành đôi" src="http://img.f20.ione.vnecdn.net/2017/03/17/0-1489742833-9166-1489742938_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/motif-nguoi-dep-va-quai-vat-chung-minh-ngoai-hinh-khong-xung-dung-mo-thanh-doi-3556973.html" class="txt_link" title="Motif 'Người đẹp và Quái vật' chứng minh ngoại hình không xứng đừng mơ thành đôi" alt="Motif 'Người đẹp và Quái vật' chứng minh ngoại hình không xứng đừng mơ thành đôi">
+						Motif 'Người đẹp và Quái vật' chứng minh ngoại hình không xứng đừng mơ thành đôi						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/motif-nguoi-dep-va-quai-vat-chung-minh-ngoai-hinh-khong-xung-dung-mo-thanh-doi-3556973.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556973"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Những mối tình giữa mỹ nhân và kẻ xấu xí trên màn ảnh luôn có kết cục bi thảm, trừ...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nhung-bo-phim-ten-dai-ca-met-thach-thuc-tri-nho-khan-gia-3556834.html" title="Những bộ phim tên dài 'cả mét' thách thức trí nhớ khán giả" alt="Những bộ phim tên dài 'cả mét' thách thức trí nhớ khán giả">
+											<img title="Những bộ phim tên dài 'cả mét' thách thức trí nhớ khán giả" alt="Những bộ phim tên dài 'cả mét' thách thức trí nhớ khán giả" src="http://img.f19.ione.vnecdn.net/2017/03/17/0-1489733303-9653-1489733387_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nhung-bo-phim-ten-dai-ca-met-thach-thuc-tri-nho-khan-gia-3556834.html" class="txt_link" title="Những bộ phim tên dài 'cả mét' thách thức trí nhớ khán giả" alt="Những bộ phim tên dài 'cả mét' thách thức trí nhớ khán giả">
+						Những bộ phim tên dài 'cả mét' thách thức trí nhớ khán giả						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nhung-bo-phim-ten-dai-ca-met-thach-thuc-tri-nho-khan-gia-3556834.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556834"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Không chỉ dài ngoằng, những tựa đề phim này còn gây 'hoang mang' vì nội dung khá kỳ cục hoặc...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nguoi-dep-va-quai-vat-bi-cam-nhieu-noi-vi-canh-dong-tinh-3-giay-3556421.html" title="'Người đẹp và Quái vật' bị cấm nhiều nơi vì cảnh đồng tính 3 giây" alt="'Người đẹp và Quái vật' bị cấm nhiều nơi vì cảnh đồng tính 3 giây">
+											<img title="'Người đẹp và Quái vật' bị cấm nhiều nơi vì cảnh đồng tính 3 giây" alt="'Người đẹp và Quái vật' bị cấm nhiều nơi vì cảnh đồng tính 3 giây" src="http://img.f18.ione.vnecdn.net/2017/03/16/1-1489656229-2241-1489656461_300x180.png">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nguoi-dep-va-quai-vat-bi-cam-nhieu-noi-vi-canh-dong-tinh-3-giay-3556421.html" class="txt_link" title="'Người đẹp và Quái vật' bị cấm nhiều nơi vì cảnh đồng tính 3 giây" alt="'Người đẹp và Quái vật' bị cấm nhiều nơi vì cảnh đồng tính 3 giây">
+						'Người đẹp và Quái vật' bị cấm nhiều nơi vì cảnh đồng tính 3 giây						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nguoi-dep-va-quai-vat-bi-cam-nhieu-noi-vi-canh-dong-tinh-3-giay-3556421.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556421"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Vì từ chối cắt sửa cảnh đồng tính ra khỏi phim, Disney đã không được cấp phép phát hành 'Người...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/tieu-quai-da-vang-minions-tro-lai-an-hai-gap-doi-voi-ong-chu-moi-3556362.html" title="'Tiểu quái da vàng' Minions trở lại 'ăn hại gấp đôi' với ông chủ mới" alt="'Tiểu quái da vàng' Minions trở lại 'ăn hại gấp đôi' với ông chủ mới">
+											<img title="'Tiểu quái da vàng' Minions trở lại 'ăn hại gấp đôi' với ông chủ mới" alt="'Tiểu quái da vàng' Minions trở lại 'ăn hại gấp đôi' với ông chủ mới" src="http://img.f20.ione.vnecdn.net/2017/03/16/2458MINIONSASDJSBONUS01R-14896-4523-9653-1489652776_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/tieu-quai-da-vang-minions-tro-lai-an-hai-gap-doi-voi-ong-chu-moi-3556362.html" class="txt_link" title="'Tiểu quái da vàng' Minions trở lại 'ăn hại gấp đôi' với ông chủ mới" alt="'Tiểu quái da vàng' Minions trở lại 'ăn hại gấp đôi' với ông chủ mới">
+						'Tiểu quái da vàng' Minions trở lại 'ăn hại gấp đôi' với ông chủ mới						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/tieu-quai-da-vang-minions-tro-lai-an-hai-gap-doi-voi-ong-chu-moi-3556362.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556362"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Phần 3 loạt phim hoạt hình 'Kẻ cắp mặt trăng' giới thiệu một nhân vật mới là anh em song...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/ly-do-phim-sieu-anh-hung-ngay-cang-u-toi-va-chuong-rating-18-3556283.html" title="Lý do phim siêu anh hùng ngày càng u tối và chuộng rating 18+" alt="Lý do phim siêu anh hùng ngày càng u tối và chuộng rating 18+">
+											<img title="Lý do phim siêu anh hùng ngày càng u tối và chuộng rating 18+" alt="Lý do phim siêu anh hùng ngày càng u tối và chuộng rating 18+" src="http://img.f19.ione.vnecdn.net/2017/03/16/1-1489647766-5680-1489647839_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/ly-do-phim-sieu-anh-hung-ngay-cang-u-toi-va-chuong-rating-18-3556283.html" class="txt_link" title="Lý do phim siêu anh hùng ngày càng u tối và chuộng rating 18+" alt="Lý do phim siêu anh hùng ngày càng u tối và chuộng rating 18+">
+						Lý do phim siêu anh hùng ngày càng u tối và chuộng rating 18+						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/ly-do-phim-sieu-anh-hung-ngay-cang-u-toi-va-chuong-rating-18-3556283.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556283"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Thành công vang dội của 'Deadpool' đã mở ra một trào lưu mới cho Hollywood - phim siêu anh hùng...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nhung-chi-tiet-chi-nguoi-lon-moi-nhan-ra-trong-nguoi-dep-va-quai-vat-3556145.html" title="Những chi tiết chỉ người lớn mới nhận ra trong 'Người đẹp và Quái vật'" alt="Những chi tiết chỉ người lớn mới nhận ra trong 'Người đẹp và Quái vật'">
+											<img title="Những chi tiết chỉ người lớn mới nhận ra trong 'Người đẹp và Quái vật'" alt="Những chi tiết chỉ người lớn mới nhận ra trong 'Người đẹp và Quái vật'" src="http://img.f19.ione.vnecdn.net/2017/03/16/4-1489634554-1997-1489634678_300x180.png">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_phim', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nhung-chi-tiet-chi-nguoi-lon-moi-nhan-ra-trong-nguoi-dep-va-quai-vat-3556145.html" class="txt_link" title="Những chi tiết chỉ người lớn mới nhận ra trong 'Người đẹp và Quái vật'" alt="Những chi tiết chỉ người lớn mới nhận ra trong 'Người đẹp và Quái vật'">
+						Những chi tiết chỉ người lớn mới nhận ra trong 'Người đẹp và Quái vật'						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/phim/us-uk/nhung-chi-tiet-chi-nguoi-lon-moi-nhan-ra-trong-nguoi-dep-va-quai-vat-3556145.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556145"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Disney đã có những thay đổi đáng kể trong việc đa dạng hóa màu da và giới tính trong những...</div>
+				 				
+			  </li>
+			  			 
+		</ul>
+	  </div>
+	  	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common" id="box_thoitrang">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"><a onclick="ga('t0.send', 'box_thoitrang', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang"><span class="color_tim">T</span>hời trang</a></div>
+	  <div class="block_category_child">
+				<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Sub_Title_Box_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/mot">Mốt</a>
+				<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Sub_Title_Box_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/kstyle">Kstyle</a>
+				<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Sub_Title_Box_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/phong-cach-sao">Phong cách sao</a>
+			  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	  <div class="block_color width_common">
+		 		<div class="block_news_50left">
+		  <div class="news_thoitrang">
+			<div class="block_relative">
+			  	
+			  <div class="thumb"> 
+				<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/4-chan-dai-tiem-nang-cua-vietnam-s-next-top-model-2017-3556888.html" title="4 chân dài tiềm năng của Vietnam's Next Top Model 2017" alt="4 chân dài tiềm năng của Vietnam's Next Top Model 2017">
+										<img src="http://img.f17.ione.vnecdn.net/2017/03/17/thisinhvietnamnexttopmodel1-14-4191-8433-1489737570_216x324.jpg" title="4 chân dài tiềm năng của Vietnam's Next Top Model 2017" alt="4 chân dài tiềm năng của Vietnam's Next Top Model 2017" />
+									</a> 
+							  </div>
+			  <a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/4-chan-dai-tiem-nang-cua-vietnam-s-next-top-model-2017-3556888.html" class="txt_title_absolute" title="4 chân dài tiềm năng của Vietnam's Next Top Model 2017" alt="4 chân dài tiềm năng của Vietnam's Next Top Model 2017">
+				4 chân dài tiềm năng của Vietnam's Next Top Model 2017				<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+			  </a> 	
+			  <a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/4-chan-dai-tiem-nang-cua-vietnam-s-next-top-model-2017-3556888.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556888"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>			</div>
+			<div class="clear">&nbsp;</div>
+		  </div>
+		</div>
+						<div class="block_news_50right">
+		  <div class="block_news_image">
+			<ul>
+			   			  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/mot/mot-giay-trong-veo-de-o-vang-boc-mui-van-duoc-cac-co-gai-thich-me-3556755.html" title="Mốt giày trong veo dễ ố vàng, 'bốc mùi' vẫn được các cô gái thích mê" alt="Mốt giày trong veo dễ ố vàng, 'bốc mùi' vẫn được các cô gái thích mê">
+												<img src="http://img.f18.ione.vnecdn.net/2017/03/17/top-1489722040-8099-1489722571_180x108.jpg" title="Mốt giày trong veo dễ ố vàng, 'bốc mùi' vẫn được các cô gái thích mê" alt="Mốt giày trong veo dễ ố vàng, 'bốc mùi' vẫn được các cô gái thích mê">
+												
+					</a> 
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/mot/mot-giay-trong-veo-de-o-vang-boc-mui-van-duoc-cac-co-gai-thich-me-3556755.html" class="txt_link" title="Mốt giày trong veo dễ ố vàng, 'bốc mùi' vẫn được các cô gái thích mê" alt="Mốt giày trong veo dễ ố vàng, 'bốc mùi' vẫn được các cô gái thích mê">
+						Mốt giày trong veo dễ ố vàng, 'bốc mùi' vẫn được các cô gái thích mê						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/mot/mot-giay-trong-veo-de-o-vang-boc-mui-van-duoc-cac-co-gai-thich-me-3556755.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556755"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				  </div>				  
+				  				  <div class="news_lead">Giày nhựa trong xuyên thấu cả bàn chân là xu hướng đang được các cô gái hưởng ứng nhiệt tình...</div>
+				  				</div>
+			  </li>			  
+			  			  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/phong-cach-sao/khanh-my-choi-troi-di-giay-cao-got-danh-tennis-3556662.html" title="Khánh My 'chơi trội' đi giày cao gót đánh tennis" alt="Khánh My 'chơi trội' đi giày cao gót đánh tennis">
+												<img src="http://img.f20.ione.vnecdn.net/2017/03/17/IMG1132JPG-1489720269_180x108.jpg" title="Khánh My 'chơi trội' đi giày cao gót đánh tennis" alt="Khánh My 'chơi trội' đi giày cao gót đánh tennis">
+												
+					</a> 
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/phong-cach-sao/khanh-my-choi-troi-di-giay-cao-got-danh-tennis-3556662.html" class="txt_link" title="Khánh My 'chơi trội' đi giày cao gót đánh tennis" alt="Khánh My 'chơi trội' đi giày cao gót đánh tennis">
+						Khánh My 'chơi trội' đi giày cao gót đánh tennis						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/phong-cach-sao/khanh-my-choi-troi-di-giay-cao-got-danh-tennis-3556662.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556662"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				  </div>				  
+				  				  <div class="news_lead">Nữ diễn viên thực hiện bộ ảnh theo tinh thần phóng khoáng, truyền tải thông điệp về sự tự do...</div>
+				  				</div>
+			  </li>			  
+			  			  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/2-hot-girl-duoc-binh-chon-nhieu-nhat-the-face-giong-nhau-nhu-chi-em-3556681.html" title="2 hot girl được bình chọn nhiều nhất The Face giống nhau như chị em" alt="2 hot girl được bình chọn nhiều nhất The Face giống nhau như chị em">
+												<img src="http://img.f20.ione.vnecdn.net/2017/03/17/chaubuituhaotheface9-148971785-3574-9209-1489718319_180x108.jpg" title="2 hot girl được bình chọn nhiều nhất The Face giống nhau như chị em" alt="2 hot girl được bình chọn nhiều nhất The Face giống nhau như chị em">
+												
+					</a> 
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box_thoitrang', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/2-hot-girl-duoc-binh-chon-nhieu-nhat-the-face-giong-nhau-nhu-chi-em-3556681.html" class="txt_link" title="2 hot girl được bình chọn nhiều nhất The Face giống nhau như chị em" alt="2 hot girl được bình chọn nhiều nhất The Face giống nhau như chị em">
+						2 hot girl được bình chọn nhiều nhất The Face giống nhau như chị em						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/2-hot-girl-duoc-binh-chon-nhieu-nhat-the-face-giong-nhau-nhu-chi-em-3556681.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556681"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				  </div>				  
+				  				  <div class="news_lead">Cả Tú Hảo và Châu Bùi đều có đôi môi dày gợi cảm, vẻ đẹp cá tính và thường xuyên...</div>
+				  				</div>
+			  </li>			  
+			  			  
+			</ul>
+		  </div>
+		</div>
+			  </div>
+	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common" id="box_lamdep">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"><a onclick="ga('t0.send', 'box_lamdep', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep"><span class="color_tim">L</span>àm đẹp</a></div>
+	  <div class="block_category_child">
+				<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Sub_Title_Box_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup">Makeup</a>
+				<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Sub_Title_Box_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/toc">Tóc</a>
+				<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Sub_Title_Box_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/dang-dep">Dáng đẹp</a>
+			  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	  <div class="block_color width_common">
+		 		<div class="block_news_50left">
+		  <div class="news_thoitrang">
+			<div class="block_relative">
+			  	
+			  <div class="thumb"> 
+				<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/toc/my-nhan-viet-2-sac-thai-doi-lap-voi-toc-dai-va-toc-tomboy-3556467.html" title="Mỹ nhân Việt 2 'sắc thái' đối lập với tóc dài và tóc tomboy" alt="Mỹ nhân Việt 2 'sắc thái' đối lập với tóc dài và tóc tomboy">
+										<img src="http://img.f17.ione.vnecdn.net/2017/03/16/0-1489659365-6685-1489659411_216x324.jpg" title="Mỹ nhân Việt 2 'sắc thái' đối lập với tóc dài và tóc tomboy" alt="Mỹ nhân Việt 2 'sắc thái' đối lập với tóc dài và tóc tomboy" />
+									</a> 
+							  </div>
+			  <a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/toc/my-nhan-viet-2-sac-thai-doi-lap-voi-toc-dai-va-toc-tomboy-3556467.html" class="txt_title_absolute" title="Mỹ nhân Việt 2 'sắc thái' đối lập với tóc dài và tóc tomboy" alt="Mỹ nhân Việt 2 'sắc thái' đối lập với tóc dài và tóc tomboy">
+				Mỹ nhân Việt 2 'sắc thái' đối lập với tóc dài và tóc tomboy				<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+			  </a> 	
+			  <a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/lam-dep/toc/my-nhan-viet-2-sac-thai-doi-lap-voi-toc-dai-va-toc-tomboy-3556467.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556467"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>			</div>
+			<div class="clear">&nbsp;</div>
+		  </div>
+		</div>
+						<div class="block_news_50right">
+		  <div class="block_news_image">
+			<ul>
+			   			  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/6-ly-do-cac-sao-trang-diem-nhieu-ma-da-van-dep-3556397.html" title="6 lý do các sao trang điểm nhiều mà da vẫn đẹp" alt="6 lý do các sao trang điểm nhiều mà da vẫn đẹp">
+												<img src="http://img.f20.ione.vnecdn.net/2017/03/16/scrape14802952044912anhhautran-7363-5462-1489655266_180x108.jpg" title="6 lý do các sao trang điểm nhiều mà da vẫn đẹp" alt="6 lý do các sao trang điểm nhiều mà da vẫn đẹp">
+												
+					</a> 
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/6-ly-do-cac-sao-trang-diem-nhieu-ma-da-van-dep-3556397.html" class="txt_link" title="6 lý do các sao trang điểm nhiều mà da vẫn đẹp" alt="6 lý do các sao trang điểm nhiều mà da vẫn đẹp">
+						6 lý do các sao trang điểm nhiều mà da vẫn đẹp						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/lam-dep/6-ly-do-cac-sao-trang-diem-nhieu-ma-da-van-dep-3556397.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556397"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				  </div>				  
+				  				  <div class="news_lead">Tiếp xúc nhiều với son phấn, các người đẹp phải áp dụng nhiều công thức kỹ lưỡng trong việc làm...</div>
+				  				</div>
+			  </li>			  
+			  			  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup/khi-nang-nghiep-du-bat-chuoc-meo-trang-diem-tren-mang-3555318.html" title="Khi nàng 'nghiệp dư' bắt chước mẹo trang điểm trên mạng" alt="Khi nàng 'nghiệp dư' bắt chước mẹo trang điểm trên mạng">
+												<img src="http://img.f20.ione.vnecdn.net/2017/03/15/top-1489547239_180x108.jpg" title="Khi nàng 'nghiệp dư' bắt chước mẹo trang điểm trên mạng" alt="Khi nàng 'nghiệp dư' bắt chước mẹo trang điểm trên mạng">
+												
+					</a> 
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup/khi-nang-nghiep-du-bat-chuoc-meo-trang-diem-tren-mang-3555318.html" class="txt_link" title="Khi nàng 'nghiệp dư' bắt chước mẹo trang điểm trên mạng" alt="Khi nàng 'nghiệp dư' bắt chước mẹo trang điểm trên mạng">
+						Khi nàng 'nghiệp dư' bắt chước mẹo trang điểm trên mạng						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup/khi-nang-nghiep-du-bat-chuoc-meo-trang-diem-tren-mang-3555318.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3555318"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				  </div>				  
+				  				  <div class="news_lead">Các mẹo trang điểm vốn được cho là sinh ra để dành cho những cô nàng vụng về trong khoản...</div>
+				  				</div>
+			  </li>			  
+			  			  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup/3-hot-girl-make-up-han-quoc-hut-fan-chang-kem-sao-3547760.html" title="3 hot girl make-up Hàn Quốc hút fan chẳng kém sao" alt="3 hot girl make-up Hàn Quốc hút fan chẳng kém sao">
+												<img src="http://img.f20.ione.vnecdn.net/2017/03/09/yyh-1489078543_180x108.jpg" title="3 hot girl make-up Hàn Quốc hút fan chẳng kém sao" alt="3 hot girl make-up Hàn Quốc hút fan chẳng kém sao">
+												
+					</a> 
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box_lamdep', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup/3-hot-girl-make-up-han-quoc-hut-fan-chang-kem-sao-3547760.html" class="txt_link" title="3 hot girl make-up Hàn Quốc hút fan chẳng kém sao" alt="3 hot girl make-up Hàn Quốc hút fan chẳng kém sao">
+						3 hot girl make-up Hàn Quốc hút fan chẳng kém sao						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup/3-hot-girl-make-up-han-quoc-hut-fan-chang-kem-sao-3547760.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3547760"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				  </div>				  
+				  				  <div class="news_lead">Xinh đẹp và có tài trang điểm điệu nghệ, những cô gái này thu hút người hâm mộ chẳng kém...</div>
+				  				</div>
+			  </li>			  
+			  			  
+			</ul>
+		  </div>
+		</div>
+			  </div>
+	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common block_6tin" id="box_nhipsong">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"> <a onclick="ga('t0.send', 'box_nhipsong', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song"><span class="color_tim">N</span>hịp sống</a></div>
+	  <div class="block_category_child">
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Sub_Title_Box_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/guong-mat">Gương mặt</a>
+						<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Sub_Title_Box_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/tips">Tips</a>
+						<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Sub_Title_Box_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/teen-xinh">Teen xinh</a>
+						<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Sub_Title_Box_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/hitek">Hitek</a>
+				  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	 	
+	  <div class="list_3image_inrow">
+		<ul class="list_news_image">
+						   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/doi-phieu-bat-cua-chang-an-may-dep-trai-nhat-trung-quoc-3557015.html" title="Đời phiêu bạt của 'chàng ăn mày đẹp trai nhất Trung Quốc'" alt="Đời phiêu bạt của 'chàng ăn mày đẹp trai nhất Trung Quốc'">
+											<img title="Đời phiêu bạt của 'chàng ăn mày đẹp trai nhất Trung Quốc'" alt="Đời phiêu bạt của 'chàng ăn mày đẹp trai nhất Trung Quốc'" src="http://img.f20.ione.vnecdn.net/2017/03/17/t-1489746954-3644-1489746996_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/doi-phieu-bat-cua-chang-an-may-dep-trai-nhat-trung-quoc-3557015.html" class="txt_link" title="Đời phiêu bạt của 'chàng ăn mày đẹp trai nhất Trung Quốc'" alt="Đời phiêu bạt của 'chàng ăn mày đẹp trai nhất Trung Quốc'">
+						Đời phiêu bạt của 'chàng ăn mày đẹp trai nhất Trung Quốc'						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/doi-phieu-bat-cua-chang-an-may-dep-trai-nhat-trung-quoc-3557015.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3557015"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Sau khi bất ngờ nổi tiếng nhờ những bức ảnh "phong trần", người đàn ông ăn mày được cộng đồng...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/sau-4-nam-noi-tieng-mo-naive-ngay-cang-goi-cam-3556775.html" title="Sau 4 năm nổi tiếng, Mờ Naive ngày càng gợi cảm" alt="Sau 4 năm nổi tiếng, Mờ Naive ngày càng gợi cảm">
+											<img title="Sau 4 năm nổi tiếng, Mờ Naive ngày càng gợi cảm" alt="Sau 4 năm nổi tiếng, Mờ Naive ngày càng gợi cảm" src="http://img.f20.ione.vnecdn.net/2017/03/17/top-1489725387_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/sau-4-nam-noi-tieng-mo-naive-ngay-cang-goi-cam-3556775.html" class="txt_link" title="Sau 4 năm nổi tiếng, Mờ Naive ngày càng gợi cảm" alt="Sau 4 năm nổi tiếng, Mờ Naive ngày càng gợi cảm">
+						Sau 4 năm nổi tiếng, Mờ Naive ngày càng gợi cảm						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/sau-4-nam-noi-tieng-mo-naive-ngay-cang-goi-cam-3556775.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556775"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Vẻ ngây ngô, đáng yêu thuở bắt đầu nổi tiếng của cô nàng được thay thế bằng sự chín chắn,...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/12-dieu-khac-biet-giua-dan-ong-va-phu-nu-3556777.html" title="12 điều khác biệt giữa đàn ông và phụ nữ" alt="12 điều khác biệt giữa đàn ông và phụ nữ">
+											<img title="12 điều khác biệt giữa đàn ông và phụ nữ" alt="12 điều khác biệt giữa đàn ông và phụ nữ" src="http://img.f18.ione.vnecdn.net/2017/03/17/1-4544-1489723971-5954-1489725044_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/12-dieu-khac-biet-giua-dan-ong-va-phu-nu-3556777.html" class="txt_link" title="12 điều khác biệt giữa đàn ông và phụ nữ" alt="12 điều khác biệt giữa đàn ông và phụ nữ">
+						12 điều khác biệt giữa đàn ông và phụ nữ						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/12-dieu-khac-biet-giua-dan-ong-va-phu-nu-3556777.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556777"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Bạn có thấy đúng như vậy không?</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/cong-dung-hoan-hao-tu-muoi-trong-cuoc-song-hang-ngay-3556243.html" title="Công dụng hoàn hảo từ muối trong cuộc sống hàng ngày" alt="Công dụng hoàn hảo từ muối trong cuộc sống hàng ngày">
+											<img title="Công dụng hoàn hảo từ muối trong cuộc sống hàng ngày" alt="Công dụng hoàn hảo từ muối trong cuộc sống hàng ngày" src="http://img.f18.ione.vnecdn.net/2017/03/16/0-1489647776_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/cong-dung-hoan-hao-tu-muoi-trong-cuoc-song-hang-ngay-3556243.html" class="txt_link" title="Công dụng hoàn hảo từ muối trong cuộc sống hàng ngày" alt="Công dụng hoàn hảo từ muối trong cuộc sống hàng ngày">
+						Công dụng hoàn hảo từ muối trong cuộc sống hàng ngày						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/cong-dung-hoan-hao-tu-muoi-trong-cuoc-song-hang-ngay-3556243.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556243"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Muối vừa rẻ lại vừa giúp ích cho bạn trong nấu nướng, vệ sinh nhà cửa, đuổi côn trùng... quá...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/dien-mao-ngay-xua-khac-biet-cua-co-nang-dep-trai-noi-tieng-xu-han-3556222.html" title="Diện mạo ngày xưa khác biệt của 'cô nàng đẹp trai' nổi tiếng xứ Hàn" alt="Diện mạo ngày xưa khác biệt của 'cô nàng đẹp trai' nổi tiếng xứ Hàn">
+											<img title="Diện mạo ngày xưa khác biệt của 'cô nàng đẹp trai' nổi tiếng xứ Hàn" alt="Diện mạo ngày xưa khác biệt của 'cô nàng đẹp trai' nổi tiếng xứ Hàn" src="http://img.f19.ione.vnecdn.net/2017/03/16/t-1489638174-3809-1489638182_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/dien-mao-ngay-xua-khac-biet-cua-co-nang-dep-trai-noi-tieng-xu-han-3556222.html" class="txt_link" title="Diện mạo ngày xưa khác biệt của 'cô nàng đẹp trai' nổi tiếng xứ Hàn" alt="Diện mạo ngày xưa khác biệt của 'cô nàng đẹp trai' nổi tiếng xứ Hàn">
+						Diện mạo ngày xưa khác biệt của 'cô nàng đẹp trai' nổi tiếng xứ Hàn						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/dien-mao-ngay-xua-khac-biet-cua-co-nang-dep-trai-noi-tieng-xu-han-3556222.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556222"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Cô nàng tomboy 9x gây bất ngờ với hình ảnh 'mọt sách' tròn trịa hồi đi học.</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/dai-nhac-hoi-edm-kiem-le-hoi-te-nuoc-lan-dau-duoc-to-chuc-o-ha-noi-3556562.html" title="Đại nhạc hội EDM kiêm lễ hội té nước lần đầu được tổ chức ở Hà Nội" alt="Đại nhạc hội EDM kiêm lễ hội té nước lần đầu được tổ chức ở Hà Nội">
+											<img title="Đại nhạc hội EDM kiêm lễ hội té nước lần đầu được tổ chức ở Hà Nội" alt="Đại nhạc hội EDM kiêm lễ hội té nước lần đầu được tổ chức ở Hà Nội" src="http://img.f17.ione.vnecdn.net/2017/03/16/MRwateractivity4-1489679749-9283-1489679789_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box_nhipsong', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/dai-nhac-hoi-edm-kiem-le-hoi-te-nuoc-lan-dau-duoc-to-chuc-o-ha-noi-3556562.html" class="txt_link" title="Đại nhạc hội EDM kiêm lễ hội té nước lần đầu được tổ chức ở Hà Nội" alt="Đại nhạc hội EDM kiêm lễ hội té nước lần đầu được tổ chức ở Hà Nội">
+						Đại nhạc hội EDM kiêm lễ hội té nước lần đầu được tổ chức ở Hà Nội						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/nhip-song/dai-nhac-hoi-edm-kiem-le-hoi-te-nuoc-lan-dau-duoc-to-chuc-o-ha-noi-3556562.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556562"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">DJ Don Diablo sẽ cùng giới trẻ Hà thành 'quẩy' suốt 2 ngày trong khuôn khổ sân khấu mái vòm...</div>
+				 				
+			  </li>
+			  			 
+		</ul>
+	  </div>
+	  	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common block_6tin" id="box-chiemtinh">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"> <a onclick="ga('t0.send', 'box-chiemtinh', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh"><span class="color_tim">C</span>hiêm tinh</a></div>
+	  <div class="block_category_child">
+			  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	 	
+	  <div class="list_3image_inrow">
+		<ul class="list_news_image">
+						   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem/quiz-tinh-cach-ban-thich-chiec-bua-duoi-bat-giac-mo-nao-nhat-3556752.html" title="Quiz tính cách: Bạn thích chiếc bùa đuổi bắt giấc mơ nào nhất?" alt="Quiz tính cách: Bạn thích chiếc bùa đuổi bắt giấc mơ nào nhất?">
+											<img title="Quiz tính cách: Bạn thích chiếc bùa đuổi bắt giấc mơ nào nhất?" alt="Quiz tính cách: Bạn thích chiếc bùa đuổi bắt giấc mơ nào nhất?" src="http://img.f18.ione.vnecdn.net/2017/03/17/unnamed-1489722610-5222-1489723730_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem/quiz-tinh-cach-ban-thich-chiec-bua-duoi-bat-giac-mo-nao-nhat-3556752.html" class="txt_link" title="Quiz tính cách: Bạn thích chiếc bùa đuổi bắt giấc mơ nào nhất?" alt="Quiz tính cách: Bạn thích chiếc bùa đuổi bắt giấc mơ nào nhất?">
+						Quiz tính cách: Bạn thích chiếc bùa đuổi bắt giấc mơ nào nhất?						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem/quiz-tinh-cach-ban-thich-chiec-bua-duoi-bat-giac-mo-nao-nhat-3556752.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556752"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Chọn chiếc bùa đuổi bắt giấc mơ mà bạn thích nhất dưới đây! Bấm vào hình để xem đáp án! </div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/horo/dieu-cuoi-dac-trung-cua-12-sao-nam-3549408.html" title="Điệu cười đặc trưng của 12 sao nam" alt="Điệu cười đặc trưng của 12 sao nam">
+											<img title="Điệu cười đặc trưng của 12 sao nam" alt="Điệu cười đặc trưng của 12 sao nam" src="http://img.f19.ione.vnecdn.net/2017/03/17/Picture1-1489721874-2901-1489721989_300x180.png">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/horo/dieu-cuoi-dac-trung-cua-12-sao-nam-3549408.html" class="txt_link" title="Điệu cười đặc trưng của 12 sao nam" alt="Điệu cười đặc trưng của 12 sao nam">
+						Điệu cười đặc trưng của 12 sao nam						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/horo/dieu-cuoi-dac-trung-cua-12-sao-nam-3549408.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3549408"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Các bạn nữ nên chuẩn bị tiếp máu đi là vừa bằng không sẽ bị choáng ngợp trước những nụ...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem/diem-gi-o-ban-khien-nguoi-khac-gioi-chet-me-chet-met-3556460.html" title="Điểm gì ở bạn khiến người khác giới chết mê chết mệt?" alt="Điểm gì ở bạn khiến người khác giới chết mê chết mệt?">
+											<img title="Điểm gì ở bạn khiến người khác giới chết mê chết mệt?" alt="Điểm gì ở bạn khiến người khác giới chết mê chết mệt?" src="http://img.f19.ione.vnecdn.net/2017/03/16/unnamed-1489658016-1936-1489658975_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem/diem-gi-o-ban-khien-nguoi-khac-gioi-chet-me-chet-met-3556460.html" class="txt_link" title="Điểm gì ở bạn khiến người khác giới chết mê chết mệt?" alt="Điểm gì ở bạn khiến người khác giới chết mê chết mệt?">
+						Điểm gì ở bạn khiến người khác giới chết mê chết mệt?						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem/diem-gi-o-ban-khien-nguoi-khac-gioi-chet-me-chet-met-3556460.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556460"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Chọn bông hoa đào mà bạn thích nhất dưới đây! </div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/tu-vi/huong-tai-loc-may-man-cua-12-con-giap-3555915.html" title="Hướng tài lộc, may mắn của 12 con giáp" alt="Hướng tài lộc, may mắn của 12 con giáp">
+											<img title="Hướng tài lộc, may mắn của 12 con giáp" alt="Hướng tài lộc, may mắn của 12 con giáp" src="http://img.f19.ione.vnecdn.net/2017/03/16/unnamed2-1489661118-9609-1489661327_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/tu-vi/huong-tai-loc-may-man-cua-12-con-giap-3555915.html" class="txt_link" title="Hướng tài lộc, may mắn của 12 con giáp" alt="Hướng tài lộc, may mắn của 12 con giáp">
+						Hướng tài lộc, may mắn của 12 con giáp						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/tu-vi/huong-tai-loc-may-man-cua-12-con-giap-3555915.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3555915"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Độc giả có thể bày cây cối, linh vật phong thủy ở hướng tài vận của mình để gia tăng...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/daily/tu-vi-thu-sau-17-3-3555763.html" title="Tử vi thứ Sáu 17/3" alt="Tử vi thứ Sáu 17/3">
+											<img title="Tử vi thứ Sáu 17/3" alt="Tử vi thứ Sáu 17/3" src="http://img.f18.ione.vnecdn.net/2017/03/16/ea885f6927c0423584a6ac75e2a711-7402-6436-1489649751_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/daily/tu-vi-thu-sau-17-3-3555763.html" class="txt_link" title="Tử vi thứ Sáu 17/3" alt="Tử vi thứ Sáu 17/3">
+						Tử vi thứ Sáu 17/3						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/daily/tu-vi-thu-sau-17-3-3555763.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3555763"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Sư Tử cần tìm ai đó để tâm sự và xin lời khuyên. Ma Kết vấp phải sự cản trở...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/horo/phan-ung-cua-12-sao-nu-khi-tinh-cu-khong-ru-cung-toi-3556266.html" title="Phản ứng của 12 sao nữ khi tình cũ không rủ cũng tới" alt="Phản ứng của 12 sao nữ khi tình cũ không rủ cũng tới">
+											<img title="Phản ứng của 12 sao nữ khi tình cũ không rủ cũng tới" alt="Phản ứng của 12 sao nữ khi tình cũ không rủ cũng tới" src="http://img.f19.ione.vnecdn.net/2017/03/16/top-1489646358-9292-1489646841_300x180.png">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-chiemtinh', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/horo/phan-ung-cua-12-sao-nu-khi-tinh-cu-khong-ru-cung-toi-3556266.html" class="txt_link" title="Phản ứng của 12 sao nữ khi tình cũ không rủ cũng tới" alt="Phản ứng của 12 sao nữ khi tình cũ không rủ cũng tới">
+						Phản ứng của 12 sao nữ khi tình cũ không rủ cũng tới						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/horo/phan-ung-cua-12-sao-nu-khi-tinh-cu-khong-ru-cung-toi-3556266.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556266"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Khi nói chuyện với người yêu cũ, 12 cô nàng hoàng đạo sẽ có thái độ như thế nào?</div>
+				 				
+			  </li>
+			  			 
+		</ul>
+	  </div>
+	  	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common block_6tin" id="box-vuidoc">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"> <a onclick="ga('t0.send', 'box-vuidoc', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc"><span class="color_tim">V</span>ui độc</a></div>
+	  <div class="block_category_child">
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Sub_Title_Box_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/truyen-tranh">Truyện tranh</a>
+				  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	 	
+	  <div class="list_3image_inrow">
+		<ul class="list_news_image">
+						   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/cac-loai-rau-qua-trai-cay-moc-tu-nhien-nhu-the-nao-3-3556899.html" title="Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3)" alt="Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3)">
+											<img title="Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3)" alt="Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3)" src="http://img.f20.ione.vnecdn.net/2017/03/17/0-1489738234-4002-1489738248_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/cac-loai-rau-qua-trai-cay-moc-tu-nhien-nhu-the-nao-3-3556899.html" class="txt_link" title="Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3)" alt="Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3)">
+						Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3)						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/vui-doc/cac-loai-rau-qua-trai-cay-moc-tu-nhien-nhu-the-nao-3-3556899.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556899"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Hạt dẻ, hạt dẻ cười là món ăn khoái khẩu của nhiều người nhưng bạn có tò mò muốn biết...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/ban-co-du-tinh-mat-de-tim-thay-nguoi-nguy-trang-3556985.html" title="Bạn có đủ tinh mắt để tìm thấy người ngụy trang" alt="Bạn có đủ tinh mắt để tìm thấy người ngụy trang">
+											<img title="Bạn có đủ tinh mắt để tìm thấy người ngụy trang" alt="Bạn có đủ tinh mắt để tìm thấy người ngụy trang" src="http://img.f17.ione.vnecdn.net/2017/03/17/2-5476-1489744289-1927-1489744338_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/ban-co-du-tinh-mat-de-tim-thay-nguoi-nguy-trang-3556985.html" class="txt_link" title="Bạn có đủ tinh mắt để tìm thấy người ngụy trang" alt="Bạn có đủ tinh mắt để tìm thấy người ngụy trang">
+						Bạn có đủ tinh mắt để tìm thấy người ngụy trang						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/vui-doc/ban-co-du-tinh-mat-de-tim-thay-nguoi-nguy-trang-3556985.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556985"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Có cấp độ từ dễ đến khó đó nha! </div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/kong-roi-dao-dau-lau-lac-troi-giua-doi-3556650.html" title="Kong rời đảo Đầu lâu, 'lạc trôi' giữa đời" alt="Kong rời đảo Đầu lâu, 'lạc trôi' giữa đời">
+											<img title="Kong rời đảo Đầu lâu, 'lạc trôi' giữa đời" alt="Kong rời đảo Đầu lâu, 'lạc trôi' giữa đời" src="http://img.f20.ione.vnecdn.net/2017/03/17/04-6031-1489716907-9098-1489717672_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/kong-roi-dao-dau-lau-lac-troi-giua-doi-3556650.html" class="txt_link" title="Kong rời đảo Đầu lâu, 'lạc trôi' giữa đời" alt="Kong rời đảo Đầu lâu, 'lạc trôi' giữa đời">
+						Kong rời đảo Đầu lâu, 'lạc trôi' giữa đời						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/vui-doc/kong-roi-dao-dau-lau-lac-troi-giua-doi-3556650.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556650"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Sau vai diễn trong 'Kong: Skull Island', anh bạn lông lá gia nhập đoàn phim: Bao Kong, Tôn Ngộ Kong…...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/cuoi-te-ghe-17-3-ly-do-con-gai-khong-the-giam-can-noi-3556476.html" title="Cười té ghế 17/3: Lý do con gái không thể giảm cân nổi" alt="Cười té ghế 17/3: Lý do con gái không thể giảm cân nổi">
+											<img title="Cười té ghế 17/3: Lý do con gái không thể giảm cân nổi" alt="Cười té ghế 17/3: Lý do con gái không thể giảm cân nổi" src="http://img.f17.ione.vnecdn.net/2017/03/16/cuoi-te-ghe-1-9357-1489678775_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/cuoi-te-ghe-17-3-ly-do-con-gai-khong-the-giam-can-noi-3556476.html" class="txt_link" title="Cười té ghế 17/3: Lý do con gái không thể giảm cân nổi" alt="Cười té ghế 17/3: Lý do con gái không thể giảm cân nổi">
+						Cười té ghế 17/3: Lý do con gái không thể giảm cân nổi						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/vui-doc/cuoi-te-ghe-17-3-ly-do-con-gai-khong-the-giam-can-noi-3556476.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556476"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Khác biệt giữa FA và có bồ; khi bạn vô tình ấn phải camera trước...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/ho-om-cham-quan-quyt-nguoi-dan-ong-3556731.html" title="Hổ ôm chầm, quấn quýt người đàn ông" alt="Hổ ôm chầm, quấn quýt người đàn ông">
+											<img title="Hổ ôm chầm, quấn quýt người đàn ông" alt="Hổ ôm chầm, quấn quýt người đàn ông" src="http://img.f20.ione.vnecdn.net/2017/03/17/ho-om-cham-quan-quyt-nguoi-dan-4988-8992-1489721249_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/ho-om-cham-quan-quyt-nguoi-dan-ong-3556731.html" class="txt_link" title="Hổ ôm chầm, quấn quýt người đàn ông" alt="Hổ ôm chầm, quấn quýt người đàn ông">
+						Hổ ôm chầm, quấn quýt người đàn ông						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/vui-doc/ho-om-cham-quan-quyt-nguoi-dan-ong-3556731.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556731"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Chú hổ khi được mở cũi đã lao ra ôm chầm, quấn quýt lấy người đàn ông. Chú hổ ngày...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/chi-1-trong-10-nguoi-co-the-tim-thay-4-con-vat-trong-hinh-3556057.html" title="Chỉ 1 trong 10 người có thể tìm thấy 4 con vật trong hình" alt="Chỉ 1 trong 10 người có thể tìm thấy 4 con vật trong hình">
+											<img title="Chỉ 1 trong 10 người có thể tìm thấy 4 con vật trong hình" alt="Chỉ 1 trong 10 người có thể tìm thấy 4 con vật trong hình" src="http://img.f17.ione.vnecdn.net/2017/03/16/Untitled-1-2771-1489629653_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-vuidoc', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/vui-doc/chi-1-trong-10-nguoi-co-the-tim-thay-4-con-vat-trong-hinh-3556057.html" class="txt_link" title="Chỉ 1 trong 10 người có thể tìm thấy 4 con vật trong hình" alt="Chỉ 1 trong 10 người có thể tìm thấy 4 con vật trong hình">
+						Chỉ 1 trong 10 người có thể tìm thấy 4 con vật trong hình						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/vui-doc/chi-1-trong-10-nguoi-co-the-tim-thay-4-con-vat-trong-hinh-3556057.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556057"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Liệu bạn có phải là 1 trong 10 người đó không? Hãy thử nhé!</div>
+				 				
+			  </li>
+			  			 
+		</ul>
+	  </div>
+	  	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common" id="box-gioitinh">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"><a onclick="ga('t0.send', 'box-gioitinh', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh"><span class="color_tim">G</span>iới tính+</a></div>
+	  <div class="block_category_child">
+					<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Sub_Title_Box_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/khoe">Khỏe</a>
+						<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Sub_Title_Box_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/dep">Đẹp</a>
+						<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Sub_Title_Box_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/yeu">Yêu</a>
+				  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	  <div class="width_common">
+		<div class="block_news_50left">
+		  	
+		  <div class="width_common box_num01">
+						<div class="thumb_relative">
+				<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/co-nen-hoc-nganh-bac-si-tam-ly-khong-3556298.html" title="Có nên học ngành bác sĩ tâm lý không?" alt="Có nên học ngành bác sĩ tâm lý không?">
+					<img src="http://img.f17.ione.vnecdn.net/2017/03/16/0-1489649937_300x180.jpg" title="Có nên học ngành bác sĩ tâm lý không?" alt="Có nên học ngành bác sĩ tâm lý không?">
+				</a>				
+							</div>
+			<div class="title_news">
+				<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/co-nen-hoc-nganh-bac-si-tam-ly-khong-3556298.html" class="txt_link" title="Có nên học ngành bác sĩ tâm lý không?" alt="Có nên học ngành bác sĩ tâm lý không?">
+					Có nên học ngành bác sĩ tâm lý không?					<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+				</a>
+				<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/co-nen-hoc-nganh-bac-si-tam-ly-khong-3556298.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556298"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>			</div>						
+			 <div class="news_lead">Liệu ngành bác sĩ tâm lý có dễ xin việc không? Vì hiện nay ngành này ở Việt Nam chưa...</div>			
+		  </div>
+		  		</div>
+		<div class="block_news_50right">
+		  	
+		  <div class="block_news_image">
+			<ul>
+							  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/rohto-mentholatum-viet-nam-to-chuc-cham-soc-mat-hoc-duong-3556806.html" title="Rohto-Mentholatum Việt Nam tổ chức 'Chăm sóc mắt học đường'" alt="Rohto-Mentholatum Việt Nam tổ chức 'Chăm sóc mắt học đường'"><img src="http://img.f18.ione.vnecdn.net/2017/03/17/17-3-20175-3220-1489727297_180x108.jpeg" title="Rohto-Mentholatum Việt Nam tổ chức 'Chăm sóc mắt học đường'" alt="Rohto-Mentholatum Việt Nam tổ chức 'Chăm sóc mắt học đường'"></a> 					
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/rohto-mentholatum-viet-nam-to-chuc-cham-soc-mat-hoc-duong-3556806.html" class="txt_link" title="Rohto-Mentholatum Việt Nam tổ chức 'Chăm sóc mắt học đường'" alt="Rohto-Mentholatum Việt Nam tổ chức 'Chăm sóc mắt học đường'">
+						Rohto-Mentholatum Việt Nam tổ chức 'Chăm sóc mắt học đường'						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+									  </div>				  
+				  				 <div class="news_lead">Nhận thức tầm quan trọng của đôi mắt tới tương lai thế hệ trẻ, Rohto-Mentholatum Việt Nam phối hợp với các bệnh viện nhãn khoa tổ chức chương trình 'Chăm...</div>
+				 				</div>
+			  </li>			  			 
+			  			  <li>
+				<div class="block_image_news width_common">
+				  <div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/yeu/chi-vi-so-em-buon-ma-toi-mat-em-mai-mai-3555871.html" title="Chỉ vì sợ em buồn mà tôi mất em mãi mãi" alt="Chỉ vì sợ em buồn mà tôi mất em mãi mãi"><img src="http://img.f18.ione.vnecdn.net/2017/03/15/Untitled13-1489572073-8485-1489572502_180x108.jpg" title="Chỉ vì sợ em buồn mà tôi mất em mãi mãi" alt="Chỉ vì sợ em buồn mà tôi mất em mãi mãi"></a> 					
+									  </div>
+				  <div class="title_news">
+					<a onclick="ga('t0.send', 'box-gioitinh', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/yeu/chi-vi-so-em-buon-ma-toi-mat-em-mai-mai-3555871.html" class="txt_link" title="Chỉ vì sợ em buồn mà tôi mất em mãi mãi" alt="Chỉ vì sợ em buồn mà tôi mất em mãi mãi">
+						Chỉ vì sợ em buồn mà tôi mất em mãi mãi						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_0" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/yeu/chi-vi-so-em-buon-ma-toi-mat-em-mai-mai-3555871.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3555871"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				  </div>				  
+				  				 <div class="news_lead">Ngày tôi nói muốn quay lại cũng là ngày cô ấy đã yêu người khác, cao ráo đẹp trai, có công việc ổn định.</div>
+				 				</div>
+			  </li>			  			 
+			  			</ul>
+		  </div>
+		  		</div>
+	  </div>
+	</div>
+  </div>
+</div><div class="row_item">
+  <div class="box_category width_common block_6tin" id="box-video">
+	<div class="title_box_category width_common">
+	  <div class="txt_main_category"> <a onclick="ga('t0.send', 'box-video', 'Click_Title_Box', 'ione');" href="http://ione.vnexpress.net/video"><span class="color_tim">V</span>ideo</a></div>
+	  <div class="block_category_child">
+			  </div>
+	  <div class="block_arrow_title">&nbsp;</div>
+	</div>
+	<div class="content_box_category width_common">
+	 	
+	  <div class="list_3image_inrow">
+		<ul class="list_news_image">
+						   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/video/video/co-gai-vua-di-vua-vung-tay-nem-tien-ra-duong-de-giai-sau-3556744.html" title="Cô gái vừa đi vừa vung tay ném tiền ra đường để... giải sầu" alt="Cô gái vừa đi vừa vung tay ném tiền ra đường để... giải sầu">
+											<img title="Cô gái vừa đi vừa vung tay ném tiền ra đường để... giải sầu" alt="Cô gái vừa đi vừa vung tay ném tiền ra đường để... giải sầu" src="http://img.f19.ione.vnecdn.net/2017/03/17/co-gai-vua-di-vua-vung-tay-nem-8241-5410-1489721546_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_1', 'ione');" href="http://ione.vnexpress.net/video/video/co-gai-vua-di-vua-vung-tay-nem-tien-ra-duong-de-giai-sau-3556744.html" class="txt_link" title="Cô gái vừa đi vừa vung tay ném tiền ra đường để... giải sầu" alt="Cô gái vừa đi vừa vung tay ném tiền ra đường để... giải sầu">
+						Cô gái vừa đi vừa vung tay ném tiền ra đường để... giải sầu						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/video/co-gai-vua-di-vua-vung-tay-nem-tien-ra-duong-de-giai-sau-3556744.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556744"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Cô gái vừa lững thững sang đường, vừa vung từng xấp tiền khiến những người xung quanh kinh ngạc.</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/video/video/thanh-tan-gai-voi-chieu-tro-xin-so-khien-chi-em-kho-cuong-3556710.html" title="'Thánh tán gái' với chiêu trò xin số khiến chị em khó cưỡng" alt="'Thánh tán gái' với chiêu trò xin số khiến chị em khó cưỡng">
+											<img title="'Thánh tán gái' với chiêu trò xin số khiến chị em khó cưỡng" alt="'Thánh tán gái' với chiêu trò xin số khiến chị em khó cưỡng" src="http://img.f19.ione.vnecdn.net/2017/03/17/thanh-tan-gai-voi-chieu-tro-xi-7714-1937-1489719891_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_2', 'ione');" href="http://ione.vnexpress.net/video/video/thanh-tan-gai-voi-chieu-tro-xin-so-khien-chi-em-kho-cuong-3556710.html" class="txt_link" title="'Thánh tán gái' với chiêu trò xin số khiến chị em khó cưỡng" alt="'Thánh tán gái' với chiêu trò xin số khiến chị em khó cưỡng">
+						'Thánh tán gái' với chiêu trò xin số khiến chị em khó cưỡng						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/video/thanh-tan-gai-voi-chieu-tro-xin-so-khien-chi-em-kho-cuong-3556710.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556710"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Với sự thông minh và khéo léo, chàng trai không khó để khiến các cô gái tình nguyện cho số...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/video/video/co-be-khong-tay-khien-khan-gia-roi-nuoc-mat-khi-vua-cat-giong-3556703.html" title="Cô bé không tay khiến khán giả rơi nước mắt khi vừa cất giọng" alt="Cô bé không tay khiến khán giả rơi nước mắt khi vừa cất giọng">
+											<img title="Cô bé không tay khiến khán giả rơi nước mắt khi vừa cất giọng" alt="Cô bé không tay khiến khán giả rơi nước mắt khi vừa cất giọng" src="http://img.f17.ione.vnecdn.net/2017/03/17/co-be-14-tuoi-khong-tay-khien-4492-8580-1489719558_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_3', 'ione');" href="http://ione.vnexpress.net/video/video/co-be-khong-tay-khien-khan-gia-roi-nuoc-mat-khi-vua-cat-giong-3556703.html" class="txt_link" title="Cô bé không tay khiến khán giả rơi nước mắt khi vừa cất giọng" alt="Cô bé không tay khiến khán giả rơi nước mắt khi vừa cất giọng">
+						Cô bé không tay khiến khán giả rơi nước mắt khi vừa cất giọng						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/video/co-be-khong-tay-khien-khan-gia-roi-nuoc-mat-khi-vua-cat-giong-3556703.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556703"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Phần trình diễn gây xúc động của Lorelai Mosnegutu nhận được nút vàng ưu tiên duy nhất từ ban giám...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/video/video/ho-quynh-huong-giai-thich-chuyen-tu-choi-nang-do-hoc-tro-3556647.html" title="Hồ Quỳnh Hương giải thích chuyện từ chối nâng đỡ học trò" alt="Hồ Quỳnh Hương giải thích chuyện từ chối nâng đỡ học trò">
+											<img title="Hồ Quỳnh Hương giải thích chuyện từ chối nâng đỡ học trò" alt="Hồ Quỳnh Hương giải thích chuyện từ chối nâng đỡ học trò" src="http://img.f17.ione.vnecdn.net/2017/03/17/MG2470-1489716204-8986-1489716207_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_4', 'ione');" href="http://ione.vnexpress.net/video/video/ho-quynh-huong-giai-thich-chuyen-tu-choi-nang-do-hoc-tro-3556647.html" class="txt_link" title="Hồ Quỳnh Hương giải thích chuyện từ chối nâng đỡ học trò" alt="Hồ Quỳnh Hương giải thích chuyện từ chối nâng đỡ học trò">
+						Hồ Quỳnh Hương giải thích chuyện từ chối nâng đỡ học trò						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/video/ho-quynh-huong-giai-thich-chuyen-tu-choi-nang-do-hoc-tro-3556647.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556647"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Thái Ngân từng đến nhà Hồ Quỳnh Hương nhờ giúp đỡ sau cuộc thi X-Factor nhưng nữ ca sĩ quá...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/video/video/minions-tro-lai-sieu-hai-huoc-trong-trailer-ke-cap-mat-trang-3-3556364.html" title="Minions trở lại siêu hài hước trong trailer 'Kẻ cắp mặt trăng' 3" alt="Minions trở lại siêu hài hước trong trailer 'Kẻ cắp mặt trăng' 3">
+											<img title="Minions trở lại siêu hài hước trong trailer 'Kẻ cắp mặt trăng' 3" alt="Minions trở lại siêu hài hước trong trailer 'Kẻ cắp mặt trăng' 3" src="http://img.f18.ione.vnecdn.net/2017/03/16/2458DSP0170LCOMPOMONORENDER011-8708-4779-1489652890_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_5', 'ione');" href="http://ione.vnexpress.net/video/video/minions-tro-lai-sieu-hai-huoc-trong-trailer-ke-cap-mat-trang-3-3556364.html" class="txt_link" title="Minions trở lại siêu hài hước trong trailer 'Kẻ cắp mặt trăng' 3" alt="Minions trở lại siêu hài hước trong trailer 'Kẻ cắp mặt trăng' 3">
+						Minions trở lại siêu hài hước trong trailer 'Kẻ cắp mặt trăng' 3						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/video/minions-tro-lai-sieu-hai-huoc-trong-trailer-ke-cap-mat-trang-3-3556364.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556364"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Phần 3 của loạt phim hoạt hình về 'ác nhân' Gru và đám tay chân Minions tiếp tục chinh phục...</div>
+				 				
+			  </li>
+			  			   <li>
+				<div class="thumb"> 
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/video/video/irene-cuc-dang-yeu-khi-nhep-theo-clip-cua-song-hye-kyo-3556367.html" title="Irene cực đáng yêu khi 'nhép' theo clip của Song Hye Kyo" alt="Irene cực đáng yêu khi 'nhép' theo clip của Song Hye Kyo">
+											<img title="Irene cực đáng yêu khi 'nhép' theo clip của Song Hye Kyo" alt="Irene cực đáng yêu khi 'nhép' theo clip của Song Hye Kyo" src="http://img.f18.ione.vnecdn.net/2017/03/16/172652461910990219134899337009-2906-9277-1489652960_300x180.jpg">
+										
+					</a> 
+									</div>
+				<div class="title_news">
+					<a onclick="ga('t0.send', 'box-video', 'Clk_Item_6', 'ione');" href="http://ione.vnexpress.net/video/video/irene-cuc-dang-yeu-khi-nhep-theo-clip-cua-song-hye-kyo-3556367.html" class="txt_link" title="Irene cực đáng yêu khi 'nhép' theo clip của Song Hye Kyo" alt="Irene cực đáng yêu khi 'nhép' theo clip của Song Hye Kyo">
+						Irene cực đáng yêu khi 'nhép' theo clip của Song Hye Kyo						<span class="no_wrap"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif" alt="" class="icon_content icon_title_2" /></span>
+					</a>
+					<a class="icon_commend" href="http://ione.vnexpress.net/tin-tuc/video/irene-cuc-dang-yeu-khi-nhep-theo-clip-cua-song-hye-kyo-3556367.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment" data-type="comment" data-objecttype="1" data-objectid="3556367"><img class="icon_content icon_title_coment" alt="" src="http://st.f1.ione.vnecdn.net/i/v4/graphics/img_blank.gif">&nbsp;</span></a>				</div>
+								 <div class="news_lead" style="display:none;">Thành viên Red Velvet được khen xinh đẹp không kém đàn chị khi nhép theo đoạn quảng cáo.</div>
+				 				
+			  </li>
+			  			 
+		</ul>
+	  </div>
+	  	</div>
+  </div>
+</div>	</div>
+	<div id="col_300" class="right">
+		
+<div class="box_category width_common">		
+		<script type="text/javascript">Poly_Large(1);</script>	
+		
+</div>
+
+<div class="box_category width_common">
+  <div class="title_box_category width_common">
+	<div class="txt_main_category"><a>Đọc nhiều</a></div>
+	<div class="block_arrow_title">&nbsp;</div>
+  </div>
+  <div class="content_box_category width_common">
+	<table width="100%" cellspacing="0" cellpadding="0" class="tb_docnhieu">
+	  <tbody>
+		 			<tr>
+			  <td class="hang">1.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_1', 'ione');" href="http://ione.vnexpress.net/tin-tuc/nhip-song/nguoi-cha-ngheo-lang-le-nhin-2-con-gai-an-ga-ran-3556700.html">Người cha nghèo lặng lẽ nhìn 2 con gái ăn gà rán</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">2.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_2', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/phong-cach-sao/tui-hermes-bach-tang-sieu-hiem-tren-the-gioi-nhung-nhan-nhan-o-viet-nam-3555626.html">Túi Hermes 'bạch tạng' siêu hiếm trên thế giới nhưng nhan nhản ở Việt Nam</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">3.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_3', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/mot/hermes-bach-tang-hang-fake-duoc-ban-mua-nhon-nhip-online-3556109.html">'Hermes bạch tạng' hàng fake được bán mua nhộn nhịp online</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">4.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_4', 'ione');" href="http://ione.vnexpress.net/tin-tuc/thoi-trang/phong-cach-sao/bi-to-dung-hermes-gia-ngoc-trinh-da-xeo-do-manh-cuong-chuyen-copy-mau-3555857.html">Bị tố dùng Hermes giả, Ngọc Trinh 'đá xéo' Đỗ Mạnh Cường chuyên copy mẫu</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">5.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_5', 'ione');" href="http://ione.vnexpress.net/tin-tuc/lam-dep/6-ly-do-cac-sao-trang-diem-nhieu-ma-da-van-dep-3556397.html">6 lý do các sao trang điểm nhiều mà da vẫn đẹp</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">6.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_6', 'ione');" href="http://ione.vnexpress.net/tin-tuc/phim/vietnam/hau-truong-tuoi-thanh-xuan-2-tiet-lo-nha-phuong-het-kho-vi-phim-3555304.html">Hậu trường 'Tuổi thanh xuân 2' tiết lộ Nhã Phương 'hết khổ' vì phim</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">7.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_7', 'ione');" href="http://ione.vnexpress.net/projects/ngay-ay-bay-gio-cua-cac-hotgirl-doi-dau-3554770/index.html">Ngày ấy - bây giờ của các hotgirl đời đầu</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">8.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_8', 'ione');" href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem/kham-pha-ban-than-qua-trac-nghiem-kokology-2-3552910.html">Khám phá bản thân qua trắc nghiệm Kokology (2)</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">9.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_9', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/chau-a/7-nu-than-tuong-kpop-co-khi-chat-nhu-buoc-ra-tu-truyen-tranh-3555565.html">7 nữ thần tượng Kpop có khí chất như bước ra từ truyện tranh</a></h2></td>
+			</tr>			
+						<tr>
+			  <td class="hang">10.</td>
+			  <td class="news_name"><h2><a onClick="ga('t0.send', 'Box_doc_nhieu', 'Clk_F_Item_10', 'ione');" href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam/nhin-lai-thuo-banh-beo-kho-tin-cua-vu-cat-tuong-3555818.html">Nhìn lại thuở 'bánh bèo' khó tin của Vũ Cát Tường</a></h2></td>
+			</tr>			
+						
+	  </tbody>
+	</table>
+  </div>
+</div>					
+    
+<div class="box_category width_common">
+	<div class="banner_300x250">
+				<script type="text/javascript">Poly_Large(2);</script>	
+			</div>
+</div><div class="ad_wrapper_protection"><iframe class="ad_frame_protection" id="widget_raovat" allowtransparency="true" frameborder="0" height="350px" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="http://raovat.vnexpress.net/widget/homevertical/1002764" vspace="0" width="300px"></iframe></div>
+<script type="text/javascript">
+$(function(){
+$('#widget_raovat').show().parent().show();
+});
+</script><div class="box_category width_common">
+	<div class="banner_300x250">
+				<script type="text/javascript">Poly_Large(3);</script>	
+						
+	</div>
+</div>	</div>
+</div>				</div>
+			  <div class="clear"></div>
+			  <div class="banner_980x60">
+		<script type="text/javascript">Poly_Footer();</script>	
+		
+</div>
+			  			</div>
+		</div>
+		<div id="wrapper_footer">
+    <div id="footer">
+      <div class="footerMenu">
+        <ul>
+          <li>
+            <div class="block_menufotter_item"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/sao" class="parent_menu">Sao</a></h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/sao/viet-nam">Việt Nam</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/sao/chau-a">Châu Á</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/sao/us-uk">US-UK</a> </h2> 				
+			</div>
+            <div class="block_menufotter_item txt_hong"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/qua-tang" class="parent_menu">Quà tặng</a> </h2> 				
+			</div>
+          </li>
+          <li class="txt_hong">
+            <div class="block_menufotter_item"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/nhip-song" class="parent_menu">Nhịp sống</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/nhip-song/guong-mat">Gương mặt</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/nhip-song/tips">Tips</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/nhip-song/hitek">Hitek</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/nhip-song/teen-xinh">Teen xinh</a> </h2> 
+			</div> 
+			<div class="block_menufotter_item"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/vui-doc" class="parent_menu">Vui độc</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/vui-doc/truyen-tranh">Truyện tranh</a> </h2> 
+			</div>	
+          </li>
+          <li>
+            <div class="block_menufotter_item"> 
+				<h2><a href="http://ione.vnexpress.net/video" class="parent_menu">Video</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/video/nhip-song/">Nhịp sống</a></h2> 
+				<h2><a href="http://ione.vnexpress.net/video/showbiz/">Showbiz</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/video/showbiz/star/" class="txt_child_menu">- Sao</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/video/showbiz/music/" class="txt_child_menu">- Nhạc</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/video/showbiz/cine-tv/" class="txt_child_menu">- Phim-TV</a></h2> 
+				<h2><a href="http://ione.vnexpress.net/video/thoi-trang/">Thời trang</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/video/vui-doc/">Vui độc</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/video/the-thao/">Thể thao</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/video/hitek/">Hitek</a></h2> 
+			</div>			
+          </li>
+          <li  class="txt_hong">
+            <div class="block_menufotter_item"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh" class="parent_menu">Chiêm tinh</a></h2>  
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/daily">Daily</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/tarot">Tarot</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/horo">Horo</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/trac-nghiem">Trắc nghiệm</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/chiem-tinh/tu-vi">Tử vi</a> </h2> 
+			</div>            
+          </li>
+          <li>
+            <div class="block_menufotter_item txt_hong"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/lam-dep" class="parent_menu">Làm đẹp</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/lam-dep/makeup">Makeup</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/lam-dep/toc">Tóc</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/lam-dep/dang-dep">Dáng đẹp</a> </h2> 
+			</div>            
+          </li>          
+          <li>
+            <div class="block_menufotter_item"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/thoi-trang" class="parent_menu">Thời trang</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/thoi-trang/mot">Mốt</a> </h2> 				
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/thoi-trang/kstyle">Kstyle</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/thoi-trang/phong-cach-sao">Phong cách sao</a> </h2> 				
+			</div>
+          </li>
+          <li>
+            <div class="block_menufotter_item"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/gioi-tinh" class="parent_menu">Giới tính</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/khoe">Khỏe</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/dep">Đẹp</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/gioi-tinh/yeu">Yêu</a> </h2> 
+			</div>
+			<div class="block_menufotter_item"> 
+				<h2><a href="http://raovat.vnexpress.net" class="parent_menu">Rao vặt</a> </h2> 
+				<h2><a href="http://raovat.vnexpress.net/oto">Mua bán ô tô</a> </h2> 
+				<h2><a href="http://raovat.vnexpress.net/xe-may-xe-dap">Mua bán xe máy</a> </h2> 				
+				<h2><a href="http://raovat.vnexpress.net/mua-ban-nha-dat">Mua bán nhà đất</a> </h2> 
+				<h2><a href="http://raovat.vnexpress.net/thue-nha-dat">Cho thuê nhà đất</a> </h2> 				
+			</div>
+          </li>
+          <li>
+            <div class="block_menufotter_item txt_hong"> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/phim" class="parent_menu">Phim</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/phim/chau-a">Châu Á</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/phim/us-uk">US-UK</a> </h2> 
+				<h2><a href="http://ione.vnexpress.net/tin-tuc/phim/vietnam">Việt Nam</a> </h2> 
+			</div>
+          </li>
+        </ul>
+      </div>
+      <div class="ft-bot">
+        <div class="coppy_right_web">
+          <div class="ft-botl"><a href="http://ione.vnexpress.net"><img src="http://st.f1.ione.vnecdn.net/i/v4/graphics/logo_footer_iOne.png" alt="ione logo"></a></div>
+          <div class="ft-botm">
+            <p>Chuyên mục dành cho giới trẻ của VnExpress</p>
+            <p>&copy; <span>Copyright 2010 iOne.vnexpress.net, All rights reserved</span></p>
+            <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+          </div>
+          <div class="ft-botr" style="padding-top:8px;">
+            <p><a  href="https://eclick.vn/contact"><strong>Liên hệ quảng cáo</strong></a> / <a href="http://ione.vnexpress.net/contactus" ><strong>Tòa soạn</strong></a></p>
+            <p style="display:none;"><a href="http://vnexpress.net/contact.htm" target="_blank" style="font: 11px arial;padding: 0 4px;text-decoration: none;">Thông tin Tòa soạn.</a><span style="padding:0 5px;"><img src="http://st.f1.ione.vnecdn.net/i/v4/icons/hotline.gif" alt="" style="">: 08 7300 9999</span> - Máy lẻ: <span>4508, 4509</span> (HN) - <span>8558</span> (TP HCM)</p>
+          </div>
+        </div>
+        <div class="coppy_right_small">
+          <div class="tttoasoan">
+            <div class="txt_up width_common">
+              <div class="width_50 "><img src="http://st.f1.ione.vnecdn.net/i/v4/icons/hotline.gif" alt="" > Liên hệ tòa soạn</div>
+              <div class="width_50"><img src="http://st.f1.ione.vnecdn.net/i/v4/icons/icon_thongtintoasoan.gif" alt="" > Thông tin tòa soạn</div>
+            </div>
+            <div class="txt_down width_common">
+              <div class="width_50 "><b>08 7300 9999</b> - máy lẻ: <b>4508</b> (HN) </div>
+              <div class="width_50"><b>8558</b> (TP HCM)</div>
+            </div>
+          </div>
+          <div class="coppy_right">
+			<p><span>&nbsp;</span></p>
+            <p>&copy; Copyright 2010 iOne.vnexpress.net, All rights reserved</p>
+            <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+          </div>
+        </div>
+      </div>
+      <div class="clear">&nbsp;</div>
+    </div>
+</div>
+		<div class="block_close_menu">&nbsp; </div>
+	</div>
+	<div class="clear">&nbsp;</div>
+	<div id="fb-root"></div>
+	<a href="javascript:;" id="to_top"><img src="http://st.f1.ione.vnecdn.net/i/v4/icons/icon_gototop.png" alt=""/></a>
+		<script src="https://stmy.vnexpress.net/myvne/j/v4/myvne_users.js"></script>
+    <script src="https://stmy.vnexpress.net/myvne/j/v4/plugins/vne.js"></script>
+	<script language="javascript" type="text/javascript" src="http://st.f2.ione.vnecdn.net/j/v24/mouseWhell.js"></script>
+	<script language="javascript" type="text/javascript" src="http://st.f2.ione.vnecdn.net/j/v24/owl.carousel.min.js"></script>
+	<script language="javascript" type="text/javascript" src="http://st.f2.ione.vnecdn.net/j/v24/common_v2.js"></script>
+	<script language="javascript" type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/interactions/cmt.widget.js"></script>
+	<!-- Begin bottom xem theo ngay-->
+		<script type="text/javascript">
+		(function(){
+			//Show parser
+			if ( typeof(Parser) != "undefined" ) {
+				Parser.SITE_URL     = 'http://vnexpress.net';
+				Parser.URL          = 'http://st.f2.vnecdn.net/responsive/j/v16';
+				Parser.FLASH_URL    = 'http://st.f1.ione.vnecdn.net/f/v2';
+				Parser.SITE_ID      = 1002764;
+				Parser.AUTO_PLAY    = 1;
+				Parser.parseAll();
+			}
+		})();
+	</script>
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700&subset=latin,vietnamese,latin-ext' rel='stylesheet' type='text/css'>
+		<script language="javascript" type="text/javascript" src="http://st.polyad.net/Vals/43/0/1002764/Val.js"></script>
+	<script language="javascript" type="text/javascript" src="http://st.core.polyad.net/Ads.js"></script>	
+	<script type="text/javascript">
+		Poly_showads();
+	</script>
+			<!-- AudienceScience Async Data Collection Tag -->
+	<script>
+		(function() {
+		var csid = "F09828";
+		var bpid = "fpt_vn";
+		var e = document.createElement("script");
+		var s = document.getElementsByTagName("script")[0];
+		e.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid;
+		e.async = true;
+		s.parentNode.insertBefore(e, s);
+		})();
+	</script>
+	<script type="text/javascript">
+        $(document).ready(function(){
+			if(typeof(common) != 'undefined')
+			{
+				common.switchToDesktop();				
+			}
+        });		
+    </script>
+	<script type="text/javascript">
+		</script>
+			<script type="text/javascript">
+		  (function() {
+			window._klDmp = window._klDmp || [];
+			window._klDmp.push(["_siteId:VNE2103"]);
+			var el = document.createElement('script');
+			el.type = 'text/javascript'; el.async = true;
+				el.src = 'http://js.knowlead.io/dmpcollector.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(el, s);
+		  })();
+		</script>
+		
+</body>
+</html>
+

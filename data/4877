@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+150 thí sinh dự thi “Duyên dáng Satra” - NLĐ
+</title><meta name="keywords" content="phụ nữ việt nam,tôn vinh,trình diễn,thành phố hồ chí minh,việt nam" /><meta name="description" content="Hưởng ứng lễ hội áo dài TP HCM và tạo sân chơi cho nữ CNVC-LĐ, chiều 17-3, Công đoàn Tổng Công ty Thương mại Sài Gòn (Satra) đã tổ chức hội thi “Duyên dáng ..." />
+<link rel="canonical" href="http://www.baomoi.com/150-thi-sinh-du-thi-duyen-dang-satra/c/21792038.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792038" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792038" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://nld.com.vn/cong-doan/150-thi-sinh-du-thi-duyen-dang-satra-2017031722290489.htm");
+else
+window.location.replace("http://www.baomoi.com/150-thi-sinh-du-thi-duyen-dang-satra/c/21792038.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

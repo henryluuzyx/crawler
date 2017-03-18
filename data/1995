@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Lào Cai xuất hiện mưa đá - Dân Việt
+</title><meta name="keywords" content="Ý Tý,cao Sa Pa,Phạm Ngọc Triển,Lưu Minh Hải,Mây Trắng,Bát Xát,tưới tiêu,Lào Cai,Sa Pa,sản xuất" /><meta name="description" content="Do ảnh hưởng của không khí lạnh từ phía Bắc tràn xuống, hồi 19h30 ngày 17.3, ở vùng cao biên giới khu vực Ý Tý, huyện Bát Xát (tỉnh Lào Cai) đột ngột xuất h..." />
+<link rel="canonical" href="http://www.baomoi.com/lao-cai-xuat-hien-mua-da/c/21793165.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793165" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793165" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/tin-tuc/lao-cai-xuat-hien-mua-da-754156.html");
+else
+window.location.replace("http://www.baomoi.com/lao-cai-xuat-hien-mua-da/c/21793165.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

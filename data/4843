@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nga 'dập tắt' mọi âm mưu tấn công của kẻ thù - VnMedia
+</title><meta name="keywords" content="Đan Khanh,Nga,máy bay chiến đấu,thử nghiệm,rađa,Bộ Quốc phòng Nga,tái vũ trang,A-100 Premier,chỉ huy,Yuri Borisov,máy bay trinh sát,ưu tiên,âm mưu,tham quan" /><meta name="description" content="Việc thử nghiệm A-100 Premier- máy bay cảnh báo sớm mới nhất của Nga sẽ được bắt đầu vào tháng 7 tới. Đó là thông tin vừa được Thứ trưởng Bộ Quốc phòng Nga ..." />
+<link rel="canonical" href="http://www.baomoi.com/nga-dap-tat-moi-am-muu-tan-cong-cua-ke-thu/c/21789885.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789885" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789885" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vnmedia.vn/quoc-te/201703/nga-dap-tat-moi-am-muu-tan-cong-cua-ke-thu-560498/");
+else
+window.location.replace("http://www.baomoi.com/nga-dap-tat-moi-am-muu-tan-cong-cua-ke-thu/c/21789885.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

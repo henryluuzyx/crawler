@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phát hiện bộ xương người ở hồ thủy điện sông Bung - PLO
+</title><meta name="keywords" content="thủy điện Sông Bung 4,Sông Bung 2,Sông Bung,Nguyễn Minh Luân,Đặng Văn Tuyền,Tà Pơ,Nam Giang,Công an huyện Nam Giang,mất tích,Quảng Nam,Phú Thọ,Hải Dương,phát hiện,Pháp Luật Tp.HCM" /><meta name="description" content="Công an huyện Nam Giang (Quảng Nam) xác nhận người dân địa phương vừa phát hiện một thi thể phân hủy gần khu vực một lòng hồ thủy điện." />
+<link rel="canonical" href="http://www.baomoi.com/phat-hien-bo-xuong-nguoi-o-ho-thuy-dien-song-bung/c/21788111.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21788111" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21788111" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/an-ninh-trat-tu/phat-hien-bo-xuong-nguoi-o-ho-thuy-dien-song-bung-689373.html");
+else
+window.location.replace("http://www.baomoi.com/phat-hien-bo-xuong-nguoi-o-ho-thuy-dien-song-bung/c/21788111.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

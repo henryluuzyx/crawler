@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Vỉa hè quận 1 sau 2 tháng ra quân dọn dẹp - Zing
+</title><meta name="keywords" content="lấn chiếm,Kim Đô,Đường Huỳnh Thúc Kháng,Thủ khoa Huân,Đường Hàm Nghi,Đường Tôn Đức Thắng,đường Hồ Tùng Mậu,Đường Nguyễn Huệ,Đoàn Ngọc Hải,Đường Nguyễn Thị Minh Khai,UBND quận 1,Quỳnh Như,Tùng Tin,đinh tiên hoàng,bến thành,Quận 1,ra quân,tái phạm,cưỡng chế,xuất trình,chỉ đạo" /><meta name="description" content="Sau 2 tháng chính quyền quận 1 (TP.HCM) ra quân đòi lại vỉa hè cho người đi bộ, đến nay nhiều tuyến đường và vỉa hè đã thông thoáng, ngăn nắp." />
+<link rel="canonical" href="http://www.baomoi.com/via-he-quan-1-sau-2-thang-ra-quan-don-dep/c/21793294.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793294" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793294" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/via-he-quan-1-sau-2-thang-ra-quan-don-dep-post729328.html");
+else
+window.location.replace("http://www.baomoi.com/via-he-quan-1-sau-2-thang-ra-quan-don-dep/c/21793294.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

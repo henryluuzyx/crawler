@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhà Trắng bảo vệ cáo buộc của ông Trump trong vô vọng? - PLO
+</title><meta name="keywords" content="Sean Spicer,Trump,Nhà Trắng,Barack Obama,tổng thống Mỹ,bảo vệ,phát biểu,cáo buộc,phát ngôn,Kellyanne Conway,bất chấp,mạng xã hội" /><meta name="description" content="Bất chấp việc Quốc hội Mỹ bác bỏ cáo buộc của ông Trump về việc người tiền nhiệm Obama nghe lén, Nhà Trắng hôm 16-3 cho biết quan điểm của ông Trump là vẫn ..." />
+<link rel="canonical" href="http://www.baomoi.com/nha-trang-bao-ve-cao-buoc-cua-ong-trump-trong-vo-vong/c/21792333.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792333" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792333" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/quoc-te/nha-trang-bao-ve-cao-buoc-cua-ong-trump-trong-vo-vong-689500.html");
+else
+window.location.replace("http://www.baomoi.com/nha-trang-bao-ve-cao-buoc-cua-ong-trump-trong-vo-vong/c/21792333.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

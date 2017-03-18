@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nguyên nhân, triệu chứng và cách điều trị chảy máu lợi - Đời Sống Plus
+</title><meta name="keywords" content="Chu Huyền,sung huyết,nhiễm khuẩn,Bổ sung vitamin C" /><meta name="description" content="Chảy máu lợi chủ yếu là do răng không đều, cộng với các nhân tố kích thích khác như mọc răng có các nốt ban khuẩn và yếu tố nội tiết gây ra." />
+<link rel="canonical" href="http://www.baomoi.com/nguyen-nhan-trieu-chung-va-cach-dieu-tri-chay-mau-loi/c/21792947.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792947" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792947" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://doisongvietnam.vn/nguyen-nhan-trieu-chung-va-cach-dieu-tri-chay-mau-loi-15856-9.html");
+else
+window.location.replace("http://www.baomoi.com/nguyen-nhan-trieu-chung-va-cach-dieu-tri-chay-mau-loi/c/21792947.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

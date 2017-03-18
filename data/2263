@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khởi tố Trịnh Xuân Thanh tội 'tham ô' - Hà Nội Mới
+</title><meta name="keywords" content="Nguyễn Ngọc Sinh,PVP Land,Đào Duy Phong,Trịnh Xuân Thanh,Lê Hòa Bình,Huỳnh Nguyễn Quốc Duy,tham ô,Thái Kiều Hương,chuyển nhượng cổ phần,phúc thẩm,lừa đảo,nam đàn plaza,tổng công ty cổ phần xây lắp dầu khí việt nam,Nguyễn Thị Kim Thoa,hội đồng xét xử,Thanh Hà,chỉ đạo,căn cứ,Tư Đô,tuyên án,Cienco 5 Land" /><meta name="description" content="Chiều 15-3, Tòa án nhân dân Cấp cao tại Hà Nội đã tuyên án phúc thẩm vụ án “lừa đảo” xảy ra tại dự án Thanh Hà - Cienco 5 Land." />
+<link rel="canonical" href="http://www.baomoi.com/khoi-to-trinh-xuan-thanh-toi-tham-o/c/21775595.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21775595" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21775595" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://hanoimoi.com.vn/Tin-tuc/Phap-luat/864462/khoi-to-trinh-xuan-thanh-toi-tham-o");
+else
+window.location.replace("http://www.baomoi.com/khoi-to-trinh-xuan-thanh-toi-tham-o/c/21775595.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

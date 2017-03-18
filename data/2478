@@ -1,0 +1,1517 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head>
+		<title>VnExpress - 100 nguoi giau nhat Viet Nam tren TTCK 2009</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="tt_category_id" content="1001191" >
+		<meta name="tt_article_id" content="1001191" >
+		<style type="text/css">
+			.body							{margin:0px; margin-left: 0px; margin-right: 0px; margin-right: 0px; margin-bottom: 0px;}
+			.bg_logo						{width:945px; height:90px; padding:43px 0px 0px 55px;}
+			.bg_logo_link					{height:44px; width:222px; float:left; cursor:pointer;}
+			.bg_body						{background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/bg_logo.gif) no-repeat;padding:0px;margin:0px;	}
+			.scroll_box 					{height: 586px;width:940px; display: auto;border:#66CCCC;overflow:scroll; overflow-x: hidden;}
+			.menu_btn 						{width:173px}
+			.menu_btn a						{background-image: url(http://st.f3.vnecdn.net/c/v126/toprich/2009/bg_btn.gif);background-repeat: no-repeat;width:172px;  height:31px;display:block;text-decoration:none;}
+			.a								{text-decoration:none;}
+			.menu_btn a:hover				{background-image: url(http://st.f3.vnecdn.net/c/v126/toprich/2009/bg_btn_changce.gif);}
+			.menu_qc 						{background-image: url(http://st.f3.vnecdn.net/c/v126/toprich/2009/menu_qc.gif);width:179px;  height:31px;}
+			.menu_top100					{width:173px;}
+			.menu_top100 a					{height:33px;display:block;}
+			.menu_top50 a					{height:33px;display:block;}
+			.menu_top30 a					{height:33px;display:block;}
+			.menu_top50,.menu_top30			{width:148px;}						
+			.div_content					{width:930px;}
+			.div_content table				{border: 1px solid #FFFFFF; border-collapse: collapse;}
+
+			.div_content_title				{width:940px;}
+			.div_content_title table		{border: 1px solid #FFFFFF; border-collapse: collapse;}
+			.div_content_title td			{font-family:Arial, Helvetica, sans-serif;font-weight:bold;border-right: 1px solid #FFFFFF;}
+			.div_content td					{border-right: 1px solid #FFFFFF;}
+			.footer							{background-image: url(http://st.f3.vnecdn.net/c/v126/toprich/2009/footer.JPG);width:160px; height:90px;}
+
+			.div_btn tr						{background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/boder_top.gif) repeat-x left bottom; width:900px; height:7px;}
+			.div_footerline					{background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/footer1.gif) repeat-x;width:100%; height:10px;}
+			.div_note						{font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#59060c;font-weight:bold;font-style: italic; padding:0px 15px;}
+			.div_copyright					{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#56030a;}
+			.div_copyright a				{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#56030a;}
+			.br_body_right_top				{background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/body_right_top.gif) no-repeat left bottom;width:100%; height:10px;}
+			.br_boder_bottom				{width:30px; height:100%; background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/boder_bottom.gif) repeat-y;}
+			.br_boder_right					{width:10px; height:100%; background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/boder_left_new.gif) repeat-y;}
+			.br_boder_left					{width:15px; height:100%; background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/boder_left_new.gif) repeat-y right;}
+			.br_body_left_top				{background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/body_left_top_new1.gif) no-repeat right bottom; height:8px; width:7px}
+			.br_body_left_bottom			{width:100%; heigh:9px; background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/body_left_bottom_new1.gif) repeat-y right;}
+			.br_boder_bottom1				{width:100%; heigh:7px; background:url(http://st.f3.vnecdn.net/c/v126/toprich/2009/boder_bottom.gif) repeat-x;}
+			tr.bg_tr td						{background:#e3e3e3;}
+			tr.bg_tr1 td					{background:#d0d0d0;}
+
+			.td1							{text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:30px;border-left:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+			.td2							{text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:30px;border-bottom:1px solid #ffffff;}
+			.td3							{text-align:left;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:175px;border-bottom:1px solid #ffffff;}
+			.td4							{text-align:left;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:150px;border-bottom:1px solid #ffffff;}
+			.td5							{text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:29px;border-bottom:1px solid #ffffff;}
+			.td6							{text-align:right;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:70px;border-bottom:1px solid #ffffff;}
+			.td7							{text-align:right;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:70px;border-bottom:1px solid #ffffff;}
+			.td8							{text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:32px;border-bottom:1px solid #ffffff;}
+			.td9							{text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:32px;border-bottom:1px solid #ffffff;}
+			.td10							{text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:34px;border-bottom:1px solid #ffffff;}
+
+
+
+			.td1_title						{background:#b0b0b0; text-align:center; font-family:Arial, Helvetica, sans-serif;font-size:10pt;width:60px;border-bottom:1px solid #ffffff;border-top:1px solid #ffffff;border-left:1px solid #ffffff;}
+			.td1_title1						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:10pt;width:30px;border-left:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+			.td1_title2						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:30px;border-bottom:1px solid #ffffff;}
+			.td2_title						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:175px;border-top:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+			.td3_title						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:150px;border-top:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+			.td4_title						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:29px;border-top:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+			.td5_title						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:142px;border-bottom:1px solid #ffffff;border-top:1px solid #ffffff;}
+			.td5_title1						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:70px;border-bottom:1px solid #ffffff;}
+			.td5_title2						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:70px;border-bottom:1px solid #ffffff;}
+			.td6_title						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:32px;border-top:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+			.td7_title						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:42px;border-top:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+			.td8_title						{background:#b0b0b0; text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;width:42px;border-top:1px solid #ffffff;border-bottom:1px solid #ffffff;}
+		</style>
+		<script type="text/javascript" language="javascript" src="http://st.f2.vnecdn.net/c/v1/toprich/js/library2.js"></script>
+		<!-- Start GA -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-249346-21']);
+			_gaq.push(['_trackPageview']);
+
+			_gaq.push(['b._setAccount', 'UA-249346-22']);
+			_gaq.push(['b._trackPageview']);
+
+			_gaq.push(['c._setAccount', 'UA-249346-57']);
+			_gaq.push(['c._trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<!-- End GA -->
+	</head>
+	<body class="body" bgcolor="#CCCCCC">
+		<table width="1000" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+			<tr valign="top">
+				<td class="bg_body">
+					<div class="bg_logo">
+						<div class="bg_logo_link"><a href="http://vnexpress.net/"><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/logo.gif" border="0" /></a></div>
+					</div>
+					<table cellpadding="0" cellspacing="0" width="1000">
+						<tr>
+							<td valign="top">
+								<table cellpadding="0" cellspacing="0" width="960" align="center">
+									<tr>
+										<td class="br_body_left_top"></td>
+									 	 <td valign="top">
+										 <div class="div_btn">
+											<table cellpadding="0" cellspacing="0" width="100%">
+												<tr align="left">
+													<td class="menu_top100" align="left">
+														<a href="/customize/chung-khoan/top/2009/top100/"><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/Top100_c1.gif" border="0" /></a>
+													</td>
+													<td class="menu_top50" align="left">
+														<a href="/customize/chung-khoan/top/2009/top50/"><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/Top50.gif" border="0" /></a>
+													</td>
+													<td class="menu_top30" align="left">
+														<a href="/customize/chung-khoan/top/2009/top30/"><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/Top30.gif" border="0" /></a>
+													</td>
+													<td><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/white.jpg" /></td>
+													<td></td>
+													<td></td>
+												</tr>
+											</table>
+										</div>	
+										</td> 
+										<td align="left" valign="bottom" class=""><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/body_right_top1.gif" style="width:10px; height:7px;"/></td>
+									</tr>
+									<tr>
+										<td valign="top" align="right" class="br_boder_left"></td>
+										<td valign="top">
+											<table cellpadding="0" cellspacing="0" width="100%">
+												<tr>
+													<td><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/line.JPG" width="100%" height="7"/></td>
+												</tr>
+												<tr>
+													<td>
+														<table cellpadding="4" cellspacing="0" class="div_content_title">
+														  <tr>
+															<td class="td1_title" colspan="2">Thứ bậc</td>
+															<td class="td2_title" rowspan="2">Họ và tên</td>
+															<td class="td3_title" rowspan="2">Doanh nghiệp</td>
+															<td class="td4_title" rowspan="2" >Mã CK</td>
+															<td class="td5_title" colspan="2" style=" ">Tài khoản của VIP<br /><font style="font-weight:normal"><i>(Tỷ đồng)</i></font></td>
+															<td class="td6_title" rowspan="2">Năm sinh</td>
+															<td class="td7_title" rowspan="2">Học vấn</td>
+															<td class="td8_title" rowspan="2">Cư trú</td>
+														  </tr>
+														  <tr>
+															<td class="td1_title1"><b>2009</b></td>
+															<td class="td1_title2"><b>2008</b></td>
+															<td class="td5_title1">2009<br/><font style="font-weight:normal"><i>(**)</i></font></td>
+															<td class="td5_title2">2008<br/><font style="font-weight:normal"><i>(***)</i></font></td>
+														  </tr>
+													  </table>
+													</td>
+												</tr>
+												<tr>
+													<td>	 
+														<div class="scroll_box">
+															<table border="0" align="left" cellpadding="4" cellspacing="0" class="div_content">
+																<tr class="bg_tr">
+<td class="td1">1</td>
+<td class="td2">1</td>
+<td class="td3"><b>Đoàn Nguyên Đức</b> - Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hoàng Anh Gia Lai</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HAG</SPAN></td>
+<td class="td6">11.439,335</td>
+<td class="td7">6.159,642</td>
+<td class="td8">1962</td>
+<td class="td9">12/12</td>
+<td class="td10">Gia Lai</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">2</td>
+<td class="td2">2</td>
+<td class="td3"><b>Phạm Nhật Vượng</b> - Thành viên HĐQT VIC  Thành viên HĐQT VPL</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty thương mại và du lịch Vinpearl</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VPL</SPAN></SPAN></DIV></td>
+<td class="td6">8.948,803</td>
+<td class="td7">5.225,484</td>
+<td class="td8">1968</td>
+<td class="td9">Kỹ sư kinh tế địa chất</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">3</td>
+<td class="td2">3</td>
+<td class="td3"><b>Đặng Thành Tâm</b> - Chủ tịch HĐQT kiêm TGĐ KBC, Thành viên HĐQT ITA, Chủ tịch HĐQT SGT</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Phát triển Đô thị Kinh Bắc </SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Đầu tư và Công nghiệp Tân Tạo</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Công nghệ viễn thông Sài Gòn</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KBC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ITA</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SGT</SPAN></DIV></td>
+<td class="td6">4.727,295</td>
+<td class="td7">3.279,965</td>
+<td class="td8">1964</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">4</td>
+<td class="td2">4</td>
+<td class="td3"><b>Trần Đình Long</b> - Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">2.981,160</td>
+<td class="td7">1.578,150</td>
+<td class="td8">1961</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">5</td>
+<td class="td2">5</td>
+<td class="td3"><b>Đặng Thị Hoàng Yến</b> - Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Đầu tư và Công nghiệp Tân Tạo</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ITA</SPAN></td>
+<td class="td6">2.697,465</td>
+<td class="td7">1.345,000</td>
+<td class="td8">1959</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">6</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Chính Nghĩa</b> - Chủ tịch HĐQT</td>
+<td class="td4">Công ty Quốc tế Hoàng Gia</td>
+<td class="td5">RIC</td>
+<td class="td6">2.229,048</td>
+<td class="td7"></td>
+<td class="td8">1957</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Đài Loan</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">7</td>
+<td class="td2">7</td>
+<td class="td3"><b>Nguyễn Duy Hưng</b> - Chủ tịch HĐQT kiêm Tổng giám đốc SSI, cổ đông lớn tại PAN, Ủy viên Hội đồng quản trị VSH, cổ đông lớn tại HAG</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Xuyên Thái Bình Dương</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Chứng khoán Sài Gòn</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Thuỷ điện Vĩnh Sơn Sông Hinh</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hoàng Anh Gia Lai </SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">PAN</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SSI</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VSH</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HAG</SPAN></DIV></td>
+<td class="td6">2.045,369</td>
+<td class="td7">971,061</td>
+<td class="td8">1962</td>
+<td class="td9">Cử nhân Luật</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">8</td>
+<td class="td2">18</td>
+<td class="td3"><b>Nguyễn Thị Kim Xuân</b> - Cổ đông lớn</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Phát triển Đô thị Kinh Bắc<BR>Công ty Công nghệ Viễn thông Sài Gòn</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KBC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SGT</SPAN></DIV></td>
+<td class="td6">1.608,961</td>
+<td class="td7">460,969</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">9</td>
+<td class="td2">15</td>
+<td class="td3"><b>Lê Phước Vũ</b> - Chủ tịch HĐQT kiêm TGĐ</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hoa Sen</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HSG</SPAN></td>
+<td class="td6">1.337,982</td>
+<td class="td7">507,788</td>
+<td class="td8">1963</td>
+<td class="td9">Trung học chuyên nghiệp</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">10</td>
+<td class="td2">6</td>
+<td class="td3"><b>Phạm Thu Hương</b> - Vợ ông Phạm Nhật Vượng, thành viên HĐQT</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty thương mại và du lịch Vinpearl</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VPL</SPAN></DIV></td>
+<td class="td6">1.313,235</td>
+<td class="td7">995,122</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">11</td>
+<td class="td2">11</td>
+<td class="td3"><b>Phạm Thuý Hằng</b> - Thành viên HĐQT VIC, vợ ông Nguyễn Quốc Thành thành viên HĐQT VPL</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty thương mại và du lịch Vinpearl</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VPL</SPAN></DIV></td>
+<td class="td6">1.063,353</td>
+<td class="td7">570,882</td>
+<td class="td8">1974</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">12</td>
+<td class="td2">9</td>
+<td class="td3"><b>Đặng Ngọc Lan</b> - Vợ ông Nguyễn Đức Kiên, Phó Chủ tịch Hội đồng sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5">ACB</td>
+<td class="td6">1.045,433</td>
+<td class="td7">615,658</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">13</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Dương Ngọc Minh</b> - Chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4">Công ty Hùng Vương</td>
+<td class="td5">HVG</td>
+<td class="td6">1.007,424</td>
+<td class="td7"></td>
+<td class="td8">1956</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">14</td>
+<td class="td2">8</td>
+<td class="td3"><b>Đặng Thị Hoàng Phượng</b> - Thành viên HĐQT, em ông Đặng Thành Tâm</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Phát triển Đô thị Kinh Bắc</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Đầu tư và Công nghiệp Tân Tạo</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty công nghệ viễn thông Sài Gòn</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KBC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ITA</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SGT</SPAN></DIV></td>
+<td class="td6">986,853</td>
+<td class="td7">669,968</td>
+<td class="td8">1969</td>
+<td class="td9">Đại học</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">15</td>
+<td class="td2">28</td>
+<td class="td3"><b>Trương Thị Lệ Khanh</b> - Chủ tịch HĐQT kiêm TGĐ</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vĩnh Hoàn</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VHC</SPAN></td>
+<td class="td6">970,110</td>
+<td class="td7">341,335</td>
+<td class="td8">1961</td>
+<td class="td9">PTTH</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">16</td>
+<td class="td2">13</td>
+<td class="td3"><b>Nguyễn Đức Kiên</b> - Phó chủ tịch Hội đồng sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></td>
+<td class="td6">954,613</td>
+<td class="td7">562,174</td>
+<td class="td8">1964</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">17</td>
+<td class="td2">17</td>
+<td class="td3"><b>Nguyễn Thuỷ Hà</b> - Cổ đông lớn</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></td>
+<td class="td6">954,235</td>
+<td class="td7">466,497</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">18</td>
+<td class="td2">10</td>
+<td class="td3"><b>Trương Gia Bình</b> - Chủ tịch Hội đồng quản trị</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty FPT</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">FPT</SPAN></td>
+<td class="td6">920,936</td>
+<td class="td7">582,871</td>
+<td class="td8">1956</td>
+<td class="td9">Tiến sĩ</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">19</td>
+<td class="td2">14</td>
+<td class="td3"><b>Vũ Thị Hiền</b> - Vợ ông Trần Đình Long, Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">900,981</td>
+<td class="td7">519,797</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">20</td>
+<td class="td2">16</td>
+<td class="td3"><b>Trần Hùng Huy</b> - Phó tổng giám đốc kiêm Thành viên HĐQT, con ông Trần Mộng Hùng</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></td>
+<td class="td6">838,956</td>
+<td class="td7">494,069</td>
+<td class="td8">1978</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">21</td>
+<td class="td2">22</td>
+<td class="td3"><b>Nguyễn Phương Anh</b> - Con gái Chủ tịch HĐQT Đặng Thị Hoàng Yến</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Đầu tư và Công nghiệp Tân Tạo</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ITA</SPAN></td>
+<td class="td6">799,065</td>
+<td class="td7">398,427</td>
+<td class="td8"></td>
+<td class="td9">Cử nhân</td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">22</td>
+<td class="td2">25</td>
+<td class="td3"><b>Nguyễn Thị Hương Lan</b> - Cổ đông lớn</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></td>
+<td class="td6">762,281</td>
+<td class="td7">372,656</td>
+<td class="td8">1970</td>
+<td class="td9">Thạc sĩ</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">23</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Hoàng Yến</b> - Thành viên HĐQT, vợ ông Nguyễn Đăng Quang Chủ tịch HĐQT</td>
+<td class="td4">Công ty cổ phần Tập đoàn Ma San</td>
+<td class="td5">MSN</td>
+<td class="td6">744,857</td>
+<td class="td7"></td>
+<td class="td8">1963</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">24</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Hồ Hùng Anh</b> - Phó chủ tịch HĐQT</td>
+<td class="td4">Công ty&nbsp;cổ phần&nbsp;Tập đoàn Ma San</td>
+<td class="td5">MSN</td>
+<td class="td6">744,474</td>
+<td class="td7"></td>
+<td class="td8">1970</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">25</td>
+<td class="td2">21</td>
+<td class="td3"><b>Trần Kim Thành</b> - Chủ tịch HĐQT NKD, KDC; Thành viên HĐQT SVC</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Kinh Đô</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Kinh Đô miền Bắc</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Dịch vụ Tổng hợp Sài Gòn</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KDC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">NKD</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SVC</SPAN></DIV></td>
+<td class="td6">737,238</td>
+<td class="td7">401,908</td>
+<td class="td8">1960</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">26</td>
+<td class="td2">32</td>
+<td class="td3"><b>Trần Lệ Nguyên</b> - Phó chủ tịch HĐQT kiêm Tổng giám đốc KDC; em ông Trần Kim Thành thành viên HĐQT SVC</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Kinh Đô</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Dịch vụ Tổng hợp Sài Gòn</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KDC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SVC</SPAN></DIV></td>
+<td class="td6">707,318</td>
+<td class="td7">251,359</td>
+<td class="td8">1968</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">27</td>
+<td class="td2">24</td>
+<td class="td3"><b>Trần Thị Thu Diệp</b> - Cổ đông lớn</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">699,402</td>
+<td class="td7">376,601</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">28</td>
+<td class="td2">20</td>
+<td class="td3"><b>Trần Mộng Hùng</b> - Chủ tịch Hội đồng sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><FONT face=Arial size=2>ACB</FONT></td>
+<td class="td6">694,163</td>
+<td class="td7">408,794</td>
+<td class="td8">1953</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">29</td>
+<td class="td2">36</td>
+<td class="td3"><b>Nguyễn Hồng Nam</b> - Ủy viên HĐQT kiêm Phó tổng Giám đốc - em trai ông Nguyễn Duy Hưng</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Chứng khoán Sài Gòn</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SSI</SPAN></td>
+<td class="td6">662,816</td>
+<td class="td7">195,994</td>
+<td class="td8">1967</td>
+<td class="td9">Thạc sĩ</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">30</td>
+<td class="td2">19</td>
+<td class="td3"><b>Nguyễn Thị Kim Thanh</b> - Vợ ông Đặng Thành Tâm - Thành viên HĐQT ITA, Chủ tịch SGT, Chủ tịch KBC</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Phát triển Đô thị Kinh Bắc</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Đầu tư và Công nghiệp Tân Tạo</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty công nghệ viễn thông Sài Gòn</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KBC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ITA </SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SGT</SPAN></DIV></td>
+<td class="td6">658,781</td>
+<td class="td7">454,261</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">31</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Phạm Khắc Phương</b> - Cổ đông lớn</td>
+<td class="td4">Công ty Vincom</td>
+<td class="td5">VIC</td>
+<td class="td6">637,854</td>
+<td class="td7"></td>
+<td class="td8">1967</td>
+<td class="td9">Kỹ sư địa chất</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">32</td>
+<td class="td2">26</td>
+<td class="td3"><b>Đặng Văn Thành</b> - Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Ngân hàng Sài Gòn Thương Tín</FONT></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>STB</FONT></SPAN></td>
+<td class="td6">631,797</td>
+<td class="td7">368,283</td>
+<td class="td8">1960</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">33</td>
+<td class="td2">40</td>
+<td class="td3"><b>Chu Thị Bình</b> - Phó Tổng giám đốc, vợ ông Lê Văn Quang, mẹ cô Lê Thị Dịu Minh</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty thuỷ sản Minh Phú</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">MPC</SPAN></td>
+<td class="td6">578,422</td>
+<td class="td7">188,993</td>
+<td class="td8">1964</td>
+<td class="td9">Trung cấp</td>
+<td class="td10">Cà Mau</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">34</td>
+<td class="td2">42</td>
+<td class="td3"><b>Lê Văn Quang</b> - Chủ tịch HĐQT kiêm TGĐ - Chồng bà Chu Thị Bình</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty thuỷ sản Minh Phú</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">MPC</SPAN></td>
+<td class="td6">528,309</td>
+<td class="td7">183,551</td>
+<td class="td8">1958</td>
+<td class="td9">Đại học</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">35</td>
+<td class="td2">12</td>
+<td class="td3"><b>Doãn Tới</b> - Chủ tịch HĐQT, kiêm Tổng giám đốc</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Nam Việt</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ANV</SPAN></td>
+<td class="td6">521,130</td>
+<td class="td7">563,060</td>
+<td class="td8">1954</td>
+<td class="td9">Cử nhân Luật</td>
+<td class="td10">An Giang</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">36</td>
+<td class="td2">29</td>
+<td class="td3"><b>Trần Phú Mỹ</b> - Em ông Trần Mộng Hùng, Chủ tịch Hội đồng sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></td>
+<td class="td6">513,356</td>
+<td class="td7">302,317</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">37</td>
+<td class="td2">23</td>
+<td class="td3"><b>Đặng Hồng Anh</b> - Thành viên HĐQT, con Chủ tịch HĐQT Đặng Văn Thành</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng&nbsp;Sài Gòn Thương Tín</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">STB</SPAN></td>
+<td class="td6">501,425</td>
+<td class="td7">384,557</td>
+<td class="td8">1980</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">38</td>
+<td class="td2">31</td>
+<td class="td3"><b>Trần Đặng Thu Thảo</b> - Con ông Trần Mộng Hùng</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></td>
+<td class="td6">470,943</td>
+<td class="td7">277,340</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">39</td>
+<td class="td2">30</td>
+<td class="td3"><b>Bùi Quang Ngọc</b> - Phó Chủ tịch HĐQT kiêm Phó TGĐ</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty FPT</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">FPT</SPAN></td>
+<td class="td6">466,553</td>
+<td class="td7">295,286</td>
+<td class="td8">1956</td>
+<td class="td9">Tiến sĩ</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">40</td>
+<td class="td2">34</td>
+<td class="td3"><b>Vũ Thị Nga</b> - Cổ đông sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Đầu tư và Công nghiệp Tân Tạo</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ITA</SPAN></td>
+<td class="td6">466,121</td>
+<td class="td7">232,415</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">41</td>
+<td class="td2">39</td>
+<td class="td3"><b>Nguyễn Mạnh Tuấn</b> - Phó chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">351,000</td>
+<td class="td7">189,000</td>
+<td class="td8">1962</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">42</td>
+<td class="td2">38</td>
+<td class="td3"><b>Trần Tuấn Dương</b> - Phó Chủ tịch Hội đồng quản trị kiêm Tổng giám đốc</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">351,000</td>
+<td class="td7">189,000</td>
+<td class="td8">1963</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">43</td>
+<td class="td2">33</td>
+<td class="td3"><b>Nguyễn Ngọc Hải</b> - Cổ đông  lớn - Chồng bà Nguyễn Thị Mai Thanh - Thành viên HĐQT STB kiêm TGĐ REE</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng Sài Gòn Thương Tín<BR>Công ty Cơ điện lạnh REE</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">STB<BR>REE</SPAN></DIV></td>
+<td class="td6">349,168</td>
+<td class="td7">240,782</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">44</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Trần Văn Thành</b> - Phó chủ tịch HĐQT</td>
+<td class="td4">Công ty Vạn Phát Hưng</td>
+<td class="td5">VPH</td>
+<td class="td6">337,995</td>
+<td class="td7"></td>
+<td class="td8">1958</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">45</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Võ Anh Tuấn</b> - Chủ tịch HĐQT</td>
+<td class="td4">Công ty Vạn Phát Hưng</td>
+<td class="td5">VPH</td>
+<td class="td6">337,995</td>
+<td class="td7"></td>
+<td class="td8">1959</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">46</td>
+<td class="td2">44</td>
+<td class="td3"><b>Chu Quân</b> - Thành viên HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">315,900</td>
+<td class="td7">170,100</td>
+<td class="td8">1961</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">47</td>
+<td class="td2">35</td>
+<td class="td3"><b>Hoàng Minh Châu</b> - Phó Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty FPT</FONT></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>FPT</FONT></SPAN></td>
+<td class="td6">313,408</td>
+<td class="td7">198,209</td>
+<td class="td8">1958</td>
+<td class="td9">MBA</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">48</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Đỗ Quang Hiển</b> - Chủ tịch HĐQT</td>
+<td class="td4">Ngân hàng Sài Gòn - Hà Nội</td>
+<td class="td5">SHB</td>
+<td class="td6">306,708</td>
+<td class="td7"></td>
+<td class="td8">1962</td>
+<td class="td9">Kỹ sư</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">49</td>
+<td class="td2">34</td>
+<td class="td3"><b>Huỳnh Quế Hà</b> - Phó chủ tịch HĐQT STB, Thành viên HĐQT VTO</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín </FONT></SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty cổ phần Vận tải Xăng dầu Vitaco</FONT></SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>STB</FONT></SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>VTO</FONT></SPAN></DIV></td>
+<td class="td6">305,182</td>
+<td class="td7">204,096</td>
+<td class="td8">1969</td>
+<td class="td9">MBA</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">50</td>
+<td class="td2">43</td>
+<td class="td3"><b>Đặng Thu Thuỷ</b> - Vợ ông Trần Mộng Hùng Chủ tịch Hội đồng sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><FONT face=Arial size=2>ACB</FONT></td>
+<td class="td6">300,804</td>
+<td class="td7">177,144</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">51</td>
+<td class="td2">37</td>
+<td class="td3"><b>Đỗ Cao Bảo</b> - Thành viên HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty FPT</FONT></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>FPT</FONT></SPAN></td>
+<td class="td6">300,016</td>
+<td class="td7">189,883</td>
+<td class="td8">1957</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">52</td>
+<td class="td2">27</td>
+<td class="td3"><b>Nguyễn Quốc Thành</b> - Thành viên HĐQT VPL, chồng bà Phạm Thuý Hằng - Thành viên HĐQT VIC</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty thương mại và du lịch Vinpearl</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VPL</SPAN></DIV></td>
+<td class="td6">299,070</td>
+<td class="td7">365,751</td>
+<td class="td8">1969</td>
+<td class="td9">Kỹ sư địa chất</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">53</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Lê Ngọc Ánh</b> - Vợ ông Phạm Túc Toại, Chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4"><P>Tập đoàn Hoàng Long</P></td>
+<td class="td5">HLG</td>
+<td class="td6">283,850</td>
+<td class="td7"></td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">54</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Lương Trí Thìn</b> - Chủ tịch HĐQT</td>
+<td class="td4">Công ty Cổ phần Dịch vụ- Xây dựng Địa ốc Đất Xanh</td>
+<td class="td5">DXG</td>
+<td class="td6">275,880</td>
+<td class="td7"></td>
+<td class="td8">1976</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">55</td>
+<td class="td2">70</td>
+<td class="td3"><b>Nguyễn Xuân Mai</b> - Chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tổng công ty khoáng sản Hà <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:place w:st="on"><st1:country-region w:st="on">Nam</st1:country-region></st1:place></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KSH</SPAN></td>
+<td class="td6">270,180</td>
+<td class="td7">98,040</td>
+<td class="td8">1963</td>
+<td class="td9">Cử nhân kinh tế</td>
+<td class="td10">Hà Nam</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">56</td>
+<td class="td2">50</td>
+<td class="td3"><b>Đoàn Nguyên Thu</b> - Phó tổng giám đốc, em ông Đoàn Nguyên Đức Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hoàng Anh Gia Lai</SPAN></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HAG</SPAN></td>
+<td class="td6">265,617</td>
+<td class="td7">143,024</td>
+<td class="td8">1977</td>
+<td class="td9">MBA</td>
+<td class="td10">Gia Lai</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">57</td>
+<td class="td2">53</td>
+<td class="td3"><b>Doãn Gia Cường</b> - Phó chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">263,250</td>
+<td class="td7">141,750</td>
+<td class="td8">1963</td>
+<td class="td9">Thạc sĩ Kinh tế</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">58</td>
+<td class="td2">52</td>
+<td class="td3"><b>Nguyễn Ngọc Quang</b> - Thành viên HĐQT</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Tập đoàn Hòa Phát</SPAN></DIV></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HPG</SPAN></td>
+<td class="td6">263,250</td>
+<td class="td7">141,750</td>
+<td class="td8">1960</td>
+<td class="td9">Trung cấp</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">59</td>
+<td class="td2">72</td>
+<td class="td3"><b>Vương Bửu Linh</b> - Cổ đông sáng lập, Phó tổng giám đốc NKD, vợ chủ tịch Trần Kim Thành</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Kinh Đô</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Chế biến Thực phẩm Kinh Đô Miền Bắc&nbsp;&nbsp;</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Dịch vụ Tổng hợp Sài Gòn</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KDC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">NKD</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SVC</SPAN></DIV></td>
+<td class="td6">246,664</td>
+<td class="td7">92,371</td>
+<td class="td8">1965</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">60</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Lê Văn Dũng</b> - Chủ tịch HĐQT, Tổng giám đốc</td>
+<td class="td4">Công ty Dược phẩm Viễn Đông</td>
+<td class="td5">DVD</td>
+<td class="td6">243,000</td>
+<td class="td7"></td>
+<td class="td8">1972</td>
+<td class="td9">Dược sĩ Đại học, MBA</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">61</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Thiều Quang</b> - Anh trai ông Nguyễn Thiều Nam thành viên HĐQT kiêm Phó giám đốc</td>
+<td class="td4">Công ty CP Tập đoàn Ma San</td>
+<td class="td5">MSN</td>
+<td class="td6">238,148</td>
+<td class="td7"></td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">62</td>
+<td class="td2">55</td>
+<td class="td3"><b>Nguyễn Thuỳ Hương</b> - Em gái ông Nguyễn Đức Kiên - Phó chủ tịch Hội đồng sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></td>
+<td class="td6">236,154</td>
+<td class="td7">139,072</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">63</td>
+<td class="td2">54</td>
+<td class="td3"><b>Nguyễn Thuý Lan</b> - Em gái ông Nguyễn Đức Kiên - Phó Chủ tịch Hội đồng sáng lập</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></td>
+<td class="td6">236,154</td>
+<td class="td7">139,072</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">64</td>
+<td class="td2">88</td>
+<td class="td3"><b>Nguyễn Phú Cường</b> - Ủy viên HĐQT</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty đầu tư đô thị và khu công nghiệp Sông Đà</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ủy viên HĐQT Seaprodex Hà Nội</SPAN></DIV></td>
+<td class="td5">SJS</td>
+<td class="td6">235,424</td>
+<td class="td7">63,564</td>
+<td class="td8">1968</td>
+<td class="td9">Thạc sĩ Kinh tế</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">65</td>
+<td class="td2">71</td>
+<td class="td3"><b>Vương Ngọc Xiềm</b> - Phó Tổng giám đốc</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Kinh Đô</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Chế biến Thực phẩm Kinh Đô Miền Bắc&nbsp;&nbsp;</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">KDC</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">NKD</SPAN></DIV></td>
+<td class="td6">235,267</td>
+<td class="td7">92,371</td>
+<td class="td8">1962</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">66</td>
+<td class="td2">65</td>
+<td class="td3"><b>Phạm Hồng Linh</b> - Thành viên HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></td>
+<td class="td6">234,872</td>
+<td class="td7">114,822</td>
+<td class="td8">1965</td>
+<td class="td9">Cao đẳng</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">67</td>
+<td class="td2">84</td>
+<td class="td3"><b>Nguyễn Mạnh Hùng</b> - Em ông Nguyễn Duy Hưng - Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty Chứng khoán Sài Gòn</FONT></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>SSI</FONT></SPAN></td>
+<td class="td6">226,238</td>
+<td class="td7">68,727</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">68</td>
+<td class="td2">58</td>
+<td class="td3"><b>Huỳnh Thanh Thuỷ</b> - Thành viên HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></td>
+<td class="td6">220,929</td>
+<td class="td7">130,105</td>
+<td class="td8">1967</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">69</td>
+<td class="td2">80</td>
+<td class="td3"><b>Lê Thị Dịu Minh</b> - Thành viên HĐQT, con gái ông Lê Văn Quang - Chủ tịch kiêm TGĐ</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty thuỷ sản Minh Phú</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">MPC</SPAN></td>
+<td class="td6">218,460</td>
+<td class="td7">75,900</td>
+<td class="td8">1986</td>
+<td class="td9">Đại học</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">70</td>
+<td class="td2">56</td>
+<td class="td3"><b>Nguyễn Thành Nam</b> - Tổng giám đốc FPT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty FPT</FONT></SPAN></td>
+<td class="td5"><FONT face=Arial color=#000000 size=2>FPT</FONT></td>
+<td class="td6">210,607</td>
+<td class="td7">133,295</td>
+<td class="td8">1961</td>
+<td class="td9">Tiến sĩ</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">71</td>
+<td class="td2">69</td>
+<td class="td3"><b>Đỗ Đông Nam</b> - Chồng bà Phạm Hồng Linh - Thành viên HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Vincom</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">VIC</SPAN></td>
+<td class="td6">207,340</td>
+<td class="td7">101,362</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">72</td>
+<td class="td2">57</td>
+<td class="td3"><b>Trương Thanh Thanh</b> - Phó Chủ tịch HĐQT- chị gái ông Trương Gia Bình</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty&nbsp;FPT</FONT></SPAN></td>
+<td class="td5"><FONT face=Arial color=#000000 size=2>FPT</FONT></td>
+<td class="td6">206,233</td>
+<td class="td7">130,527</td>
+<td class="td8">1951</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">73</td>
+<td class="td2">68</td>
+<td class="td3"><b>Nguyễn Vĩnh Thọ</b> - Chồng bà Đặng Thị Hoàng Phượng Thành viên HĐQT ITA và Tổng giám đốc SGT</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty công nghệ viễn thông Sài Gòn</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Đầu tư và Công nghiệp Tân Tạo</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ITA</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SGT</SPAN></DIV></td>
+<td class="td6">203,638</td>
+<td class="td7">103,220</td>
+<td class="td8">1961</td>
+<td class="td9">MBA</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">74</td>
+<td class="td2">48</td>
+<td class="td3"><b>Nguyễn Tuấn Hải</b> - Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Alphanam</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ALP</SPAN></td>
+<td class="td6">203,370</td>
+<td class="td7">153,621</td>
+<td class="td8">1965</td>
+<td class="td9">MBA</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">75</td>
+<td class="td2">59</td>
+<td class="td3"><b>Phan Ngô Tống Hưng</b> - Phó Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty&nbsp;FPT</FONT></SPAN></td>
+<td class="td5"><FONT face=Arial color=#000000 size=2>FPT</FONT></td>
+<td class="td6">200,462</td>
+<td class="td7">126,874</td>
+<td class="td8">1961</td>
+<td class="td9">MBA</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">76</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Phan Tiết Hồng Minh</b> - Thành viên HĐQT, Vợ ông Võ Anh Tuấn - Chủ tịch Hội đồng quản trị</td>
+<td class="td4"><P>Công ty Vạn Phát Hưng</P></td>
+<td class="td5">VPH</td>
+<td class="td6">193,140</td>
+<td class="td7"></td>
+<td class="td8">1956</td>
+<td class="td9">Bác sĩ nhi khoa</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">77</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Quách Thị Tú Anh</b> - Thành viên HĐQT - Vợ ông Trần Văn Thành - Phó chủ tịch HĐQT</td>
+<td class="td4">Công ty Vạn Phát Hưng</td>
+<td class="td5">VPH</td>
+<td class="td6">193,140</td>
+<td class="td7"></td>
+<td class="td8">1958</td>
+<td class="td9">12/12</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">78</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Phạm Phúc Toại</b> - Chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4">Tập đoàn Hoàng Long</td>
+<td class="td5">HLG</td>
+<td class="td6">190,957</td>
+<td class="td7"></td>
+<td class="td8">1956</td>
+<td class="td9">Đại học An Ninh</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">79</td>
+<td class="td2">76</td>
+<td class="td3"><b>Phạm Trung Cang</b> - Phó Chủ tịch HĐQT ACB- Chủ tịch HĐQT TPC</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Nhựa Tân Đại Hưng&nbsp;</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">TPC</SPAN></DIV></td>
+<td class="td6">168,404</td>
+<td class="td7">87,301</td>
+<td class="td8">1954</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">80</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Lê Minh Hải</b> - Chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4"><P>Công ty Ống thép Việt Đức VG Pipe</P></td>
+<td class="td5">VGS</td>
+<td class="td6">165,276</td>
+<td class="td7"></td>
+<td class="td8">1964</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">81</td>
+<td class="td2">74</td>
+<td class="td3"><b>Phạm Đỗ Can Trường</b> - Con trai ông Phạm Trung Cang - Phó Chủ tịch HĐQT ACB</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Nhựa Tân Đại Hưng</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">TPC</SPAN></DIV></td>
+<td class="td6">160,413</td>
+<td class="td7">89,823</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">82</td>
+<td class="td2">73</td>
+<td class="td3"><b>Phạm Đỗ Quế Hương</b> - con gái ông Phạm Trung Cang</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Nhựa Tân Đại Hưng</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">TPC</SPAN></DIV></td>
+<td class="td6">160,413</td>
+<td class="td7">89,823</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">83</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Đặng Phước Thành</b> - Chủ tịch HĐQT</td>
+<td class="td4">Công ty Ánh Dương Việt</td>
+<td class="td5">VNS</td>
+<td class="td6">156,643</td>
+<td class="td7"></td>
+<td class="td8">1957</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">84</td>
+<td class="td2">46</td>
+<td class="td3"><b>Doãn Chí Thanh</b> - Thành viên HĐQT, trợ lý Tổng giám đốc- con trai ông Doãn Tới Chủ tịch HĐQT- kiêm Tổng giám đốc</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty&nbsp;Nam Việt</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ANV</SPAN></td>
+<td class="td6">156,600</td>
+<td class="td7">169,200</td>
+<td class="td8">1983</td>
+<td class="td9">Cử nhân ngành Công nghệ thông tin</td>
+<td class="td10">An Giang</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">85</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Tuấn Anh</b> - Chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4">Công ty INTACO</td>
+<td class="td5"><P>ATA</P></td>
+<td class="td6">155,650</td>
+<td class="td7"></td>
+<td class="td8">1960</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">An Giang</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">86</td>
+<td class="td2">51</td>
+<td class="td3"><b>Lê Quang Tiến</b> - Phó chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty&nbsp;FPT</FONT></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>FPT</FONT></SPAN></td>
+<td class="td6">147,531</td>
+<td class="td7">142,518</td>
+<td class="td8">1958</td>
+<td class="td9">MBA</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">87</td>
+<td class="td2">45</td>
+<td class="td3"><b>Doãn Chí Thiên</b> - Con trai ông Doãn Tới, Chủ tịch HĐQT, Tổng giám đốc</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty Nam Việt</FONT></SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>ANV</FONT></SPAN></td>
+<td class="td6">147,168</td>
+<td class="td7">169,200</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">88</td>
+<td class="td2">89</td>
+<td class="td3"><b>Trần Xảo Cơ</b> - Chủ tịch HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Hữu Liên Á Châu</SPAN></td>
+<td class="td5"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">HLA</SPAN></td>
+<td class="td6">146,500</td>
+<td class="td7">63,000</td>
+<td class="td8">1948</td>
+<td class="td9"></td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">89</td>
+<td class="td2">92</td>
+<td class="td3"><b>Hà Thị Thanh Vân</b> - Chủ tịch HĐQT kiêm Phó TGĐ PAN, vợ ông Nguyễn Hồng Nam Tổng giám đốc SSI</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Xuyên Thái Bình</SPAN></SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Chứng khoán Sài Gòn</SPAN></SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">PAN</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">SSI</SPAN></DIV></td>
+<td class="td6">145,827</td>
+<td class="td7">60,024</td>
+<td class="td8">1968</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">90</td>
+<td class="td2">79</td>
+<td class="td3"><b>Đỗ Thị Quế Thanh</b> - Giám đốc TPC, vợ ông Phạm Trung Cang - Phó chủ tịch ACB</td>
+<td class="td4"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Công ty Nhựa Tân Đại Hưng&nbsp;</SPAN></DIV></td>
+<td class="td5"><DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">ACB </SPAN></DIV>
+<DIV><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">TPC</SPAN></DIV></td>
+<td class="td6">144,607</td>
+<td class="td7">78,967</td>
+<td class="td8"></td>
+<td class="td9">Cử nhân</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">91</td>
+<td class="td2">66</td>
+<td class="td3"><b>Hoàng Nam Tiến</b> - Thành viên HĐQT FPT, Chủ tịch FDC</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><FONT color=#000000>Công ty&nbsp;FPT</FONT></SPAN></td>
+<td class="td5"><FONT face=Arial color=#000000 size=2>FPT</FONT></td>
+<td class="td6">144,149</td>
+<td class="td7">114,032</td>
+<td class="td8">1969</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">92</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Hồ Văn Hoàng</b> - Cổ đông lớn</td>
+<td class="td4">Tập đoàn Hoa Sen</td>
+<td class="td5">HSG</td>
+<td class="td6">141,640</td>
+<td class="td7"></td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10">Bến Tre</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">93</td>
+<td class="td2">114</td>
+<td class="td3"><b>Trần Quang Nghị</b> - Ủy viên HĐQT TDH, Tổng giám đốc Dệt Phong Phú</td>
+<td class="td4">Công ty Phát triển nhà Thủ Đức</td>
+<td class="td5">TDH</td>
+<td class="td6">134,517</td>
+<td class="td7">38,414</td>
+<td class="td8">1960</td>
+<td class="td9">Cử nhân Kinh tế</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">94</td>
+<td class="td2">118</td>
+<td class="td3"><b>Trần Tiến Dũng</b> - Cổ đông lớn</td>
+<td class="td4">Công ty Đầu tư đô thị và Khu công nghiệp Sông Đà</td>
+<td class="td5">SJS</td>
+<td class="td6">133,424</td>
+<td class="td7">36,024</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">95</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Vũ Gia Cường</b> - Phó chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4">Công ty Phát triển đô thị Từ Liêm</td>
+<td class="td5">NTL</td>
+<td class="td6">131,112</td>
+<td class="td7"></td>
+<td class="td8"></td>
+<td class="td9">Kỹ sư, Cử nhân Luật</td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">96</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Thị Thanh Thủy</b> - Vợ ông Lê Minh Hải - Chủ tịch HĐQT kiêm Tổng giám đốc</td>
+<td class="td4">Công ty Ống thép Việt Đức VG Pipe</td>
+<td class="td5">VGS</td>
+<td class="td6">129,465</td>
+<td class="td7"></td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">97</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Văn Kha</b> - Chủ tịch HĐQT</td>
+<td class="td4">Công ty Phát triển Đô thị Từ Liêm&nbsp;</td>
+<td class="td5">NTL</td>
+<td class="td6">128,870</td>
+<td class="td7"></td>
+<td class="td8"></td>
+<td class="td9">Trung cấp</td>
+<td class="td10"></td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">98</td>
+<td class="td2">105</td>
+<td class="td3"><b>Cô Gia Thọ</b> - Thành viên HĐQT</td>
+<td class="td4"><DIV>Công ty Kinh Đô</DIV>
+<DIV>Công ty Kinh Đô Miền Bắc</DIV></td>
+<td class="td5"><DIV>KDC</DIV>
+<DIV>NKD</DIV></td>
+<td class="td6">128,055</td>
+<td class="td7">48,161</td>
+<td class="td8">1958</td>
+<td class="td9">Quản trị doanh nghiệp</td>
+<td class="td10">TP HCM</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">99</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Đinh Quang Chiến</b> - Thành viên HĐQT kiêm Kế toán trưởng</td>
+<td class="td4">Công ty Phát triển Đô thị Từ Liêm</td>
+<td class="td5">NTL</td>
+<td class="td6">127,800</td>
+<td class="td7"></td>
+<td class="td8">1967</td>
+<td class="td9">Cử nhân</td>
+<td class="td10">Hà Nội</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">100</td>
+<td class="td2">81</td>
+<td class="td3"><b>Huỳnh Tấn Thanh</b> - Cha của bà Huỳnh Thanh Thuỷ - Thành viên HĐQT</td>
+<td class="td4"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Ngân hàng ACB</SPAN></td>
+<td class="td5"><FONT face=Arial size=2>ACB</FONT></td>
+<td class="td6">123,954</td>
+<td class="td7">72,997</td>
+<td class="td8"></td>
+<td class="td9"></td>
+<td class="td10"></td>
+</tr>
+
+															</table>
+														</div>
+													</td>
+												</tr>
+											</table>
+										</td>
+									<td valign="top" align="left" class="br_boder_right"></td>
+									</tr>
+									<tr valign="top">
+										<td align="right" class="br_body_left_bottom"></td>
+										<td align="center" class="br_boder_bottom1"></td>
+										<td><img src="http://st.f3.vnecdn.net/c/v126/toprich/2009/body_right_bottom.gif" style="width:10px; height:12px;"/></td>
+									</tr>
+								</table>
+							</td>
+							<!--<td valign="top">
+								<table align="left">
+									<tr>
+										<td class="menu_qc" valign="top"></td>
+									</tr>
+									<tr>
+										<td></td>
+									</tr>									
+								</table>
+							</td>	-->
+						</tr>
+						<tr>
+							<td  colspan="2">
+								<table>
+								<tr>
+									<td width="18"></td>
+									<td>
+									<div class="div_note">
+										<table>										
+											<tr>
+											  <td>- Dữ liệu: Cáo bạch và thông tin của doanh nghiệp niêm yết tại hai Sở Giao dịch Chứng khoán Hà Nội và TP HCM</td>
+											</tr>
+											<tr>
+												<td>- (*): Thuộc doanh nghiệp mới lên sàn năm 2009, hoặc trước đó nhưng chưa có thông tin</td>
+											</tr>
+											<tr>
+												<td>- (**): Tổng giá trị cổ phiếu nắm giữ theo giá đóng cửa phiên giao dịch 31/12/2009</td>
+											</tr>
+											<tr>
+												<td>- (***): Tổng giá trị cổ phiếu nắm giữ theo giá đóng cửa phiên giao dịch 31/12/2008</td>
+											</tr>
+										</table>
+									</div>
+									</td>
+								</tr>
+								</table>
+
+							</td>
+						
+						</tr>
+					</table>
+			  </td>
+			</tr>
+			<!--<tr>
+				<td class="footer"></td>
+			</tr>-->
+			<tr>
+				<td>
+					<br />
+					----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+					<br />
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div class="div_copyright">
+						<table>
+							<tr>
+								<td>&#169;&nbsp;CopyRight 1997 - 2013 VNExpress.net, All right reserved <a href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <a href="javascript:ContactUs()">Thông tin tòa so&#7841;n</a></td>
+							</tr>
+							<tr>
+								<td>&#174;&nbsp;VnExpress giữ bản quyền nội dung trang này.<br /></td>
+							</tr>
+						</table>
+					</div>
+
+				</td>
+			</tr>
+			<tr>
+				<td class="div_footerline"></td>
+			</tr>
+		</table>
+		<script type="text/javascript">
+		//Tracking FOSP         
+		var _siteId="24";
+		(function(){
+			var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";
+			var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)
+		})(); 
+		</script>
+	</body>
+</html>
+

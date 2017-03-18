@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khoảnh khắc gượng gạo giữa ông Trump và bà Merkel - Zing
+</title><meta name="keywords" content="Angela Merkel,Trump,Mỹ Donald Trump,Đức Angela Merkel,Nhà Trắng,Thế Long" /><meta name="description" content="Ngày 17/3, Tổng thống Mỹ Donald Trump tỏ ra im lặng trước đề nghị bắt tay Thủ tướng Đức Angela Merkel tại phòng Bầu dục ở Nhà Trắng." />
+<link rel="canonical" href="http://www.baomoi.com/khoanh-khac-guong-gao-giua-ong-trump-va-ba-merkel/c/21792935.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792935" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792935" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/khoanh-khac-guong-gao-giua-ong-trump-va-ba-merkel-post729372.html");
+else
+window.location.replace("http://www.baomoi.com/khoanh-khac-guong-gao-giua-ong-trump-va-ba-merkel/c/21792935.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

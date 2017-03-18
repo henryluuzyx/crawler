@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tạm dừng thi công dự án nạo vét trên sông Cầu - Hà Nội Mới
+</title><meta name="keywords" content="sông Cầu,đường thủy,phê duyệt,chấp thuận,chủ trương,giám sát,thống nhất,Cục Đường thủy nội địa,bảo đảm" /><meta name="description" content="Ngày 17-3, Bộ GT-VT đã có thông báo về việc tạm dừng thi công Dự án nạo vét, khơi thông luồng đường thủy nội địa, kết hợp tận thu sản phẩm trên tuyến sông Cầu." />
+<link rel="canonical" href="http://www.baomoi.com/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/c/21793066.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793066" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793066" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://hanoimoi.com.vn/Tin-tuc/Kinh-te/864625/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau");
+else
+window.location.replace("http://www.baomoi.com/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/c/21793066.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,429 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" lang="vi"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Điểm đến mỗi tuần - Du Lịch</title><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><title>
+Du Lịch - Dân trí
+</title><link href="https://dantri4.vcmedia.vn/web_css/dulich.main.1.1.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="https://dantri3.vcmedia.vn/Scripts/dulich/dulich.main.1.0.js"></script>
+<script type="text/javascript">
+function setCookieForMobile(cname, cvalue, exdays) {
+var d = new Date();
+d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+var expires = "expires=" + d.toUTCString();
+document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function CheckMobileRedirect() {
+try {
+//check session on client
+if (typeof (Storage) !== "undefined") {
+var session = sessionStorage.getItem("VisitSession");
+if (session == null) {
+//phien lam viec moi
+sessionStorage.setItem("VisitSession", "1");
+
+var hash = window.location.hash;
+if (hash == "#first") {
+//link được redirect từ bản mobile sang thì không làm gì.
+window.history.replaceState("", "", window.location.href.split('#')[0]);
+} else {
+//nếu không phải link đá từ mobile thì remove cookie ở đây.
+setCookieForMobile("browser", "", -1);
+//reload lại trang để hệ thống chuyển về bản mobile.
+window.location = window.location.href;
+}
+} else {
+//van dang o phien lam viec cu thi khong lam gi.  
+}
+}
+} catch (e) { }
+}
+CheckMobileRedirect();
+
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-12366027-8', 'auto');
+ga('send', 'pageview');
+
+ga('create', 'UA-4263013-50', 'auto', { 'name': 'dl_vcc' });
+ga('dl_vcc.send', 'pageview');
+
+ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+ga('dtonly.send', 'pageview');
+
+ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+ga('dtboo.send', 'pageview');
+
+ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+ga('totaldt.send', 'pageview');
+
+</script>
+ <script type="text/javascript">var _ADM_Channel='%2Fdu-lich%2Fdiem-den-moi-tuan%2F';</script>
+<script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+
+  
+ <!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17793284" });
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link href="http://m.dantri.com.vn/du-lich/diem-den-moi-tuan.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/du-lich/diem-den-moi-tuan.htm" rel="alternate" media="handheld" /><link href="http://dulich.dantri.com.vn/du-lich/diem-den-moi-tuan.htm" rel="canonical" /></head>
+<body class="bg1">
+<form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="default" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="843" />
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="843" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="843" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="Điểm đến mỗi tuần" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ1MTAyMDIyMWRkqBTyFca8O3b6Ff4Ax5I5ZPyUI8BzPtYgby2nT12ymH0=" />
+</div>
+
+<style>
+.emailprint .dt-print {background: url(https://dantri3.vcmedia.vn/Images/tuyensinh/print.png) no-repeat scroll 0 6px transparent;}
+</style>
+<div class="main" id="wrap">
+
+<div class="header fl">
+<a class="sprite logo" href="/" title="Dân Trí Du Lịch"></a>
+</div>
+<div class="ads_headertop">
+  
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_221.ads"></script>
+
+</div>
+
+<div class="menu fl" id="menu">
+<ul>
+<li class="normal"><a target="_blank" title="Dân Trí" href="http://dantri.com.vn">DÂN TRÍ</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="DU LỊCH" href="/">DU LỊCH</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="VÒNG QUAY DU LỊCH" href="/du-lich/vong-quay-du-lich.htm">VÒNG QUAY DU LỊCH</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="KHÁM PHÁ" href="/du-lich/kham-pha.htm">KHÁM PHÁ</a></li>
+
+<li class="border fl"></li>
+<li class="normal"><a title="MÓN NGON - ĐIỂM ĐẸP" href="/du-lich/mon-ngon-diem-dep.htm">MÓN NGON - ĐIỂM ĐẸP</a></li>
+  
+
+<li class="border fl"></li>
+<li class="normal"><a title="TOURS ƯA THÍCH" href="/du-lich/tours-ua-thich.htm">TOURS ƯA THÍCH</a></li>
+<li class="border fl"></li>
+<li class="normal active"><h1><a title="ĐIỂM ĐẾN MỖI TUẦN" href="/du-lich/diem-den-moi-tuan.htm">ĐIỂM ĐẾN MỖI TUẦN</a></h1></li>
+
+</ul>
+</div>
+
+<div id="container" class="content fl">
+
+<div class="leftcontent fl">
+
+<div class="list">
+<ul class="listcate fl">
+<li class="top">
+<a href="/du-lich/boi-hoi-mua-hoa-gao-ruc-do-thang-3-20170314080711668.htm" title="Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3"><img alt="Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3" class="avatar" src="https://dantri.vcmedia.vn/zoom/327_245/2017/dsc-8792-1489366877512-1489453476689.jpg"/></a>
+<h2>
+<a title="Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3" href="/du-lich/boi-hoi-mua-hoa-gao-ruc-do-thang-3-20170314080711668.htm">Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3 </a></h2>
+<p class="datetime">
+
+</p>
+<p class="sapo">
+(Dân trí) - Vào tháng 3 hàng năm, hoa gạo nở đỏ rực giữa các cánh đồng làng quê Bắc Bộ.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/ve-dao-ngoc-nham-nhi-ca-phe-ngam-song-bien-20170311231845823.htm" alt="Anh" title="Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển"><img alt="Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/20170309-100310-1489221161338.jpg"/></a>
+<h3>
+<a title="Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển" href="/du-lich/ve-dao-ngoc-nham-nhi-ca-phe-ngam-song-bien-20170311231845823.htm">Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển </a></h3>
+<p class="datetime">
+12.03,2017 | 06:00
+</p>
+<p class="sapo">
+(Dân trí) - Vừa nhâm nhi cà phê sáng, vừa ngắm nước biển xanh biếc, với những con thuyền nhấp nhô trên sóng… là một “cung bậc” thú vị khi đến với đảo ngọc Phú Quốc.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/10-thanh-pho-de-chiu-nhat-de-lam-quen-nhung-nguoi-ban-moi-20170310204638592.htm" alt="Anh" title="10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới"><img alt="10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-4-1489153288103.jpg"/></a>
+<h3>
+<a title="10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới" href="/du-lich/10-thanh-pho-de-chiu-nhat-de-lam-quen-nhung-nguoi-ban-moi-20170310204638592.htm">10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới </a></h3>
+<p class="datetime">
+11.03,2017 | 06:08
+</p>
+<p class="sapo">
+(Dân trí) - Một phần thú vị của việc du lịch đến các thành phố khác nhau là trò chuyện với người dân địa phương và gặp gỡ những người bạn mới.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/ngo-ngang-canh-dep-cua-ngoi-chua-o-ngoai-o-da-nang-20170310144235812.htm" alt="Anh" title="Ngỡ ng&#224;ng cảnh đẹp của ng&#244;i ch&#249;a ở ngoại &#244; Đ&#224; Nẵng"><img alt="Ngỡ ng&#224;ng cảnh đẹp của ng&#244;i ch&#249;a ở ngoại &#244; Đ&#224; Nẵng" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/4-1489066136192.jpg"/></a>
+<h3>
+<a title="Ngỡ ng&#224;ng cảnh đẹp của ng&#244;i ch&#249;a ở ngoại &#244; Đ&#224; Nẵng" href="/du-lich/ngo-ngang-canh-dep-cua-ngoi-chua-o-ngoai-o-da-nang-20170310144235812.htm">Ngỡ ng&#224;ng cảnh đẹp của ng&#244;i ch&#249;a ở ngoại &#244; Đ&#224; Nẵng </a></h3>
+<p class="datetime">
+10.03,2017 | 06:15
+</p>
+<p class="sapo">
+(Dân trí) - Khung cảnh hoành tráng, uy nghiêm, mang đậm chất thiền của chùa Nam Sơn ở xã Hòa Châu, huyện Hòa Vang, Đà Nẵng khiến du khách, Phật tử viếng thăm ngỡ ngàng.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/nhung-dia-diem-hen-ho-ly-tuong-cho-ngay-8-3-o-tp-ho-chi-minh-20170308070709302.htm" alt="Anh" title="Những địa điểm hẹn h&#242; l&#253; tưởng cho ng&#224;y 8/3 ở TP. Hồ Ch&#237; Minh"><img alt="Những địa điểm hẹn h&#242; l&#253; tưởng cho ng&#224;y 8/3 ở TP. Hồ Ch&#237; Minh" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dia-diem-8-3-hcm-1-1488908690654.jpg"/></a>
+<h3>
+<a title="Những địa điểm hẹn h&#242; l&#253; tưởng cho ng&#224;y 8/3 ở TP. Hồ Ch&#237; Minh" href="/du-lich/nhung-dia-diem-hen-ho-ly-tuong-cho-ngay-8-3-o-tp-ho-chi-minh-20170308070709302.htm">Những địa điểm hẹn h&#242; l&#253; tưởng cho ng&#224;y 8/3 ở TP. Hồ Ch&#237; Minh </a></h3>
+<p class="datetime">
+08.03,2017 | 07:07
+</p>
+<p class="sapo">
+(Dân trí) - Ngoài những đoá hoa tươi thắm hoặc một bữa ăn gia đình ấm áp, việc lựa chọn một điểm vui chơi ý nghĩa để mang lại niềm vui và hạnh phúc bất ngờ cho người phụ nữ mình yêu thương trong ngày 8/3 là điều mà bất cứ ai cũng mong muốn.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/5-diem-nhat-dinh-phai-check-in-khi-den-nha-trang-20170307145545341.htm" alt="Anh" title="5 điểm nhất định phải “check in” khi đến Nha Trang"><img alt="5 điểm nhất định phải “check in” khi đến Nha Trang" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/thap-ba-2-1488869532996.jpg"/></a>
+<h3>
+<a title="5 điểm nhất định phải “check in” khi đến Nha Trang" href="/du-lich/5-diem-nhat-dinh-phai-check-in-khi-den-nha-trang-20170307145545341.htm">5 điểm nhất định phải “check in” khi đến Nha Trang </a></h3>
+<p class="datetime">
+07.03,2017 | 02:57
+</p>
+<p class="sapo">
+(Dân trí) - Nếu không có quá nhiều thời gian để “phượt” đến các điểm ở xa trung tâm thành phố, thì ngay tại Nha Trang (tỉnh Khánh Hòa) trong vòng bán kính 5km tính từ khu vực trung tâm thành phố đã có nhiều điểm đến đẹp và thú vị để “check in” xứ Trầm Hương.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/net-hap-dan-rieng-cua-nhung-lang-nghe-truyen-thong-o-hoi-an-20170304070444469.htm" alt="Anh" title="N&#233;t hấp dẫn ri&#234;ng của những l&#224;ng nghề truyền thống ở Hội An"><img alt="N&#233;t hấp dẫn ri&#234;ng của những l&#224;ng nghề truyền thống ở Hội An" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/a8-1488447318462.jpg"/></a>
+<h3>
+<a title="N&#233;t hấp dẫn ri&#234;ng của những l&#224;ng nghề truyền thống ở Hội An" href="/du-lich/net-hap-dan-rieng-cua-nhung-lang-nghe-truyen-thong-o-hoi-an-20170304070444469.htm">N&#233;t hấp dẫn ri&#234;ng của những l&#224;ng nghề truyền thống ở Hội An </a></h3>
+<p class="datetime">
+04.03,2017 | 04:55
+</p>
+<p class="sapo">
+(Dân trí) - Các làng nghề truyền thống Hội An luôn cuốn hút du khách không chỉ bởi các sản đặc trưng địa phương, mà còn bởi nét đẹp nên thơ, bình yên đến nao lòng.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/ngan-ngo-truoc-bao-tang-ke-chuyen-lich-su-bang-cong-nghe-tai-thai-lan-20170302224039563.htm" alt="Anh" title="Ngẩn ngơ trước bảo t&#224;ng &quot;kể chuyện lịch sử&quot; bằng c&#244;ng nghệ tại Th&#225;i Lan"><img alt="Ngẩn ngơ trước bảo t&#224;ng &quot;kể chuyện lịch sử&quot; bằng c&#244;ng nghệ tại Th&#225;i Lan" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/8-1488356660658.jpg"/></a>
+<h3>
+<a title="Ngẩn ngơ trước bảo t&#224;ng &quot;kể chuyện lịch sử&quot; bằng c&#244;ng nghệ tại Th&#225;i Lan" href="/du-lich/ngan-ngo-truoc-bao-tang-ke-chuyen-lich-su-bang-cong-nghe-tai-thai-lan-20170302224039563.htm">Ngẩn ngơ trước bảo t&#224;ng &quot;kể chuyện lịch sử&quot; bằng c&#244;ng nghệ tại Th&#225;i Lan <img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp;<img style="margin-bottom:-2px" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_text_video2.png" />&nbsp;</a></h3>
+<p class="datetime">
+03.03,2017 | 06:00
+</p>
+<p class="sapo">
+(Dân trí) - Chỉ với 100 bath (khoảng gần 70 ngàn đồng), du khách sẽ được trải nghiệm bảo tàng Rattanakosin. Lý do khiến bảo tàng này hút khách chính là áp dụng công nghệ, thể hiện các tư liệu lịch sử một cách nghệ thuật, cuốn hút người xem.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/su-that-ve-ho-tuyet-tinh-coc-tho-mong-o-hai-phong-20170302130203545.htm" alt="Anh" title="Sự thật về hồ &quot;Tuyệt T&#236;nh Cốc&quot; thơ mộng ở Hải Ph&#242;ng"><img alt="Sự thật về hồ &quot;Tuyệt T&#236;nh Cốc&quot; thơ mộng ở Hải Ph&#242;ng" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1488434024507.jpg"/></a>
+<h3>
+<a title="Sự thật về hồ &quot;Tuyệt T&#236;nh Cốc&quot; thơ mộng ở Hải Ph&#242;ng" href="/du-lich/su-that-ve-ho-tuyet-tinh-coc-tho-mong-o-hai-phong-20170302130203545.htm">Sự thật về hồ &quot;Tuyệt T&#236;nh Cốc&quot; thơ mộng ở Hải Ph&#242;ng </a></h3>
+<p class="datetime">
+02.03,2017 | 01:01
+</p>
+<p class="sapo">
+Anh Nguyễn Đức Hùng (SN 1989, Thủy Nguyên, Hải Phòng), một nhiếp ảnh gia, cho biết: "Hồ nước có màu xanh do ảnh hưởng của núi đá vôi và chất tạo thuốc nổ. Nhiều năm trước, đây là khu vực khai thác đá phục vụ sản xuất xi măng và vật liệu xây dựng.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/nui-rung-tay-bac-qua-4-mua-hoa-20170302071035661.htm" alt="Anh" title="N&#250;i rừng T&#226;y Bắc qua 4 m&#249;a hoa"><img alt="N&#250;i rừng T&#226;y Bắc qua 4 m&#249;a hoa" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/3-1486384166692.jpg"/></a>
+<h3>
+<a title="N&#250;i rừng T&#226;y Bắc qua 4 m&#249;a hoa" href="/du-lich/nui-rung-tay-bac-qua-4-mua-hoa-20170302071035661.htm">N&#250;i rừng T&#226;y Bắc qua 4 m&#249;a hoa </a></h3>
+<p class="datetime">
+02.03,2017 | 07:12
+</p>
+<p class="sapo">
+(Dân trí) - Có lẽ thiên nhiên rất ưu ái cho đất trời Tây Bắc khi hội tụ những mùa hoa đẹp nhất tại đây. Trải qua 4 mùa trong năm, Tây Bắc lại mang theo những mùa hoa rất riêng biệt.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/con-duong-ky-thu-phat-ra-tieng-nhac-moi-khi-xe-o-to-chay-qua-20170301144047532.htm" alt="Anh" title="Con đường kỳ th&#250; ph&#225;t ra tiếng nhạc mỗi khi xe &#244; t&#244; chạy qua"><img alt="Con đường kỳ th&#250; ph&#225;t ra tiếng nhạc mỗi khi xe &#244; t&#244; chạy qua" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/duong-am-nhac-nhat-ban-1-1486725190013.jpg"/></a>
+<h3>
+<a title="Con đường kỳ th&#250; ph&#225;t ra tiếng nhạc mỗi khi xe &#244; t&#244; chạy qua" href="/du-lich/con-duong-ky-thu-phat-ra-tieng-nhac-moi-khi-xe-o-to-chay-qua-20170301144047532.htm">Con đường kỳ th&#250; ph&#225;t ra tiếng nhạc mỗi khi xe &#244; t&#244; chạy qua </a></h3>
+<p class="datetime">
+01.03,2017 | 02:42
+</p>
+<p class="sapo">
+(Dân trí) - Vốn nổi tiếng với nhiều ý tưởng và sáng tạo độc đáo, con đường phát ra âm thanh như tiếng nhạc ở Nhật Bản là một trong số phát minh đặc biệt. Đây cũng là cách các kỹ sư giúp tài xế tỉnh táo hơn khi lưu thông trên đường.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/den-tham-hon-dao-dep-nhat-philippine-20170228072924119.htm" alt="Anh" title="Đến thăm h&#242;n đảo đẹp nhất Philippine"><img alt="Đến thăm h&#242;n đảo đẹp nhất Philippine" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1488241485672.jpg"/></a>
+<h3>
+<a title="Đến thăm h&#242;n đảo đẹp nhất Philippine" href="/du-lich/den-tham-hon-dao-dep-nhat-philippine-20170228072924119.htm">Đến thăm h&#242;n đảo đẹp nhất Philippine </a></h3>
+<p class="datetime">
+28.02,2017 | 07:28
+</p>
+<p class="sapo">
+(Dân trí) - Hầu hết chúng ta đều biết đến Palawan hay Borocay, nhưng theo người dân địa phương thì Calamian mới là quần đảo đẹp nhất Philippine. Nguyên sơ và vắng vẻ, quần đảo Calamian trải rộng hơn 435 nghìn mẫu Anh nước biển màu tinh thể với hàng trăm hòn đảo lớn nhỏ.
+</p>
+</li>
+
+<li class="normal">
+<a href="/du-lich/chiem-ngam-dong-vai-gioi-o-co-do-hoa-lu-20170225122136028.htm" alt="Anh" title="Chi&#234;m ngắm động “V&#225;i Giời” ở cố đ&#244; Hoa Lư"><img alt="Chi&#234;m ngắm động “V&#225;i Giời” ở cố đ&#244; Hoa Lư" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/2-1487944362203.jpg"/></a>
+<h3>
+<a title="Chi&#234;m ngắm động “V&#225;i Giời” ở cố đ&#244; Hoa Lư" href="/du-lich/chiem-ngam-dong-vai-gioi-o-co-do-hoa-lu-20170225122136028.htm">Chi&#234;m ngắm động “V&#225;i Giời” ở cố đ&#244; Hoa Lư </a></h3>
+<p class="datetime">
+25.02,2017 | 01:23
+</p>
+<p class="sapo">
+(Dân trí) - Cách mặt đất 88m, động Vái Giời xưa kia là nơi người dân kinh thành Hoa Lư lập đàn tế trời cầu mong mưa thuận gió hòa. Ngày nay, nơi đây được mệnh danh là chốn bồng lai tiên cảnh khi hội tụ đầy đủ “địa ngục - trần gian – thiên đường” ở đất cố đô.
+</p>
+</li>
+
+</ul>
+</div>
+<script type="text/javascript" language="javascript">
+$('.list .item:last').attr('style', 'border-bottom:0')
+</script>
+<div class="page fl">
+<ul class="fr">
+<li><a class="active" onclick="javascript:void(0)" href="/du-lich/diem-den-moi-tuan.htm" title="1">1</a></li><li><a onclick="javascript:void(0)" href="/du-lich/diem-den-moi-tuan/trang-2.htm" title="2">2</a></li><li><a onclick="javascript:void(0)" href="/du-lich/diem-den-moi-tuan/trang-3.htm" title="3">3</a></li><li><a onclick="javascript:void(0)" href="/du-lich/diem-den-moi-tuan/trang-4.htm" title="4">4</a></li><li><a onclick="javascript:void(0)" href="/du-lich/diem-den-moi-tuan/trang-5.htm" title="5">5</a></li><li><a onclick="javascript:void(0)" href="/du-lich/diem-den-moi-tuan/trang-6.htm" title="...">...</a></li><li><a onclick="javascript:void(0)" href="/du-lich/diem-den-moi-tuan/trang-77.htm" title="Trang cuối">Trang cuối</a></li>
+</ul>
+</div>
+<div class="datepage fl">
+<p class="label fl">
+Xem theo ngày tháng
+</p>
+<span class="border"></span>
+<input type="text" id="date" data-format="DD-MM-YYYY" data-template="D MMM YYYY"
+name="date">
+<p class="xem sprite fr" onclick="ViewByDate()">
+</p>
+</div>
+<!--end datepage-->
+<!--end page-->
+<div class="cat-trangsau">
+</div>
+
+<script>
+$(function () {
+$('#date').combodate();
+$('.day option:first').text('Ngày')
+$('.month option:first').text('Tháng')
+$('.year option:first').text('Năm')
+});
+
+function ViewByDate() {
+var date = $('#date').val();
+var zoneid = $('#hidZoneID').val();
+
+var url = "/" + zoneid + "d" + zoneid + "/" + date + ".htm";
+location.href = url;
+}
+
+</script>
+</div>
+
+<div id="pnBoxRight">
+
+ <div class="rightcontent fr">
+ <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+
+
+<div class="tourhay fl">
+<h4 class="sprite fl">
+<a title="Tour hay - Khuyến mại" href="/du-lich/tour-hay-khuyen-mai.htm">Tour hay - Khuyến mại</a></h4>
+<ul>
+<li class="top">
+<a title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" href="/tour-hay-khuyen-mai/theo-dau-chan-kongskull-island-di-ngay-keo-lo-20170315142540562.htm"><img alt="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" src="https://dantri.vcmedia.vn/zoom/327_245/2017/photo-1-1489562560910.jpg" title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" /></a>
+<h5>
+<a title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" href="/tour-hay-khuyen-mai/theo-dau-chan-kongskull-island-di-ngay-keo-lo-20170315142540562.htm"> Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!</a>
+</h5>
+<p>
+Vừa qua, bộ phim Kong: Skull Island (Kong: Đảo đầu lâu) với 70% bối cảnh quay tại Việt Nam đã chính thức ra mắt. Trong khi siêu phẩm bom tấn này đang “làm mưa làm gió” tại các phòng vé thế giới, thì có một cơn “sốt” cũng nóng bỏng không kém.</p>
+</li>
+ <li class="normal"><span></span><h6><a title="Thử t&#234;n lửa gi&#250;p Triều Ti&#234;n kiếm bộn tiền từ du lịch" href="/du-lich/thu-ten-lua-giup-trieu-tien-kiem-bon-tien-tu-du-lich-20170314081238109.htm">Thử t&#234;n lửa gi&#250;p Triều Ti&#234;n kiếm bộn tiền từ du lịch</a></h6></li> <li class="normal"><span></span><h6><a title="Thưởng ngoạn nước &#218;c, giấc mơ trong tầm tay" href="/tour-hay-khuyen-mai/thuong-ngoan-nuoc-uc-giac-mo-trong-tam-tay-20170313090227895.htm">Thưởng ngoạn nước &#218;c, giấc mơ trong tầm tay</a></h6></li>
+</ul>
+</div>
+<!--end tourhay-->
+
+
+ 
+ 
+
+
+<div class="sprite videocate fl">
+<h4>
+<a title="" href="/du-lich/video-anh.htm"></a></h4>
+<ul>
+<li class="top">
+<a href="/du-lich/bo-anh-ve-dat-nuoc-ha-lan-nhung-nam-1890s-qua-cac-tam-buu-thiep-20170316211507276.htm" title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp"><img alt="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" src="https://dantri.vcmedia.vn/zoom/273_204/2017/photo-1-1489673305034.jpg" title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" /></a>
+<h5>
+<a title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" href="/du-lich/bo-anh-ve-dat-nuoc-ha-lan-nhung-nam-1890s-qua-cac-tam-buu-thiep-20170316211507276.htm">Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp </a></h5>
+<p>
+(Dân trí) - Những tấm bưu thiếp vào cuối những năm 1890 sẽ cho bạn biết cối xay gió, kênh rạch và các đặc trưng của đất nước Hà Lan trước đây trông như thế nào</p>
+</li>
+<li class="normal"><span></span><h6><a title="K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch" href="/du-lich/kinh-vien-vong-san-nguoi-ngoai-hanh-tinh-mo-cua-don-du-khach-20170316210551157.htm">K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch </a></h6></li><li class="normal"><span></span><h6><a title="10 thị trấn nhỏ xinh đẹp của nước &#221;" href="/du-lich/10-thi-tran-nho-xinh-dep-cua-nuoc-y-20170316162904948.htm">10 thị trấn nhỏ xinh đẹp của nước &#221; </a></h6></li>
+
+</ul>
+</div>
+<!--end video-->
+  
+
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+
+</div>
+
+</div>
+</div>
+
+<div class="fotter fl">
+<a rel="nofollow" href="#" class="sprite fl logo"></a>
+<div class="menubt fl">
+<ul>
+<li class="top"><a rel="nofollow" title="Du lịch" href="/">Du lịch</a></li>
+<li><a rel="nofollow" title="Vòng quay du lịch" href="/du-lich/vong-quay-du-lich.htm">Vòng quay Du lịch</a></li>
+<li><a rel="nofollow" title="Khám phá" href="/du-lich/kham-pha.htm">Khám phá</a></li>
+
+<li><a rel="nofollow" title="Lễ hội bốn phương" href="/du-lich/ky-thu-thai-lan.htm">Kỳ thú Thái Lan</a></li>
+<li><a rel="nofollow" title="Món ngon điểm đẹp" href="/du-lich/mon-ngon-diem-dep.htm">Món ngon - Điểm đẹp</a></li>
+<li><a rel="nofollow" title="Tư vấn chia sẻ" href="/du-lich/tu-van-chia-se.htm">Tư vấn - Chia sẻ</a></li>
+</ul>
+</div>
+<div class="footer2">
+Chuyên trang Du lịch - Báo Điện tử Dân trí 
+<br />
+Giấy phép hoạt động báo điện tử Dân trí trên Internet số 07/GP-PTTH&TTĐT, cấp ngày 19/11/2013.<br>
+Tòa soạn: số 02 ( nhà 48 ) Giảng Võ, Quận Đống Đa, Hà Nội, Việt Nam<br>
+Điện thoại: (04) 3736 6491 - Fax: (04) 3736 6490<br>
+<span><i>Mọi hành động sử dụng nội dung đăng tải trên Báo Điện tử Dân trí phải có sự
+đồng ý bằng văn bản của Báo Điện tử Dân trí.</i></span>
+</div>
+</div>
+<!--end fotter-->
+
+ 
+</div>
+
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="14DD91A0" />
+</div></form>
+</body>
+</html><!--u: 03/18/2017 08:27:26-->

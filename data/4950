@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bánh trà xanh đậu hũ lạ miệng mà ngon bất ngờ - Dân Việt
+</title><meta name="keywords" content="gelatin,video clip" /><meta name="description" content="Hương matcha thơm dịu, kết hợp cùng sự thanh mát của đậu hũ và vị kem phô mai béo ngậy khiến món bánh này không chỉ ngon và lạ miệng, mà còn giúp thanh nhiệ..." />
+<link rel="canonical" href="http://www.baomoi.com/banh-tra-xanh-dau-hu-la-mieng-ma-ngon-bat-ngo/c/21786607.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21786607" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21786607" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/gia-dinh/banh-tra-xanh-dau-hu-la-mieng-ma-ngon-bat-ngo-752219.html");
+else
+window.location.replace("http://www.baomoi.com/banh-tra-xanh-dau-hu-la-mieng-ma-ngon-bat-ngo/c/21786607.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

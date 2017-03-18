@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="category">
+    <title>Trang chủ - Con đường khởi nghiệp</title>
+    <meta property="og:type" content="article" />
+    
+    <meta property="og:url" content="http://khoinghiep.thanhnien.vn/" />
+    <meta property="og:site_name" content="Con đường khởi nghiệp" />
+    <meta property="og:image" content="http://khoinghiep.thanhnien.vn/images/thumbnail.jpg" />
+    <meta property="og:title" content="Trang chủ" />
+    <meta property="og:description" content="Con đường khởi nghiệp" />
+    
+    <link href="/Content/home?v=_uX0Ud33DKIf3VSIzrMwfJ7c5VcwkSzg3-P4B8Z3kRM1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-5707772-1', 'auto');
+        ga('create', 'UA-48368688-2', 'auto', 'tracker');        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+        ga('tracker.send', 'pageview');    </script>
+</head>
+<body>
+    <div class="body-top">
+        <div class="body-bottom">
+            <div class="wrap-site">
+                <div class="header-site">
+                    <div class="Logo">
+                    	<a href="/" class="img-logo"><img src="/images/Logo-site-New.png" alt=""/></a>
+			<a href="http://thanhnien.vn" target="_blank" style="position: absolute; width: 22%; height: 100%; bottom: 0; left: 0"></a>
+
+		   </div>
+                    <div class="search-form search-desktop">
+<form action="/search" id="search_form1" method="get">                                  <a href="javascript:void(0);" onclick="$('#search_form1').submit(); return false;" class="search-area"><i class="fa fa-search"></i></a>
+                                  <div><input type="text" class="txtsearch" name="keyword" placeholder=" _tìm thông tin"/></div>
+</form>                    </div>
+                </div><!-- End header-site -->
+
+                <div class="main-site">
+                    <!--    <div class="menu">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="home active"><a href="../../">&nbsp;</a></td>
+<td><a href="../../cau-chuyen-khoi-nghiep-4">C&acirc;u chuyện khởi nghiệp</a></td>
+<td><a href="../../ban-doc-chia-se-5">Bạn đọc chia sẻ</a></td>
+<td><a href="../../case-study-6">Case study</a></td>
+<td><a href="../../tu-van-khoi-nghiep-7">Tư vấn khởi nghiệp</a></td>
+</tr>
+</tbody>
+</table>
+</div> -->
+
+                    <div class="menu">
+                        <div class="search-form search-mobile">
+<form action="/search" id="search_form" method="get">                                <a href="javascript:void(0);" onclick="$('#search_form').submit(); return false;" class="search-area"><i class="fa fa-search"></i></a>
+                                <div><input type="text" class="txtsearch" name="keyword" placeholder=" _tìm thông tin" /></div>
+</form>                        </div>
+                        <nav class="navbar navbar-default">
+                            <div class="container-fluid">
+                                <!-- Brand and toggle get grouped for better mobile display -->
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"><img src="/images/mb-iconhome.png" alt="" /></span>
+                                    </button>
+                                </div>
+
+                                <!-- Collect the nav links, forms, and other content for toggling -->
+                                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                    <ul class="nav navbar-nav">
+                                        <li class="home active"><a href="/"><span class="text-home">Trang chủ</span><span class="sr-only">(current)</span></a></li>
+                                        <li><a href="/cau-chuyen-khoi-nghiep-4">Câu chuyện khởi nghiệp</a></li>
+                                        <li><a href="/y-tuong-la-5">Ý tưởng lạ</a></li>
+                                        <li><a href="/case-study-6">Case study</a></li>
+                                        <li><a href="/tu-van-khoi-nghiep-7">Tư vấn khởi nghiệp</a></li>
+                                    </ul>
+                                </div><!-- /.navbar-collapse -->
+                            </div><!-- /.container-fluid -->
+                        </nav>
+                    </div>
+
+
+
+                    <!-- PAGE LAYOUTS --><div class="maincontain" id="home">
+                        <div class="banner">
+                            <ul class="cycle-slideshow" data-cycle-slides="li" data-cycle-fx="scrollHorz">
+<li><img src="../../images/banner-ytuongla.jpg" alt="" />
+<div><a href="../../tham-gia/ban-doc-chia-se-5" target="_blank">Chia sẻ</a></div>
+</li>
+<li style="visibility: hidden;"><img src="../../images/banner-bandocchiase.jpg" alt="" /> <a href="../../tham-gia/case-study-6">Tham gia ngay</a></li>
+<li style="visibility: hidden;"><img src="../../images/banner-tuvankhoinghiep.jpg" alt="" /> <a href="../../tham-gia/tu-van-khoi-nghiep-7">Tư vấn</a></li>
+</ul>
+                        </div>
+
+                        
+
+
+<div id="width_common">
+
+    
+<div id="box-news-top">
+    <h1 class="title title-items"><a href="/cau-chuyen-khoi-nghiep-4">C&#194;U CHUYỆN KHỞI NGHIỆP</a></h1>
+            <div class="hot-new">
+                <a href="/20161124/toa-dam-truc-tuyen-con-duong-khoi-nghiep-559" class="img"><img src="/w/285/Files/20161117/hinhdaidien_RDAV.jpg" /></a>
+                <div class="items">
+                    <h2 class="title"><a href="/20161124/toa-dam-truc-tuyen-con-duong-khoi-nghiep-559">Tọa đ&#224;m trực tuyến: Con đường khởi nghiệp</a></h2>
+                    <div class="sapo">
+                        <div>Đại học l&agrave; nơi khởi nguồn những ước mơ khởi nghiệp của SV, g&oacute;p phần l&agrave;m rạng danh VN trong kỷ nguy&ecirc;n c&ocirc;ng nghiệp IV, Thủ tướng Nguyễn Xu&acirc;n Ph&uacute;c đ&atilde; y&ecirc;u cầu một sức mệnh quan trọng với ĐH Quốc gia TP.HCM khi đến đ&acirc;y l&agrave;m việc.</div>
+                    </div>
+                </div>
+            </div>
+    <div class="list-news">
+        <ul class="list-l">
+                    <li>
+                        <a class="img" href="/20161115/muon-khoi-nghiep-thanh-cong-phai-dam-chap-nhan-that-bai-552"><img src="/w/178/Files/20161109/anh1_yhoa.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161115/muon-khoi-nghiep-thanh-cong-phai-dam-chap-nhan-that-bai-552">Muốn khởi nghiệp th&#224;nh c&#244;ng, phải d&#225;m chấp nhận thất bại</a></h3>
+                            
+                        </div>
+                    </li>
+                    <li>
+                        <a class="img" href="/20161117/hon-500-sinh-vien-da-nang-den-voi-con-duong-khoi-nghiep-554"><img src="/w/178/Files/20161117/hinh-5.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161117/hon-500-sinh-vien-da-nang-den-voi-con-duong-khoi-nghiep-554">Hơn 500 sinh vi&#234;n Đ&#224; Nẵng đến với &#39;Con đường Khởi nghiệp&#39;</a></h3>
+                            
+                        </div>
+                    </li>
+                    <li>
+                        <a class="img" href="/20161114/4-bi-quyet-de-co-cau-chuyen-loi-cuon-ve-start-up-cua-ban-479"><img src="/w/178/Files/20161024/3-kechuyenstartup.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161114/4-bi-quyet-de-co-cau-chuyen-loi-cuon-ve-start-up-cua-ban-479">4 b&#237; quyết để c&#243; c&#226;u chuyện l&#244;i cuốn về start-up của bạn</a></h3>
+                            
+                        </div>
+                    </li>
+                    <li>
+                        <a class="img" href="/20161112/nen-tang-giup-sinh-vien-khoi-nghiep-la-thay-ban-va-nhung-quyen-sach-551"><img src="/w/178/Files/20161109/anhdaidien_kyhoa.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161112/nen-tang-giup-sinh-vien-khoi-nghiep-la-thay-ban-va-nhung-quyen-sach-551">Nền tảng gi&#250;p sinh vi&#234;n khởi nghiệp l&#224; thầy, bạn v&#224; những quyển s&#225;ch</a></h3>
+                            
+                        </div>
+                    </li>
+        </ul>
+    </div>
+</div><!-- End box-news-top -->
+
+
+    <div class="box-share">
+        <h1 class="title title-items"><a href="/y-tuong-la-5">&#221; TƯỞNG LẠ</a></h1>
+        <div class="share-items">
+            <ul>
+                    <li>
+                        <a class="img" href="/20161121/kinh-can-di-mua-558"><img src="/w/178/Files/VI THAO/12042016-smart-glass22-shutter_zjlf.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161121/kinh-can-di-mua-558">K&#237;nh cận đi mưa</a></h3>
+                            <div class="sapo">
+                                <div>K&iacute;nh cận chống d&iacute;nh mưa vừa gi&uacute;p mắt khắc phục tật cận thị, bảo vệ mắt, vừa gi&uacute;p chống nước d&iacute;nh tr&ecirc;n k&iacute;nh khi chạy xe dưới mưa giảm sự nguy hiểm khi tham gia giao th&ocirc;ng.</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="img" href="/20161119/ung-dung-dida-557"><img src="/w/178/Files/VI THAO/date_shutterstock_DCQQ.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161119/ung-dung-dida-557">Ứng dụng DIDA</a></h3>
+                            <div class="sapo">
+                                <div>Dida ra đời với mục đ&iacute;ch gợi &yacute; cho bạn những lộ tr&igrave;nh, những địa điểm c&ugrave;ng chỉ dẫn qua bản đồ, cho bạn những trải nghiệm mới lạ hay ch&iacute; &iacute;t, cũng khiến bạn đỡ đau đầu hơn khi phải quyết định n&ecirc;n đi những đ&acirc;u trong những dịp đi chơi.</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="img" href="/20161118/ho-ca-bao-mat-556"><img src="/w/178/Files/VI THAO/Ho ca 1.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161118/ho-ca-bao-mat-556">Hồ c&#225; bảo mật</a></h3>
+                            <div class="sapo">
+                                <div>Hồ c&aacute; bảo mật l&agrave; hệ thống hồ c&aacute; kết hợp tủ, k&eacute;t sắt gi&uacute;p giữ g&igrave;n t&agrave;i sản, vật dụng qu&yacute; gi&aacute; b&ecirc;n trong, c&oacute; thể bảo quản tốt t&agrave;i sản trong trường hợp bị ch&aacute;y.</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="img" href="/20161109/tu-sach-phuc-vu-cong-dong-546"><img src="/w/178/Files/VI THAO/giaoduc_QMCB.jpg" alt=" " /></a>
+                        <div class="items">
+                            <h3 class="title"><a href="/20161109/tu-sach-phuc-vu-cong-dong-546">Tủ s&#225;ch phục vụ cộng đồng</a></h3>
+                            <div class="sapo">
+                                <div>Đọc s&aacute;ch l&agrave; một th&oacute;i quen v&ocirc; c&ugrave;ng cần thiết m&agrave; ta c&oacute; thể nu&ocirc;i dưỡng được. Th&oacute;i quen ấy gi&uacute;p ch&uacute;ng ta kh&aacute;i s&aacute;ng tr&iacute; tuệ, nh&igrave;n nhận cuộc sống một c&aacute;ch kh&aacute;ch quan, đa chiều, đồng thời cũng trang bị cho ta những kiến thức v&agrave; kỹ năng sống cần thiết để bước v&agrave;o đời.</div>
+                            </div>
+                        </div>
+                    </li>
+            </ul>
+        </div>
+    </div><!-- End box-share -->
+</div>	<!-- End width_common	-->
+<div class="frame-qc">
+    <p><iframe class="desktop" style="border-style: none; width: 100%; height: 81px;" src="../../banner/826x76/826x76.html" frameborder="0"></iframe></p>
+<p><iframe class="mobile" style="border-style: none; width: 320px; height: 105px; margin: auto;" src="../../banner/320x100/320x100.html" frameborder="0"></iframe></p>
+</div>
+    <div id="width_common">
+        <div class="items-case">
+            <h1 class="title title-items"><a href="/case-study-6">CASE STUDY</a></h1>
+            <div class="items-week">
+                <h3><a href="/case-study/tinh-huong-tuan-13-3110-0611-25">Tình huống trong tuần</a></h3>
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tr class="bg">
+                        <td valign="top" class="tg"><span class="avatar"><img src="/w/120/Files/KN_IMGS/tri1.png" alt="" /></span><span>ThS. Trần Minh Tr&#237;, Giảng vi&#234;n nguồn CT khởi nghiệp quốc gia</span></td>
+                        <td valign="top" class="chude"><a href="/case-study/tinh-huong-tuan-13-3110-0611-25"><p>(Từ 31/10 đến&nbsp;06/11) Khi đang x&acirc;y dựng dự &aacute;n rau sạch, một c&aacute;n bộ Ph&ograve;ng n&ocirc;ng nghiệp huyện đến gặp Tuyền để đưa ra một đề nghị nghe cũng kh&aacute; hấp dẫn: Tuyền n&ecirc;n li&ecirc;n kết với c&aacute;c hộ trồng rau xung quanh để th&agrave;nh lập Hợp t&aacute;c x&atilde; v&agrave; Tuyền sẽ giữ chức Gi&aacute;m đốc.&nbsp;</p></a></td>
+                    </tr>
+                </table>
+            </div>
+        </div><!-- End items-case -->
+            <div class="box-comment">
+                <h1><a href="/case-study-6">TRANH LUẬN</a></h1>
+                <div class="items-comment">
+                    <div class="items-l">
+                        <div class="img-tg"><span class="avatar"><img src="/w/120" /></span></div>
+                        <div class="email-title">
+                            <span class="email">Đặng Đ&#236;nh Q&#250;y</span>
+                            <a class="title-cm" href="/20161031/tuyen-nen-tham-gia-htx-kieu-moi-500">Tuyền n&#234;n tham gia HTX kiểu mới</a>
+                        </div>
+                        <div class="des">
+                            <div><strong>Với trường hợp của Tuyền, t&ocirc;i khuy&ecirc;n Tuyền n&ecirc;n tham gia HTX kiểu mới. Đ&acirc;y l&agrave; 1 cơ hội tốt n&oacute; sẽ mang lại nhiều lợi &iacute;ch cho bạn.</strong></div>
+                        </div>
+                        <div class="more-comment">
+                                <div class="comment">
+                                    <span class="img-dd"><img src="/images/icon-comment.png" /></span>
+                                    <div><a class="dotdot" href="/20161031/tuyen-nen-tham-gia-htx-kieu-moi-500">Tốt thì ai cũng thấy rồi, nhưng phức tạp nhiêu khê cũng không ít, phải chỉ ra các hạn chế bạn mới có thể chủ động được công việc</a></div>
+                                </div>
+                                <div class="comment">
+                                    <span class="img-dd"><img src="/images/icon-comment.png" /></span>
+                                    <div><a class="dotdot" href="/20161031/tuyen-nen-tham-gia-htx-kieu-moi-500">Nói là hợp tác xã người ta thường liên tưởng đến mô hình kiểu cũ, nên nghĩ ra 1 cái tên mới hơn như mô hình HTX Oganic và có những mức tiêu chuẩn, công bố rõ ràng trên bao bì sp để có độ tin cậy cho người mua, và có tổ chức giám sát để tăng uy tín cho sản phẩm</a></div>
+                                </div>
+                        </div>
+                    </div><!-- End items-l-->
+                        <div class="items-r">
+                            <div class="img-tg"><span class="avatar"><img src="/w/120" /></span></div>
+                            <div class="email-title">
+                                <span class="email">L&#234; V&#226;n Anh</span>
+                                <a class="title-cm" href="/20161102/tuyen-nen-tham-gia-mo-hop-tac-xa-519">Tuyền n&#234;n tham gia mở hợp t&#225;c x&#227;</a>
+                            </div>
+                            <div class="des">
+                                <div><strong>T&ocirc;i nghĩ Tuyền n&ecirc;n tham gia mở hợp t&aacute;c x&atilde;. V&igrave; như vậy sẽ mang đến nhiều lợi &iacute;ch kinh tế cho n&ocirc;ng d&acirc;n, c&oacute; nguồn cung ứng rau dồi d&agrave;o v&agrave; người ti&ecirc;u d&ugrave;ng c&oacute; cơ hội sử dụng rau sạch nhiều.&nbsp;</strong></div>
+                            </div>
+                            <div class="more-comment">
+                            </div>
+                        </div><!-- End items-r -->
+                </div>
+            </div>
+            <!-- end box-comment -->
+    </div><!-- End width_common	-->
+<div id="width_common" class="tuvan">
+    <h1 class="title title-items"><a href="/tu-van-khoi-nghiep-7">TƯ VẤN KHỞI NGHIỆP</a></h1>
+    <table width="100%" cellpadding="0" cellspacing="15">
+        <tr>
+
+                    <td class="td1" valign="top">
+                        <div class="items-chude">
+                            <span class="email">
+L&#253; Trường Chiến<br />
+                                                            </span>
+                            <a class="title-chude dotdot" href="/20160901/cau-hoi-268"><div><strong>Em l&agrave; người triển khai v&agrave; quản l&yacute; hoạt động 5S, Kaizen/ QCC (1 hệ thống quản l&yacute; cải tiến của Nhật) tại c&ocirc;ng ty (quy m&ocirc; 1500-2000, top 10 maker của 1 c&ocirc;ng ty Nhật, về 5S cũng kh&aacute; c&oacute; tiếng), kinh nghi&ecirc;m triển khai v&agrave; quản l&yacute; cũng tạm ổn ( Quản l&yacute; nh&oacute;m khoảng 10 người, tại 2 cơ sở kh&aacute;c nhau).</strong></div></a>
+                        </div>
+                        <div class="sapo-chude dotdot-content">
+                            <a href="/20160901/cau-hoi-268">
+                                <div><div><strong class="sapo-tt">Em l&agrave; người triển khai v&agrave; quản l&yacute; hoạt động 5S, Kaizen/ QCC ( 1 hệ thống quản l&yacute; cải tiến của Nhật) tại c&ocirc;ng ty (quy m&ocirc; 1500-2000, top 10 maker của 1 c&ocirc;ng ty Nhật, về 5S cũng kh&aacute; c&oacute; tiếng), kinh nghiệm triển khai v&agrave; quản l&yacute; cũng tạm ổn ( Quản l&yacute; nh&oacute;m khoảng 10 người, tại 2 cơ sở kh&aacute;c nhau).</strong></div>
+<div>C&ocirc;ng ty em đầu tư mạnh về đ&agrave;o tạo, v&agrave; em nhận thấy thu&ecirc; c&aacute;c đơn vị tư vấn rất tốn k&eacute;m, m&agrave; hầu hết chỉ dạy l&yacute; thuyết, đơn vị tư vấn cũng kh&aacute; c&oacute; tiếng tr&ecirc;n thị trường tư vấn nhưng khi thử bắt tay v&agrave;o l&agrave;m 1 vấn đề thực tế tại c&ocirc;ng ty thường l&agrave; kh&ocirc;ng đạt kết quả như mong đợi.</div>
+<div>&Yacute; tưởng của team: Tư vấn, hỗ trợ triển khai v&agrave; trực tiếp triển khai 5S, kaizen/ QCC v&agrave; 1 số c&ocirc;ng cụ của Nhật cho c&aacute;c doanh nghiệp nhỏ, vừa dựa tr&ecirc;n nền tảng kiến thức v&agrave; kinh nghiệm thực tế em đ&atilde; t&iacute;ch lũy. Nếu đủ khả năng th&igrave; team sẽ ph&aacute;t triển th&agrave;nh triển khai LEAN PRODUCTION.</div>
+<div>2. Team em c&oacute; 3 th&agrave;nh vi&ecirc;n (29-30 tuổi). Em như đ&atilde; kể tr&ecirc;n, 1 cậu l&agrave;m b&ecirc;n mảng đ&agrave;o tạo của c&ocirc;ng ty, kh&aacute; mạnh về đ&agrave;o tạo, huấn luyện v&agrave; hệ thống, 1 cậu l&agrave; sales cho 1 c&ocirc;ng ty kh&aacute;c( cũng đi l&agrave;m sales từ ng&agrave;y ra trường, khoảng 7 năm).</div>
+<div>Trong qu&aacute; tr&igrave;nh ph&aacute;t triển &yacute; tưởng th&igrave; gặp 1 số kh&oacute; khăn<br />1. Chỉ c&oacute; thể l&agrave;m part-time<br />2. X&aacute;c định kh&aacute;ch h&agrave;ng l&agrave; c&aacute;c doanh nghiệp sản xuất sản xuất quy m&ocirc; nhỏ vừa ( thị trường c&oacute; lẽ l&agrave; tiềm năng do c&aacute;c doanh nghiệp Việt &iacute;t tiếp x&uacute;c với m&ocirc; h&igrave;nh của Nhật), tuy nhi&ecirc;n c&aacute;ch tiếp cận th&igrave; kh&oacute; khăn, ho&agrave;n to&agrave;n phụ thuộc v&agrave;o contact của cậu sale.<br />3. M&ocirc; h&igrave;nh của Nhật kh&aacute; mới mẻ với c&aacute;c doanh nghiệp nhỏ</div>
+<div><span class="im">Xin k&iacute;nh mong Ban bi&ecirc;n tập v&agrave; c&aacute;c Anh/ Chị tư vấn gi&uacute;p cho em 1 số c&acirc;u hỏi như sau<br />1. Team em như vậy c&oacute; cần bổ sung th&ecirc;m kỹ năng n&agrave;o, hoặc c&aacute; nh&acirc;n n&agrave;o kh&ocirc;ng?<br /></span><span class="im">2. Bọn em x&aacute;c định chắc chắn ban đầu phải l&agrave;m part-time, vậy nếu c&oacute; thể ph&aacute;t triển được th&igrave; thời điểm n&agrave;o, hay dấu hiệu n&agrave;o để nhận biết l&agrave; n&ecirc;n chuyển sang l&agrave;m full-time.<br /></span><span class="im">3. Với đối tượng kh&aacute;ch h&agrave;ng như vậy, th&igrave; c&oacute; nhưng k&ecirc;nh tiếp cận n&agrave;o khả dĩ mang lại hiệu quả<br /></span><span class="im">4. Nếu c&oacute; thể, mong Anh/ Chị cho &yacute; kiến về &yacute; tưởng của team em? Liệu c&oacute; khả thi trong thời điểm hiện tại? Liệu c&aacute;c doanh nghiệp nhỏ, vừa c&oacute; quan t&acirc;m đến c&aacute;c chương tr&igrave;nh tr&ecirc;n hay kh&ocirc;ng hay họ chỉ tập trung v&agrave;o việc SXKD trước mắt? Hay l&agrave;m thế n&agrave;o để thuyết phục họ quan t&acirc;m đến dịch vụ n&agrave;y<br /></span>Một lần nữa xin cảm ơn Ban bi&ecirc;n tập v&agrave; Anh/ Chị chuy&ecirc;n gia đ&atilde; quan t&acirc;m đến c&aacute;c thắc mắc của em v&agrave; c&aacute;c Anh/ Chị/ Bạn kh&aacute;c giống như em.<br />Mong nhận được phản hồi sớm nhất của Anh/ Chị.</div>
+<div>
+<div dir="ltr">
+<div style="text-align: right;"><span style="color: #000000; font-family: Arial;">(Nguyễn Thanh Văn -&nbsp;<a href="mailto:ntvronin@gmail.com" target="_blank">ntv...@gmail.com</a>)</span></div>
+<div style="text-align: left;">- <strong><strong>Chuy&ecirc;n gia L&yacute; Trường Chiến:&nbsp;</strong></strong>Để ra doanh nghiệp bạn cần c&oacute; hiểu biết căn bản về
+<p dir="ltr">1. Thị trường m&agrave; bạn sẽ cung cấp sản phẩm v&agrave; dich vụ, theo l&yacute; thuyết LTC&nbsp;<a href="http://tritri.org/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=vi&amp;q=http://tritri.org/&amp;source=gmail&amp;ust=1472611341763000&amp;usg=AFQjCNHRLDux4pZ-ebcxe19RKgPUmCEhvA">tritri.org</a>&nbsp;th&igrave; bạn cần hiểu được c&aacute;c vấn đề sau:<br />&nbsp;+ Dung lượng thị trường tổng thể v&agrave; ph&acirc;n bố ở c&aacute;c ph&acirc;n kh&uacute;c.<br />&nbsp;+ Tam đối (đối tượng mục ti&ecirc;u đối t&aacute;c v&agrave; đối thủ).<br />&nbsp;+ Mức độ ph&aacute;t triển v&agrave; tương lai ng&agrave;nh.</p>
+<p dir="ltr">2. Kiến thức căn bản về doanh nghiệp c&aacute;ch x&acirc;y dựng, quản l&yacute;, vận h&agrave;nh v&agrave; ph&aacute;t triển doanh nghiệp. Theo tr&igrave;nh b&agrave;y hiện bạn chỉ l&agrave; 1 người l&agrave;m chuy&ecirc;n m&ocirc;n thực tiễn.</p>
+<p dir="ltr">3. X&aacute;c định r&otilde; nguồn lực, m&ocirc;i trường cạnh tranh v&agrave; mục ti&ecirc;u kinh doanh mục ti&ecirc;u doanh nghiệp để c&oacute; ph&acirc;n t&iacute;ch SWOT v&agrave; ph&aacute;c thảo được chiến lược tổng thể cho bạn v&agrave; nh&oacute;m của m&igrave;nh</p>
+<p dir="ltr">Về kh&oacute; khăn thứ 2 "<em>Bọn em x&aacute;c định chắc chắn ban đầu phải l&agrave;m part-time, vậy nếu c&oacute; thể ph&aacute;t triển được th&igrave; thời điểm n&agrave;o, hay dấu hiệu n&agrave;o để nhận biết l&agrave; n&ecirc;n chuyển sang l&agrave;m full-time</em>", với th&ocirc;ng tin đ&atilde; c&oacute; ch&uacute;ng t&ocirc;i cho rằng bạn cần tiếp tục n&acirc;ng cao năng lực v&agrave; uy t&iacute;n của m&igrave;nh như 1 chuy&ecirc;n gia c&oacute; uy t&iacute;n trong ng&agrave;nh nghề nghe n&agrave;y trước khi bỏ việc ra khởi nghiệp. Do vậy bạn sẽ cần tiếp tục n&ecirc;n l&agrave;m việc như 1 freelancer / expert part-time</p>
+<p dir="ltr">Vấn đề thứ 3 "<em>Với đối tượng kh&aacute;ch h&agrave;ng như vậy, th&igrave; c&oacute; nhưng k&ecirc;nh tiếp cận n&agrave;o khả dĩ mang lại hiệu quả</em>" th&igrave; qu&aacute; tr&igrave;nh l&agrave;m việc sẽ gi&uacute;p bạn ch&uacute; &yacute; hơn đến những điều căn bản n&oacute;i tr&ecirc;n từ đ&oacute; hoạch định chiến lược tổng qu&aacute;t, m&ocirc; h&igrave;nh kinh doanh v&agrave; chiến lược kinh doanh ph&ugrave; hợp nguồn lực của m&igrave;nh.</p>
+<p dir="ltr">Ở vấn đề thứ 4 "<em>Nếu c&oacute; thể, mong Anh/ Chị cho &yacute; kiến về &yacute; tưởng của team em? Liệu c&oacute; khả thi trong thời điểm hiện tại? Liệu c&aacute;c doanh nghiệp nhỏ, vừa c&oacute; quan t&acirc;m đến c&aacute;c chương tr&igrave;nh tr&ecirc;n hay kh&ocirc;ng hay họ chỉ tập trung v&agrave;o việc SXKD trước mắt? Hay l&agrave;m thế n&agrave;o để thuyết phục họ quan t&acirc;m đến dịch vụ n&agrave;y</em>" th&igrave; c&aacute;c c&acirc;u trả lời tr&ecirc;n v&agrave; kinh nghiệm thực tế của bạn đ&atilde; trả lời cho c&acirc;u hỏi n&agrave;y.</p>
+<p dir="ltr" style="text-align: right;"><strong>Chuy&ecirc;n gia L&yacute; Trường Chiến</strong></p>
+<p dir="ltr" style="text-align: right;"><strong><em>Ph&oacute; Chủ tịch CLB doanh nghiệp &amp; chuy&ecirc;n gia Tư vấn TPHCM&nbsp;</em></strong><br /><strong><em>Ph&oacute; Viện trưởng viện quản trị chiến lược v&agrave; marketing&nbsp;</em></strong><br /><strong><em>Chủ tịch Tr&iacute; Tri Group&nbsp;</em></strong></p>
+</div>
+</div>
+</div></div>
+                            </a>
+                        </div>
+                    </td>
+                    <td class="td1" valign="top">
+                        <div class="items-chude">
+                            <span class="email">
+Doanh nh&#226;n L&#226;m Minh Ch&#225;nh<br />
+                                                            </span>
+                            <a class="title-chude dotdot" href="/20160913/cau-hoi-307"><div>Hiện t&ocirc;i cần vay t&iacute;n chấp một khoản tiền khoảng 500 triệu đồng để n&acirc;ng cấp xưởng v&agrave; l&agrave;m vốn lưu động. Sau khi n&acirc;ng cấp xưởng, trừ c&aacute;c chi ph&iacute; t&ocirc;i sẽ c&oacute; thu nhập khoảng 50 triệu đồng/th&aacute;ng. Số tiền vay n&agrave;y t&ocirc;i sẽ trả trong v&ograve;ng 2 năm. Xin tư vấn gi&uacute;p l&agrave; t&ocirc;i c&oacute; n&ecirc;n&nbsp;vay t&iacute;n chấp kh&ocirc;ng, t&ocirc;i c&oacute; thể chịu được l&atilde;i suất cao hơn l&atilde;i suất ng&acirc;n h&agrave;ng.</div></a>
+                        </div>
+                        <div class="sapo-chude dotdot-content">
+                            <a href="/20160913/cau-hoi-307">
+                                <div><div>
+<p>K&iacute;nh gửi Ban tư vấn chương tr&igrave;nh<br /><br />T&ocirc;i tốt nghiệp ĐH năm 2004, đ&atilde; l&agrave;m việc ở một số cơ quan nh&agrave; nước nhưng v&igrave; nhiều l&yacute; do kh&aacute;c nhau n&ecirc;n t&ocirc;i đ&atilde; nghỉ. Đến năm 2010 th&igrave; chuyển qua tự kinh doanh một số mặt h&agrave;ng tại địa phương.<br /><br />Năm 2007 t&ocirc;i mở trang trại nu&ocirc;i nh&iacute;m (t&ocirc;i l&agrave; một trong hai người nu&ocirc;i đầu ti&ecirc;n ở huyện), đến năm 2010 t&ocirc;i b&aacute;n hết v&agrave; l&agrave;m được ng&ocirc;i nh&agrave;<br /><br />Năm 2011 t&ocirc;i vay tiền mua chiếc xe tải kinh doanh vật liệu x&acirc;y dựng, l&uacute;c đầu cũng xu&ocirc;i ch&egrave;o m&aacute;t m&aacute;i l&agrave;m ăn cũng được. Thế nhưng đến năm 2014 tai họa ập đến, t&ocirc;i l&aacute;i xe chở h&agrave;ng v&agrave; bị tai nạn, tiền đền h&agrave;ng bị hỏng, sửa xe,...hết kh&aacute; nhiều, v&igrave; phải trả ngay tức khắc nhiều khoản n&ecirc;n t&ocirc;i phải vay n&oacute;ng t&iacute;n dụng đen với l&atilde;i suất cắt cổ. Hơn nữa từ đ&oacute; trở đi c&ocirc;ng việc kinh doanh đi xuống do quan niệm của nhiều người cho rằng &ocirc;ng n&agrave;y đang đen đủi kh&ocirc;ng n&ecirc;n lấy vật liệu l&agrave;m nh&agrave;, cực chẳng đ&atilde; đầu năm nay t&ocirc;i phải b&aacute;n xe. V&igrave; xe cũ nhiều người biết c&oacute; lịch sử tai nạn n&ecirc;n gi&aacute; cũng thấp.<br /><br />Sau khi b&aacute;n xe d&ugrave; đang c&ograve;n nợ NH nhưng t&ocirc;i cũng cố gom lại &iacute;t vốn để mở một xưởng xẻ gỗ định h&igrave;nh, qua mấy th&aacute;ng hoạt động t&ocirc;i cũng c&oacute; thu nhập tương đối. Tuy nhi&ecirc;n, đến nay n&oacute; lại nảy sinh th&ecirc;m một số vấn đề; đ&oacute; l&agrave; kh&aacute;ch h&agrave;ng y&ecirc;u cầu số lượng lớn hơn, chất lượng cao hơn, tiền thanh to&aacute;n chậm hơn. V&igrave; vậy, hiện nay t&ocirc;i cần vay t&iacute;n chấp một khoản tiền khoảng 500 triệu để mở rộng n&acirc;ng cấp xưởng v&agrave; l&agrave;m vốn lưu động. Sau khi n&acirc;ng cấp xưởng t&ocirc;i c&oacute; thể giải quyết việc l&agrave;m cho khoảng 15 - 20 lao động tại địa phương v&agrave; trừ c&aacute;c chi ph&iacute; t&ocirc;i sẽ c&oacute; thu nhập khoảng 50 triệu đồng tr&ecirc;n th&aacute;ng. Khoản tiền vay n&agrave;y t&ocirc;i sẽ trả được trong v&ograve;ng 2 năm<br /><br />Phải cho vay t&iacute;n chấp v&igrave; t&ocirc;i kh&ocirc;ng c&oacute; g&igrave; để thế chấp nữa, t&ocirc;i c&oacute; thể chịu được l&atilde;i suất cao hơn l&atilde;i suất ng&acirc;n h&agrave;ng.</p>
+<p>Rất mong nhận được phản hồi của Ban tư vấn<br />T&ocirc;i xin ch&acirc;n th&agrave;nh cảm ơn</p>
+<p style="text-align: right;"><a href="mailto:na.cungcapgo@gmail.com" target="_blank">na.cungcapgo@...com</a></p>
+<p><strong>Doanh nh&acirc;n L&acirc;m Minh Ch&aacute;nh:</strong></p>
+<p>Ch&agrave;o bạn,</p>
+<p>Bạn n&ecirc;n bỏ qua đừng nghĩ tới phương &aacute;n vay t&iacute;n chấp số tiền 500 triệu từ ng&acirc;n h&agrave;ng, c&ocirc;ng ty t&agrave;i ch&iacute;nh hay tổ chức chuy&ecirc;n cho vay. Những tổ chức chuy&ecirc;n nghiệp n&agrave;y chỉ cho vay t&iacute;n chấp khi họ thấy bạn c&oacute; một nguồn thu ổn định chẳng hạn như bạn đi l&agrave;m c&oacute; mức thu nhập đều đặn&hellip;</p>
+<p>C&ograve;n bạn d&ugrave;ng tiền vay t&iacute;n chấp để kinh doanh, m&agrave; kh&ocirc;ng c&oacute; phương &aacute;n trả nợ n&agrave;o kh&aacute;c ngo&agrave;i lợi nhuận từ kinh doanh th&igrave; rất kh&oacute; được c&aacute;c tổ chức chuy&ecirc;n nghiệp cho vay. V&igrave; theo họ, đầu tư hay kinh doanh lu&ocirc;n ẩn chứa rủi ro. Bạn trong cuộc&nbsp; n&ecirc;n bạn hiểu v&agrave; tự tin về kinnh doanh của m&igrave;nh, nhưng họ th&igrave; ho&agrave;n to&agrave;n kh&ocirc;ng. V&igrave; vậy, việc họ cho vay t&iacute;n chấp để bạn n&acirc;ng cấp xưởng v&agrave; l&agrave;m vốn lưu động l&agrave; rất kh&oacute;.</p>
+<p>V&agrave; bạn cũng n&ecirc;n bỏ ngay, nếu c&oacute; suy nghĩ tới, về phương &aacute;n vay l&atilde;i suất cao từ thị trường chợ đen.&nbsp; Lợi nhuận từ kinh doanh của bạn sẽ kh&ocirc;ng trả nổi l&atilde;i suất rất cao của họ. Chỉ một sơ s&oacute;t l&agrave; l&atilde;i mẹ đẽ l&atilde;i con, v&agrave; bạn sẽ mất hết. Bạn nhớ nh&eacute;, kh&ocirc;ng bao giờ vay l&atilde;i suất cao từ thị trường chợ đen để kinh doanh.</p>
+<p>Bạn h&atilde;y xem x&eacute;t c&aacute;c phương &aacute;n sau:</p>
+<p>1) Vay t&iacute;n chấp từ những người rất th&acirc;n, những người y&ecirc;u thương tin tưởng m&igrave;nh.</p>
+<p>2) Vay thế chấp. bạn n&oacute;i kh&ocirc;ng c&ograve;n t&agrave;i sản, nhưng bạn c&oacute; xưởng gỗ, bạn h&atilde;y n&oacute;i chuyện với ng&acirc;n h&agrave;ng xem họ c&oacute; thể cho vay dựa tr&ecirc;n gi&aacute; trị t&agrave;i sản của xưởng kh&ocirc;ng?</p>
+<p>3) thuyết phục những người hiểu ng&agrave;nh bạn đang kinh doanh, nh&agrave; cung cấp, hay kh&aacute;ch h&agrave;ng c&ugrave;ng bỏ vốn kinh doanh với bạn. Khi đ&oacute; bạn sẽ chia sẻ quyền sỡ hữu c&ocirc;ng ty với họ.</p>
+<p>Nếu bạn chưa th&agrave;nh c&ocirc;ng với 3 phương &aacute;n tr&ecirc;n th&igrave; h&atilde;y kinh doanh chậm lại v&agrave;i nhịp. Đừng vội mở rộng sản xuất, đừng vội tăng trưởng. H&atilde;y l&agrave;m chậm v&agrave; chắc để c&oacute; lợi nhuận, quản l&yacute; thật chắc d&ograve;ng tiền để c&oacute; t&iacute;ch lũy, từ từ rồi mở rộng, tăng cường sản xuất v&agrave; kinh doanh theo nguồn vốn của ch&iacute;nh m&igrave;nh.</p>
+<p>Ch&uacute;c bạn th&agrave;nh c&ocirc;ng!</p>
+</div></div>
+                            </a>
+                        </div>
+                    </td>
+                    <td class="td1" valign="top">
+                        <div class="items-chude">
+                            <span class="email">
+&#212;ng Vũ Thế Dũng - Ph&#243; hiệu trưởng Trường Đại học B&#225;ch Khoa TP.HCM<br />
+                                                            </span>
+                            <a class="title-chude dotdot" href="/20160913/cau-hoi-309"><div>Hiện tại th&igrave; ch&aacute;u đang c&oacute; &yacute; định mở cửa h&agrave;ng kinh doanh đồ chơi trẻ em ở H&agrave; Nội, ch&aacute;u cảm thấy c&oacute; nhiều kh&uacute;c mắc về phương &aacute;n quản trị, nguồn vốn v&agrave;o khoảng bao nhi&ecirc;u th&igrave; c&oacute; thể ph&ugrave; hợp d&agrave;i hạn (ch&aacute;u hiện c&oacute; 100 triệu để đầu tư) v&agrave; phương &aacute;n marketting thế n&agrave;o th&igrave; ph&ugrave; hợp?</div></a>
+                        </div>
+                        <div class="sapo-chude dotdot-content">
+                            <a href="/20160913/cau-hoi-309">
+                                <div><div><strong class="sapo-tt">Ch&aacute;u c&oacute; một vấn đề cần ban chuy&ecirc;n gia tư vấn gi&uacute;p ch&aacute;u với ạ. Hiện tại th&igrave; ch&aacute;u đang c&oacute; &yacute; định mở cửa h&agrave;ng kinh doanh đồ chơi trẻ em ở H&agrave; Nội, chỉ đồ chơi trẻ em th&ocirc;i ạ chứ kh&ocirc;ng l&agrave;m c&aacute;c mặt h&agrave;ng kh&aacute;c như quần &aacute;o, sữa...</strong></div>
+<div>Địa điểm thu&ecirc; cửa h&agrave;ng th&igrave; ch&aacute;u dự t&iacute;nh sẽ t&igrave;m địa điểm gần trường tiểu học hoặc mầm non với chi ph&iacute; thu&ecirc; nh&agrave; dự t&iacute;nh v&agrave;o khoảng 8 triệu / 1 th&aacute;ng</div>
+<div>Ch&aacute;u hiện cảm thấy c&oacute; nhiều kh&uacute;c mắc về phương &aacute;n quản trị, về dự kiến nguồn vốn v&agrave;o khoảng bao nhi&ecirc;u th&igrave; c&oacute; thể ph&ugrave; hợp d&agrave;i hạn (ch&aacute;u hiện c&oacute; 100 triệu để đầu tư) v&agrave; phương &aacute;n marketting thế n&agrave;o th&igrave; ph&ugrave; hợp.</div>
+<div>Mong ban chuy&ecirc;n gia c&oacute; thể tư vấn gi&uacute;p ch&aacute;u với ạ.</div>
+<div>Ch&aacute;u cảm ơn!</div>
+<div style="text-align: right;"><a href="mailto:leanhtuan9989@gmail.com" target="_blank">leanhtuan9989@....com</a></div>
+<div><strong>&Ocirc;ng Vũ Thế Dũng - Ph&oacute; hiệu trưởng Trường Đại học B&aacute;ch Khoa TP.HCM:</strong></div>
+<div>Ch&agrave;o bạn</div>
+<div>Với 100 triệu l&agrave;m vốn th&igrave; ta c&oacute; thể ph&acirc;n bổ như sau:</div>
+<div>1. Vốn cố định: khoảng 20% tức l&agrave; khoảng 20 triệu, d&ugrave;ng để đầu tư v&agrave;o kệ trưng b&agrave;y, trang tr&iacute; cửa h&agrave;ng, v&agrave; c&aacute;c vật dụng kh&aacute;c. Tất nhi&ecirc;n cần rất tiết kiệm trong số tiền n&agrave;y.</div>
+<div>2. Vốn lưu động: được chi v&agrave;o hai khoản ch&iacute;nh:</div>
+<div>- [ ] Mua đồ chơi, sản phẩm để b&aacute;n: 47 -50 triệu.</div>
+<div>- [ ] Tiền dự ph&ograve;ng cho c&aacute;c chi ph&iacute; ph&aacute;t sinh h&agrave;ng th&aacute;ng bao gồm tiền thu&ecirc; nh&agrave;, điện nước, nh&acirc;n vi&ecirc;n. Do của h&agrave;ng nhỏ t&ocirc;i giả thiết rằng bạn sẽ tạm thời chưa thu&ecirc; mướn nh&acirc;n vi&ecirc;n m&agrave; tự m&igrave;nh tr&ocirc;ng coi trong thời gian đầu. Do chi ph&iacute; thu&ecirc; nh&agrave; khoảng 8 triệu/ th&aacute;ng, n&ecirc;n dự kiến c&aacute;c chi ph&iacute; kh&aacute;c (chưa t&iacute;nh nh&acirc;n c&ocirc;ng) l&agrave; 3 triệu/ th&aacute;ng. Dự kiến cần dự ph&ograve;ng tối thiểu 3 th&aacute;ng, tương đương 33 triệu.</div>
+<div>T&iacute;nh to&aacute;n doanh thu, chi ph&iacute;, lợi nhuận:</div>
+<div>1. T&iacute;nh to&aacute;n chi ph&iacute;: 11 triệu l&agrave; chi ph&iacute; vận h&agrave;nh tối thiểu/ th&aacute;ng, giả sử bạn trả lương tối thiểu cho 1 m&igrave;nh bạn b&aacute;n h&agrave;ng l&agrave; 9 triệu/ th&aacute;ng. Th&igrave; tổng chi ph&iacute; tối thiểu h&agrave;ng th&aacute;ng l&agrave; 20 triệu. Với m&ocirc; h&igrave;nh kinh doanh hộ gia đ&igrave;nh ta c&oacute; thể bắt đầu bằng con số n&agrave;y cho đơn giản. Như vậy mục ti&ecirc;u đầu ti&ecirc;n của bạn l&agrave; phải kiểm được 1 khoản lợi nhuận từ b&aacute;n h&agrave;ng h&agrave;ng th&aacute;ng vượt qu&aacute; con số 20 triệu n&agrave;y để c&oacute; thể ho&agrave; vốn hay c&oacute; l&atilde;i.</div>
+<div>2. Doanh thu:.</div>
+<div>V&igrave; vốn lưu động d&ugrave;ng để mua sản phẩm của bạn chỉ 47-50 triệu, để c&oacute; lợi nhuận bạn cần:</div>
+<div>- chọn đ&uacute;ng c&aacute;c mặt h&agrave;ng đồ chơi m&agrave; c&aacute;c em th&iacute;ch, c&oacute; điểm đặc sắc</div>
+<div>- Quay nhanh v&ograve;ng quay của vốn lưu động n&agrave;y. Nghĩa l&agrave; h&agrave;ng mua về b&aacute;n hết nhanh, thu tiền rồi nhập h&agrave;ng.</div>
+<div>- Giả sử lợi nhuận b&aacute;n lẻ khoảng 15-20% tr&ecirc;n gi&aacute; b&aacute;n ra. Th&igrave; ta cần doanh thu tối thiểu 1 th&aacute;ng 100-133 triệu để c&oacute; thể ho&agrave; vốn. Tức l&agrave; mỗi ng&agrave;y cửa h&agrave;ng phải b&aacute;n được từ 3-4 triệu đồng.</div>
+<div>- Với 50 triệu vốn lưu động th&igrave; bạn cần tạo ra &iacute;t nhất 2-3 v&ograve;ng quay của vốn trong 1 th&aacute;ng để c&oacute; thể tồn tại v&agrave; ph&aacute;t triển. Tất nhi&ecirc;n nếu tỷ lệ lợi nhuận tr&ecirc;n gi&aacute; b&aacute;n của bạn cao hơn do bạn c&oacute; nguồn h&agrave;ng đặc sắc, gi&aacute; rẻ th&igrave; v&ograve;ng quay vốn c&oacute; thể &iacute;t hơn để ho&agrave; vốn.</div>
+<div>- Về l&acirc;u d&agrave;i khi đ&atilde; c&oacute; t&iacute;ch luỹ th&igrave; bạn c&oacute; thể tăng vốn lưu động v&agrave;o sản phẩm để c&oacute; nhiều lựa chọn cho kh&aacute;ch h&agrave;ng hơn v&agrave; cũng nhẹ nh&agrave;ng hơn về v&ograve;ng quay của vốn.</div>
+<div>Về marketing:</div>
+<div>- Bạn đ&atilde; x&aacute;c định kh&aacute;ch h&agrave;ng mục ti&ecirc;u l&agrave; trẻ em: tốt</div>
+<div>- Bạn đ&atilde; x&aacute;c định địa điểm l&agrave; gần c&aacute;c trường học: tốt</div>
+<div>- Bạn cần x&aacute;c định cụ thể trong khu vực b&aacute;n h&agrave;ng của bạn c&oacute; những cửa h&agrave;ng n&agrave;o tương tự như bạn, họ b&aacute;n những sản phẩm g&igrave;, gi&aacute; cả thế n&agrave;o, những sản phẩm/ đồ chơi n&agrave;o m&agrave; trẻ em th&iacute;ch nhưng ở gần đ&oacute; chưa c&oacute; b&aacute;n, tr&ecirc;n cơ sở n&agrave;y n&agrave;y bạn x&aacute;c định loại sản phẩm/ đồ chơi cho cửa h&agrave;ng m&igrave;nh.</div>
+<div>- Nguy&ecirc;n tắc của c&aacute;c cửa h&agrave;ng nhỏ l&agrave;: sản phẩm phải tập trung v&agrave;o 1 số &iacute;t mặt h&agrave;ng đặc sắc m&agrave; đối thủ kh&ocirc;ng c&oacute; hay c&oacute; nhưng kh&ocirc;ng c&oacute; thế mạnh. Trong thời gian đầu kh&ocirc;ng n&ecirc;n nhập h&agrave;ng d&agrave;n trải v&igrave; vốn &iacute;t.</div>
+<div>- Ch&uacute; &yacute; x&acirc;y dựng uy t&iacute;n v&agrave; quan hệ thật tốt với phụ huynh v&agrave; c&aacute;c em nhỏ, bằng chất lượng sản phẩm, dịch vụ v&agrave; sự chăm s&oacute;c. B&ecirc;n cạnh thu h&uacute;t kh&aacute;ch h&agrave;ng cần rất ch&uacute; &yacute; đến giữ từng kh&aacute;ch h&agrave;ng. Khi b&aacute;n h&agrave;ng n&ecirc;n lắng nghe v&agrave; trao đổi với kh&aacute;ch để hiểu r&otilde; nhu cầu của họ nhằm cải tiến trong nhập h&agrave;ng v&agrave; dịch vụ.</div>
+<div>- Bạn c&oacute; thể tạo 1 sự gắn b&oacute; giữa cửa h&agrave;ng, đồ chơi, trẻ em, v&agrave; bố mẹ c&aacute;c em th&ocirc;ng qua c&aacute;c chương tr&igrave;nh kết nối s&aacute;ng tạo như nếu c&aacute;c em đạt 1 điểm 10 th&igrave; được cộng 1 điểm, v&agrave; nếu trong th&aacute;ng đạt 10 điểm th&igrave; được tặng 1 m&oacute;n đồ chơi nhỏ hay mua 1 m&oacute;n kh&aacute;c giảm gi&aacute;. C&aacute;ch l&agrave;m n&agrave;y vừa khuyến kh&iacute;ch c&aacute;c em học giỏi vừa khuyến kh&iacute;ch giải tr&iacute; với đồ chơi của bạn, bố mẹ c&aacute;c em cũng th&iacute;ch. Tất nhi&ecirc;n bạn cần s&aacute;ng tạo trong chương tr&igrave;nh n&agrave;y.</div>
+<div>- Facebook v&agrave; c&aacute;c diễn đ&agrave;n online hiện nay cũng l&agrave; c&aacute;c c&ocirc;ng cụ rất hay để tiếp thị đến c&aacute;c phụ huynh.</div>
+<div>- Về l&acirc;u d&agrave;i bạn c&oacute; thể đa dạng ho&aacute; sản phẩm v&agrave; dịch vụ của bạn.</div>
+<div>Ch&uacute;c bạn th&agrave;nh c&ocirc;ng!</div></div>
+                            </a>
+                        </div>
+                    </td>
+        </tr>
+    </table>
+</div><!-- End width_common	-->
+
+
+                        <div class="frame-qc">
+                            <p><a href="http://www.hbu.edu.vn/" target="_blank"><img class="desktop" src="../../Files/Banner/BANNER_01-02.jpg" alt=" " /></a></p>
+<p><a href="http://www.hbu.edu.vn/" target="_blank"><img class="mobile" src="../../Files/Banner/BANNER_01-05.jpg" alt=" " /></a></p>
+                        </div>
+                    </div><!-- END PAGE LAYOUTS -->
+
+                    <div class="footer-site">
+                        <div class="building-info">
+                            <a href="http://thanhnien.vn/pages/thong-tin-toa-soan.aspx" style="float: right; margin-right: 30px; margin-top: 9px; color: #fff; font-size: 12pt;" target="_blank">Thông tin tòa soạn</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"></script>
+
+    <script src="/bundles/home?v=vhJri7aJeQEoh7LOU4O3sSVygcieT02gBJR3z_XtO741"></script>
+
+    
+    
+    <script src="/js/jquery.truncate.js"></script>
+    <script>
+        $(function () {
+            $(".dotdot").truncate({
+                length: 100,
+                words: true,
+                noBreaks: true,
+                stripTags: true
+            });
+            $(".dotdot-content").truncate({
+                length: 400,
+                words: true,
+                noBreaks: true,
+                stripTags: true
+            });
+        });
+    </script>
+
+    <script>
+        $(function () {
+            var meta = $("meta[name=category]");
+            $(".navbar-nav > li").removeClass("active");
+            $(".navbar-nav > li > a").each(function () {
+                if ($(this).attr('href').indexOf("/" + meta.attr("content")) >= 0) {
+                    $(this).closest("li").addClass("active");
+                    return false;
+                }
+                return true;
+            });
+            $('#search_form,#search_form1').submit(function () {
+                if($(".txtsearch").val() === '')
+                return false;
+                return true;
+            });
+        });
+    </script>
+</body>
+</html>
+

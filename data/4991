@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bánh vừng chiên nhâm nhi ngày se lạnh - Eva
+</title><meta name="keywords" content="China SF,Lan Anh,ăn chơi" /><meta name="description" content="Chiều se se lạnh mà được thưởng thức món bánh vừng chiên hấp dẫn thế này thì còn gì bằng nhỉ." />
+<link rel="canonical" href="http://www.baomoi.com/banh-vung-chien-nham-nhi-ngay-se-lanh/c/21789840.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789840" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789840" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://eva.vn/bep-eva/banh-vung-chien-nham-nhi-ngay-se-lanh-c162a303068.html");
+else
+window.location.replace("http://www.baomoi.com/banh-vung-chien-nham-nhi-ngay-se-lanh/c/21789840.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

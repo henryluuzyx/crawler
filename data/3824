@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bão tuyết lịch sử tại Canada - Thanh Niên
+</title><meta name="keywords" content="đóng cửa,miền đông,bắc mỹ,Québec,canada,Le Monde,Montreál,cầu cứu" /><meta name="description" content="Từ khu vực đông bắc Mỹ, cơn bão mùa đông Stella đã quét sang miền đông Canada làm ít nhất 6 người thiệt mạng. Theo tờ Le Monde, bị ảnh hưởng nặng nề nhất là..." />
+<link rel="canonical" href="http://www.baomoi.com/bao-tuyet-lich-su-tai-canada/c/21792707.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792707" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792707" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhnien.vn/the-gioi/bao-tuyet-lich-su-tai-canada-816079.html");
+else
+window.location.replace("http://www.baomoi.com/bao-tuyet-lich-su-tai-canada/c/21792707.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

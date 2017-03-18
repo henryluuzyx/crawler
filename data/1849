@@ -1,0 +1,689 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Nhúng tin vào trang Web của bạn | BAOMOI.COM
+</title><meta name="keywords" /><meta name="description" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/Widget/CreateWidget.aspx" />
+<link rel="alternate" href="http://www.baomoi.com/Widget/CreateWidget.aspx" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/Widget/CreateWidget.aspx" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/Widget/CreateWidget.aspx" />
+<meta property="og:title" content="Nhúng tin vào trang Web của bạn | BAOMOI.COM" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Nhúng tin vào trang Web của bạn | BAOMOI.COM",
+"alternateName" : "",
+"url" : "http://www.baomoi.com/Widget/CreateWidget.aspx"
+}
+</script>
+<link rel="stylesheet" href="/Widget/Widget.css" type="text/css" media="screen" />
+<style>
+.widgetForm h3.panelHeader {
+background: #dcebf0;
+border-bottom: solid 1px #ddd;
+padding: 5px 10px;
+color: #333;
+}
+.widgetForm .panelWrap {
+padding: 10px;
+}
+.widgetForm {
+font-size: 1em;
+margin: 15px;
+}
+.widgetCode {
+background: #e0f1e0;
+width: 100%;
+}
+.mainForm {
+width: 68%;
+margin-right: 2%;
+float: left;
+}
+.intro {
+width: 30%;
+float: left;
+}
+.mainForm p {
+margin: 10px;
+}
+.mainForm p.notice {
+padding: 5px 10px;
+margin: 0 0 15px 0;
+background: #f1f8f8;
+}
+.formContents label {
+width: 120px;
+display: inline-block;
+text-align: right;
+margin: 0 20px 0 0;
+}
+.formContents label.labelAfter {
+width: auto;
+display: inline;
+margin: 0 0 0 5px;
+text-align: left;
+}
+.formContents .interactElement {
+padding-left: 140px;
+}
+.formContents ul {
+padding: 10px;
+}
+.inp, .slt {
+background: #fff;
+border: solid 1px #ccc;
+padding: 3px 5px;
+}
+.inp01 {
+width: 120px;
+}
+.inp02 {
+width: 180px;
+}
+.inp03 {
+width: 430px;
+}
+.inp:focus {
+border: solid 1px #dd3105;
+}
+select.sltBlock {
+display: block;
+margin: 3px 0;
+}
+.slt01 {
+width: 130px;
+}
+.slt02 {
+width: 250px;
+}
+</style>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content nocontent robots-nocontent">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<div class="breadcrumbs">
+<div class="cate">
+<a>Nhúng tin vào trang web</a>
+</div>
+</div>
+<form method="post" action="./CreateWidget.aspx" id="ctl00">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="0oxgRIOJ/Dkci1n+vn8mKsChpIRgU+foPNZRQ7rjDHJ9MS9IsRCbY/3uhBaRsAYyR9MpXv4FH+F1KqSFFz+IIHtf6trXssJ8+Rx63oNypYc=" />
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7BEADE55" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Ohtrjk5v9tyo9FNvFOWe/a5yhov1NPfxm6u33ZyBzUHf8HkyrizSfmGTtOksp0QzCedOXdXL1wPHlXQTDYGMkzo9oiUxsxiQ5XKTCLAuxXFP7FU3H2mUd0sjmTc8+1j863k/IhBrzVEaBxu9UDF6nOeY8TFwDQLcQwmk0q9RsrJrJL5QtD28aEuSkTBZH/cas/lzzusyuF63f5wf/20AUexFTn8TY0MdiBeDQc0mc0jBjmDedI4mCoqFAadgs3BT3UV+1eErW5Y/Wb3D40orDntEvRqcqWf7N7bTTKKeVozZYPMF/GHpijq9zJ8TBqA00mDA1i1CMoc5MYhLxKcfw9zoFuCH75Fpfjt96+OSn+LvuT98uYuB9ZueWPpOxkBqklL/+muqII6U29ydgKQHEXuDfo7fyTTFSJLg9Ub3NbQDrlj/PnxRSugkDcM7V3pPaXxbn0dmLk4UqyFEyVA1SFT0jYbovStVCm7CLCIajeRmBuorwJkgUPXDv+PJ6GHwjbW9uI67nU763sQRvzjRnwoWzfz8b+HVnIX+zNhjhECa9zjmEyu19jdO6MxO1t42P5dGTyHbFN4PSp1FLCbQ6B2y+VPC0QPUWe7GTWtkg3lhGwiboRWUUQQYFF5tXhWsI0uo/aixfvaBd4koz6YlVig3EDF+5U31ihYHKIooxTT5PtQm6J2RCl/a4j/5SHAaEsdZ3ib4TUg6bYfk2p6puwaHAe/GD1pLhk0ZlUIPGp6851o0yMB6S3/Ii7gqA5hemhNPbiikWBaNePUdFwZ/NOL/gD4jarGe8nCla+/2CrgNyh3j188gwTRcKPju7A2WU765SnRuAIeaAFn5CPHTqlEuNEWSZ0Fk6E7/a8mZTstuJ37aC5Gy73RJ7GvllMun2EvF1cWjcZBUiygbMfUyGQEsbLceNbpyaOHRXyuNeCulA0ULTRTHSkczyiDaaEYyyzBcRa6iOqAdPHoPTpCmp589rr1JhA9fmNksUFJIxKV/VOgODPa+b061D2VsWNbacIvx+GwZ3vH4d+WUsS8aKfI0DAKUvS4wUvAzRadgKP1QDa4DHb9/6CkaBFkoPBjmDwYToRx1zKud0X098GMqBLjX69nKhQbGDRCZZqSymOL/29OMjfAqQ4AXXUVVgSuLFJgZB9Ow16/RyIk7SjJZ4w==" />
+<div class="widgetForm">
+<div class="mainForm panel">
+<div class="formContents">
+<h3 class="panelHeader">1. Chọn theme</h3>
+<p class="widgetTheme">
+<a href="javascript:void(0)" onclick="changeTheme(this,'widgetDisplayThemeBlue');"
+class="widgetThemeSelected">
+<img src="/Widget/Images/widgetBlueth.jpg" alt="" width="61" height="59" border="0" /></a><a
+href="javascript:void(0)" onclick="changeTheme(this,'widgetDisplayThemeGrey');"><img
+src="/Widget/Images/widgetGreyth.jpg" alt="" width="61" height="59" border="0" /></a><a
+href="javascript:void(0)" onclick="changeTheme(this,'widgetDisplayThemeBlack');"><img
+src="/Widget/Images/widgetBlackth.jpg" alt="" width="61" height="59" border="0" /><a
+href="javascript:void(0)" onclick="changeTheme(this,'widgetDisplayThemePink');"><img
+src="/Widget/Images/widgetPinkth.jpg" alt="" width="61" height="59" border="0" /></a>
+</a>
+</p>
+<h3 class="panelHeader">2. Nguồn tin</h3>
+<p>
+<label>
+Chuyên mục</label>
+<select name="ctl00$main$ddlCategory" id="main_ddlCategory" class="slt slt02" onchange="changeNewsDisplay();">
+<option selected="selected" value="0">Tất cả c&#225;c chuy&#234;n mục</option>
+<option value="121">X&#227; hội</option>
+<option value="144">.... Thời sự</option>
+<option value="4">.... Giao th&#244;ng</option>
+<option value="3">.... M&#244;i trường - Kh&#237; hậu</option>
+<option value="119">Thế giới</option>
+<option value="54">Văn h&#243;a</option>
+<option value="15">.... Nghệ thuật</option>
+<option value="84">.... Ẩm thực</option>
+<option value="137">.... Du lịch</option>
+<option value="45">Kinh tế</option>
+<option value="7">.... Kinh doanh</option>
+<option value="47">.... Lao động - Việc l&#224;m</option>
+<option value="126">.... T&#224;i ch&#237;nh</option>
+<option value="127">.... Chứng kho&#225;n</option>
+<option value="59">Gi&#225;o dục</option>
+<option value="107">.... Học bổng - Du học</option>
+<option value="108">.... Đ&#224;o tạo - Thi cử</option>
+<option value="55">Thể thao</option>
+<option value="87">.... B&#243;ng đ&#225;</option>
+<option value="88">.... Quần vợt</option>
+<option value="52">Giải tr&#237;</option>
+<option value="71">.... &#194;m nhạc</option>
+<option value="72">.... Thời trang</option>
+<option value="132">.... Điện ảnh - Truyền h&#236;nh</option>
+<option value="58">Ph&#225;p luật</option>
+<option value="104">.... H&#236;nh sự - D&#226;n sự</option>
+<option value="141">.... An ninh - Trật tự</option>
+<option value="53">Khoa học - C&#244;ng nghệ </option>
+<option value="76">.... CNTT - Viễn th&#244;ng</option>
+<option value="79">.... Khoa học - Tự nhi&#234;n</option>
+<option value="136">.... Thiết bị - Phần cứng</option>
+<option value="33">Đời sống</option>
+<option value="138">.... Dinh dưỡng - L&#224;m đẹp</option>
+<option value="139">.... T&#236;nh y&#234;u - H&#244;n nh&#226;n</option>
+<option value="82">.... Sức khỏe - Y tế</option>
+<option value="145">Xe cộ</option>
+<option value="147">Nh&#224; đất</option>
+<option value="148">.... Quản l&#253; - Quy hoạch</option>
+<option value="150">.... Kh&#244;ng gian - Kiến tr&#250;c</option>
+</select>
+</p>
+<p>
+<label>Kiểu tin</label>
+<select name="ctl00$main$ddlNewsType" id="main_ddlNewsType" class="slt slt01" onchange="changeNewsDisplay();">
+<option selected="selected" value="popular">Tin n&#243;ng</option>
+<option value="mostrecent">Tin mới nhất</option>
+</select>
+</p>
+<h3 class="panelHeader">3. Hiển thị</h3>
+<p>
+<label>Số tin hiển thị</label><select name="ctl00$main$ddlNumOfNews" id="main_ddlNumOfNews" class="slt" onchange="changeNewsDisplay();">
+<option selected="selected" value="10">10 tin</option>
+<option value="15">15 tin</option>
+<option value="20">20 tin</option>
+<option value="25">25 tin</option>
+<option value="30">30 tin</option>
+</select>
+</p>
+<p>
+<label>Chiều rộng</label><input class="inp inp01" name="txtWidgetWidth" type="text" id="txtWidgetWidth" value="auto"
+size="15" onchange="updateCode();" /><span class="note" name="errorWidgetWidth" id="errorWidgetWidth">
+<i>Chiều rộng tối thiểu là 150px</i>
+</span>
+</p>
+<p>
+<label>Chiều cao</label><input class="inp inp01" name="txtWidgetHeight" type="text" id="txtWidgetHeight"
+value="auto" size="15" onchange="updateCode();" />
+</p>
+<p>
+<label>Viền</label><select class="slt" name="ddlWidgetBorder" id="ddlWidgetBorder" onchange="changeBorder(this.value);">
+<option value="0">Có viền</option>
+<option value="1">Không có viền</option>
+</select>
+</p>
+<p>
+<label>Hiển thị</label><select name="ctl00$main$ddlDisplayType" id="main_ddlDisplayType" class="slt" onchange="changeNewsDisplay();">
+<option value="0">Chỉ hiển thị ti&#234;u đề</option>
+<option selected="selected" value="1">Ti&#234;u đề v&#224; tr&#237;ch dẫn</option>
+<option value="2">Hiển thị đầy đủ (ti&#234;u đề, tr&#237;ch dẫn, ảnh)</option>
+</select>
+</p>
+<p>
+<label>Cửa sổ</label><select class="slt" name="ddlOpenType" id="ddlOpenType" onchange="updateCode();">
+<option value="0">Mở cửa sổ mới</option>
+<option value="1">Mở trên cửa sổ hiện tại</option>
+</select>
+</p>
+<h3 class="panelHeader">4. Mã nhúng</h3>
+<p>Copy đoạn mã này để nhúng vào website của bạn</p>
+<p>
+<textarea onclick="this.select();" class="widgetCode" id="widgetGeneratedCode" name="widgetGeneratedCode"
+rows="8" cols="50"></textarea>
+</p>
+<h3 class="panelHeader">5. Một số sản phẩm sử dụng API của Baomoi.com</h3>
+<ul class="bmListing">
+<li><a target="_blank" href="https://play.google.com/store/apps/details?id=com.epi">Đọc báo Android</a></li>
+<li><a target="_blank" href="http://itunes.apple.com/app/baomoi/id651979466">Đọc báo iPhone</a></li>
+<li><a target="_blank" href="http://www.web2vietnam.com">www.web2vietnam.com</a></li>
+<li><a target="_blank" href="http://www.vn-zoom.com">www.vn-zoom.com</a></li>
+<li><a target="_blank" href="http://huyenchip.com">huyenchip.com</a></li>
+<li><a target="_blank" href="http://www.raovat123.com">raovat123.com</a></li>
+</ul>
+</div>
+</div>
+<!--/.mainForm-->
+<div class="intro">
+<h3 class="panelHeader">Xem trước hộp tin</h3>
+<div id="widgetThemeContainer" class="widgetDisplayThemeBlue">
+<div class="widgetLogo" onclick="location.href='http://www.baomoi.com'">
+</div>
+<div id="updateProgress" class="widgetUpdateProgress" style="display: none">
+Đang tải.....
+</div>
+<div class="widgetDisplayBox">
+<div id="widgetContent" class="widgetDisplayBack">
+<div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/dinh-chi-cong-tac-co-giao-dung-thuoc-danh-hang-chuc-hoc-sinh/r/21793378.epi#widget" target="_blank">Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh</a>Do học sinh làm bài kiểm tra bị điểm kém, cô giáo Hương đã dùng thước nhựa đánh hàng chục học sinh.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi#widget" target="_blank">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a>Tại địa bàn các xã giáp ranh giữa 2 huyện Điện Biên Đông (tỉnh Điện Biên) và Sông Mã (tỉnh Sơn La), giông lốc kèm theo mưa đá với cường độ lớn đã diễn ra trên diện rộng.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi#widget" target="_blank">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a>Các nhà phân tích cho rằng cách tiếp cận của ông Trump trong vấn đề nhân sự vô tình cho thấy sự hiểu lầm căn bản của ông về cách chính phủ hoạt động.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/r/21793227.epi#widget" target="_blank">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a>Trước giải độc đắc 43 tỷ đồng được tìm ra ngày 17/3, đã có 11 tấm vé khác mang về giải thưởng từ 10 tỷ đến gần 76 tỷ đồng cho các chủ nhân.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi#widget" target="_blank">Thêm tội `Tham ô tài sản` tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a>Tòa án nhân dân TP.Hà Nội vừa khởi tố vắng mặt Trịnh Xuân Thanh (ảnh) - nguyên Chủ tịch Hội đồng Quản trị (HĐQT) TCty CP Xây lắp dầu khí VN (PVC) - thêm tội “Tham ô tài sản” do chỉ đạo thuộc cấp ăn chia số tiền chênh lệch bán dự án Thanh Hà của Cienco5 Land. Vậy Trịnh Xuân Thanh đã tham ô tài sản như thế nào?</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/merkel-de-nghi-bat-tay-trump-khong-dap/r/21793109.epi#widget" target="_blank">Merkel đề nghị bắt tay, Trump không đáp</a>Tổng thống Mỹ Donald Trump dường như không để ý đề nghị bắt tay của Thủ tướng Đức Angela Merkel tại Nhà Trắng và khoảnh khắc kỳ cục nhanh chóng lan truyền trên mạng.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/r/21792564.epi#widget" target="_blank">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a>Ngày 17.3, Cơ quan Cảnh sát điều tra Công an huyện Tuy Đức, tỉnh Đắk Nông cho biết đã tống đạt quyết định khởi tố vụ án, khởi tố bị can đối với Hồ Sỹ (39 tuổi, trú tại xã Quảng Tân, huyện Tuy Đức) về hành vi hiếp dâm trẻ em.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi#widget" target="_blank">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>Cầu thủ đang chơi cho CLB Gangwon (Hàn Quốc) đã bình phục hoàn toàn chấn thương, đủ sức dự trận giao hữu giữa tuyển Việt Nam và Đài Loan ngày 22/3.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi#widget" target="_blank">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>Chuyện gì xảy ra nếu Man United vô địch Europa League còn Leicester đăng quang ở Champions League mùa này? Suất dự Champions League mùa sau sẽ được quyết định như thế nào? Bài viết dưới đây sẽ giải đáp câu hỏi này.</td></tr></table></div><div class="widgetDisplayBackItem"><table border="0" cellspacing="0" cellpadding="0"><tr><td rowspan="2" align="left" valign="top">&nbsp;</td><td align="left" valign="top" class="widgetDisplayBackContent"><a href="http://www.baomoi.com/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi#widget" target="_blank">Vụ `xin giấy phép xuất khẩu gạo mất 20.000 USD`: Bịa đặt</a>Sau gần một tháng điều tra, xác minh, Bộ Công Thương khẳng định thông tin “xin giấy phép xuất khẩu gạo phải tốn không dưới 20.000 USD” là bịa đặt, gây ảnh hưởng nghiêm trọng tới uy tín của ngành Công Thương.</td></tr></table></div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="widgetBoxFoo">
+<tr>
+<td align="right">
+<a href="http://www.baomoi.com" target="_blank">Tạo hộp thông tin của bạn</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<!--/.intro-->
+</div>
+<!--/.simpleForm-->
+</form>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime"></p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script type="text/javascript">
+var epi_width = '250px';
+var epi_height = '300px';
+var epi_target = 0;
+var epi_border = 0;
+var epi_theme = 'widgetDisplayThemeBlue';
+function updateCode() {
+var codeString = '';
+var widgetWidth = $('#txtWidgetWidth').val();
+var widgetHeight = $('#txtWidgetHeight').val();
+if (/^\s*\d+\s*(px)?\s*$/.test(widgetWidth)) {
+var widthNumber = /^\s*(\d+)/.exec(widgetWidth)[1];
+if (widthNumber < 150) {
+widgetWidth = '150px';
+$('#txtWidgetWidth').value = widgetWidth;
+$('#errorWidgetWidth').css("color", "#f00");
+$('#errorWidgetWidth').css("fontWeight", "bold");
+}
+else {
+$('#errorWidgetWidth').css("color", "#999");
+$('#errorWidgetWidth').css("fontWeight", "normal");
+}
+}
+if (widgetWidth !== '150px') codeString = codeString + 'epi_width = \'' + widgetWidth + '\';\r\n';
+if (widgetHeight !== '300px') codeString = codeString + 'epi_height = \'' + widgetHeight + '\';\r\n';
+if ($('#widgetThemeContainer').className !== 'widgetDisplayThemeBlue') codeString = codeString + 'epi_theme = \'' + $('#widgetThemeContainer').attr('class') + '\';\r\n';
+if ($('#ddlWidgetBorder').val() !== 0) codeString = codeString + 'epi_border = ' + $('#ddlWidgetBorder').val() + ';\r\n';
+if ($('#ddlOpenType').val() !== 0) codeString = codeString + 'epi_target = ' + $('#ddlOpenType').val() + ';\r\n';
+if (codeString != '') {
+codeString = '&lt;script type="text/javascript"&gt;\r\nepi_id = \'epi-widget-container\';\r\n' + codeString + '&lt;/script&gt;\r\n';
+}
+else {
+codeString = '&lt;script type="text/javascript"&gt;\r\nepi_id = \'epi-widget-container\';\r\n&lt;/script&gt;\r\n';
+}
+codeString = codeString + '&lt;script type="text/javascript" src="http://www.baomoi.com/Widget/JS/Widget.js"&gt;&lt;/script&gt;\r\n';
+var catId = document.getElementById('main_ddlCategory').value;
+var numOfNews = document.getElementById('main_ddlNumOfNews').value;
+var newsType = document.getElementById('main_ddlNewsType').value;
+var displayType = document.getElementById('main_ddlDisplayType').value;
+var openType = $('#ddlOpenType').val();
+codeString = codeString + '&lt;script type="text/javascript" src="http://www.baomoi.com/Widget/GenerateJS.aspx?';
+codeString = codeString + "zone=" + catId;
+codeString = codeString + '&count=' + numOfNews + '&ntype=' + newsType + '&dtype=' + displayType + '&target=' + openType + '"&gt;&lt;/script&gt;\r\n';
+$('#widgetGeneratedCode').html(codeString);
+}
+function getElementsByClassName(classname) {
+if (document.getElementsByTagName) {
+var els = document.getElementsByTagName("*");
+var c = new RegExp('/b^|' + classname + '|$/b');
+elem = new Array();
+var n = 0;
+for (var i = 0; i < els.length; i++) {
+if (els[i].className) {
+if (c.test(els[i].className)) {
+elem[n] = els[i]; n++;
+}
+}
+}
+return elem;
+}
+else return false;
+}
+function changeTheme(element, themeName) {
+var themeContainer = document.getElementById('widgetThemeContainer');
+themeContainer.className = themeName;
+var currentSelected = getElementsByClassName('widgetThemeSelected');
+currentSelected[0].className = '';
+element.className = 'widgetThemeSelected';
+updateCode();
+return false;
+}
+function changeBorder(borderBit) {
+var themeContainer = document.getElementById('widgetThemeContainer');
+themeContainer.removeAttribute('style');
+if (borderBit == 1) {
+themeContainer.style.border = 'none';
+}
+updateCode();
+return false;
+}
+function changeNewsDisplay() {
+var catId = document.getElementById('main_ddlCategory').value;
+var objNewsType = document.getElementById('main_ddlNewsType');
+var newsType = objNewsType.value;
+var numOfNews = document.getElementById('main_ddlNumOfNews').value;
+var displayType = document.getElementById('main_ddlDisplayType').value;
+updateWidgetCallback(catId, numOfNews, newsType, displayType);
+updateCode();
+}
+function updateWidgetCallback(catId, numOfNews, newsType, displayType) {
+document.getElementById('updateProgress').style.display = "";
+$('#widgetContent').css("display", "none");
+var url = 'generatejs.aspx?zoneid=' + catId + "&top=" + numOfNews + "&ntype=" + newsType + "&dtype=" + displayType;
+$.get(url, function (data) {
+data = data.replace("outputWidget('", "").replace("</div>');", "</div>");
+updateWidgetResult(data);
+});
+}
+function updateWidgetResult(value) {
+$('#widgetContent').html(value);
+$('#widgetContent').css("display", "inherit");
+document.getElementById('updateProgress').style.display = "none";
+}
+updateCode();
+</script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

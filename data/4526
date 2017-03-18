@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phố Trần Hưng Đạo, Lý Thường Kiệt chuyển đỗ xe từ ngang thành dọc - Tin Tức TTXVN
+</title><meta name="keywords" content="lý thường kiệt,Trần Hưng Đạo,thí điểm,lấn chiếm,Hà Nội,Xuân Cường,Đường Trần Hưng Đạo,thất thoát,quán triệt,chấn chỉnh,ủy ban nhân dân thành phố hà nội,thu hồi,thanh tra,ghi nhận,chỉ đạo" /><meta name="description" content="Từ ngày 15/3, các xe ô tô đỗ trên tuyến đường Trần Hưng Đạo, Lý Thường Kiệt đã đỗ theo chiều dọc." />
+<link rel="canonical" href="http://www.baomoi.com/pho-tran-hung-dao-ly-thuong-kiet-chuyen-do-xe-tu-ngang-thanh-doc/c/21790121.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790121" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790121" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/xa-hoi/pho-tran-hung-dao-ly-thuong-kiet-chuyen-do-xe-tu-ngang-thanh-doc-20170317164312276.htm");
+else
+window.location.replace("http://www.baomoi.com/pho-tran-hung-dao-ly-thuong-kiet-chuyen-do-xe-tu-ngang-thanh-doc/c/21790121.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

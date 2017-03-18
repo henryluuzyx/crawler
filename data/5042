@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tin mới việc tạm dừng lưu hành ca khúc 'Con đường xưa em đi' - Giao Thông
+</title><meta name="keywords" content="Con đường xưa em đi,cục nghệ thuật biểu diễn,Rừng xưa,Chuyện buồn ngày xuân,sáng tác,Nguyễn Đăng Chương,quyền tác giả,Cánh thiệp đầu xuân,sở văn hóa thông tin,Nguyễn Ngọc Thiện,Phạm Lý,vi phạm" /><meta name="description" content="5 bài hát gồm Con đường xưa em đi,... được cấp phép trước đây vi phạm quyền tác giả và quyền liên quan." />
+<link rel="canonical" href="http://www.baomoi.com/tin-moi-viec-tam-dung-luu-hanh-ca-khuc-con-duong-xua-em-di/c/21770443.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21770443" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21770443" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/tin-moi-viec-tam-dung-luu-hanh-ca-khuc-con-duong-xua-em-di-d192248.html");
+else
+window.location.replace("http://www.baomoi.com/tin-moi-viec-tam-dung-luu-hanh-ca-khuc-con-duong-xua-em-di/c/21770443.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

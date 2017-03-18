@@ -1,0 +1,680 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Việc làm</title><meta name="description" content="Kính mời bạn đọc theo dõi tin tức việc làm mới nhất cập nhật đầy đủ, chính xác nhanh nhất tại đây." /><meta name="keywords" content="tin tức, tin tức việc làm, tin việc làm, tin việc làm mới, việc làm, viec lam" /><meta name="news_keywords" content="tin tức, tin tức việc làm, tin việc làm, tin việc làm mới, việc làm, viec lam" /><script type="text/javascript">var _ADM_Channel='%2Fviec-lam%2F';</script>
+<!--[if lt IE 7 ]>
+    <noscript><meta http-equiv="refresh" content="0; url='/static/old-browser.html'" /></noscript>
+    <script type="text/javascript">
+        window.location.href = '/static/old-browser.html';
+    </script>
+    <![endif]-->
+<meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" />
+
+        <meta name="robots" content="index,follow,all" />
+    
+<meta property="og:locale" content="vi_VN" />
+
+<meta property="fb:app_id" content="164035690775918" />
+<meta name="generator" content="VCCorp.vn" />
+<meta name="copyright" content="Công ty Cổ phần VCCorp" />
+<meta name="author" content="VCCorp.vn" />
+<meta http-equiv="audience" content="General" />
+<meta name="resource-type" content="Document" />
+<meta name="distribution" content="Global" />
+<meta name="revisit-after" content="1 days" />
+<meta http-equiv="REFRESH" content="1800" />
+<link rel="icon" href="http://static.dantricdn.com/App_Themes/Default/Images/favico.ico" />
+<meta property="fb:pages" content="345033318906366" />
+<meta property="article:author" content="https://www.facebook.com/baodantridientu" />
+<meta property="article:publisher" content="https://www.facebook.com/baodantridientu" />
+
+
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <link href="https://static.dantricdn.com/min/web/css-listnews-new.1.1.css" rel="stylesheet" />
+
+
+
+<noscript>
+    <style type="text/css">
+        img.lazy { display: none; }
+    </style>
+</noscript>
+<style>
+    .icon-game { background: url('http://dantricdn.com/web_images/khcn.jpg') 0 0 no-repeat; }
+    .subnav ul li { height: 21px; }
+    .subnav a.btn-euro.event { padding: 0; width: auto; height: auto; }
+    .subnav ul a { line-height: 21px; }
+</style>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-34575478-26', 'auto');
+    ga('send', 'pageview');
+
+    //ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+    //ga('totaldt.send', 'pageview');
+
+    //if (location.pathname === '/' || location.pathname === '/the-gioi.htm') {
+    //    ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt1' });
+    //    ga('totaldt1.send', 'pageview');
+    //}
+</script>
+
+
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript" async></script>
+    
+<script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "17793284" }), function () {
+        var c = document.createElement("script"), e = document.getElementsByTagName("script")[0];
+        c.async = !0, c.src = ("https:" == document.location.protocol ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js", e.parentNode.insertBefore(c, e);
+    }();
+</script>
+
+
+
+    <!--[if lt IE 9]>
+    <script src="http://static.dantricdn.com/scripts/lib/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">var appSettings = {domain:'http://dantri.com.vn',imageDomain:'https://dantricdn.com',videoImageDomain:'http://video-thumbs.mediacdn.vn',ajaxDomain:'http://wcm.dantri.com.vn',ajaxDomainOther:'http://wcm.dantri.com.vn',ajaxDomainCountListComment:'http://wcm.dantri.com.vn',allowVietId:false, allowFacebook:true,urlExtension:'.htm' };</script>
+
+    <script type="text/javascript">
+        var _jsCbArr = [];
+        var jsCallback = {
+            push: function (name, body) {
+                _jsCbArr[name] = body;
+            },
+            exec: function (name, args) {
+                if (typeof _jsCbArr[name] == "function") {
+                    try {
+                        _jsCbArr[name](args);
+                    } catch (e) {
+                        return;
+                    }
+                }
+            }
+        };
+
+        (function () {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            var setCookie = function (a, c, f) {
+                                var e = new Date();
+                                e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                                var b = "expires=" + e.toUTCString();
+                                document.cookie = a + "=" + c + "; " + b;
+                            };
+                            setCookie("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+        })();
+
+    </script>
+    
+   
+    
+    
+
+    <link href="https://dantricdn.com/web_css/site.css" rel="stylesheet" />
+
+
+    <script type="text/javascript">//danh cho nhung kieu moi
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+        (function () { var a = document.createElement("script"); a.async = !0; a.type = "text/javascript"; a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+    </script>
+
+<link href="http://dantri.com.vn/viec-lam.htm" rel="canonical" /><link href="http://m.dantri.com.vn/viec-lam.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/viec-lam.htm" rel="alternate" media="handheld" /><link href="/viec-lam.rss" rel="alternate" type="application/rss+xml" title="Tin tức việc làm" /><meta property="og:type" content="article" /><meta property="og:url" content="http://dantri.com.vn/viec-lam.htm" /><meta property="og:title" content="Việc làm" /><meta property="og:image" content="https://dantricdn.com/thumb_w/600/2017/2-1489796301316.jpg" /><meta property="og:description" content="Kính mời bạn đọc theo dõi tin tức việc làm mới nhất cập nhật đầy đủ, chính xác nhanh nhất tại đây." /></head>
+<body>
+    <form name="aspnetForm" method="post" action="" id="aspnetForm">
+<div>
+<input type="hidden" name="hidCategoryPath" id="hidCategoryPath" value="/viec-lam" />
+<input type="hidden" name="hidCurrentDate" id="hidCurrentDate" value="3/18/2017 7:47:51 AM" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzI2OTY4ODFkGAQFIGN0bDAwJGN0bDAwJGNwaEJvZHkkY3RsMDIkbXZNZW51Dw9kAgFkBSRjdGwwMCRjdGwwMCRjcGhCb2R5JGN0bDAxJHZpZXdQYXJlbnQPD2RmZAUeY3RsMDAkY3RsMDAkY3BoQm9keSRjdGwwMCRtdkgxDw9kAgFkBSVjdGwwMCRjdGwwMCRIZWFkSW5mb3JtYXRpb24xJG12Um9ib3RzDw9kZmSd9HVDNH2Cw3cjEbs2opoKjHqddQ==" />
+</div>
+
+        
+        
+<style type="text/css">
+    /*.header{ margin-bottom: 0;} body{ background-position: 0 -2615px}
+    .header.tet{    background: transparent url(http://dantricdn.com/web_images/dantri_bg_tet.png) 0 0 no-repeat !important;
+    margin-top: 0;
+    height: 66px;}
+    .header.tet .logo{ background-image: none !important;}
+    .nav-wrap{background-image:url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav{background-image: url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav li,.nav li.menu-home{background-image:url(http://dantri4.vcmedia.vn/web_images/menu-saparator-tet.png)}
+    .nav li.menu-home{margin-top: 3px !important}
+    .nav a:hover span, .nav a.active span,.nav a:hover, .nav a.active{ background-image: none;background-color: rgba(255, 255, 255, 0.15);border-radius: 4px 4px 0 0}
+    .nav a b,.nav a:hover b, .nav a.active b{ background: url(http://dantri4.vcmedia.vn/web_images/home-tet-icon2.png) no-repeat top center;height: 25px;}
+    .ul2 li.active,.box4{background-image: url(http://dantri4.vcmedia.vn/web_images/tab_bg_tet.png) }*/
+</style>
+<div class="header">
+    <div class="clearfix relative">
+        
+                <a href="/" class="logo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"></a>
+               
+            
+
+        <div id="div_gdpda" class="div_gdpda">
+            <a href="/?removecookie=true" rel="nofollow">Giao diện PDA</a>
+        </div>
+        <div id="searchbox" class="searchbox hidden">
+            <div class="clearfix">
+                
+                <input type="text" name="q" id="txtData" data-elementtype="searchtextv2" />
+                <input type="button" value="Tìm kiếm" class="btn" data-elementtype="searchbuttonv2" />
+            </div>
+        </div>
+        <div class="links">
+            <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a> <a title="Blog" class="icon-ads"
+                href="/blog.htm">Blog</a> <a title="Du học" class="icon-duhoc" href="http://duhoc.dantri.com.vn"
+                    target="_blank">Du học</a> <a title="Tuyển sinh" class="icon-tuyensinh" href="http://tuyensinh.dantri.com.vn"
+                        target="_blank">Tuyển sinh</a> <a title="So sánh" class="icon-tuanbao2" href="http://websosanh.vn/dantri/"
+                            target="_blank">So sánh</a> <a title="Mua bán" target="_blank" class="icon-bussiness" href="http://enbac.com">Mua bán</a>  <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a><a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a>
+            <a title="Diễn đàn" class="icon-forum2" href="/dien-dan.htm">Diễn đàn</a> <a title="English" class="icon-tienganh"
+                href="http://www.dtinews.vn" target="_blank">English</a>
+        </div>
+    </div>
+</div>
+<script type="text/lazyscript">
+
+    $('[data-elementtype=searchbuttonv2]').click(function () {
+        var strSearch = $('[data-elementtype=searchtextv2]').val();
+        strSearch=convertHtmlToText(strSearch);
+        strSearch = encodeURIComponent(strSearch);
+        if (strSearch != '') {
+            var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+            if (document.all) {
+                window.location.href = url;
+            } else {
+                document.location.href = url;
+            }
+        } else {
+            $('[data-elementtype=searchtextv2]').focus();
+        }
+        return false;
+    });
+
+    $('[data-elementtype=searchtextv2]').keypress(function (event) {
+        var key;
+        if (window.event) {
+            key = window.event.keyCode;
+        } else {
+            key = event.which;
+        }
+        if (key == 13) {
+            $('[data-elementtype=searchbuttonv2]').click();
+            return false;
+        }
+    });
+    $("#searchbox").removeClass('hidden').show();    
+</script>
+
+        <div class="top-ads clearfix">
+            <div class=" mgauto wid980">
+                
+        
+        
+<div id="admzone221"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone221') });
+</script>
+    
+            </div>
+        </div>
+        
+<style>.subnav ul li{ padding-right: 8px;}</style>
+<div class="nav-wrap">
+    <div class="clearfix">
+        <div class="mgauto wid1004">
+            
+            
+                    <ul class="nav">
+                        <li class="menu-home"><a href="/" title="Trang chủ"><span><b></b></span></a></li>
+                        <li><a href="/video-page.htm" title="Video" ><span>Video</span></a></li><li><a href="/su-kien.htm" title="Sự kiện" ><span>Sự kiện</span></a></li><li><a href="/xa-hoi.htm" title="Xã hội" ><span>Xã hội</span></a></li><li><a href="/the-gioi.htm" title="Thế giới" ><span>Thế giới</span></a></li><li><a href="/the-thao.htm" title="Thể thao" ><span>Thể thao</span></a></li><li><a href="/giao-duc-khuyen-hoc.htm" title="Giáo dục " ><span>Giáo dục </span></a></li><li><a href="/tam-long-nhan-ai.htm" title="Nhân ái" ><span>Nhân ái</span></a></li><li><a href="/kinh-doanh.htm" title="Kinh doanh" ><span>Kinh doanh</span></a></li><li><a href="/van-hoa.htm" title="Văn hóa" ><span>Văn hóa</span></a></li><li><a href="/giai-tri.htm" title="Giải trí" ><span>Giải trí</span></a></li><li><a href="http://dulich.dantri.com.vn" title="Du lịch" target="_blank"><span>Du lịch</span></a></li><li><a href="/phap-luat.htm" title="Pháp luật" ><span>Pháp luật</span></a></li><li><a href="/nhip-song-tre.htm" title="Nhịp sống trẻ" ><span>Nhịp sống trẻ</span></a></li><li><a href="/suc-khoe.htm" title="Sức khỏe" ><span>Sức khỏe</span></a></li><li><a href="/suc-manh-so.htm" title="Sức mạnh số" ><span>Sức mạnh số</span></a></li><li><a href="/o-to-xe-may.htm" title="Xe++" ><span>Xe++</span></a></li><li><a href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu" ><span>Tình yêu</span></a></li><li><a href="/chuyen-la.htm" title="Chuyện lạ" ><span>Chuyện lạ</span></a></li>
+                    </ul>
+                
+        </div>
+    </div>
+
+    <div class="subnav relative">
+        <ul class="clearfix" id="ul_submenu">
+            
+           
+            <li><a href="/viec-lam.htm" title="Việc l&#224;m">Việc làm</a></li><li><a href="/viec-lam/chinh-sach.htm" title="Ch&#237;nh s&#225;ch">Chính sách</a></li><li><a href="/viec-lam/thi-truong.htm" title="Thị trường">Thị trường</a></li><li><a href="/viec-lam/chung-toi-noi.htm" title="Ch&#250;ng t&#244;i n&#243;i">Chúng tôi nói</a></li><li><a href="/viec-lam/dao-tao.htm" title="Đ&#224;o tạo">Đào tạo</a></li><li><a href="/viec-lam/xkld.htm" title="XKLĐ">XKLĐ</a></li>
+
+        </ul>
+        <div class="hidden">
+            
+        </div>
+        <div class="subSideBtn">
+            <div class="submenu-btnside">
+                <a title="Bạn đọc" href="/ban-doc.htm">Bạn đọc</a>
+            </div>
+            <div class="submenu-btnside">
+                <a title="Việc làm" href="/viec-lam.htm">Việc làm</a>
+            </div>
+        </div>
+
+        <div class="top-rss-wrapper">
+
+            <a title="Rss" class="icon-rss2" ref="nofollow" href="/viec-lam.rss"></a>
+        </div>
+    </div>
+
+
+
+</div>
+
+        
+        <div class="wrapper">
+            <div class="container">
+                
+    <div class="clearfix">
+        <div class="fl wid470">
+            
+                <div  data-boxtype="zonenewsposition"  class="mt3 clearfix">
+                    <a  href="/viec-lam/tinh-luong-huu-tren-muc-luong-co-so-cu-hay-moi-20170318072008015.htm" title="T&#237;nh lương hưu tr&#234;n mức lương cơ sở cũ hay mới?" ><img   title="T&#237;nh lương hưu tr&#234;n mức lương cơ sở cũ hay mới?" alt="T&#237;nh lương hưu tr&#234;n mức lương cơ sở cũ hay mới?" data-x2="https://dantricdn.com/d732c7c1/zoom/205_158/2017/2-1489796301316.jpg" src="https://dantricdn.com/zoom/195_150/2017/2-1489796301316.jpg" width="195" height="150" class="img195"/></a><div class="mr1"><h2><a href="/viec-lam/tinh-luong-huu-tren-muc-luong-co-so-cu-hay-moi-20170318072008015.htm" title="T&#237;nh lương hưu tr&#234;n mức lương cơ sở cũ hay mới?" class="fon44" data-newstype="0"  data-linktype="newsdetail"   data-id="20170318072008015"  >Tính lương hưu trên mức lương cơ sở cũ hay mới?</a></h2><div class="fon5 wid255 fl">Ông Lê Văn Nho (TP. Hà Nội) là sĩ quan quân đội, hưởng lương hưu từ ngày 1/5/2016. Trong quyết định nghỉ hưu, tiền lương hưu được tính trên mức lương cơ sở 1.150.000 đồng/tháng. Từ tháng 5/2016 đến tháng 11/2016, lương hưu của ông vẫn không thay đổi.<br /><a href="/viec-lam/tu-1-7-luong-huu-du-kien-tang-74--20170317071232031.htm" title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %"><b>&nbsp;&gt;&gt;&nbsp;Từ 1/7: Lương hưu dự kiến tăng 7,4 %</b></a><br /><a href="/viec-lam/tiep-tuc-ra-soat-de-xuat-cac-phuong-an-dieu-chinh-luong-huu-20170224080138525.htm" title="Tiếp tục r&#224; so&#225;t, đề xuất c&#225;c phương &#225;n điều chỉnh lương hưu"><b>&nbsp;&gt;&gt;&nbsp;Tiếp tục rà soát, đề xuất các phương án điều chỉnh lương hưu</b></a><br /><a href="/viec-lam/nam-53-tuoi-da-du-dieu-kien-huong-luong-huu-20170218065207501.htm" title="Nam 53 tuổi đ&#227; đủ điều kiện hưởng lương hưu?"><b>&nbsp;&gt;&gt;&nbsp;Nam 53 tuổi đã đủ điều kiện hưởng lương hưu?</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/tinh-luong-huu-tren-muc-luong-co-so-cu-hay-moi-20170318072008015.htm">Xem tiếp</a></div>
+                </div>
+                <div class="line1 mt1 mgt10">
+                </div>
+            
+            
+<div class="clearfix" id="listcheckepl">
+    <div  data-boxtype="timelineposition"   data-posid="511678"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/chi-phi-bhyt-cung-chi-tra-qua-6-thang-luong-co-so-duoc-thanh-toan-the-nao-20170318074709573.htm" title="Chi ph&#237; BHYT c&#249;ng chi trả qu&#225; 6 th&#225;ng lương cơ sở được thanh to&#225;n thế n&#224;o?" ><img   title="Chi ph&#237; BHYT c&#249;ng chi trả qu&#225; 6 th&#225;ng lương cơ sở được thanh to&#225;n thế n&#224;o?" alt="Chi ph&#237; BHYT c&#249;ng chi trả qu&#225; 6 th&#225;ng lương cơ sở được thanh to&#225;n thế n&#224;o?" data-x2="https://dantricdn.com/e7239a4e/zoom/137_105/2017/bhyttt-1489631147494-1489797886805.jpg" src="https://dantricdn.com/zoom/130_100/2017/bhyttt-1489631147494-1489797886805.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170318074709573"><h2><a href="/viec-lam/chi-phi-bhyt-cung-chi-tra-qua-6-thang-luong-co-so-duoc-thanh-toan-the-nao-20170318074709573.htm" title="Chi ph&#237; BHYT c&#249;ng chi trả qu&#225; 6 th&#225;ng lương cơ sở được thanh to&#225;n thế n&#224;o?" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170318074709573"  >Chi phí BHYT cùng chi trả quá 6 tháng lương cơ sở được thanh toán thế nào?</a></h2><div class="fon5 wid324 fl">BHXH TP HCM hướng dẫn thanh toán chi phí khám chữa bệnh BHYT cùng chi trả vượt quá 6 tháng lương cơ sở đối với người tham gia BHYT 5 năm liên tục trở lên.<br /><a href="/viec-lam/viec-cap-trung-the-bhyt-co-lam-that-thoat-ngan-sach-20170314071535206.htm" title="Việc cấp tr&#249;ng thẻ BHYT c&#243; l&#224;m thất tho&#225;t ng&#226;n s&#225;ch?"><b>&nbsp;&gt;&gt;&nbsp;Việc cấp trùng thẻ BHYT có làm thất thoát ngân sách?</b></a><br /><a href="/viec-lam/bhyt-voi-truong-hop-lam-viec-luu-dong-hoac-tam-tru-20170226220153398.htm" title="BHYT với trường hợp l&#224;m việc lưu động hoặc tạm tr&#250;"><b>&nbsp;&gt;&gt;&nbsp;BHYT với trường hợp làm việc lưu động hoặc tạm trú</b></a><br /><a href="/viec-lam/chuyen-noi-o-huong-bhyt-the-nao-2017021507171464.htm" title="Chuyển nơi ở, hưởng BHYT thế n&#224;o?"><b>&nbsp;&gt;&gt;&nbsp;Chuyển nơi ở, hưởng BHYT thế nào?</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/chi-phi-bhyt-cung-chi-tra-qua-6-thang-luong-co-so-duoc-thanh-toan-the-nao-20170318074709573.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="511675"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/3-bai-hoc-khoi-nghiep-that-bai-cua-toi-20170318074039838.htm" title="3 b&#224;i học khởi nghiệp thất bại của t&#244;i" ><img   title="3 b&#224;i học khởi nghiệp thất bại của t&#244;i" alt="3 b&#224;i học khởi nghiệp thất bại của t&#244;i" data-x2="https://dantricdn.com/ec294393/zoom/137_105/2017/khoi-nghiep-1489797494967.jpg" src="https://dantricdn.com/zoom/130_100/2017/khoi-nghiep-1489797494967.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170318074039838"><h2><a href="/viec-lam/3-bai-hoc-khoi-nghiep-that-bai-cua-toi-20170318074039838.htm" title="3 b&#224;i học khởi nghiệp thất bại của t&#244;i" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170318074039838"  >3 bài học khởi nghiệp thất bại của tôi</a></h2><div class="fon5 wid324 fl">Tôi là người thích kinh doanh và đã trải qua nhiều thất bại trong kinh doanh. Người ta thường nói: “Thất bại là mẹ của thành công”. Câu nói này không sai nhưng cũng không đúng. Bởi tôi đã chứng kiến rất nhiều người khởi nghiệp sau khi vấp ngã đã không thể gượng nổi dậy để đi tiếp.<br /><a href="/viec-lam/khoi-nghiep-vi-sao-chi-3-thanh-cong-20170310095312353.htm" title="Khởi nghiệp: V&#236; sao chỉ 3% th&#224;nh c&#244;ng?"><b>&nbsp;&gt;&gt;&nbsp;Khởi nghiệp: Vì sao chỉ 3% thành công?</b></a><br /><a href="/viec-lam/khoi-nghiep-kinh-doanh-dung-di-mot-minh-20170303072829925.htm" title="Khởi nghiệp kinh doanh: Đừng đi một m&#236;nh"><b>&nbsp;&gt;&gt;&nbsp;Khởi nghiệp kinh doanh: Đừng đi một mình</b></a><br /><a href="/viec-lam/chang-trai-9x-khiem-thinh-day-nghi-luc-khoi-nghiep-voi-nghe-cat-toc-20170210222335909.htm" title="Ch&#224;ng trai 9X khiếm th&#237;nh đầy nghị lực khởi nghiệp với nghề cắt t&#243;c"><b>&nbsp;&gt;&gt;&nbsp;Chàng trai 9X khiếm thính đầy nghị lực khởi nghiệp với nghề cắt tóc</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/3-bai-hoc-khoi-nghiep-that-bai-cua-toi-20170318074039838.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="511664"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/han-quoc-xu-huong-chon-nganh-hoc-la-de-tang-co-hoi-viec-lam-20170318073052513.htm" title="H&#224;n Quốc: Xu hướng chọn ng&#224;nh học lạ để tăng cơ hội việc l&#224;m" ><img   title="H&#224;n Quốc: Xu hướng chọn ng&#224;nh học lạ để tăng cơ hội việc l&#224;m" alt="H&#224;n Quốc: Xu hướng chọn ng&#224;nh học lạ để tăng cơ hội việc l&#224;m" data-x2="https://dantricdn.com/f9d3bf5a/zoom/137_105/2017/chon-nghe-nghiep-1489796959367.jpg" src="https://dantricdn.com/zoom/130_100/2017/chon-nghe-nghiep-1489796959367.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170318073052513"><h2><a href="/viec-lam/han-quoc-xu-huong-chon-nganh-hoc-la-de-tang-co-hoi-viec-lam-20170318073052513.htm" title="H&#224;n Quốc: Xu hướng chọn ng&#224;nh học lạ để tăng cơ hội việc l&#224;m" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170318073052513"  >Hàn Quốc: Xu hướng chọn ngành học lạ để tăng cơ hội việc làm</a></h2><div class="fon5 wid324 fl">Tại Hàn Quốc, ngày càng có nhiều bạn trẻ lựa chọn các ngành học khác thường, với hy vọng có thể dễ dàng tìm được việc làm sau khi ra trường.<br /><a href="/viec-lam/huong-nghiep-chua-tot-hoc-sinh-lung-tung-chon-nghe-20170311080846765.htm" title="Hướng nghiệp chưa tốt, học sinh l&#250;ng t&#250;ng chọn nghề"><b>&nbsp;&gt;&gt;&nbsp;Hướng nghiệp chưa tốt, học sinh lúng túng chọn nghề</b></a><br /><a href="/viec-lam/nen-chon-nghe-bac-si-hay-dieu-duong-vien-20160820092129442.htm" title="N&#234;n chọn nghề b&#225;c sĩ hay điều dưỡng vi&#234;n?"><b>&nbsp;&gt;&gt;&nbsp;Nên chọn nghề bác sĩ hay điều dưỡng viên?</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/han-quoc-xu-huong-chon-nganh-hoc-la-de-tang-co-hoi-viec-lam-20170318073052513.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="511147"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/cho-lon-nghe-nhac-phap-hai-tien-ty-moi-nam-20170317072536768.htm" title="Cho lợn nghe nhạc Ph&#225;p “h&#225;i” tiền tỷ mỗi năm" ><img   title="Cho lợn nghe nhạc Ph&#225;p “h&#225;i” tiền tỷ mỗi năm" alt="Cho lợn nghe nhạc Ph&#225;p “h&#225;i” tiền tỷ mỗi năm" data-x2="https://dantricdn.com/f4954dc8/zoom/137_105/2017/148955002721004-thumbnail-auto-crop-1489710116612.jpg" src="https://dantricdn.com/zoom/130_100/2017/148955002721004-thumbnail-auto-crop-1489710116612.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170317072536768"><h2><a href="/viec-lam/cho-lon-nghe-nhac-phap-hai-tien-ty-moi-nam-20170317072536768.htm" title="Cho lợn nghe nhạc Ph&#225;p “h&#225;i” tiền tỷ mỗi năm" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170317072536768"  >Cho lợn nghe nhạc Pháp “hái” tiền tỷ mỗi năm</a></h2><div class="fon5 wid324 fl">Đó là phương pháp nuôi lợn độc đáo mà bà Nguyễn Thị Liên – chủ trang trại giun quế PHT ở xã Phú Cường, huyện Sóc Sơn (Hà Nội) đang áp dụng thành công. Mỗi năm, trang trại này cung cấp cho thị trường Thủ đô gần 100 tấn thịt lợn thương phẩm VietGAP.<br /><a href="/viec-lam/tuoi-chuot-nuoi-ran-kiem-tien-ty-20161202070748514.htm" title="Tuổi chuột nu&#244;i rắn kiếm tiền tỷ"><b>&nbsp;&gt;&gt;&nbsp;Tuổi chuột nuôi rắn kiếm tiền tỷ</b></a><br /><a href="/viec-lam/thay-gi-tu-xu-huong-kiem-tien-qua-mang-tang-nhanh-tai-my-20161130073205532.htm" title="Thấy g&#236; từ xu hướng kiếm tiền qua mạng tăng nhanh tại Mỹ?"><b>&nbsp;&gt;&gt;&nbsp;Thấy gì từ xu hướng kiếm tiền qua mạng tăng nhanh tại Mỹ?</b></a><br /><a href="/viec-lam/kiem-tien-ty-nho-len-rung-nuoi-ga-sach-tien-yen-20161127230641001.htm" title="Kiếm tiền tỷ nhờ l&#234;n rừng nu&#244;i g&#224; sạch Ti&#234;n Y&#234;n"><b>&nbsp;&gt;&gt;&nbsp;Kiếm tiền tỷ nhờ lên rừng nuôi gà sạch Tiên Yên</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/cho-lon-nghe-nhac-phap-hai-tien-ty-moi-nam-20170317072536768.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="511141"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/tu-1-7-luong-huu-du-kien-tang-74--20170317071232031.htm" title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %" ><img   title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %" alt="Từ 1/7: Lương hưu dự kiến tăng 7,4 %" data-x2="https://dantricdn.com/7c3f36be/zoom/137_105/2017/luong-huu-1489709375803.jpg" src="https://dantricdn.com/zoom/130_100/2017/luong-huu-1489709375803.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170317071232031"><h2><a href="/viec-lam/tu-1-7-luong-huu-du-kien-tang-74--20170317071232031.htm" title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170317071232031"  >Từ 1/7: Lương hưu dự kiến tăng 7,4 %</a></h2><div class="fon5 wid324 fl">(Dân trí) - Bộ LĐ-TB&XH đang lấy ý kiến góp ý dự thảo Nghị định trình Chính phủ ban hành quy định điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hàng tháng đối với cán bộ xã đã nghỉ việc. Nếu được thông qua, Nghị định sẽ có hiệu lực từ ngày 1/7/2017.<br /><a href="/viec-lam/tiep-tuc-ra-soat-de-xuat-cac-phuong-an-dieu-chinh-luong-huu-20170224080138525.htm" title="Tiếp tục r&#224; so&#225;t, đề xuất c&#225;c phương &#225;n điều chỉnh lương hưu"><b>&nbsp;&gt;&gt;&nbsp;Tiếp tục rà soát, đề xuất các phương án điều chỉnh lương hưu</b></a><br /><a href="/viec-lam/nam-53-tuoi-da-du-dieu-kien-huong-luong-huu-20170218065207501.htm" title="Nam 53 tuổi đ&#227; đủ điều kiện hưởng lương hưu?"><b>&nbsp;&gt;&gt;&nbsp;Nam 53 tuổi đã đủ điều kiện hưởng lương hưu?</b></a><br /><a href="/viec-lam/muc-luong-huu-hang-thang-khi-nghi-truoc-tuoi-ra-sao-20170206215409125.htm" title="Mức lương hưu h&#224;ng th&#225;ng khi nghỉ trước tuổi ra sao?"><b>&nbsp;&gt;&gt;&nbsp;Mức lương hưu hàng tháng khi nghỉ trước tuổi ra sao?</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/tu-1-7-luong-huu-du-kien-tang-74--20170317071232031.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="511109"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/sang-21-3-tai-ha-noi-phien-gdvl-thanh-nien-voi-500-chi-tieu-tuyen-dung-2017031706351088.htm" title="S&#225;ng 21/3, tại H&#224; Nội: Phi&#234;n GDVL thanh ni&#234;n với 500 chỉ ti&#234;u tuyển dụng" ><img   title="S&#225;ng 21/3, tại H&#224; Nội: Phi&#234;n GDVL thanh ni&#234;n với 500 chỉ ti&#234;u tuyển dụng" alt="S&#225;ng 21/3, tại H&#224; Nội: Phi&#234;n GDVL thanh ni&#234;n với 500 chỉ ti&#234;u tuyển dụng" data-x2="https://dantricdn.com/ccfee445/zoom/137_105/2017/lao-dong-1489707064667.jpg" src="https://dantricdn.com/zoom/130_100/2017/lao-dong-1489707064667.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="2017031706351088"><h2><a href="/viec-lam/sang-21-3-tai-ha-noi-phien-gdvl-thanh-nien-voi-500-chi-tieu-tuyen-dung-2017031706351088.htm" title="S&#225;ng 21/3, tại H&#224; Nội: Phi&#234;n GDVL thanh ni&#234;n với 500 chỉ ti&#234;u tuyển dụng" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="2017031706351088"  >Sáng 21/3, tại Hà Nội: Phiên GDVL thanh niên với 500 chỉ tiêu tuyển dụng</a></h2><div class="fon5 wid324 fl">(Dân trí) - Theo Trung tâm Dịch vụ việc làm Hà Nội (Sở LĐ-TB&XH Hà Nội), Phiên giao dịch việc làm chuyên đề thanh niên năm 2017 sẽ được tổ chức vào ngày 21/3 tại 215 Trung Kính (Cầu Giấy, Hà Nội) với sự tham gia của trên 40 doanh nghiệp và 500 chỉ tiêu tuyển dụng miễn phí.<br /><a href="/viec-lam/ngay-1-12-tai-ha-noi-to-chuc-phien-gdvl-cho-lao-dong-tai-han-quoc-ve-nuoc-20161124235115158.htm" title="Ng&#224;y 1/12, tại H&#224; Nội: Tổ chức Phi&#234;n GDVL cho lao động tại H&#224;n Quốc về nước"><b>&nbsp;&gt;&gt;&nbsp;Ngày 1/12, tại Hà Nội: Tổ chức Phiên GDVL cho lao động tại Hàn Quốc về nước</b></a><br /><a href="/viec-lam/ngay-6-10-ha-noi-to-chuc-phien-gdvl-cho-lao-dong-huong-bao-hiem-that-nghiep-20161005082950702.htm" title="Ng&#224;y 6/10, H&#224; Nội: Tổ chức Phi&#234;n GDVL cho lao động hưởng bảo hiểm thất nghiệp"><b>&nbsp;&gt;&gt;&nbsp;Ngày 6/10, Hà Nội: Tổ chức Phiên GDVL cho lao động hưởng bảo hiểm thất nghiệp</b></a><br /><a href="/viec-lam/ngay-28-7-ha-noi-to-chuc-phien-gdvl-online-ket-noi-15-tinh-thanh-pho-20160727160922786.htm" title="Ng&#224;y 28/7: H&#224; Nội tổ chức Phi&#234;n GDVL online kết nối 15 tỉnh, th&#224;nh phố"><b>&nbsp;&gt;&gt;&nbsp;Ngày 28/7: Hà Nội tổ chức Phiên GDVL online kết nối 15 tỉnh, thành phố</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/sang-21-3-tai-ha-noi-phien-gdvl-thanh-nien-voi-500-chi-tieu-tuyen-dung-2017031706351088.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="511105"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/vietinbank-gia-han-tuyen-dung-tai-khu-vuc-mien-nam-20170317061206777.htm" title="VietinBank gia hạn tuyển dụng tại khu vực miền Nam" ><img   title="VietinBank gia hạn tuyển dụng tại khu vực miền Nam" alt="VietinBank gia hạn tuyển dụng tại khu vực miền Nam" data-x2="https://dantricdn.com/d06184bb/zoom/137_105/2017/vietinbank-1489705767890.jpg" src="https://dantricdn.com/zoom/130_100/2017/vietinbank-1489705767890.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170317061206777"><h2><a href="/viec-lam/vietinbank-gia-han-tuyen-dung-tai-khu-vuc-mien-nam-20170317061206777.htm" title="VietinBank gia hạn tuyển dụng tại khu vực miền Nam" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170317061206777"  >VietinBank gia hạn tuyển dụng tại khu vực miền Nam</a></h2><div class="fon5 wid324 fl">Ngân hàng TMCP Công Thương Việt Nam (VietinBank) có nhu cầu tuyển dụng gần 150 chỉ tiêu tại 23 chi nhánh thuộc khu vực miền Nam trong đợt tuyển dụng tháng 2 năm 2017.<br /><a href="/viec-lam/khoi-thuong-hieu-truyen-thong-vietinbank-tuyen-dung-26-chi-tieu-dot-2-20170221102218993.htm" title="Khối Thương hiệu &amp; Truyền th&#244;ng VietinBank tuyển dụng 26 chỉ ti&#234;u đợt 2"><b>&nbsp;&gt;&gt;&nbsp;Khối Thương hiệu & Truyền thông VietinBank tuyển dụng 26 chỉ tiêu đợt 2</b></a><br /><a href="/thi-truong/vietinbank-tuyen-dung-le-tan-van-phong-20161107154406108.htm" title="VietinBank tuyển dụng lễ t&#226;n văn ph&#242;ng"><b>&nbsp;&gt;&gt;&nbsp;VietinBank tuyển dụng lễ tân văn phòng</b></a><br /><a href="/viec-lam/vietinbank-tuyen-dung-5-chi-tieu-ban-thong-tin-truyen-thong-20160317154612468.htm" title="VietinBank tuyển dụng 5 chỉ ti&#234;u Ban Th&#244;ng tin Truyền th&#244;ng"><b>&nbsp;&gt;&gt;&nbsp;VietinBank tuyển dụng 5 chỉ tiêu Ban Thông tin Truyền thông</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/vietinbank-gia-han-tuyen-dung-tai-khu-vuc-mien-nam-20170317061206777.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="510985"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/nhung-phan-doi-ben-ganh-hang-rong-20170316194101566.htm" title="Những phận đời b&#234;n g&#225;nh h&#224;ng rong" ><img   title="Những phận đời b&#234;n g&#225;nh h&#224;ng rong" alt="Những phận đời b&#234;n g&#225;nh h&#224;ng rong" data-x2="https://dantricdn.com/2ddefaeb/zoom/137_105/2017/anh-hang-rong-7-fnku-1489667708462.JPG" src="https://dantricdn.com/zoom/130_100/2017/anh-hang-rong-7-fnku-1489667708462.JPG" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170316194101566"><h2><a href="/viec-lam/nhung-phan-doi-ben-ganh-hang-rong-20170316194101566.htm" title="Những phận đời b&#234;n g&#225;nh h&#224;ng rong" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170316194101566"  >Những phận đời bên gánh hàng rong</a></h2><div class="fon5 wid324 fl">Những người gánh hàng đi bán khắp phố Sài Gòn trở thành hình ảnh quen thuộc với nhiều người ở thành phố, nơi luôn tấp nập người qua lại.<br /><a href="/viec-lam/nhung-nghe-ban-rong-kiem-ca-chuc-trieu-moi-thang-o-ha-noi-20170312083554855.htm" title="Những nghề b&#225;n rong kiếm cả chục triệu mỗi th&#225;ng ở H&#224; Nội"><b>&nbsp;&gt;&gt;&nbsp;Những nghề bán rong kiếm cả chục triệu mỗi tháng ở Hà Nội</b></a><br /><a href="/viec-lam/chang-trai-ban-hang-rong-duoc-3-dai-hoc-au-my-moi-hoc-mien-phi-20161128140315144.htm" title="Ch&#224;ng trai b&#225;n h&#224;ng rong được 3 đại học &#194;u Mỹ mời học miễn ph&#237;"><b>&nbsp;&gt;&gt;&nbsp;Chàng trai bán hàng rong được 3 đại học Âu Mỹ mời học miễn phí</b></a><br /><a href="/viec-lam/nghe-shipper-rong-ruoi-ca-ngay-tren-duong-rui-ro-khong-the-tinh-truoc-20160306223216878.htm" title="&quot;Nghề Shipper&quot;: Rong ruổi cả ng&#224;y tr&#234;n đường, rủi ro kh&#244;ng thể t&#237;nh trước"><b>&nbsp;&gt;&gt;&nbsp;"Nghề Shipper": Rong ruổi cả ngày trên đường, rủi ro không thể tính trước</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/nhung-phan-doi-ben-ganh-hang-rong-20170316194101566.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="510765"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/viet-nam-kien-quyet-xoa-bo-moi-hinh-thuc-phan-biet-doi-xu-voi-phu-nu-20170316123358913.htm" title="“Việt Nam ki&#234;n quyết x&#243;a bỏ mọi h&#236;nh thức ph&#226;n biệt đối xử với phụ nữ”" ><img   title="“Việt Nam ki&#234;n quyết x&#243;a bỏ mọi h&#236;nh thức ph&#226;n biệt đối xử với phụ nữ”" alt="“Việt Nam ki&#234;n quyết x&#243;a bỏ mọi h&#236;nh thức ph&#226;n biệt đối xử với phụ nữ”" data-x2="https://dantricdn.com/6f476b46/zoom/137_105/2017/lao-dong-nu-1489642333346.jpg" src="https://dantricdn.com/zoom/130_100/2017/lao-dong-nu-1489642333346.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20170316123358913"><h2><a href="/viec-lam/viet-nam-kien-quyet-xoa-bo-moi-hinh-thuc-phan-biet-doi-xu-voi-phu-nu-20170316123358913.htm" title="“Việt Nam ki&#234;n quyết x&#243;a bỏ mọi h&#236;nh thức ph&#226;n biệt đối xử với phụ nữ”" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20170316123358913"  >“Việt Nam kiên quyết xóa bỏ mọi hình thức phân biệt đối xử với phụ nữ”</a></h2><div class="fon5 wid324 fl">(Dân trí) - Đây là khẳng định của Bộ trưởng Bộ LĐ-TB&XH Đào Ngọc Dung tại Lễ công bố “Sáng kiến về Thập kỷ Nông nghiệp hộ gia đình” do Tổng thống Cộng hòa Costa Rica Guillermo Solis Luis chủ trì, được tổ chức bên lề Khóa họp lần thứ 61 (CSW-61) Ủy ban Địa vị Phụ nữ Liên hợp quốc.<br /><a href="/viec-lam/bo-truong-dao-ngoc-dung-tang-quyen-kinh-te-cho-phu-nu-de-bot-khoang-cach-gioi-20170314224040227.htm" title="Bộ trưởng Đ&#224;o Ngọc Dung: “Tăng quyền kinh tế cho phụ nữ để bớt khoảng c&#225;ch giới”"><b>&nbsp;&gt;&gt;&nbsp;Bộ trưởng Đào Ngọc Dung: “Tăng quyền kinh tế cho phụ nữ để bớt khoảng cách giới”</b></a><br /><a href="/viec-lam/bo-truong-dao-ngoc-dung-can-rang-buoc-doanh-nghiep-fdi-su-dung-lau-dai-lao-dong-20170209175125335.htm" title="Bộ trưởng Đ&#224;o Ngọc Dung: “Cần r&#224;ng buộc doanh nghiệp FDI sử dụng l&#226;u d&#224;i lao động”"><b>&nbsp;&gt;&gt;&nbsp;Bộ trưởng Đào Ngọc Dung: “Cần ràng buộc doanh nghiệp FDI sử dụng lâu dài lao động”</b></a><br /><a href="/viec-lam/bo-truong-dao-ngoc-dung-ban-tre-hay-khoi-nghiep-tu-cong-viec-don-gian-nhat-20170110144052362.htm" title="Bộ trưởng Đ&#224;o Ngọc Dung: “Bạn trẻ h&#227;y khởi nghiệp từ c&#244;ng việc đơn giản nhất”"><b>&nbsp;&gt;&gt;&nbsp;Bộ trưởng Đào Ngọc Dung: “Bạn trẻ hãy khởi nghiệp từ công việc đơn giản nhất”</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/viet-nam-kien-quyet-xoa-bo-moi-hinh-thuc-phan-biet-doi-xu-voi-phu-nu-20170316123358913.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="510748"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/loi-keu-cuu-tu-a-rap-xe-ut-chinh-thuc-thu-giay-phep-cua-cong-ty-dung-tru-so-ma-2017031611543269.htm" title="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: Ch&#237;nh thức thu giấy ph&#233;p của c&#244;ng ty d&#249;ng trụ sở &quot;ma&quot;!" ><img   title="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: Ch&#237;nh thức thu giấy ph&#233;p của c&#244;ng ty d&#249;ng trụ sở &quot;ma&quot;!" alt="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: Ch&#237;nh thức thu giấy ph&#233;p của c&#244;ng ty d&#249;ng trụ sở &quot;ma&quot;!" data-x2="https://dantricdn.com/b30807df/zoom/137_105/2017/l-1487867473014-1489545592679.png" src="https://dantricdn.com/zoom/130_100/2017/l-1487867473014-1489545592679.png" width="130" height="100" class="img130"/></a><div class="mr1" data-id="2017031611543269"><p class="subtitle"><a href="/viec-lam/loi-keu-cuu-tu-a-rap-xe-ut-chinh-thuc-thu-giay-phep-cua-cong-ty-dung-tru-so-ma-2017031611543269.htm">Bài 11:</a></p><h2><a href="/viec-lam/loi-keu-cuu-tu-a-rap-xe-ut-chinh-thuc-thu-giay-phep-cua-cong-ty-dung-tru-so-ma-2017031611543269.htm" title="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: Ch&#237;nh thức thu giấy ph&#233;p của c&#244;ng ty d&#249;ng trụ sở &quot;ma&quot;!" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="2017031611543269"  >Lời kêu cứu từ Ả Rập Xê Út: Chính thức thu giấy phép của công ty dùng trụ sở "ma"!</a></h2><div class="fon5 wid324 fl">(Dân trí) - Sau loạt bài điều tra dài kỳ của Báo Dân trí, ngày 15/3, Bộ LĐ-TB&XH đã ban hành Quyết định số 400/QĐ-LĐTBXH về việc thu hồi giấy phép hoạt động dịch vụ đưa người lao động đi làm việc ở nước ngoài của Công ty cổ phần Phát triển nguồn lực và dịch vụ dầu khí Việt Nam (viết tắt là Cty Petromanning).<br /><a href="/viec-lam/nu-lao-dong-keu-cuu-tai-a-rap-xe-ut-cong-ty-dung-tru-so-ma-lo-hang-loat-sai-pham-20170315102202701.htm" title="Nữ lao động k&#234;u cứu tại Ả Rập X&#234; &#218;t: C&#244;ng ty d&#249;ng trụ sở “ma” lộ h&#224;ng loạt sai phạm!"><b>&nbsp;&gt;&gt;&nbsp;Nữ lao động kêu cứu tại Ả Rập Xê Út: Công ty dùng trụ sở “ma” lộ hàng loạt sai phạm!</b></a><br /><a href="/viec-lam/nu-lao-dong-keu-cuu-tu-a-rap-xe-ut-thanh-tra-dot-xuat-cong-ty-petromanning-20170301123614239.htm" title="Nữ lao động k&#234;u cứu từ Ả rập x&#234; &#250;t: Thanh tra đột xuất C&#244;ng ty Petromanning!"><b>&nbsp;&gt;&gt;&nbsp;Nữ lao động kêu cứu từ Ả rập xê út: Thanh tra đột xuất Công ty Petromanning!</b></a><br /><a href="/viec-lam/bai-8-nu-lao-dong-keu-cuu-tai-a-rap-xe-ut-can-lam-ro-tru-so-ma-trong-ban-hop-dong-20170301075448742.htm" title="B&#224;i 8: Nữ lao động k&#234;u cứu tại Ả Rập X&#234; &#218;t: Cần l&#224;m r&#245; trụ sở “ma” trong bản hợp đồng!"><b>&nbsp;&gt;&gt;&nbsp;Bài 8: Nữ lao động kêu cứu tại Ả Rập Xê Út: Cần làm rõ trụ sở “ma” trong bản hợp đồng!</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/loi-keu-cuu-tu-a-rap-xe-ut-chinh-thuc-thu-giay-phep-cua-cong-ty-dung-tru-so-ma-2017031611543269.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="510586"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/viec-lam/kien-doi-so-bhxh-co-phai-nop-tien-201703160800014.htm" title="Kiện đ&#242;i sổ BHXH, c&#243; phải nộp tiền?" ><img   title="Kiện đ&#242;i sổ BHXH, c&#243; phải nộp tiền?" alt="Kiện đ&#242;i sổ BHXH, c&#243; phải nộp tiền?" data-x2="https://dantricdn.com/3c2053c6/zoom/137_105/2017/bhxh-ddaf-thumb-1489625826514.jpg" src="https://dantricdn.com/zoom/130_100/2017/bhxh-ddaf-thumb-1489625826514.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="201703160800014"><h2><a href="/viec-lam/kien-doi-so-bhxh-co-phai-nop-tien-201703160800014.htm" title="Kiện đ&#242;i sổ BHXH, c&#243; phải nộp tiền?" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="201703160800014"  >Kiện đòi sổ BHXH, có phải nộp tiền?</a></h2><div class="fon5 wid324 fl">Bạn tôi nghỉ việc hơn 8 tháng nhưng công ty chưa trả sổ bảo hiểm xã hội cho người lao động. Nghe các anh chị làm trước nói có người đến hai năm họ mới trả sổ.<br /><a href="/viec-lam/ha-noi-khoi-kien-5-doanh-nghiep-no-dong-bhxh-20170316075142666.htm" title="H&#224; Nội: Khởi kiện 5 doanh nghiệp nợ đọng BHXH"><b>&nbsp;&gt;&gt;&nbsp;Hà Nội: Khởi kiện 5 doanh nghiệp nợ đọng BHXH</b></a><br /><a href="/viec-lam/bi-ung-thu-co-duoc-huong-bhxh-mot-lan-20170315141824579.htm" title="Bị ung thư c&#243; được hưởng BHXH một lần?"><b>&nbsp;&gt;&gt;&nbsp;Bị ung thư có được hưởng BHXH một lần?</b></a><br /><a href="/viec-lam/tu-nam-2018-dong-bhxh-theo-tong-thu-nhap-20170313072819294.htm" title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập"><b>&nbsp;&gt;&gt;&nbsp;Từ năm 2018, đóng BHXH theo tổng thu nhập</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/viec-lam/kien-doi-so-bhxh-co-phai-nop-tien-201703160800014.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div>
+</div>
+<script type="text/lazyscript">    
+    {
+        var currentUrl=$("#hidCategoryPath").val();
+        if (typeof (currentUrl) != "undefined" && currentUrl != "/the-thao/bong-da-anh")
+            brandContentStream.init("#listcheckepl");
+    }
+</script>
+
+            <div class="clearfix mt1">
+                <div class="fr">
+                    <a class="fon27 mt1 mr2" href="/viec-lam/trang-2.htm">[ Trang sau ]</a>
+                </div>
+                <div class="fr">
+                    
+                </div>
+
+            </div>
+            
+<div id="ctl00_ctl00_cphBody_cphBody_ctrBoxVoteInZone" data-boxtype="voteinzone" data-zoneid="133" class="clearfix"></div>
+            <div style="float: left; width: 465px; padding: 10px 0 0 0;">
+            </div>
+            
+            
+
+            
+                <div class="box21 mt5 clearfix">
+                    <div class="fon39">
+                        Các bài đã đăng
+                    </div>
+                    <ul class="ul11 ml2 mt2">
+                        <li><a href="/viec-lam/ha-noi-khoi-kien-5-doanh-nghiep-no-dong-bhxh-20170316075142666.htm" title="H&#224; Nội: Khởi kiện 5 doanh nghiệp nợ đọng BHXH">Hà Nội: Khởi kiện 5 doanh nghiệp nợ đọng BHXH (16/3)</a></li><li><a href="/viec-lam/ty-le-that-nghiep-cua-anh-thap-ky-luc-nhung-doi-song-lao-dong-kho-khan-20170316074737412.htm" title="Tỷ lệ thất nghiệp của Anh thấp kỷ lục nhưng đời sống lao động kh&#243; khăn">Tỷ lệ thất nghiệp của Anh thấp kỷ lục nhưng đời sống lao động khó khăn (16/3)</a></li><li><a href="/viec-lam/nghi-huu-truoc-tuoi-khong-duoc-nhan-tro-cap-that-nghiep-20170315232327545.htm" title="Nghỉ hưu trước tuổi kh&#244;ng được nhận trợ cấp thất nghiệp">Nghỉ hưu trước tuổi không được nhận trợ cấp thất nghiệp (16/3)</a></li><li><a href="/viec-lam/bo-ld-tbxh-tuyen-chon-500-thuc-tap-sinh-sang-nhat-ban-trong-thang-3-va-4-2017031518345605.htm" title="Bộ LĐ-TB&amp;XH: Tuyển chọn 500 thực tập sinh sang Nhật Bản trong th&#225;ng 3 v&#224; 4">Bộ LĐ-TB&XH: Tuyển chọn 500 thực tập sinh sang Nhật Bản trong tháng 3 và 4 (15/3)</a></li><li><a href="/viec-lam/bi-ung-thu-co-duoc-huong-bhxh-mot-lan-20170315141824579.htm" title="Bị ung thư c&#243; được hưởng BHXH một lần?">Bị ung thư có được hưởng BHXH một lần? (15/3)</a></li><li><a href="/viec-lam/nu-lao-dong-keu-cuu-tai-a-rap-xe-ut-cong-ty-dung-tru-so-ma-lo-hang-loat-sai-pham-20170315102202701.htm" title="Nữ lao động k&#234;u cứu tại Ả Rập X&#234; &#218;t: C&#244;ng ty d&#249;ng trụ sở “ma” lộ h&#224;ng loạt sai phạm!">Nữ lao động kêu cứu tại Ả Rập Xê Út: Công ty dùng trụ sở “ma” lộ hàng loạt sai phạm! (15/3)</a></li><li><a href="/viec-lam/cong-nhan-nu-con-qua-nhieu-vat-va-20170315072935463.htm" title="C&#244;ng nh&#226;n nữ c&#242;n qu&#225; nhiều vất vả!">Công nhân nữ còn quá nhiều vất vả! (15/3)</a></li><li><a href="/viec-lam/ba-ria-vung-tau-khoi-kien-cac-doanh-nghiep-no-bao-hiem-xa-hoi-20170315070204868.htm" title="B&#224; Rịa - Vũng T&#224;u: Khởi kiện c&#225;c doanh nghiệp nợ bảo hiểm x&#227; hội">Bà Rịa - Vũng Tàu: Khởi kiện các doanh nghiệp nợ bảo hiểm xã hội (15/3)</a></li><li><a href="/viec-lam/ngu-the-nao-de-som-tro-thanh-ty-phu-20170314232700841.htm" title="Ngủ thế n&#224;o để sớm trở th&#224;nh… tỷ ph&#250;">Ngủ thế nào để sớm trở thành… tỷ phú (15/3)</a></li><li><a href="/viec-lam/di-cong-tac-vao-chu-nhat-co-tinh-lam-them-gio-20170314231052909.htm" title="Đi c&#244;ng t&#225;c v&#224;o chủ nhật c&#243; t&#237;nh l&#224;m th&#234;m giờ?">Đi công tác vào chủ nhật có tính làm thêm giờ? (15/3)</a></li><li><a href="/viec-lam/bo-truong-dao-ngoc-dung-tang-quyen-kinh-te-cho-phu-nu-de-bot-khoang-cach-gioi-20170314224040227.htm" title="Bộ trưởng Đ&#224;o Ngọc Dung: “Tăng quyền kinh tế cho phụ nữ để bớt khoảng c&#225;ch giới”">Bộ trưởng Đào Ngọc Dung: “Tăng quyền kinh tế cho phụ nữ để bớt khoảng cách giới” (14/3)</a></li><li><a href="/viec-lam/dao-tao-trinh-do-cao-dang-ti-le-thuc-hanh-len-toi-70-20170314144658906.htm" title="Đ&#224;o tạo tr&#236;nh độ cao đẳng, tỉ lệ thực h&#224;nh l&#234;n tới 70%">Đào tạo trình độ cao đẳng, tỉ lệ thực hành lên tới 70% (14/3)</a></li>
+                    </ul>
+                </div>
+            
+            
+<div class="clearfix mt2 newsdateselector">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm trước" id="btnViewNewsPrevDate">
+    <input class="btn-view-month" type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="Xem bài theo ngày tháng »" id="Button1">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm sau" id="btnViewNewsNextDate">
+</div>
+<script type="text/lazyscript">
+    var categoryPath = $("#hidCategoryPath").val().trim('/');
+    
+    var currentDate = new Date();
+    if ($("#hidCurrentDate") && $("#hidCurrentDate").val() != '') {
+        currentDate = new Date($("#hidCurrentDate").val());
+    }
+    var now = new Date();
+    var hasNext = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() > new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate()).getTime();
+    
+    var prevDate = currentDate.addDays(-1);
+    var prevDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, prevDate.getDate(), prevDate.getMonth() + 1, prevDate.getFullYear(), appSettings.urlExtension);
+    $('#btnViewNewsPrevDate').bind('click', function () {
+        window.location.href = prevDateUrl;
+    });
+
+    if (hasNext) {
+        var nextDate = currentDate.addDays(1);
+        var nextDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, nextDate.getDate(), nextDate.getMonth() + 1, nextDate.getFullYear(), appSettings.urlExtension);
+        $('#btnViewNewsNextDate').bind('click', function () {
+            window.location.href = nextDateUrl;
+        });
+        $('#btnViewNewsNextDate').show();
+    }else{
+        $('#btnViewNewsNextDate').addClass('disabled');
+    }
+</script>
+
+
+        </div>
+
+
+        <div class="fr w510">
+            
+
+
+
+<div class="fl wid310 box5 admicro mgl10">
+
+    
+        <div align="center" class="ic-ads" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 300px" align="center">
+                
+<div id="admzone401"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone401') });
+</script> 
+            </div> 
+        </div> 
+    
+    
+<div class="fl" id="newsfocus">
+    <div class="fon42 tieudiemh3">Tiêu điểm</div>
+    <div class="box16 box24 ml1 mr1 mb2 newsfocuspage1">
+        <div class="box24 clearfix"><div class="fr wid150"><a  href="/viec-lam/nhan-tro-cap-that-nghiep-van-duoc-dong-tiep-bhxh-de-nghi-huu-20170212222637305.htm" title="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" ><img   title="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" alt="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" data-x2="https://dantricdn.com/c37effd5/zoom/48_48/2017/bao-hiem-that-nghiep-1486913125018.jpg" src="https://dantricdn.com/zoom/45_45/2017/bao-hiem-that-nghiep-1486913125018.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/nhan-tro-cap-that-nghiep-van-duoc-dong-tiep-bhxh-de-nghi-huu-20170212222637305.htm" title="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Nhận trợ cấp thất nghiệp vẫn được đóng tiếp BHXH để nghỉ hưu</a></div><div class="fr"><a  href="/viec-lam/khi-nhan-vien-pham-sai-lam-20170212223335967.htm" title="Khi nh&#226;n vi&#234;n phạm sai lầm" ><img   title="Khi nh&#226;n vi&#234;n phạm sai lầm" alt="Khi nh&#226;n vi&#234;n phạm sai lầm" data-x2="https://dantricdn.com/08a35511/zoom/48_48/2017/nhan-vien-1486913497208.jpg" src="https://dantricdn.com/zoom/45_45/2017/nhan-vien-1486913497208.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/khi-nhan-vien-pham-sai-lam-20170212223335967.htm" title="Khi nh&#226;n vi&#234;n phạm sai lầm" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Khi nhân viên phạm sai lầm</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/viec-lam/cu-ba-88-tuoi-van-sua-xe-chong-day-moi-ngay-20170216072842178.htm" title="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" ><img   title="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" alt="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" data-x2="https://dantricdn.com/ecacb948/zoom/48_48/2017/a1-1-1487204644824.JPG" src="https://dantricdn.com/zoom/45_45/2017/a1-1-1487204644824.JPG" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/cu-ba-88-tuoi-van-sua-xe-chong-day-moi-ngay-20170216072842178.htm" title="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Cụ bà 88 tuổi vẫn sửa xe, chống đẩy mỗi ngày</a></div><div class="fr"><a  href="/viec-lam/tan-trang-xe-co-nghe-kiem-bon-tien-tai-cuba-20170224171305621.htm" title="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" ><img   title="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" alt="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" data-x2="https://dantricdn.com/5b28211f/zoom/48_48/2017/o-to-co-1487930990964.jpg" src="https://dantricdn.com/zoom/45_45/2017/o-to-co-1487930990964.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/tan-trang-xe-co-nghe-kiem-bon-tien-tai-cuba-20170224171305621.htm" title="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Tân trang xe cổ - Nghề kiếm bộn tiền tại Cuba</a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/viec-lam/cu-nhan-khong-viet-noi-don-xin-viec-vi-sao-20170301090353532.htm" title="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" ><img   title="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" alt="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" data-x2="https://dantricdn.com/df9f7483/zoom/48_48/2017/cu-nhan-1488333753663.jpg" src="https://dantricdn.com/zoom/45_45/2017/cu-nhan-1488333753663.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/cu-nhan-khong-viet-noi-don-xin-viec-vi-sao-20170301090353532.htm" title="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Cử nhân không viết nổi đơn xin việc, vì sao?</a></div><div class="fr"><a  href="/viec-lam/bo-ld-tbxh-manh-tay-rut-giay-phep-voi-doanh-nghiep-xkld-khong-hieu-qua-20170308234114812.htm" title="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" ><img   title="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" alt="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" data-x2="https://dantricdn.com/2418fb75/zoom/48_48/2017/xkld-1488991026224.jpeg" src="https://dantricdn.com/zoom/45_45/2017/xkld-1488991026224.jpeg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/bo-ld-tbxh-manh-tay-rut-giay-phep-voi-doanh-nghiep-xkld-khong-hieu-qua-20170308234114812.htm" title="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Bộ LĐ-TB&XH: Mạnh tay rút giấy phép với doanh nghiệp XKLĐ không hiệu quả</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/viec-lam/tuyen-sinh-tc-cd-2017-cac-truong-co-quyen-tuyen-sinh-nhieu-lan-trong-nam-20170309164152663.htm" title="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" ><img   title="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" alt="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" data-x2="https://dantricdn.com/29d3ec43/zoom/48_48/2017/day-nghe-1489052380933.jpg" src="https://dantricdn.com/zoom/45_45/2017/day-nghe-1489052380933.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/tuyen-sinh-tc-cd-2017-cac-truong-co-quyen-tuyen-sinh-nhieu-lan-trong-nam-20170309164152663.htm" title="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Tuyển sinh TC-CĐ 2017: Các trường có quyền tuyển sinh nhiều lần trong năm</a></div><div class="fr"><a  href="/viec-lam/nghien-cuu-dung-the-dien-tu-thay-the-so-huu-tro-cap-bhxh-bang-giay-20170311072525855.htm" title="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" ><img   title="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" alt="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" data-x2="https://dantricdn.com/741340c7/zoom/48_48/2017/luong-huu-1489191856695.jpg" src="https://dantricdn.com/zoom/45_45/2017/luong-huu-1489191856695.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/nghien-cuu-dung-the-dien-tu-thay-the-so-huu-tro-cap-bhxh-bang-giay-20170311072525855.htm" title="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Nghiên cứu dùng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy</a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/viec-lam/tu-nam-2018-dong-bhxh-theo-tong-thu-nhap-20170313072819294.htm" title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" ><img   title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" alt="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" data-x2="https://dantricdn.com/0706c5a2/zoom/48_48/2017/bhxh-1489364803981.jpg" src="https://dantricdn.com/zoom/45_45/2017/bhxh-1489364803981.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/tu-nam-2018-dong-bhxh-theo-tong-thu-nhap-20170313072819294.htm" title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Từ năm 2018, đóng BHXH theo tổng thu nhập</a></div><div class="fr"><a  href="/viec-lam/bao-hiem-xa-hoi-cong-khai-ten-doanh-nghiep-no-tren-bao-chi-2017031308361525.htm" title="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" ><img   title="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" alt="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" data-x2="https://dantricdn.com/b8efed2b/zoom/48_48/2017/lao-dong-1489368580955.jpg" src="https://dantricdn.com/zoom/45_45/2017/lao-dong-1489368580955.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/bao-hiem-xa-hoi-cong-khai-ten-doanh-nghiep-no-tren-bao-chi-2017031308361525.htm" title="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Bảo hiểm xã hội công khai tên doanh nghiệp nợ trên báo chí</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/viec-lam/dip-gio-to-hung-vuong-nguoi-lao-dong-duoc-nghi-may-ngay-20170204083235004.htm" title="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" ><img   title="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" alt="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" data-x2="https://dantricdn.com/3bbb8cb6/zoom/48_48/2017/gio-to-1486177541716.jpg" src="https://dantricdn.com/zoom/45_45/2017/gio-to-1486177541716.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/dip-gio-to-hung-vuong-nguoi-lao-dong-duoc-nghi-may-ngay-20170204083235004.htm" title="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Dịp Giỗ Tổ Hùng Vương: Người lao động được nghỉ mấy ngày?</a></div></div>
+    </div>
+</div>
+
+<script type="text/lazyscript">
+    pagingBoxTieuDiem(3);
+</script>
+
+    
+        <div style="float: left; width: 300px; padding: 5px">
+            
+            
+<div id="admzone345"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone345') });
+</script>
+        </div> 
+    
+</div>
+
+    <div class="fr pt5" style="width: 180px;">
+        <div align="center" class="dantri-div-bottom" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 180px; padding-top: 5px;" align="center">
+                
+<div id="admzone228"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone228') });
+</script> 
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+    <div id="adm_sticky_footer" style="height: 0px">
+        </div>
+    
+<div class="video-slide">
+        <h3><a href="/video-page.htm" title="Video">Video</a><span class="info" id="video-slide-info">1 - 5 / 14</span><span class="video-slide-button"><a rel="nofollow" href="javascript:void(0)" class="sprite-dantri-new prev"></a><a class="sprite-dantri-new next" rel="nofollow" href="javascript:void(0)" ></a></span></h3>
+        <div class="video-slide-viewpot">
+            <ul id="video-slide">
+                <li ><a href="/video/xu-huong-lua-chon-cac-nganh-hoc-ky-la-de-tang-co-hoi-viec-lam-o-han-quoc-60151.htm" title="Xu hướng lựa chọn c&#225;c ng&#224;nh học kỳ lạ để tăng cơ hội việc l&#224;m ở H&#224;n Quốc"><img title="Xu hướng lựa chọn c&#225;c ng&#224;nh học kỳ lạ để tăng cơ hội việc l&#224;m ở H&#224;n Quốc" alt="Xu hướng lựa chọn c&#225;c ng&#224;nh học kỳ lạ để tăng cơ hội việc l&#224;m ở H&#224;n Quốc" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/rsgcuq7lcfflhiaxom2ll891ad0skm/2017/03/18/chon-nghe-1489796773849-622c6.jpg" width="125" height="78" /></a><a href="/video/xu-huong-lua-chon-cac-nganh-hoc-ky-la-de-tang-co-hoi-viec-lam-o-han-quoc-60151.htm" title="Xu hướng lựa chọn c&#225;c ng&#224;nh học kỳ lạ để tăng cơ hội việc l&#224;m ở H&#224;n Quốc">Xu hướng lựa chọn các ngành học kỳ lạ để tăng cơ hội việc làm ở Hàn Quốc</a><a href="/video/xu-huong-lua-chon-cac-nganh-hoc-ky-la-de-tang-co-hoi-viec-lam-o-han-quoc-60151.htm" title="Xu hướng lựa chọn c&#225;c ng&#224;nh học kỳ lạ để tăng cơ hội việc l&#224;m ở H&#224;n Quốc" class="sprite-dantri-new icon"></a></li><li ><a href="/video/ong-trump-tu-choi-bat-tay-thu-tuong-duc-trong-cuoc-gap-dau-tien-60149.htm" title="&#212;ng Trump từ chối bắt tay Thủ tướng Đức trong cuộc gặp đầu ti&#234;n"><img title="&#212;ng Trump từ chối bắt tay Thủ tướng Đức trong cuộc gặp đầu ti&#234;n" alt="&#212;ng Trump từ chối bắt tay Thủ tướng Đức trong cuộc gặp đầu ti&#234;n" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/zxkyauia1lctiej2oexonndj4ukco5/2017/03/18/ulfukueutiu-9d289.jpg" width="125" height="78" /></a><a href="/video/ong-trump-tu-choi-bat-tay-thu-tuong-duc-trong-cuoc-gap-dau-tien-60149.htm" title="&#212;ng Trump từ chối bắt tay Thủ tướng Đức trong cuộc gặp đầu ti&#234;n">Ông Trump từ chối bắt tay Thủ tướng Đức trong cuộc gặp đầu tiên</a><a href="/video/ong-trump-tu-choi-bat-tay-thu-tuong-duc-trong-cuoc-gap-dau-tien-60149.htm" title="&#212;ng Trump từ chối bắt tay Thủ tướng Đức trong cuộc gặp đầu ti&#234;n" class="sprite-dantri-new icon"></a></li><li ><a href="/video/tong-thong-trump-va-thu-tuong-duc-hop-bao-sau-cuoc-hoi-dam-dau-tien-60150.htm" title="Tổng thống Trump v&#224; Thủ tướng Đức họp b&#225;o sau cuộc hội đ&#224;m đầu ti&#234;n"><img title="Tổng thống Trump v&#224; Thủ tướng Đức họp b&#225;o sau cuộc hội đ&#224;m đầu ti&#234;n" alt="Tổng thống Trump v&#224; Thủ tướng Đức họp b&#225;o sau cuộc hội đ&#224;m đầu ti&#234;n" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/zxkyauia1lctiej2oexonndj4ukco5/2017/03/18/fchhs4ehzqg-8aec5.jpg" width="125" height="78" /></a><a href="/video/tong-thong-trump-va-thu-tuong-duc-hop-bao-sau-cuoc-hoi-dam-dau-tien-60150.htm" title="Tổng thống Trump v&#224; Thủ tướng Đức họp b&#225;o sau cuộc hội đ&#224;m đầu ti&#234;n">Tổng thống Trump và Thủ tướng Đức họp báo sau cuộc hội đàm đầu tiên</a><a href="/video/tong-thong-trump-va-thu-tuong-duc-hop-bao-sau-cuoc-hoi-dam-dau-tien-60150.htm" title="Tổng thống Trump v&#224; Thủ tướng Đức họp b&#225;o sau cuộc hội đ&#224;m đầu ti&#234;n" class="sprite-dantri-new icon"></a></li><li ><a href="/video/nsnd-hong-van-tiet-lo-bi-quyet-giam-can-de-tham-gia-phim-dien-anh-60148.htm" title="NSND Hồng V&#226;n tiết lộ b&#237; quyết giảm c&#226;n để tham gia phim điện ảnh"><img title="NSND Hồng V&#226;n tiết lộ b&#237; quyết giảm c&#226;n để tham gia phim điện ảnh" alt="NSND Hồng V&#226;n tiết lộ b&#237; quyết giảm c&#226;n để tham gia phim điện ảnh" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/b78705f365/2017/03/17/nsndhongvan-1489734954853.jpg" width="125" height="78" /></a><a href="/video/nsnd-hong-van-tiet-lo-bi-quyet-giam-can-de-tham-gia-phim-dien-anh-60148.htm" title="NSND Hồng V&#226;n tiết lộ b&#237; quyết giảm c&#226;n để tham gia phim điện ảnh">NSND Hồng Vân tiết lộ bí quyết giảm cân để tham gia phim điện ảnh</a><a href="/video/nsnd-hong-van-tiet-lo-bi-quyet-giam-can-de-tham-gia-phim-dien-anh-60148.htm" title="NSND Hồng V&#226;n tiết lộ b&#237; quyết giảm c&#226;n để tham gia phim điện ảnh" class="sprite-dantri-new icon"></a></li><li class="last"><a href="/video/nhung-co-dau-moi-ngoi-tren-mo-hinh-cua-quy-khong-lo-ruoc-qua-nhieu-tuyen-pho-60145.htm" title="Những c&#244; d&#226;u mới ngồi tr&#234;n m&#244; h&#236;nh &quot;của qu&#253; khổng lồ&quot;, rước qua nhiều tuyến phố"><img title="Những c&#244; d&#226;u mới ngồi tr&#234;n m&#244; h&#236;nh &quot;của qu&#253; khổng lồ&quot;, rước qua nhiều tuyến phố" alt="Những c&#244; d&#226;u mới ngồi tr&#234;n m&#244; h&#236;nh &quot;của qu&#253; khổng lồ&quot;, rước qua nhiều tuyến phố" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/c05a76d21c/2017/03/17/480x270-mp4-6181518168319541952-1489742148347.jpg" width="125" height="78" /></a><a href="/video/nhung-co-dau-moi-ngoi-tren-mo-hinh-cua-quy-khong-lo-ruoc-qua-nhieu-tuyen-pho-60145.htm" title="Những c&#244; d&#226;u mới ngồi tr&#234;n m&#244; h&#236;nh &quot;của qu&#253; khổng lồ&quot;, rước qua nhiều tuyến phố">Những cô dâu mới ngồi trên mô hình "của quý khổng lồ", rước qua nhiều tuyến phố</a><a href="/video/nhung-co-dau-moi-ngoi-tren-mo-hinh-cua-quy-khong-lo-ruoc-qua-nhieu-tuyen-pho-60145.htm" title="Những c&#244; d&#226;u mới ngồi tr&#234;n m&#244; h&#236;nh &quot;của qu&#253; khổng lồ&quot;, rước qua nhiều tuyến phố" class="sprite-dantri-new icon"></a></li><li ><a href="/video/hang-nghin-nguoi-tham-du-dam-ruoc-cua-quy-dai-hon-2m-60146.htm" title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m"><img title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" alt="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/c05a76d21c/2017/03/17/1024x576-mp4-6809256736971472311-1489741092966.jpg" width="125" height="78" /></a><a href="/video/hang-nghin-nguoi-tham-du-dam-ruoc-cua-quy-dai-hon-2m-60146.htm" title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m">Hàng nghìn người tham dự đám rước “của quý” dài hơn 2m</a><a href="/video/hang-nghin-nguoi-tham-du-dam-ruoc-cua-quy-dai-hon-2m-60146.htm" title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" class="sprite-dantri-new icon"></a></li><li ><a href="/video/cach-bien-smartphone-tablet-thanh-man-hinh-phu-cho-may-tinh-60143.htm" title="C&#225;ch biến smartphone, tablet th&#224;nh m&#224;n h&#236;nh phụ cho m&#225;y t&#237;nh"><img title="C&#225;ch biến smartphone, tablet th&#224;nh m&#224;n h&#236;nh phụ cho m&#225;y t&#237;nh" alt="C&#225;ch biến smartphone, tablet th&#224;nh m&#224;n h&#236;nh phụ cho m&#225;y t&#237;nh" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/dd98dadc32/2017/03/16/monitor-1489683548462.jpg" width="125" height="78" /></a><a href="/video/cach-bien-smartphone-tablet-thanh-man-hinh-phu-cho-may-tinh-60143.htm" title="C&#225;ch biến smartphone, tablet th&#224;nh m&#224;n h&#236;nh phụ cho m&#225;y t&#237;nh">Cách biến smartphone, tablet thành màn hình phụ cho máy tính</a><a href="/video/cach-bien-smartphone-tablet-thanh-man-hinh-phu-cho-may-tinh-60143.htm" title="C&#225;ch biến smartphone, tablet th&#224;nh m&#224;n h&#236;nh phụ cho m&#225;y t&#237;nh" class="sprite-dantri-new icon"></a></li><li ><a href="/video/video-nguoi-nghi-ong-kim-jong-nam-bi-tan-cong-tai-san-bay-malaysia-60053.htm" title="Video người nghi &#244;ng Kim Jong-nam bị tấn c&#244;ng tại s&#226;n bay Malaysia"><img title="Video người nghi &#244;ng Kim Jong-nam bị tấn c&#244;ng tại s&#226;n bay Malaysia" alt="Video người nghi &#244;ng Kim Jong-nam bị tấn c&#244;ng tại s&#226;n bay Malaysia" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/gheei6bw7jjfcvlgm2hdnsm3blzbgl/2017/03/15/wpabarf5akk-48f2c.jpg" width="125" height="78" /></a><a href="/video/video-nguoi-nghi-ong-kim-jong-nam-bi-tan-cong-tai-san-bay-malaysia-60053.htm" title="Video người nghi &#244;ng Kim Jong-nam bị tấn c&#244;ng tại s&#226;n bay Malaysia">Video người nghi ông Kim Jong-nam bị tấn công tại sân bay Malaysia</a><a href="/video/video-nguoi-nghi-ong-kim-jong-nam-bi-tan-cong-tai-san-bay-malaysia-60053.htm" title="Video người nghi &#244;ng Kim Jong-nam bị tấn c&#244;ng tại s&#226;n bay Malaysia" class="sprite-dantri-new icon"></a></li><li ><a href="/video/tong-ket-2-nam-trien-khai-sang-kien-dan-cham-diem-mscore-60142.htm" title="Tổng kết 2 năm triển khai s&#225;ng kiến “D&#226;n chấm điểm M.Score”"><img title="Tổng kết 2 năm triển khai s&#225;ng kiến “D&#226;n chấm điểm M.Score”" alt="Tổng kết 2 năm triển khai s&#225;ng kiến “D&#226;n chấm điểm M.Score”" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/3e7d42b729/2017/03/17/17-t-3-tin-quang-tri-no-luc-nang-cao-chat-luong-dich-vu-cong-1489742502082.jpg" width="125" height="78" /></a><a href="/video/tong-ket-2-nam-trien-khai-sang-kien-dan-cham-diem-mscore-60142.htm" title="Tổng kết 2 năm triển khai s&#225;ng kiến “D&#226;n chấm điểm M.Score”">Tổng kết 2 năm triển khai sáng kiến “Dân chấm điểm M.Score”</a><a href="/video/tong-ket-2-nam-trien-khai-sang-kien-dan-cham-diem-mscore-60142.htm" title="Tổng kết 2 năm triển khai s&#225;ng kiến “D&#226;n chấm điểm M.Score”" class="sprite-dantri-new icon"></a></li><li class="last"><a href="/video/tho-nhi-ky-thu-thach-gioi-han-do-chau-au-60139.htm" title="Thổ Nhĩ Kỳ thử th&#225;ch giới hạn đỏ ch&#226;u &#194;u?"><img title="Thổ Nhĩ Kỳ thử th&#225;ch giới hạn đỏ ch&#226;u &#194;u?" alt="Thổ Nhĩ Kỳ thử th&#225;ch giới hạn đỏ ch&#226;u &#194;u?" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/u0r8q1vgtzj09sojb5ogehn94djlvr/2017/03/17/ha-lan-17-3-1489742014708-be659.jpg" width="125" height="78" /></a><a href="/video/tho-nhi-ky-thu-thach-gioi-han-do-chau-au-60139.htm" title="Thổ Nhĩ Kỳ thử th&#225;ch giới hạn đỏ ch&#226;u &#194;u?">Thổ Nhĩ Kỳ thử thách giới hạn đỏ châu Âu?</a><a href="/video/tho-nhi-ky-thu-thach-gioi-han-do-chau-au-60139.htm" title="Thổ Nhĩ Kỳ thử th&#225;ch giới hạn đỏ ch&#226;u &#194;u?" class="sprite-dantri-new icon"></a></li><li ><a href="/video/ngoai-truong-my-tuyen-bo-het-kien-nhan-voi-trieu-tien-60141.htm" title="Ngoại trưởng Mỹ tuy&#234;n bố hết ki&#234;n nhẫn với Triều Ti&#234;n"><img title="Ngoại trưởng Mỹ tuy&#234;n bố hết ki&#234;n nhẫn với Triều Ti&#234;n" alt="Ngoại trưởng Mỹ tuy&#234;n bố hết ki&#234;n nhẫn với Triều Ti&#234;n" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/756edd3768/2017/03/17/tillerson-to-discuss-new-approach-on-n-korea-with-s-korean-counterpart-in-seoul-1489744102505.jpg" width="125" height="78" /></a><a href="/video/ngoai-truong-my-tuyen-bo-het-kien-nhan-voi-trieu-tien-60141.htm" title="Ngoại trưởng Mỹ tuy&#234;n bố hết ki&#234;n nhẫn với Triều Ti&#234;n">Ngoại trưởng Mỹ tuyên bố hết kiên nhẫn với Triều Tiên</a><a href="/video/ngoai-truong-my-tuyen-bo-het-kien-nhan-voi-trieu-tien-60141.htm" title="Ngoại trưởng Mỹ tuy&#234;n bố hết ki&#234;n nhẫn với Triều Ti&#234;n" class="sprite-dantri-new icon"></a></li><li ><a href="/video/hai-hung-canh-hang-trieu-con-kien-hop-suc-giet-chet-tran-60137.htm" title="H&#227;i h&#249;ng cảnh h&#224;ng triệu con kiến hợp sức giết chết... trăn"><img title="H&#227;i h&#249;ng cảnh h&#224;ng triệu con kiến hợp sức giết chết... trăn" alt="H&#227;i h&#249;ng cảnh h&#224;ng triệu con kiến hợp sức giết chết... trăn" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/6unb7i5ueiv7mtcccccccccccckanv/2017/03/17/kien-va-tran-1489740502341-2b4fe.jpg" width="125" height="78" /></a><a href="/video/hai-hung-canh-hang-trieu-con-kien-hop-suc-giet-chet-tran-60137.htm" title="H&#227;i h&#249;ng cảnh h&#224;ng triệu con kiến hợp sức giết chết... trăn">Hãi hùng cảnh hàng triệu con kiến hợp sức giết chết... trăn</a><a href="/video/hai-hung-canh-hang-trieu-con-kien-hop-suc-giet-chet-tran-60137.htm" title="H&#227;i h&#249;ng cảnh h&#224;ng triệu con kiến hợp sức giết chết... trăn" class="sprite-dantri-new icon"></a></li><li ><a href="/video/soc-video-quay-duoc-khoanh-khac-iphone-6-plus-bat-ngo-phat-no-tren-tay-nguoi-dung-60130.htm" title="Sốc video quay được khoảnh khắc iPhone 6 Plus bất ngờ ph&#225;t nổ tr&#234;n tay người d&#249;ng"><img title="Sốc video quay được khoảnh khắc iPhone 6 Plus bất ngờ ph&#225;t nổ tr&#234;n tay người d&#249;ng" alt="Sốc video quay được khoảnh khắc iPhone 6 Plus bất ngờ ph&#225;t nổ tr&#234;n tay người d&#249;ng" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/a6f7e4a5db/2017/03/17/iphone-6-explodes-in-mobile-repair-shop-cctv-1489725240273.jpg" width="125" height="78" /></a><a href="/video/soc-video-quay-duoc-khoanh-khac-iphone-6-plus-bat-ngo-phat-no-tren-tay-nguoi-dung-60130.htm" title="Sốc video quay được khoảnh khắc iPhone 6 Plus bất ngờ ph&#225;t nổ tr&#234;n tay người d&#249;ng">Sốc video quay được khoảnh khắc iPhone 6 Plus bất ngờ phát nổ trên tay người dùng</a><a href="/video/soc-video-quay-duoc-khoanh-khac-iphone-6-plus-bat-ngo-phat-no-tren-tay-nguoi-dung-60130.htm" title="Sốc video quay được khoảnh khắc iPhone 6 Plus bất ngờ ph&#225;t nổ tr&#234;n tay người d&#249;ng" class="sprite-dantri-new icon"></a></li><li ><a href="/video/thot-tim-canh-boeing-737-cho-gan-200-hanh-khach-suyt-ha-canh-nham-xuong-bien-60133.htm" title="Th&#243;t tim cảnh Boeing 737 chở gần 200 h&#224;nh kh&#225;ch su&#253;t “hạ c&#225;nh nhầm” xuống biển"><img title="Th&#243;t tim cảnh Boeing 737 chở gần 200 h&#224;nh kh&#225;ch su&#253;t “hạ c&#225;nh nhầm” xuống biển" alt="Th&#243;t tim cảnh Boeing 737 chở gần 200 h&#224;nh kh&#225;ch su&#253;t “hạ c&#225;nh nhầm” xuống biển" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/u0r8q1vgtzj09sojb5ogehn94djlvr/2017/03/17/boeing-737-17-3-1489736599744-bb333.jpg" width="125" height="78" /></a><a href="/video/thot-tim-canh-boeing-737-cho-gan-200-hanh-khach-suyt-ha-canh-nham-xuong-bien-60133.htm" title="Th&#243;t tim cảnh Boeing 737 chở gần 200 h&#224;nh kh&#225;ch su&#253;t “hạ c&#225;nh nhầm” xuống biển">Thót tim cảnh Boeing 737 chở gần 200 hành khách suýt “hạ cánh nhầm” xuống biển</a><a href="/video/thot-tim-canh-boeing-737-cho-gan-200-hanh-khach-suyt-ha-canh-nham-xuong-bien-60133.htm" title="Th&#243;t tim cảnh Boeing 737 chở gần 200 h&#224;nh kh&#225;ch su&#253;t “hạ c&#225;nh nhầm” xuống biển" class="sprite-dantri-new icon"></a></li><li class="last"><a href="/video/canh-diem-nhan-tra-loi-phong-van-bang-tieng-anh-tren-phim-truong-kong-60134.htm" title="Cảnh Điềm nhận trả lời phỏng vấn bằng tiếng Anh tr&#234;n phim trường “Kong”"><img title="Cảnh Điềm nhận trả lời phỏng vấn bằng tiếng Anh tr&#234;n phim trường “Kong”" alt="Cảnh Điềm nhận trả lời phỏng vấn bằng tiếng Anh tr&#234;n phim trường “Kong”" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/7a7517334e/2017/03/15/jing-tian-kong-skull-island-interview-1489554274514.jpg" width="125" height="78" /></a><a href="/video/canh-diem-nhan-tra-loi-phong-van-bang-tieng-anh-tren-phim-truong-kong-60134.htm" title="Cảnh Điềm nhận trả lời phỏng vấn bằng tiếng Anh tr&#234;n phim trường “Kong”">Cảnh Điềm nhận trả lời phỏng vấn bằng tiếng Anh trên phim trường “Kong”</a><a href="/video/canh-diem-nhan-tra-loi-phong-van-bang-tieng-anh-tren-phim-truong-kong-60134.htm" title="Cảnh Điềm nhận trả lời phỏng vấn bằng tiếng Anh tr&#234;n phim trường “Kong”" class="sprite-dantri-new icon"></a></li><li ><a href="/video/hieu-truong-dung-cam-dau-tri-voi-nghi-pham-trong-vu-xa-sung-tai-phap-60131.htm" title="Hiệu trưởng dũng cảm “đấu tr&#237;” với nghi phạm trong vụ xả s&#250;ng tại Ph&#225;p"><img title="Hiệu trưởng dũng cảm “đấu tr&#237;” với nghi phạm trong vụ xả s&#250;ng tại Ph&#225;p" alt="Hiệu trưởng dũng cảm “đấu tr&#237;” với nghi phạm trong vụ xả s&#250;ng tại Ph&#225;p" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/756edd3768/2017/03/17/french-student-in-custody-after-grasse-school-shooting-1489735893234.jpg" width="125" height="78" /></a><a href="/video/hieu-truong-dung-cam-dau-tri-voi-nghi-pham-trong-vu-xa-sung-tai-phap-60131.htm" title="Hiệu trưởng dũng cảm “đấu tr&#237;” với nghi phạm trong vụ xả s&#250;ng tại Ph&#225;p">Hiệu trưởng dũng cảm “đấu trí” với nghi phạm trong vụ xả súng tại Pháp</a><a href="/video/hieu-truong-dung-cam-dau-tri-voi-nghi-pham-trong-vu-xa-sung-tai-phap-60131.htm" title="Hiệu trưởng dũng cảm “đấu tr&#237;” với nghi phạm trong vụ xả s&#250;ng tại Ph&#225;p" class="sprite-dantri-new icon"></a></li><li ><a href="/video/thuan-phuc-co-may-565-ma-luc-de-hay-kho-60132.htm" title="Thuần phục cỗ m&#225;y 565 m&#227; lực, dễ hay kh&#243;?"><img title="Thuần phục cỗ m&#225;y 565 m&#227; lực, dễ hay kh&#243;?" alt="Thuần phục cỗ m&#225;y 565 m&#227; lực, dễ hay kh&#243;?" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/18be5f307b/2017/03/16/3-1489660924811.jpg" width="125" height="78" /></a><a href="/video/thuan-phuc-co-may-565-ma-luc-de-hay-kho-60132.htm" title="Thuần phục cỗ m&#225;y 565 m&#227; lực, dễ hay kh&#243;?">Thuần phục cỗ máy 565 mã lực, dễ hay khó?</a><a href="/video/thuan-phuc-co-may-565-ma-luc-de-hay-kho-60132.htm" title="Thuần phục cỗ m&#225;y 565 m&#227; lực, dễ hay kh&#243;?" class="sprite-dantri-new icon"></a></li><li ><a href="/video/sieu-mau-candice-swanepoel-trinh-dien-ao-tam-60125.htm" title="Si&#234;u mẫu Candice Swanepoel tr&#236;nh diễn &#225;o tắm"><img title="Si&#234;u mẫu Candice Swanepoel tr&#236;nh diễn &#225;o tắm" alt="Si&#234;u mẫu Candice Swanepoel tr&#236;nh diễn &#225;o tắm" src="https://dantricdn.com/zoom/125_78/2017/candice-11-1489727419026.jpg" width="125" height="78" /></a><a href="/video/sieu-mau-candice-swanepoel-trinh-dien-ao-tam-60125.htm" title="Si&#234;u mẫu Candice Swanepoel tr&#236;nh diễn &#225;o tắm">Siêu mẫu Candice Swanepoel trình diễn áo tắm</a><a href="/video/sieu-mau-candice-swanepoel-trinh-dien-ao-tam-60125.htm" title="Si&#234;u mẫu Candice Swanepoel tr&#236;nh diễn &#225;o tắm" class="sprite-dantri-new icon"></a></li><li ><a href="/video/hoc-sinh-luong-the-vinh-hat-mong-thay-van-nhu-cuong-chong-khoe-60129.htm" title="Học sinh Lương Thế Vinh h&#225;t mong thầy Văn Như Cương ch&#243;ng khỏe"><img title="Học sinh Lương Thế Vinh h&#225;t mong thầy Văn Như Cương ch&#243;ng khỏe" alt="Học sinh Lương Thế Vinh h&#225;t mong thầy Văn Như Cương ch&#243;ng khỏe" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/9c6c55dba2/2017/03/06/video-luong-the-vinh-1488772741681.jpg" width="125" height="78" /></a><a href="/video/hoc-sinh-luong-the-vinh-hat-mong-thay-van-nhu-cuong-chong-khoe-60129.htm" title="Học sinh Lương Thế Vinh h&#225;t mong thầy Văn Như Cương ch&#243;ng khỏe">Học sinh Lương Thế Vinh hát mong thầy Văn Như Cương chóng khỏe</a><a href="/video/hoc-sinh-luong-the-vinh-hat-mong-thay-van-nhu-cuong-chong-khoe-60129.htm" title="Học sinh Lương Thế Vinh h&#225;t mong thầy Văn Như Cương ch&#243;ng khỏe" class="sprite-dantri-new icon"></a></li><li class="last"><a href="/video/dot-nhap-vao-khu-den-do-o-thanh-pho-barcelona-tay-ban-nha-60128.htm" title="&quot;Đột nhập&quot; v&#224;o khu đ&#232;n đỏ ở th&#224;nh phố Barcelona, T&#226;y Ban Nha"><img title="&quot;Đột nhập&quot; v&#224;o khu đ&#232;n đỏ ở th&#224;nh phố Barcelona, T&#226;y Ban Nha" alt="&quot;Đột nhập&quot; v&#224;o khu đ&#232;n đỏ ở th&#224;nh phố Barcelona, T&#226;y Ban Nha" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/c05a76d21c/2017/03/17/red-light-district-cdlc-barcelona-1489724607788.jpg" width="125" height="78" /></a><a href="/video/dot-nhap-vao-khu-den-do-o-thanh-pho-barcelona-tay-ban-nha-60128.htm" title="&quot;Đột nhập&quot; v&#224;o khu đ&#232;n đỏ ở th&#224;nh phố Barcelona, T&#226;y Ban Nha">"Đột nhập" vào khu đèn đỏ ở thành phố Barcelona, Tây Ban Nha</a><a href="/video/dot-nhap-vao-khu-den-do-o-thanh-pho-barcelona-tay-ban-nha-60128.htm" title="&quot;Đột nhập&quot; v&#224;o khu đ&#232;n đỏ ở th&#224;nh phố Barcelona, T&#226;y Ban Nha" class="sprite-dantri-new icon"></a></li><li ><a href="/video/kham-pha-trai-tim-nuoc-ao-vienna-thanh-pho-dang-song-nhat-the-gioi-60127.htm" title="Kh&#225;m ph&#225; tr&#225;i tim nước &#193;o Vienna - th&#224;nh phố đ&#225;ng sống nhất thế giới"><img title="Kh&#225;m ph&#225; tr&#225;i tim nước &#193;o Vienna - th&#224;nh phố đ&#225;ng sống nhất thế giới" alt="Kh&#225;m ph&#225; tr&#225;i tim nước &#193;o Vienna - th&#224;nh phố đ&#225;ng sống nhất thế giới" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/c05a76d21c/2017/03/17/vienna-vacation-travel-guide-expedia-1489727660154.jpg" width="125" height="78" /></a><a href="/video/kham-pha-trai-tim-nuoc-ao-vienna-thanh-pho-dang-song-nhat-the-gioi-60127.htm" title="Kh&#225;m ph&#225; tr&#225;i tim nước &#193;o Vienna - th&#224;nh phố đ&#225;ng sống nhất thế giới">Khám phá trái tim nước Áo Vienna - thành phố đáng sống nhất thế giới</a><a href="/video/kham-pha-trai-tim-nuoc-ao-vienna-thanh-pho-dang-song-nhat-the-gioi-60127.htm" title="Kh&#225;m ph&#225; tr&#225;i tim nước &#193;o Vienna - th&#224;nh phố đ&#225;ng sống nhất thế giới" class="sprite-dantri-new icon"></a></li><li ><a href="/video/co-gai-rai-hon-2000-usd-ra-duong-vi-buon-60126.htm" title="C&#244; g&#225;i rải hơn 2000 USD ra đường …v&#236; buồn"><img title="C&#244; g&#225;i rải hơn 2000 USD ra đường …v&#236; buồn" alt="C&#244; g&#225;i rải hơn 2000 USD ra đường …v&#236; buồn" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/c05a76d21c/2017/03/17/nguoi-phu-nu-rai-tien-tren-duong-vi-buon-doi-1489715484-1489730490410.jpg" width="125" height="78" /></a><a href="/video/co-gai-rai-hon-2000-usd-ra-duong-vi-buon-60126.htm" title="C&#244; g&#225;i rải hơn 2000 USD ra đường …v&#236; buồn">Cô gái rải hơn 2000 USD ra đường …vì buồn</a><a href="/video/co-gai-rai-hon-2000-usd-ra-duong-vi-buon-60126.htm" title="C&#244; g&#225;i rải hơn 2000 USD ra đường …v&#236; buồn" class="sprite-dantri-new icon"></a></li><li ><a href="/video/selena-gomez-hanh-phuc-ben-ban-trai-the-weeknd-60121.htm" title="Selena Gomez hạnh ph&#250;c b&#234;n bạn trai The Weeknd"><img title="Selena Gomez hạnh ph&#250;c b&#234;n bạn trai The Weeknd" alt="Selena Gomez hạnh ph&#250;c b&#234;n bạn trai The Weeknd" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/3mkdro1cqordghz3dq3nh6v8dfxnka/2017/03/17/exclusive-selena-gomez-the-weeknd-kiss-on-romantic-italian-getaway-no-one-else-existed-1489722408505-a71fb.jpg" width="125" height="78" /></a><a href="/video/selena-gomez-hanh-phuc-ben-ban-trai-the-weeknd-60121.htm" title="Selena Gomez hạnh ph&#250;c b&#234;n bạn trai The Weeknd">Selena Gomez hạnh phúc bên bạn trai The Weeknd</a><a href="/video/selena-gomez-hanh-phuc-ben-ban-trai-the-weeknd-60121.htm" title="Selena Gomez hạnh ph&#250;c b&#234;n bạn trai The Weeknd" class="sprite-dantri-new icon"></a></li><li ><a href="/video/scarlett-johansson-de-don-ly-di-chong-sau-3-nam-chung-song-59687.htm" title="Scarlett Johansson đệ đơn ly dị chồng sau 3 năm chung sống"><img title="Scarlett Johansson đệ đơn ly dị chồng sau 3 năm chung sống" alt="Scarlett Johansson đệ đơn ly dị chồng sau 3 năm chung sống" src="https://dantricdn.com/zoom/125_78/2017/scarlett-7-1488942387554-crop-1488942419808.jpg" width="125" height="78" /></a><a href="/video/scarlett-johansson-de-don-ly-di-chong-sau-3-nam-chung-song-59687.htm" title="Scarlett Johansson đệ đơn ly dị chồng sau 3 năm chung sống">Scarlett Johansson đệ đơn ly dị chồng sau 3 năm chung sống</a><a href="/video/scarlett-johansson-de-don-ly-di-chong-sau-3-nam-chung-song-59687.htm" title="Scarlett Johansson đệ đơn ly dị chồng sau 3 năm chung sống" class="sprite-dantri-new icon"></a></li><li class="last"><a href="/video/phat-hien-vien-kim-cuong-khung-tai-chau-phi-60122.htm" title="Ph&#225;t hiện vi&#234;n kim cương “khủng” tại ch&#226;u Phi"><img title="Ph&#225;t hiện vi&#234;n kim cương “khủng” tại ch&#226;u Phi" alt="Ph&#225;t hiện vi&#234;n kim cương “khủng” tại ch&#226;u Phi" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/756edd3768/2017/03/17/kim-cuong-chau-phi-1489724242187.jpg" width="125" height="78" /></a><a href="/video/phat-hien-vien-kim-cuong-khung-tai-chau-phi-60122.htm" title="Ph&#225;t hiện vi&#234;n kim cương “khủng” tại ch&#226;u Phi">Phát hiện viên kim cương “khủng” tại châu Phi</a><a href="/video/phat-hien-vien-kim-cuong-khung-tai-chau-phi-60122.htm" title="Ph&#225;t hiện vi&#234;n kim cương “khủng” tại ch&#226;u Phi" class="sprite-dantri-new icon"></a></li>
+                
+            </ul>
+        </div>
+    </div>
+    <script language="javascript" type="text/lazyscript">
+        var video_slide_maxtab = 5;
+        var video_slide_count = 25;
+        var video_slide_currenttab = 1;
+        PrintInfo();
+        function video_slide_forward() {
+            video_slide_currenttab++;
+            if (video_slide_currenttab > video_slide_maxtab) video_slide_currenttab = video_slide_maxtab;
+
+            var leftpx = (video_slide_currenttab - 1) * (-946);
+            $('#video-slide').animate({ left: leftpx }, 500);
+
+            PrintInfo();
+        }
+        function video_slide_backward() {
+            video_slide_currenttab--;
+            if (video_slide_currenttab < 1) video_slide_currenttab = 1;
+            var leftpx = (video_slide_currenttab - 1) * (-946);
+            $('#video-slide').animate({ left: leftpx }, 500);
+
+            PrintInfo();
+        }
+        function PrintInfo() {
+            var from = video_slide_currenttab * 5 - 4;
+            var to = video_slide_currenttab * 5;
+            $('#video-slide-info').html(from + ' - ' + to + ' / ' + video_slide_count);
+        }
+
+        $(".sprite-dantri-new.prev").click(video_slide_backward);
+        $(".sprite-dantri-new.next").click(video_slide_forward);
+    </script>
+    
+<div class="mostviewbyzone">
+    <div class="mv-header">
+        
+            <img src="http://static.dantricdn.com/App_Themes/Default/Images/blank.gif" border="0">
+    </div>
+    <div class="mv-container">
+        <div class="mv-item" >
+                    <a href="/viec-lam/tu-nam-2018-dong-bhxh-theo-tong-thu-nhap-20170313072819294.htm" title="Từ năm 2018, đóng BHXH theo tổng thu nhập">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/bhxh-1489364803981.jpg" title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" alt="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/tu-nam-2018-dong-bhxh-theo-tong-thu-nhap-20170313072819294.htm" title="Từ năm 2018, đóng BHXH theo tổng thu nhập">Từ năm 2018, đóng BHXH theo tổng thu nhập</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/viec-lam/tu-1-7-luong-huu-du-kien-tang-74--20170317071232031.htm" title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/luong-huu-1489709375803.jpg" title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %" alt="Từ 1/7: Lương hưu dự kiến tăng 7,4 %" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/tu-1-7-luong-huu-du-kien-tang-74--20170317071232031.htm" title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %">Từ 1/7: Lương hưu dự kiến tăng 7,4 %</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/viec-lam/loi-keu-cuu-tu-a-rap-xe-ut-chinh-thuc-thu-giay-phep-cua-cong-ty-dung-tru-so-ma-2017031611543269.htm" title="Lời kêu cứu từ Ả Rập Xê Út: Chính thức thu giấy phép của công ty dùng trụ sở "ma"!">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/l-1487867473014-1489545592679.png" title="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: Ch&#237;nh thức thu giấy ph&#233;p của c&#244;ng ty d&#249;ng trụ sở &quot;ma&quot;!" alt="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: Ch&#237;nh thức thu giấy ph&#233;p của c&#244;ng ty d&#249;ng trụ sở &quot;ma&quot;!" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/loi-keu-cuu-tu-a-rap-xe-ut-chinh-thuc-thu-giay-phep-cua-cong-ty-dung-tru-so-ma-2017031611543269.htm" title="Lời kêu cứu từ Ả Rập Xê Út: Chính thức thu giấy phép của công ty dùng trụ sở "ma"!">Lời kêu cứu từ Ả Rập Xê Út: Chính thức thu giấy phép của công ty dùng trụ sở "ma"!</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/viec-lam/nhung-nghe-ban-rong-kiem-ca-chuc-trieu-moi-thang-o-ha-noi-20170312083554855.htm" title="Những nghề bán rong kiếm cả chục triệu mỗi tháng ở Hà Nội">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/vov-ban-xoi-jjfg-1489282134116.jpg" title="Những nghề b&#225;n rong kiếm cả chục triệu mỗi th&#225;ng ở H&#224; Nội" alt="Những nghề b&#225;n rong kiếm cả chục triệu mỗi th&#225;ng ở H&#224; Nội" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/nhung-nghe-ban-rong-kiem-ca-chuc-trieu-moi-thang-o-ha-noi-20170312083554855.htm" title="Những nghề bán rong kiếm cả chục triệu mỗi tháng ở Hà Nội">Những nghề bán rong kiếm cả chục triệu mỗi tháng ở Hà Nội</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/viec-lam/hoan-thanh-nghia-vu-quan-su-co-duoc-tuyen-thang-vao-bien-che-20170312094642905.htm" title="Hoàn thành nghĩa vụ quân sự có được tuyển thẳng vào biên chế?">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/bo-doi-1489286714258.jpg" title="Ho&#224;n th&#224;nh nghĩa vụ qu&#226;n sự c&#243; được tuyển thẳng v&#224;o bi&#234;n chế?" alt="Ho&#224;n th&#224;nh nghĩa vụ qu&#226;n sự c&#243; được tuyển thẳng v&#224;o bi&#234;n chế?" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/hoan-thanh-nghia-vu-quan-su-co-duoc-tuyen-thang-vao-bien-che-20170312094642905.htm" title="Hoàn thành nghĩa vụ quân sự có được tuyển thẳng vào biên chế?">Hoàn thành nghĩa vụ quân sự có được tuyển thẳng vào biên chế?</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/viec-lam/ninh-binh-kiem-tien-trieu-trong-ngay-nho-ban-thit-de-20170311124453434.htm" title="Ninh Bình: Kiếm tiền triệu trong ngày nhờ bán thịt dê">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/5-1489196049780.jpg" title="Ninh B&#236;nh: Kiếm tiền triệu trong ng&#224;y nhờ b&#225;n thịt d&#234;" alt="Ninh B&#236;nh: Kiếm tiền triệu trong ng&#224;y nhờ b&#225;n thịt d&#234;" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/ninh-binh-kiem-tien-trieu-trong-ngay-nho-ban-thit-de-20170311124453434.htm" title="Ninh Bình: Kiếm tiền triệu trong ngày nhờ bán thịt dê">Ninh Bình: Kiếm tiền triệu trong ngày nhờ bán thịt dê</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/viec-lam/nghi-huu-truoc-tuoi-khong-duoc-nhan-tro-cap-that-nghiep-20170315232327545.htm" title="Nghỉ hưu trước tuổi không được nhận trợ cấp thất nghiệp">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/kinh-doanh-net-bat-buoc-lao-dong-hop-dong-duoi-3-thang-nop-bao-hiem-xa-hoi-1489594885066.JPG" title="Nghỉ hưu trước tuổi kh&#244;ng được nhận trợ cấp thất nghiệp" alt="Nghỉ hưu trước tuổi kh&#244;ng được nhận trợ cấp thất nghiệp" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/nghi-huu-truoc-tuoi-khong-duoc-nhan-tro-cap-that-nghiep-20170315232327545.htm" title="Nghỉ hưu trước tuổi không được nhận trợ cấp thất nghiệp">Nghỉ hưu trước tuổi không được nhận trợ cấp thất nghiệp</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/viec-lam/cho-lon-nghe-nhac-phap-hai-tien-ty-moi-nam-20170317072536768.htm" title="Cho lợn nghe nhạc Pháp “hái” tiền tỷ mỗi năm">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/148955002721004-thumbnail-auto-crop-1489710116612.jpg" title="Cho lợn nghe nhạc Ph&#225;p “h&#225;i” tiền tỷ mỗi năm" alt="Cho lợn nghe nhạc Ph&#225;p “h&#225;i” tiền tỷ mỗi năm" width="65" height="65" />
+                    </a>
+                    <h4><a href="/viec-lam/cho-lon-nghe-nhac-phap-hai-tien-ty-moi-nam-20170317072536768.htm" title="Cho lợn nghe nhạc Pháp “hái” tiền tỷ mỗi năm">Cho lợn nghe nhạc Pháp “hái” tiền tỷ mỗi năm</a></h4> 
+                    </div>
+        
+    </div>
+    <div class="mv-footer"></div>
+</div>
+<script type="text/lazyscript">
+    var items = $('.mv-item');
+    if (items && items.length > 0) {
+        var maxHeight = 0;
+        items.each(function () {
+            if ($(this).height() > maxHeight) {
+                maxHeight = $(this).height();
+            }
+            if ((items.index($(this))+1) % 4 == 0) {
+
+                $(this).addClass("last");
+            }
+        });
+        items.css('height', maxHeight);
+    }
+</script>
+
+
+            </div>
+            <div id="adm_sticky_footer" style="height: 0px">
+            </div>
+            
+
+<div class="footer box19">
+    <div class="fr mb1 mt2">
+        <a href="javascript:void(0)" data-elementtype="button-sethomepage" rel="nofollow">Đặt Dân trí làm trang chủ </a>|  <a href="mailto:dantri@dantri.com.vn" title="Góp ý - Liên hệ" rel="nofollow">Góp ý
+            - Liên hệ</a> | &nbsp;&nbsp;&nbsp;<a
+                href="#" class="fon19" rel="nofollow">[ Trở về đầu trang ]</a>
+    </div>
+    <div class="clear line2">
+    </div>
+    <div class="clearfix">
+        <div class="fon17 mt1">
+            <a rel="nofollow" href="/su-kien.htm" title="Sự kiện">Sự kiện</a> | <a rel="nofollow" href="/xa-hoi.htm" title="Xã hội">Xã hội</a> | <a rel="nofollow" href="/the-gioi.htm" title="Thế giới">Thế giới</a> | <a rel="nofollow" href="/the-thao.htm" title="Thể thao">Thể thao</a> | <a rel="nofollow" href="/giao-duc-khuyen-hoc.htm" title="Giáo dục">Giáo dục</a> | <a rel="nofollow" href="/tam-long-nhan-ai.htm" title="Nhân ái">Nhân ái</a> | <a rel="nofollow" href="/kinh-doanh.htm" title="Kinh doanh">Kinh doanh</a> | <a rel="nofollow" href="/van-hoa.htm" title="Văn hóa">Văn hóa</a> | <a rel="nofollow" href="/giai-tri.htm" title="Giải trí">Giải trí</a> | <a rel="nofollow" href="http://dulich.dantri.com.vn" target="_blank" title="Du lịch">Du lịch</a> | <a rel="nofollow" href="/phap-luat.htm" title="Pháp luật">Pháp luật</a> | <a rel="nofollow" href="/nhip-song-tre.htm" title="Nhịp sống trẻ">Nhịp sống trẻ</a> | <a rel="nofollow" href="/suc-khoe.htm" title="Sức khỏe">Sức khỏe</a> |  <a rel="nofollow" href="/suc-manh-so.htm" title="Sức mạnh số">Sức mạnh số</a> | <a rel="nofollow" href="/o-to-xe-may.htm" title="Xe++">Xe++</a>
+            | <a rel="nofollow" href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu">Tình yêu</a> | <a rel="nofollow" href="/chuyen-la.htm" title="Chuyện lạ">Chuyện lạ</a>
+        </div>
+    </div>
+    <div class="footer-content box8 fon18 lh18">
+        <div class="footer-content-left">
+            Cơ quan của TW Hội Khuyến học Việt Nam<br />
+            Giấy phép hoạt động báo điện tử Dân trí trên Internet số  378/GP - BTTTT Hà Nội,
+            ngày 16-09-2013.<br />
+            Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br />
+            Điện thoại: 04-3736-6491. Fax: 04-3736-6490<br />
+            Email: <a href="mailto:info@dantri.com.vn" title="Gửi email tới Dân Trí" rel="nofollow">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" title="Xem trang Dân Trí"
+                rel="nofollow">http://www.dantri.com.vn</a>
+            <br />
+            <p>
+                <i>Mọi hành động sử dụng nội dung đăng tải trên Báo điện tử Dân trí tại địa chỉ www.dantri.com.vn
+                phải<br/> có sự đồng ý bằng văn bản của Báo điện tử Dân trí.
+                </i>
+            </p>
+        </div>
+        <div class="footer-content-right">
+            <p>
+                Đơn vị quảng cáo: &nbsp;<img src="https://static.dantricdn.com/App_Themes/Default/Images/adm_new_logo_small.png"
+                    style="display:inline-block; border: none;" />
+            </p>
+            <p>
+                Hotline: 0926.864.344
+            </p>
+            <p>
+                Email: <a href="mailto:quangcao@admicro.vn" rel="nofollow">quangcao@admicro.vn</a>
+            </p>
+            <p>
+                Website: <a href="http://www.admicro.vn" target="_blank"
+                    rel="nofollow">www.admicro.vn</a>
+            </p>
+            <p>
+                Hỗ trợ và CSKH: 01268 269 779 (Ms. Thơm)
+            </p>
+            <p>
+                Các mảng: <a href="http://afamily.vn" target="_blank" title="gia đình">gia đình
+                </a>-<a href="http://genk.vn" target="_blank" title="công nghệ"> công nghệ </a>-
+                <a href="http://gamek.vn" target="_blank" title="game">game </a>- <a href="http://kenh14.vn"
+                    target="_blank" title="giải trí">giải trí</a> , <a href="http://kenh14.vn/xa-hoi.chn"
+                        target="_blank" title="xã hội">xã hội.</a>
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    <script src="http://static.hosting.vcmedia.vn/code_redirect_player.js" type="text/javascript"></script>
+    <script type="text/lazyscript">
+        var icoNewsTypeVote = '<i class="ico-newstype-vote" title="Bài trắc nghiệm"></i>';
+        if ($("html").hasClass("homepage")) {
+            $("a[data-newstype=22]").prepend(icoNewsTypeVote);
+        } else {
+            $("a[data-newstype=22]").append(icoNewsTypeVote);
+        }
+    </script>
+
+        
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="243E9BCE" />
+</div></form>
+    
+    
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <script src="http://dantricdn.com/web_js/js-default-new.1.3.js" type="text/javascript" ></script>
+
+
+<script type="text/lazyscript">
+    var newZoneLink = $('.subnav ul a[href$="/doi-song/thuong-luu.htm"]');
+    if (newZoneLink.length > 0) {
+        newZoneLink.css({
+            "position": "relative",
+            "padding-right": "32px"
+        });
+        var icoNew = $('<i />').css({
+            background: 'transparent url("https://dantricdn.com/web_images/bd2aa9f1-5e63-4cc5-96b3-2d03e5fd9be7.png")  0 0 no-repeat',
+            width: '29px',
+            height: '16px',
+            display: 'inline-block',
+            position: 'absolute',
+            top: '-2px',
+            right: '0'
+        });
+        newZoneLink.append(icoNew);
+    }
+</script>
+
+
+</body>
+</html>
+
+<!--s: 07:47:51 18/03/2017 -->

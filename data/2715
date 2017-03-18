@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+2 doanh nghiệp tạm ngừng bán hàng đa cấp - ĐTCK
+</title><meta name="keywords" content="bán hàng đa cấp,phá sản,thua lỗ,Mai Phương,thương mại quốc tế" /><meta name="description" content="Công ty cổ phần Nhượng quyền thương mại quốc tế G10 và Công ty TNHH MTV Gano Excel Việt Nam vừa tạm ngừng hoạt động bán hàng đa cấp." />
+<link rel="canonical" href="http://www.baomoi.com/2-doanh-nghiep-tam-ngung-ban-hang-da-cap/c/21729233.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21729233" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21729233" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://tinnhanhchungkhoan.vn/dau-tu/2-doanh-nghiep-tam-ngung-ban-hang-da-cap-180567.html");
+else
+window.location.replace("http://www.baomoi.com/2-doanh-nghiep-tam-ngung-ban-hang-da-cap/c/21729233.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

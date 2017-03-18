@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phong trào Hamas cam kết duy trì thỏa thuận ngừng bắn với Israel - VietnamPlus
+</title><meta name="keywords" content="israel,hamas,gaza,palestine,không kích,Palestine Mahmoud Abbas,thỏa thuận ngừng bắn,Ai Cập,chiếm đóng,cam kết,thiệt mạng,lãnh đạo" /><meta name="description" content="Lãnh đạo cấp cao của Phong trào Hamas hiện kiểm soát Dải Gaza, ông Khali al-Hayya cho biết phong trào này cam kết duy trì thỏa thuận ngừng bắn vô thời hạn v..." />
+<link rel="canonical" href="http://www.baomoi.com/phong-trao-hamas-cam-ket-duy-tri-thoa-thuan-ngung-ban-voi-israel/c/21766139.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21766139" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21766139" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/phong-trao-hamas-cam-ket-duy-tri-thoa-thuan-ngung-ban-voi-israel/435765.vnp");
+else
+window.location.replace("http://www.baomoi.com/phong-trao-hamas-cam-ket-duy-tri-thoa-thuan-ngung-ban-voi-israel/c/21766139.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

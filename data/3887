@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Xử lý đường ngang giao cắt đường sắt: Địa phương không thể chờ Trung ương - ANTĐ
+</title><meta name="keywords" content="Trương Hòa Bình,an toàn giao thông,vận tải,ùn tắc giao thông,Hà Nam,trái phép,online,UBND Tỉnh Hà Nam,lãnh đạo,biểu dương,Hà Nội,bất bình đẳng,thí điểm,ra quân" /><meta name="description" content="Trong việc xử lý đường ngang dân sinh giao cắt với đường sắt các địa phương phải tích cực và chủ động, không thể cứ trông chờ vào nguồn ngân sách Trung ương." />
+<link rel="canonical" href="http://www.baomoi.com/xu-ly-duong-ngang-giao-cat-duong-sat-dia-phuong-khong-the-cho-trung-uong/c/21785589.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21785589" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21785589" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://anninhthudo.vn/oto-xe-may/xu-ly-duong-ngang-giao-cat-duong-sat-dia-phuong-khong-the-cho-trung-uong/721536.antd");
+else
+window.location.replace("http://www.baomoi.com/xu-ly-duong-ngang-giao-cat-duong-sat-dia-phuong-khong-the-cho-trung-uong/c/21785589.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

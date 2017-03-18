@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hội thảo khoa học: Bắc Ninh đẩy mạnh phát triển công nghiệp công nghệ cao - Nhân Dân
+</title><meta name="keywords" content="Quốc hội tỉnh Bắc Ninh,Tỉnh ủy Bắc Ninh,Nguyễn Nhân Chiến,Thuận Hữu,Bắc Ninh,đại đoàn kết toàn dân,hội thảo,hội nhà báo việt nam,thông tin đại chúng,xúc tiến đầu tư,toàn cầu hóa,quản lý chặt chẽ,xây dựng đảng,cải cách hành chính,môi trường kinh doanh,trung ương đảng,ô nhiễm môi trường,công nghệ thông tin,chuyển đổi,đổi mới,quảng bá" /><meta name="description" content="Ngày 17-3, tại Bắc Ninh, Ban Biên tập Báo Nhân Dân và Tỉnh ủy Bắc Ninh phối hợp tổ chức Hội thảo khoa học - thực tiễn với chủ đề “Bắc Ninh đẩy mạnh phát tri..." />
+<link rel="canonical" href="http://www.baomoi.com/hoi-thao-khoa-hoc-bac-ninh-day-manh-phat-trien-cong-nghiep-cong-nghe-cao/c/21792439.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792439" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792439" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/khoahoc/khoa-hoc/item/32341702-hoi-thao-khoa-hoc-bac-ninh-day-manh-phat-trien-cong-nghiep-cong-nghe-cao.html");
+else
+window.location.replace("http://www.baomoi.com/hoi-thao-khoa-hoc-bac-ninh-day-manh-phat-trien-cong-nghiep-cong-nghe-cao/c/21792439.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

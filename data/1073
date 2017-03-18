@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Gửi xe giá 'bèo', doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM - VOV
+</title><meta name="keywords" content="Nguyễn Ngọc Tường,Sân bóng đá Tao Đàn,Võ Kim Cương,chuyên trách,an toàn giao thông,Quận 1,Bùi Xuân Cường,lỗ vốn,Đường Võ Văn Kiệt,Hà Khánh,xử phạt,quy hoạch,rà soát,Hoa Lư,động thổ,chủ trương,cung cầu,vi phạm,bot,Sở Xây dựng,sở giao thông vận tải" /><meta name="description" content="Với mức thu phí 5.000 đồng/lượt không hạn chế giờ như hiện nay thì nếu bãi đầu xe ngầm hoạt động sẽ không thể cạnh tranh nổi." />
+<link rel="canonical" href="http://www.baomoi.com/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/c/21792778.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792778" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792778" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vov.vn/xa-hoi/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm-603867.vov");
+else
+window.location.replace("http://www.baomoi.com/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/c/21792778.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

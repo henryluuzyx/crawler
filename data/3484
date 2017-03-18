@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Lạ lùng bắt dân cam kết không đi đường BOT - Tiền Phong
+</title><meta name="keywords" content="Bến Thủy,bot,Cienco 4,Lê Quốc Toản,UBND TX Hồng Lĩnh,Hà Tĩnh,UBND huyện Đức Thọ,UBND huyện Nghi Xuân,Nghệ An,Bến Thủy 2,Xuân Lĩnh,cầu bến thủy,TX Hồng Lĩnh,Vinh,cam kết,chi trả,Minh Thùy,Hồng Lĩnh,Nguyễn Văn Minh,Nghi Xuân,Đức Thọ" /><meta name="description" content="Sau hai lần chỉ đạo của Phó Thủ tướng Chính phủ Trương Hòa Bình liên quan đến việc thu phí tại cầu Bến Thủy. Ngày 10/3, phía chủ đầu tư mới ra công văn giải..." />
+<link rel="canonical" href="http://www.baomoi.com/la-lung-bat-dan-cam-ket-khong-di-duong-bot/c/21787025.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21787025" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21787025" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.tienphong.vn/kinh-te/la-lung-bat-dan-cam-ket-khong-di-duong-bot-1131115.tpo");
+else
+window.location.replace("http://www.baomoi.com/la-lung-bat-dan-cam-ket-khong-di-duong-bot/c/21787025.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

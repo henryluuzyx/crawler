@@ -1,0 +1,648 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Diễn đàn - Thế giới</title><meta name="description" content="Kính mời bạn đọc theo dõi tin tức diễn đàn mới nhất cập nhật đầy đủ, chính xác nhanh nhất tại đây. Thế giới" /><meta name="keywords" content="tin tức, tin tức diễn đàn, tin diễn đàn, tin diễn đàn mới, diễn đàn, dien dan, Thế giới" /><meta name="news_keywords" content="tin tức, tin tức diễn đàn, tin diễn đàn, tin diễn đàn mới, diễn đàn, dien dan, Thế giới" /><script type="text/javascript">var _ADM_Channel='%2Fdien-dan%2Fthe-gioi%2F';</script>
+<!--[if lt IE 7 ]>
+    <noscript><meta http-equiv="refresh" content="0; url='/static/old-browser.html'" /></noscript>
+    <script type="text/javascript">
+        window.location.href = '/static/old-browser.html';
+    </script>
+    <![endif]-->
+<meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" />
+
+        <meta name="robots" content="index,follow,all" />
+    
+<meta property="og:locale" content="vi_VN" />
+
+<meta property="fb:app_id" content="164035690775918" />
+<meta name="generator" content="VCCorp.vn" />
+<meta name="copyright" content="Công ty Cổ phần VCCorp" />
+<meta name="author" content="VCCorp.vn" />
+<meta http-equiv="audience" content="General" />
+<meta name="resource-type" content="Document" />
+<meta name="distribution" content="Global" />
+<meta name="revisit-after" content="1 days" />
+<meta http-equiv="REFRESH" content="1800" />
+<link rel="icon" href="http://static.dantricdn.com/App_Themes/Default/Images/favico.ico" />
+<meta property="fb:pages" content="345033318906366" />
+<meta property="article:author" content="https://www.facebook.com/baodantridientu" />
+<meta property="article:publisher" content="https://www.facebook.com/baodantridientu" />
+
+
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <link href="https://static.dantricdn.com/min/web/css-listnews-new.1.1.css" rel="stylesheet" />
+
+
+
+<noscript>
+    <style type="text/css">
+        img.lazy { display: none; }
+    </style>
+</noscript>
+<style>
+    .icon-game { background: url('http://dantricdn.com/web_images/khcn.jpg') 0 0 no-repeat; }
+    .subnav ul li { height: 21px; }
+    .subnav a.btn-euro.event { padding: 0; width: auto; height: auto; }
+    .subnav ul a { line-height: 21px; }
+</style>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-34575478-26', 'auto');
+    ga('send', 'pageview');
+
+    //ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+    //ga('totaldt.send', 'pageview');
+
+    //if (location.pathname === '/' || location.pathname === '/the-gioi.htm') {
+    //    ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt1' });
+    //    ga('totaldt1.send', 'pageview');
+    //}
+</script>
+
+
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript" async></script>
+    
+<script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "17793284" }), function () {
+        var c = document.createElement("script"), e = document.getElementsByTagName("script")[0];
+        c.async = !0, c.src = ("https:" == document.location.protocol ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js", e.parentNode.insertBefore(c, e);
+    }();
+</script>
+
+
+
+    <!--[if lt IE 9]>
+    <script src="http://static.dantricdn.com/scripts/lib/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">var appSettings = {domain:'http://dantri.com.vn',imageDomain:'https://dantricdn.com',videoImageDomain:'http://video-thumbs.mediacdn.vn',ajaxDomain:'http://wcm.dantri.com.vn',ajaxDomainOther:'http://wcm.dantri.com.vn',ajaxDomainCountListComment:'http://wcm.dantri.com.vn',allowVietId:false, allowFacebook:true,urlExtension:'.htm' };</script>
+
+    <script type="text/javascript">
+        var _jsCbArr = [];
+        var jsCallback = {
+            push: function (name, body) {
+                _jsCbArr[name] = body;
+            },
+            exec: function (name, args) {
+                if (typeof _jsCbArr[name] == "function") {
+                    try {
+                        _jsCbArr[name](args);
+                    } catch (e) {
+                        return;
+                    }
+                }
+            }
+        };
+
+        (function () {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            var setCookie = function (a, c, f) {
+                                var e = new Date();
+                                e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                                var b = "expires=" + e.toUTCString();
+                                document.cookie = a + "=" + c + "; " + b;
+                            };
+                            setCookie("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+        })();
+
+    </script>
+    
+   
+    
+    
+
+    <link href="https://dantricdn.com/web_css/site.css" rel="stylesheet" />
+
+
+    <script type="text/javascript">//danh cho nhung kieu moi
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+        (function () { var a = document.createElement("script"); a.async = !0; a.type = "text/javascript"; a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+    </script>
+
+<link href="http://dantri.com.vn/dien-dan/the-gioi.htm" rel="canonical" /><link href="http://m.dantri.com.vn/dien-dan/the-gioi.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/dien-dan/the-gioi.htm" rel="alternate" media="handheld" /><link href="/dien-dan/the-gioi.rss" rel="alternate" type="application/rss+xml" title="Tin tức thế giới" /><meta property="og:type" content="article" /><meta property="og:url" content="http://dantri.com.vn/dien-dan/the-gioi.htm" /><meta property="og:title" content="Diễn đàn" /><meta property="og:image" /><meta property="og:description" content="Kính mời bạn đọc theo dõi tin tức diễn đàn mới nhất cập nhật đầy đủ, chính xác nhanh nhất tại đây." /></head>
+<body>
+    <form name="aspnetForm" method="post" action="" id="aspnetForm">
+<div>
+<input type="hidden" name="hidCategoryPath" id="hidCategoryPath" value="/dien-dan/the-gioi" />
+<input type="hidden" name="hidCurrentDate" id="hidCurrentDate" value="3/17/2017 9:43:26 AM" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzI2OTY4ODFkGAQFIGN0bDAwJGN0bDAwJGNwaEJvZHkkY3RsMDIkbXZNZW51Dw9kAgFkBSRjdGwwMCRjdGwwMCRjcGhCb2R5JGN0bDAxJHZpZXdQYXJlbnQPD2RmZAUeY3RsMDAkY3RsMDAkY3BoQm9keSRjdGwwMCRtdkgxDw9kAgFkBSVjdGwwMCRjdGwwMCRIZWFkSW5mb3JtYXRpb24xJG12Um9ib3RzDw9kZmSd9HVDNH2Cw3cjEbs2opoKjHqddQ==" />
+</div>
+
+        
+        
+<style type="text/css">
+    /*.header{ margin-bottom: 0;} body{ background-position: 0 -2615px}
+    .header.tet{    background: transparent url(http://dantricdn.com/web_images/dantri_bg_tet.png) 0 0 no-repeat !important;
+    margin-top: 0;
+    height: 66px;}
+    .header.tet .logo{ background-image: none !important;}
+    .nav-wrap{background-image:url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav{background-image: url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav li,.nav li.menu-home{background-image:url(http://dantri4.vcmedia.vn/web_images/menu-saparator-tet.png)}
+    .nav li.menu-home{margin-top: 3px !important}
+    .nav a:hover span, .nav a.active span,.nav a:hover, .nav a.active{ background-image: none;background-color: rgba(255, 255, 255, 0.15);border-radius: 4px 4px 0 0}
+    .nav a b,.nav a:hover b, .nav a.active b{ background: url(http://dantri4.vcmedia.vn/web_images/home-tet-icon2.png) no-repeat top center;height: 25px;}
+    .ul2 li.active,.box4{background-image: url(http://dantri4.vcmedia.vn/web_images/tab_bg_tet.png) }*/
+</style>
+<div class="header">
+    <div class="clearfix relative">
+        
+                <a href="/" class="logo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"></a>
+               
+            
+
+        <div id="div_gdpda" class="div_gdpda">
+            <a href="/?removecookie=true" rel="nofollow">Giao diện PDA</a>
+        </div>
+        <div id="searchbox" class="searchbox hidden">
+            <div class="clearfix">
+                
+                <input type="text" name="q" id="txtData" data-elementtype="searchtextv2" />
+                <input type="button" value="Tìm kiếm" class="btn" data-elementtype="searchbuttonv2" />
+            </div>
+        </div>
+        <div class="links">
+            <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a> <a title="Blog" class="icon-ads"
+                href="/blog.htm">Blog</a> <a title="Du học" class="icon-duhoc" href="http://duhoc.dantri.com.vn"
+                    target="_blank">Du học</a> <a title="Tuyển sinh" class="icon-tuyensinh" href="http://tuyensinh.dantri.com.vn"
+                        target="_blank">Tuyển sinh</a> <a title="So sánh" class="icon-tuanbao2" href="http://websosanh.vn/dantri/"
+                            target="_blank">So sánh</a> <a title="Mua bán" target="_blank" class="icon-bussiness" href="http://enbac.com">Mua bán</a>  <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a><a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a>
+            <a title="Diễn đàn" class="icon-forum2" href="/dien-dan.htm">Diễn đàn</a> <a title="English" class="icon-tienganh"
+                href="http://www.dtinews.vn" target="_blank">English</a>
+        </div>
+    </div>
+</div>
+<script type="text/lazyscript">
+
+    $('[data-elementtype=searchbuttonv2]').click(function () {
+        var strSearch = $('[data-elementtype=searchtextv2]').val();
+        strSearch=convertHtmlToText(strSearch);
+        strSearch = encodeURIComponent(strSearch);
+        if (strSearch != '') {
+            var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+            if (document.all) {
+                window.location.href = url;
+            } else {
+                document.location.href = url;
+            }
+        } else {
+            $('[data-elementtype=searchtextv2]').focus();
+        }
+        return false;
+    });
+
+    $('[data-elementtype=searchtextv2]').keypress(function (event) {
+        var key;
+        if (window.event) {
+            key = window.event.keyCode;
+        } else {
+            key = event.which;
+        }
+        if (key == 13) {
+            $('[data-elementtype=searchbuttonv2]').click();
+            return false;
+        }
+    });
+    $("#searchbox").removeClass('hidden').show();    
+</script>
+
+        <div class="top-ads clearfix">
+            <div class=" mgauto wid980">
+                
+        
+        
+<div id="admzone221"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone221') });
+</script>
+    
+            </div>
+        </div>
+        
+<style>.subnav ul li{ padding-right: 8px;}</style>
+<div class="nav-wrap">
+    <div class="clearfix">
+        <div class="mgauto wid1004">
+            
+            
+                    <ul class="nav">
+                        <li class="menu-home"><a href="/" title="Trang chủ"><span><b></b></span></a></li>
+                        <li><a href="/video-page.htm" title="Video" ><span>Video</span></a></li><li><a href="/su-kien.htm" title="Sự kiện" ><span>Sự kiện</span></a></li><li><a href="/xa-hoi.htm" title="Xã hội" ><span>Xã hội</span></a></li><li><a href="/the-gioi.htm" title="Thế giới" ><span>Thế giới</span></a></li><li><a href="/the-thao.htm" title="Thể thao" ><span>Thể thao</span></a></li><li><a href="/giao-duc-khuyen-hoc.htm" title="Giáo dục " ><span>Giáo dục </span></a></li><li><a href="/tam-long-nhan-ai.htm" title="Nhân ái" ><span>Nhân ái</span></a></li><li><a href="/kinh-doanh.htm" title="Kinh doanh" ><span>Kinh doanh</span></a></li><li><a href="/van-hoa.htm" title="Văn hóa" ><span>Văn hóa</span></a></li><li><a href="/giai-tri.htm" title="Giải trí" ><span>Giải trí</span></a></li><li><a href="http://dulich.dantri.com.vn" title="Du lịch" target="_blank"><span>Du lịch</span></a></li><li><a href="/phap-luat.htm" title="Pháp luật" ><span>Pháp luật</span></a></li><li><a href="/nhip-song-tre.htm" title="Nhịp sống trẻ" ><span>Nhịp sống trẻ</span></a></li><li><a href="/suc-khoe.htm" title="Sức khỏe" ><span>Sức khỏe</span></a></li><li><a href="/suc-manh-so.htm" title="Sức mạnh số" ><span>Sức mạnh số</span></a></li><li><a href="/o-to-xe-may.htm" title="Xe++" ><span>Xe++</span></a></li><li><a href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu" ><span>Tình yêu</span></a></li><li><a href="/chuyen-la.htm" title="Chuyện lạ" ><span>Chuyện lạ</span></a></li>
+                    </ul>
+                
+        </div>
+    </div>
+
+    <div class="subnav relative">
+        <ul class="clearfix" id="ul_submenu">
+            
+           
+            <li><a href="/dien-dan.htm" title="Diễn đ&#224;n">Diễn đàn</a></li><li><a href="/dien-dan/giao-duc.htm" title="Gi&#225;o dục">Giáo dục</a></li><li><a href="/dien-dan/xa-hoi.htm" title="X&#227; hội">Xã hội</a></li><li><a href="/dien-dan/the-gioi.htm" title="Thế giới">Thế giới</a></li>
+
+        </ul>
+        <div class="hidden">
+            
+        </div>
+        <div class="subSideBtn">
+            <div class="submenu-btnside">
+                <a title="Bạn đọc" href="/ban-doc.htm">Bạn đọc</a>
+            </div>
+            <div class="submenu-btnside">
+                <a title="Việc làm" href="/viec-lam.htm">Việc làm</a>
+            </div>
+        </div>
+
+        <div class="top-rss-wrapper">
+
+            <a title="Rss" class="icon-rss2" ref="nofollow" href="/dien-dan/the-gioi.rss"></a>
+        </div>
+    </div>
+
+
+
+</div>
+
+        
+        <div class="wrapper">
+            <div class="container">
+                
+    <div class="clearfix">
+        <div class="fl wid470">
+            
+            
+<div class="clearfix" id="listcheckepl">
+    <div  data-boxtype="timelineposition"   data-posid="330440"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/the-gioi/nhung-chu-he-o-trai-ti-nan-2016030607582046.htm" title="Những ch&#250; hề ở trại tị nạn" ><img rel="video" video-key="{"KeyVideo":"06233a52946a48f796b8f3c38fa39d80","FileName":"c6504297dd/2016/03/06/tinan-1457201592842.mp4"}" title="Những ch&#250; hề ở trại tị nạn" alt="Những ch&#250; hề ở trại tị nạn" data-x2="https://dantricdn.com/03f1d9cd/zoom/137_105/c6504297dd/2016/03/06/clown-1457205284604.jpg" src="https://dantricdn.com/zoom/130_100/c6504297dd/2016/03/06/clown-1457205284604.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="2016030607582046"><h2><a href="/the-gioi/nhung-chu-he-o-trai-ti-nan-2016030607582046.htm" title="Những ch&#250; hề ở trại tị nạn" class="fon6" data-newstype="13"  data-linktype="newsdetail"   data-id="2016030607582046"  >Những chú hề ở trại tị nạn</a></h2><div class="fon5 wid324 fl">Một việc làm vô cùng nhân văn diễn ra hàng ngày, đó là nhóm hề thuộc tổ chức “Những chú hề không biên giới” đã mang lại tiếng cười cho hàng chục ngàn người tại trại tị nạn trên đảo Lesbos, Hy Lạp.</div><a rel="nofollow" class="icon-detail fon7" href="/the-gioi/nhung-chu-he-o-trai-ti-nan-2016030607582046.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223424"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/nhung-nghe-sy-gianh-nhieu-giai-grammy-nhat-trong-lich-su-1391055436.htm" title="Những nghệ sỹ gi&#224;nh nhiều giải Grammy nhất trong lịch sử" ><img   title="Những nghệ sỹ gi&#224;nh nhiều giải Grammy nhất trong lịch sử" alt="Những nghệ sỹ gi&#224;nh nhiều giải Grammy nhất trong lịch sử" data-x2="https://dantricdn.com/424735db/zoom/137_105/hBru1dLDczzwdZ6qEvP0/Image/2014/3/grammy1-cf23e.jpg" src="https://dantricdn.com/zoom/130_100/hBru1dLDczzwdZ6qEvP0/Image/2014/3/grammy1-cf23e.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1391055436"><h2><a href="/dien-dan/nhung-nghe-sy-gianh-nhieu-giai-grammy-nhat-trong-lich-su-1391055436.htm" title="Những nghệ sỹ gi&#224;nh nhiều giải Grammy nhất trong lịch sử" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1391055436"  >Những nghệ sỹ giành nhiều giải Grammy nhất trong lịch sử</a></h2><div class="fon5 wid324 fl">(Dân trí) - Trước thềm lễ trao giải Grammy lần thứ 57, hãy cùng nhìn lại những nghệ sỹ giành nhiều giải Grammy nhất trong lịch sử.</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/nhung-nghe-sy-gianh-nhieu-giai-grammy-nhat-trong-lich-su-1391055436.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223425"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/tho-nhi-ky-dat-dieu-kien-tro-giup-phuong-tay-tai-diem-nong-kobane-1415231766.htm" title="Thổ Nhĩ Kỳ đặt điều kiện trợ gi&#250;p phương T&#226;y tại điểm n&#243;ng Kobane" ><img   title="Thổ Nhĩ Kỳ đặt điều kiện trợ gi&#250;p phương T&#226;y tại điểm n&#243;ng Kobane" alt="Thổ Nhĩ Kỳ đặt điều kiện trợ gi&#250;p phương T&#226;y tại điểm n&#243;ng Kobane" data-x2="https://dantricdn.com/b1c19358/zoom/137_105/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-34ea6.jpg" src="https://dantricdn.com/zoom/130_100/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-34ea6.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415231766"><h2><a href="/dien-dan/tho-nhi-ky-dat-dieu-kien-tro-giup-phuong-tay-tai-diem-nong-kobane-1415231766.htm" title="Thổ Nhĩ Kỳ đặt điều kiện trợ gi&#250;p phương T&#226;y tại điểm n&#243;ng Kobane" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415231766"  >Thổ Nhĩ Kỳ đặt điều kiện trợ giúp phương Tây tại điểm nóng Kobane</a></h2><div class="fon5 wid324 fl">(Dân trí) - Thổ Nhĩ Kỳ đã nêu điều kiện trợ giúp phương Tây nhằm chấm dứt thế phong tỏa của nhóm phiến quân Nhà nước Hồi giáo (IS) tại thị trấn Kobane ở Syria, nói rằng cuộc chiến phải do lực lượng nổi dậy Quân đội Giải phóng Syria đứng đầu, chứ không phải “các phần tử khủng bố người Kurd”.
+</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/tho-nhi-ky-dat-dieu-kien-tro-giup-phuong-tay-tai-diem-nong-kobane-1415231766.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223426"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/quoc-hoi-ukraine-moi-va-anh-huong-toi-quan-he-kiev-moskva-1415227931.htm" title="Quốc hội Ukraine mới v&#224; ảnh hưởng tới quan hệ Kiev-Moskva?" ><img   title="Quốc hội Ukraine mới v&#224; ảnh hưởng tới quan hệ Kiev-Moskva?" alt="Quốc hội Ukraine mới v&#224; ảnh hưởng tới quan hệ Kiev-Moskva?" data-x2="https://dantricdn.com/49870f8d/zoom/137_105/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-d1174.jpg" src="https://dantricdn.com/zoom/130_100/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-d1174.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415227931"><h2><a href="/dien-dan/quoc-hoi-ukraine-moi-va-anh-huong-toi-quan-he-kiev-moskva-1415227931.htm" title="Quốc hội Ukraine mới v&#224; ảnh hưởng tới quan hệ Kiev-Moskva?" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415227931"  >Quốc hội Ukraine mới và ảnh hưởng tới quan hệ Kiev-Moskva?</a></h2><div class="fon5 wid324 fl">Kết quả kiểm phiếu sơ bộ cuộc bầu cử Quốc hội (Verkhovna Rada) Ukraine trước thời hạn cho thấy một yếu tố quan trọng là tỷ lệ ủng hộ của cử tri đối với đảng "Khối Poroshenko" của đương kim Tổng thống Petro Poroshenko chỉ ở mức thấp - điều phần nào có thể xem như thất bại của đảng này. 
+</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/quoc-hoi-ukraine-moi-va-anh-huong-toi-quan-he-kiev-moskva-1415227931.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223427"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/thu-tuong-nguyen-tan-dung-tiep-nguyen-thu-tuong-nhat-ban-hatoyama-yukio-1415224288.htm" title="Thủ tướng Nguyễn Tấn Dũng tiếp nguy&#234;n Thủ tướng Nhật Bản Hatoyama Yukio" ><img   title="Thủ tướng Nguyễn Tấn Dũng tiếp nguy&#234;n Thủ tướng Nhật Bản Hatoyama Yukio" alt="Thủ tướng Nguyễn Tấn Dũng tiếp nguy&#234;n Thủ tướng Nhật Bản Hatoyama Yukio" data-x2="https://dantricdn.com/199c7506/zoom/137_105/RR3eKbXnEj409lFZIA4b9ILQTKcccc/Image/2014/10/Tiep_cuu_TTg_Haytoyama_1-4fca2.jpg" src="https://dantricdn.com/zoom/130_100/RR3eKbXnEj409lFZIA4b9ILQTKcccc/Image/2014/10/Tiep_cuu_TTg_Haytoyama_1-4fca2.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415224288"><h2><a href="/dien-dan/thu-tuong-nguyen-tan-dung-tiep-nguyen-thu-tuong-nhat-ban-hatoyama-yukio-1415224288.htm" title="Thủ tướng Nguyễn Tấn Dũng tiếp nguy&#234;n Thủ tướng Nhật Bản Hatoyama Yukio" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415224288"  >Thủ tướng Nguyễn Tấn Dũng tiếp nguyên Thủ tướng Nhật Bản Hatoyama Yukio</a></h2><div class="fon5 wid324 fl">(Dân trí) - Chiều 29/10/2014, tại Trụ sở Chính phủ, Thủ tướng Nguyễn Tấn Dũng đã tiếp nguyên Thủ tướng Nhật Bản Hatoyama Yukio đang có chuyến thăm làm việc tại Việt Nam.
+
+</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/thu-tuong-nguyen-tan-dung-tiep-nguyen-thu-tuong-nhat-ban-hatoyama-yukio-1415224288.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223428"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/nhat-ban-them-mot-quan-chuc-dinh-vao-be-boi-quy-chinh-tri-1415215869.htm" title="Nhật Bản th&#234;m một quan chức d&#237;nh v&#224;o b&#234; bối quỹ ch&#237;nh trị" ><img   title="Nhật Bản th&#234;m một quan chức d&#237;nh v&#224;o b&#234; bối quỹ ch&#237;nh trị" alt="Nhật Bản th&#234;m một quan chức d&#237;nh v&#224;o b&#234; bối quỹ ch&#237;nh trị" data-x2="https://dantricdn.com/f02dc756/zoom/137_105/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-59811.jpg" src="https://dantricdn.com/zoom/130_100/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-59811.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415215869"><h2><a href="/dien-dan/nhat-ban-them-mot-quan-chuc-dinh-vao-be-boi-quy-chinh-tri-1415215869.htm" title="Nhật Bản th&#234;m một quan chức d&#237;nh v&#224;o b&#234; bối quỹ ch&#237;nh trị" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415215869"  >Nhật Bản thêm một quan chức dính vào bê bối quỹ chính trị</a></h2><div class="fon5 wid324 fl">Chi nhánh bầu cử của Thứ trưởng Bộ Giao thông Nhật Bản đã nhận hơn 1 triệu yên tiền đóng góp từ một người đàn ông nước ngoài.
+</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/nhat-ban-them-mot-quan-chuc-dinh-vao-be-boi-quy-chinh-tri-1415215869.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223429"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/100000-nguoi-tuan-hanh-chong-chinh-phu-tai-hungary-1415213743.htm" title="100.000 người tuần h&#224;nh chống ch&#237;nh phủ tại Hungary" ><img   title="100.000 người tuần h&#224;nh chống ch&#237;nh phủ tại Hungary" alt="100.000 người tuần h&#224;nh chống ch&#237;nh phủ tại Hungary" data-x2="https://dantricdn.com/96fe55c2/zoom/137_105/roRv03PEhDONR2XcruZ3XQmfl86iE/Image/2014/10/hungarian-protest-2d6ec.jpg" src="https://dantricdn.com/zoom/130_100/roRv03PEhDONR2XcruZ3XQmfl86iE/Image/2014/10/hungarian-protest-2d6ec.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415213743"><h2><a href="/dien-dan/100000-nguoi-tuan-hanh-chong-chinh-phu-tai-hungary-1415213743.htm" title="100.000 người tuần h&#224;nh chống ch&#237;nh phủ tại Hungary" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415213743"  >100.000 người tuần hành chống chính phủ tại Hungary</a></h2><div class="fon5 wid324 fl">(Dân trí) - Tối 28/10 theo giờ địa phương, khoảng 100.000 người Hungary đã xuống đường để phản đối kế hoạch đánh thuế internet của chính phủ, cũng như các chính sách bị xem là làm suy yếu nền dân chủ của chính quyền thủ tướng Viktor Orban.</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/100000-nguoi-tuan-hanh-chong-chinh-phu-tai-hungary-1415213743.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223430"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/my-tung-am-muu-danh-bat-ham-doi-bien-den-khoi-crimea-1415209170.htm" title="Mỹ từng &#226;m mưu &quot;đ&#225;nh bật&quot; Hạm đội Biển Đen khỏi Crimea" ><img   title="Mỹ từng &#226;m mưu &quot;đ&#225;nh bật&quot; Hạm đội Biển Đen khỏi Crimea" alt="Mỹ từng &#226;m mưu &quot;đ&#225;nh bật&quot; Hạm đội Biển Đen khỏi Crimea" data-x2="https://dantricdn.com/de87223a/zoom/137_105/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/an-do-8db8e.jpg" src="https://dantricdn.com/zoom/130_100/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/an-do-8db8e.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415209170"><h2><a href="/dien-dan/my-tung-am-muu-danh-bat-ham-doi-bien-den-khoi-crimea-1415209170.htm" title="Mỹ từng &#226;m mưu &quot;đ&#225;nh bật&quot; Hạm đội Biển Đen khỏi Crimea" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415209170"  >Mỹ từng âm mưu "đánh bật" Hạm đội Biển Đen khỏi Crimea</a></h2><div class="fon5 wid324 fl">Ý tưởng về việc Mỹ thông qua các sự kiện ở quảng trường Maidan của Ukraine để lên kế hoạch giành quyền kiểm soát Crimea và từ đó “xóa sổ” Hạm đội Biển Đen của Nga đã được nhà báo Italy Maurizio Blondet chỉ ra thông qua những bình luận dưới đây.
+
+</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/my-tung-am-muu-danh-bat-ham-doi-bien-den-khoi-crimea-1415209170.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223431"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/chuyen-tham-cua-thu-tuong-khoa-lap-khoang-cach-viet-nam-an-do-1415208992.htm" title="Chuyến thăm của Thủ tướng khỏa lấp khoảng c&#225;ch Việt Nam-Ấn Độ" ><img   title="Chuyến thăm của Thủ tướng khỏa lấp khoảng c&#225;ch Việt Nam-Ấn Độ" alt="Chuyến thăm của Thủ tướng khỏa lấp khoảng c&#225;ch Việt Nam-Ấn Độ" data-x2="https://dantricdn.com/60ce0f70/zoom/137_105/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/an-do-81986.jpg" src="https://dantricdn.com/zoom/130_100/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/an-do-81986.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415208992"><h2><a href="/dien-dan/chuyen-tham-cua-thu-tuong-khoa-lap-khoang-cach-viet-nam-an-do-1415208992.htm" title="Chuyến thăm của Thủ tướng khỏa lấp khoảng c&#225;ch Việt Nam-Ấn Độ" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415208992"  >Chuyến thăm của Thủ tướng khỏa lấp khoảng cách Việt Nam-Ấn Độ</a></h2><div class="fon5 wid324 fl">Truyền thông Ấn Độ ngày 29/10 tiếp tục đưa tin đậm nét về chuyến thăm của Thủ tướng Chính phủ Việt Nam Nguyễn Tấn Dũng tới Ấn Độ trong hai ngày 27-28/10 và phân tích ý nghĩa quan trọng của chuyến thăm. Các báo lớn như “Hindu”, “Hindustan Times”, “Economic Times”, “Indian Express”, “Times of India”… đều đưa tin về những thỏa thuận mà hai nước vừa đạt được, đặc biệt trong lĩnh vực quốc phòng và dầu khí. 
+
+</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/chuyen-tham-cua-thu-tuong-khoa-lap-khoang-cach-viet-nam-an-do-1415208992.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223432"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/trung-quoc-lai-dua-tau-hai-canh-4000-tan-vao-hoat-dong-tren-bien-dong-1415210552.htm" title="Trung Quốc lại đưa t&#224;u Hải Cảnh 4.000 tấn v&#224;o hoạt động tr&#234;n Biển Đ&#244;ng" ><img   title="Trung Quốc lại đưa t&#224;u Hải Cảnh 4.000 tấn v&#224;o hoạt động tr&#234;n Biển Đ&#244;ng" alt="Trung Quốc lại đưa t&#224;u Hải Cảnh 4.000 tấn v&#224;o hoạt động tr&#234;n Biển Đ&#244;ng" data-x2="https://dantricdn.com/6fda4d34/zoom/137_105/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-13a3a.jpg" src="https://dantricdn.com/zoom/130_100/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-13a3a.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415210552"><h2><a href="/dien-dan/trung-quoc-lai-dua-tau-hai-canh-4000-tan-vao-hoat-dong-tren-bien-dong-1415210552.htm" title="Trung Quốc lại đưa t&#224;u Hải Cảnh 4.000 tấn v&#224;o hoạt động tr&#234;n Biển Đ&#244;ng" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415210552"  >Trung Quốc lại đưa tàu Hải Cảnh 4.000 tấn vào hoạt động trên Biển Đông</a></h2><div class="fon5 wid324 fl">(Dân trí) - Thời báo Hoàn Cầu ngày 29/10 đưa tin, Trung Quốc đã chính thức bàn giao tàu Hải Cảnh loại 4.000 tấn là Hải Cảnh 3402 cho Hạm đội Nam Hải hôm 17/10.</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/trung-quoc-lai-dua-tau-hai-canh-4000-tan-vao-hoat-dong-tren-bien-dong-1415210552.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223433"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/chau-au-chay-mau-chat-xam-phan-2-1415193133.htm" title="Ch&#226;u &#194;u chảy m&#225;u chất x&#225;m - Phần 2" ><img   title="Ch&#226;u &#194;u chảy m&#225;u chất x&#225;m - Phần 2" alt="Ch&#226;u &#194;u chảy m&#225;u chất x&#225;m - Phần 2" data-x2="https://dantricdn.com/bd44e433/zoom/137_105/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-80be1.jpg" src="https://dantricdn.com/zoom/130_100/3zuKTnQg47tlY5wKmT2O16iHMos72v/Image/2014/10/2-80be1.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415193133"><h2><a href="/dien-dan/chau-au-chay-mau-chat-xam-phan-2-1415193133.htm" title="Ch&#226;u &#194;u chảy m&#225;u chất x&#225;m - Phần 2" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415193133"  >Châu Âu chảy máu chất xám - Phần 2</a></h2><div class="fon5 wid324 fl">Để đảo ngược xu thế này, năm 2011, Hội đồng châu Âu đã triển khai ý tưởng Thẻ xanh (Blue Card), một mô hình tương tự như chương trình thẻ xanh (Green Card) của Mỹ vốn cấp thị thực cho những người nước ngoài mong muốn làm việc tại nền kinh tế số 1 thế giới. 
+
+</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/chau-au-chay-mau-chat-xam-phan-2-1415193133.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="223434"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/dien-dan/trung-quoc-dang-tung-tien-mua-ca-the-gioi-1415191194.htm" title="Trung Quốc đang &quot;tung tiền&quot; mua cả thế giới" ><img   title="Trung Quốc đang &quot;tung tiền&quot; mua cả thế giới" alt="Trung Quốc đang &quot;tung tiền&quot; mua cả thế giới" data-x2="https://dantricdn.com/b7c666d4/zoom/137_105/bAQUGFnxbSqpteBJM35OGUubdCOk0/Image/2014/10/fica-5651414492208-b1613.jpg" src="https://dantricdn.com/zoom/130_100/bAQUGFnxbSqpteBJM35OGUubdCOk0/Image/2014/10/fica-5651414492208-b1613.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="1415191194"><h2><a href="/dien-dan/trung-quoc-dang-tung-tien-mua-ca-the-gioi-1415191194.htm" title="Trung Quốc đang &quot;tung tiền&quot; mua cả thế giới" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="1415191194"  >Trung Quốc đang "tung tiền" mua cả thế giới</a></h2><div class="fon5 wid324 fl">(Dân trí) - Số lượng vốn đầu tư Trung Quốc đổ vào bất động sản nước ngoài tăng mạnh. Trong số các loại bất động sản, cao ốc văn phòng là tài sản được giới đầu tư ưa chuộng nhất.</div><a rel="nofollow" class="icon-detail fon7" href="/dien-dan/trung-quoc-dang-tung-tien-mua-ca-the-gioi-1415191194.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div>
+</div>
+<script type="text/lazyscript">    
+    {
+        var currentUrl=$("#hidCategoryPath").val();
+        if (typeof (currentUrl) != "undefined" && currentUrl != "/the-thao/bong-da-anh")
+            brandContentStream.init("#listcheckepl");
+    }
+</script>
+
+            <div class="clearfix mt1">
+                <div class="fr">
+                    <a class="fon27 mt1 mr2" href="/dien-dan/the-gioi/trang-2.htm">[ Trang sau ]</a>
+                </div>
+                <div class="fr">
+                    
+                </div>
+
+            </div>
+            
+<div id="ctl00_ctl00_cphBody_cphBody_ctrBoxVoteInZone" data-boxtype="voteinzone" data-zoneid="673" class="clearfix"></div>
+            <div style="float: left; width: 465px; padding: 10px 0 0 0;">
+            </div>
+            
+            
+
+            
+                <div class="box21 mt5 clearfix">
+                    <div class="fon39">
+                        Các bài đã đăng
+                    </div>
+                    <ul class="ul11 ml2 mt2">
+                        <li><a href="/dien-dan/trieu-tien-mac-ca-voi-lhq-ve-de-xuat-dua-ra-toa-an-quoc-te-1415189764.htm" title="Triều Ti&#234;n “mặc cả” với LHQ về đề xuất đưa ra t&#242;a &#225;n quốc tế">Triều Tiên “mặc cả” với LHQ về đề xuất đưa ra tòa án quốc tế (29/10)</a></li><li><a href="/dien-dan/cuoc-chien-chong-is-kho-nhu-go-chi-roi-1415189566.htm" title="Cuộc chiến chống IS: Kh&#243; như gỡ chỉ rối">Cuộc chiến chống IS: Khó như gỡ chỉ rối (29/10)</a></li><li><a href="/dien-dan/nato-bat-ngo-muon-lam-hoa-voi-nga-1415185780.htm" title="NATO bất ngờ muốn l&#224;m h&#242;a với Nga">NATO bất ngờ muốn làm hòa với Nga (29/10)</a></li><li><a href="/dien-dan/dai-hoi-dong-lhq-bo-phieu-len-an-my-cam-van-cuba-1415179137.htm" title="Đại hội đồng LHQ bỏ phiếu l&#234;n &#225;n Mỹ cấm vận Cuba ">Đại hội đồng LHQ bỏ phiếu lên án Mỹ cấm vận Cuba  (29/10)</a></li><li><a href="/dien-dan/nga-se-cong-nhan-bau-cu-cua-phe-ly-khai-tai-dong-ukraine-1415145027.htm" title="Nga sẽ c&#244;ng nhận bầu cử của phe ly khai tại Đ&#244;ng Ukraine">Nga sẽ công nhận bầu cử của phe ly khai tại Đông Ukraine (28/10)</a></li><li><a href="/dien-dan/lai-ro-tin-don-vo-chong-tong-thong-obama-sap-ly-di-1415097626.htm" title="Lại rộ tin đồn vợ chồng Tổng thống Obama sắp ly dị">Lại rộ tin đồn vợ chồng Tổng thống Obama sắp ly dị (28/10)</a></li><li><a href="/dien-dan/lau-nam-goc-he-lo-chi-phi-khung-hang-ngay-chong-is-1415091157.htm" title="Lầu Năm G&#243;c h&#233; lộ chi ph&#237; &quot;khủng&quot; h&#224;ng ng&#224;y chống IS">Lầu Năm Góc hé lộ chi phí "khủng" hàng ngày chống IS (28/10)</a></li><li><a href="/dien-dan/chu-tich-nuoc-truong-tan-sang-tiep-uy-vien-quoc-vu-trung-quoc-1415091480.htm" title=" Chủ tịch nước Trương Tấn Sang tiếp Ủy vi&#234;n Quốc vụ Trung Quốc"> Chủ tịch nước Trương Tấn Sang tiếp Ủy viên Quốc vụ Trung Quốc (28/10)</a></li><li><a href="/dien-dan/giao-tranh-bung-phat-o-mien-dong-ukraine-sau-bau-cu-1415041337.htm" title="Giao tranh b&#249;ng ph&#225;t ở miền Đ&#244;ng Ukraine sau bầu cử">Giao tranh bùng phát ở miền Đông Ukraine sau bầu cử (27/10)</a></li><li><a href="/dien-dan/bieu-tinh-tai-hong-kong-1-thang-nhin-lai-1415035707.htm" title="Biểu t&#236;nh tại Hồng K&#244;ng: 1 th&#225;ng nh&#236;n lại">Biểu tình tại Hồng Kông: 1 tháng nhìn lại (27/10)</a></li><li><a href="/dien-dan/viet-nam-trung-quoc-nhat-tri-kiem-soat-bat-dong-tren-bien-1415032300.htm" title="Việt Nam-Trung Quốc nhất tr&#237; kiểm so&#225;t bất đồng tr&#234;n biển">Việt Nam-Trung Quốc nhất trí kiểm soát bất đồng trên biển (27/10)</a></li><li><a href="/dien-dan/tong-thong-indonesia-cong-bo-noi-cac-moi-bo-nhiem-nu-ngoai-truong-dau-tien-1415007616.htm" title="Tổng thống Indonesia c&#244;ng bố nội c&#225;c mới, bổ nhiệm nữ ngoại trưởng đầu ti&#234;n">Tổng thống Indonesia công bố nội các mới, bổ nhiệm nữ ngoại trưởng đầu tiên (27/10)</a></li>
+                    </ul>
+                </div>
+            
+            
+<div class="clearfix mt2 newsdateselector">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm trước" id="btnViewNewsPrevDate">
+    <input class="btn-view-month" type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="Xem bài theo ngày tháng »" id="Button1">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm sau" id="btnViewNewsNextDate">
+</div>
+<script type="text/lazyscript">
+    var categoryPath = $("#hidCategoryPath").val().trim('/');
+    
+    var currentDate = new Date();
+    if ($("#hidCurrentDate") && $("#hidCurrentDate").val() != '') {
+        currentDate = new Date($("#hidCurrentDate").val());
+    }
+    var now = new Date();
+    var hasNext = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() > new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate()).getTime();
+    
+    var prevDate = currentDate.addDays(-1);
+    var prevDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, prevDate.getDate(), prevDate.getMonth() + 1, prevDate.getFullYear(), appSettings.urlExtension);
+    $('#btnViewNewsPrevDate').bind('click', function () {
+        window.location.href = prevDateUrl;
+    });
+
+    if (hasNext) {
+        var nextDate = currentDate.addDays(1);
+        var nextDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, nextDate.getDate(), nextDate.getMonth() + 1, nextDate.getFullYear(), appSettings.urlExtension);
+        $('#btnViewNewsNextDate').bind('click', function () {
+            window.location.href = nextDateUrl;
+        });
+        $('#btnViewNewsNextDate').show();
+    }else{
+        $('#btnViewNewsNextDate').addClass('disabled');
+    }
+</script>
+
+
+        </div>
+
+
+        <div class="fr w510">
+            
+
+
+
+<div class="fl wid310 box5 admicro mgl10">
+
+    
+        <div align="center" class="ic-ads" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 300px" align="center">
+                
+<div id="admzone401"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone401') });
+</script> 
+            </div> 
+        </div> 
+    
+    
+<div align="center" class="ic-ads" style="float: left;">
+    <div name="column" style="padding-bottom: 5px; float: left; padding-top: 1px" align="center">
+        
+        <div>
+            <div style="width: 310px; text-align: left" id="DanTri_Widget_NewsList0">
+                <div class="box">
+                    <div class="box-top">
+                        <div class="box-bt">
+                            <h3><a href="/ban-doc/goc-anh.htm" title="Góc ảnh">góc ảnh</a></h3>
+                            <div class="top-img">
+                                <a  href="/ban-doc/tand-toi-cao-vao-cuoc-vu-nam-sinh-lop-11-bi-ket-toi-cuop-tai-san-keu-oan-20161013065707746.htm" title="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" ><img   title="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" alt="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" data-x2="https://dantricdn.com/1d367c35/zoom/293_221/2016/anh-5-1471186318124-1476316759557.jpg" src="https://dantricdn.com/zoom/279_210/2016/anh-5-1471186318124-1476316759557.jpg" width="279" height="210" /></a><h4><a href="/ban-doc/tand-toi-cao-vao-cuoc-vu-nam-sinh-lop-11-bi-ket-toi-cuop-tai-san-keu-oan-20161013065707746.htm" title="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" data-newstype="0"  data-linktype="newsdetail"   data-id="20161013065707746"  >TAND Tối cao vào cuộc vụ nam sinh lớp 11 bị kết tội “Cướp tài sản” kêu oan</a></h4>
+                            </div>
+                            <ul>
+                                <li><a href="/ban-doc/binh-dinh-hai-hung-rac-thai-bua-vay-lang-chai-tren-ban-dao-20161003084821982.htm" title="B&#236;nh Định: H&#227;i h&#249;ng r&#225;c thải “bủa v&#226;y” l&#224;ng ch&#224;i tr&#234;n b&#225;n đảo" data-newstype="3"  data-linktype="newsdetail"   data-id="20161003084821982"  >Bình Định: Hãi hùng rác thải “bủa vây” làng chài trên bán đảo</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
+        <div style="float: left; width: 300px; padding: 5px">
+            
+            
+<div id="admzone345"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone345') });
+</script>
+        </div> 
+    
+</div>
+
+    <div class="fr pt5" style="width: 180px;">
+        <div align="center" class="dantri-div-bottom" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 180px; padding-top: 5px;" align="center">
+                
+<div id="admzone228"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone228') });
+</script> 
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+    <div id="adm_sticky_footer" style="height: 0px">
+        </div>
+    
+    
+<div class="mostviewbyzone">
+    <div class="mv-header">
+        
+            <img src="http://static.dantricdn.com/App_Themes/Default/Images/blank.gif" border="0">
+    </div>
+    <div class="mv-container">
+        <div class="mv-item" >
+                    <a href="/dien-dan/muon-loai-bo-cac-loai-tac-can-loi-noi-thang-nhu-tuong-chung-20170310134622861.htm" title="Muốn loại bỏ các loại “tặc”, cần lời nói thẳng như tướng Chung">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/cat-tac-1-1489128108191.jpg" title="Muốn loại bỏ c&#225;c loại “tặc”, cần lời n&#243;i thẳng như tướng Chung" alt="Muốn loại bỏ c&#225;c loại “tặc”, cần lời n&#243;i thẳng như tướng Chung" width="65" height="65" />
+                    </a>
+                    <h4><a href="/dien-dan/muon-loai-bo-cac-loai-tac-can-loi-noi-thang-nhu-tuong-chung-20170310134622861.htm" title="Muốn loại bỏ các loại “tặc”, cần lời nói thẳng như tướng Chung">Muốn loại bỏ các loại “tặc”, cần lời nói thẳng như tướng Chung</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/dien-dan/lap-lai-trat-tu-via-he-can-chi-tay-vach-mat-nhung-quan-chuc-ham-tien-20170313133557971.htm" title="Lập lại trật tự vỉa hè: Cần chỉ tay vạch mặt, những quan chức ham tiền">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/viahe4-1489386180953.jpg" title="Lập lại trật tự vỉa h&#232;: Cần chỉ tay vạch mặt, những quan chức ham tiền" alt="Lập lại trật tự vỉa h&#232;: Cần chỉ tay vạch mặt, những quan chức ham tiền" width="65" height="65" />
+                    </a>
+                    <h4><a href="/dien-dan/lap-lai-trat-tu-via-he-can-chi-tay-vach-mat-nhung-quan-chuc-ham-tien-20170313133557971.htm" title="Lập lại trật tự vỉa hè: Cần chỉ tay vạch mặt, những quan chức ham tiền">Lập lại trật tự vỉa hè: Cần chỉ tay vạch mặt, những quan chức ham tiền</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/dien-dan/cuoc-chien-gianh-via-he-co-dieu-dang-ban-khoan-20170315112503153.htm" title="“Cuộc chiến” giành vỉa hè: có điều đang băn khoăn">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/ban-rong-1489551119135.jpg" title="“Cuộc chiến” gi&#224;nh vỉa h&#232;: c&#243; điều đang băn khoăn" alt="“Cuộc chiến” gi&#224;nh vỉa h&#232;: c&#243; điều đang băn khoăn" width="65" height="65" />
+                    </a>
+                    <h4><a href="/dien-dan/cuoc-chien-gianh-via-he-co-dieu-dang-ban-khoan-20170315112503153.htm" title="“Cuộc chiến” giành vỉa hè: có điều đang băn khoăn">“Cuộc chiến” giành vỉa hè: có điều đang băn khoăn</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/dien-dan/tai-sao-cu-pham-toi-la-bi-tam-than-20170313002225921.htm" title="Tại sao cứ phạm tội là bị tâm thần?">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/thu-truong-khong-cham-cuc-truong-ben-len-bo-huy-hop-bao-1488614396150.jpg" title="Tại sao cứ phạm tội l&#224; bị t&#226;m thần?" alt="Tại sao cứ phạm tội l&#224; bị t&#226;m thần?" width="65" height="65" />
+                    </a>
+                    <h4><a href="/dien-dan/tai-sao-cu-pham-toi-la-bi-tam-than-20170313002225921.htm" title="Tại sao cứ phạm tội là bị tâm thần?">Tại sao cứ phạm tội là bị tâm thần?</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/dien-dan/ruou-rom-thuc-pham-ban-noi-so-cua-dan-20170316092003267.htm" title="Rượu rởm, thực phẩm “bẩn” - nỗi sợ của dân">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/1-1489630257423.jpg" title="Rượu rởm, thực phẩm “bẩn” - nỗi sợ của d&#226;n" alt="Rượu rởm, thực phẩm “bẩn” - nỗi sợ của d&#226;n" width="65" height="65" />
+                    </a>
+                    <h4><a href="/dien-dan/ruou-rom-thuc-pham-ban-noi-so-cua-dan-20170316092003267.htm" title="Rượu rởm, thực phẩm “bẩn” - nỗi sợ của dân">Rượu rởm, thực phẩm “bẩn” - nỗi sợ của dân</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/dien-dan/bo-bo-nhiem-con-so-suat-la-do-anh-em-cap-duoi-trinh-len-20170316114249277.htm" title="Bố bổ nhiệm con: "Sơ suất là do anh em cấp dưới trình lên"">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/dung-qui-trinh-va-ngau-nhien-1489639145233.jpg" title="Bố bổ nhiệm con: &quot;Sơ suất l&#224; do anh em cấp dưới tr&#236;nh l&#234;n&quot;" alt="Bố bổ nhiệm con: &quot;Sơ suất l&#224; do anh em cấp dưới tr&#236;nh l&#234;n&quot;" width="65" height="65" />
+                    </a>
+                    <h4><a href="/dien-dan/bo-bo-nhiem-con-so-suat-la-do-anh-em-cap-duoi-trinh-len-20170316114249277.htm" title="Bố bổ nhiệm con: "Sơ suất là do anh em cấp dưới trình lên"">Bố bổ nhiệm con: "Sơ suất là do anh em cấp dưới trình lên"</a></h4> 
+                    </div>
+        
+    </div>
+    <div class="mv-footer"></div>
+</div>
+<script type="text/lazyscript">
+    var items = $('.mv-item');
+    if (items && items.length > 0) {
+        var maxHeight = 0;
+        items.each(function () {
+            if ($(this).height() > maxHeight) {
+                maxHeight = $(this).height();
+            }
+            if ((items.index($(this))+1) % 4 == 0) {
+
+                $(this).addClass("last");
+            }
+        });
+        items.css('height', maxHeight);
+    }
+</script>
+
+
+            </div>
+            <div id="adm_sticky_footer" style="height: 0px">
+            </div>
+            
+
+<div class="footer box19">
+    <div class="fr mb1 mt2">
+        <a href="javascript:void(0)" data-elementtype="button-sethomepage" rel="nofollow">Đặt Dân trí làm trang chủ </a>|  <a href="mailto:dantri@dantri.com.vn" title="Góp ý - Liên hệ" rel="nofollow">Góp ý
+            - Liên hệ</a> | &nbsp;&nbsp;&nbsp;<a
+                href="#" class="fon19" rel="nofollow">[ Trở về đầu trang ]</a>
+    </div>
+    <div class="clear line2">
+    </div>
+    <div class="clearfix">
+        <div class="fon17 mt1">
+            <a rel="nofollow" href="/su-kien.htm" title="Sự kiện">Sự kiện</a> | <a rel="nofollow" href="/xa-hoi.htm" title="Xã hội">Xã hội</a> | <a rel="nofollow" href="/the-gioi.htm" title="Thế giới">Thế giới</a> | <a rel="nofollow" href="/the-thao.htm" title="Thể thao">Thể thao</a> | <a rel="nofollow" href="/giao-duc-khuyen-hoc.htm" title="Giáo dục">Giáo dục</a> | <a rel="nofollow" href="/tam-long-nhan-ai.htm" title="Nhân ái">Nhân ái</a> | <a rel="nofollow" href="/kinh-doanh.htm" title="Kinh doanh">Kinh doanh</a> | <a rel="nofollow" href="/van-hoa.htm" title="Văn hóa">Văn hóa</a> | <a rel="nofollow" href="/giai-tri.htm" title="Giải trí">Giải trí</a> | <a rel="nofollow" href="http://dulich.dantri.com.vn" target="_blank" title="Du lịch">Du lịch</a> | <a rel="nofollow" href="/phap-luat.htm" title="Pháp luật">Pháp luật</a> | <a rel="nofollow" href="/nhip-song-tre.htm" title="Nhịp sống trẻ">Nhịp sống trẻ</a> | <a rel="nofollow" href="/suc-khoe.htm" title="Sức khỏe">Sức khỏe</a> |  <a rel="nofollow" href="/suc-manh-so.htm" title="Sức mạnh số">Sức mạnh số</a> | <a rel="nofollow" href="/o-to-xe-may.htm" title="Xe++">Xe++</a>
+            | <a rel="nofollow" href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu">Tình yêu</a> | <a rel="nofollow" href="/chuyen-la.htm" title="Chuyện lạ">Chuyện lạ</a>
+        </div>
+    </div>
+    <div class="footer-content box8 fon18 lh18">
+        <div class="footer-content-left">
+            Cơ quan của TW Hội Khuyến học Việt Nam<br />
+            Giấy phép hoạt động báo điện tử Dân trí trên Internet số  378/GP - BTTTT Hà Nội,
+            ngày 16-09-2013.<br />
+            Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br />
+            Điện thoại: 04-3736-6491. Fax: 04-3736-6490<br />
+            Email: <a href="mailto:info@dantri.com.vn" title="Gửi email tới Dân Trí" rel="nofollow">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" title="Xem trang Dân Trí"
+                rel="nofollow">http://www.dantri.com.vn</a>
+            <br />
+            <p>
+                <i>Mọi hành động sử dụng nội dung đăng tải trên Báo điện tử Dân trí tại địa chỉ www.dantri.com.vn
+                phải<br/> có sự đồng ý bằng văn bản của Báo điện tử Dân trí.
+                </i>
+            </p>
+        </div>
+        <div class="footer-content-right">
+            <p>
+                Đơn vị quảng cáo: &nbsp;<img src="https://static.dantricdn.com/App_Themes/Default/Images/adm_new_logo_small.png"
+                    style="display:inline-block; border: none;" />
+            </p>
+            <p>
+                Hotline: 0926.864.344
+            </p>
+            <p>
+                Email: <a href="mailto:quangcao@admicro.vn" rel="nofollow">quangcao@admicro.vn</a>
+            </p>
+            <p>
+                Website: <a href="http://www.admicro.vn" target="_blank"
+                    rel="nofollow">www.admicro.vn</a>
+            </p>
+            <p>
+                Hỗ trợ và CSKH: 01268 269 779 (Ms. Thơm)
+            </p>
+            <p>
+                Các mảng: <a href="http://afamily.vn" target="_blank" title="gia đình">gia đình
+                </a>-<a href="http://genk.vn" target="_blank" title="công nghệ"> công nghệ </a>-
+                <a href="http://gamek.vn" target="_blank" title="game">game </a>- <a href="http://kenh14.vn"
+                    target="_blank" title="giải trí">giải trí</a> , <a href="http://kenh14.vn/xa-hoi.chn"
+                        target="_blank" title="xã hội">xã hội.</a>
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    <script src="http://static.hosting.vcmedia.vn/code_redirect_player.js" type="text/javascript"></script>
+    <script type="text/lazyscript">
+        var icoNewsTypeVote = '<i class="ico-newstype-vote" title="Bài trắc nghiệm"></i>';
+        if ($("html").hasClass("homepage")) {
+            $("a[data-newstype=22]").prepend(icoNewsTypeVote);
+        } else {
+            $("a[data-newstype=22]").append(icoNewsTypeVote);
+        }
+    </script>
+
+        
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="243E9BCE" />
+</div></form>
+    
+    
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <script src="http://dantricdn.com/web_js/js-default-new.1.3.js" type="text/javascript" ></script>
+
+
+<script type="text/lazyscript">
+    var newZoneLink = $('.subnav ul a[href$="/doi-song/thuong-luu.htm"]');
+    if (newZoneLink.length > 0) {
+        newZoneLink.css({
+            "position": "relative",
+            "padding-right": "32px"
+        });
+        var icoNew = $('<i />').css({
+            background: 'transparent url("https://dantricdn.com/web_images/bd2aa9f1-5e63-4cc5-96b3-2d03e5fd9be7.png")  0 0 no-repeat',
+            width: '29px',
+            height: '16px',
+            display: 'inline-block',
+            position: 'absolute',
+            top: '-2px',
+            right: '0'
+        });
+        newZoneLink.append(icoNew);
+    }
+</script>
+
+
+</body>
+</html>
+
+<!--w-u: [09:43:26 17/03/2017-09:43:26 18/03/2017] -->

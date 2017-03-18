@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Máy tính chứa hồ sơ mật của Cơ quan Mật vụ Mỹ bị đánh cắp - Tin Tức TTXVN
+</title><meta name="keywords" content="máy tính xách tay,đánh cắp,Brooklyn,Tháp Trump,Hillary Clinton,Thành phố New York,Hãng tin ABC News,Cơ quan Mật vụ Mỹ,Tòa tháp Trump,Mỹ,email,server,ngoại trưởng mỹ" /><meta name="description" content="Hãng tin ABC News ngày 17/3 cho biết một máy tính xách tay của nhân viên Cơ quan Mật vụ chứa sơ đồ các phòng của tòa Tháp Trump, các chi tiết về cuộc điều t..." />
+<link rel="canonical" href="http://www.baomoi.com/may-tinh-chua-ho-so-mat-cua-co-quan-mat-vu-my-bi-danh-cap/c/21793260.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793260" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793260" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/the-gioi/may-tinh-chua-ho-so-mat-cua-co-quan-mat-vu-my-bi-danh-cap-20170318073729305.htm");
+else
+window.location.replace("http://www.baomoi.com/may-tinh-chua-ho-so-mat-cua-co-quan-mat-vu-my-bi-danh-cap/c/21793260.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

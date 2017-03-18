@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu - VietnamNet
+</title><meta name="keywords" content="cục dự trữ liên bang,doji,thị trường vàng,Tập Đoàn Vàng,chính sách tiền tệ,lạm phát,Mỹ,Công ty SJC,New York Mercantile Exchange,khủng hoảng tài chính,Nam Hải,GDP,tốc độ tăng trưởng kinh tế,ước tính" /><meta name="description" content="Giá vàng hôm nay 18/3 tiếp tục giảm nhưng vẫn đang neo ở mức cao trong hai tuần qua do USD đang yếu và chính sách của Mỹ trong những cuộc họp gần đây." />
+<link rel="canonical" href="http://www.baomoi.com/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792571" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792571" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/kinh-doanh/tai-chinh/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau-361959.html");
+else
+window.location.replace("http://www.baomoi.com/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

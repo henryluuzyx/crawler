@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Du lịch Quảng Bình trước cơ hội mới - TTDL
+</title><meta name="keywords" content="Skull Island,Quảng Bình,Thung Lũng Chà Nòi,Hang Én,Hang Tú Làn,Hang Sơn Đoòng,kẻ bàng,tour,Minh Hóa,Tân Hóa,Đảo Yến,Động Thiên Đường,Vũng Chùa,hang động Tú Làn,Phong Nha,Đặng Đông Hà,quảng bá,phim bom tấn,hồ Yên Phú,đoàn làm phim,Sở Du lịch Quảng Bình" /><meta name="description" content="(TITC) - Sở hữu thiên nhiên tuyệt đẹp với những dãy núi cao ngút ngàn, hệ thống hang động nguyên sơ, bí ẩn bên những ngôi làng nhỏ bình yên, Quảng Bình được..." />
+<link rel="canonical" href="http://www.baomoi.com/du-lich-quang-binh-truoc-co-hoi-moi/c/21776047.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21776047" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21776047" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.dulichvn.org.vn/index.php?category=20&itemid=34800");
+else
+window.location.replace("http://www.baomoi.com/du-lich-quang-binh-truoc-co-hoi-moi/c/21776047.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

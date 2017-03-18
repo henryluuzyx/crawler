@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Xuýt xoa vườn cây trái trĩu giàn trên sân thượng của ông bố ở Thủ đô - KH&PT
+</title><meta name="keywords" content="thu hoạch,Ngon Sạch Lạ,Bùi Minh Tuấn,đột nhập,tranh thủ,mạng xã hội,nghiên cứu" /><meta name="description" content="Không chỉ mát tay trồng các loại rau xanh mơn mởn, khu vườn sân thượng tầng 5 của &quot;ông bố của năm&quot; Bùi Minh Tuấn còn hội tụ đủ các loại quả như: khổ qua, bí..." />
+<link rel="canonical" href="http://www.baomoi.com/xuyt-xoa-vuon-cay-trai-triu-gian-tren-san-thuong-cua-ong-bo-o-thu-do/c/21791023.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791023" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791023" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/dia-phuong/xuyt-xoa-vuon-cay-trai-triu-gian-tren-san-thuong-cua-ong-bo-o-thu-do/20170317031028211p1c937.htm");
+else
+window.location.replace("http://www.baomoi.com/xuyt-xoa-vuon-cay-trai-triu-gian-tren-san-thuong-cua-ong-bo-o-thu-do/c/21791023.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

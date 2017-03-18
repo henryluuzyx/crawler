@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mật vụ Mỹ bị trộm laptop chứa sơ đồ tháp Trump - Zing
+</title><meta name="keywords" content="máy tính xách tay,đánh cắp,Cathy Mihoan,Brooklyn,Tháp Trump,Sở Mật Vụ Mỹ,sở mật vụ,Sở cảnh sát New York,Hillary Clinton,Thành phố New York,New York Daily News,Trump,Ngụy An,cnn,Mỹ Donald Trump,sơ tán,ăn cắp,tổng thống Mỹ,tổn hại,ca ngợi,rò rỉ" /><meta name="description" content="Một chiếc máy tính xách tay với nhiều thông tin quan trọng về Tổng thống Mỹ Donald Trump đã bị đánh cắp từ xe của một mật vụ Mỹ ở Brooklyn." />
+<link rel="canonical" href="http://www.baomoi.com/mat-vu-my-bi-trom-laptop-chua-so-do-thap-trump/c/21792783.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792783" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792783" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/laptop-chua-so-do-thap-trump-cua-mat-vu-my-bi-trom-post729366.html");
+else
+window.location.replace("http://www.baomoi.com/mat-vu-my-bi-trom-laptop-chua-so-do-thap-trump/c/21792783.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

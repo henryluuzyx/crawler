@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhà thiết kế Hoàng Ngân lần đầu triển lãm tranh - Thanh Niên
+</title><meta name="keywords" content="Hoàng Ngân,Đức Minh Gallery,balê,acrylic,tự tin,gắn bó,THIÊN ANH,phát hiện" /><meta name="description" content="Từ ngày 17-23.3, nhà thiết kế Hoàng Ngân sẽ tổ chức buổi triển lãm tranh đầu tiên mang tên Những sắc thái ngọt ngào của ký ức tại Đức Minh Gallery (TP.HCM)." />
+<link rel="canonical" href="http://www.baomoi.com/nha-thiet-ke-hoang-ngan-lan-dau-trien-lam-tranh/c/21744102.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21744102" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21744102" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhnien.vn/van-hoa/nha-thiet-ke-hoang-ngan-lan-dau-trien-lam-tranh-814420.html");
+else
+window.location.replace("http://www.baomoi.com/nha-thiet-ke-hoang-ngan-lan-dau-trien-lam-tranh/c/21744102.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

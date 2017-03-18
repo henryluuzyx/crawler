@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Húc vào cần cẩu 5 tấn, xe khách nát bươm đầu - Tin Tức TTXVN
+</title><meta name="keywords" content="đường Cái Lân,Phường Bãi Cháy,DooSan 5,cảng Cái Lân,Hạ Long,hoảng loạn,Trung Nguyên,Hà Nội" /><meta name="description" content="Xe khách 45 chỗ di chuyển với tốc độ cao, bất ngờ va chạm mạnh vào xe cần cẩu DooSan 5 tấn đang sang đường. Đầu xe khách nát bươm sau cú va chạm." />
+<link rel="canonical" href="http://www.baomoi.com/huc-vao-can-cau-5-tan-xe-khach-nat-buom-dau/c/21791897.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791897" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791897" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/an-ninh-trat-tu/huc-vao-can-cau-5-tan-xe-khach-nat-buom-dau-20170317215722914.htm");
+else
+window.location.replace("http://www.baomoi.com/huc-vao-can-cau-5-tan-xe-khach-nat-buom-dau/c/21791897.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

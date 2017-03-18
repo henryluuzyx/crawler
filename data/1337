@@ -1,0 +1,3561 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+		
+	
+	
+	
+		
+	
+
+
+<html id="XenForo" lang="vi-VN" dir="LTR" class="Public NoJs uix_javascriptNeedsInit LoggedOut Sidebar NoNavSidebar  Responsive pageIsLtr   not_hasTabLinks  hasSearch activeSmallLogo  is-sidebarOpen hasRightSidebar is-setWidth navStyle_2 pageStyle_1 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="https://tinhte.vn/" />
+		
+	
+
+	<title>Máy tính | Tinhte.vn</title>
+
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	<link rel="stylesheet" href="css.php?css=bdad,bdsocialshare,facebook,google,login_bar,nat_public_css,node_category,node_forum,node_list,share_page,sonnb_xengallery_navbar_template,tag,uix_extendedFooter,wf_default&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+
+	<link rel="stylesheet" href="css.php?css=uix,uiflex,dimota&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	<style>
+	/*** UIX -- PER USER STYLES ***/
+
+	
+
+	
+
+
+	
+
+</style>
+
+	<link rel="stylesheet" href="css.php?css=EXTRA&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	
+
+	<style>
+/* Node Styling */
+
+</style>
+
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="styles/uiflex/uix/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+
+
+	
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="fb:pages" content="122102927812763" />
+
+	
+	<link rel="apple-touch-icon" href="https://tinhte.vn/styles/uiflex/dimota/logo.og.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS của Tinhte.vn" href="https://tinhte.vn/rss/" />
+	<meta name="description" content="Thảo luận các loại máy tính, laptop, pc, macbook sử dụng các loại hệ điều hành Windows, Linux, Chrome OS, Mac OS X Bấm vào đây để xem các bài viết mới nhất." />
+	
+	<link rel="canonical" href="https://tinhte.vn/maytinh/" />
+
+
+
+
+	
+		<meta name="theme-color" content="rgb(27, 109, 168)">
+		<meta name="msapplication-TileColor" content="rgb(27, 109, 168)">
+	
+
+</head>
+
+<body class="node618">
+
+	
+
+	
+		
+
+<div id="loginBar">
+	<div class="pageContent">
+		<span class="helper"></span>
+	</div>
+	<div class="pageWidth">
+
+		
+
+	</div>
+</div>
+	
+
+	
+		
+		<div class="js-uix_panels uix_panels ">
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--left">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		<div class="sidePanel sidePanel--nav">
+			<nav>
+<ul class="sidePanel__navTabs">
+	
+							<!-- home -->
+							
+
+
+								<!-- extra tabs: home -->
+								
+
+
+								<!-- forums -->
+								
+									
+										<li class="navTab forums ">
+
+											<a href="https://tinhte.vn/forums/" class="navLink">Diễn đàn</a>
+											<a href="https://tinhte.vn/forums/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+									
+													<ul class="secondaryContent blockLinksList">
+													
+														
+														<li><a href="search/">Tìm kiếm</a></li>
+														
+														
+
+	
+<li><a href="topic-center/">Bài mới</a></li>
+
+													
+													</ul>
+									
+											</div>
+										</li>
+								
+								
+
+								<!-- extra tabs: middle -->
+								
+								
+									
+										
+											<li class="navTab sonnb_xengallery ">
+								
+											<a href="https://tinhte.vn/gallery/" class="navLink">Gallery</a>
+											<a href="https://tinhte.vn/gallery/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+		
+		
+			<li><a href="gallery/categories">Thể loại</a></li>
+		
+		<li><a title="Tìm theo thành viên" class="OverlayTrigger" href="gallery/explore-user">Tìm theo thành viên</a></li>
+		<li><a title="Album mới" href="gallery/new-albums">Album mới</a></li>
+		<li><a title="Ảnh mới" href="gallery/new-photos">Ảnh mới</a></li>
+		<li><a title="Video mới" href="gallery/new-videos">Video mới</a></li>
+		<li><a title="New Comments" href="gallery/new-comments">New Comments</a></li>
+	
+	
+		<li><a title="Hình ảnh nổi bật của anh em Camera Tinh tế" href="gallery/collections">Các bộ ảnh</a></li>
+	
+	
+		<li><a title="Khám phá các địa điểm phổ biến mà các thành viên của chúng ta thường đến chụp ảnh." href="gallery/locations">Địa điểm</a></li>
+	
+	
+		<li><a title="The most active cameras that are being used in gallery at Tinhte.vn" href="gallery/cameras">Thiết bị</a></li>
+	
+	<li><a title="The most active tags/keywords are being used at Tinhte.vn" href="gallery/tags">Tags Cloud</a></li>
+</ul>	
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab Appforo_Timeline ">
+												<a href="https://tinhte.vn/timeline/" class="navLink">Timeline</a>
+											</li>
+										
+									
+								
+									
+										
+											<li class="navTab resources ">
+								
+											<a href="https://tinhte.vn/resources/" class="navLink">Thư viện</a>
+											<a href="https://tinhte.vn/resources/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Tìm trong thư viện</a></li>
+	<li><a href="resources/authors">Thành viên năng động</a></li>
+	<li><a href="resources/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+											</div>
+										</li>
+										
+									
+								
+								
+
+
+								<!-- members -->
+								
+
+								<!-- extra tabs: end -->
+								
+								
+									
+										
+											<li class="navTab nodetab643 ">
+								
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="navLink">Rao vặt</a>
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/" target="_blank">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/" target="_blank">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/" target="_blank">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/" target="_blank">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/" target="_blank">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/" target="_blank">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/" target="_blank">Điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/" target="_blank">Mua bán sim, sim 3g</a></li>
+</ul>
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab nodetab673 ">
+												<a href="https://tinhte.vn/htcu/" class="navLink">#htcu</a>
+											</li>
+										
+									
+								
+								
+
+	
+
+<li class="navTab "><a href="/topic-center/" class="navLink">
+ <i class="fa fa-globe" aria-hidden="true"></i>Bài mới</a>
+</li>
+
+<li class="navTab "><a href="/dienthoai" class="navLink">
+ <i class="fa fa-tablet" aria-hidden="true"></i>Điện thoại</a>
+</li>
+
+<li class="navTab "><a href="/maytinh" class="navLink">
+ <i class="fa fa-laptop" aria-hidden="true"></i>Máy tính</a>
+</li>
+
+<li class="navTab "><a href="/camera" class="navLink">
+ <i class="fa fa-camera-retro" aria-hidden="true"></i>Camera</a>
+</li>
+
+<li class="navTab "><a href="/xe" class="navLink">
+ <i class="fa fa-motorcycle" aria-hidden="true"></i>Xe</a>
+</li>
+
+<li class="navTab "><a href="/khcn" class="navLink">
+ <i class="fa fa-battery-half" aria-hidden="true"></i>KHCN</a>
+</li>
+
+
+
+
+
+<li><br/></li>
+
+
+
+
+
+<li class="navTab "><a href="/account/following" class="navLink">
+ <i class="fa fa-users" aria-hidden="true"></i>Bạn bè</a>
+</li>
+
+<li class="navTab "><a href="/events" class="navLink">
+ <i class="fa fa-laptop" aria-hidden="true"></i>Sự kiện</a>
+</li>
+
+<li class="navTab "><a href="/account/" class="navLink">
+ <i class="fa fa-cog" aria-hidden="true"></i>Thiết lập</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+		</div>
+	
+</aside>
+			
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--right">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		
+			<div class="sidePanel sidePanel--login">
+				<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_login">Tên tài khoản hoặc Email:</label></dt>
+		<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="21" /></dd>
+	</dl>
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_password">Mật khẩu:</label></dt>
+		<dd>
+			<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="22" />
+			<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="26">Quên mật khẩu?</a></div>
+		</dd>
+	</dl>
+
+	
+
+	<dl class="ctrlUnit submitUnit">
+		<dd>
+			<input type="submit" class="button primary" value="Đăng nhập" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" tabindex="24" />
+			<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="23" /> Nhớ đăng nhập</label>
+		</dd>
+	</dl>
+
+	
+	<dl class="ctrlUnit fullWidth">
+	
+
+	
+		
+		<dt></dt>
+		<dd><a href="register/facebook?reg=1" class="fbLogin" tabindex="210"><span>Đăng nhập bằng Facebook</span></a></dd>
+	
+
+	
+
+	
+		
+		<dt></dt>
+		<dd><span class="googleLogin GoogleLogin JsOnly" tabindex="210" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=RCaa6oFOzL6xjfdk"><span>Đăng nhập bằng Google</span></span></dd>
+	
+
+	
+	</dl>
+	
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="_xfToken" value="" />
+	<input type="hidden" name="redirect" value="/maytinh/" />
+	
+
+</form>
+			</div>
+		
+	
+</aside>
+			
+
+			<div class="mainPanelWrapper">
+				<a href="#" class="js-panelMask uix_panelMask"></a>
+
+	
+
+	
+
+
+
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="uix_wrapper">
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+<header>
+	
+
+
+<div id="header">
+	
+
+	
+
+	
+
+	
+
+
+
+<div id="navigation" class="header__blockItem withSearch stickyTop">
+	<div class="sticky_wrapper">
+		<div class="uix_navigationWrapper">
+		
+			<div class="pageContent">
+				<nav>
+					<div class="navTabs">
+						
+						<div class="pageWidth">
+						
+
+							<ul class="publicTabs navLeft">
+
+							
+							<li id="logo_small">
+								<a href="https://tinhte.vn/">
+								
+									<img src="styles/uiflex/dimota/logo_small.png">
+								
+								</a>
+							</li>
+							
+
+							
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="navTab  navTab--panelTrigger navTab--navPanelTrigger PopupClosed">
+		<a class="navLink js-leftPanelTrigger" href="#">
+			<i class="uix_icon uix_icon-menu"></i><span class="trigger__phrase">Menu</span>
+		</a>
+	</li>
+
+
+
+							<!-- home -->
+							
+
+
+								<!-- extra tabs: home -->
+								
+
+
+								<!-- forums -->
+								
+									
+										<li class="navTab forums  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/forums/" class="navLink">Diễn đàn</a>
+											<a href="https://tinhte.vn/forums/" class="SplitCtrl" rel="Menu"></a>
+	
+											<div class="Menu JsOnly tabMenu forumsTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Diễn đàn</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+									
+													<ul class="secondaryContent blockLinksList">
+													
+														
+														<li><a href="search/">Tìm kiếm</a></li>
+														
+														
+
+	
+<li><a href="topic-center/">Bài mới</a></li>
+
+													
+													</ul>
+									
+													
+												
+									
+											</div>
+										</li>
+								
+								
+
+								<!-- extra tabs: middle -->
+								
+								
+									
+										
+										<li class="navTab sonnb_xengallery  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/gallery/" class="navLink">Gallery</a>
+											<a href="https://tinhte.vn/gallery/" class="SplitCtrl" rel="Menu"></a>
+											
+											<div class="Menu JsOnly tabMenu sonnb_xengalleryTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Gallery</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+		
+		
+			<li><a href="gallery/categories">Thể loại</a></li>
+		
+		<li><a title="Tìm theo thành viên" class="OverlayTrigger" href="gallery/explore-user">Tìm theo thành viên</a></li>
+		<li><a title="Album mới" href="gallery/new-albums">Album mới</a></li>
+		<li><a title="Ảnh mới" href="gallery/new-photos">Ảnh mới</a></li>
+		<li><a title="Video mới" href="gallery/new-videos">Video mới</a></li>
+		<li><a title="New Comments" href="gallery/new-comments">New Comments</a></li>
+	
+	
+		<li><a title="Hình ảnh nổi bật của anh em Camera Tinh tế" href="gallery/collections">Các bộ ảnh</a></li>
+	
+	
+		<li><a title="Khám phá các địa điểm phổ biến mà các thành viên của chúng ta thường đến chụp ảnh." href="gallery/locations">Địa điểm</a></li>
+	
+	
+		<li><a title="The most active cameras that are being used in gallery at Tinhte.vn" href="gallery/cameras">Thiết bị</a></li>
+	
+	<li><a title="The most active tags/keywords are being used at Tinhte.vn" href="gallery/tags">Tags Cloud</a></li>
+</ul>	
+													
+												
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab Appforo_Timeline PopupClosed">
+												<a href="https://tinhte.vn/timeline/" class="navLink">Timeline</a>
+												
+											</li>
+										
+									
+								
+									
+										
+										<li class="navTab resources  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/resources/" class="navLink">Thư viện</a>
+											<a href="https://tinhte.vn/resources/" class="SplitCtrl" rel="Menu"></a>
+											
+											<div class="Menu JsOnly tabMenu resourcesTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Thư viện</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Tìm trong thư viện</a></li>
+	<li><a href="resources/authors">Thành viên năng động</a></li>
+	<li><a href="resources/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+													
+												
+											</div>
+										</li>
+										
+									
+								
+								
+
+
+								<!-- members -->
+								
+
+								<!-- extra tabs: end -->
+								
+								
+									
+										
+											<li class="navTab nodetab643  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="navLink">Rao vặt</a>
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="SplitCtrl" rel="Menu"></a>
+	
+											<div class="Menu JsOnly tabMenu nodetab643TabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Rao vặt</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													<ul class="secondaryContent blockLinksList">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/" target="_blank">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/" target="_blank">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/" target="_blank">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/" target="_blank">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/" target="_blank">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/" target="_blank">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/" target="_blank">Điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/" target="_blank">Mua bán sim, sim 3g</a></li>
+</ul>
+													
+												
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab nodetab673 PopupClosed">
+												<a href="https://tinhte.vn/htcu/" class="navLink">#htcu</a>
+												
+											</li>
+										
+									
+								
+								
+
+								
+
+<!-- responsive popup -->
+								<li class="navTab navigationHiddenTabs navTab--justIcon Popup PopupControl PopupClosed" style="display:none">
+
+									<a rel="Menu" class="navLink NoPopupGadget uix_dropdownDesktopMenu"><i class="uix_icon uix_icon-navOverflow"></i><span class="uix_hide menuIcon">Menu</span></a>
+
+									<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+								</li>
+
+								
+
+								
+
+							</ul>
+
+
+							
+
+
+								<ul class="navRight visitorTabs">
+
+								
+
+									
+
+									
+
+									
+										
+									
+
+									
+										
+
+	<li class="navTab login Popup PopupControl PopupClosed">
+		
+			<a href="login/" class="navLink uix_dropdownDesktopMenu NoPopupGadget"rel="Menu">
+				
+				<strong class="loginText">Đăng nhập</strong>
+			</a>
+		
+
+		
+		<div class="Menu JsOnly tabMenu uix_fixIOSClick">
+			<div class="secondaryContent">
+				<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_login">Tên tài khoản hoặc Email:</label></dt>
+		<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="1" /></dd>
+	</dl>
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_password">Mật khẩu:</label></dt>
+		<dd>
+			<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="2" />
+			<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="6">Quên mật khẩu?</a></div>
+		</dd>
+	</dl>
+
+	
+
+	<dl class="ctrlUnit submitUnit">
+		<dd>
+			<input type="submit" class="button primary" value="Đăng nhập" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" tabindex="4" />
+			<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="3" /> Nhớ đăng nhập</label>
+		</dd>
+	</dl>
+
+	
+	<dl class="ctrlUnit fullWidth">
+	
+
+	
+		
+		<dt></dt>
+		<dd><a href="register/facebook?reg=1" class="fbLogin" tabindex="10"><span>Đăng nhập bằng Facebook</span></a></dd>
+	
+
+	
+
+	
+		
+		<dt></dt>
+		<dd><span class="googleLogin GoogleLogin JsOnly" tabindex="10" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=RCaa6oFOzL6xjfdk"><span>Đăng nhập bằng Google</span></span></dd>
+	
+
+	
+	</dl>
+	
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="_xfToken" value="" />
+	<input type="hidden" name="redirect" value="/maytinh/" />
+	
+
+</form>
+			</div>
+		</div>
+		
+
+	</li>
+
+	
+
+
+									
+
+									
+
+									
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+									
+										
+
+		<li class="navTab uix_searchTab">
+
+			
+
+<div id="searchBar" class="hasSearchButton">
+	
+	<i id="QuickSearchPlaceholder" class="uix_icon uix_icon-search" title="Tìm kiếm"></i>
+
+	
+
+
+	<fieldset id="QuickSearch">
+		<form action="search/search" method="post" class="formPopup">
+
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<i class="uix_icon uix_icon-search" onclick='$("#QuickSearch form").submit()'></i>
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Tìm kiếm..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />
+				<!-- end block: primaryControls -->
+			</div>
+
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Chì tìm tiêu đề</label></li>
+						</ul></dd>
+					</dl>
+
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Viết bởi thành viên:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Các tên cách nhau bởi dấu phẩy(,)</p>
+						</dd>
+					</dl>
+
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Mới hơn:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+
+					
+				</div>
+				<!-- end block: secondaryControls -->
+
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Tìm kiếm" class="button primary Tooltip" title="Tìm ngay" />
+						<a href="search/" class="button moreOptions Tooltip" title="Tìm kiếm nâng cao">Thêm...</a>
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Mục tìm hữu ích" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Mục tìm hữu ích</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Thảo luận mới</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+					</dd>
+				</dl>
+
+			</div>
+
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	</fieldset>
+	
+
+</div>
+		</li>
+
+
+									
+
+								
+
+								</ul>
+
+							
+
+							
+								
+
+	
+
+<div class="uix_minimalSearchWrapper">
+
+	<div id="uix_searchMinimal">
+		<form action="search/search" method="post">
+			<i id="uix_searchMinimalClose" class="uix_icon uix_icon-close"  title="Đóng"></i>
+			<i id="uix_searchMinimalOptions" class="uix_icon uix_icon-cog" title="Tùy chọn"></i>
+			<div id="uix_searchMinimalInput" >
+				<input type="search" name="keywords" value="" placeholder="Tìm kiếm..." results="0" />
+			</div>
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	</div>
+
+
+</div>
+
+
+
+
+							
+
+
+						</div>
+					</div>
+
+				<span class="helper"></span>
+
+				</nav>
+			</div>
+		
+		</div>
+	</div>
+</div>
+
+
+
+	
+</div>
+
+	
+	
+</header>
+
+
+	
+<div class="adWidget adWidget-gpt ad-17 slot-7" data-ad-id="17">
+			
+				
+				<div class="ad-set"><ins class="GptLoader" style="display:block;" data-ad-unit-path="/3823916/Tinhte_Desktop_Forum_Top" data-ad-size-width="728" data-ad-size-height="90"></ins><ins class="GptLoader" style="display:block;" data-ad-unit-path="/3823916/Tinhte_Top_Mobile_Banner" data-ad-size-width="320" data-ad-size-height="100"></ins></div>
+			
+		</div>
+
+
+
+
+
+
+
+<div id="content" class="category_view">
+
+
+
+
+	
+	<div class="pageWidth">
+		
+<div class="pageContent">
+	
+			<!-- main content area -->
+
+			
+
+			
+
+
+
+
+
+			
+
+			
+
+			
+
+
+	
+	
+	
+	
+	
+
+	
+
+
+	
+
+			
+				<div class="uix_contentFix">
+					<div class="mainContainer">
+
+			
+					
+<div class="mainContent">
+					
+						
+
+
+			
+						
+						
+						<div class="breadBoxTop  ">
+							
+							
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-618" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở di chuyển nhanh"><i class="uix_icon uix_icon-sitemap"></i><!--Chuyển đến...--></a>
+
+		<div class="boardTitle"><strong>Tinhte.vn</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://tinhte.vn/forums/" class="crumb" rel="up" itemprop="url"><span itemprop="title"><i class="uix_icon uix_icon-home" title="Diễn đàn"></i><span class="uix_breadcrumb__home__title">Diễn đàn</span></span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+
+			
+
+			
+		</span>
+	</fieldset>
+</nav>
+							
+						</div>
+						
+						
+			
+						
+
+
+			
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+
+						
+
+
+
+						
+						
+
+						
+
+						
+						
+							
+								<!-- h1 title, description -->
+								<div class="titleBar">
+									
+									<h1>Máy tính</h1>
+
+									<p id="pageDescription" class="muted baseHtml"><a href="find-new/threads?f=618">Thảo luận các loại máy tính, laptop, pc, macbook sử dụng các loại hệ điều hành Windows, Linux, Chrome OS, Mac OS X Bấm vào đây để xem các bài viết mới nhất.</a></p>
+
+
+<div class="TinhteMods_sharePage PAGE_CONTAINER">
+	
+	
+
+	<div class="sharePage">
+		<h3 class="textHeading larger">Chia sẻ</h3>
+		
+
+	
+			
+
+
+
+
+	
+	
+	
+
+	<div class="bdSocialShare social-likes">
+		
+			
+				<div class="facebook" title="Chia sẻ lên Facebook">
+					
+					<a href="https://tinhte.vn/misc/share/facebook" target="_blank">Facebook</a>
+				</div>
+			
+			
+			
+			
+				<div class="bdsocialshareaddthis" title="Print, email and bookmark with other services">
+					
+					<a href="http://www.addthis.com/bookmark.php?v=300&pub=dihuta&url=" target="_blank">Share</a>
+				</div>
+			
+		
+	</div>
+
+	
+
+
+
+
+			
+			
+			
+			
+		
+
+
+	</div>
+
+</div>
+
+								</div>
+							
+						
+						
+
+						
+
+						<!-- main template -->
+						
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<ol class="nodeList uix_nodeStyle_0 section">
+	
+		
+
+
+<li class="node category_forum level_2 node_6">
+
+	<div class="nodeInfo categoryForumNodeInfo  unread">
+
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-folder"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="categories/may-tinh-windows.6/" data-description="#nodeDescription-6">Máy tính Windows</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-6">Máy tính sử dụng HĐH Windows.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>111,167</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>1,154,026</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="categories/may-tinh-windows.6/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 4</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Máy tính Windows</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_23">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/win-tin-tuc-danh-gia.23/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Win] Tin tức - Đánh giá</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_57">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/win-phan-mem.57/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Win] Phần mềm</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_624">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/win-tro-choi.624/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Win] Trò chơi</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_201">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/win-hoi-dap-cskn.201/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Win] Hỏi đáp - CSKN</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442368/" title="Asphalt 8: Airborne Thảo luận, chia sẻ kinh nghiệm chơi nào :)">Asphalt 8: Airborne Thảo luận, chia sẻ kinh nghiệm chơi nào :)</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/bao-nhi-vo.2111133/" class="username" dir="auto">Bao Nhi Vo</a>,</span>
+					
+						<a href="posts/49442368/" title="Asphalt 8: Airborne Thảo luận, chia sẻ kinh nghiệm chơi nào :)"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489799990" data-diff="475" data-datestring="18/3/17" data-timestring="08:19">08:19 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+	</div>
+
+</li>
+	
+		
+
+
+<li class="node category_forum level_2 node_195">
+
+	<div class="nodeInfo categoryForumNodeInfo  unread">
+
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-folder"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="categories/may-tinh-apple-mac-os-x.195/" data-description="#nodeDescription-195">Máy tính Apple - Mac OS X</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-195">Máy tính, Laptop sử dụng hệ điều hành Mac OS X.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>32,845</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>355,873</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="categories/may-tinh-apple-mac-os-x.195/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 6</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Máy tính Apple - Mac OS X</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_196">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/mac-tin-tuc-danh-gia.196/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Mac] Tin tức  - Đánh giá</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_622">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/mac-phan-mem.622/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Mac] Phần mềm</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_625">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/mac-tro-choi.625/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Mac] Trò chơi</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_27">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/mac-hoi-dap-cskn.27/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Mac] Hỏi đáp - CSKN</a></h4>
+	</div>
+	
+		<ol>
+			
+				<li class="node forum level-n node_314">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/mac-cam-nang-mac-os.314/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Mac] Cẩm nang Mac OS</a></h4>
+	</div>
+	
+</li>
+			
+				<li class="node forum level-n node_361">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/mac-chuyen-de-hackintosh.361/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		[Mac] Chuyên đề Hackintosh</a></h4>
+	</div>
+	
+</li>
+			
+		</ol>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442297/" title="hỏi về SSD của macbook pro 2015">hỏi về SSD của macbook pro 2015</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/aiantam.922028/" class="username" dir="auto">aiantam</a>,</span>
+					
+						<a href="posts/49442297/" title="hỏi về SSD của macbook pro 2015"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489798463" data-diff="2002" data-datestring="18/3/17" data-timestring="07:54">07:54 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+	</div>
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_79">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/may-tinh-linux.79/" data-description="#nodeDescription-79">Máy tính Linux</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-79">Máy tính, Laptop dùng hệ điều hành Linux</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>1,965</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>25,595</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49438548/" title="ubuntu song song win10">ubuntu song song win10</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/alex-walker.1838971/" class="username" dir="auto">Alex Walker</a>,</span>
+					
+						<a href="posts/49438548/" title="ubuntu song song win10"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489720506" data-diff="79959" data-datestring="17/3/17" data-timestring="10:15">10:15 ngày 17/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/may-tinh-linux.79/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_402">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/may-tinh-chrome-os.402/" data-description="#nodeDescription-402">Máy tính Chrome OS</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-402">Máy tính, Laptop, Chrome Book, Chrome Box,... sử dụng hệ điều hành Chrome OS từ Google.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>293</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>9,227</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49370949/" title="Google sẽ không sản xuất MTXT Pixel trong tương lai gần">Google sẽ không sản xuất MTXT Pixel trong tương lai gần</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/hung-dung-1988.1927618/" class="username" dir="auto">Hùng Dũng 1988</a>,</span>
+					
+						<a href="posts/49370949/" title="Google sẽ không sản xuất MTXT Pixel trong tương lai gần"><span class="DateTime muted lastThreadDate" data-latest="Mới nhất: " title="21:21 ngày 1/3/17">1/3/17</span></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/may-tinh-chrome-os.402/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_199">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/tu-van-chon-mua-may-tinh.199/" data-description="#nodeDescription-199">Tư vấn chọn mua Máy tính</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-199">Hỏi đáp, tư vấn chọn mua Máy tính Windows, Mac, Linux, Chrome OS</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>47,029</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>625,873</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442382/" title="tư vấn mua laptop tầm 14củ">tư vấn mua laptop tầm 14củ</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/phuongnam110.1590165/" class="username" dir="auto">phuongnam110</a>,</span>
+					
+						<a href="posts/49442382/" title="tư vấn mua laptop tầm 14củ"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489800208" data-diff="257" data-datestring="18/3/17" data-timestring="08:23">08:23 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/tu-van-chon-mua-may-tinh.199/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_64">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/anh-nen-wallpaper.64/" data-description="#nodeDescription-64">Ảnh nền (Wallpaper)</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-64">Ảnh nền đẹp và hợp pháp.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>1,351</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>13,923</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49433562/" title="Ảnh girl xinh: Vietnamese part1">Ảnh girl xinh: Vietnamese part1</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/ngochai123.1210333/" class="username" dir="auto">ngochai123</a>,</span>
+					
+						<a href="posts/49433562/" title="Ảnh girl xinh: Vietnamese part1"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489597850" data-diff="202615" data-datestring="16/3/17" data-timestring="00:10">00:10 ngày 16/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/anh-nen-wallpaper.64/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+	</ol>
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-container act-as-sidebar sidebar widget-single">
+	<div class="secondaryContent widget hook-widget Tinhte_XenTag_WidgetRenderer_TrendingThreadTags" id="widget-87">
+		<h3>
+			
+				Chuyên mục quan tâm
+			
+		</h3>
+		<ul class="tagCloud">
+	
+		<li><a href="tags/vuive9569/" class="tagCloudTag tagCloudTag7">vuive9569</a></li>
+	
+		<li><a href="tags/mwc17/" class="tagCloudTag tagCloudTag5">mwc17</a></li>
+	
+		<li><a href="tags/lg-2017/" class="tagCloudTag tagCloudTag4">lg 2017</a></li>
+	
+		<li><a href="tags/amd-ryzen/" class="tagCloudTag tagCloudTag3">amd ryzen</a></li>
+	
+		<li><a href="tags/ryzen-7/" class="tagCloudTag tagCloudTag3">ryzen 7</a></li>
+	
+		<li><a href="tags/asus-gl553/" class="tagCloudTag tagCloudTag2">asus gl553</a></li>
+	
+		<li><a href="tags/drivermax-918/" class="tagCloudTag tagCloudTag2">drivermax</a></li>
+	
+		<li><a href="tags/malware-hunter/" class="tagCloudTag tagCloudTag2">malware hunter</a></li>
+	
+		<li><a href="tags/dell-xps-13-2-trong-1/" class="tagCloudTag tagCloudTag1">dell xps 13 2 trong 1</a></li>
+	
+		<li><a href="tags/core-i7-7700/" class="tagCloudTag tagCloudTag1">core i7-7700</a></li>
+	
+		<li><a href="tags/licensed/" class="tagCloudTag tagCloudTag1">licensed</a></li>
+	
+		<li><a href="tags/levanchagl/" class="tagCloudTag tagCloudTag1">levanchagl</a></li>
+	
+		<li><a href="tags/ttbc16/" class="tagCloudTag tagCloudTag1">ttbc16</a></li>
+	
+		<li><a href="tags/gl553/" class="tagCloudTag tagCloudTag1">gl553</a></li>
+	
+		<li><a href="tags/ryzen-7-1800x/" class="tagCloudTag tagCloudTag1">ryzen 7 1800x</a></li>
+	
+		<li><a href="tags/z270/" class="tagCloudTag tagCloudTag1">z270</a></li>
+	
+		<li><a href="tags/chon-mua-man-hinh-may-tinh/" class="tagCloudTag tagCloudTag1">chọn mua màn hình máy tính</a></li>
+	
+		<li><a href="tags/tinhte-binh-chon-2016/" class="tagCloudTag tagCloudTag1">tinhte binh chon</a></li>
+	
+		<li><a href="tags/laptop-choi-game-tam-trung/" class="tagCloudTag tagCloudTag1">laptop chơi game tầm trung</a></li>
+	
+		<li><a href="tags/asus-zenbook-ux410ua/" class="tagCloudTag tagCloudTag1">asus zenbook ux410ua</a></li>
+	
+		<li><a href="tags/modding-case/" class="tagCloudTag tagCloudTag1">modding case</a></li>
+	
+		<li><a href="tags/drivermax-916071/" class="tagCloudTag tagCloudTag1">drivermax 9.16.0.71</a></li>
+	
+		<li><a href="tags/mua-laptop-sony-gia-re/" class="tagCloudTag tagCloudTag1">mua laptop sony gia re</a></li>
+	
+		<li><a href="tags/uniblue-powersuite-2017/" class="tagCloudTag tagCloudTag1">uniblue powersuite 2017</a></li>
+	
+		<li><a href="tags/acer-aspire-vx5-591g-52yz/" class="tagCloudTag tagCloudTag1">acer aspire vx5-591g-52yz</a></li>
+	
+		<li><a href="tags/samsung-galaxy-book/" class="tagCloudTag tagCloudTag1">samsung galaxy book</a></li>
+	
+		<li><a href="tags/cap-nhat-windows-10-creators/" class="tagCloudTag tagCloudTag1">cập nhật windows 10 creators</a></li>
+	
+		<li><a href="tags/1-link/" class="tagCloudTag tagCloudTag1">1 link</a></li>
+	
+		<li><a href="tags/pin-laptop-mau-het/" class="tagCloudTag tagCloudTag1">pin laptop mau hết</a></li>
+	
+		<li><a href="tags/cua-hang-ban-laptop-sony-vaio-uy-tin-tphmc/" class="tagCloudTag tagCloudTag1">cua hang ban laptop sony vaio uy tin tphmc</a></li>
+	
+	</ul>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+						
+
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Đăng nhập bằng Facebook</span></a></li>
+				
+				
+				
+				
+				
+					
+					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=RCaa6oFOzL6xjfdk"><span>Đăng nhập bằng Google</span></span></li>
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Tên tài khoản hoặc Email:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Bạn đã có tài khoản?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						Chưa, tôi tạo tài khoản mới.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Có, mật khẩu của tôi là:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Quên mật khẩu?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Đăng nhập" tabindex="104" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Nhớ đăng nhập</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/maytinh/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+						
+						
+						
+			
+						
+
+	<div class="section funbox">
+	<div class="funboxWrapper">
+	
+
+		
+			
+				<div class="adWidget adWidget-adsense ad-9 slot-8" data-ad-id="9">
+			
+				
+				<ins class="adsbygoogle AdSenseLoader" style="display:block;" data-ad-client="ca-pub-4328742155432872" data-ad-slot="7560252252" data-ad-format="auto"></ins>
+			
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+			
+		
+
+	
+	</div>
+	</div>
+
+					</div>
+			
+
+					</div>
+
+					<!-- sidebar -->
+					<aside class="uix_mainSidebar">
+						<div class="inner_wrapper">
+							<div class="sidebar">
+								
+								
+								
+
+<div class="section loginButton">
+	<div class="secondaryContent">
+		<label id="SignupButton"><a href="register/" class="inner">Đăng ký thành viên</a></label>
+	</div>
+</div>
+
+
+
+
+
+
+								<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget Tinhte_UserThreadPromotion_WidgetRenderer_Threads" id="widget-86">
+		<h3>
+			
+				Bài đề cử
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2685571 thread-node-23">
+			<a href="threads/microsoft-khoa-tinh-nang-cap-nhat-ban-va-cua-windows-7-va-8-1-voi-pc-kaby-lake-va-ryzen.2685571/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/7e/ac9177620a5ce6688d9f41743db886e6.jpg?2666" alt="Microsoft khoá tính năng cập nhật bản vá của Windows 7 và 8.1 với PC Kaby Lake và Ryzen"></a>
+
+			<a href="threads/microsoft-khoa-tinh-nang-cap-nhat-ban-va-cua-windows-7-va-8-1-voi-pc-kaby-lake-va-ryzen.2685571/" class="title">Microsoft khoá tính năng cập nhật bản vá của Windows 7 và 8.1 với PC Kaby Lake và Ryzen</a>
+		</li>
+		
+		<li class="thread-2685435 thread-node-118">
+			<a href="threads/colorware-ban-gioi-han-iphone-7-plus-retro-edition-son-kin-lung-mau-sac-cua-may-mac-1980-gia-1899.2685435/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/08/612ef61052e8b0318a89529784a69ba3.jpg?1546" alt="ColorWare bán giới hạn iPhone 7 Plus Retro Edition, sơn kín lưng màu sắc của máy Mac 1980, giá $1899"></a>
+
+			<a href="threads/colorware-ban-gioi-han-iphone-7-plus-retro-edition-son-kin-lung-mau-sac-cua-may-mac-1980-gia-1899.2685435/" class="title">ColorWare bán giới hạn iPhone 7 Plus Retro Edition, sơn kín lưng màu sắc của máy Mac 1980, giá $1899</a>
+		</li>
+		
+		<li class="thread-2685434 thread-node-23">
+			<a href="threads/microsoft-surface-book-2-se-theo-loi-thiet-ke-gap-cua-laptop-truyen-thong-ra-mat-thang-4-re-hon.2685434/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/3c/35c6058da48474f26f397b31856a3ba6.jpg?5287" alt="Microsoft Surface Book 2 sẽ theo lối thiết kế gập của laptop truyền thống, ra mắt tháng 4, rẻ hơn?"></a>
+
+			<a href="threads/microsoft-surface-book-2-se-theo-loi-thiet-ke-gap-cua-laptop-truyen-thong-ra-mat-thang-4-re-hon.2685434/" class="title">Microsoft Surface Book 2 sẽ theo lối thiết kế gập của laptop truyền thống, ra mắt tháng 4, rẻ hơn?</a>
+		</li>
+		
+		<li class="thread-2685038 thread-node-23">
+			<a href="threads/corsair-gioi-thieu-loat-linh-kien-va-phu-kien-may-tinh-2017-danh-cho-game-thu-viet-nam.2685038/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ef/370d378b36285e0760e18c00a8a5b41b.jpg?6878" alt="Corsair giới thiệu loạt linh kiện và phụ kiện máy tính 2017 dành cho game thủ Việt Nam"></a>
+
+			<a href="threads/corsair-gioi-thieu-loat-linh-kien-va-phu-kien-may-tinh-2017-danh-cho-game-thu-viet-nam.2685038/" class="title">Corsair giới thiệu loạt linh kiện và phụ kiện máy tính 2017 dành cho game thủ Việt Nam</a>
+		</li>
+		
+		<li class="thread-2684537 thread-node-23">
+			<a href="threads/amd-ryzen-7-co-chip-duoc-han-vao-phan-tan-nhiet-tich-hop-toi-uu-kha-nang-ep-xung.2684537/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/56/a7022fd8c7cc1ccd70566ff6f2ae5cd2.jpg?5366" alt="AMD Ryzen 7 có chip được hàn vào phần tán nhiệt tích hợp, tối ưu khả năng ép xung"></a>
+
+			<a href="threads/amd-ryzen-7-co-chip-duoc-han-vao-phan-tan-nhiet-tich-hop-toi-uu-kha-nang-ep-xung.2684537/" class="title">AMD Ryzen 7 có chip được hàn vào phần tán nhiệt tích hợp, tối ưu khả năng ép xung</a>
+		</li>
+		
+		<li class="thread-2684500 thread-node-23">
+			<a href="threads/danh-gia-card-man-hinh-gigabyte-aorus-gtx-1080-xtreme-edition-card-khung-gia-tot-thoi-hau-1080-ti.2684500/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/de/869603cf74cc0014e3cf614ae64eb002.jpg?6642" alt="Đánh giá card màn hình GIGABYTE AORUS GTX 1080 XTREME Edition: Card khủng giá tốt thời hậu 1080 Ti"></a>
+
+			<a href="threads/danh-gia-card-man-hinh-gigabyte-aorus-gtx-1080-xtreme-edition-card-khung-gia-tot-thoi-hau-1080-ti.2684500/" class="title">Đánh giá card màn hình GIGABYTE AORUS GTX 1080 XTREME Edition: Card khủng giá tốt thời hậu 1080 Ti</a>
+		</li>
+		
+		<li class="thread-2684435 thread-node-23">
+			<a href="threads/microsoft-cung-co-chuc-nang-chay-app-windows-10-ma-khong-can-cai-dat.2684435/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/14/4f1130b2ac42c9f95ff692ec8fd051ac.jpg?6544" alt="Microsoft cũng có chức năng chạy app Windows 10 mà không cần cài đặt"></a>
+
+			<a href="threads/microsoft-cung-co-chuc-nang-chay-app-windows-10-ma-khong-can-cai-dat.2684435/" class="title">Microsoft cũng có chức năng chạy app Windows 10 mà không cần cài đặt</a>
+		</li>
+		
+		<li class="thread-2680977 thread-node-27">
+			<a href="threads/thu-thuat-co-the-ban-chua-biet-tren-preview-mo-pdf-word-anh-raw-doi-dinh-dang-exif-tach-nen.2680977/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/5d/58aff094e1be4951386008055443f268.jpg?6451" alt="Thủ thuật có thể bạn chưa biết trên Preview: mở PDF, Word, ảnh RAW, đổi định dạng, EXIF, tách nền"></a>
+
+			<a href="threads/thu-thuat-co-the-ban-chua-biet-tren-preview-mo-pdf-word-anh-raw-doi-dinh-dang-exif-tach-nen.2680977/" class="title">Thủ thuật có thể bạn chưa biết trên Preview: mở PDF, Word, ảnh RAW, đổi định dạng, EXIF, tách nền</a>
+		</li>
+		
+		<li class="thread-2683994 thread-node-23">
+			<a href="threads/amd-tung-naples-cho-thi-truong-may-chu-32-nhan-64-luong-128-pcie-lane-8-kenh-ram.2683994/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/97/cb57233cc110c07287e274077c548b89.jpg?2109" alt="AMD tung Naples cho thị trường máy chủ: 32 nhân, 64 luồng, 128 PCIe lane, 8 kênh RAM"></a>
+
+			<a href="threads/amd-tung-naples-cho-thi-truong-may-chu-32-nhan-64-luong-128-pcie-lane-8-kenh-ram.2683994/" class="title">AMD tung Naples cho thị trường máy chủ: 32 nhân, 64 luồng, 128 PCIe lane, 8 kênh RAM</a>
+		</li>
+		
+		<li class="thread-2683799 thread-node-23">
+			<a href="threads/tren-tay-nvidia-geforce-gtx-1080-ti-manh-tuong-duong-nhung-gia-chi-phan-nua-titan-x.2683799/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/a0/f2a84ec9b757bd9a5271124be0a115f7.jpg?5254" alt="[Trên tay] Nvidia GeForce GTX 1080 Ti – Mạnh tương đương nhưng giá chỉ phân nửa Titan X"></a>
+
+			<a href="threads/tren-tay-nvidia-geforce-gtx-1080-ti-manh-tuong-duong-nhung-gia-chi-phan-nua-titan-x.2683799/" class="title">[Trên tay] Nvidia GeForce GTX 1080 Ti – Mạnh tương đương nhưng giá chỉ phân nửa Titan X</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-84">
+		<h3>
+			
+				Bài quan tâm
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2685571 thread-node-23">
+			<a href="threads/microsoft-khoa-tinh-nang-cap-nhat-ban-va-cua-windows-7-va-8-1-voi-pc-kaby-lake-va-ryzen.2685571/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/7e/ac9177620a5ce6688d9f41743db886e6.jpg?2666" alt="Microsoft khoá tính năng cập nhật bản vá của Windows 7 và 8.1 với PC Kaby Lake và Ryzen"></a>
+
+			<a href="threads/microsoft-khoa-tinh-nang-cap-nhat-ban-va-cua-windows-7-va-8-1-voi-pc-kaby-lake-va-ryzen.2685571/" class="title">Microsoft khoá tính năng cập nhật bản vá của Windows 7 và 8.1 với PC Kaby Lake và Ryzen</a>
+		</li>
+		
+		<li class="thread-2685434 thread-node-23">
+			<a href="threads/microsoft-surface-book-2-se-theo-loi-thiet-ke-gap-cua-laptop-truyen-thong-ra-mat-thang-4-re-hon.2685434/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/3c/35c6058da48474f26f397b31856a3ba6.jpg?5287" alt="Microsoft Surface Book 2 sẽ theo lối thiết kế gập của laptop truyền thống, ra mắt tháng 4, rẻ hơn?"></a>
+
+			<a href="threads/microsoft-surface-book-2-se-theo-loi-thiet-ke-gap-cua-laptop-truyen-thong-ra-mat-thang-4-re-hon.2685434/" class="title">Microsoft Surface Book 2 sẽ theo lối thiết kế gập của laptop truyền thống, ra mắt tháng 4, rẻ hơn?</a>
+		</li>
+		
+		<li class="thread-2684537 thread-node-23">
+			<a href="threads/amd-ryzen-7-co-chip-duoc-han-vao-phan-tan-nhiet-tich-hop-toi-uu-kha-nang-ep-xung.2684537/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/56/a7022fd8c7cc1ccd70566ff6f2ae5cd2.jpg?5366" alt="AMD Ryzen 7 có chip được hàn vào phần tán nhiệt tích hợp, tối ưu khả năng ép xung"></a>
+
+			<a href="threads/amd-ryzen-7-co-chip-duoc-han-vao-phan-tan-nhiet-tich-hop-toi-uu-kha-nang-ep-xung.2684537/" class="title">AMD Ryzen 7 có chip được hàn vào phần tán nhiệt tích hợp, tối ưu khả năng ép xung</a>
+		</li>
+		
+		<li class="thread-2685335 thread-node-622">
+			<a href="threads/parallels-desktop-lite-mien-phi-neu-cai-may-ao-ubuntu-linux-chromeos-hoac-mac.2685335/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/f5/569f3a0cf137ea6188984d6718e5bf7e.jpg?1502" alt="Parallels Desktop Lite: Miễn phí nếu cài máy ảo Ubuntu, Linux, ChromeOS hoặc Mac"></a>
+
+			<a href="threads/parallels-desktop-lite-mien-phi-neu-cai-may-ao-ubuntu-linux-chromeos-hoac-mac.2685335/" class="title">Parallels Desktop Lite: Miễn phí nếu cài máy ảo Ubuntu, Linux, ChromeOS hoặc Mac</a>
+		</li>
+		
+		<li class="thread-2685038 thread-node-23">
+			<a href="threads/corsair-gioi-thieu-loat-linh-kien-va-phu-kien-may-tinh-2017-danh-cho-game-thu-viet-nam.2685038/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ef/370d378b36285e0760e18c00a8a5b41b.jpg?6878" alt="Corsair giới thiệu loạt linh kiện và phụ kiện máy tính 2017 dành cho game thủ Việt Nam"></a>
+
+			<a href="threads/corsair-gioi-thieu-loat-linh-kien-va-phu-kien-may-tinh-2017-danh-cho-game-thu-viet-nam.2685038/" class="title">Corsair giới thiệu loạt linh kiện và phụ kiện máy tính 2017 dành cho game thủ Việt Nam</a>
+		</li>
+		
+		<li class="thread-2685292 thread-node-199">
+			<a href="threads/nho-tu-van-laptop-20-trieu.2685292/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/85/4482c5a7e044d908fbda25011b94174d.jpg?2365" alt="[Nhờ tư vấn] Laptop 20 triệu"></a>
+
+			<a href="threads/nho-tu-van-laptop-20-trieu.2685292/" class="title">[Nhờ tư vấn] Laptop 20 triệu</a>
+		</li>
+		
+		<li class="thread-2684435 thread-node-23">
+			<a href="threads/microsoft-cung-co-chuc-nang-chay-app-windows-10-ma-khong-can-cai-dat.2684435/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/14/4f1130b2ac42c9f95ff692ec8fd051ac.jpg?6544" alt="Microsoft cũng có chức năng chạy app Windows 10 mà không cần cài đặt"></a>
+
+			<a href="threads/microsoft-cung-co-chuc-nang-chay-app-windows-10-ma-khong-can-cai-dat.2684435/" class="title">Microsoft cũng có chức năng chạy app Windows 10 mà không cần cài đặt</a>
+		</li>
+		
+		<li class="thread-2684846 thread-node-199">
+			<a href="threads/khoang-23tr-co-laptop-nao-tot.2684846/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/92/95a522729713961e2bab2bbd8aa06fc5.png?4901" alt="Khoảng 23tr có laptop nào tốt?"></a>
+
+			<a href="threads/khoang-23tr-co-laptop-nao-tot.2684846/" class="title">Khoảng 23tr có laptop nào tốt?</a>
+		</li>
+		
+		<li class="thread-2685134 thread-node-199">
+			<a href="threads/nho-tu-van-laptop-dung-cho-do-hoa-tam-20-23-tr.2685134/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/3c/c80ab10f874aa9a02f83f50ec3bea0f3.jpg?1174" alt="[Nhờ tư vấn] laptop dùng cho đồ họa tầm 20~23 tr"></a>
+
+			<a href="threads/nho-tu-van-laptop-dung-cho-do-hoa-tam-20-23-tr.2685134/" class="title">[Nhờ tư vấn] laptop dùng cho đồ họa tầm 20~23 tr</a>
+		</li>
+		
+		<li class="thread-2684500 thread-node-23">
+			<a href="threads/danh-gia-card-man-hinh-gigabyte-aorus-gtx-1080-xtreme-edition-card-khung-gia-tot-thoi-hau-1080-ti.2684500/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/de/869603cf74cc0014e3cf614ae64eb002.jpg?6642" alt="Đánh giá card màn hình GIGABYTE AORUS GTX 1080 XTREME Edition: Card khủng giá tốt thời hậu 1080 Ti"></a>
+
+			<a href="threads/danh-gia-card-man-hinh-gigabyte-aorus-gtx-1080-xtreme-edition-card-khung-gia-tot-thoi-hau-1080-ti.2684500/" class="title">Đánh giá card màn hình GIGABYTE AORUS GTX 1080 XTREME Edition: Card khủng giá tốt thời hậu 1080 Ti</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-96">
+		<h3>
+			
+				Bài viết quan tâm
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2681923 thread-node-23">
+			<a href="threads/tren-tay-samsung-galaxy-book-mang-android-len-windows.2681923/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/18/e5e61735140078056696d17d670c95e0.jpg?5897" alt="Trên tay Samsung Galaxy Book: mang Android lên Windows"></a>
+
+			<a href="threads/tren-tay-samsung-galaxy-book-mang-android-len-windows.2681923/" class="title">Trên tay Samsung Galaxy Book: mang Android lên Windows</a>
+		</li>
+		
+		<li class="thread-2681910 thread-node-23">
+			<a href="threads/so-gang-laptop-14-nho-gon-cau-hinh-van-phong-tam-gia-17-trieu.2681910/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ec/7bc360728af9d9424862dc7fe0c448f7.jpg?1934" alt="[So găng] Laptop 14&quot;, nhỏ gọn, cấu hình văn phòng, tầm giá 17 triệu"></a>
+
+			<a href="threads/so-gang-laptop-14-nho-gon-cau-hinh-van-phong-tam-gia-17-trieu.2681910/" class="title">[So găng] Laptop 14&quot;, nhỏ gọn, cấu hình văn phòng, tầm giá 17 triệu</a>
+		</li>
+		
+		<li class="thread-2682551 thread-node-23">
+			<a href="threads/danh-gia-cpu-ryzen-7-1800x-cuoc-choi-lon-cua-amd.2682551/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/dc/1615fe1b7e7fba46477701d47307bc1e.jpg?5328" alt="Đánh giá CPU Ryzen 7 1800X – Cuộc chơi lớn của AMD"></a>
+
+			<a href="threads/danh-gia-cpu-ryzen-7-1800x-cuoc-choi-lon-cua-amd.2682551/" class="title">Đánh giá CPU Ryzen 7 1800X – Cuộc chơi lớn của AMD</a>
+		</li>
+		
+		<li class="thread-2679156 thread-node-196">
+			<a href="threads/hoi-tinh-te-co-that-la-may-mac-khong-bi-virus-co-nen-dung-phan-mem-chong-virus-cho-macos.2679156/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ab/1e7bc962f0e0a5a3d3854e317cfb6a88.jpg?6002" alt="[Hỏi Tinh tế] Có thật là máy Mac không bị virus? Có nên dùng phần mềm chống virus cho macOS?"></a>
+
+			<a href="threads/hoi-tinh-te-co-that-la-may-mac-khong-bi-virus-co-nen-dung-phan-mem-chong-virus-cho-macos.2679156/" class="title">[Hỏi Tinh tế] Có thật là máy Mac không bị virus? Có nên dùng phần mềm chống virus cho macOS?</a>
+		</li>
+		
+		<li class="thread-2681082 thread-node-201">
+			<a href="threads/hoi-tinh-te-anh-em-co-hay-thao-pin-laptop-khi-xai-may-khong.2681082/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/9e/ad342628e5523a284c7667dd7d490eba.jpg?5463" alt="[Hỏi Tinh Tế] Anh em có hay tháo pin laptop khi xài máy không?"></a>
+
+			<a href="threads/hoi-tinh-te-anh-em-co-hay-thao-pin-laptop-khi-xai-may-khong.2681082/" class="title">[Hỏi Tinh Tế] Anh em có hay tháo pin laptop khi xài máy không?</a>
+		</li>
+		
+		<li class="thread-2680570 thread-node-23">
+			<a href="threads/amd-chinh-thuc-cong-bo-ryzen-voi-3-dong-ryzen-3-5-7-deu-da-nhan-xung-cao-tiet-kiem-dien-gia-mem.2680570/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/63/27280b3be2163d83532d382bb75182d3.jpg?2546" alt="AMD chính thức công bố Ryzen với 3 dòng Ryzen 3/5/7 đều đa nhân, xung cao, tiết kiệm điện, giá mềm"></a>
+
+			<a href="threads/amd-chinh-thuc-cong-bo-ryzen-voi-3-dong-ryzen-3-5-7-deu-da-nhan-xung-cao-tiet-kiem-dien-gia-mem.2680570/" class="title">AMD chính thức công bố Ryzen với 3 dòng Ryzen 3/5/7 đều đa nhân, xung cao, tiết kiệm điện, giá mềm</a>
+		</li>
+		
+		<li class="thread-2683241 thread-node-23">
+			<a href="threads/tren-tay-man-hinh-philips-cong-32-inch-fullhd-thiet-ke-hien-dai-chat-luong-tuong-doi.2683241/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/2e/c4161bdb8b780fb5c739ab9bf876e995.jpg?6246" alt="Trên tay màn hình Philips cong 32 inch, FullHD, thiết kế hiện đại, chất lượng tương đối"></a>
+
+			<a href="threads/tren-tay-man-hinh-philips-cong-32-inch-fullhd-thiet-ke-hien-dai-chat-luong-tuong-doi.2683241/" class="title">Trên tay màn hình Philips cong 32 inch, FullHD, thiết kế hiện đại, chất lượng tương đối</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-120">
+		<h3>
+			
+				Trên tay
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2683799 thread-node-23">
+			<a href="threads/tren-tay-nvidia-geforce-gtx-1080-ti-manh-tuong-duong-nhung-gia-chi-phan-nua-titan-x.2683799/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/a0/f2a84ec9b757bd9a5271124be0a115f7.jpg?5254" alt="[Trên tay] Nvidia GeForce GTX 1080 Ti – Mạnh tương đương nhưng giá chỉ phân nửa Titan X"></a>
+
+			<a href="threads/tren-tay-nvidia-geforce-gtx-1080-ti-manh-tuong-duong-nhung-gia-chi-phan-nua-titan-x.2683799/" class="title">[Trên tay] Nvidia GeForce GTX 1080 Ti – Mạnh tương đương nhưng giá chỉ phân nửa Titan X</a>
+		</li>
+		
+		<li class="thread-2683241 thread-node-23">
+			<a href="threads/tren-tay-man-hinh-philips-cong-32-inch-fullhd-thiet-ke-hien-dai-chat-luong-tuong-doi.2683241/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/2e/c4161bdb8b780fb5c739ab9bf876e995.jpg?6246" alt="Trên tay màn hình Philips cong 32 inch, FullHD, thiết kế hiện đại, chất lượng tương đối"></a>
+
+			<a href="threads/tren-tay-man-hinh-philips-cong-32-inch-fullhd-thiet-ke-hien-dai-chat-luong-tuong-doi.2683241/" class="title">Trên tay màn hình Philips cong 32 inch, FullHD, thiết kế hiện đại, chất lượng tương đối</a>
+		</li>
+		
+		<li class="thread-2682551 thread-node-23">
+			<a href="threads/danh-gia-cpu-ryzen-7-1800x-cuoc-choi-lon-cua-amd.2682551/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/dc/1615fe1b7e7fba46477701d47307bc1e.jpg?5328" alt="Đánh giá CPU Ryzen 7 1800X – Cuộc chơi lớn của AMD"></a>
+
+			<a href="threads/danh-gia-cpu-ryzen-7-1800x-cuoc-choi-lon-cua-amd.2682551/" class="title">Đánh giá CPU Ryzen 7 1800X – Cuộc chơi lớn của AMD</a>
+		</li>
+		
+		<li class="thread-2681923 thread-node-23">
+			<a href="threads/tren-tay-samsung-galaxy-book-mang-android-len-windows.2681923/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/18/e5e61735140078056696d17d670c95e0.jpg?5897" alt="Trên tay Samsung Galaxy Book: mang Android lên Windows"></a>
+
+			<a href="threads/tren-tay-samsung-galaxy-book-mang-android-len-windows.2681923/" class="title">Trên tay Samsung Galaxy Book: mang Android lên Windows</a>
+		</li>
+		
+		<li class="thread-2678149 thread-node-23">
+			<a href="threads/tren-tay-hp-envy-13-ab010tu-thiet-ke-tinh-te-mong-nhe-dung-chip-kaby-lake.2678149/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ad/3067214aec5de69b2c0fae1498038317.jpg?4512" alt="Trên tay HP Envy 13-ab010TU – Thiết kế tinh tế, mỏng nhẹ, dùng chip Kaby Lake"></a>
+
+			<a href="threads/tren-tay-hp-envy-13-ab010tu-thiet-ke-tinh-te-mong-nhe-dung-chip-kaby-lake.2678149/" class="title">Trên tay HP Envy 13-ab010TU – Thiết kế tinh tế, mỏng nhẹ, dùng chip Kaby Lake</a>
+		</li>
+		
+		<li class="thread-2672707 thread-node-23">
+			<a href="threads/tren-tay-msi-gs73vr-stealth-pro-va-thu-nghiem-he-thong-tan-nhiet-cooler-boost-trinity.2672707/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/bb/32667065039883461443c6e9b8bd55c5.jpg?5665" alt="Trên tay MSI GS73VR Stealth Pro và thử nghiệm hệ thống tản nhiệt Cooler Boost Trinity"></a>
+
+			<a href="threads/tren-tay-msi-gs73vr-stealth-pro-va-thu-nghiem-he-thong-tan-nhiet-cooler-boost-trinity.2672707/" class="title">Trên tay MSI GS73VR Stealth Pro và thử nghiệm hệ thống tản nhiệt Cooler Boost Trinity</a>
+		</li>
+		
+		<li class="thread-2671956 thread-node-23">
+			<a href="threads/tren-tay-razer-blade-pro-2016-ban-phim-co-chroma-man-hinh-4k-gtx-1080-mong-22-mm.2671956/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/fa/3da31661779b58b1dc7944d2bed2af86.jpg?6074" alt="Trên tay Razer Blade Pro 2016: bàn phím cơ Chroma, màn hình 4K, GTX 1080, mỏng 22 mm"></a>
+
+			<a href="threads/tren-tay-razer-blade-pro-2016-ban-phim-co-chroma-man-hinh-4k-gtx-1080-mong-22-mm.2671956/" class="title">Trên tay Razer Blade Pro 2016: bàn phím cơ Chroma, màn hình 4K, GTX 1080, mỏng 22 mm</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+								
+								
+							</div>
+						</div>
+					</aside>
+				</div>
+			
+
+		
+
+			
+
+			</div>
+	
+		</div>
+	</div>
+	
+
+</div>
+
+<footer>
+	
+
+
+
+
+
+
+<div id="uix_stickyFooterSpacer"></div>
+
+
+
+<div class="footer">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+
+				
+				
+				
+				
+				
+				<ul class="footerLinks">
+					
+						<li><a href="https://tinhte.vn/forums/" class="homeLink">Trang chủ</a></li>
+						
+						<li><a href="hotro/">Giúp đỡ</a></li>
+					
+					
+						<li><a href="http://www.tinhte.vn/threads/noi-quy-dien-dan.20/">Điều khoản & Quy định</a></li>
+						
+					
+					<li class="topLink"><a href="/maytinh/#XenForo"><i class="uix_icon uix_icon-jumpToTop"></i> <span class="uix_hide">Lên đầu</span></a></li>
+				</ul>
+				
+
+			
+			<span class="helper"></span>
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+<div class="bigFooter">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+
+			
+
+
+			<ul class="bigFooterRow bigFooterRow--mainRow bigFooterRow--has4Columns">
+				<li class="bigFooterCol bigFooterCol--col1">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Tinhte.vn
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://tinhte.vn/">Trang nhất</a></li>
+	<li><a href="https://tinhte.vn/forum/">Diễn đàn</a></li>
+	<li><a href="https://tinhte.vn/hotro//">Hỗ trợ - hướng dẫn</a></li>
+	<li><a href="https://tinhte.vn/resources/">Thư viện</a></li>
+	<li><a href="https://tinhte.vn/gallery/">Gallery</a></li>
+	<li><a href="https://tinhte.vn/reserve/" target="_blank">Sự kiện</a></li>
+	<li><a href="http://feeds.feedburner.com/tinhte" target="_blank">Tinhte.vn RSS</a></li>
+	<li><a href="https://tinhte.vn/quangcao/">Liên hệ Quảng cáo</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col2">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Diễn đàn
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://tinhte.vn/tintuc/">Thông tin</a></li>
+	<li><a href="https://tinhte.vn/maytinh/">Máy tính</a></li>
+	<li><a href="https://tinhte.vn/dienthoai/">Điện thoại</a></li>
+	<li><a href="https://tinhte.vn/camera/">Camera</a></li>
+	<li><a href="https://tinhte.vn/xe/">Xe</a></li>
+	<li><a href="https://tinhte.vn/khcn/">Khoa học công nghệ</a></li>
+	<li><a href="https://tinhte.vn/tinhte/">Tinh tế</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col3">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Nhật tảo
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/">Mua bán điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/">Mua bán sim, sim 3g</a></li>
+	
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col4">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Liên kết
+							</h3>
+
+							<ul class="footerMenu">
+<li><a href="https://tinhte.vn/pages/cafe/">Cafe Tinhte.vn</a></li>
+	<li><a href="http://www.khacten.com/" title="Bao da, miếng dán da" target="_blank">Khacten.com</a></li>
+	<li><a href="http://www.1tudien.com" title="Từ điển trực tuyến" target="_blank">1TuDien.com</a></li>
+	<li><a href="http://www.nhaccuatui.com" title="Nghe nhạc mọi lúc mọi nơi" target="_blank">Nhaccuatui.com</a></li>
+	<li><a href="http://www.5giay.vn" title="Mạng thương mại điện tử" target="_blank">5Giay.vn</a></li>
+	<li><a href="http://www.webtretho.com/" title="Web trẻ thơ" target="_blank">Webtretho.com</a></li>
+	<li> <a href="https://bkvn.com" title="Cộng đồng Biker Vietnam" target="_blank">Biker Vietnam</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+			</ul>
+
+			
+
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="footerLegal">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+			
+				<ul class="uix_socialMediaLinks">
+	<li class="uix_socialLink uix_socialLink--facebook"><a href="https://www.facebook.com/tinhtefan" target="_blank"><i class="uix_icon uix_icon-facebook"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--twitter"><a href="https://twitter.com/tinhtefan" target="_blank"><i class="uix_icon uix_icon-twitter"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--youtube"><a href="https://www.youtube.com/user/tinhtevideo" target="_blank"><i class="uix_icon uix_icon-youtube"></i></a></li>
+
+        
+
+        
+
+        
+
+        <li class="uix_socialLink uix_socialLink--googleplus"><a href="https://plus.google.com/+tinhte" target="_blank"><i class="uix_icon uix_icon-googlePlus"></i></a></li>
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+	
+
+        
+
+
+
+<!--ADD LIST ITEMS HERE -->
+
+
+
+        
+</ul>
+			
+			<div id="copyright">
+				 Chịu trách nhiệm nội dung: Trần Mạnh Hiệp • © 2015 Công ty Cổ phần MXH Tinh tế <br/>Địa chỉ: 209 Đường Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, TP.HCM • Giấy phép MXH số 385/GP-TTTT do Bộ TTTT cấp.
+				
+				
+			</div>
+			
+			<span class="helper"></span>
+			</div>
+		</div>
+		
+	</div>
+</div><!-- Facebook Pixel Code -->
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=480704548985430&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+
+
+
+	<div id="uix_jumpToFixed">
+		
+			<a href="#XenForo" title="Lên đầu" data-position="top"><i class="uix_icon uix_icon-jumpToTop"></i></a>
+		
+		
+	</div>
+
+
+<div class="bdRealtime_Loader" data-config="{&quot;pusherAppKey&quot;:&quot;ws&quot;,&quot;pusherOptions&quot;:{&quot;encrypted&quot;:true,&quot;apiHost&quot;:&quot;10.0.0.3&quot;,&quot;apiPort&quot;:8183,&quot;wsHost&quot;:&quot;nhattao.com&quot;,&quot;wsPort&quot;:80,&quot;wssPort&quot;:443},&quot;pollingEnabled&quot;:&quot;1&quot;,&quot;pollingOptions&quot;:{&quot;timestamp&quot;:1489800465,&quot;url&quot;:&quot;https:\/\/tinhte.vn\/data\/bdRealtime\/polling&quot;},&quot;bingUrl&quot;:&quot;&quot;,&quot;debugMode&quot;:false,&quot;channelPrefix&quot;:&quot;httpstinhtevnf2107ae2ffda03ad4574a858933db9fa&quot;,&quot;eventNamePrefix&quot;:&quot;ea70f884356c0ea0030a0c7cc308a419&quot;}"></div>
+
+
+
+
+
+
+
+</footer>
+
+
+
+
+
+
+
+<!-- Google Analytics -->
+
+<script async src='//www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+
+
+	
+	<div id="PreviewTooltip">
+	<span class="arrow"><span></span></span>
+	
+	<div class="section">
+		<div class="primaryContent previewContent">
+			<span class="PreviewContents">Đang tải...</span>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="uix_wrapperFix" style="height: 1px; margin-top: -1px;"></div>
+
+
+		</div> 
+	</div> 
+
+	
+
+
+
+
+<div class="breadcrumbMeta">
+	
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-618" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở di chuyển nhanh"><i class="uix_icon uix_icon-sitemap"></i><!--Chuyển đến...--></a>
+
+		<div class="boardTitle"><strong>Tinhte.vn</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="https://tinhte.vn/forums/" class="crumb"><span><i class="uix_icon uix_icon-home" title="Diễn đàn"></i><span class="uix_breadcrumb__home__title">Diễn đàn</span></span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+
+			
+
+			
+		</span>
+	</fieldset>
+</nav>
+</div>
+
+<!-- UI.X Version: 1.5.12.0 //-->
+
+<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://tinhte.vn/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }</script><script src="js/xenforo/xenforo.js?_v=c30fe834"></script><script src="js/bdAd/loader.min.js?_v=c30fe834"></script><script src="js/vim/mudim.js?_v=c30fe834"></script><script src="js/Tinhte/XenTag/preview.min.js?_v=c30fe834"></script><script>
+	uix = {
+		elm: {},
+		fn:{},
+		init: function(){
+			if (uix.betaMode) {
+				console.group('uix.%cinit()', 'color:#3498DB');
+			}
+			for(var x=0;x<uix.events.init.length;x++){
+				uix.events.init[x]()
+		  	}
+		  	console.groupEnd('uix.%cinit()','color:#3498DB')
+		},
+	  	events: {init:[]},
+	  	on: function(event, fn){
+	  		if(event=='init'){
+	  			uix.events.init.push(fn)
+	  		}
+	  	},
+
+		betaMode				: parseInt('0'),
+		jsPathUsed				: 'uiflex',
+		jsGlobal				: parseInt('0'),
+
+
+	  	version					: '1.5.12.0',
+	  	jsHeadVersion				: '1.5.12.0',
+	  	addonVersion				: '1010173',
+	  	jsCacheBust				: '1',
+	  	contentTemplate				: 'category_view',
+
+		javascriptInitHide			: parseInt('1'),
+		globalPadding 				: parseInt('15px'),
+		sidebarWidth				: parseInt('300px'),
+		mainContainerMargin  	        	: '315px',
+		maxResponsiveWideWidth   		: parseInt('800px'),
+		maxResponsiveMediumWidth 		: parseInt('610px'),
+		maxResponsiveNarrowWidth 		: parseInt('480px'),
+		sidebarMaxResponsiveWidth		: parseInt('800px'),
+		
+			responsiveMessageBreakpoint		: parseInt('610px'),
+		
+		sidebarMaxResponsiveWidthStr		: '800px',
+
+		
+			offCanvasRightTriggerWidth	: parseInt('800px'),
+		
+
+		
+			offCanvasLeftTriggerWidth	: parseInt('800px'),
+		
+
+		
+			
+				offCanvasNavTriggerWidth	: parseInt('800px'),
+			
+		
+		
+			
+				offCanvasVisitorTriggerWidth	: parseInt('800px'),
+			
+		
+
+		offcanvasTriggerAnimationDuration	: parseInt('300ms'),
+
+
+
+
+		dropdownMenuAnimationSpeed		: parseInt('0ms'),
+		inlineAlertBalloons			: (parseInt('1') && !parseInt('0')) || parseInt('0'),
+
+		jumpToFixedDelayHide			: parseInt('0'),
+
+		stickyNavigationMinWidth 		: parseInt('0'),
+		stickyNavigationMinHeight		: parseInt('600'),
+		stickyNavigationMaxWidth 		: parseInt('0'),
+		stickyNavigationMaxHeight		: parseInt('0'),
+		stickyNavigationPortraitMinWidth 	: parseInt('320'),
+		stickyNavigationPortraitMinHeight	: parseInt('500'),
+		stickyNavigationPortraitMaxWidth 	: parseInt('0'),
+		stickyNavigationPortraitMaxHeight	: parseInt('0'),
+		stickySidebar 				: 0,
+		
+			sidebarInnerFloat		: "right",
+		
+		RTL					: 0,
+		stickyItems 				: {},
+		stickyGlobalMinimumPosition		: parseInt('200px'),
+		stickyGlobalScrollUp			: parseInt('1'),
+		stickyDisableIOSThirdParty		: parseInt('1'),
+		preventAlwaysSticky			: parseInt('0'),
+
+		searchMinimalSize			: parseInt('610px'),
+
+		searchPosition				: parseInt('2'),
+
+		nodeStyle				: parseInt('0'),
+		pageStyle				: parseInt('1'),
+
+		enableBorderCheck			: parseInt('0'),
+		enableULManager				: parseInt('0'),
+
+		threadSlidingAvatar			: parseInt('0'),
+		threadSlidingExtra			: parseInt('0'),
+		threadSlidingHover			: parseInt('0'),
+		threadSlidingStaffShow			: parseInt('0'),
+		threadSlidingGlobalEnable		: parseInt('1'),
+
+		signatureHidingEnabled			: parseInt('0'),
+		signatureHidingEnabledAddon		: parseInt('1'),
+		signatureMaxHeight			: parseInt('100px'),
+		signatureHoverEnabled			: parseInt('0'),
+
+		enableStickyFooter 			: parseInt('1'),
+		stickyFooterBottomOffset 		: parseInt('15px') * 2,
+
+		
+			sidebarStickyBottomOffset	: parseInt(0),
+		
+
+	  	
+			offCanvasSidebar			: 1,
+
+			
+				offCanvasSidebarVisitorTabs		: 1,
+			
+
+		
+
+		offcanvasLeftStatic			: 1 && parseInt('0') && parseInt('1'),
+		offcanvasRightStatic			: 0 && parseInt('0') && parseInt('1'),
+		offcanvasLeftStaticBreakpoint		: parseInt('1300px'),
+		offcanvasRightStaticBreakpoint		: parseInt('1300px'),
+
+		reinsertWelcomeBlock			: parseInt('0'),
+
+		sidebarCookieExpire			: '',
+		canCollapseSidebar			: '',
+
+		cookiePrefix				: 'tt_',
+		sidebarLocation 			: parseInt('0'),
+
+		collapsibleSidebar			: parseInt('0'),
+		collapsedNodesDefault			: '',
+		nodeGridCollapseEnabled			: parseInt('0'),			
+		widthToggleUpper			: '100%',
+		widthToggleLower			: '1170px',
+		
+			toggleWidthEnabled		: parseInt('0'),
+		
+		toggleWidthBreakpoint			: parseInt('1190'),
+		collapsibleNodes			: parseInt('0'),
+		collapsibleSticky			: parseInt('1'),
+		ajaxWidthToggleLink			: 'uix/toggle-width',
+		ajaxStickyThreadToggleLink		: 'uix/toggle-sticky-threads',
+		ajaxStickyThreadExpandLink		: 'uix/expand-sticky-threads',
+		ajaxStickyThreadCollapseLink		: 'uix/collapse-sticky-threads',
+		ajaxSidebarToggleLink			: 'uix/toggle-sidebar',
+
+		stickySidebarDelayInit			: parseInt('1'),
+		stickySidebarLegacy			: parseInt('0'),
+		stickySidebarDisableIOS			: parseInt('1'),
+
+		user					: {
+								'themeName'		: 'Tinhte.vn UI',
+								'-themeParents'		: '63,62,61,0',
+								'-themeModified'	: '1489731235',
+								'-themeSelectable'	: '1',
+								languageName		: 'Vietnamese',
+								stickyEnableUserbar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableNav		: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableSidebar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								widthToggleState	: (parseInt('0') == parseInt('0')) ? parseInt('0') : parseInt('0'),
+								stickyThreadsState	: (parseInt('') == parseInt('')) ? (parseInt('') > 0) : 0,
+								
+									sidebarState	: 0,
+								
+								
+									collapseUserInfo : 1,
+								
+								
+									signatureHiding : 1,
+								
+								isAdmin			: parseInt('0"')
+							}
+	};
+
+	if(uix.stickyNavigationMaxWidth == 0){uix.stickyNavigationMaxWidth = 999999}
+	if(uix.stickyNavigationMaxHeight == 0){uix.stickyNavigationMaxHeight = 999999}
+	if(uix.stickyNavigationPortraitMaxWidth == 0){uix.stickyNavigationPortraitMaxWidth = 999999}
+	if(uix.stickyNavigationPortraitMaxHeight == 0){uix.stickyNavigationPortraitMaxHeight = 999999}
+
+	
+		uix.stickyItems['#navigation'] = {normalHeight:parseInt('40'), stickyHeight:parseInt('40')}
+
+		var subElement = null;
+		
+			uix.stickyItems['#navigation'].options = {scrollSticky: uix.stickyGlobalScrollUp }
+		
+
+	
+
+	
+
+	$(document).ready(function(){
+
+	//put jquery code here
+
+
+});
+
+	uix.debug = function() {
+		result = "\n\n############============   Begin Copying Here   ============############\n\n";
+		result += "Error: the functions file was not found.";
+		result += "\n\n############============   End Copying Here   ============############\n\n";
+
+		uix.fixJsVisibility();
+
+		console.log(result);
+	}
+
+</script><script src="js/audentio/uiflex/functions.min.js?_v=c30fe834_1.5.12.0_1"></script><script>
+	uix.adminJsError = function(errMsg) {
+		console.error(errMsg);
+
+		
+	}
+
+	uix.fixJsVisibility = function() {
+		var userBar = $('.hasJs #userBar');
+		var nodeList = $('.hasJs #forums, .hasJs .category_view .nodeList, .hasJs .watch_forums .nodeList');
+		var panels = $('.js-uix_panels')
+		if (userBar.length) userBar.css('display', 'block');
+		if (nodeList.length) nodeList.css('visibility', 'visible');
+		if (panels.length) $('.js-uix_panels').removeClass('needsInit');
+		$('html').removeClass('uix_javascriptNeedsInit');
+	}
+
+	uix.catchJsError = function(err) {
+		console.log("\n\n############============   Begin Copying Here   ============############\n\n")
+		var errMsg = "Uh Oh!  It looks like there's an error in your page's javascript.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this and believe it is due to a bug in your Audentio Design theme, contact Audentio support and include a copy of the text between the designated areas from your javascript console.  This is the error: \n\n" + err ;
+		uix.fixJsVisibility();
+		uix.adminJsError(errMsg);
+		console.log("\n\n");
+		console.log(err);
+		console.log("\n\n");
+		try {
+			uix.debug(true);
+		} catch (err) {
+			console.log("Unable to include uix.debug();");
+		}
+
+		console.log("\n\n############============   End Copying Here   ============############\n\n");
+	}
+
+	$(document).ready(function(){
+		if (typeof(audentio) === 'undefined' || typeof(uix.jsVersion) === 'undefined') {
+			var errMsg = 'Uh Oh!  It looks like the javascript for your theme was not found in /js/audentio/uiflex/.\n\n';
+			if (uix.jsGlobal) {
+				errMsg += 'Your forum is set to use the same javascript directory for all your themes.  Consider disabling this or modifying the directory.  Options are located under Options > [UI.X] General.\n\n'
+			} else {
+				errMsg += 'Your theme has set the location of its javascript directory.  You may need to modify the javascript directory location style property located under [UI.X] Global Settings > Javascript Path.\n\n'
+			}
+			errMsg += 'If your files are in the directory specified, ensure that your file permissions allow them to be read.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this, contact Audentio support.  This error has also been logged to the javascript console.';
+
+			uix.fixJsVisibility();
+
+			uix.adminJsError(errMsg);
+		} else if (uix.jsHeadVersion.split('_')[0] != uix.jsVersion.split('_')[0]) {
+			var errMsg = 'Uh Oh! It looks like the version of your javascript functions file does not match the version of your page_container_js_head template.  \n\nYour javascript functions file is version "' + uix.jsVersion + '". \nYour page_container_js_head is version "' + uix.jsHeadVersion + '".  \n\nIf your functions file version number is higher, ensure that you have merged all templates (especially page_container_js_head).  If your page_container_js_head version number is higher, ensure that you have correctly uploaded the latest version of the javascript functions file and that you have cleared anything that could cache an old version of the javascript (CDN / Cloudflare / etc.). \n\nThis issue could cause parts of your forum to not display or function correctly.  If this does not resolve the issue contact Audentio support.  This error has also been logged to the javascript console.';
+			
+			uix.fixJsVisibility();
+			
+			uix.adminJsError(errMsg);
+		}
+	});
+</script><script>
+	try {
+		uix.dateHelper.phrase = {
+			now: 'now',
+			second: 's',
+			minute: 'm',
+			hour: 'h',
+			day: 'd',
+			week: 'w',
+			year: 'y',
+			century: 'c',
+			ago: '{time} ago',
+			future: 'in {time}'
+		}
+
+
+		uix.sticky.stickyMinDist = parseInt('50');
+
+		$(document).ready(function(){
+			try {
+				
+				
+
+				uix.initFunc();
+			} catch (err) {
+				uix.catchJsError(err);
+			}
+		});
+	} catch (err) {
+		uix.catchJsError(err);
+	}
+</script><script type='text/javascript'>sonnbXenGalleryEnableInterlace = 0;</script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '480704548985430'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script><script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1489800465,
+		today: 1489770000,
+		todayDow: 6
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "0.5",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 100,
+		closeSpeed: 50,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 100,
+			closeSpeed: 50
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"nat_public_css":true,"node_list":true,"node_category":true,"node_forum":true,"tag":true,"wf_default":true,"login_bar":true,"sonnb_xengallery_navbar_template":true,"facebook":true,"google":true,"bdad":true,"bdsocialshare":true,"share_page":true,"uix_extendedFooter":true,"js\/bdAd\/loader.min.js?_v=c30fe834":true,"js\/vim\/mudim.js?_v=c30fe834":true,"js\/Tinhte\/XenTag\/preview.min.js?_v=c30fe834":true},
+	_cookieConfig: { path: "/", domain: ".tinhte.vn", prefix: "tt_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "c30fe834",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Hủy",
+
+	a_moment_ago:    "Mới đây",
+	one_minute_ago:  "1 phút trước",
+	x_minutes_ago:   "%minutes% phút trước",
+	today_at_x:      "%time% hôm nay",
+	yesterday_at_x:  "%time% hôm qua",
+	day_x_at_time_y: "%day% lúc %time%",
+
+	day0: "Chủ nhật",
+	day1: "Thứ hai",
+	day2: "Thứ ba",
+	day3: "Thứ tư",
+	day4: "Thứ năm",
+	day5: "thứ sáu",
+	day6: "Thứ bảy",
+
+	_months: "Tháng 1,Tháng 2,Tháng 3,Tháng 4,Tháng 5,Tháng 6,Tháng 7,Tháng 8,Tháng 9,Tháng 10,Tháng 11,Tháng 12",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "Có lỗi hoặc lưu ý",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Đang đăng nhập",
+	click_image_show_full_size_version: "Bấm vào để phóng to.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "145923738846814";
+XenForo.Facebook.forceInit = false;
+
+
+</script><script type="text/javascript">
+    Mudim.LANG=[
+		'Tắt',
+		'VNI',
+		'Telex',
+		'VIQR',
+		'Đủ kiểu',
+		'Tự động',
+		'Sửa lỗi chính tả',
+		'Dùng kiểu bỏ dấu mới',
+		'Toggle',
+		'Toggle Panel',
+	];
+	Mudim.IGNORE_ID = ['email','url'];
+	Mudim.COOKIE_KEY_NAME = 'xf_vim|mudim-settings';
+
+	CHIM.ClearBuffer();
+	Mudim.method = parseInt('2');
+	CHIM.Speller.enabled = parseInt('1') ? true : false;
+	Mudim.newAccentRule = parseInt('1') ? true : false;
+
+	
+		Mudim.showPanel = false;
+        	CHIM.SetDisplay();
+	    	Mudim.SetPreference();
+	
+</script><script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-2120640-1","auto","default");var custom=[];ga(function(){ga.getAll().forEach(function(tracker){var isDef=tracker.get("name")=="default";if(isDef)tracker.set("dimension1"/*dimNode*/,"M\u00e1y t\u00ednh (618)");if(isDef)tracker.set("dimension2"/*dimUserGroups*/,"0,1");setTimeout(function(){tracker.send("event","User Engagement","time on page more than 15 seconds");},15000);tracker.send("pageview");typeof(jQuery)==="function"&&jQuery(document).ajaxComplete(function(_,_,u){if(u.url.indexOf("css.php")>-1)return;var c="Ajax "+u.type;var p=document.createElement("a");p.href=u.url;var a=p.pathname;a=a.replace(/\/[^\/]*\d+\//g,"/");var l=p.pathname+p.search;l=l.replace(/(&_[^&]+)+(&|$)/g,"$2");if(l.substr(0,3)==="js/")return;if(l.substr(0,4)==="/js/")return;tracker.send("event",c,a,l);});});});
+</script><script>
+
+</script></body>
+</html>

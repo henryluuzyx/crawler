@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tổng hợp số lượng ôtô để xem xét giảm phí BOT qua trạm Bến Thủy - VietnamPlus
+</title><meta name="keywords" content="Bến Thủy,bot,Cienco 4,Bến Thủy II,Hà Tĩnh,Trạm Bến Thủy,Nghệ An,Nguyễn Tuấn Huỳnh,Vinh,ủy ban nhân dân thành phố,căn cứ,thống nhất" /><meta name="description" content="Tổng giám đốc Cienco 4 đề nghị Hà Tĩnh và Nghệ An cung cấp số lượng xe ôtô của tổ chức và cá nhân thường trú tại khu vực gần trạm Bến Thủy và Bến Thủy II để..." />
+<link rel="canonical" href="http://www.baomoi.com/tong-hop-so-luong-oto-de-xem-xet-giam-phi-bot-qua-tram-ben-thuy/c/21791237.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791237" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791237" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/tong-hop-so-luong-oto-de-xem-xet-giam-phi-bot-qua-tram-ben-thuy/436333.vnp");
+else
+window.location.replace("http://www.baomoi.com/tong-hop-so-luong-oto-de-xem-xet-giam-phi-bot-qua-tram-ben-thuy/c/21791237.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

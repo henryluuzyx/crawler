@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mưa đá lớn khiến nhiều ngôi nhà ở Điện Biên bị hư hỏng nặng - VOV
+</title><meta name="keywords" content="Pú Hồng,Vừ A Bằng,Phì Nhừ,Pá Vạt,Mường Luân,Chiềng Lề,Điện Biên Đông,Điện Biên,Vũ Lợi" /><meta name="description" content="Khoảng 15h ngày 17/3, trên địa bàn 3 xã: Pú Hồng, Phì Nhừ, Mường Luân, đã xảy ra mưa đá lớn, khiến nhiều nhà bị tốc mái và hư hỏng hoàn toàn." />
+<link rel="canonical" href="http://www.baomoi.com/mua-da-lon-khien-nhieu-ngoi-nha-o-dien-bien-bi-hu-hong-nang/c/21792547.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792547" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792547" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vov.vn/xa-hoi/mua-da-lon-khien-nhieu-ngoi-nha-o-dien-bien-bi-hu-hong-nang-603931.vov");
+else
+window.location.replace("http://www.baomoi.com/mua-da-lon-khien-nhieu-ngoi-nha-o-dien-bien-bi-hu-hong-nang/c/21792547.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

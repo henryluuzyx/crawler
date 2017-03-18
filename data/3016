@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tuyên truyền, vận động là giải pháp căn cơ - Hà Nội Mới
+</title><meta name="keywords" content="Đống Đa,chấp hành,sổ đỏ,lấn chiếm,quy hoạch,Hà Nội,chủ trương,rà soát,vi phạm,chỉ đạo,lãnh đạo,ra quân,Nguyễn Song Hào,tôn đức thắng,cam kết,chuyển đổi,bán nước,Tây Sơn,Thương Nguyệt,Nguyễn Lương Bằng,đầu tư" /><meta name="description" content="Nằm trong nội đô có mật độ dân cư cao, những ngày qua, quận Đống Đa đã quyết liệt thực hiện các biện pháp lập lại trật tự vỉa hè, lòng đường. Tuy nhiên, tro..." />
+<link rel="canonical" href="http://www.baomoi.com/tuyen-truyen-van-dong-la-giai-phap-can-co/c/21793088.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793088" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793088" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://hanoimoi.com.vn/Tin-tuc/giao-thong/864624/tuyen-truyen-van-dong-la-giai-phap-can-co");
+else
+window.location.replace("http://www.baomoi.com/tuyen-truyen-van-dong-la-giai-phap-can-co/c/21793088.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

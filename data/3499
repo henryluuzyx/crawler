@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bắc Bộ mưa không ngớt, Nam Bộ có nơi nắng nóng 36 độ C - Dân Việt
+</title><meta name="keywords" content="trung tâm dự báo khí tượng thủy văn,nam bộ,Tây Bắc Bộ,bắc bộ,tây nguyên,thời tiết,nắng nóng,Bình Thuận,đông bắc bộ,Thừa Thiên-Huế,Thanh Hóa,Đà Nẵng,Hà Nội,đông nam bộ,Nghệ An" /><meta name="description" content="Những ngày cuối tuần, thời tiết ở Bắc Bộ tiếp tục chìm trong mưa phùn, nồm ẩm. Trong khi đó, Nam Bộ ban ngày trời nắng nóng, có nơi lên đến 36 độ C." />
+<link rel="canonical" href="http://www.baomoi.com/bac-bo-mua-khong-ngot-nam-bo-co-noi-nang-nong-36-do-c/c/21785717.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21785717" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21785717" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/tin-tuc/bac-bo-mua-khong-ngot-nam-bo-co-noi-nang-nong-36-do-c-753892.html");
+else
+window.location.replace("http://www.baomoi.com/bac-bo-mua-khong-ngot-nam-bo-co-noi-nang-nong-36-do-c/c/21785717.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

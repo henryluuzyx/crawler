@@ -1,0 +1,4464 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+		
+	
+	
+	
+		
+	
+
+
+<html id="XenForo" lang="vi-VN" dir="LTR" class="Public NoJs uix_javascriptNeedsInit LoggedOut Sidebar NoNavSidebar  Responsive pageIsLtr   not_hasTabLinks  hasSearch activeSmallLogo  is-sidebarOpen hasRightSidebar is-setWidth navStyle_2 pageStyle_1 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="https://tinhte.vn/" />
+		
+	
+
+	<title>Camera | Tinhte.vn</title>
+
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	<link rel="stylesheet" href="css.php?css=TT_UTP_layout_news,TinhTe_SCT_sidebar,TinhTe_SCT_sidebar1,bb_code,bdad,bdsocialshare,facebook,google,login_bar,message_user_info,metro,metro_pc,nat_public_css,node_forum,node_list,share_page,sonnb_xengallery_bxslider,sonnb_xengallery_icons,sonnb_xengallery_navbar_template,sonnb_xengallery_photo_view,sonnb_xengallery_widget,sonnb_xengallery_widget_photo,tag,uix_extendedFooter,wf_default&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+
+	<link rel="stylesheet" href="css.php?css=uix,uiflex,dimota&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	<style>
+	/*** UIX -- PER USER STYLES ***/
+
+	
+
+	
+
+
+	
+
+</style>
+
+	<link rel="stylesheet" href="css.php?css=EXTRA&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	
+
+	<style>
+/* Node Styling */
+
+</style>
+
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="styles/uiflex/uix/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+
+
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="fb:pages" content="122102927812763" />
+
+	
+	<link rel="apple-touch-icon" href="https://tinhte.vn/styles/uiflex/dimota/logo.og.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS của Tinhte.vn" href="https://tinhte.vn/rss/" />
+	<meta name="description" content="Diễn đàn thảo luận Camera, Máy ảnh số,  Máy quay phim, nhiếp ảnh, kỹ thuật và nghệ chụp ảnh đẹp, gửi ảnh, bình ảnh, giao lưu, offline. Bấm vào đây để xem các bài viết mới nhất." />
+	
+	<link rel="canonical" href="https://tinhte.vn/camera/" />
+
+
+
+
+	
+		<meta name="theme-color" content="rgb(27, 109, 168)">
+		<meta name="msapplication-TileColor" content="rgb(27, 109, 168)">
+	
+
+</head>
+
+<body class="node70">
+
+	
+
+	
+		
+
+<div id="loginBar">
+	<div class="pageContent">
+		<span class="helper"></span>
+	</div>
+	<div class="pageWidth">
+
+		
+
+	</div>
+</div>
+	
+
+	
+		
+		<div class="js-uix_panels uix_panels ">
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--left">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		<div class="sidePanel sidePanel--nav">
+			<nav>
+<ul class="sidePanel__navTabs">
+	
+							<!-- home -->
+							
+
+
+								<!-- extra tabs: home -->
+								
+
+
+								<!-- forums -->
+								
+									
+										<li class="navTab forums ">
+
+											<a href="https://tinhte.vn/forums/" class="navLink">Diễn đàn</a>
+											<a href="https://tinhte.vn/forums/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+									
+													<ul class="secondaryContent blockLinksList">
+													
+														
+														<li><a href="search/">Tìm kiếm</a></li>
+														
+														
+
+	
+<li><a href="topic-center/">Bài mới</a></li>
+
+													
+													</ul>
+									
+											</div>
+										</li>
+								
+								
+
+								<!-- extra tabs: middle -->
+								
+								
+									
+										
+											<li class="navTab sonnb_xengallery ">
+								
+											<a href="https://tinhte.vn/gallery/" class="navLink">Gallery</a>
+											<a href="https://tinhte.vn/gallery/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+		
+		
+			<li><a href="gallery/categories">Thể loại</a></li>
+		
+		<li><a title="Tìm theo thành viên" class="OverlayTrigger" href="gallery/explore-user">Tìm theo thành viên</a></li>
+		<li><a title="Album mới" href="gallery/new-albums">Album mới</a></li>
+		<li><a title="Ảnh mới" href="gallery/new-photos">Ảnh mới</a></li>
+		<li><a title="Video mới" href="gallery/new-videos">Video mới</a></li>
+		<li><a title="New Comments" href="gallery/new-comments">New Comments</a></li>
+	
+	
+		<li><a title="Hình ảnh nổi bật của anh em Camera Tinh tế" href="gallery/collections">Các bộ ảnh</a></li>
+	
+	
+		<li><a title="Khám phá các địa điểm phổ biến mà các thành viên của chúng ta thường đến chụp ảnh." href="gallery/locations">Địa điểm</a></li>
+	
+	
+		<li><a title="The most active cameras that are being used in gallery at Tinhte.vn" href="gallery/cameras">Thiết bị</a></li>
+	
+	<li><a title="The most active tags/keywords are being used at Tinhte.vn" href="gallery/tags">Tags Cloud</a></li>
+</ul>	
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab Appforo_Timeline ">
+												<a href="https://tinhte.vn/timeline/" class="navLink">Timeline</a>
+											</li>
+										
+									
+								
+									
+										
+											<li class="navTab resources ">
+								
+											<a href="https://tinhte.vn/resources/" class="navLink">Thư viện</a>
+											<a href="https://tinhte.vn/resources/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Tìm trong thư viện</a></li>
+	<li><a href="resources/authors">Thành viên năng động</a></li>
+	<li><a href="resources/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+											</div>
+										</li>
+										
+									
+								
+								
+
+
+								<!-- members -->
+								
+
+								<!-- extra tabs: end -->
+								
+								
+									
+										
+											<li class="navTab nodetab643 ">
+								
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="navLink">Rao vặt</a>
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/" target="_blank">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/" target="_blank">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/" target="_blank">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/" target="_blank">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/" target="_blank">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/" target="_blank">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/" target="_blank">Điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/" target="_blank">Mua bán sim, sim 3g</a></li>
+</ul>
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab nodetab673 ">
+												<a href="https://tinhte.vn/htcu/" class="navLink">#htcu</a>
+											</li>
+										
+									
+								
+								
+
+	
+
+<li class="navTab "><a href="/topic-center/" class="navLink">
+ <i class="fa fa-globe" aria-hidden="true"></i>Bài mới</a>
+</li>
+
+<li class="navTab "><a href="/dienthoai" class="navLink">
+ <i class="fa fa-tablet" aria-hidden="true"></i>Điện thoại</a>
+</li>
+
+<li class="navTab "><a href="/maytinh" class="navLink">
+ <i class="fa fa-laptop" aria-hidden="true"></i>Máy tính</a>
+</li>
+
+<li class="navTab "><a href="/camera" class="navLink">
+ <i class="fa fa-camera-retro" aria-hidden="true"></i>Camera</a>
+</li>
+
+<li class="navTab "><a href="/xe" class="navLink">
+ <i class="fa fa-motorcycle" aria-hidden="true"></i>Xe</a>
+</li>
+
+<li class="navTab "><a href="/khcn" class="navLink">
+ <i class="fa fa-battery-half" aria-hidden="true"></i>KHCN</a>
+</li>
+
+
+
+
+
+<li><br/></li>
+
+
+
+
+
+<li class="navTab "><a href="/account/following" class="navLink">
+ <i class="fa fa-users" aria-hidden="true"></i>Bạn bè</a>
+</li>
+
+<li class="navTab "><a href="/events" class="navLink">
+ <i class="fa fa-laptop" aria-hidden="true"></i>Sự kiện</a>
+</li>
+
+<li class="navTab "><a href="/account/" class="navLink">
+ <i class="fa fa-cog" aria-hidden="true"></i>Thiết lập</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+		</div>
+	
+</aside>
+			
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--right">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		
+			<div class="sidePanel sidePanel--login">
+				<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_login">Tên tài khoản hoặc Email:</label></dt>
+		<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="21" /></dd>
+	</dl>
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_password">Mật khẩu:</label></dt>
+		<dd>
+			<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="22" />
+			<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="26">Quên mật khẩu?</a></div>
+		</dd>
+	</dl>
+
+	
+
+	<dl class="ctrlUnit submitUnit">
+		<dd>
+			<input type="submit" class="button primary" value="Đăng nhập" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" tabindex="24" />
+			<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="23" /> Nhớ đăng nhập</label>
+		</dd>
+	</dl>
+
+	
+	<dl class="ctrlUnit fullWidth">
+	
+
+	
+		
+		<dt></dt>
+		<dd><a href="register/facebook?reg=1" class="fbLogin" tabindex="210"><span>Đăng nhập bằng Facebook</span></a></dd>
+	
+
+	
+
+	
+		
+		<dt></dt>
+		<dd><span class="googleLogin GoogleLogin JsOnly" tabindex="210" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=CHRTTuqQU-EEEKix"><span>Đăng nhập bằng Google</span></span></dd>
+	
+
+	
+	</dl>
+	
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="_xfToken" value="" />
+	<input type="hidden" name="redirect" value="/camera/" />
+	
+
+</form>
+			</div>
+		
+	
+</aside>
+			
+
+			<div class="mainPanelWrapper">
+				<a href="#" class="js-panelMask uix_panelMask"></a>
+
+	
+
+	
+
+
+
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="uix_wrapper">
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+<header>
+	
+
+
+<div id="header">
+	
+
+	
+
+	
+
+	
+
+
+
+<div id="navigation" class="header__blockItem withSearch stickyTop">
+	<div class="sticky_wrapper">
+		<div class="uix_navigationWrapper">
+		
+			<div class="pageContent">
+				<nav>
+					<div class="navTabs">
+						
+						<div class="pageWidth">
+						
+
+							<ul class="publicTabs navLeft">
+
+							
+							<li id="logo_small">
+								<a href="https://tinhte.vn/">
+								
+									<img src="styles/uiflex/dimota/logo_small.png">
+								
+								</a>
+							</li>
+							
+
+							
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="navTab  navTab--panelTrigger navTab--navPanelTrigger PopupClosed">
+		<a class="navLink js-leftPanelTrigger" href="#">
+			<i class="uix_icon uix_icon-menu"></i><span class="trigger__phrase">Menu</span>
+		</a>
+	</li>
+
+
+
+							<!-- home -->
+							
+
+
+								<!-- extra tabs: home -->
+								
+
+
+								<!-- forums -->
+								
+									
+										<li class="navTab forums  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/forums/" class="navLink">Diễn đàn</a>
+											<a href="https://tinhte.vn/forums/" class="SplitCtrl" rel="Menu"></a>
+	
+											<div class="Menu JsOnly tabMenu forumsTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Diễn đàn</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+									
+													<ul class="secondaryContent blockLinksList">
+													
+														
+														<li><a href="search/">Tìm kiếm</a></li>
+														
+														
+
+	
+<li><a href="topic-center/">Bài mới</a></li>
+
+													
+													</ul>
+									
+													
+												
+									
+											</div>
+										</li>
+								
+								
+
+								<!-- extra tabs: middle -->
+								
+								
+									
+										
+										<li class="navTab sonnb_xengallery  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/gallery/" class="navLink">Gallery</a>
+											<a href="https://tinhte.vn/gallery/" class="SplitCtrl" rel="Menu"></a>
+											
+											<div class="Menu JsOnly tabMenu sonnb_xengalleryTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Gallery</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+		
+		
+			<li><a href="gallery/categories">Thể loại</a></li>
+		
+		<li><a title="Tìm theo thành viên" class="OverlayTrigger" href="gallery/explore-user">Tìm theo thành viên</a></li>
+		<li><a title="Album mới" href="gallery/new-albums">Album mới</a></li>
+		<li><a title="Ảnh mới" href="gallery/new-photos">Ảnh mới</a></li>
+		<li><a title="Video mới" href="gallery/new-videos">Video mới</a></li>
+		<li><a title="New Comments" href="gallery/new-comments">New Comments</a></li>
+	
+	
+		<li><a title="Hình ảnh nổi bật của anh em Camera Tinh tế" href="gallery/collections">Các bộ ảnh</a></li>
+	
+	
+		<li><a title="Khám phá các địa điểm phổ biến mà các thành viên của chúng ta thường đến chụp ảnh." href="gallery/locations">Địa điểm</a></li>
+	
+	
+		<li><a title="The most active cameras that are being used in gallery at Tinhte.vn" href="gallery/cameras">Thiết bị</a></li>
+	
+	<li><a title="The most active tags/keywords are being used at Tinhte.vn" href="gallery/tags">Tags Cloud</a></li>
+</ul>	
+													
+												
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab Appforo_Timeline PopupClosed">
+												<a href="https://tinhte.vn/timeline/" class="navLink">Timeline</a>
+												
+											</li>
+										
+									
+								
+									
+										
+										<li class="navTab resources  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/resources/" class="navLink">Thư viện</a>
+											<a href="https://tinhte.vn/resources/" class="SplitCtrl" rel="Menu"></a>
+											
+											<div class="Menu JsOnly tabMenu resourcesTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Thư viện</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Tìm trong thư viện</a></li>
+	<li><a href="resources/authors">Thành viên năng động</a></li>
+	<li><a href="resources/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+													
+												
+											</div>
+										</li>
+										
+									
+								
+								
+
+
+								<!-- members -->
+								
+
+								<!-- extra tabs: end -->
+								
+								
+									
+										
+											<li class="navTab nodetab643  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="navLink">Rao vặt</a>
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="SplitCtrl" rel="Menu"></a>
+	
+											<div class="Menu JsOnly tabMenu nodetab643TabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Rao vặt</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													<ul class="secondaryContent blockLinksList">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/" target="_blank">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/" target="_blank">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/" target="_blank">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/" target="_blank">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/" target="_blank">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/" target="_blank">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/" target="_blank">Điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/" target="_blank">Mua bán sim, sim 3g</a></li>
+</ul>
+													
+												
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab nodetab673 PopupClosed">
+												<a href="https://tinhte.vn/htcu/" class="navLink">#htcu</a>
+												
+											</li>
+										
+									
+								
+								
+
+								
+
+<!-- responsive popup -->
+								<li class="navTab navigationHiddenTabs navTab--justIcon Popup PopupControl PopupClosed" style="display:none">
+
+									<a rel="Menu" class="navLink NoPopupGadget uix_dropdownDesktopMenu"><i class="uix_icon uix_icon-navOverflow"></i><span class="uix_hide menuIcon">Menu</span></a>
+
+									<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+								</li>
+
+								
+
+								
+
+							</ul>
+
+
+							
+
+
+								<ul class="navRight visitorTabs">
+
+								
+
+									
+
+									
+
+									
+										
+									
+
+									
+										
+
+	<li class="navTab login Popup PopupControl PopupClosed">
+		
+			<a href="login/" class="navLink uix_dropdownDesktopMenu NoPopupGadget"rel="Menu">
+				
+				<strong class="loginText">Đăng nhập</strong>
+			</a>
+		
+
+		
+		<div class="Menu JsOnly tabMenu uix_fixIOSClick">
+			<div class="secondaryContent">
+				<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_login">Tên tài khoản hoặc Email:</label></dt>
+		<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="1" /></dd>
+	</dl>
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_password">Mật khẩu:</label></dt>
+		<dd>
+			<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="2" />
+			<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="6">Quên mật khẩu?</a></div>
+		</dd>
+	</dl>
+
+	
+
+	<dl class="ctrlUnit submitUnit">
+		<dd>
+			<input type="submit" class="button primary" value="Đăng nhập" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" tabindex="4" />
+			<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="3" /> Nhớ đăng nhập</label>
+		</dd>
+	</dl>
+
+	
+	<dl class="ctrlUnit fullWidth">
+	
+
+	
+		
+		<dt></dt>
+		<dd><a href="register/facebook?reg=1" class="fbLogin" tabindex="10"><span>Đăng nhập bằng Facebook</span></a></dd>
+	
+
+	
+
+	
+		
+		<dt></dt>
+		<dd><span class="googleLogin GoogleLogin JsOnly" tabindex="10" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=CHRTTuqQU-EEEKix"><span>Đăng nhập bằng Google</span></span></dd>
+	
+
+	
+	</dl>
+	
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="_xfToken" value="" />
+	<input type="hidden" name="redirect" value="/camera/" />
+	
+
+</form>
+			</div>
+		</div>
+		
+
+	</li>
+
+	
+
+
+									
+
+									
+
+									
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+									
+										
+
+		<li class="navTab uix_searchTab">
+
+			
+
+<div id="searchBar" class="hasSearchButton">
+	
+	<i id="QuickSearchPlaceholder" class="uix_icon uix_icon-search" title="Tìm kiếm"></i>
+
+	
+
+
+	<fieldset id="QuickSearch">
+		<form action="search/search" method="post" class="formPopup">
+
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<i class="uix_icon uix_icon-search" onclick='$("#QuickSearch form").submit()'></i>
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Tìm kiếm..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />
+				<!-- end block: primaryControls -->
+			</div>
+
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Chì tìm tiêu đề</label></li>
+						</ul></dd>
+					</dl>
+
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Viết bởi thành viên:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Các tên cách nhau bởi dấu phẩy(,)</p>
+						</dd>
+					</dl>
+
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Mới hơn:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+
+					
+				</div>
+				<!-- end block: secondaryControls -->
+
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Tìm kiếm" class="button primary Tooltip" title="Tìm ngay" />
+						<a href="search/" class="button moreOptions Tooltip" title="Tìm kiếm nâng cao">Thêm...</a>
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Mục tìm hữu ích" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Mục tìm hữu ích</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Thảo luận mới</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+					</dd>
+				</dl>
+
+			</div>
+
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	</fieldset>
+	
+
+</div>
+		</li>
+
+
+									
+
+								
+
+								</ul>
+
+							
+
+							
+								
+
+	
+
+<div class="uix_minimalSearchWrapper">
+
+	<div id="uix_searchMinimal">
+		<form action="search/search" method="post">
+			<i id="uix_searchMinimalClose" class="uix_icon uix_icon-close"  title="Đóng"></i>
+			<i id="uix_searchMinimalOptions" class="uix_icon uix_icon-cog" title="Tùy chọn"></i>
+			<div id="uix_searchMinimalInput" >
+				<input type="search" name="keywords" value="" placeholder="Tìm kiếm..." results="0" />
+			</div>
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	</div>
+
+
+</div>
+
+
+
+
+							
+
+
+						</div>
+					</div>
+
+				<span class="helper"></span>
+
+				</nav>
+			</div>
+		
+		</div>
+	</div>
+</div>
+
+
+
+	
+</div>
+
+	
+	
+</header>
+
+
+	
+<div class="adWidget adWidget-gpt ad-18 slot-7" data-ad-id="18">
+			
+				
+				<div class="ad-set"><ins class="GptLoader" style="display:block;" data-ad-unit-path="/3823916/Tinhte_Desktop_Forum_Top" data-ad-size-width="728" data-ad-size-height="90"></ins><ins class="GptLoader" style="display:block;" data-ad-unit-path="/3823916/Tinhte_Top_Mobile_Banner" data-ad-size-width="320" data-ad-size-height="100"></ins></div>
+			
+		</div>
+
+
+
+
+
+
+
+<div id="content" class="category_view">
+
+
+
+
+	
+	<div class="pageWidth">
+		
+<div class="pageContent">
+	
+			<!-- main content area -->
+
+			
+
+			
+
+
+
+
+
+			
+
+			
+
+			
+
+
+	
+	
+	
+	
+	
+
+	
+
+
+	
+
+			
+				<div class="uix_contentFix">
+					<div class="mainContainer">
+
+			
+					
+<div class="mainContent">
+					
+						
+
+
+			
+						
+						
+						<div class="breadBoxTop  ">
+							
+							
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-70" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở di chuyển nhanh"><i class="uix_icon uix_icon-sitemap"></i><!--Chuyển đến...--></a>
+
+		<div class="boardTitle"><strong>Tinhte.vn</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://tinhte.vn/forums/" class="crumb" rel="up" itemprop="url"><span itemprop="title"><i class="uix_icon uix_icon-home" title="Diễn đàn"></i><span class="uix_breadcrumb__home__title">Diễn đàn</span></span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+
+			
+
+			
+		</span>
+	</fieldset>
+</nav>
+							
+						</div>
+						
+						
+			
+						
+
+
+			
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+
+						
+
+
+
+						
+						
+
+						
+
+						
+						
+							
+								<!-- h1 title, description -->
+								<div class="titleBar">
+									
+									<h1>Camera</h1>
+
+									<p id="pageDescription" class="muted baseHtml"><a href="find-new/threads?f=70">Diễn đàn thảo luận Camera, Máy ảnh số,  Máy quay phim, nhiếp ảnh, kỹ thuật và nghệ chụp ảnh đẹp, gửi ảnh, bình ảnh, giao lưu, offline. Bấm vào đây để xem các bài viết mới nhất.</a></p>
+
+
+<div class="TinhteMods_sharePage PAGE_CONTAINER">
+	
+	
+
+	<div class="sharePage">
+		<h3 class="textHeading larger">Chia sẻ</h3>
+		
+
+	
+			
+
+
+
+
+	
+	
+	
+
+	<div class="bdSocialShare social-likes">
+		
+			
+				<div class="facebook" title="Chia sẻ lên Facebook">
+					
+					<a href="https://tinhte.vn/misc/share/facebook" target="_blank">Facebook</a>
+				</div>
+			
+			
+			
+			
+				<div class="bdsocialshareaddthis" title="Print, email and bookmark with other services">
+					
+					<a href="http://www.addthis.com/bookmark.php?v=300&pub=dihuta&url=" target="_blank">Share</a>
+				</div>
+			
+		
+	</div>
+
+	
+
+
+
+
+			
+			
+			
+			
+		
+
+
+	</div>
+
+</div>
+
+								</div>
+							
+						
+						
+
+						
+
+						<!-- main template -->
+						
+
+	
+
+
+
+
+
+
+
+
+<div class="xengallerySidebar" style="">
+		<div class="photosSidebar scrollable " 
+			id="scrollable_widget_123" 
+			style="height: 420px; overflow: hidden;">
+			<ul>
+				
+					
+					
+						
+							<li style="max-width: 100%;width: 821px; height: 420px;">
+	<a class="thumbnail lazy" href="gallery/photos/processed-with-vsco-with-c1-preset.75208/?_source=widget&amp;widget_id=123" title="Processed with VSCO with c1 preset" style="max-width: 100%; width: 821px; height: 420px;">
+		<img title="Processed with VSCO with c1 preset" alt="Processed with VSCO with c1 preset" data-src="https://tinhte.vn/store/2017/03/xengallery_photos_l_86270_a8ab821c7367b4d48cc9261d58ae85ad.jpg" style="top: -63.559765625px; width: 821px; height: 547.11953125px;" />
+	</a>
+	
+		<p class="background">&nbsp;</p>
+		<div class="title"><a title="Processed with VSCO with c1 preset" href="gallery/photos/processed-with-vsco-with-c1-preset.75208/?_source=widget&amp;widget_id=123">Processed with VSCO with c1 preset</a></div>
+	
+	
+</li>
+						
+					
+						
+							<li style="max-width: 100%;width: 821px; height: 420px;">
+	<a class="thumbnail lazy" href="gallery/photos/sach.75350/?_source=widget&amp;widget_id=123" title="Sạch" style="max-width: 100%; width: 821px; height: 420px;">
+		<img title="Sạch" alt="Sạch" data-src="https://tinhte.vn/store/2017/03/xengallery_photos_l_86468_d29d86c4183d9675b1dc92464b241a27.jpg" style="top: -63.8035px; width: 821px; height: 547.607px;" />
+	</a>
+	
+		<p class="background">&nbsp;</p>
+		<div class="title"><a title="Sạch" href="gallery/photos/sach.75350/?_source=widget&amp;widget_id=123">Sạch</a></div>
+	
+	
+</li>
+						
+					
+						
+							<li style="max-width: 100%;width: 821px; height: 420px;">
+	<a class="thumbnail lazy" href="gallery/photos/keo-tec-po-huya.66030/?_source=widget&amp;widget_id=123" title="kéo tẹc pơ huya" style="max-width: 100%; width: 821px; height: 420px;">
+		<img title="kéo tẹc pơ huya" alt="kéo tẹc pơ huya" data-src="https://tinhte.vn/store/2016/10/xengallery_photos_l_76198_9e57d69cdbf4f05c2ea9add35ad02e59.jpg" style="top: -405.99062133646px; width: 821px; height: 1231.9812426729px;" />
+	</a>
+	
+		<p class="background">&nbsp;</p>
+		<div class="title"><a title="kéo tẹc pơ huya" href="gallery/photos/keo-tec-po-huya.66030/?_source=widget&amp;widget_id=123">kéo tẹc pơ huya</a></div>
+	
+	
+</li>
+						
+					
+					
+				
+			</ul>
+		</div>
+	</div>
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+
+<div class="xengallerySidebar" style="display: inline-block;">
+		<div class="photosSidebar  " 
+			id="scrollable_widget_122" 
+			style="">
+			<ul>
+				
+					
+					
+						
+							<li style="max-width: 100%;width: 203px; height: 150px;">
+	<a class="thumbnail " href="gallery/photos/phut-bon.66052/?_source=widget&amp;widget_id=122" title="phút bôn" style="max-width: 100%; width: 203px; height: 150px;">
+		<img title="phút bôn" alt="phút bôn" src="https://tinhte.vn/store/2016/10/xengallery_photos_m_76221_31a258256d9087c73bc2c34732a66852.jpg" style="left: -20.782608695652px; width: 244.5652173913px; height: 150px;" />
+	</a>
+	
+		<p class="background">&nbsp;</p>
+		<div class="title"><a title="phút bôn" href="gallery/photos/phut-bon.66052/?_source=widget&amp;widget_id=122">phút bôn</a></div>
+	
+	
+		<div class="info">
+			<a href="members/tuanlionsg.298/" class="username" dir="auto">tuanlionsg</a>,
+			
+				<span class="DateTime" title="11:20 ngày 28/10/16">28/10/16</span>
+			
+		</div>
+	
+</li>
+						
+					
+						
+							<li style="max-width: 100%;width: 203px; height: 150px;">
+	<a class="thumbnail " href="gallery/photos/vn-from-above.66677/?_source=widget&amp;widget_id=122" title="VN from Above" style="max-width: 100%; width: 203px; height: 150px;">
+		<img title="VN from Above" alt="VN from Above" src="https://tinhte.vn/store/2016/11/xengallery_photos_m_76911_e31d62fd3bb3920dacff0eee0a4f2110.jpg" style="top: -0.78666666666666px; width: 203px; height: 151.57333333333px;" />
+	</a>
+	
+		<p class="background">&nbsp;</p>
+		<div class="title"><a title="VN from Above" href="gallery/photos/vn-from-above.66677/?_source=widget&amp;widget_id=122">VN from Above</a></div>
+	
+	
+		<div class="info">
+			<a href="members/tuanlionsg.298/" class="username" dir="auto">tuanlionsg</a>,
+			
+				<span class="DateTime" title="15:34 ngày 6/11/16">6/11/16</span>
+			
+		</div>
+	
+</li>
+						
+					
+						
+							<li style="max-width: 100%;width: 203px; height: 150px;">
+	<a class="thumbnail " href="gallery/photos/street.58587/?_source=widget&amp;widget_id=122" title="Street" style="max-width: 100%; width: 203px; height: 150px;">
+		<img title="Street" alt="Street" src="https://tinhte.vn/store/2016/09/xengallery_photos_m_68200_32c5a1c002fd42b1afc9df28fd5fb658.jpg" style="left: -12.136363636364px; width: 227.27272727273px; height: 150px;" />
+	</a>
+	
+		<p class="background">&nbsp;</p>
+		<div class="title"><a title="Street" href="gallery/photos/street.58587/?_source=widget&amp;widget_id=122">Street</a></div>
+	
+	
+		<div class="info">
+			<a href="members/gia-tuong.1773762/" class="username" dir="auto">Gia Tường</a>,
+			
+				<span class="DateTime" title="02:54 ngày 12/9/16">12/9/16</span>
+			
+		</div>
+	
+</li>
+						
+					
+						
+							<li style="max-width: 100%;width: 203px; height: 150px;">
+	<a class="thumbnail " href="gallery/photos/bw.66337/?_source=widget&amp;widget_id=122" title="BW" style="max-width: 100%; width: 203px; height: 150px;">
+		<img title="BW" alt="BW" src="https://tinhte.vn/store/2016/10/xengallery_photos_m_76556_c05fa567000c364444c3c7676b21d33d.png" style="left: -18.820855614973px; width: 240.64171122995px; height: 150px;" />
+	</a>
+	
+		<p class="background">&nbsp;</p>
+		<div class="title"><a title="BW" href="gallery/photos/bw.66337/?_source=widget&amp;widget_id=122">BW</a></div>
+	
+	
+		<div class="info">
+			<a href="members/tuanlionsg.298/" class="username" dir="auto">tuanlionsg</a>,
+			
+				<span class="DateTime" title="20:53 ngày 30/10/16">30/10/16</span>
+			
+		</div>
+	
+</li>
+						
+					
+					
+				
+			</ul>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+<div class="newsBlocks tt-utp-infinite-scrolling"
+	data-content-selector=".newsBlocks"
+	data-loading-html="&lt;small class=&quot;loading-html&quot;&gt;Đang tải&lt;/small&gt;"
+	data-paging-selector=".pagination"
+	data-times="2">
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2685080">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/dung-ngai-thiet-lap-auto-iso-cho-may-anh-so-cua-ban.2685080/" class="newsTitle">Đừng ngại thiết lập Auto ISO cho máy ảnh số của bạn</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/tuanlionsg.298/" class="username">tuanlionsg</a> vào <a href="threads/dung-ngai-thiet-lap-auto-iso-cho-may-anh-so-cua-ban.2685080/">Thứ tư lúc 16:01</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/dung-ngai-thiet-lap-auto-iso-cho-may-anh-so-cua-ban.2685080/">
+						<img class="bbCodeImage LbImage" alt="Đừng ngại thiết lập Auto ISO cho máy ảnh số của bạn" title="Đừng ngại thiết lập Auto ISO cho máy ảnh số của bạn" src="https://tinhte.vn/store/2017/03/3998904_CV.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Có một số bạn hỏi rằng có nên thiết lập auto ISO trên máy không, sợ nó lên cao quá thì nhiễu hạt bức ảnh. Mình có trả lời nhanh rằng "đừng ngại auto ISO". Nhưng thấy bạn còn băn khoăn nên chia sẻ thêm. Với công nghệ máy ảnh hiện nay, không còn phải lo lắng quá nhiều khi sử dụng Auto ISO nữa. Cứ để cho máy chọn giúp ISO, bạn sẽ thoải mái hơn cho việc quyết định khẩu độ hay tốc độ màn trập phù hợp với ý đồ hiệu ứng ảnh của mình thôi.
+
+Bạn cứ mạnh dạn thiết lập Auto ISO, rồi chụp chế độ ưu tiên...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2684522">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/anh-phong-canh-the-gioi-be-cong-chup-boi-aydin-bueyuektas.2684522/" class="newsTitle">[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/gia-tuong.1773762/" class="username">Gia Tường</a> vào <a href="threads/anh-phong-canh-the-gioi-be-cong-chup-boi-aydin-bueyuektas.2684522/">Thứ ba lúc 19:51</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/anh-phong-canh-the-gioi-be-cong-chup-boi-aydin-bueyuektas.2684522/">
+						<img class="bbCodeImage LbImage" alt="[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş" title="[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş" src="https://tinhte.vn/store/2017/03/3997345_cover.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Những bức ảnh phong cảnh "hại não" dưới đây được tạo ra nhờ kỹ thuật ghép ảnh. Nếu bạn đã xem phim Inception thì hẳn đã từng thấy cảnh thế giới phẳng bị bẻ cong 1 góc 90 độ. Tương tự vậy, Adyn đã dùng Drone chụp khoảng 10 đến 30 ảnh khác nhau tại góc đặc biệt và ghép lại để tạo nên các bức ảnh ấn tượng. Trước khi đi chụp, anh đã dành ra 2 tháng để khảo sát địa hình thông qua Google Earth. Sau khi đã nắm được vị trí, nội dung cần chụp, anh bỏ ra một tháng để đi thực địa.
+
+Mời các bạn xem...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2684718">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/huong-dan-thiet-lap-su-dung-thanh-thao-may-anh-toi-thu-tu-15-3.2684718/" class="newsTitle">Hướng dẫn thiết lập &amp; sử dụng  thành thạo máy ảnh - Tối thứ Tư 15/3</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/tuanlionsg.298/" class="username">tuanlionsg</a> vào <a href="threads/huong-dan-thiet-lap-su-dung-thanh-thao-may-anh-toi-thu-tu-15-3.2684718/">Thứ ba lúc 09:01</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/huong-dan-thiet-lap-su-dung-thanh-thao-may-anh-toi-thu-tu-15-3.2684718/">
+						<img class="bbCodeImage LbImage" alt="Hướng dẫn thiết lập &amp; sử dụng  thành thạo máy ảnh - Tối thứ Tư 15/3" title="Hướng dẫn thiết lập &amp; sử dụng  thành thạo máy ảnh - Tối thứ Tư 15/3" src="https://tinhte.vn/store/2017/03/3997944_CV.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Mời anh em dự buổi  học nhiếp ảnh với thầy @konica_baby (Hồ Văn Trị). Các buổi cơ bản này là để đáp ứng nhiều bạn hỏi hàng ngày, trong tất cả các bài chụp ảnh, tin nhắn... về các thông tin cơ bản cần thiết. Anh em nên dành thời gian hiểu rõ, nắm chắc kiến thức thiết yếu nhất về thiết bị ghi hình, về cách vận hành sao được hiệu quả, về lựa chọn mua thêm các phụ kiện cho đúng nhu cầu... Chúng ta đã có hai buổi về thiết bị...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2684291">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/he-thong-may-anh-four-thirds-chinh-thuc-bi-khai-tu-sau-18-nam-vinh-biet-nguoi-tien-phong.2684291/" class="newsTitle">Hệ thống máy ảnh Four Thirds chính thức bị khai tử sau 18 năm: Vĩnh biệt &quot;người tiên phong&quot;</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/gia-tuong.1773762/" class="username">Gia Tường</a> vào <a href="threads/he-thong-may-anh-four-thirds-chinh-thuc-bi-khai-tu-sau-18-nam-vinh-biet-nguoi-tien-phong.2684291/">Thứ hai lúc 20:59</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/he-thong-may-anh-four-thirds-chinh-thuc-bi-khai-tu-sau-18-nam-vinh-biet-nguoi-tien-phong.2684291/">
+						<img class="bbCodeImage LbImage" alt="Hệ thống máy ảnh Four Thirds chính thức bị khai tử sau 18 năm: Vĩnh biệt &quot;người tiên phong&quot;" title="Hệ thống máy ảnh Four Thirds chính thức bị khai tử sau 18 năm: Vĩnh biệt &quot;người tiên phong&quot;" src="https://tinhte.vn/store/2017/03/3997075_cover.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Olympus chính thức khai tử dòng ống kính Four Thirds nói riêng và hệ thống máy ảnh Four Thirds nói chung. Sau 6,5 năm kể từ khi máy ảnh Four Thirds cuối cùng ra mắt, Olympus đã chính thức khép lại hệ thống này sau 18 năm hình thành và thúc đẩy sự phát triển của công nghệ máy ảnh. Hệ thống Micro Four Third với nhiều ưu điểm hơn sẽ tiếp tục sứ mệnh đem lại chất lượng ảnh cao cho các máy dùng cảm biến 4/3". Chúng ta sẽ cùng nhìn lại những dấu mốc của hệ thống máy ảnh Four Thirds này...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2684505">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/de-chup-anh-duong-pho-tot-hon-voi-10-loi-khuyen-cua-blake-andrews.2684505/" class="newsTitle">Để chụp ảnh đường phố tốt hơn với 10 lời khuyên của Blake Andrews</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/tuanlionsg.298/" class="username">tuanlionsg</a> vào <a href="threads/de-chup-anh-duong-pho-tot-hon-voi-10-loi-khuyen-cua-blake-andrews.2684505/">Thứ hai lúc 11:50</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/de-chup-anh-duong-pho-tot-hon-voi-10-loi-khuyen-cua-blake-andrews.2684505/">
+						<img class="bbCodeImage LbImage" alt="Để chụp ảnh đường phố tốt hơn với 10 lời khuyên của Blake Andrews" title="Để chụp ảnh đường phố tốt hơn với 10 lời khuyên của Blake Andrews" src="https://tinhte.vn/store/2017/03/3997269_CV.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Trong nhiều người chia sẻ về chụp ảnh đường phố, thì Blake Andrews có những chia sẻ rất dễ đón nhận. Ông viết những gì ông từng thích khi chụp, không cầu kỳ kiến thức chuyên gia bậc thầy, không quá khắt khe với bản thân, luôn đam mê với việc chụp và chụp. Những chia sẻ của ông rất bộc trực, không giấu diếm ý tưởng hay dự định của bản thân, đưa ra những bình luận hay lời khuyên bổ ích cho những ai thích chụp, bằng phong cách đơn giản nhất, những...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2684426">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/nikon-d810-d500-d750-va-d7200-co-ban-cap-nhat-firmware-moi-sua-nhieu-loi-quan-trong.2684426/" class="newsTitle">Nikon D810, D500, D750 và D7200 có bản cập nhật firmware mới, sửa nhiều lỗi quan trọng</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/gia-tuong.1773762/" class="username">Gia Tường</a> vào <a href="threads/nikon-d810-d500-d750-va-d7200-co-ban-cap-nhat-firmware-moi-sua-nhieu-loi-quan-trong.2684426/">Thứ hai lúc 07:52</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/nikon-d810-d500-d750-va-d7200-co-ban-cap-nhat-firmware-moi-sua-nhieu-loi-quan-trong.2684426/">
+						<img class="bbCodeImage LbImage" alt="Nikon D810, D500, D750 và D7200 có bản cập nhật firmware mới, sửa nhiều lỗi quan trọng" title="Nikon D810, D500, D750 và D7200 có bản cập nhật firmware mới, sửa nhiều lỗi quan trọng" src="https://tinhte.vn/store/2017/03/3997084_cover.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Nikon vừa tung ra loạt firmware mới cho các máy DSLR phổ biến như như Nikon D810, D750, D500 và D7200. Riêng chiếc D810 được nâng cấp nhiều tình năng và sửa các lỗi tồn đọng. Các ban có thể tham khảo chi tiết các thay đổi dưới đây:
+
+Nikon D810: 
+Tải về Firmware 1.12 tại đây: Download Link
+Hỗ trợ phụ kiện WT-7 wireless transmitter
+Sửa lỗi
+Độ sáng của nhiều ảnh đôi...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2684282">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/hinh-anh-moi-xem-mot-so-anh-trong-trien-lam-anh-hoi-ngo-thang-3-tai-bao-loc-10-3-den-16-3-2017.2684282/" class="newsTitle">[Hình Ảnh] Mời xem một số ảnh trong Triển lãm ảnh &quot;Hội ngộ tháng 3&quot; tại Bảo Lộc 10/3 đến 16/3/2017</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/non-me.55578/" class="username">Non@me</a> vào <a href="threads/hinh-anh-moi-xem-mot-so-anh-trong-trien-lam-anh-hoi-ngo-thang-3-tai-bao-loc-10-3-den-16-3-2017.2684282/">Chủ nhật lúc 11:46</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/hinh-anh-moi-xem-mot-so-anh-trong-trien-lam-anh-hoi-ngo-thang-3-tai-bao-loc-10-3-den-16-3-2017.2684282/">
+						<img class="bbCodeImage LbImage" alt="[Hình Ảnh] Mời xem một số ảnh trong Triển lãm ảnh &quot;Hội ngộ tháng 3&quot; tại Bảo Lộc 10/3 đến 16/3/2017" title="[Hình Ảnh] Mời xem một số ảnh trong Triển lãm ảnh &quot;Hội ngộ tháng 3&quot; tại Bảo Lộc 10/3 đến 16/3/2017" src="https://tinhte.vn/store/2017/03/3996699_Cover_Trien_Lam_Hoi_Ngo_Thang_3.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Như Camera Tinh Tế đã chia sẻ thông tin về buổi ra mắt Triển lãm ảnh "Hội ngộ tháng 3" vào ngày 10/03/2017 vừa qua tại Tp Bảo Lộc của 5 CLB Nhiếp Ảnh (CLB Nhiếp Ảnh Bảo Lộc, CLB Nhiếp Ảnh Đà Lạt, CLB Nhiếp Ảnh Gia Định, CLB Nhiếp Ảnh Hội An và CLB Nhiếp Ảnh Hải Âu) nhân kỷ niệm 64 năm ngày thành lập Hội NSNA Việt Nam. Triển lãm đang được trưng bày tại Nhà Hàng Tâm Châu (294A Trần Phú - Bảo Lộc) từ ngày 10/03 đến 16/03/2017, với không gian rộng rãi thoáng mát với trà ngon và cà phê đậm...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2683965">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/10-nu-nhiep-anh-gia-co-anh-huong-lon-trong-lich-su-nhiep-anh.2683965/" class="newsTitle">10 nữ nhiếp ảnh gia có ảnh hưởng lớn trong lịch sử nhiếp ảnh</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/tuanlionsg.298/" class="username">tuanlionsg</a> vào <a href="threads/10-nu-nhiep-anh-gia-co-anh-huong-lon-trong-lich-su-nhiep-anh.2683965/">10/3/17</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/10-nu-nhiep-anh-gia-co-anh-huong-lon-trong-lich-su-nhiep-anh.2683965/">
+						<img class="bbCodeImage LbImage" alt="10 nữ nhiếp ảnh gia có ảnh hưởng lớn trong lịch sử nhiếp ảnh" title="10 nữ nhiếp ảnh gia có ảnh hưởng lớn trong lịch sử nhiếp ảnh" src="https://tinhte.vn/store/2017/03/3995473_CV.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Điểm qua 10 nữ nhiếp ảnh gia nổi tiếng đã đóng góp một phần lớn vào trong lịch sử nhiếp ảnh. Họ cùng đại diện cho sự đa dạng về các thể loại ảnh, phong cách chụp rất riêng và ở nhiều thời kỳ khác nhau. Đây là danh sách 10 nữ nhiếp ảnh gia nổi tiếng, trong đó có những người chuyên chụp chân dung, người khác nổi tiếng chụp ảnh thời trang, người khác nữa là phong cảnh hoặc tư liệu… Xem qua để thấy những nhiếp ảnh gia nữ xuất sắc này chọn cho mình những đề tài và hướng đi rất riêng và có phần...
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2683940">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/anh-dep-tu-cuoc-thi-sony-world-photography-awards-2017.2683940/" class="newsTitle">Ảnh đẹp từ cuộc thi Sony World Photography Awards 2017</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/ndminhduc.1657195/" class="username">ndminhduc</a> vào <a href="threads/anh-dep-tu-cuoc-thi-sony-world-photography-awards-2017.2683940/">10/3/17</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/anh-dep-tu-cuoc-thi-sony-world-photography-awards-2017.2683940/">
+						<img class="bbCodeImage LbImage" alt="Ảnh đẹp từ cuộc thi Sony World Photography Awards 2017" title="Ảnh đẹp từ cuộc thi Sony World Photography Awards 2017" src="https://tinhte.vn/store/2017/03/3995390_cv.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Cuộc thi ảnh thường niên Sony World Photography Awards năm nay đã nhận được 227.596 bài dự thi ở các hạng mục đến từ 183 nước trên thế giới. Rất nhiều ảnh đẹp đã được ban tổ chức lựa chọn chấm giải. Kết quả chung cuộc dự kiến sẽ được công bố vào ngày 20/4 sắp tới. Dưới đây là một vài hình ảnh đáng chú ý từ cuộc thi có kèm theo chú thích ở mỗi bức. 
+
+
+Mathilda. Bức ảnh lấy cảm hứng từ bộ phim nổi tiếng Leon. 
+
+
+Diamond-Dust....
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+		
+
+<div class="section sectionMain recentNews" id="thread-2683129">
+	<div class="primaryContent leftDate">
+		<h2 class="subHeading">
+			
+			<a href="threads/trai-nghiem-may-anh-pentax-k-70-nhung-an-tuong-tu-thiet-ke-den-hieu-nang.2683129/" class="newsTitle">Trải nghiệm máy ảnh Pentax K-70 - Những ấn tượng từ thiết kế đến hiệu năng</a>
+		</h2>
+
+		<div class="messageContent baseHtml">
+			<div class="postedBy">
+				<span class="posted"><div class="sticky"></div>Bởi <a href="members/sgear.2128314/" class="username">sGear</a> vào <a href="threads/trai-nghiem-may-anh-pentax-k-70-nhung-an-tuong-tu-thiet-ke-den-hieu-nang.2683129/">10/3/17</a></span>
+			</div>
+
+			<div class="newsText">
+				
+				<div align="center">
+					<a class="internalLink" href="threads/trai-nghiem-may-anh-pentax-k-70-nhung-an-tuong-tu-thiet-ke-den-hieu-nang.2683129/">
+						<img class="bbCodeImage LbImage" alt="Trải nghiệm máy ảnh Pentax K-70 - Những ấn tượng từ thiết kế đến hiệu năng" title="Trải nghiệm máy ảnh Pentax K-70 - Những ấn tượng từ thiết kế đến hiệu năng" src="https://tinhte.vn/store/2017/03/3995356_CV.jpg">
+					</a>
+				</div>
+				<br />
+				
+				Cách đây không lâu mình có giới thiệu đến các bạn dòng máy ảnh Sigma sử dụng cảm biến Foveon với vô vàn những điểm hạn chế nhưng vẫn khiến những người nghiện Sigma giữ trọn niềm thủy chung với dòng máy đặc biệt này.
+
+Lần này mình lại giới thiệu đến các bạn một thương hiệu máy ảnh khác cũng chỉ có 1 cộng đồng rất nhỏ nhưng họ vẫn giữ được niềm thủy chung sâu sắc tương tự như với máy ảnh của Sigma, đó chính là Pentax, và chiếc máy được đề cập lần này là Pentax K-70....
+			</div>
+			<div class="clearFix"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+
+	
+	
+	<div class="pagination tt-utp-next-link">
+		<a href="camera/?wpage=2">Sau</a>
+	</div>
+
+	
+</div>
+
+
+
+
+
+
+
+
+	<ol class="nodeList uix_nodeStyle_0 section">
+	
+		
+
+
+<li class="node forum level_2  node_71">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/tin-tuc.71/" data-description="#nodeDescription-71">Tin tức</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-71">Các bài giới thiệu phần cứng, phần mềm, những kinh nghiệm liên quan đến máy ảnh số Compact, dSLR và các phụ kiện.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>5,358</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>244,208</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442242/" title="Adobe ra mắt series video ngắn hướng dẫn dùng Photoshop, video dưới 1 phút, dễ xem dễ thực hành">Adobe ra mắt series video ngắn hướng dẫn dùng Photoshop, video dưới 1 phút, dễ xem dễ thực hành</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/chicken29986.26/" class="username" dir="auto">chicken29986</a>,</span>
+					
+						<a href="posts/49442242/" title="Adobe ra mắt series video ngắn hướng dẫn dùng Photoshop, video dưới 1 phút, dễ xem dễ thực hành"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489796105" data-diff="4362" data-datestring="18/3/17" data-timestring="07:15">07:15 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/tin-tuc.71/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_660">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/danh-gia.660/" data-description="#nodeDescription-660">Đánh giá</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-660">Các bài trên tay, nhận định về liên quan đến máy ảnh số Compact, dSLR và các phụ kiện.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>230</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>14,166</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442265/" title="Chụp nhanh với camera Huawei P10 ở Barcelona: camera trắng đen xuất sắc, camera màu khá">Chụp nhanh với camera Huawei P10 ở Barcelona: camera trắng đen xuất sắc, camera màu khá</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/myheartalone.255774/" class="username" dir="auto">myheartalone</a>,</span>
+					
+						<a href="posts/49442265/" title="Chụp nhanh với camera Huawei P10 ở Barcelona: camera trắng đen xuất sắc, camera màu khá"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489797186" data-diff="3281" data-datestring="18/3/17" data-timestring="07:33">07:33 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/danh-gia.660/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_559">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/su-kien-nhiep-anh.559/" data-description="#nodeDescription-559">Sự kiện nhiếp ảnh</a>
+				
+			</h3>
+
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>1,012</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>62,669</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442216/" title="Mời các bạn gởi ảnh tham gia thi ảnh tuần 3 tháng 3/2017 - Chủ đề: Chụp một đối tượng chuyển động">Mời các bạn gởi ảnh tham gia thi ảnh tuần 3 tháng 3/2017 - Chủ đề: Chụp một đối tượng chuyển động</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/cuong-popeye.2302298/" class="username" dir="auto">Cường popeye</a>,</span>
+					
+						<a href="posts/49442216/" title="Mời các bạn gởi ảnh tham gia thi ảnh tuần 3 tháng 3/2017 - Chủ đề: Chụp một đối tượng chuyển động"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489795136" data-diff="5331" data-datestring="18/3/17" data-timestring="06:58">06:58 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/su-kien-nhiep-anh.559/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_560">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/kien-thuc-cam-nang.560/" data-description="#nodeDescription-560">Kiến thức, cẩm nang</a>
+				
+			</h3>
+
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>605</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>29,403</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="forums/kien-thuc-cam-nang.560/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 1</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Kiến thức, cẩm nang</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_572">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/gui-bai-chia-se-tham-khao.572/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		Gửi bài chia sẻ, tham khảo</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442104/" title="Workshop NACB 3: Các yếu tố quyết định sự thành công của bức ảnh, kỹ thuật nâng cao, tips..">Workshop NACB 3: Các yếu tố quyết định sự thành công của bức ảnh, kỹ thuật nâng cao, tips..</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/pt-hai.2314181/" class="username" dir="auto">pt hai</a>,</span>
+					
+						<a href="posts/49442104/" title="Workshop NACB 3: Các yếu tố quyết định sự thành công của bức ảnh, kỹ thuật nâng cao, tips.."><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489777204" data-diff="23263" data-datestring="18/3/17" data-timestring="02:00">02:00 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/kien-thuc-cam-nang.560/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_566">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/nghe-thuat-chup-anh.566/" data-description="#nodeDescription-566">Nghệ thuật chụp ảnh</a>
+				
+			</h3>
+
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>753</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>21,672</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="forums/nghe-thuat-chup-anh.566/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 1</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Nghệ thuật chụp ảnh</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_573">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/gui-bai-chia-se-tham-khao.573/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		Gửi bài chia sẻ, tham khảo</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49440501/" title="[Nhiếp ảnh điện thoại] Bộ ảnh chụp bằng Lumia 929">[Nhiếp ảnh điện thoại] Bộ ảnh chụp bằng Lumia 929</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/luckystar0094.2297742/" class="username" dir="auto">luckystar0094</a>,</span>
+					
+						<a href="posts/49440501/" title="[Nhiếp ảnh điện thoại] Bộ ảnh chụp bằng Lumia 929"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489745613" data-diff="54854" data-datestring="17/3/17" data-timestring="17:13">17:13 ngày 17/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/nghe-thuat-chup-anh.566/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_571">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/xu-ly-anh-so.571/" data-description="#nodeDescription-571">Xử lý ảnh số</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-571">Chia sẻ, thảo luận về kỹ thuật xử lý ảnh số</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>686</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>13,049</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="forums/xu-ly-anh-so.571/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 1</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Xử lý ảnh số</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_574">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/gui-bai-chia-se-tham-khao.574/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		Gửi bài chia sẻ, tham khảo</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49440520/" title="[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş">[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/luckystar0094.2297742/" class="username" dir="auto">luckystar0094</a>,</span>
+					
+						<a href="posts/49440520/" title="[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489745877" data-diff="54590" data-datestring="17/3/17" data-timestring="17:17">17:17 ngày 17/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/xu-ly-anh-so.571/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_561">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/hoi-dap-thao-luan.561/" data-description="#nodeDescription-561">Hỏi đáp, thảo luận</a>
+				
+			</h3>
+
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>20,194</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>181,605</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="forums/hoi-dap-thao-luan.561/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 3</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Hỏi đáp, thảo luận</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_287">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/dslr.287/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		DSLR</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_289">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/may-anh-du-lich.289/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		Máy ảnh du lịch</a></h4>
+	</div>
+	
+</li>
+							
+								<li class="node forum level-n node_212">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/may-quay-phim.212/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		Máy quay phim</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442290/" title="Mua 6D nên mua thêm lens gì?">Mua 6D nên mua thêm lens gì?</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/thientn.307181/" class="username" dir="auto">thientn</a>,</span>
+					
+						<a href="posts/49442290/" title="Mua 6D nên mua thêm lens gì?"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489798172" data-diff="2295" data-datestring="18/3/17" data-timestring="07:49">07:49 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/hoi-dap-thao-luan.561/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_547">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/anh-binh-anh.547/" data-description="#nodeDescription-547">Ảnh &amp; Bình ảnh</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-547">Giới thiệu, chia sẻ và bình ảnh (Ảnh phải do người chụp gửi).</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>9,415</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>139,382</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="forums/anh-binh-anh.547/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 1</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Ảnh &amp; Bình ảnh</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_617">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/thi-anh.617/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		Thi ảnh</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442365/" title="Phong cảnh - Hình ảnh Châu Âu bằng Oppo F1s 2017 chế độ UltraHD">Phong cảnh - Hình ảnh Châu Âu bằng Oppo F1s 2017 chế độ UltraHD</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/bnk.2279480/" class="username" dir="auto">BNK</a>,</span>
+					
+						<a href="posts/49442365/" title="Phong cảnh - Hình ảnh Châu Âu bằng Oppo F1s 2017 chế độ UltraHD"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489799928" data-diff="539" data-datestring="18/3/17" data-timestring="08:18">08:18 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/anh-binh-anh.547/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_672">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/dien-anh.672/" data-description="#nodeDescription-672">Điện ảnh</a>
+				
+			</h3>
+
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>591</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>94,076</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442394/" title="Mời xem trailer 2 phim Transformers: The Last Knight: Đội quân tí hon đối đầu người máy khổng lồ">Mời xem trailer 2 phim Transformers: The Last Knight: Đội quân tí hon đối đầu người máy khổng lồ</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/tuanlionmaster.1970462/" class="username" dir="auto">tuanlionmaster</a>,</span>
+					
+						<a href="posts/49442394/" title="Mời xem trailer 2 phim Transformers: The Last Knight: Đội quân tí hon đối đầu người máy khổng lồ"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489800465" data-diff="2" data-datestring="18/3/17" data-timestring="08:27">08:27 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/dien-anh.672/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+	</ol>
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-container act-as-sidebar sidebar widget-single">
+	<div class="secondaryContent widget hook-widget Tinhte_XenTag_WidgetRenderer_TrendingThreadTags" id="widget-87">
+		<h3>
+			
+				Chuyên mục quan tâm
+			
+		</h3>
+		<ul class="tagCloud">
+	
+		<li><a href="tags/premiere-pro-cc-2017/" class="tagCloudTag tagCloudTag7">premiere pro cc 2017</a></li>
+	
+		<li><a href="tags/cp-2017/" class="tagCloudTag tagCloudTag6">cp+ 2017</a></li>
+	
+		<li><a href="tags/toi-thu-tu/" class="tagCloudTag tagCloudTag5">tối thứ tư</a></li>
+	
+		<li><a href="tags/kyxaodienanh/" class="tagCloudTag tagCloudTag3">kyxaodienanh</a></li>
+	
+		<li><a href="tags/premiere-cc-2017/" class="tagCloudTag tagCloudTag3">premiere cc 2017</a></li>
+	
+		<li><a href="tags/gfx-50s/" class="tagCloudTag tagCloudTag2">gfx 50s</a></li>
+	
+		<li><a href="tags/chau-tinh-tri/" class="tagCloudTag tagCloudTag2">châu tinh trì</a></li>
+	
+		<li><a href="tags/x-t20/" class="tagCloudTag tagCloudTag2">x-t20</a></li>
+	
+		<li><a href="tags/x100f/" class="tagCloudTag tagCloudTag1">x100f</a></li>
+	
+		<li><a href="tags/hoc-dung-phim/" class="tagCloudTag tagCloudTag1">học dựng phim</a></li>
+	
+		<li><a href="tags/nacb/" class="tagCloudTag tagCloudTag1">nacb</a></li>
+	
+		<li><a href="tags/fujifilm-gfx/" class="tagCloudTag tagCloudTag1">fujifilm gfx</a></li>
+	
+		<li><a href="tags/thi-anh-360/" class="tagCloudTag tagCloudTag1">thi ảnh 360</a></li>
+	
+		<li><a href="tags/360-city-explore/" class="tagCloudTag tagCloudTag1">360 city explore</a></li>
+	
+		<li><a href="tags/konica_baby/" class="tagCloudTag tagCloudTag1">konica_baby</a></li>
+	
+		<li><a href="tags/nacb-voi-konica_baby/" class="tagCloudTag tagCloudTag1">nacb với konica_baby</a></li>
+	
+		<li><a href="tags/cuong-tran/" class="tagCloudTag tagCloudTag1">cuong tran</a></li>
+	
+		<li><a href="tags/fujifilm-x-t20/" class="tagCloudTag tagCloudTag1">fujifilm x-t20</a></li>
+	
+		<li><a href="tags/fujifilm-x100f/" class="tagCloudTag tagCloudTag1">fujifilm x100f</a></li>
+	
+		<li><a href="tags/phim-sat-thu-bong-dem/" class="tagCloudTag tagCloudTag1">phim sát thủ bóng đêm</a></li>
+	
+		<li><a href="tags/pentax-kp/" class="tagCloudTag tagCloudTag1">pentax kp</a></li>
+	
+		<li><a href="tags/sony-mirrorless/" class="tagCloudTag tagCloudTag1">sony mirrorless</a></li>
+	
+		<li><a href="tags/change-to-color/" class="tagCloudTag tagCloudTag1">change to color</a></li>
+	
+		<li><a href="tags/leica-m10/" class="tagCloudTag tagCloudTag1">leica m10</a></li>
+	
+		<li><a href="tags/pat-motovlog/" class="tagCloudTag tagCloudTag1">pat motovlog</a></li>
+	
+		<li><a href="tags/nick-ut/" class="tagCloudTag tagCloudTag1">nick út</a></li>
+	
+		<li><a href="tags/gfx/" class="tagCloudTag tagCloudTag1">gfx</a></li>
+	
+		<li><a href="tags/thi-anh-tet/" class="tagCloudTag tagCloudTag1">thi ảnh tết</a></li>
+	
+		<li><a href="tags/a5-2017/" class="tagCloudTag tagCloudTag1">a5 2017</a></li>
+	
+		<li><a href="tags/toithutu/" class="tagCloudTag tagCloudTag1">toithutu</a></li>
+	
+	</ul>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+						
+
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Đăng nhập bằng Facebook</span></a></li>
+				
+				
+				
+				
+				
+					
+					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=CHRTTuqQU-EEEKix"><span>Đăng nhập bằng Google</span></span></li>
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Tên tài khoản hoặc Email:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Bạn đã có tài khoản?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						Chưa, tôi tạo tài khoản mới.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Có, mật khẩu của tôi là:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Quên mật khẩu?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Đăng nhập" tabindex="104" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Nhớ đăng nhập</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/camera/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+						
+						
+						
+			
+						
+
+	<div class="section funbox">
+	<div class="funboxWrapper">
+	
+
+		
+			
+				<div class="adWidget adWidget-adsense ad-9 slot-8" data-ad-id="9">
+			
+				
+				<ins class="adsbygoogle AdSenseLoader" style="display:block;" data-ad-client="ca-pub-4328742155432872" data-ad-slot="7560252252" data-ad-format="auto"></ins>
+			
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+			
+		
+
+	
+	</div>
+	</div>
+
+					</div>
+			
+
+					</div>
+
+					<!-- sidebar -->
+					<aside class="uix_mainSidebar">
+						<div class="inner_wrapper">
+							<div class="sidebar">
+								
+								
+								
+
+<div class="section loginButton">
+	<div class="secondaryContent">
+		<label id="SignupButton"><a href="register/" class="inner">Đăng ký thành viên</a></label>
+	</div>
+</div>
+
+
+
+
+
+
+								<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget Tinhte_ShowChildrenThreads_WidgetRenderer_Sidebar" id="widget-97">
+		<h3>
+			
+				Camera.Tinhte.vn
+			
+		</h3>
+		<ul class="TinhteNodeSidebar right childRoot">
+<li class="menu level1 noChild">	<a title="Tin tức" class="link" href="forums/tin-tuc.71/"><span class="linkLabel">Tin tức<span class="counter muted">5,358</span></span></a>
+</li><li class="menu level1 noChild">	<a title="Đánh giá" class="link" href="forums/danh-gia.660/"><span class="linkLabel">Đánh giá<span class="counter muted">230</span></span></a>
+</li><li class="menu level1 noChild">	<a title="Sự kiện nhiếp ảnh" class="link" href="forums/su-kien-nhiep-anh.559/"><span class="linkLabel">Sự kiện nhiếp ảnh<span class="counter muted">1,012</span></span></a>
+</li><li class="menu level1 hasChild">	<a title="Kiến thức, cẩm nang" class="link" href="forums/kien-thuc-cam-nang.560/"><span class="linkLabel">Kiến thức, cẩm nang<span class="counter muted">605</span></span></a>
+<ul class="menuChild level1">
+<li class="menu level2 noChild">	<a title="Gửi bài chia sẻ, tham khảo" class="link Tooltip" href="forums/gui-bai-chia-se-tham-khao.572/"><span class="linkLabel">Gửi bài chia sẻ, tham khảo<span class="counter muted">304</span></span></a>
+</li>
+</ul>
+</li><li class="menu level1 hasChild">	<a title="Nghệ thuật chụp ảnh" class="link" href="forums/nghe-thuat-chup-anh.566/"><span class="linkLabel">Nghệ thuật chụp ảnh<span class="counter muted">753</span></span></a>
+<ul class="menuChild level1">
+<li class="menu level2 noChild">	<a title="Gửi bài chia sẻ, tham khảo" class="link Tooltip" href="forums/gui-bai-chia-se-tham-khao.573/"><span class="linkLabel">Gửi bài chia sẻ, tham khảo<span class="counter muted">434</span></span></a>
+</li>
+</ul>
+</li><li class="menu level1 hasChild">	<a title="Xử lý ảnh số" class="link" href="forums/xu-ly-anh-so.571/"><span class="linkLabel">Xử lý ảnh số<span class="counter muted">686</span></span></a>
+<ul class="menuChild level1">
+<li class="menu level2 noChild">	<a title="Gửi bài chia sẻ, tham khảo" class="link Tooltip" href="forums/gui-bai-chia-se-tham-khao.574/"><span class="linkLabel">Gửi bài chia sẻ, tham khảo<span class="counter muted">533</span></span></a>
+</li>
+</ul>
+</li><li class="menu level1 hasChild">	<a title="Hỏi đáp, thảo luận" class="link" href="forums/hoi-dap-thao-luan.561/"><span class="linkLabel">Hỏi đáp, thảo luận<span class="counter muted">20,194</span></span></a>
+<ul class="menuChild level1">
+<li class="menu level2 noChild">	<a title="DSLR" class="link" href="forums/dslr.287/"><span class="linkLabel">DSLR<span class="counter muted">6,028</span></span></a>
+</li><li class="menu level2 noChild">	<a title="Máy ảnh du lịch" class="link" href="forums/may-anh-du-lich.289/"><span class="linkLabel">Máy ảnh du lịch<span class="counter muted">2,274</span></span></a>
+</li><li class="menu level2 noChild">	<a title="Máy quay phim" class="link" href="forums/may-quay-phim.212/"><span class="linkLabel">Máy quay phim<span class="counter muted">818</span></span></a>
+</li>
+</ul>
+</li><li class="menu level1 hasChild">	<a title="Ảnh &amp; Bình ảnh" class="link" href="forums/anh-binh-anh.547/"><span class="linkLabel">Ảnh &amp; Bình ảnh<span class="counter muted">9,415</span></span></a>
+<ul class="menuChild level1">
+<li class="menu level2 noChild">	<a title="Thi ảnh" class="link" href="forums/thi-anh.617/"><span class="linkLabel">Thi ảnh<span class="counter muted">196</span></span></a>
+</li>
+</ul>
+</li><li class="menu level1 noChild">	<a title="Điện ảnh" class="link" href="forums/dien-anh.672/"><span class="linkLabel">Điện ảnh<span class="counter muted">591</span></span></a>
+</li>
+</ul>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="adWidget adWidget-gpt ad-1 slot-2" data-ad-id="1">
+			
+				
+				<ins class="GptLoader" style="display:block;"  data-min-client-width="800"data-ad-unit-path="/3823916/Tinhte_Desktop_Forum_Right_1" data-ad-size-width="300" data-ad-size-height="250"></ins>
+			
+		</div>
+
+
+
+
+
+<div class="adWidget adWidget-gpt ad-2 slot-30" data-ad-id="2">
+			
+				
+				<ins class="GptLoader" style="display:block;"  data-min-client-width="800"data-ad-unit-path="/3823916/Tinhte_Desktop_Forum_Right_2" data-ad-size-width="300" data-ad-size-height="250"></ins>
+			
+		</div>
+
+
+
+
+
+<a href="/gallery"><img src="https://tinhte.vn/store/2016/08/xengallery_photos_l_64584_9ddc66761656c73928ed9b1781be831d.jpg"></img></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-84">
+		<h3>
+			
+				Bài quan tâm
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2685293 thread-node-559">
+			<a href="threads/moi-cac-ban-goi-anh-tham-gia-thi-anh-tuan-3-thang-3-2017-chu-de-chup-mot-doi-tuong-chuyen-dong.2685293/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/82/d6cf6f9607dcc170f350ddc03bb71d52.jpg?2286" alt="Mời các bạn gởi ảnh tham gia thi ảnh tuần 3 tháng 3/2017 - Chủ đề: Chụp một đối tượng chuyển động"></a>
+
+			<a href="threads/moi-cac-ban-goi-anh-tham-gia-thi-anh-tuan-3-thang-3-2017-chu-de-chup-mot-doi-tuong-chuyen-dong.2685293/" class="title">Mời các bạn gởi ảnh tham gia thi ảnh tuần 3 tháng 3/2017 - Chủ đề: Chụp một đối tượng chuyển động</a>
+		</li>
+		
+		<li class="thread-2684494 thread-node-672">
+			<a href="threads/phim-kong-skull-island-thang-lon-o-viet-nam-sau-3-ngay-chieu-ban-700-000-ve-thu-hon-62-ty-dong.2684494/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/6b/50285ec51028e25c07c23e71278c6770.jpg?2470" alt="Phim Kong: Skull Island thắng lớn ở Việt Nam: sau 3 ngày chiếu bán 700.000 vé, thu hơn 62 tỷ đồng"></a>
+
+			<a href="threads/phim-kong-skull-island-thang-lon-o-viet-nam-sau-3-ngay-chieu-ban-700-000-ve-thu-hon-62-ty-dong.2684494/" class="title">Phim Kong: Skull Island thắng lớn ở Việt Nam: sau 3 ngày chiếu bán 700.000 vé, thu hơn 62 tỷ đồng</a>
+		</li>
+		
+		<li class="thread-2684461 thread-node-672">
+			<a href="threads/origin-trailer-wonder-woman-co-gai-do-la-ai.2684461/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/8d/743ccd5da0408f96a46b3ab7a71008dc.jpg?2269" alt="Origin trailer Wonder Woman: cô gái đó là ai?"></a>
+
+			<a href="threads/origin-trailer-wonder-woman-co-gai-do-la-ai.2684461/" class="title">Origin trailer Wonder Woman: cô gái đó là ai?</a>
+		</li>
+		
+		<li class="thread-2684718 thread-node-559">
+			<a href="threads/huong-dan-thiet-lap-su-dung-thanh-thao-may-anh-toi-thu-tu-15-3.2684718/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/63/4a0c69543bc57c0073abf669683e7927.jpg?3179" alt="Hướng dẫn thiết lập &amp; sử dụng  thành thạo máy ảnh - Tối thứ Tư 15/3"></a>
+
+			<a href="threads/huong-dan-thiet-lap-su-dung-thanh-thao-may-anh-toi-thu-tu-15-3.2684718/" class="title">Hướng dẫn thiết lập &amp; sử dụng  thành thạo máy ảnh - Tối thứ Tư 15/3</a>
+		</li>
+		
+		<li class="thread-2685066 thread-node-672">
+			<a href="threads/tin-don-wb-se-lam-lai-phim-the-matrix-michael-b-jordan-dong-vai-chinh.2685066/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/01/c01d95ddb4e66bba798bcbe340168740.jpg?2318" alt="[Tin đồn] WB sẽ làm lại phim The Matrix, Michael B. Jordan đóng vai chính"></a>
+
+			<a href="threads/tin-don-wb-se-lam-lai-phim-the-matrix-michael-b-jordan-dong-vai-chinh.2685066/" class="title">[Tin đồn] WB sẽ làm lại phim The Matrix, Michael B. Jordan đóng vai chính</a>
+		</li>
+		
+		<li class="thread-2685317 thread-node-71">
+			<a href="threads/sony-ra-mat-tinh-nang-digital-filter-cho-chup-phong-canh-danh-cho-may-alpha-mirrorless-gia-tu-20.2685317/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/4a/ccdfbc378bf82316924da8a7fd5d0f6a.jpg?2074" alt="Sony ra mắt tính năng Digital Filter cho chụp phong cảnh, dành cho máy Alpha mirrorless, giá từ $20"></a>
+
+			<a href="threads/sony-ra-mat-tinh-nang-digital-filter-cho-chup-phong-canh-danh-cho-may-alpha-mirrorless-gia-tu-20.2685317/" class="title">Sony ra mắt tính năng Digital Filter cho chụp phong cảnh, dành cho máy Alpha mirrorless, giá từ $20</a>
+		</li>
+		
+		<li class="thread-2684291 thread-node-660">
+			<a href="threads/he-thong-may-anh-four-thirds-chinh-thuc-bi-khai-tu-sau-18-nam-vinh-biet-nguoi-tien-phong.2684291/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/5c/e398043a61b9b42b1a55585b3dd56f64.jpg?2323" alt="Hệ thống máy ảnh Four Thirds chính thức bị khai tử sau 18 năm: Vĩnh biệt &quot;người tiên phong&quot;"></a>
+
+			<a href="threads/he-thong-may-anh-four-thirds-chinh-thuc-bi-khai-tu-sau-18-nam-vinh-biet-nguoi-tien-phong.2684291/" class="title">Hệ thống máy ảnh Four Thirds chính thức bị khai tử sau 18 năm: Vĩnh biệt &quot;người tiên phong&quot;</a>
+		</li>
+		
+		<li class="thread-2685604 thread-node-672">
+			<a href="threads/moi-xem-trailer-2-phim-transformers-the-last-knight-doi-quan-ti-hon-doi-dau-nguoi-may-khong-lo.2685604/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/4a/791803596b94e221c2d2998ad0227dcc.jpg?3189" alt="Mời xem trailer 2 phim Transformers: The Last Knight: Đội quân tí hon đối đầu người máy khổng lồ"></a>
+
+			<a href="threads/moi-xem-trailer-2-phim-transformers-the-last-knight-doi-quan-ti-hon-doi-dau-nguoi-may-khong-lo.2685604/" class="title">Mời xem trailer 2 phim Transformers: The Last Knight: Đội quân tí hon đối đầu người máy khổng lồ</a>
+		</li>
+		
+		<li class="thread-2684522 thread-node-571">
+			<a href="threads/anh-phong-canh-the-gioi-be-cong-chup-boi-aydin-bueyuektas.2684522/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/75/82de48f436818b47f79d738a720ad19a.jpg?2778" alt="[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş"></a>
+
+			<a href="threads/anh-phong-canh-the-gioi-be-cong-chup-boi-aydin-bueyuektas.2684522/" class="title">[Ảnh phong cảnh] Thế giới bẻ cong - Chụp bởi Aydın Büyüktaş</a>
+		</li>
+		
+		<li class="thread-2685080 thread-node-560">
+			<a href="threads/dung-ngai-thiet-lap-auto-iso-cho-may-anh-so-cua-ban.2685080/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/74/b5c0471cde081805c3028522f25f8b1b.jpg?2975" alt="Đừng ngại thiết lập Auto ISO cho máy ảnh số của bạn"></a>
+
+			<a href="threads/dung-ngai-thiet-lap-auto-iso-cho-may-anh-so-cua-ban.2685080/" class="title">Đừng ngại thiết lập Auto ISO cho máy ảnh số của bạn</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-55">
+		<h3>
+			
+				Offline Camera
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2684718 thread-node-559">
+			<a href="threads/huong-dan-thiet-lap-su-dung-thanh-thao-may-anh-toi-thu-tu-15-3.2684718/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/63/4a0c69543bc57c0073abf669683e7927.jpg?3179" alt="Hướng dẫn thiết lập &amp; sử dụng  thành thạo máy ảnh - Tối thứ Tư 15/3"></a>
+
+			<a href="threads/huong-dan-thiet-lap-su-dung-thanh-thao-may-anh-toi-thu-tu-15-3.2684718/" class="title">Hướng dẫn thiết lập &amp; sử dụng  thành thạo máy ảnh - Tối thứ Tư 15/3</a>
+		</li>
+		
+		<li class="thread-2682314 thread-node-560">
+			<a href="threads/noi-dung-buoi-workshop-nacb-1-tim-hieu-may-anh-van-hanh-may-anh-cac-ky-thuat-su-dung-may-anh.2682314/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/e6/a0a30b71c9e97e27188408fbc634508b.jpg?6187" alt="Nội dung buổi workshop NACB 1: Tìm hiểu máy ảnh, vận hành máy ảnh, các kỹ thuật sử dụng máy ảnh ..."></a>
+
+			<a href="threads/noi-dung-buoi-workshop-nacb-1-tim-hieu-may-anh-van-hanh-may-anh-cac-ky-thuat-su-dung-may-anh.2682314/" class="title">Nội dung buổi workshop NACB 1: Tìm hiểu máy ảnh, vận hành máy ảnh, các kỹ thuật sử dụng máy ảnh ...</a>
+		</li>
+		
+		<li class="thread-2674025 thread-node-559">
+			<a href="threads/camera-tinh-te-nha-trang-offline-chup-anh-don-xuan-con-ga-mau-nu-va-ao-dai-cach-tan.2674025/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/7e/f42d46ac95143347f99196d5c84e9d62.jpg?3925" alt="[Camera Tinh tế Nha trang] Offline chụp ảnh đón xuân con Gà - Mẫu nữ và áo dài cách tân"></a>
+
+			<a href="threads/camera-tinh-te-nha-trang-offline-chup-anh-don-xuan-con-ga-mau-nu-va-ao-dai-cach-tan.2674025/" class="title">[Camera Tinh tế Nha trang] Offline chụp ảnh đón xuân con Gà - Mẫu nữ và áo dài cách tân</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-96">
+		<h3>
+			
+				Bài viết quan tâm
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2684494 thread-node-672">
+			<a href="threads/phim-kong-skull-island-thang-lon-o-viet-nam-sau-3-ngay-chieu-ban-700-000-ve-thu-hon-62-ty-dong.2684494/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/6b/50285ec51028e25c07c23e71278c6770.jpg?2470" alt="Phim Kong: Skull Island thắng lớn ở Việt Nam: sau 3 ngày chiếu bán 700.000 vé, thu hơn 62 tỷ đồng"></a>
+
+			<a href="threads/phim-kong-skull-island-thang-lon-o-viet-nam-sau-3-ngay-chieu-ban-700-000-ve-thu-hon-62-ty-dong.2684494/" class="title">Phim Kong: Skull Island thắng lớn ở Việt Nam: sau 3 ngày chiếu bán 700.000 vé, thu hơn 62 tỷ đồng</a>
+		</li>
+		
+		<li class="thread-2682364 thread-node-559">
+			<a href="threads/bo-anh-nhat-ky-day-cam-xuc-thi-giac-duoc-chup-bang-iphone-nag-hai-thanh.2682364/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/cf/33dfb43cf751e8f606fff1cb97d82510.jpg?3782" alt="Bộ ảnh &quot;nhật ký&quot; đầy cảm xúc thị giác được chụp bằng iPhone - NAG Hải Thanh"></a>
+
+			<a href="threads/bo-anh-nhat-ky-day-cam-xuc-thi-giac-duoc-chup-bang-iphone-nag-hai-thanh.2682364/" class="title">Bộ ảnh &quot;nhật ký&quot; đầy cảm xúc thị giác được chụp bằng iPhone - NAG Hải Thanh</a>
+		</li>
+		
+		<li class="thread-2682152 thread-node-559">
+			<a href="threads/moi-cac-ban-goi-anh-khoe-thiet-bi-dang-dung-tuan-1-thang-3-nam-2017.2682152/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/95/2b90f4d31eae48af09d541206692f229.jpg?6035" alt="Mời các bạn gởi ảnh khoe thiết bị đang dùng - Tuần 1 tháng 3 năm 2017"></a>
+
+			<a href="threads/moi-cac-ban-goi-anh-khoe-thiet-bi-dang-dung-tuan-1-thang-3-nam-2017.2682152/" class="title">Mời các bạn gởi ảnh khoe thiết bị đang dùng - Tuần 1 tháng 3 năm 2017</a>
+		</li>
+		
+		<li class="thread-2681446 thread-node-560">
+			<a href="threads/mwc17-cong-nghe-zoom-quang-tau-ngam-3x-cua-oppo-hoat-dong-ra-sao.2681446/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/80/d1d18461d5c30f3fe3ceefea78a7b044.jpg?3254" alt="#MWC17: Công nghệ zoom quang &quot;tàu ngầm&quot; 3x của Oppo hoạt động ra sao?"></a>
+
+			<a href="threads/mwc17-cong-nghe-zoom-quang-tau-ngam-3x-cua-oppo-hoat-dong-ra-sao.2681446/" class="title">#MWC17: Công nghệ zoom quang &quot;tàu ngầm&quot; 3x của Oppo hoạt động ra sao?</a>
+		</li>
+		
+		<li class="thread-2680588 thread-node-561">
+			<a href="threads/chup-hinh-su-kien-tu-nhien.2680588/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/92/43d12c5a34dc7ef324bb49f990c6fc07.jpg?5769" alt="Chụp Hình Sự Kiện Tự Nhiên"></a>
+
+			<a href="threads/chup-hinh-su-kien-tu-nhien.2680588/" class="title">Chụp Hình Sự Kiện Tự Nhiên</a>
+		</li>
+		
+		<li class="thread-2681873 thread-node-559">
+			<a href="threads/thi-anh-moi-chia-se-anh-hem-sai-gon-nhan-nhieu-qua-tang-tu-wd-bulldog-khacten-metrophone.2681873/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/3b/6333ee7800ee0b3605330569784a4ead.jpg?3825" alt="[Thi ảnh] Mời chia sẻ ảnh &quot;Hẻm Sài gòn&quot; nhận nhiều quà tặng từ WD, Bulldog, Khacten, Metrophone..."></a>
+
+			<a href="threads/thi-anh-moi-chia-se-anh-hem-sai-gon-nhan-nhieu-qua-tang-tu-wd-bulldog-khacten-metrophone.2681873/" class="title">[Thi ảnh] Mời chia sẻ ảnh &quot;Hẻm Sài gòn&quot; nhận nhiều quà tặng từ WD, Bulldog, Khacten, Metrophone...</a>
+		</li>
+		
+		<li class="thread-2681412 thread-node-71">
+			<a href="threads/oppo-su-dung-cau-truc-giong-kinh-tiem-vong-tau-ngam-de-lam-camera-zoom-quang-3x-khong-loi.2681412/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ad/2fb8400bd4622f34d735eae2e0389d32.jpg?3044" alt="Oppo sử dụng cấu trúc giống kính tiềm vọng tàu ngầm để làm camera zoom quang 3X không lồi"></a>
+
+			<a href="threads/oppo-su-dung-cau-truc-giong-kinh-tiem-vong-tau-ngam-de-lam-camera-zoom-quang-3x-khong-loi.2681412/" class="title">Oppo sử dụng cấu trúc giống kính tiềm vọng tàu ngầm để làm camera zoom quang 3X không lồi</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-120">
+		<h3>
+			
+				Trên tay
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2678077 thread-node-71">
+			<a href="threads/tren-tay-leica-m10-nang-cap-manh-me-so-voi-cac-dong-m-truoc.2678077/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/52/dcfc37eff0122d940208f4c6c21a7c2a.jpg?5216" alt="Trên tay Leica M10: nâng cấp mạnh mẽ so với các dòng M trước"></a>
+
+			<a href="threads/tren-tay-leica-m10-nang-cap-manh-me-so-voi-cac-dong-m-truoc.2678077/" class="title">Trên tay Leica M10: nâng cấp mạnh mẽ so với các dòng M trước</a>
+		</li>
+		
+		<li class="thread-2673986 thread-node-71">
+			<a href="threads/tren-tay-gopro-karma-doi-thu-chinh-la-dji-phantom-khong-phai-dji-mavic.2673986/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ad/c2550c4b9fc261b6a625aa17fa3d0032.jpg?5757" alt="Trên tay GoPro Karma: đối thủ chính là DJI Phantom, không phải DJI Mavic"></a>
+
+			<a href="threads/tren-tay-gopro-karma-doi-thu-chinh-la-dji-phantom-khong-phai-dji-mavic.2673986/" class="title">Trên tay GoPro Karma: đối thủ chính là DJI Phantom, không phải DJI Mavic</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-52">
+		<h3>
+			
+				Kiến thức nhiếp ảnh
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2685166 thread-node-560">
+			<a href="threads/workshop-nacb-3-cac-yeu-to-quyet-dinh-su-thanh-cong-cua-buc-anh-ky-thuat-nang-cao-tips.2685166/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/d0/52d6ca37b009e5845acf48240ad8e864.jpg?2808" alt="Workshop NACB 3: Các yếu tố quyết định sự thành công của bức ảnh, kỹ thuật nâng cao, tips.."></a>
+
+			<a href="threads/workshop-nacb-3-cac-yeu-to-quyet-dinh-su-thanh-cong-cua-buc-anh-ky-thuat-nang-cao-tips.2685166/" class="title">Workshop NACB 3: Các yếu tố quyết định sự thành công của bức ảnh, kỹ thuật nâng cao, tips..</a>
+		</li>
+		
+		<li class="thread-2685080 thread-node-560">
+			<a href="threads/dung-ngai-thiet-lap-auto-iso-cho-may-anh-so-cua-ban.2685080/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/74/b5c0471cde081805c3028522f25f8b1b.jpg?2975" alt="Đừng ngại thiết lập Auto ISO cho máy ảnh số của bạn"></a>
+
+			<a href="threads/dung-ngai-thiet-lap-auto-iso-cho-may-anh-so-cua-ban.2685080/" class="title">Đừng ngại thiết lập Auto ISO cho máy ảnh số của bạn</a>
+		</li>
+		
+		<li class="thread-2683965 thread-node-560">
+			<a href="threads/10-nu-nhiep-anh-gia-co-anh-huong-lon-trong-lich-su-nhiep-anh.2683965/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/f4/03c58c6387ff83cf44c3c9c289bb3099.jpg?2825" alt="10 nữ nhiếp ảnh gia có ảnh hưởng lớn trong lịch sử nhiếp ảnh"></a>
+
+			<a href="threads/10-nu-nhiep-anh-gia-co-anh-huong-lon-trong-lich-su-nhiep-anh.2683965/" class="title">10 nữ nhiếp ảnh gia có ảnh hưởng lớn trong lịch sử nhiếp ảnh</a>
+		</li>
+		
+		<li class="thread-2682314 thread-node-560">
+			<a href="threads/noi-dung-buoi-workshop-nacb-1-tim-hieu-may-anh-van-hanh-may-anh-cac-ky-thuat-su-dung-may-anh.2682314/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/e6/a0a30b71c9e97e27188408fbc634508b.jpg?6187" alt="Nội dung buổi workshop NACB 1: Tìm hiểu máy ảnh, vận hành máy ảnh, các kỹ thuật sử dụng máy ảnh ..."></a>
+
+			<a href="threads/noi-dung-buoi-workshop-nacb-1-tim-hieu-may-anh-van-hanh-may-anh-cac-ky-thuat-su-dung-may-anh.2682314/" class="title">Nội dung buổi workshop NACB 1: Tìm hiểu máy ảnh, vận hành máy ảnh, các kỹ thuật sử dụng máy ảnh ...</a>
+		</li>
+		
+		<li class="thread-2681446 thread-node-560">
+			<a href="threads/mwc17-cong-nghe-zoom-quang-tau-ngam-3x-cua-oppo-hoat-dong-ra-sao.2681446/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/80/d1d18461d5c30f3fe3ceefea78a7b044.jpg?3254" alt="#MWC17: Công nghệ zoom quang &quot;tàu ngầm&quot; 3x của Oppo hoạt động ra sao?"></a>
+
+			<a href="threads/mwc17-cong-nghe-zoom-quang-tau-ngam-3x-cua-oppo-hoat-dong-ra-sao.2681446/" class="title">#MWC17: Công nghệ zoom quang &quot;tàu ngầm&quot; 3x của Oppo hoạt động ra sao?</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-59">
+		<h3>
+			
+				Nghệ thuật chụp ảnh
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2684505 thread-node-566">
+			<a href="threads/de-chup-anh-duong-pho-tot-hon-voi-10-loi-khuyen-cua-blake-andrews.2684505/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/fa/5ea53f5c6f7b1b677940fcce1fa54658.jpg?2472" alt="Để chụp ảnh đường phố tốt hơn với 10 lời khuyên của Blake Andrews"></a>
+
+			<a href="threads/de-chup-anh-duong-pho-tot-hon-voi-10-loi-khuyen-cua-blake-andrews.2684505/" class="title">Để chụp ảnh đường phố tốt hơn với 10 lời khuyên của Blake Andrews</a>
+		</li>
+		
+		<li class="thread-2680565 thread-node-566">
+			<a href="threads/chup-anh-duong-pho-chup-gi-chup-the-nao-cai-toi-trong-anh-duong-pho-cuong-tran.2680565/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/f1/f9369f699005b512d77446f47ecf8ef9.jpg?6233" alt="Chụp ảnh Đường Phố: Chụp gì? Chụp thế nào? Cái tôi trong ảnh đường phố - Cương Trần"></a>
+
+			<a href="threads/chup-anh-duong-pho-chup-gi-chup-the-nao-cai-toi-trong-anh-duong-pho-cuong-tran.2680565/" class="title">Chụp ảnh Đường Phố: Chụp gì? Chụp thế nào? Cái tôi trong ảnh đường phố - Cương Trần</a>
+		</li>
+		
+		<li class="thread-2677367 thread-node-566">
+			<a href="threads/hoc-chup-anh-chup-voi-goc-may-thap-kieu-nhin-cua-loai-kien.2677367/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/1a/70292eb04697c1f7d1ff3f4b27440f65.jpg?4027" alt="[Học chụp ảnh] Chụp với góc máy thấp - Kiểu nhìn của loài kiến"></a>
+
+			<a href="threads/hoc-chup-anh-chup-voi-goc-may-thap-kieu-nhin-cua-loai-kien.2677367/" class="title">[Học chụp ảnh] Chụp với góc máy thấp - Kiểu nhìn của loài kiến</a>
+		</li>
+		
+		<li class="thread-2676222 thread-node-566">
+			<a href="threads/8-thu-thuat-nuoi-duong-dong-luc-cam-hung-chup-anh.2676222/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/ee/b1ddcf2726c60a7988712c1aec8c81d2.jpg?4131" alt="8 thủ thuật nuôi dưỡng động lực &amp; cảm hứng chụp ảnh"></a>
+
+			<a href="threads/8-thu-thuat-nuoi-duong-dong-luc-cam-hung-chup-anh.2676222/" class="title">8 thủ thuật nuôi dưỡng động lực &amp; cảm hứng chụp ảnh</a>
+		</li>
+		
+		<li class="thread-2676130 thread-node-566">
+			<a href="threads/5-thu-thuat-lay-net-tot-hon-khi-chup-anh-phong-canh.2676130/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/17/bcef8bc44e2ac9eb689eda174b5b4dd2.png?9754" alt="5 thủ thuật lấy nét tốt hơn khi chụp ảnh phong cảnh"></a>
+
+			<a href="threads/5-thu-thuat-lay-net-tot-hon-khi-chup-anh-phong-canh.2676130/" class="title">5 thủ thuật lấy nét tốt hơn khi chụp ảnh phong cảnh</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="section" style='width:300px;margin-left:auto;margin-right:auto'>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fcamera.tinhte.vn&amp;width=300&amp;height=263&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=142276525960907" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:270px;" allowTransparency="true"></iframe></div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="adWidget adWidget-gpt ad-3 slot-4" data-ad-id="3">
+			
+				
+				<ins class="GptLoader" style="display:block;"  data-min-client-width="800"data-ad-unit-path="/3823916/Tinhte_Right_Banner_3" data-ad-size-width="300" data-ad-size-height="600"></ins>
+			
+		</div>
+								
+								
+							</div>
+						</div>
+					</aside>
+				</div>
+			
+
+		
+
+			
+
+			</div>
+	
+		</div>
+	</div>
+	
+
+</div>
+
+<footer>
+	
+
+
+
+
+
+
+<div id="uix_stickyFooterSpacer"></div>
+
+
+
+<div class="footer">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+
+				
+				
+				
+				
+				
+				<ul class="footerLinks">
+					
+						<li><a href="https://tinhte.vn/forums/" class="homeLink">Trang chủ</a></li>
+						
+						<li><a href="hotro/">Giúp đỡ</a></li>
+					
+					
+						<li><a href="http://www.tinhte.vn/threads/noi-quy-dien-dan.20/">Điều khoản & Quy định</a></li>
+						
+					
+					<li class="topLink"><a href="/camera/#XenForo"><i class="uix_icon uix_icon-jumpToTop"></i> <span class="uix_hide">Lên đầu</span></a></li>
+				</ul>
+				
+
+			
+			<span class="helper"></span>
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+<div class="bigFooter">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+
+			
+
+
+			<ul class="bigFooterRow bigFooterRow--mainRow bigFooterRow--has4Columns">
+				<li class="bigFooterCol bigFooterCol--col1">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Tinhte.vn
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://tinhte.vn/">Trang nhất</a></li>
+	<li><a href="https://tinhte.vn/forum/">Diễn đàn</a></li>
+	<li><a href="https://tinhte.vn/hotro//">Hỗ trợ - hướng dẫn</a></li>
+	<li><a href="https://tinhte.vn/resources/">Thư viện</a></li>
+	<li><a href="https://tinhte.vn/gallery/">Gallery</a></li>
+	<li><a href="https://tinhte.vn/reserve/" target="_blank">Sự kiện</a></li>
+	<li><a href="http://feeds.feedburner.com/tinhte" target="_blank">Tinhte.vn RSS</a></li>
+	<li><a href="https://tinhte.vn/quangcao/">Liên hệ Quảng cáo</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col2">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Diễn đàn
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://tinhte.vn/tintuc/">Thông tin</a></li>
+	<li><a href="https://tinhte.vn/maytinh/">Máy tính</a></li>
+	<li><a href="https://tinhte.vn/dienthoai/">Điện thoại</a></li>
+	<li><a href="https://tinhte.vn/camera/">Camera</a></li>
+	<li><a href="https://tinhte.vn/xe/">Xe</a></li>
+	<li><a href="https://tinhte.vn/khcn/">Khoa học công nghệ</a></li>
+	<li><a href="https://tinhte.vn/tinhte/">Tinh tế</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col3">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Nhật tảo
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/">Mua bán điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/">Mua bán sim, sim 3g</a></li>
+	
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col4">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Liên kết
+							</h3>
+
+							<ul class="footerMenu">
+<li><a href="https://tinhte.vn/pages/cafe/">Cafe Tinhte.vn</a></li>
+	<li><a href="http://www.khacten.com/" title="Bao da, miếng dán da" target="_blank">Khacten.com</a></li>
+	<li><a href="http://www.1tudien.com" title="Từ điển trực tuyến" target="_blank">1TuDien.com</a></li>
+	<li><a href="http://www.nhaccuatui.com" title="Nghe nhạc mọi lúc mọi nơi" target="_blank">Nhaccuatui.com</a></li>
+	<li><a href="http://www.5giay.vn" title="Mạng thương mại điện tử" target="_blank">5Giay.vn</a></li>
+	<li><a href="http://www.webtretho.com/" title="Web trẻ thơ" target="_blank">Webtretho.com</a></li>
+	<li> <a href="https://bkvn.com" title="Cộng đồng Biker Vietnam" target="_blank">Biker Vietnam</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+			</ul>
+
+			
+
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="footerLegal">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+			
+				<ul class="uix_socialMediaLinks">
+	<li class="uix_socialLink uix_socialLink--facebook"><a href="https://www.facebook.com/tinhtefan" target="_blank"><i class="uix_icon uix_icon-facebook"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--twitter"><a href="https://twitter.com/tinhtefan" target="_blank"><i class="uix_icon uix_icon-twitter"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--youtube"><a href="https://www.youtube.com/user/tinhtevideo" target="_blank"><i class="uix_icon uix_icon-youtube"></i></a></li>
+
+        
+
+        
+
+        
+
+        <li class="uix_socialLink uix_socialLink--googleplus"><a href="https://plus.google.com/+tinhte" target="_blank"><i class="uix_icon uix_icon-googlePlus"></i></a></li>
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+	
+
+        
+
+
+
+<!--ADD LIST ITEMS HERE -->
+
+
+
+        
+</ul>
+			
+			<div id="copyright">
+				 Chịu trách nhiệm nội dung: Trần Mạnh Hiệp • © 2015 Công ty Cổ phần MXH Tinh tế <br/>Địa chỉ: 209 Đường Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, TP.HCM • Giấy phép MXH số 385/GP-TTTT do Bộ TTTT cấp.
+				
+				
+			</div>
+			
+			<span class="helper"></span>
+			</div>
+		</div>
+		
+	</div>
+</div><!-- Facebook Pixel Code -->
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=480704548985430&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+
+
+
+	<div id="uix_jumpToFixed">
+		
+			<a href="#XenForo" title="Lên đầu" data-position="top"><i class="uix_icon uix_icon-jumpToTop"></i></a>
+		
+		
+	</div>
+
+
+<div class="bdRealtime_Loader" data-config="{&quot;pusherAppKey&quot;:&quot;ws&quot;,&quot;pusherOptions&quot;:{&quot;encrypted&quot;:true,&quot;apiHost&quot;:&quot;10.0.0.3&quot;,&quot;apiPort&quot;:8183,&quot;wsHost&quot;:&quot;nhattao.com&quot;,&quot;wsPort&quot;:80,&quot;wssPort&quot;:443},&quot;pollingEnabled&quot;:&quot;1&quot;,&quot;pollingOptions&quot;:{&quot;timestamp&quot;:1489800467,&quot;url&quot;:&quot;https:\/\/tinhte.vn\/data\/bdRealtime\/polling&quot;},&quot;bingUrl&quot;:&quot;&quot;,&quot;debugMode&quot;:false,&quot;channelPrefix&quot;:&quot;httpstinhtevnf2107ae2ffda03ad4574a858933db9fa&quot;,&quot;eventNamePrefix&quot;:&quot;ea70f884356c0ea0030a0c7cc308a419&quot;}"></div>
+
+
+
+
+
+
+
+</footer>
+
+
+
+
+
+
+
+<!-- Google Analytics -->
+
+<script async src='//www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+
+
+	
+	<div id="PreviewTooltip">
+	<span class="arrow"><span></span></span>
+	
+	<div class="section">
+		<div class="primaryContent previewContent">
+			<span class="PreviewContents">Đang tải...</span>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="uix_wrapperFix" style="height: 1px; margin-top: -1px;"></div>
+
+
+		</div> 
+	</div> 
+
+	
+
+
+
+
+<div class="breadcrumbMeta">
+	
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-70" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở di chuyển nhanh"><i class="uix_icon uix_icon-sitemap"></i><!--Chuyển đến...--></a>
+
+		<div class="boardTitle"><strong>Tinhte.vn</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="https://tinhte.vn/forums/" class="crumb"><span><i class="uix_icon uix_icon-home" title="Diễn đàn"></i><span class="uix_breadcrumb__home__title">Diễn đàn</span></span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+
+			
+
+			
+		</span>
+	</fieldset>
+</nav>
+</div>
+
+<!-- UI.X Version: 1.5.12.0 //-->
+
+<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://tinhte.vn/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }</script><script src="js/xenforo/xenforo.js?_v=c30fe834"></script><script src="js/sonnb/XenGallery/gallery.overlay.js?_v=c30fe834"></script><script src="js/sonnb/XenGallery/gallery.slider.js?_v=c30fe834"></script><script src="js/sonnb/XenGallery/jquery.bxslider.js?_v=c30fe834"></script><script src="js/Tinhte/UserThreadPromotion/infinite-scrolling.min.js?_v=c30fe834"></script><script src="js/Tinhte/UserThreadPromotion/user-thread-control.min.js?_v=c30fe834"></script><script src="js/bdAd/loader.min.js?_v=c30fe834"></script><script src="js/vim/mudim.js?_v=c30fe834"></script><script src="js/Tinhte/XenTag/preview.min.js?_v=c30fe834"></script><script>
+	uix = {
+		elm: {},
+		fn:{},
+		init: function(){
+			if (uix.betaMode) {
+				console.group('uix.%cinit()', 'color:#3498DB');
+			}
+			for(var x=0;x<uix.events.init.length;x++){
+				uix.events.init[x]()
+		  	}
+		  	console.groupEnd('uix.%cinit()','color:#3498DB')
+		},
+	  	events: {init:[]},
+	  	on: function(event, fn){
+	  		if(event=='init'){
+	  			uix.events.init.push(fn)
+	  		}
+	  	},
+
+		betaMode				: parseInt('0'),
+		jsPathUsed				: 'uiflex',
+		jsGlobal				: parseInt('0'),
+
+
+	  	version					: '1.5.12.0',
+	  	jsHeadVersion				: '1.5.12.0',
+	  	addonVersion				: '1010173',
+	  	jsCacheBust				: '1',
+	  	contentTemplate				: 'category_view',
+
+		javascriptInitHide			: parseInt('1'),
+		globalPadding 				: parseInt('15px'),
+		sidebarWidth				: parseInt('300px'),
+		mainContainerMargin  	        	: '315px',
+		maxResponsiveWideWidth   		: parseInt('800px'),
+		maxResponsiveMediumWidth 		: parseInt('610px'),
+		maxResponsiveNarrowWidth 		: parseInt('480px'),
+		sidebarMaxResponsiveWidth		: parseInt('800px'),
+		
+			responsiveMessageBreakpoint		: parseInt('610px'),
+		
+		sidebarMaxResponsiveWidthStr		: '800px',
+
+		
+			offCanvasRightTriggerWidth	: parseInt('800px'),
+		
+
+		
+			offCanvasLeftTriggerWidth	: parseInt('800px'),
+		
+
+		
+			
+				offCanvasNavTriggerWidth	: parseInt('800px'),
+			
+		
+		
+			
+				offCanvasVisitorTriggerWidth	: parseInt('800px'),
+			
+		
+
+		offcanvasTriggerAnimationDuration	: parseInt('300ms'),
+
+
+
+
+		dropdownMenuAnimationSpeed		: parseInt('0ms'),
+		inlineAlertBalloons			: (parseInt('1') && !parseInt('0')) || parseInt('0'),
+
+		jumpToFixedDelayHide			: parseInt('0'),
+
+		stickyNavigationMinWidth 		: parseInt('0'),
+		stickyNavigationMinHeight		: parseInt('600'),
+		stickyNavigationMaxWidth 		: parseInt('0'),
+		stickyNavigationMaxHeight		: parseInt('0'),
+		stickyNavigationPortraitMinWidth 	: parseInt('320'),
+		stickyNavigationPortraitMinHeight	: parseInt('500'),
+		stickyNavigationPortraitMaxWidth 	: parseInt('0'),
+		stickyNavigationPortraitMaxHeight	: parseInt('0'),
+		stickySidebar 				: 0,
+		
+			sidebarInnerFloat		: "right",
+		
+		RTL					: 0,
+		stickyItems 				: {},
+		stickyGlobalMinimumPosition		: parseInt('200px'),
+		stickyGlobalScrollUp			: parseInt('1'),
+		stickyDisableIOSThirdParty		: parseInt('1'),
+		preventAlwaysSticky			: parseInt('0'),
+
+		searchMinimalSize			: parseInt('610px'),
+
+		searchPosition				: parseInt('2'),
+
+		nodeStyle				: parseInt('0'),
+		pageStyle				: parseInt('1'),
+
+		enableBorderCheck			: parseInt('0'),
+		enableULManager				: parseInt('0'),
+
+		threadSlidingAvatar			: parseInt('0'),
+		threadSlidingExtra			: parseInt('0'),
+		threadSlidingHover			: parseInt('0'),
+		threadSlidingStaffShow			: parseInt('0'),
+		threadSlidingGlobalEnable		: parseInt('1'),
+
+		signatureHidingEnabled			: parseInt('0'),
+		signatureHidingEnabledAddon		: parseInt('1'),
+		signatureMaxHeight			: parseInt('100px'),
+		signatureHoverEnabled			: parseInt('0'),
+
+		enableStickyFooter 			: parseInt('1'),
+		stickyFooterBottomOffset 		: parseInt('15px') * 2,
+
+		
+			sidebarStickyBottomOffset	: parseInt(0),
+		
+
+	  	
+			offCanvasSidebar			: 1,
+
+			
+				offCanvasSidebarVisitorTabs		: 1,
+			
+
+		
+
+		offcanvasLeftStatic			: 1 && parseInt('0') && parseInt('1'),
+		offcanvasRightStatic			: 0 && parseInt('0') && parseInt('1'),
+		offcanvasLeftStaticBreakpoint		: parseInt('1300px'),
+		offcanvasRightStaticBreakpoint		: parseInt('1300px'),
+
+		reinsertWelcomeBlock			: parseInt('0'),
+
+		sidebarCookieExpire			: '',
+		canCollapseSidebar			: '',
+
+		cookiePrefix				: 'tt_',
+		sidebarLocation 			: parseInt('0'),
+
+		collapsibleSidebar			: parseInt('0'),
+		collapsedNodesDefault			: '',
+		nodeGridCollapseEnabled			: parseInt('0'),			
+		widthToggleUpper			: '100%',
+		widthToggleLower			: '1170px',
+		
+			toggleWidthEnabled		: parseInt('0'),
+		
+		toggleWidthBreakpoint			: parseInt('1190'),
+		collapsibleNodes			: parseInt('0'),
+		collapsibleSticky			: parseInt('1'),
+		ajaxWidthToggleLink			: 'uix/toggle-width',
+		ajaxStickyThreadToggleLink		: 'uix/toggle-sticky-threads',
+		ajaxStickyThreadExpandLink		: 'uix/expand-sticky-threads',
+		ajaxStickyThreadCollapseLink		: 'uix/collapse-sticky-threads',
+		ajaxSidebarToggleLink			: 'uix/toggle-sidebar',
+
+		stickySidebarDelayInit			: parseInt('1'),
+		stickySidebarLegacy			: parseInt('0'),
+		stickySidebarDisableIOS			: parseInt('1'),
+
+		user					: {
+								'themeName'		: 'Tinhte.vn UI',
+								'-themeParents'		: '63,62,61,0',
+								'-themeModified'	: '1489731235',
+								'-themeSelectable'	: '1',
+								languageName		: 'Vietnamese',
+								stickyEnableUserbar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableNav		: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableSidebar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								widthToggleState	: (parseInt('0') == parseInt('0')) ? parseInt('0') : parseInt('0'),
+								stickyThreadsState	: (parseInt('') == parseInt('')) ? (parseInt('') > 0) : 0,
+								
+									sidebarState	: 0,
+								
+								
+									collapseUserInfo : 1,
+								
+								
+									signatureHiding : 1,
+								
+								isAdmin			: parseInt('0"')
+							}
+	};
+
+	if(uix.stickyNavigationMaxWidth == 0){uix.stickyNavigationMaxWidth = 999999}
+	if(uix.stickyNavigationMaxHeight == 0){uix.stickyNavigationMaxHeight = 999999}
+	if(uix.stickyNavigationPortraitMaxWidth == 0){uix.stickyNavigationPortraitMaxWidth = 999999}
+	if(uix.stickyNavigationPortraitMaxHeight == 0){uix.stickyNavigationPortraitMaxHeight = 999999}
+
+	
+		uix.stickyItems['#navigation'] = {normalHeight:parseInt('40'), stickyHeight:parseInt('40')}
+
+		var subElement = null;
+		
+			uix.stickyItems['#navigation'].options = {scrollSticky: uix.stickyGlobalScrollUp }
+		
+
+	
+
+	
+
+	$(document).ready(function(){
+
+	//put jquery code here
+
+
+});
+
+	uix.debug = function() {
+		result = "\n\n############============   Begin Copying Here   ============############\n\n";
+		result += "Error: the functions file was not found.";
+		result += "\n\n############============   End Copying Here   ============############\n\n";
+
+		uix.fixJsVisibility();
+
+		console.log(result);
+	}
+
+</script><script src="js/audentio/uiflex/functions.min.js?_v=c30fe834_1.5.12.0_1"></script><script>
+	uix.adminJsError = function(errMsg) {
+		console.error(errMsg);
+
+		
+	}
+
+	uix.fixJsVisibility = function() {
+		var userBar = $('.hasJs #userBar');
+		var nodeList = $('.hasJs #forums, .hasJs .category_view .nodeList, .hasJs .watch_forums .nodeList');
+		var panels = $('.js-uix_panels')
+		if (userBar.length) userBar.css('display', 'block');
+		if (nodeList.length) nodeList.css('visibility', 'visible');
+		if (panels.length) $('.js-uix_panels').removeClass('needsInit');
+		$('html').removeClass('uix_javascriptNeedsInit');
+	}
+
+	uix.catchJsError = function(err) {
+		console.log("\n\n############============   Begin Copying Here   ============############\n\n")
+		var errMsg = "Uh Oh!  It looks like there's an error in your page's javascript.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this and believe it is due to a bug in your Audentio Design theme, contact Audentio support and include a copy of the text between the designated areas from your javascript console.  This is the error: \n\n" + err ;
+		uix.fixJsVisibility();
+		uix.adminJsError(errMsg);
+		console.log("\n\n");
+		console.log(err);
+		console.log("\n\n");
+		try {
+			uix.debug(true);
+		} catch (err) {
+			console.log("Unable to include uix.debug();");
+		}
+
+		console.log("\n\n############============   End Copying Here   ============############\n\n");
+	}
+
+	$(document).ready(function(){
+		if (typeof(audentio) === 'undefined' || typeof(uix.jsVersion) === 'undefined') {
+			var errMsg = 'Uh Oh!  It looks like the javascript for your theme was not found in /js/audentio/uiflex/.\n\n';
+			if (uix.jsGlobal) {
+				errMsg += 'Your forum is set to use the same javascript directory for all your themes.  Consider disabling this or modifying the directory.  Options are located under Options > [UI.X] General.\n\n'
+			} else {
+				errMsg += 'Your theme has set the location of its javascript directory.  You may need to modify the javascript directory location style property located under [UI.X] Global Settings > Javascript Path.\n\n'
+			}
+			errMsg += 'If your files are in the directory specified, ensure that your file permissions allow them to be read.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this, contact Audentio support.  This error has also been logged to the javascript console.';
+
+			uix.fixJsVisibility();
+
+			uix.adminJsError(errMsg);
+		} else if (uix.jsHeadVersion.split('_')[0] != uix.jsVersion.split('_')[0]) {
+			var errMsg = 'Uh Oh! It looks like the version of your javascript functions file does not match the version of your page_container_js_head template.  \n\nYour javascript functions file is version "' + uix.jsVersion + '". \nYour page_container_js_head is version "' + uix.jsHeadVersion + '".  \n\nIf your functions file version number is higher, ensure that you have merged all templates (especially page_container_js_head).  If your page_container_js_head version number is higher, ensure that you have correctly uploaded the latest version of the javascript functions file and that you have cleared anything that could cache an old version of the javascript (CDN / Cloudflare / etc.). \n\nThis issue could cause parts of your forum to not display or function correctly.  If this does not resolve the issue contact Audentio support.  This error has also been logged to the javascript console.';
+			
+			uix.fixJsVisibility();
+			
+			uix.adminJsError(errMsg);
+		}
+	});
+</script><script>
+	try {
+		uix.dateHelper.phrase = {
+			now: 'now',
+			second: 's',
+			minute: 'm',
+			hour: 'h',
+			day: 'd',
+			week: 'w',
+			year: 'y',
+			century: 'c',
+			ago: '{time} ago',
+			future: 'in {time}'
+		}
+
+
+		uix.sticky.stickyMinDist = parseInt('50');
+
+		$(document).ready(function(){
+			try {
+				
+				
+
+				uix.initFunc();
+			} catch (err) {
+				uix.catchJsError(err);
+			}
+		});
+	} catch (err) {
+		uix.catchJsError(err);
+	}
+</script><script type='text/javascript'>sonnbXenGalleryEnableInterlace = 0;</script><script type="text/javascript">
+	!function($, window, document, _undefined) {
+		XenForo.register('.photosSidebar a.thumbnail', 'XenForo.XenGalleryOverlayToggle');
+	}(jQuery, this, document);
+</script><script type="text/javascript">
+		!function($, window, document, _undefined) {
+			new XenForo.XenGallerySlider($('#scrollable_widget_123 ul'), {
+				slideWidth: 821,
+				maxSlides: 3,
+				ticker: false,
+				mode: 'horizontal',
+				auto: true
+			});
+		}(jQuery, this, document);
+	</script><script type="text/javascript">
+	!function($, window, document, _undefined) {
+		XenForo.register('.photosSidebar a.thumbnail', 'XenForo.XenGalleryOverlayToggle');
+	}(jQuery, this, document);
+</script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '480704548985430'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script><script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1489800467,
+		today: 1489770000,
+		todayDow: 6
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "0.5",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 100,
+		closeSpeed: 50,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 100,
+			closeSpeed: 50
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"nat_public_css":true,"sonnb_xengallery_icons":true,"sonnb_xengallery_widget_photo":true,"sonnb_xengallery_widget":true,"sonnb_xengallery_photo_view":true,"sonnb_xengallery_bxslider":true,"message_user_info":true,"bb_code":true,"TT_UTP_layout_news":true,"metro":true,"metro_pc":true,"node_list":true,"node_forum":true,"tag":true,"wf_default":true,"TinhTe_SCT_sidebar":true,"TinhTe_SCT_sidebar1":true,"bdad":true,"login_bar":true,"sonnb_xengallery_navbar_template":true,"facebook":true,"google":true,"bdsocialshare":true,"share_page":true,"uix_extendedFooter":true,"js\/sonnb\/XenGallery\/gallery.overlay.js?_v=c30fe834":true,"js\/sonnb\/XenGallery\/gallery.slider.js?_v=c30fe834":true,"js\/sonnb\/XenGallery\/jquery.bxslider.js?_v=c30fe834":true,"js\/Tinhte\/UserThreadPromotion\/infinite-scrolling.min.js?_v=c30fe834":true,"js\/Tinhte\/UserThreadPromotion\/user-thread-control.min.js?_v=c30fe834":true,"js\/bdAd\/loader.min.js?_v=c30fe834":true,"js\/vim\/mudim.js?_v=c30fe834":true,"js\/Tinhte\/XenTag\/preview.min.js?_v=c30fe834":true},
+	_cookieConfig: { path: "/", domain: ".tinhte.vn", prefix: "tt_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "c30fe834",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Hủy",
+
+	a_moment_ago:    "Mới đây",
+	one_minute_ago:  "1 phút trước",
+	x_minutes_ago:   "%minutes% phút trước",
+	today_at_x:      "%time% hôm nay",
+	yesterday_at_x:  "%time% hôm qua",
+	day_x_at_time_y: "%day% lúc %time%",
+
+	day0: "Chủ nhật",
+	day1: "Thứ hai",
+	day2: "Thứ ba",
+	day3: "Thứ tư",
+	day4: "Thứ năm",
+	day5: "thứ sáu",
+	day6: "Thứ bảy",
+
+	_months: "Tháng 1,Tháng 2,Tháng 3,Tháng 4,Tháng 5,Tháng 6,Tháng 7,Tháng 8,Tháng 9,Tháng 10,Tháng 11,Tháng 12",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "Có lỗi hoặc lưu ý",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Đang đăng nhập",
+	click_image_show_full_size_version: "Bấm vào để phóng to.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "145923738846814";
+XenForo.Facebook.forceInit = false;
+
+
+</script><script type="text/javascript">
+    Mudim.LANG=[
+		'Tắt',
+		'VNI',
+		'Telex',
+		'VIQR',
+		'Đủ kiểu',
+		'Tự động',
+		'Sửa lỗi chính tả',
+		'Dùng kiểu bỏ dấu mới',
+		'Toggle',
+		'Toggle Panel',
+	];
+	Mudim.IGNORE_ID = ['email','url'];
+	Mudim.COOKIE_KEY_NAME = 'xf_vim|mudim-settings';
+
+	CHIM.ClearBuffer();
+	Mudim.method = parseInt('2');
+	CHIM.Speller.enabled = parseInt('1') ? true : false;
+	Mudim.newAccentRule = parseInt('1') ? true : false;
+
+	
+		Mudim.showPanel = false;
+        	CHIM.SetDisplay();
+	    	Mudim.SetPreference();
+	
+</script><script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-2120640-1","auto","default");ga("create","UA-2120640-14","auto","node70");var custom=[];ga(function(){ga.getAll().forEach(function(tracker){var isDef=tracker.get("name")=="default";if(isDef)tracker.set("dimension1"/*dimNode*/,"Camera (70)");if(isDef)tracker.set("dimension2"/*dimUserGroups*/,"0,1");setTimeout(function(){tracker.send("event","User Engagement","time on page more than 15 seconds");},15000);tracker.send("pageview");typeof(jQuery)==="function"&&jQuery(document).ajaxComplete(function(_,_,u){if(u.url.indexOf("css.php")>-1)return;var c="Ajax "+u.type;var p=document.createElement("a");p.href=u.url;var a=p.pathname;a=a.replace(/\/[^\/]*\d+\//g,"/");var l=p.pathname+p.search;l=l.replace(/(&_[^&]+)+(&|$)/g,"$2");if(l.substr(0,3)==="js/")return;if(l.substr(0,4)==="/js/")return;tracker.send("event",c,a,l);});});});
+</script><script>
+
+</script></body>
+</html>

@@ -1,0 +1,392 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_baomoiHead"><title>
+	More news, less time | BAOMOI.COM
+</title><link type="text/css" href="http://en.baomoi.com/App_Themes/Default/Styles/css.axd?d=reset.css,default.css,superfish.css&amp;v=2.1"
+rel="stylesheet" media="screen" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="robots" content="index,follow" />
+<meta name="Googlebot" content="index,follow,noarchive" /><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta name="author" content="baomoi.vn" /><meta http-equiv="content-language" content="vi" /><meta name="description" content="Collecting, sharing and evaluating all kinds of news from all top electronic newspapers and blogs in Vietnam, let's go to Baomoi.com. We always bring you the most updated, plentiful and appropriate information." />
+<meta name="keywords" content="ho chi minh, ha noi, rss, vn-index, world, society, culture, economy, science-technology, sport, entertainment, law, education, health, baomoi, Viet Nam, keyword" />
+<link rel="alternate" href="/Rss/RssFeed.ashx" type="application/rss+xml" title="RSS"/><link rel="canonical" href="http://en.baomoi.com" /><script type="text/javascript">        // GA Asynchronous track
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-309591-31']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script></head><body><form name="aspnetForm" method="post" action="Default.aspx?s=" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1Njk4NzY1Ng9kFgJmD2QWAgIDD2QWBAIDD2QWAgIBDxYCHgRUZXh0BT88c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+dmFyIGN1cnJlbnRab25lSWQgPSAtMTs8L3NjcmlwdD5kAgUPZBYCAgEPZBYCAgMPZBYCAgYPDxYCHgdWaXNpYmxlaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBSJjdGwwMCRjdGxIZWFkZXIkY3RsU2VhcmNoJGJ0U2VhcmNoBRhjdGwwMCRTZWFyY2hCYXIkYnRTZWFyY2iQ8KeF6UE39nNFdazttb9o1eLZJw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" /><div id="header">
+<div class="wrapHeader">
+<div id="top" class="logo"><a rel="nofollow" href="/"><img src="/App_Themes/Default/Images/logo.gif" width="171" height="41" alt="Báo Mới - Tổng hợp thông tin tự động" /></a></div><div class="hdrUser">
+<ul>
+<li><a rel="nofollow" href="/Members/Login.aspx">Login</a></li>
+<li><a rel="nofollow" href="/Members/Register.aspx">Sign up</a></li>
+<li class="setHome"><span class="icon sprite iconHome"></span><a rel="nofollow" href="javascript:void(0)"
+onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.baomoi.com');">
+Set homepage</a></li>
+</ul>
+</div><div class="search">
+<span class="chLang">
+<img src="/App_Themes/Default/Images/search_lang_vn.gif" width="24" height="24" alt="Tiếng Việt"
+onclick="changeVNInput(this);" /></span>
+<input id="txtSearchBox" name="txtSearchBox" class="txtsearch" type="text" value="" /><select name="ctl00$ctlHeader$ctlSearch$ddlCatSearch" id="ctl00_ctlHeader_ctlSearch_ddlCatSearch">
+	<option selected="selected" value="-1">All categories</option>
+	<option value="2">World</option>
+	<option value="3">Society</option>
+	<option value="5">Economy</option>
+	<option value="4">Culture &amp; Art</option>
+	<option value="6">Science &amp; Technology</option>
+	<option value="12">Travel</option>
+	<option value="10">Sport</option>
+	<option value="9">Health</option>
+	<option value="11">Entertainment</option>
+	<option value="8">Education</option>
+
+</select><input type="image" name="ctl00$ctlHeader$ctlSearch$btSearch" id="ctl00_ctlHeader_ctlSearch_btSearch" class="butSearch" src="/App_Themes/Default/Images/button_search.gif" onclick="return CheckSearch();" border="0" /></div><div class="hdrAdv"><script type="text/javascript">if(typeof GA_googleFillSlot == 'function') GA_googleFillSlot("Baomoi_Header_Home");</script></div>
+</div>
+</div><div id="navigation"><script type="text/javascript">var currentZoneId = -1;</script></div>
+<script type="text/javascript" src="/JScripts/static_menu.js"></script>
+<script type="text/javascript">document.getElementById('navigation').innerHTML = menu;</script><div id="pageContents">
+<div id="mainContents"><div id="frontpage"><div class="highlight">
+<div class="spotlight"><div class="story">
+<h2><a id="h_a_638878" href="http://en.baomoi.com/Home/society/news.chinhphu.vn/New-cheese-factory-opens-in-Binh-Duong/638878.epi">New cheese factory opens in Binh Duong</a></h2><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638878" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638878" href="http://en.baomoi.com/Info/New-cheese-factory-opens-in-Binh-Duong/3/638878.epi">Comment</a></p><p class="meta">
+<span class="time">16 hour(s) ago</span>
+</p>
+<p class="summary">
+<span class="source"><a id="h_s_159_638878" href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></span>&nbsp;-&nbsp;VGP - Bel Viet Nam, a subsidiary of France’s Bel Group on March 16 inaugurated its second cheese plant in the southern province of Binh Duong province.</p>
+</div><div id="ctl00_bodyContent_mainContent_ctlHighlight_pnRelatedStories" class="relatedStories">
+	<h4>Related news</h4><ul class="bmListing"><li><a  rel='nofollow' href='http://en.baomoi.com/Home/society/news.chinhphu.vn/Tax-exemption-for-a-number-of-goods-imported-from-Cambodia/638877.epi'>Tax exemption for a number of goods imported from Cambodia</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></span></li><li><a  rel='nofollow' href='http://en.baomoi.com/Home/society/news.chinhphu.vn/PM-receives-Special-Advisor-to-the-JapanVN-Friendship-Parliamentary-Alliance/638870.epi'>PM receives Special Advisor to the Japan-VN Friendship Parliamentary Alliance</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></span></li></ul>
+</div></div>
+<div class="otherSpotlight"><div class="story"><p class="source"><a id="h_s_158_638886" href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p>
+<h3><a id="h_a_638886" href="http://en.baomoi.com/Home/health/www.dtinews.vn/Quang-Ngai-hospital-installed-with-antisuicide-fences/638886.epi">Quang Ngai hospital installed with anti-suicide fences</a></h3>
+</div><div class="story"><p class="source"><a id="h_s_158_638882" href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p>
+<h3><a id="h_a_638882" href="http://en.baomoi.com/Home/society/www.dtinews.vn/Singapore-Prime-Minister-to-visit-Vietnam/638882.epi">Singapore Prime Minister to visit Vietnam</a></h3>
+</div><div class="story"><p class="source"><a id="h_s_112_638881" href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></p>
+<h3><a id="h_a_638881" href="http://en.baomoi.com/Home/society/tuoitrenews.vn/Safeguards-for-Vietnams-auto-industry-are-easier-said-than-done-experts/638881.epi">Safeguards for Vietnam’s auto industry are easier said than done: experts</a></h3>
+</div><div class="story"><p class="source"><a id="h_s_158_638876" href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p>
+<h3><a id="h_a_638876" href="http://en.baomoi.com/Home/sciencetechnology/www.dtinews.vn/NA-to-tighten-watch-on-deforestation/638876.epi">NA to tighten watch on deforestation</a></h3>
+</div></div>
+<p class="more"><a id="hlAllHotNews" href="/popular/default.aspx">More headlines</a>&nbsp;<span class="icon iconArrow sprite"></span></p>
+</div><div id="bmLatest" class="latest">
+<h3>Latest news<span id="ctl00_bodyContent_mainContent_ctlHighlight_ctl02_lbUpdated" class="updated">10 hour(s) ago</span></h3>
+<ul class="bmListing"><li><a class="title"  href='http://en.baomoi.com/Home/health/www.dtinews.vn/Quang-Ngai-hospital-installed-with-antisuicide-fences/638886.epi'>Quang Ngai hospital installed with anti-suicide fences</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi'>Báo Dân Trí English</a></span></li><li><a class="title"  href='http://en.baomoi.com/Home/entertainment/tuoitrenews.vn/American-Emmywinning-director-talks-autism-during-film-tour-in-Vietnam/638885.epi'>American Emmy-winning director talks autism during film tour in Vietnam</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi'>Báo Tuổi Trẻ English</a></span></li><li><a class="title"  href='http://en.baomoi.com/Home/travel/tuoitrenews.vn/Long-live-King-Kong-Tourist-numbers-rise-in-Vietnam-provinces-where-film-shot/638884.epi'>Long live King Kong: Tourist numbers rise in Vietnam provinces where film...</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi'>Báo Tuổi Trẻ English</a></span></li><li><a class="title"  href='http://en.baomoi.com/Home/entertainment/tuoitrenews.vn/International-Francophone-Week-2017-kicks-off-in-Ho-Chi-Minh-City/638883.epi'>International Francophone Week 2017 kicks off in Ho Chi Minh City</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi'>Báo Tuổi Trẻ English</a></span></li><li><a class="title"  href='http://en.baomoi.com/Home/society/www.dtinews.vn/Singapore-Prime-Minister-to-visit-Vietnam/638882.epi'>Singapore Prime Minister to visit Vietnam</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi'>Báo Dân Trí English</a></span></li><li><a class="title"  href='http://en.baomoi.com/Home/society/tuoitrenews.vn/Safeguards-for-Vietnams-auto-industry-are-easier-said-than-done-experts/638881.epi'>Safeguards for Vietnam’s auto industry are easier said than done: experts</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi'>Báo Tuổi Trẻ English</a></span></li><li><a class="title"  href='http://en.baomoi.com/Home/society/news.chinhphu.vn/New-cheese-factory-opens-in-Binh-Duong/638878.epi'>New cheese factory opens in Binh Duong</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi'>Báo điện tử CP English</a></span></li><li><a class="title"  href='http://en.baomoi.com/Home/world/www.dtinews.vn/Indonesia-summons-UK-envoy-over-coral-reef-destruction/638875.epi'>Indonesia summons UK envoy over coral reef destruction</a><span class="source">&nbsp;-&nbsp;<a href='http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi'>Báo Dân Trí English</a></span></li></ul>
+<div class="story advertorial">
+<p class="advAuthor">
+<span>Sponsored by Baomoi Mobi</span></p>
+<h4><a rel="nofollow" href="http://baomoi.mobi">Reading news on your mobile</a></h4>
+</div>
+</div></div><div id="bmColumns"><div id="zoneBox_2" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_2" href="http://en.baomoi.com/Home/world.epi">World</a></h3>
+<p class="rss iconNoText"><a id="rss_2" rel="nofollow" href="http://en.baomoi.com/Home/world.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638744" href="http://en.baomoi.com/Home/world/www.vir.com.vn/AsiaPacific-seeks-to-save-TPP-trade-deal-without-US/638744.epi">Asia-Pacific seeks to save TPP trade deal without US</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_116_638744" href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a>&nbsp;-&nbsp;</span>VINA DEL MAR, Chile: Asia-Pacific ministers said on Wednesday (Mar 15) they would seek to move forward on a trade agreement resembling the Trans-Pacific Partnership after President Donald Trump killed the deal by withdrawing the United States.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638744" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638744" href="http://en.baomoi.com/Info/AsiaPacific-seeks-to-save-TPP-trade-deal-without-US/2/638744.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/world/news.chinhphu.vn/VN-attends-Langkawi-maritime-exhibition/638850.epi'>VN attends Langkawi maritime exhibition</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/world/www.dtinews.vn/Delegates-announced-for-inaugural-AustraliaVietnam-Young-Leadership-Dialogue/638873.epi'>Delegates announced for inaugural Australia-Vietnam Young Leadership Dialogue</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/world/www.dtinews.vn/Indonesia-summons-UK-envoy-over-coral-reef-destruction/638875.epi' >Indonesia summons UK envoy over coral reef destruction</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></p><h5><a href='http://en.baomoi.com/Home/world/www.saigon-gpdaily.com.vn/Local-leaders-must-be-responsible-for-traffic-accidents/638856.epi' >Local leaders must be responsible for traffic accidents</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></p><h5><a href='http://en.baomoi.com/Home/world/www.saigon-gpdaily.com.vn/Prime-Minister-asks-investigation-over-Bac-Ninh-leader-threatening/638847.epi' >Prime Minister asks investigation over Bac Ninh leader threatening</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_3" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_3" href="http://en.baomoi.com/Home/society.epi">Society</a></h3>
+<p class="rss iconNoText"><a id="rss_3" rel="nofollow" href="http://en.baomoi.com/Home/society.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638880" href="http://en.baomoi.com/Home/society/news.chinhphu.vn/DPM-receives-Zarubezhneft-CEO/638880.epi">DPM receives Zarubezhneft CEO</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_159_638880" href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a>&nbsp;-&nbsp;</span>VGP – Deputy PM Trinh Dinh Dung hosted a reception on March 16 for Zarubezneft CEO Sergey Ivanovich who was on a working visit to Viet Nam.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638880" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638880" href="http://en.baomoi.com/Info/DPM-receives-Zarubezhneft-CEO/3/638880.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/society/www.saigon-gpdaily.com.vn/Binh-Phuoc-quickly-overcomes-consequences-of-cyclone/638849.epi'>Binh Phuoc quickly overcomes consequences of cyclone</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/society/www.dtinews.vn/PM-demands-investigation-into-Bac-Ninh-dredging-scandal/638831.epi'>PM demands investigation into Bac Ninh dredging scandal</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/society/www.dtinews.vn/Singapore-Prime-Minister-to-visit-Vietnam/638882.epi' >Singapore Prime Minister to visit Vietnam</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></p><h5><a href='http://en.baomoi.com/Home/society/tuoitrenews.vn/Safeguards-for-Vietnams-auto-industry-are-easier-said-than-done-experts/638881.epi' >Safeguards for Vietnam’s auto industry are easier said than done: exper&hellip;</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></p><h5><a href='http://en.baomoi.com/Home/society/news.chinhphu.vn/New-cheese-factory-opens-in-Binh-Duong/638878.epi' >New cheese factory opens in Binh Duong</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_5" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_5" href="http://en.baomoi.com/Home/economy.epi">Economy</a></h3>
+<p class="rss iconNoText"><a id="rss_5" rel="nofollow" href="http://en.baomoi.com/Home/economy.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638852" href="http://en.baomoi.com/Home/economy/www.saigon-gpdaily.com.vn/Vietnam-Russia-foster-oil-gas-cooperation/638852.epi">Vietnam, Russia foster oil, gas cooperation</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_123_638852" href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a>&nbsp;-&nbsp;</span>Deputy Prime Minister Trinh Dinh Dung has called for stronger cooperation between Vietnam and Russia in energy, especially in oil and gas exploration and exploitation.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638852" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638852" href="http://en.baomoi.com/Info/Vietnam-Russia-foster-oil-gas-cooperation/5/638852.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/economy/www.vir.com.vn/With-6-more-listings-UPCoM-crosses-500/638825.epi'>With 6 more listings, UPCoM crosses 500</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/economy/www.dtinews.vn/Negotiation-between-Airport-Corporation-of-Vietnam-and-French-investor-hits-major-bottlenecks/638736.epi'>Negotiation between Airport Corporation of Vietnam and French investor hits major bottlenecks</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></p><h5><a href='http://en.baomoi.com/Home/economy/www.vir.com.vn/Foreign-electronics-manufacturers-fighting-possible-antidumping-tariff-on-PCMVCM/638788.epi' >Foreign electronics manufacturers fighting possible anti-dumping tariff&hellip;</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></p><h5><a href='http://en.baomoi.com/Home/economy/news.chinhphu.vn/Australia-asked-to-reconsider-ban-on-Vietnamese-shrimp/638790.epi' >Australia asked to re-consider ban on Vietnamese shrimp</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></p><h5><a href='http://en.baomoi.com/Home/economy/news.chinhphu.vn/Cashew-sector-prefers-processing/638791.epi' >Cashew sector prefers processing</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_4" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_4" href="http://en.baomoi.com/Home/cultureart.epi">Culture & Art</a></h3>
+<p class="rss iconNoText"><a id="rss_4" rel="nofollow" href="http://en.baomoi.com/Home/cultureart.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638866" href="http://en.baomoi.com/Home/cultureart/www.saigon-gpdaily.com.vn/Vietnamese-movie-wins-awards-in-Hong-Kong/638866.epi">Vietnamese movie wins awards in Hong Kong</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_123_638866" href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a>&nbsp;-&nbsp;</span>“Vo ba” (The Third Wife), a Vietnamese film by director Nguyen Phuong Anh and producer Tran Bich Ngoc, won the post-production and “Hong Kong to Cannes” awards at the 15th Hong Kong-Asia Film Financing Forum (HAF), which took place in Hong Kong (China) from March...</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638866" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638866" href="http://en.baomoi.com/Info/Vietnamese-movie-wins-awards-in-Hong-Kong/4/638866.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/cultureart/www.saigon-gpdaily.com.vn/Hanois-Spring-Chamber-Concert-this-week/638860.epi'>Hanoi’s Spring Chamber Concert this week</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/cultureart/www.saigon-gpdaily.com.vn/Photo-exhibition-marks-the-30th-anniversary-of-Doi-Moi-Renovation/638859.epi'>Photo exhibition marks the 30th anniversary of Doi Moi (Renovation)</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></p><h5><a href='http://en.baomoi.com/Home/cultureart/www.vir.com.vn/Vietnamese-movie-wins-awards-in-Hong-Kong/638813.epi' >Vietnamese movie wins awards in Hong Kong</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/cultureart/www.dtinews.vn/Vietnamese-movie-wins-awards-in-Hong-Kong/638809.epi' >Vietnamese movie wins awards in Hong Kong</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/cultureart/www.dtinews.vn/Vietnam-attends-international-maritime-aerospace-showcase/638796.epi' >Vietnam attends international maritime, aerospace showcase</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_6" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_6" href="http://en.baomoi.com/Home/sciencetechnology.epi">Science & Technology</a></h3>
+<p class="rss iconNoText"><a id="rss_6" rel="nofollow" href="http://en.baomoi.com/Home/sciencetechnology.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638807" href="http://en.baomoi.com/Home/sciencetechnology/www.dtinews.vn/Vietnam-urged-to-explore-renewable-energy/638807.epi">Vietnam urged to explore renewable energy</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_158_638807" href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a>&nbsp;-&nbsp;</span>The Vietnam Energy Association said Vietnam has huge potential for renewable energy which can account for 43% of total energy used in the country by 2050 if it is invested wisely.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638807" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638807" href="http://en.baomoi.com/Info/Vietnam-urged-to-explore-renewable-energy/6/638807.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/sciencetechnology/tuoitrenews.vn/Vietnam-warns-brands-of-ads-placed-alongside-toxic-YouTube-content/638851.epi'>Vietnam warns brands of ads placed alongside ‘toxic’ YouTube content</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/sciencetechnology/tuoitrenews.vn/Sugar-factory-prime-suspect-behind-mass-fish-deaths-in-Vietnam-lagoon/638838.epi'>Sugar factory prime suspect behind mass fish deaths in Vietnam lagoon</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/sciencetechnology/www.dtinews.vn/NA-to-tighten-watch-on-deforestation/638876.epi' >NA to tighten watch on deforestation</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></p><h5><a href='http://en.baomoi.com/Home/sciencetechnology/news.chinhphu.vn/PM-asks-for-new-rice-development-vision/638753.epi' >PM asks for new rice development vision</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-dien-tu-CP-English/159.epi">Báo điện tử CP English</a></p><h5><a href='http://en.baomoi.com/Home/sciencetechnology/news.chinhphu.vn/Press-digest--March-14/638743.epi' >Press digest – March 14</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_12" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_12" href="http://en.baomoi.com/Home/travel.epi">Travel</a></h3>
+<p class="rss iconNoText"><a id="rss_12" rel="nofollow" href="http://en.baomoi.com/Home/travel.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638884" href="http://en.baomoi.com/Home/travel/tuoitrenews.vn/Long-live-King-Kong-Tourist-numbers-rise-in-Vietnam-provinces-where-film-shot/638884.epi">Long live King Kong: Tourist numbers rise in Vietnam provinces where film shot</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_112_638884" href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a>&nbsp;-&nbsp;</span>Tourist numbers in Quang Ninh, Quang Binh and Ninh Binh, three Vietnamese provinces where significant portions of the Hollywood blockbuster ‘Kong: Skull Island’ were shot, have risen slightly in the week following the film’s global release.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638884" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638884" href="http://en.baomoi.com/Info/Long-live-King-Kong-Tourist-numbers-rise-in-Vietnam-provinces-where-film-shot/12/638884.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/travel/tuoitrenews.vn/Border-guard-unit-builds-houses-in-protected-area-to-serve-tourists-near-Nha-Trang/638864.epi'>Border guard unit builds houses in protected area to serve tourists near Nha Trang</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/travel/www.vir.com.vn/Quang-Binh-to-popularise-tourism-in-Hanoi/638814.epi'>Quang Binh to popularise tourism in Hanoi</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></p><h5><a href='http://en.baomoi.com/Home/travel/www.vir.com.vn/Trapped-tourists-rescued-from-cable-cars-in-Tenerife/638862.epi' >Trapped tourists rescued from cable cars in Tenerife</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></p><h5><a href='http://en.baomoi.com/Home/travel/www.vir.com.vn/Quan-The-Am-festival-takes-place-in-Danang/638819.epi' >Quan The Am festival takes place in Danang</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></p><h5><a href='http://en.baomoi.com/Home/travel/tuoitrenews.vn/Vietnams-aviation-watchdog-mulls-service-fee-hikes/638804.epi' >Vietnam’s aviation watchdog mulls service fee hikes</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_10" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_10" href="http://en.baomoi.com/Home/sport.epi">Sport</a></h3>
+<p class="rss iconNoText"><a id="rss_10" rel="nofollow" href="http://en.baomoi.com/Home/sport.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638863" href="http://en.baomoi.com/Home/sport/www.vir.com.vn/Mladenovic-beats-Wozniacki-to-reach-Indian-Wells-semifinals/638863.epi">Mladenovic beats Wozniacki to reach Indian Wells semi-finals</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_116_638863" href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a>&nbsp;-&nbsp;</span>INDIAN WELLS: France's Kristina Mladenovic rallied to beat former world number one Caroline Wozniacki 3-6, 7-6 (7/4), 6-2 on Thursday (Mar 16) and reach the semi-finals at Indian Wells.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638863" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638863" href="http://en.baomoi.com/Info/Mladenovic-beats-Wozniacki-to-reach-Indian-Wells-semifinals/10/638863.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/sport/www.vir.com.vn/Mata-fires-Man-Utd-into-Europa-League-quarterfinals/638822.epi'>Mata fires Man Utd into Europa League quarter-finals</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/sport/www.saigon-gpdaily.com.vn/Hanoi-FC-defeats-Tampines-Rovers-in-AFC-Cup-2017/638783.epi'>Hanoi FC defeats Tampines Rovers in AFC Cup 2017</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></p><h5><a href='http://en.baomoi.com/Home/sport/www.vir.com.vn/Atletico-stroll-into-Champions-League-quarterfinals/638778.epi' >Atletico stroll into Champions League quarter-finals</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/sport/www.dtinews.vn/Vietnam-satisfy-with-World-Cups-draw/638772.epi' >Vietnam satisfy with World Cup’s draw</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a></p><h5><a href='http://en.baomoi.com/Home/sport/www.vir.com.vn/Kyrgios-stuns-Djokovic-again-Federer-races-past-Nadal/638765.epi' >Kyrgios stuns Djokovic again, Federer races past Nadal</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_9" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_9" href="http://en.baomoi.com/Home/health.epi">Health</a></h3>
+<p class="rss iconNoText"><a id="rss_9" rel="nofollow" href="http://en.baomoi.com/Home/health.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638855" href="http://en.baomoi.com/Home/health/www.saigon-gpdaily.com.vn/Four-patients-saved-from-donated-organs-of-braindead-people/638855.epi">Four patients saved from donated organs of brain-dead people</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_123_638855" href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a>&nbsp;-&nbsp;</span>Hanoi-based Viet-Duc (Viet-German) Hospital yesterday said that it had performed four transplantation cases thanks to donation of brain-dead people.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638855" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638855" href="http://en.baomoi.com/Info/Four-patients-saved-from-donated-organs-of-braindead-people/9/638855.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/health/www.saigon-gpdaily.com.vn/Violating-infirmary-revoked-license-after-death-of-pregnant-woman/638854.epi'>Violating infirmary revoked license after death of pregnant woman</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/health/www.saigon-gpdaily.com.vn/More-deaths-from-dengue-reported-in-HCMC/638844.epi'>More deaths from dengue reported in HCMC</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/health/www.dtinews.vn/Quang-Ngai-hospital-installed-with-antisuicide-fences/638886.epi' >Quang Ngai hospital installed with anti-suicide fences</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></p><h5><a href='http://en.baomoi.com/Home/health/www.saigon-gpdaily.com.vn/Tourism-Administration-warns-people-to-keep-away-from-bird-fluinfected-areas/638845.epi' >Tourism Administration warns people to keep away from bird flu-infected&hellip;</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/health/www.dtinews.vn/Cuban-doctors-to-work-in-Vietnam/638808.epi' >Cuban doctors to work in Vietnam</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_11" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_11" href="http://en.baomoi.com/Home/entertainment.epi">Entertainment</a></h3>
+<p class="rss iconNoText"><a id="rss_11" rel="nofollow" href="http://en.baomoi.com/Home/entertainment.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638885" href="http://en.baomoi.com/Home/entertainment/tuoitrenews.vn/American-Emmywinning-director-talks-autism-during-film-tour-in-Vietnam/638885.epi">American Emmy-winning director talks autism during film tour in Vietnam</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_112_638885" href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a>&nbsp;-&nbsp;</span>American Emmy-winning producer and director Janet Grillo is in the central city of Da Nang screening her movie “Jack of the Red Heats” before her return to the U.S on Saturday.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638885" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638885" href="http://en.baomoi.com/Info/American-Emmywinning-director-talks-autism-during-film-tour-in-Vietnam/11/638885.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/entertainment/tuoitrenews.vn/International-Francophone-Week-2017-kicks-off-in-Ho-Chi-Minh-City/638883.epi'>International Francophone Week 2017 kicks off in Ho Chi Minh City</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/entertainment/www.saigon-gpdaily.com.vn/Belgian-singer-Axelle-Red-to-perform-in-Hanoi-HCMC-Can-Tho/638865.epi'>Belgian singer Axelle Red to perform in Hanoi, HCMC, Can Tho</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/entertainment/www.dtinews.vn/Young-doctor-in-vegetative-state-needs-urgent-help/638867.epi' >Young doctor in vegetative state needs urgent help</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></p><h5><a href='http://en.baomoi.com/Home/entertainment/www.saigon-gpdaily.com.vn/Annual-Francophone-Film-Festival-to-return-main-cities/638858.epi' >Annual Francophone Film Festival to return main cities</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/entertainment/www.dtinews.vn/Cutting-edge-Kpop-band-praise-plastic-surgery-beauty/638840.epi' >Cutting edge: K-pop band praise plastic surgery beauty</a></h5></div></div>
+<!--/.columnLatest-->
+</div><div id="zoneBox_8" class="columnGroup">
+	<div class="columnTitle">
+<h3><a id="z_8" href="http://en.baomoi.com/Home/education.epi">Education</a></h3>
+<p class="rss iconNoText"><a id="rss_8" rel="nofollow" href="http://en.baomoi.com/Home/education.rss"></a></p>
+</div>
+<div class="columnTopStory">
+<div class="story"><h4><a id="z_a_638821" href="http://en.baomoi.com/Home/education/www.vir.com.vn/Da-Nang-inks-first-deal-in-Open-Source-Software-education/638821.epi">Da Nang inks first deal in Open Source Software education</a></h4>
+<p class="summary">
+<span class="source"><a id="z_s_116_638821" href="http://en.baomoi.com/Source/Bao-Dau-Tu-English/116.epi">Báo Đầu Tư English</a>&nbsp;-&nbsp;</span>Japan’s Linux Professional Institute (JPI) Evolable Asia company and Da Nang’s Dong A College have established an information technology (IT) human resource training programme.</p><p class="interact">
+<span class="icon sprite iconVote"></span><a id="Norate_638821" class="ultVote" rel="nofollow" href="javascript:void(0)">0 vote(s)</a><span class="icon sprite iconComment"></span><a id="Comment_638821" href="http://en.baomoi.com/Info/Da-Nang-inks-first-deal-in-Open-Source-Software-education/8/638821.epi">Comment</a></p></div><ul class="bmListing"><li><a  rel='follow' href='http://en.baomoi.com/Home/education/www.saigon-gpdaily.com.vn/Robot-Talent-Contest-for-students-announced/638846.epi'>Robot Talent Contest for students announced</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></span></li><li><a  rel='follow' href='http://en.baomoi.com/Home/education/www.dtinews.vn/HCM-City-child-abuse-claim-under-investigation/638805.epi'>HCM City child abuse claim under investigation</a>&nbsp;<span class="source">- <a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></span></li></ul></div>
+<!--/.columnTopStory-->
+<div class="columnLatest"><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Dan-Tri-English/158.epi">Báo Dân Trí English</a></p><h5><a href='http://en.baomoi.com/Home/education/www.dtinews.vn/Da-Nang-inks-first-deal-in-Open-Source-Software-education/638797.epi' >Đà Nẵng inks first deal in Open Source Software education</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/Bao-Tuoi-Tre-English/112.epi">Báo Tuổi Trẻ English</a></p><h5><a href='http://en.baomoi.com/Home/education/tuoitrenews.vn/Vietnamese-Oxford-valedictorian-gives-up-dream-life-to-be-blissful-warbler/638786.epi' >Vietnamese Oxford valedictorian gives up dream life to be ‘blissful war&hellip;</a></h5></div><div class="story"><p class="source"><a href="http://en.baomoi.com/Source/SaiGon-GP-English/123.epi">SaiGon GP English</a></p><h5><a href='http://en.baomoi.com/Home/education/www.saigon-gpdaily.com.vn/Teaching-of-French-developing-in-Southeast-Asia-OIF-regional-director/638782.epi' >Teaching of French developing in Southeast Asia: OIF regional director</a></h5></div></div>
+<!--/.columnLatest-->
+</div></div></div>
+<div id="sidebar"><div id="utils" class="module">
+<h3>Services</h3>
+<ul class="moduleItems wrapModule">
+<li><span class="icon sprite iconMobile"></span><a href="http://baomoi.mobi">Reading news on your mobile</a></li>
+<li><span class="icon sprite iconWdiget"></span><a href="/Widget/CreateWidget.aspx">
+Embedding news on your web</a></li>
+<li><span class="icon sprite iconStats"></span><a href="/Statistics/Report.aspx">E-newspaper statistics</a></li>
+</ul>
+</div><!--
+<div id="quickInfo" class="module">
+<h3>
+Utilities</h3>
+<ul class="moduleItems wrapModule">
+<li><span class="icon sprite iconCinema"></span><a rel="nofollow" href="javascript:void(0)"
+onclick="$j('#cinema').load('/Ajax/DisplayUC.aspx?ucName=Cinemas&amp;ucPath=/UserControls/InfoService/').dialog('open'); return false;">
+Các rạp có gì</a></li>
+<li><span class="icon sprite iconGold"></span><a rel="nofollow" href="javascript:void(0)"
+onclick="$j('#gold').load('/Ajax/DisplayUC.aspx?ucName=GoldRates&amp;ucPath=/UserControls/InfoService/').dialog('open'); return false;">
+Giá vàng</a></li>
+<li><span class="icon sprite iconLotto"></span><a rel="nofollow" href="javascript:void(0)"
+onclick="$j('#lotto').load('/Ajax/DisplayUC.aspx?ucName=Lotteries&amp;ucPath=/UserControls/InfoService/').dialog('open'); return false;">
+Kết quả xổ số</a></li>
+<li><span class="icon sprite iconExch"></span><a rel="nofollow" href="javascript:void(0)"
+onclick="$j('#exchange').load('/Ajax/DisplayUC.aspx?ucName=ExchangeRates&amp;ucPath=/UserControls/InfoService/').dialog('open'); return false;">
+Tỉ giá</a></li>
+<li><span class="icon sprite iconStock"></span><a rel="nofollow" href="javascript:void(0)"
+onclick="$j('#stockex').load('/Ajax/DisplayUC.aspx?ucName=Stocks&amp;ucPath=/UserControls/InfoService/').dialog('open'); return false;">
+Chứng khoán</a></li>
+<li><span class="icon sprite iconTV"></span><a rel="nofollow" href="javascript:void(0)"
+onclick="$j('#tvprogram').load('/Ajax/DisplayUC.aspx?ucName=TvPrograms&amp;ucPath=/UserControls/InfoService/').dialog('open'); return false;">
+Truyền hình</a></li>
+</ul>
+</div>
+--><div id="myBaomoi" class="module">
+<h3>
+My Baomoi</h3>
+<div class="userOverview wrapModule"><div class="userInfo">
+<p>
+<a rel="nofollow" href="/Members/Login.aspx" class="myBmContentLogin">Login</a>
+| <a rel="nofollow" href="/Members/Register.aspx">Sign up</a> | <a rel="nofollow" href="/Members/LostPassword.aspx">
+Forgot password</a></p>
+</div></div>
+<div class="userBookmark wrapModule">
+<span class="icon sprite iconBookmark"></span><a id="Archive_Total" href="/Members/MyArchive.aspx">No saved news</a> <span class="icon sprite iconMail">
+</span><a href="http://feedburner.google.com/fb/a/mailverify?uri=TinHotBaomoi&amp;loc=en_US"
+target="_blank">Email notification</a></div>
+</div>
+<!--/#myBaomoi-->
+<div id="myChannel" class="module">
+<h3>
+My categories</h3>
+<ul class="moduleItems wrapModule"><li class="channel">There is no category</li><li class="moduleFunc"><span class="icon sprite iconAddC"></span><a id="ctl00_bodyContent_rightContent_ctlRightColumn_ctlUtilityBox_ctlMyInfo_btnAddChannel" rel="nofollow" href="javascript:__doPostBack('ctl00$bodyContent$rightContent$ctlRightColumn$ctlUtilityBox$ctlMyInfo$btnAddChannel','')">Create new category</a></li>
+<li class="moduleFunc"><span class="icon sprite iconTopC"></span><a href="/ChannelList.aspx">
+Top created categories</a></li>
+<li class="moduleFunc"><span class="icon sprite iconReset"></span><a id="ctl00_bodyContent_rightContent_ctlRightColumn_ctlUtilityBox_ctlMyInfo_btnReset" rel="nofollow" href="javascript:__doPostBack('ctl00$bodyContent$rightContent$ctlRightColumn$ctlUtilityBox$ctlMyInfo$btnReset','')">Restore default</a></li>
+</ul>
+</div><!--
+<div id="horoscope" class="module">
+<h3>
+Horoscope</h3></div>
+--><div id="topTags" class="module">
+<h3>Most keywords</h3><ul class="tagClouds wrapModule">
+<li class="tagCloud_1"><a href='http://en.baomoi.com/Tag/center.epi' rel="tag">center</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/chair.epi' rel="tag">chair</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/damage.epi' rel="tag">damage</a></li>
+<li class="tagCloud_4"><a href='http://en.baomoi.com/Tag/deal.epi' rel="tag">deal</a></li>
+<li class="tagCloud_4"><a href='http://en.baomoi.com/Tag/decree.epi' rel="tag">decree</a></li>
+<li class="tagCloud_2"><a href='http://en.baomoi.com/Tag/dung.epi' rel="tag">dung</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/fish.epi' rel="tag">fish</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/Foreign-Affairs.epi' rel="tag">Foreign Affairs</a></li>
+<li class="tagCloud_3"><a href='http://en.baomoi.com/Tag/french.epi' rel="tag">french</a></li>
+<li class="tagCloud_1"><a href='http://en.baomoi.com/Tag/Images.epi' rel="tag">Images</a></li>
+<li class="tagCloud_4"><a href='http://en.baomoi.com/Tag/import.epi' rel="tag">import</a></li>
+<li class="tagCloud_3"><a href='http://en.baomoi.com/Tag/invest.epi' rel="tag">invest</a></li>
+<li class="tagCloud_1"><a href='http://en.baomoi.com/Tag/justify.epi' rel="tag">justify</a></li>
+<li class="tagCloud_3"><a href='http://en.baomoi.com/Tag/land.epi' rel="tag">land</a></li>
+<li class="tagCloud_1"><a href='http://en.baomoi.com/Tag/march.epi' rel="tag">march</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/market.epi' rel="tag">market</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/Mekong-Delta.epi' rel="tag">Mekong Delta</a></li>
+<li class="tagCloud_3"><a href='http://en.baomoi.com/Tag/Nguyen-Xuan-Phuc.epi' rel="tag">Nguyen Xuan Phuc</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/pay.epi' rel="tag">pay</a></li>
+<li class="tagCloud_2"><a href='http://en.baomoi.com/Tag/project.epi' rel="tag">project</a></li>
+<li class="tagCloud_3"><a href='http://en.baomoi.com/Tag/report.epi' rel="tag">report</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/rice.epi' rel="tag">rice</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/save.epi' rel="tag">save</a></li>
+<li class="tagCloud_2"><a href='http://en.baomoi.com/Tag/Stores.epi' rel="tag">Stores</a></li>
+<li class="tagCloud_2"><a href='http://en.baomoi.com/Tag/table.epi' rel="tag">table</a></li>
+<li class="tagCloud_6"><a href='http://en.baomoi.com/Tag/The-French.epi' rel="tag">The French</a></li>
+<li class="tagCloud_4"><a href='http://en.baomoi.com/Tag/traffic.epi' rel="tag">traffic</a></li>
+<li class="tagCloud_2"><a href='http://en.baomoi.com/Tag/transport.epi' rel="tag">transport</a></li>
+<li class="tagCloud_2"><a href='http://en.baomoi.com/Tag/Trinh.epi' rel="tag">Trinh</a></li>
+<li class="tagCloud_4"><a href='http://en.baomoi.com/Tag/visit.epi' rel="tag">visit</a></li>
+</ul>
+</div></div>
+</div><div class="fBar">
+<div class="wrapfBar">
+<div class="search">
+<span class="chLang">
+<img src="/App_Themes/Default/Images/search_lang_vn.gif" width="24" height="24" alt="Tiếng Việt"
+onclick="changeVNInput(this);" /></span>
+<input id="txtSearchBar" name="txtSearchBar" class="txtsearch" type="text" value="" /><select name="ctl00$SearchBar$ddlCatSearch" id="ctl00_SearchBar_ddlCatSearch">
+	<option selected="selected" value="-1">All categories</option>
+	<option value="2">World</option>
+	<option value="3">Society</option>
+	<option value="5">Economy</option>
+	<option value="4">Culture &amp; Art</option>
+	<option value="6">Science &amp; Technology</option>
+	<option value="12">Travel</option>
+	<option value="10">Sport</option>
+	<option value="9">Health</option>
+	<option value="11">Entertainment</option>
+	<option value="8">Education</option>
+
+</select><input type="image" name="ctl00$SearchBar$btSearch" id="ctl00_SearchBar_btSearch" class="butSearch" src="/App_Themes/Default/Images/button_search.gif" onclick="return CheckSearch();" border="0" /></div>
+</div>
+</div><div id="footer">
+<div class="wrapFooter">
+<div class="col">
+<ul>
+<li><a href="http://lite.baomoi.com">Baomoi Lite</a></li>
+<li><a href="http://baomoi.mobi">Reading Baomoi on your Mobile</a></li>
+<li><a href="http://facts.baomoi.com">Baomoi Facts</a></li>
+<li><a href="http://www.baomoi.com/Widget/CreateWidget.aspx">Embedding news on your web</a></li>
+</ul>
+</div>
+<div class="col">
+<ul>
+<li><a href="/StaticPages/Intro.aspx">Introduction to Baomoi</a></li>
+<li><a rel="nofollow" href="/StaticPages/TermsOfUse.aspx">Terms of use</a></li>
+<li><a rel="nofollow" href="/Contact.aspx">Contact us</a></li>
+<li><a rel="nofollow" href="http://ads.epi.vn">Advertising on Baomoi</a></li>
+</ul>
+</div>
+<div class="col last">
+<ul>
+<li><a href="/WebLink.aspx">Web Links</a></li>
+<li><a href="http://www.baomoi.com">Baomoi Vietnamese</a></li>
+<li><a href="http://facebook.com/Baomoi">Baomoi on Facebook</a></li>
+<li><a href="http://blog.baomoi.com">Baomoi Blog</a></li>
+</ul>
+</div>
+<div class="siteinfo">
+<p>
+News collection and classification on Baomoi were automatically processed by a computer program.</p>
+<p>
+Publication permit No. 46/GP-TTĐT, Ministry of Information and Communications.</p>
+</div>
+<div class="copyright clearfix">
+<p>
+Copyright © by <strong>EPI Join Stock Company</strong>. All rights reserved.</p>
+<p class="byEPI">
+<a rel="nofollow" href="http://www.baomoi.com">
+<img src="/App_Themes/Default/Images/ePi.jpg" width="187" height="27" alt="Powered by ePi Technologies" /></a></p>
+</div>
+</div>
+</div>
+<div id="poplogin">
+</div>
+<div id="tvprogram">
+</div>
+<div id="stockex">
+</div>
+<div id="exchange">
+</div>
+<div id="gold">
+</div>
+<div id="lotto">
+</div>
+<div id="cinema">
+</div></form><script type="text/javascript" src="/JScripts/jslib.axd?d=jquery-1.4.2.js,jquery-ui.min.js,avim.js,superfish.js,datetime.js,jquery.tools.min.js,Utils.js&amp;v=6.2"></script>
+<!--- Ads by Ambient Digital --->
+<script type="text/javascript">
+var _abd = _abd || [];
+/* load placement for account: baomoi, site: http://en.baomoi.com, size: 1x1 - web, zone: popup */
+_abd.push(["1335237894","Popup","1347851539"]);
+</script>
+<script src="http://media.adnetwork.vn/js/adnetwork.js" type="text/javascript"></script>
+<noscript><div style="bottom:0;position: fixed;right: 0;"><a href="http://track.adnetwork.vn/247/adServerNs/zid_1347851539/wid_1335237894/" target="_blank"><img src="http://delivery.adnetwork.vn/247/noscript/zid_1347851539/wid_1335237894/" /></a></div></noscript>
+<!--- Ads by Ambient Digital --->
+</body>
+</html>

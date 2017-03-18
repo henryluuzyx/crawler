@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phát động giải báo chí toàn quốc 'Tự hào Nông dân Việt Nam' - Zing
+</title><meta name="keywords" content="Hồ Quang Lợi,hội nhà báo việt nam,Hội Nông dân Việt Nam,Tam Nông,phát động,Thắng Quang,sáng tạo,phản ánh,khai thác,trưởng ban tổ chức,phát biểu,biểu dương,việt nam,tôn vinh,phát hiện,ghi nhận" /><meta name="description" content="Sau 3 năm tổ chức, giải báo chí “Tự hào Nông dân Việt Nam” sẽ được mở rộng chấm điểm các tác phẩm báo chí không chỉ ở báo Nông thôn Ngày nay/Dân Việt." />
+<link rel="canonical" href="http://www.baomoi.com/phat-dong-giai-bao-chi-toan-quoc-tu-hao-nong-dan-viet-nam/c/21754840.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21754840" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21754840" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/phat-dong-giai-bao-chi-toan-quoc-tu-hao-nong-dan-viet-nam-post728072.html");
+else
+window.location.replace("http://www.baomoi.com/phat-dong-giai-bao-chi-toan-quoc-tu-hao-nong-dan-viet-nam/c/21754840.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

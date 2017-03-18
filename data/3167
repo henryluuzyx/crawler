@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khu lăng mộ có 3 vua triều Nguyễn an giấc nghìn thu - Phụ Nữ News
+</title><meta name="keywords" content="An Lăng,Vua Duy Tân,Từ Minh,Võ Thạnh,Đường Duy Tân,An Cựu,tạ thế,Tự Đức,Nguyễn Phúc,Nhà Nguyễn,siêu thoát,khởi nghĩa,phế truất,trị vì,TP Huế,an nghỉ,tử nạn,gia cố,an táng,lấn chiếm,châu phi" /><meta name="description" content="Vua Thành Thái, vua Duy Tân, sau khi mất đi được con cháu đưa thi hài về chôn cất trong khu vực An Lăng nơi có lăng tẩm vua Dục Đức." />
+<link rel="canonical" href="http://www.baomoi.com/khu-lang-mo-co-3-vua-trieu-nguyen-an-giac-nghin-thu/c/21793382.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793382" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793382" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/doi-song/khu-lang-mo-co-3-vua-trieu-nguyen-an-giac-nghin-thu-145566/");
+else
+window.location.replace("http://www.baomoi.com/khu-lang-mo-co-3-vua-trieu-nguyen-an-giac-nghin-thu/c/21793382.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

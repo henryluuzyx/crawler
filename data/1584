@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Vnexpress.net" />
+    <!-- iPad icons -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="144x144">
+    <!-- iPhone and iPod touch icons -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="114x114">
+    <!-- Nokia Symbian -->
+    <link rel="nokia-touch-icon" href="http://st.f1.vnexpress.net/images/logos/57x57.png">
+    <!-- Android icon precomposed so it takes precedence -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="1x1">
+    <title>Mua bán rao vặt - VnExpress</title>    <meta name="og:image" content="http://st.f1.raovat.vnecdn.net/i/v7/graphics/logo_default.jpg">
+<meta name="description" content="Rao vặt VnExpress là kênh mua bán rao vặt linh hoạt, nhanh chóng và hiệu quả. Sàn giao dịch của tất cả các mặt hàng bất động sản, xe hơi, tuyển dụng... trên toàn quốc">
+<meta name="keywords" content="Mua bán, rao vặt, mua bán rao vặt, web rao vặt, đăng tin rao vặt,việc làm, nhà ở, thuê , vật nuôi, kinh doanh nhà để xe, quần áo, âm nhạc ">
+<meta name="dc.description" content="Rao vặt VnExpress là kênh mua bán rao vặt linh hoạt, nhanh chóng và hiệu quả. Sàn giao dịch của tất cả các mặt hàng bất động sản, xe hơi, tuyển dụng... trên toàn quốc">    <!-- meta:dc -->
+    <meta name="dc.subject" content="Raovat - VnExpress" />
+    <meta name="dc.publisher" content="VnExpress" />
+    <meta name="dc.rights.copyright" content="VnExpress" />
+    <meta name="dc.creator.name" content="VnExpress" />
+    <meta name="dc.creator.email" content="webmaster@vnexpress.net" />
+    <meta name="dc.identifier" content="http://vnexpress.net" />
+    <!-- meta:og -->
+    <meta property="og:site_name" content="Raovat - VnExpress" />
+    <meta property="og:url" content="http://raovat.vnexpress.net/tin-tuc" />
+    <meta property="og:type" content="article" />
+    <meta property="fb:app_id" content="283547481836738" />
+	<meta http-equiv="X-UA-Compatible" content="IE=100" />
+    <link rel="canonical" href="http://raovat.vnexpress.net/tin-tuc"/>
+    <meta property="al:web:url" content="http://raovat.vnexpress.net/tin-tuc" />
+		<meta name="tt_site_id" content="61" />
+	<meta name="tt_category_id" content="-9999" />
+	<meta name="tt_article_id" content="-9999" />
+	        <!-- tt_pape_type -->
+    <meta name="tt_page_type" content="other">
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-29374284-11', 'auto', {'name': 't0'});
+                ga('t0.send', 'pageview');
+         
+    </script>
+	<!-- Eclick -->
+    <script>
+        (function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https://":"http://")+"stats.g.doubleclick.net/dc.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)})();
+        var _siteId = "61";(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+        var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"19747654"}),function(){var c=document.createElement("script"),e=document.getElementsByTagName("script")[0];c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}();
+    </script>
+	<!-- end Eclick -->
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N3FNJF');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PD4X6"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5PD4X6');</script>
+	<!-- End Google Tag Manager -->
+    <!--[if lte IE 8]>
+    <script src="http://st.f2.raovat.vnecdn.net/j/v32/html5.js"></script>
+    <![endif]-->
+        <link rel="stylesheet" href="http://st.f3.raovat.vnecdn.net/c/v33/general.css" media="all" />
+        <script type="text/javascript" src="http://st.f2.raovat.vnecdn.net/j/v32/jquery.min.js"></script>    <script type="text/javascript">
+    var BASE_URL            =   'http://raovat.vnexpress.net';
+    var UPLOAD_URL          =   'http://upload.raovat.vnexpress.net';
+    var IMAGE_STATIC        =   'http://img.f2.raovat.vnecdn.net';
+    var interactions_url    =   'http://usi.saas.vnexpress.net';
+    var device_env          =   4;
+	var PageHot = 0;
+    var SITE_ID = 61;
+    var PAGE_FOLDER = 61;
+    var PAGE_DETAIL = 0;
+        document.domain         =   'vnexpress.net';
+        </script>
+	<script type="text/javascript" src="http://st.core.polyad.net/RaovatShowAds.js"></script>
+</head>
+<body>
+    <div id="myvne_taskbar_raovat">
+        <div class="myvne_container">
+                        <h1>
+                        <a class="logo_vne" href="http://vnexpress.net" target="_blank"><img alt="Mua bán rao vặt" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/logo.png"></a>
+                        </h1>
+                        <div class="like_facetop left">
+                <div class="fb-like left" data-href="https://www.facebook.com/raovat.vne.net" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+                <div class="tw-button left"><a href="https://twitter.com/VnEnews" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow</a></div>
+            </div>
+            <div class="block_search_web left">
+                <form class="seach" action="/search" method="get">
+                    <input type="text" name="q" class="txt_input" placeholder="Tìm kiếm...">
+                    <input type="submit" value="Search" class="icon_seach_web">
+                </form>
+            </div>
+            <div class="txt_dangtin right"><a class="myvne_submit" href="/dang-tin">Đăng tin</a></div>
+            <ul class="myvne_form_log right" id="myvne_profile">
+                <li class="myvne_user">
+                    <a href="javascript:void(0);" id="myvne_login" class="myvne_link myvne_login_button">
+                        <i class="fa fa-lock"></i>Đăng nhập
+                    </a>
+                    <a href="javascript:void(0);" id="myvne_login" class="myvne_icon myvne_login_button">
+                        <i class="ico ico_user_myvne"></i>
+                    </a>
+                </li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div id="box_col_left" class="block_more_info">
+        <div class="width_common">
+            <div class="btn_control_col_left"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/img_left_panel.gif" alt="Danh mục" /></div>
+            <div class="block_scoll_menu width_common">
+                <div id="search-bt">
+                    <div class="div-search">
+                        <form action="/search" method="GET">
+                            <div class="div-bgSearch">
+                                <input type="text" class="txt-search" placeholder="Tìm kiếm..." name="q">
+                                <input type="submit" class="btt-search" value="">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="dt_btn_m">
+                        <a class="myvne_submit" href="/dang-tin">Đăng tin</a>
+                    </div>
+                </div>
+                                <ul class="list_item_panel width_common">
+                    <li class="first">
+                        <h2><a href="/"><i class="fa fa-home"></i>Trang chủ</a></h2>
+                    </li>
+                                                                                                                    <li>
+                                <h2>
+                                                                        <a class="" href="/mua-ban-nha-dat">
+                                                                                                                                    <i class="fa fa-building"></i>
+                                                                                                                            Mua bán nhà đất                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/thue-nha-dat">
+                                                                                                                                    <i class="fa fa-building-o"></i>
+                                                                                                                            Thuê nhà đất                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/oto">
+                                                                                                                                    <i class="fa fa-car"></i>
+                                                                                                                            Ôtô                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/xe-may-xe-dap">
+                                                                                                                                    <i class="fa fa-motorcycle"></i>
+                                                                                                                            Xe máy - Xe đạp                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/tuyen-sinh-tuyen-dung">
+                                                                                                                                    <i class="fa fa-mortar-board"></i>
+                                                                                                                            Tuyển sinh - Tuyển dụng                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/dien-thoai-sim">
+                                                                                                                                    <i class="fa fa-mobile"></i>
+                                                                                                                            Điện thoại - Sim                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/pc-laptop">
+                                                                                                                                    <i class="fa fa-laptop"></i>
+                                                                                                                            PC - Laptop                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/dien-tu-ky-thuat-so">
+                                                                                                                                    <i class="fa fa-desktop"></i>
+                                                                                                                            Điện tử - Kỹ thuật số                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/thoi-trang-lam-dep">
+                                                                                                                                                                                    <i aria-hidden="true" data-icon="" class="icon-fashion"></i>
+                                                                                                                            Thời trang - Làm đẹp                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/am-thuc-du-lich">
+                                                                                                                                                                                    <i aria-hidden="true" data-icon="" class="icon-Restaurant"></i>
+                                                                                                                            Ẩm thực - Du lịch                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/dich-vu">
+                                                                                                                                                                                    <i aria-hidden="true" data-icon="" class="icon-service"></i>
+                                                                                                                            Dịch vụ                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/khac">
+                                                                                                                                    <i class="fa fa-asterisk"></i>
+                                                                                                                            Khác                                    </a>
+                                </h2>
+                            </li>
+                                                                <li class="last">
+                                                <h2><a class="" href="/ho-tro"><i class="fa fa-life-ring"></i>&nbsp;Hỗ trợ</a></h2>
+                    </li>
+                </ul>
+                <!-- Hotline + Quy dinh -->
+                <div id="hotline" class="width_common box_category">
+                    <div class="hotline_rv width_common">
+                        <h2>Hotline hỗ trợ</h2>
+                        <ul>
+                            <li class="first"><span>Miền Bắc</span> <p> 0915658015</p></li>
+                            <li><span>Miền Nam</span> <p> 0904604493</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="page">
+        <!--HEADER FOR MOBILE-->
+        <div class="wrap_header_mobile width_common">
+            <a href="http://vnexpress.net" target="_blank"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/logo.png" alt="Rao vặt VnExpress" class="left logo_mobile"/></a>
+        </div>
+        <!--END HEADER FOR MOBILE-->
+	<div class="wrapper_container">
+        <div id="container" >
+			<div class="banner_pc width_common box_category">
+				<script type="text/javascript">
+					 Poly_Top(); 
+				</script>
+			</div>
+			<!-- start::navbar -->
+			<div id="col_50" class="left">
+				<ul class="list_item_panel list_item_panel_icon width_common box_category">
+        <li class="first">
+        <a href="http://raovat.vnexpress.net"><i class="fa fa-home">&nbsp;</i></a>
+    </li>
+            <li>
+						<a class="" href="/mua-ban-nha-dat">
+															<i class="fa fa-building"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Mua bán nhà đất            </div>
+        </li>
+            <li>
+						<a class="" href="/thue-nha-dat">
+															<i class="fa fa-building-o"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Thuê nhà đất            </div>
+        </li>
+            <li>
+						<a class="" href="/oto">
+															<i class="fa fa-car"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Ôtô            </div>
+        </li>
+            <li>
+						<a class="" href="/xe-may-xe-dap">
+															<i class="fa fa-motorcycle"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Xe máy - Xe đạp            </div>
+        </li>
+            <li>
+						<a class="" href="/tuyen-sinh-tuyen-dung">
+															<i class="fa fa-mortar-board"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Tuyển sinh - Tuyển dụng            </div>
+        </li>
+            <li>
+						<a class="" href="/dien-thoai-sim">
+															<i class="fa fa-mobile"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Điện thoại - Sim            </div>
+        </li>
+            <li>
+						<a class="" href="/pc-laptop">
+															<i class="fa fa-laptop"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> PC - Laptop            </div>
+        </li>
+            <li>
+						<a class="" href="/dien-tu-ky-thuat-so">
+															<i class="fa fa-desktop"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Điện tử - Kỹ thuật số            </div>
+        </li>
+            <li>
+						<a class="" href="/thoi-trang-lam-dep">
+																					<i aria-hidden="true" data-icon="" class="icon-fashion"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Thời trang - Làm đẹp            </div>
+        </li>
+            <li>
+						<a class="" href="/am-thuc-du-lich">
+																					<i aria-hidden="true" data-icon="" class="icon-Restaurant"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Ẩm thực - Du lịch            </div>
+        </li>
+            <li>
+						<a class="" href="/dich-vu">
+																					<i aria-hidden="true" data-icon="" class="icon-service"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Dịch vụ            </div>
+        </li>
+            <li>
+						<a class="" href="/khac">
+															<i class="fa fa-asterisk"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Khác            </div>
+        </li>
+        <li>
+                <h2><a class="" href="/ho-tro"><i class="fa fa-life-ring"></i></a></h2>
+        <div class="tip_menu">
+            <span class="arrow_tip"></span> Hỗ trợ
+        </div>
+    </li>
+</ul>			</div>
+			<!-- end::navbar -->
+            <!-- start::content -->
+            <div id="col_920" class="right">
+                <div class="head_forder width_common">
+	<div class="title_boxforder title_boxforder_1 title_boxforder_tags left">
+		<h2><a href="javascript:;"><i class="fa fa-newspaper-o"></i>Tin tức</a></h2>
+	</div>
+</div>
+<div id="col_610" class="left">
+	<div class="news_event_block">
+		<div id="list-folder">
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/5-loi-the-giup-sunshine-palace-thu-hut-khach-hang-92.html">5 lợi thế giúp Sunshine Palace thu hút khách hàng</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/5-loi-the-giup-sunshine-palace-thu-hut-khach-hang-92.html"><img src="http://img.f1.raovat.vnecdn.net/images/2017/03/16/58ca06cf922ee-15-3-201733-459502020-7506-1489627546_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Theo đại diện chủ đầu tư, dự án được nhiều khách hàng lựa chọn bởi sắp bàn giao, thiết kế hiện đại, giá bán hợp lý, giao thông thuận lợi và đảm bảo an toàn.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/co-hoi-so-huu-40-can-ho-dep-nhat-du-an-south-building-91.html">Cơ hội sở hữu 40 căn hộ đẹp nhất dự án South Building</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/co-hoi-so-huu-40-can-ho-dep-nhat-du-an-south-building-91.html"><img src="http://img.f2.raovat.vnecdn.net/images/2017/03/14/58c793968df3d-13-3-201739-774289495-9544-1489399737_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Hơn 70% số lượng căn hộ tại dự án South Building đã bán hết sau hơn một tháng ra mắt, chỉ còn 40 căn cuối cùng có vị trí đẹp nhất.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/can-ho-hai-mat-tien-song-sai-gon-gia-tu-1-6-ty-dong-90.html">Căn hộ hai mặt tiền sông Sài Gòn giá từ 1,6 tỷ đồng</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/can-ho-hai-mat-tien-song-sai-gon-gia-tu-1-6-ty-dong-90.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/03/14/58c770e81135a-Image-ExtractWord-0-Out-3161-1489392581_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Dự án khu căn hộ cao cấp Luxgarden do Tập đoàn Đất Xanh đầu tư có hướng nhìn đẹp ra sông Sài Gòn, giá bán từ 1,6 tỷ đồng cho căn 2 phòng ngủ.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/tap-doan-khach-san-lon-thu-5-the-gioi-dau-tu-vao-da-nang-89.html">Tập đoàn khách sạn lớn thứ 5 thế giới đầu tư vào Đà Nẵng</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/tap-doan-khach-san-lon-thu-5-the-gioi-dau-tu-vao-da-nang-89.html"><img src="http://img.f2.raovat.vnecdn.net/images/2017/03/13/58c644200cff6-cocobay3-5844-1489368887_300x180.jpg" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Louvre Hotels Group sẽ mang thương hiệu chủ chốt và lâu đời nhất - Golden Tulip tới chuỗi Boutique Hotel thuộc tổ hợp du lịch và giải trí Cocobay Đà Nẵng.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/mo-ban-50-can-ho-cuoi-cung-du-an-centana-thu-thiem-88.html">Mở bán 50 căn hộ cuối cùng dự án Centana Thủ Thiêm</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/mo-ban-50-can-ho-cuoi-cung-du-an-centana-thu-thiem-88.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/03/10/58c27ddab46a1-9-3-201711-9698-1489126248_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Đơn vị phát triển Rio Land sẽ giới thiệu ra thị trường 50 căn cuối cùng có tầm nhìn đẹp nhất dự án vào ngày 11/3 và 25/3 tới.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/phat-trien-khu-do-thi-can-bang-nang-luong-tai-viet-nam-87.html">Phát triển khu đô thị cân bằng năng lượng tại Việt Nam</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/phat-trien-khu-do-thi-can-bang-nang-luong-tai-viet-nam-87.html"><img src="http://img.f1.raovat.vnecdn.net/images/2017/03/09/58c0c0d8c6096-Image-185610771-ExtractWord-1-9015-7962-1488963951_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Nhiều ý tưởng, kinh nghiệm và công nghệ phát triển công trình xanh được trình bày trong hội thảo quốc tế về phát triển khu đô thị cân bằng năng lượng do Tập đoàn Nam Cường tổ chức.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/bat-dong-san-phan-thiet-huong-di-moi-86.html">Bất động sản Phan Thiết, hướng đi mới</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/bat-dong-san-phan-thiet-huong-di-moi-86.html"><img src="http://img.f4.raovat.vnecdn.net/images/2017/03/08/58bf731c9e66d-image001_300x180.jpg" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Với định hướng trở thành một thành phố biển trọng điểm của quốc gia, Phan Thiết đang nhận được sự đầu tư ồ ạt về cơ sở hạ tầng và cùng với đó là những dự án nghìn tỷ đang xây dựng. Sức hấp dẫn mới đó cùng tiềm năng sẵn có của mảnh đất đầy nắng gió này đang vẫy gọi nhà đầu tư lớn nhỏ tìm về.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/tam-nhin-an-tuong-tai-toa-thap-bahamas-cua-diamond-island-85.html">Tầm nhìn ấn tượng tại tòa tháp Bahamas của Diamond Island</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/tam-nhin-an-tuong-tai-toa-thap-bahamas-cua-diamond-island-85.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/03/07/58be76877909d-3-3-201739-7713-1488874505_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Tháp Bahamas tại Diamond Island tọa lạc tại vị trí đắc địa với hướng nhìn rộng mở về sông, trung tâm thành phố, bến du thuyền và hồ bơi resort.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/tu-hiep-plaza-du-an-gia-re-o-phia-nam-ha-noi-84.html">Tứ Hiệp Plaza - dự án giá rẻ ở phía Nam Hà Nội</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/tu-hiep-plaza-du-an-gia-re-o-phia-nam-ha-noi-84.html"><img src="http://img.f4.raovat.vnecdn.net/images/2017/03/07/58be28e4751e4-Image-614598954-ExtractWord-0-5991-9432-1488793556_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Với hơn 600 căn hộ chung cư có giá từ một tỷ đồng một căn, Tứ Hiệp Plaza là một trong các dự án thuộc phân khúc trung cấp tại khu vực phía Nam Hà Nội.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/vingroup-ra-mat-phan-khu-the-harmony-tai-vinhomes-riverside-83.html">Vingroup ra mắt phân khu The Harmony tại Vinhomes Riverside</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/vingroup-ra-mat-phan-khu-the-harmony-tai-vinhomes-riverside-83.html"><img src="http://img.f1.raovat.vnecdn.net/images/2017/03/06/58bd2790b10ea-6-3-201754-4890-1488785352_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Giai đoạn 2 của dự án khu đô thị sinh thái Vinhomes Riverside có thiết hiện đại theo 4 phong cách kiến trúc Pháp, Italy, Hy Lạp và Đông Dương với nhiều loại hình nhà ở, biệt thự. 								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/ra-mat-to-hop-condotel-so-huu-khu-spa-fitness-4-500m2-82.html">Ra mắt tổ hợp condotel sở hữu khu Spa & Fitness 4.500m2</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/ra-mat-to-hop-condotel-so-huu-khu-spa-fitness-4-500m2-82.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/03/03/58b8e590b6394-1-3-20179-322579970-2696-1488422652_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Với diện tích khu Spa, Fitness lên đến 4.500 m2, tổ hợp condetel Coco Ocean-Spa Resort cung cấp nhiều dịch vụ chăm sóc sức khỏe, sắc đẹp cho khách lưu trú.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/chinh-sach-nhan-nha-ngay-tai-vinhomes-thang-long-81.html">Chính sách nhận nhà ngay tại Vinhomes Thăng Long</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/chinh-sach-nhan-nha-ngay-tai-vinhomes-thang-long-81.html"><img src="http://img.f4.raovat.vnecdn.net/images/2017/03/02/58b78dd161290-28-2-201739-353243828-4628-1488330501_300x180.jpg" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Từ quý I/2017, người mua nhà nhận chìa khóa sở hữu biệt thự Vinhomes Thăng Long ngay sau khi ký hợp đồng.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/phong-cach-song-singapore-tai-hanoi-paragon-80.html">Phong cách sống Singapore tại Hanoi Paragon</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/phong-cach-song-singapore-tai-hanoi-paragon-80.html"><img src="http://img.f4.raovat.vnecdn.net/images/2017/02/28/58b5226543be4-Untitled-5895-1488252927_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Với quy hoạch đồng bộ, thiết kế hiện đại, chung cư cao cấp Hanoi Paragon mang đến cho cư dân môi trường sống tiện nghi theo phong cách Singapore ngay giữa lòng Hà Nội.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/can-ho-san-vuon-2-mat-tien-song-tai-trung-tam-quan-7-79.html">Căn hộ sân vườn 2 mặt tiền sông tại trung tâm quận 7</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/can-ho-san-vuon-2-mat-tien-song-tai-trung-tam-quan-7-79.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/02/28/58b4f9727672c-Image-ExtractWord-0-Out-2311-1488169720_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Dự án Luxgarden do Tập đoàn Đất Xanh đầu tư gồm 500 căn hộ cao cấp, trong đó có 76 căn hộ sân vườn trên cao (sky garden) với 2 mặt tiền hướng sông Sài Gòn.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/ban-700-can-ho-vinhomes-skylake-trong-3-tuan-78.html">Bán 700 căn hộ Vinhomes Skylake trong 3 tuần</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/ban-700-can-ho-vinhomes-skylake-trong-3-tuan-78.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/02/27/58b3d8babf71e-1702-VH2-VHSL-Bom-tan-Anh1-9912-1487999631_300x180.jpg" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									70% số lượng căn hộ tại tòa S1 và S2 thuộc dự án đã có chủ sau 3 tuần công bố.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/nhung-yeu-to-giup-bat-dong-san-phia-dong-ha-noi-phat-trien-77.html">Những yếu tố giúp bất động sản phía Đông Hà Nội phát triển</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/nhung-yeu-to-giup-bat-dong-san-phia-dong-ha-noi-phat-trien-77.html"><img src="http://img.f4.raovat.vnecdn.net/images/2017/02/24/58af9cc76d02e-Image-ExtractWord-0-Out-8653-1487842299_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Với quỹ đất rộng và hạ tầng giao thông ngày càng hoàn thiện, khu vực phía Đông Hà Nội được nhiều người lựa chọn để an cư và đầu tư sinh lời.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/10-nam-toi-tp-hcm-can-mot-trieu-can-ho-gia-re-76.html">10 năm tới TP HCM cần một triệu căn hộ giá rẻ</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/10-nam-toi-tp-hcm-can-mot-trieu-can-ho-gia-re-76.html"><img src="http://img.f1.raovat.vnecdn.net/images/2017/02/23/58ae9297d6268-a-tb-nha-xa-hoi-TP-HCM-4966-1487818699_300x180.jpg" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Trong một thập kỷ tới, nhu cầu nhà vừa túi tiền, nhà thương mại bình dân, nhà xã hội, nhà cho thuê giá rẻ tại đô thị này có thể lên đến một triệu căn.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/unicons-lam-tong-thau-khu-phuc-hop-a-b-central-square-nha-trang-75.html">Unicons làm tổng thầu khu phức hợp A&B Central Square Nha Trang</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/unicons-lam-tong-thau-khu-phuc-hop-a-b-central-square-nha-trang-75.html"><img src="http://img.f2.raovat.vnecdn.net/images/2017/02/22/58acf1e75ed16-20-2-201723-826800673-5854-1487640489_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Thành viên của Coteccons Group sẽ xây dựng dự án khu phức hợp trung tâm thương mại và khách sạn 5 sao tại thành phố Nha Trang do A&B Group làm chủ đầu tư.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/50-can-ho-ecohome-phuc-loi-ban-het-sau-3-thang-74.html">50% căn hộ EcoHome Phúc Lợi bán hết sau 3 tháng</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/50-can-ho-ecohome-phuc-loi-ban-het-sau-3-thang-74.html"><img src="http://img.f2.raovat.vnecdn.net/images/2017/02/21/58abb0d155565-20-2-20171-3069-1487576700_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Theo đại diện chủ đầu tư, nhờ ưu thế về vị trí, tiện ích, đạt tiêu chuẩn xanh quốc tế, gần 340 căn hộ trong tổng số 680 căn đã có chủ sở hữu sau 3 tháng mở bán.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/can-ho-2-phong-ngu-gia-tu-1-3-ty-dong-cho-gioi-tre-73.html">Căn hộ 2 phòng ngủ giá từ 1,3 tỷ đồng cho giới trẻ</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/can-ho-2-phong-ngu-gia-tu-1-3-ty-dong-cho-gioi-tre-73.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/02/20/58aa5e4cbf4d6-17-2-201714-4479-1487384544_300x180.jpg" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Các căn hộ thuộc dự án The Western Capital có thiết kế hoàn chỉnh nội thất cao cấp, đầy đủ tiện nghi, phù hợp với các gia đình trẻ.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/nhung-khu-vuon-tren-cao-tai-hado-centrosa-garden-72.html">Những khu vườn trên cao tại HaDo Centrosa Garden</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/nhung-khu-vuon-tren-cao-tai-hado-centrosa-garden-72.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/02/17/58a669131bf06-15-2-201737-829933682-6750-1487212459_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Ý tưởng vườn giữa phố được HaDo Centrosa Garden (quận 10, TP HCM) hiện thực hóa bằng hệ thống tiện ích khép kín, trong đó nổi bật là các khu vườn trên cao dành cho cư dân.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/lam-dep-chon-gia-re-hay-chon-thuong-hieu-uy-tin-71.html">Làm đẹp: Chọn giá rẻ hay chọn thương hiệu uy tín</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/lam-dep-chon-gia-re-hay-chon-thuong-hieu-uy-tin-71.html"><img src="http://img.f4.raovat.vnecdn.net/images/2017/02/16/58a57e5cebc9f-1_300x180.jpg" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Bệnh viện thẩm mỹ JW Hàn Quốc (JW) đang vươn mình phát triển mạnh mẽ theo hướng chuyên sâu, mang lại vẻ đẹp toàn diện cho khách hàng. 								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/phong-cach-song-dac-trung-tai-3-du-an-imperia-cua-mik-group-70.html">Phong cách sống đặc trưng tại 3 dự án Imperia của MIK Group</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/phong-cach-song-dac-trung-tai-3-du-an-imperia-cua-mik-group-70.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/02/16/58a5151d0fa58-Image-ExtractWord-0-Out-7752-1487210060_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Imperia An Phú, Imperia Garden, Imperia Sky Garden đều là những dự án tọa lạc tại vị trí đắc địa, đầu tư nhiều cho cảnh quan xanh và tiện ích sống.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/flc-tang-can-ho-khach-san-cho-golf-thu-mua-biet-thu-69.html">FLC tặng căn hộ khách sạn cho golf thủ mua biệt thự</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/flc-tang-can-ho-khach-san-cho-golf-thu-mua-biet-thu-69.html"><img src="http://img.f3.raovat.vnecdn.net/images/2017/02/15/58a4072ad5f56-14-2-201740-96268146-6170-1487132321_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Trong khuôn khổ giải FLC Golf Championship 2017, các golfer mua sản phẩm bất động sản tại Quy Nhơn sẽ được tặng condotel (căn hộ khách sạn); sổ tiết kiệm 200 triệu đồng, golf tour Thái Lan...								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+							<div class="news_event_block-list">
+					<div class="news_event_item">
+						<h3 class="news_event_title"><a href="/chi-tiet/tnr-holdings-viet-nam-tung-2-trieu-m2-van-phong-nha-o-cao-cap-68.html">TNR Holdings Việt Nam tung 2 triệu m2 văn phòng, nhà ở cao cấp</a></h3>
+						<div class="news_event_content">
+							<figure class="main-img">
+								<a href="/chi-tiet/tnr-holdings-viet-nam-tung-2-trieu-m2-van-phong-nha-o-cao-cap-68.html"><img src="http://img.f1.raovat.vnecdn.net/images/2017/02/15/58a3c79415f1e-Image-173014317-ExtractWord-1-5480-4829-1487065033_300x180.png" alt="tintuc_img"></a>
+							</figure>
+							<div class="desc">
+								<p>
+									Ngoài 4 dự án cao cấp đang triển khai, doanh nghiệp sẽ ra mắt thêm 2 triệu m2 văn phòng, nhà ở tại trung tâm Hà Nội, TP HCM.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+					</div>
+		<!-- Phân trang -->
+				<!-- Xem them Mobile Tablet -->
+		<div class="view_more width_common" id="more_mobile_tablet" data-page-dom="list-folder" data-page-url="http://raovat.vnexpress.net/tin-tuc" data-page-number="2"><a href="javascript:void(0);">Xem tiếp<span> ...</span></a></div>
+	</div>
+
+</div>
+<div id="col_300" class="right">
+	<div class="event_block">
+		<div class="event_block_title_group">
+			<h3 class="event_block_title">Sự kiện nổi bật</h3>
+		</div>
+		
+		<div class="event_block_content">
+			<figure class="main-img">
+				<a target="_blank" href="http://vnexpress.net/tin-tuc/oto-xe-may/khoi-dong-hanh-trinh-cung-bridgestone-ve-nha-an-toan-2017-3554490.html"><img src="http://img.f4.raovat.vnecdn.net/images/2017/03/14/58c7716b1d6d9-13-3-20170-5379-1489458540_300x180.png" alt="event_img"></a>
+			</figure>
+			<div class="event_block_inner">
+				<h4 class="event_block_title">
+					<a target="_blank" href="http://vnexpress.net/tin-tuc/oto-xe-may/khoi-dong-hanh-trinh-cung-bridgestone-ve-nha-an-toan-2017-3554490.html">Khởi động hành trình 'Cùng Bridgestone về nhà an toàn' 2017</a>
+				</h4>
+				<ul class="event_block_list">
+				 				<li>
+					<a target="_blank" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/bim-group-aeon-mall-hop-tac-dau-tu-trung-tam-thuong-mai-200-trieu-usd-3554436.html">BIM Group, Aeon Mall hợp tác đầu tư trung tâm thương mại 200 triệu USD</a>
+				</li>
+								<li>
+					<a target="_blank" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/co-hoi-trung-xe-mazda-3-khi-mua-can-lien-ke-du-an-mon-bay-3554294.html">Cơ hội trúng xe Mazda 3 khi mua căn liền kề dự án Mon Bay</a>
+				</li>
+								<li>
+					<a target="_blank" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/ldg-group-xay-dung-trung-tam-thuong-mai-moi-tai-dong-nai-3552675.html">LDG Group xây dựng trung tâm thương mại mới tại Đồng Nai</a>
+				</li>
+								<li>
+					<a target="_blank" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/sunshine-group-ra-mat-can-ho-mau-du-an-sunshine-palace-3552342.html">Sunshine Group ra mắt căn hộ mẫu dự án Sunshine Palace</a>
+				</li>
+									
+					
+				</ul>
+			</div>
+		</div>
+	</div>	
+</div>
+            </div> 
+          <!-- end::content -->
+        </div>
+    </div>
+    <!-- start::footer -->
+ <div id="wrapper_footer">
+	  <div class="content_footer width_common">
+			<div id="footer">
+				<div class="ft-bot width_common">
+					<div class="ft-bot-top">
+						<div class="ft-block ft-block-1">
+							<div class="ft_intro">
+								<p><strong>Tên đăng ký: </strong>Công ty Cổ phần Dịch vụ trực tuyến FPT</p>
+								<p><strong>Tên giao dịch: </strong>FPT Online JSC</p>
+								<p><strong>Địa chỉ trụ sở: </strong>Tầng 6, Tòa nhà Exchange Tower - số 1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Tp.HCM.</p>
+								<p><strong>Điện thoại/ Fax: </strong>08 - 7300 9999</p>
+								<p><strong>Email: </strong><a href="mailto:raovat@vnexpress.net">raovat@vnexpress.net</a></p>
+								<p><strong>Giấy chứng nhận đăng ký kinh doanh số 0305045911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 22/12/2015</strong></p>
+							</div>
+							<div class="ft_group">
+								<form class="form-horizontal" autocomplete="false" role="form" method="post" action="https://emarketing.eclick.vn/form/submit?formId=12" data-mautic-form="nhanbantinraovat">
+									<input type="hidden" name="mauticform[formId]" value="12" />
+									<input type="hidden" name="mauticform[return]" value="" />
+									<input type="hidden" name="mauticform[formName]" value="nhanbantinraovat" />
+									<div class="form-group">
+										<label for="email" class="text-1 control-label">Đăng ký để nhận bản tin </label>
+										<div class="input-group">
+											<input name="mauticform[email]" value="" class="form-control mauticform-input" type="email" placeholder="Nhập email của bạn" required="true">
+											<button type="submit" class="btn red-btn mauticform-button" name="mauticform[hoan_thanh]" name="mauticform[hoan_thanh]" value="1">Đăng ký</button>
+										</div>
+										<p class="txt_error mauticform_error"></p>
+									</div>
+								</form>
+								<script type="text/javascript">
+									$(document).ready(function() {
+										$('form[data-mautic-form="nhanbantinraovat"]').on('submit', function() {
+											if ($('.mauticform-input').val().length > 0) {
+												return true;
+											} else {
+												$('.mauticform_error').text('Bạn chưa nhập địa chỉ email');
+											}
+											return false;
+										});
+									});
+								</script>
+								<ul class="ft_social_list">
+									<li>
+										<a href="https://www.facebook.com/raovat.vne.net" target="_blank" class="wi-icon wi-icon-facebook-1"></a>
+									</li>
+									<li>
+										<a href="https://www.youtube.com/channel/UCsB2760X9fiA5PXSN0dFh1g" target="_blank" class="wi-icon wi-icon-youtube"></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="ft-block ft-block-2">
+							<div class="ft-support-block">
+								<h2 class="ft_title"><a href="javascript:;">Quy chế hoạt động</a></h2>
+								<ul class="ft_list support_list">
+									<li><a href="/ho-tro?tab=1" title="Quy chế đăng tin">Quy chế đăng tin</a></li>
+									<li><a href="/ho-tro?tab=4" title="Chính sách bảo mật">Chính sách bảo mật</a></li>
+									<li><a href="/ho-tro?tab=24">Quy trình giải quyết khiếu nại</a></li>
+									<li><a href="/ho-tro?tab=12">Quy trình thanh toán</a></li>
+								</ul>
+								<figure>
+									<a href="http://www.online.gov.vn/WebsiteDisplay.aspx?DocId=28077" target="_blank"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/dadangky.png" alt="dadangky"></a>
+								</figure>
+							</div>
+							<div class="ft-support-block">
+								<h2 class="ft_title"><a href="javascript:;">Raovat.vnexpress.net</a></h2>
+								<ul class="ft_list support_list">
+									<li><a href="http://fptad.com/PTKD/Raovat/mediakit.pdf" target="_blank" title="Giới thiệu">Giới thiệu</a></li>
+									<li><a href="/ho-tro" title="Hỗ trợ">Hỗ trợ</a></li>
+									<li><a href="/ho-tro?tab=11">Bảng giá đăng tin</a></li>
+									<li><a href="https://stportal.eclick.vn/v14/files/bao-gia-quang-cao-rao-vat.pdf" target="_blank" title="Bảng giá quảng cáo">Bảng giá quảng cáo</a></li>
+									<li><a href="/ho-tro?tab=20" title="FAQ">FAQ</a></li>
+									<li><a href="/lien-he" title="Liên hệ">Liên hệ</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="ft-bot-bottom">
+						<div class="ft-block ft-block-1">
+							<span class="text-1">Trải nghiệm phiên bản di động</span>
+							<div class="app-list">
+								<a href="https://itunes.apple.com/us/app/rao-vat-vnexpress/id1070436963&mt=8" title="App Store" class="app-img">
+									<img alt="" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/app-1.png">
+								</a>
+								<a href="https://play.google.com/store/apps/details?id=raovat.vnexpress.fpt.raovat" title="Google play" class="app-img">
+									<img alt="" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/app-2.png">
+								</a>
+							</div>
+						</div>
+						<div class="coppy_right_tracuu_left">
+							<div class="footer_logo"> <a href="http://vnexpress.net" title="VnExpress"><img class="logo_footer" alt="" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/logo.png"></a></div>
+							<div class="cpy_footer">
+								<p>© Copyright 1997 VnExpress.net, All rights reserved</p>
+								<p>® VnExpress giữ bản quyền nội dung trên website này.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	  </div>
+</div>
+<!-- end::footer -->
+    <div class="icon_pin">
+        <ul>
+            <li class="">
+                <a href="/dang-tin" class="myvne_submit pin_icon pin_2"></a>
+                <div class="tip_menu">
+                    <span class="arrow_tip"></span>Đăng tin
+                </div>
+            </li>
+            <li class="">
+                <a href="/lien-he" class="pin_icon pin_3"></a>
+                <div class="tip_menu">
+                    <span class="arrow_tip"></span>Liên hệ
+                </div>
+            </li>
+            <li class="">
+                <a href="javascript:void(0);" id="scroll_top_top" class="pin_icon pin_1"></a>
+                <div class="tip_menu">
+                    <span class="arrow_tip"></span>Lên đầu trang
+                </div>
+            </li>
+        </ul>
+    </div>
+<script type="text/javascript" src="http://stmy.vnexpress.net/myvne/j/v3/myvne_users.js"></script>
+<script type="text/javascript" src="http://st.f2.raovat.vnecdn.net/j/v32/utils.js"></script><script type="text/javascript">
+$(document).ready(function(){
+    if(typeof raovat != 'undefined')
+    {
+        raovat.init();
+    }
+});
+</script>
+<script type="text/javascript" src="http://st.core.polyad.net/Ads.js"></script>
+    <script type="text/javascript" src="http://st.polyad.net/Vals/65/0/61/Val.js"></script>
+<script type="text/javascript">
+	Poly_BackGround();
+    Poly_showads();
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=422517127843373";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</body>
+</html>
+

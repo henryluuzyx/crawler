@@ -1,0 +1,225 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1" lang="vi"><meta name="google-site-verification" content="bmqrm3PnDa_o67l350-ha5w2RXwkPYS9WYwrUJU5rIA" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Chỉ tiêu | Chuyên trang tuyển sinh | Dân trí</title><meta id="ctl00_metakeywords" name="keywords" content="Tuyển sinh,du học, họp cập" /><meta id="ctl00_newskeywords" name="news_keywords" content="Tuyển sinh,du học, họp cập" /><meta id="ctl00_metaDes" name="description" content="Tờ báo cập nhật 24/24 tin tức tuyển sinh mới" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta property="og:locale" content="vi_VN" /><meta property="fb:app_id" content="830263217081389" /><meta name="author" content="BAO DIEN TU DAN TRI" /><meta property="article:author" content="https://www.facebook.com/baodantridientu" /><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><link href="https://dantri4.vcmedia.vn/web_css/tuyensinhdantri.min.1.4.css" rel="stylesheet" type="text/css" />
+    <script src="https://dantri3.vcmedia.vn/tuyensinh/scripts/tuyensinhdantri.min.1.3.js"
+        type="text/javascript" language="javascript"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-4263013-49', 'auto', { 'name': 'ts_vcc' });
+        ga('ts_vcc.send', 'pageview');
+
+        ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+        ga('dtonly.send', 'pageview');
+
+//        ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+//        ga('dtboo.send', 'pageview');
+
+//        ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+//        ga('totaldt.send', 'pageview');
+    </script>
+    
+    <script type="text/javascript">var  _ADM_Channel='%2Ftuyen-sinh%2Fchi-tieu%2F';</script>
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+    <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "17793284" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+    
+    <script type="text/javascript">
+        /*mobile*/
+        function setCookieMobileRedirect(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+
+        function CheckMobileRedirect() {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            setCookieMobileRedirect("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    } else {
+                        //van dang o phien lam viec cu thi khong lam gi.   
+                    }
+                }
+            } catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+
+        }
+        //check mobile
+        CheckMobileRedirect();
+        /*end mobile*/
+    </script>
+<link rel="canonical" href="http://tuyensinh.dantri.com.vn/tuyen-sinh/chi-tieu.htm" /><link rel="alternate" type="application/rss+xml" href="http://tuyensinh.dantri.com.vn/chi-tieu.rss" title="Chỉ tiêu | Chuyên trang tuyển sinh | Dân trí" /><link href="http://m.dantri.com.vn/tuyen-sinh/chi-tieu.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link rel="next" href="http://tuyensinh.dantri.com.vn/tuyen-sinh/chi-tieu/trang-2.htm" /><meta property="og:type" content="article" /><meta property="article:tag" content="Tuyển sinh,du học, họp cập" /><meta itemprop="headline" property="og:title" content="Chỉ tiêu | Chuyên trang tuyển sinh | Dân trí" /><meta itemprop="description" property="og:description" content="Tờ báo cập nhật 24/24 tin tức tuyển sinh mới" /><meta itemprop="keywords" content="Tuyển sinh,du học, họp cập" /><meta itemprop="thumbnailUrl" property="og:image" /><meta itemprop="url" property="og:url" content="http://tuyensinh.dantri.com.vn/tuyen-sinh/chi-tieu.htm" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="./List.aspx?parentCatUrl=tuyen-sinh&amp;catUrl=chi-tieu&amp;url=tuyen-sinh%2fchi-tieu%2f&amp;pageIndex=1&amp;PageType=7777" id="aspnetForm">
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="704" />
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="chi-tieu" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="708" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="708" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="Chỉ ti&#234;u" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4MTUyODM5MGRkXbmw8mBcoW1EtMrTzifKBg3EwA1BFHjCGn2SS5u1KNo=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB3BDE6C" />
+    <div id="wrap">
+        
+<div id="header">
+    <a class="sprite logo" href="/" title="Tuyển sinh Dân trí"></a>
+
+</div>
+
+<div class="fullbanner">
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_1122.ads"></script>
+</div>
+
+        
+<div id="menu">
+    <ul>
+ <li><a href="http://dantri.com.vn" target="_blank" title="Dân trí">Trang chủ</a></li>
+ <li><a href="/" title="Tuyển sinh" class="normal" id="home">Tuyển sinh</a></li>
+
+ <li><a href="/tuyen-sinh/gap-go-cac-truong.htm" title="Gặp gỡ các trường" id="gap-go-cac-truong" class="normal active">Gặp gỡ các trường</a></li>
+
+ <li><a href="/tuyen-sinh/bi-quyet-hoc-va-thi.htm" title="Bí quyết học và thi" id="bi-quyet-hoc-va-thi" class="normal">Bí quyết học và thi</a></li>
+
+ <li><a href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu - Điểm chuẩn" id="chi-tieu" class="normal">Chỉ tiêu - Điểm chuẩn</a></li>
+
+ <li><a href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án" id="de-thi-dap-an" class="normal">Đề thi - Đáp án</a></li>
+
+ <li><a href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi" id="khoanh-khac-mua-thi" class="normal">Khoảnh khắc mùa thi</a></li>
+ </ul>
+    
+</div>
+<script type="text/javascript">
+    MenuTop();
+</script>
+
+        <div id="container" class="clearfix">
+            <div id="column-left">
+                
+   
+    <div id="ctl00_ContentPlaceHolder1_divNormal" class="list">
+         <h1 class="item"><a href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu" class="titlelist">Chỉ tiêu</a></h1>
+        <div class="item"><a title="To&#224;n cảnh tuyển sinh của Đại học Quốc gia TPHCM trong năm 2017"  href="/giao-duc-khuyen-hoc/toan-canh-tuyen-sinh-cua-dai-hoc-quoc-gia-tphcm-trong-nam-2017-20170209110809151.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/tuyen-sinh-dhqg-tphcm-nam-2017-2-1486612743016.jpg" alt="To&#224;n cảnh tuyển sinh của Đại học Quốc gia TPHCM trong năm 2017" class="avatar"></a> <h3><a title="To&#224;n cảnh tuyển sinh của Đại học Quốc gia TPHCM trong năm 2017" href="/giao-duc-khuyen-hoc/toan-canh-tuyen-sinh-cua-dai-hoc-quoc-gia-tphcm-trong-nam-2017-20170209110809151.htm">To&#224;n cảnh tuyển sinh của Đại học Quốc gia TPHCM trong năm 2017</a></h3><p>(Dân trí) - ĐH Quốc gia TPHCM vừa công bố thông tin tuyển sinh năm 2017, theo đó ngoại trừ trường ĐH Quốc tế được tổ chức thêm kỳ thi kiểm tra năng lực theo dạng SAT II để tuyển sinh, các đơn vị thành viên còn lại chủ yếu tuyển theo 3 phương thức.</p></div><div class="item"><a title="Trường ĐH Y dược TPHCM dự kiến tăng chỉ ti&#234;u tuyển sinh trong năm 2017"  href="/giao-duc-khuyen-hoc/truong-dh-y-duoc-tphcm-du-kien-tang-chi-tieu-tuyen-sinh-trong-nam-2017-20170315122416397.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/anh-tuyen-sinh-truong-dh-y-duoc-tphcm-1489552657179.jpg" alt="Trường ĐH Y dược TPHCM dự kiến tăng chỉ ti&#234;u tuyển sinh trong năm 2017" class="avatar"></a> <h3><a title="Trường ĐH Y dược TPHCM dự kiến tăng chỉ ti&#234;u tuyển sinh trong năm 2017" href="/giao-duc-khuyen-hoc/truong-dh-y-duoc-tphcm-du-kien-tang-chi-tieu-tuyen-sinh-trong-nam-2017-20170315122416397.htm">Trường ĐH Y dược TPHCM dự kiến tăng chỉ ti&#234;u tuyển sinh trong năm 2017</a></h3><p>(Dân trí) - Theo kế hoạch tuyển sinh dự kiến của trường ĐH Y dược TPHCM, năm 2017 trường tuyển tổng cộng 1.760 chỉ tiêu. Như vậy, so với năm ngoái trường tuyển tăng 160 chỉ tiêu.</p></div><div class="item"><a title="ĐH T&#226;y Đ&#244; dự kiến tuyển hơn 3.300 chỉ ti&#234;u năm 2017"  href="/tuyen-sinh/dh-tay-do-du-kien-tuyen-hon-3300-chi-tieu-nam-2017-20170311164721746.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/hinh-bia-1489217112792.jpg" alt="ĐH T&#226;y Đ&#244; dự kiến tuyển hơn 3.300 chỉ ti&#234;u năm 2017" class="avatar"></a> <h3><a title="ĐH T&#226;y Đ&#244; dự kiến tuyển hơn 3.300 chỉ ti&#234;u năm 2017" href="/tuyen-sinh/dh-tay-do-du-kien-tuyen-hon-3300-chi-tieu-nam-2017-20170311164721746.htm">ĐH T&#226;y Đ&#244; dự kiến tuyển hơn 3.300 chỉ ti&#234;u năm 2017</a></h3><p>(Dân trí) - Năm 2017, Trường ĐH Tây Đô (TP Cần Thơ) dự kiến xét tuyển 3.310 chỉ tiêu Đại học và 70 chỉ tiêu Cao đẳng hệ chính quy. Trong đó 70% dành cho xét tuyển học bạ THPT và 30% xét tuyển điểm kỳ thi THPT Quốc gia.</p></div><div class="item"><a title="Năm 2017, c&#243; 2.388 chỉ ti&#234;u v&#224;o ĐH Đồng Th&#225;p"  href="/tuyen-sinh/nam-2017-co-2388-chi-tieu-vao-dh-dong-thap-20170309133634956.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/ts-ban-1489027163588.jpg" alt="Năm 2017, c&#243; 2.388 chỉ ti&#234;u v&#224;o ĐH Đồng Th&#225;p" class="avatar"></a> <h3><a title="Năm 2017, c&#243; 2.388 chỉ ti&#234;u v&#224;o ĐH Đồng Th&#225;p" href="/tuyen-sinh/nam-2017-co-2388-chi-tieu-vao-dh-dong-thap-20170309133634956.htm">Năm 2017, c&#243; 2.388 chỉ ti&#234;u v&#224;o ĐH Đồng Th&#225;p</a></h3><p>(Dân trí) - Trong kế hoạch tuyển sinh 2017, ĐH Đồng Tháp thông báo tuyển sinh trên cả nước và năm nay có 2.388 chỉ tiêu vào trường ở bậc ĐH. Riêng bậc CĐ, nhà trường siết lại chỉ tiêu và ngành đào tạo nên chỉ có 2 ngành và tuyển 300 chỉ tiêu.</p></div><div class="item"><a title="ĐH Trà Vinh tuy&#234;̉n sinh 5.100 chỉ ti&#234;u b&#226;̣c đại học năm 2017"  href="/tin-tuyen-sinh/dh-tra-vinh-tuyen-sinh-5100-chi-tieu-bac-dai-hoc-nam-2017-20170222133952828.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dh-1487744536368.jpg" alt="ĐH Trà Vinh tuy&#234;̉n sinh 5.100 chỉ ti&#234;u b&#226;̣c đại học năm 2017" class="avatar"></a> <h3><a title="ĐH Trà Vinh tuy&#234;̉n sinh 5.100 chỉ ti&#234;u b&#226;̣c đại học năm 2017" href="/tin-tuyen-sinh/dh-tra-vinh-tuyen-sinh-5100-chi-tieu-bac-dai-hoc-nam-2017-20170222133952828.htm">ĐH Trà Vinh tuy&#234;̉n sinh 5.100 chỉ ti&#234;u b&#226;̣c đại học năm 2017</a></h3><p>(Dân trí) - Ngày 22/2, thông tin từ Ban tư vấn tuyển sinh của Trường Đại học Trà Vinh, năm 2017, trường tuyển sinh 37 ngành bậc đại học với 5.100 chỉ tiêu và 26 ngành bậc cao đẳng với 1.200 chỉ tiêu.</p></div><div class="item"><a title="Trường ĐH Y tế C&#244;ng cộng tuyển th&#234;m m&#227; ng&#224;nh v&#224; tổ hợp x&#233;t tuyển mới"  href="/giao-duc-khuyen-hoc/truong-dh-y-te-cong-cong-tuyen-them-ma-nganh-va-to-hop-xet-tuyen-moi-20170222092854421.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/tuyen-sinh-4-1487728483776.jpg" alt="Trường ĐH Y tế C&#244;ng cộng tuyển th&#234;m m&#227; ng&#224;nh v&#224; tổ hợp x&#233;t tuyển mới" class="avatar"></a> <h3><a title="Trường ĐH Y tế C&#244;ng cộng tuyển th&#234;m m&#227; ng&#224;nh v&#224; tổ hợp x&#233;t tuyển mới" href="/giao-duc-khuyen-hoc/truong-dh-y-te-cong-cong-tuyen-them-ma-nganh-va-to-hop-xet-tuyen-moi-20170222092854421.htm">Trường ĐH Y tế C&#244;ng cộng tuyển th&#234;m m&#227; ng&#224;nh v&#224; tổ hợp x&#233;t tuyển mới</a></h3><p>(Dân trí) - Phòng đào tạo trường ĐH Y tế Công cộng cho biết, năm 2017 nhà trường mở thêm hai mã ngành mới gồm Công tác xã hội và Dinh dưỡng học. Bên cạnh đó, nhà trường cũng mở thêm tổ hợp xét tuyển mới cho các ngành đào tạo.</p></div><div class="item"><a title="Th&#234;m nhiều phương thức, tổ hợp m&#244;n mới x&#233;t tuyển v&#224;o Đại học Huế 2017"  href="/giao-duc-khuyen-hoc/them-nhieu-phuong-thuc-to-hop-mon-moi-xet-tuyen-vao-dai-hoc-hue-2017-20170221132832596.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dai-hoc-hue-them-nhieu-phuong-thuc-to-hop-xet-tuyen-moi-tuyen-sinh-2017-2-1487655843189.jpg" alt="Th&#234;m nhiều phương thức, tổ hợp m&#244;n mới x&#233;t tuyển v&#224;o Đại học Huế 2017" class="avatar"></a> <h3><a title="Th&#234;m nhiều phương thức, tổ hợp m&#244;n mới x&#233;t tuyển v&#224;o Đại học Huế 2017" href="/giao-duc-khuyen-hoc/them-nhieu-phuong-thuc-to-hop-mon-moi-xet-tuyen-vao-dai-hoc-hue-2017-20170221132832596.htm">Th&#234;m nhiều phương thức, tổ hợp m&#244;n mới x&#233;t tuyển v&#224;o Đại học Huế 2017</a></h3><p>(Dân trí) - Ngày 21/2, TS. Nguyễn Công Hào, Trưởng Ban Khảo thí Đại học Huế cho biết trong kỳ xét tuyển sinh 2017 năm nay vào Đại học Huế sẽ có nhiều điểm mới, tăng cơ hội thêm cho thí sinh.</p></div><div class="item"><a title="ĐH Quảng Nam được đ&#224;o tạo 800 chỉ ti&#234;u trong ng&#226;n s&#225;ch"  href="/giao-duc-khuyen-hoc/dh-quang-nam-duoc-dao-tao-800-chi-tieu-trong-ngan-sach-20170217165217486.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dsc-0028-1487318837735.jpg" alt="ĐH Quảng Nam được đ&#224;o tạo 800 chỉ ti&#234;u trong ng&#226;n s&#225;ch" class="avatar"></a> <h3><a title="ĐH Quảng Nam được đ&#224;o tạo 800 chỉ ti&#234;u trong ng&#226;n s&#225;ch" href="/giao-duc-khuyen-hoc/dh-quang-nam-duoc-dao-tao-800-chi-tieu-trong-ngan-sach-20170217165217486.htm">ĐH Quảng Nam được đ&#224;o tạo 800 chỉ ti&#234;u trong ng&#226;n s&#225;ch</a></h3><p>(Dân trí) - UBND tỉnh Quảng Nam vừa phê duyệt chỉ tiêu tuyển sinh ĐH, CĐ thuộc diện trong ngân sách nhà nước năm 2017 của Trường ĐH Quảng Nam. Theo đó, 12 ngành đào tạo ĐH hệ chính quy tuyển 1.040 chỉ tiêu, trong đó có 700 chỉ tiêu trong ngân sách, 340 chỉ tiêu ngoài ngân sách.</p></div><div class="item"><a title="Đại học Đ&#224; Lạt dự kiến tuyển sinh 3.200 chỉ ti&#234;u năm 2017"  href="/giao-duc-khuyen-hoc/dai-hoc-da-lat-du-kien-tuyen-sinh-3200-chi-tieu-nam-2017-20170217164954718.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/img-5171-1487323219117.jpg" alt="Đại học Đ&#224; Lạt dự kiến tuyển sinh 3.200 chỉ ti&#234;u năm 2017" class="avatar"></a> <h3><a title="Đại học Đ&#224; Lạt dự kiến tuyển sinh 3.200 chỉ ti&#234;u năm 2017" href="/giao-duc-khuyen-hoc/dai-hoc-da-lat-du-kien-tuyen-sinh-3200-chi-tieu-nam-2017-20170217164954718.htm">Đại học Đ&#224; Lạt dự kiến tuyển sinh 3.200 chỉ ti&#234;u năm 2017</a></h3><p>(Dân trí) - Ngày 17/2, thông tin từ trường Đại học Đà Lạt cho biết, dự kiến năm 2017 trường tuyển sinh 3.200 chỉ tiêu cho 31 ngành học.</p></div><div class="item"><a title="Năm 2017 Đại học Y dược Cần Thơ tuyển sinh 1300 chỉ ti&#234;u"  href="/giao-duc-khuyen-hoc/nam-2017-dai-hoc-y-duoc-can-tho-tuyen-sinh-1300-chi-tieu-20170217080629001.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dhyd-1487293135187.png" alt="Năm 2017 Đại học Y dược Cần Thơ tuyển sinh 1300 chỉ ti&#234;u" class="avatar"></a> <h3><a title="Năm 2017 Đại học Y dược Cần Thơ tuyển sinh 1300 chỉ ti&#234;u" href="/giao-duc-khuyen-hoc/nam-2017-dai-hoc-y-duoc-can-tho-tuyen-sinh-1300-chi-tieu-20170217080629001.htm">Năm 2017 Đại học Y dược Cần Thơ tuyển sinh 1300 chỉ ti&#234;u</a></h3><p>(Dân trí) - Sáng 17/2, thông tin từ trường Đại học Y dược Cần Thơ cho biết, dự kiến năm 2017 trường tuyển 1.300 sinh viên cho 8 ngành học.</p></div><div class="item"><a title="ĐH Hồng Đức tuyển sinh gần 1.900 chỉ ti&#234;u"  href="/giao-duc-khuyen-hoc/dh-hong-duc-tuyen-sinh-gan-1900-chi-tieu-20170211211703122.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dai-hoc-hong-duc-1486816456656.jpg" alt="ĐH Hồng Đức tuyển sinh gần 1.900 chỉ ti&#234;u" class="avatar"></a> <h3><a title="ĐH Hồng Đức tuyển sinh gần 1.900 chỉ ti&#234;u" href="/giao-duc-khuyen-hoc/dh-hong-duc-tuyen-sinh-gan-1900-chi-tieu-20170211211703122.htm">ĐH Hồng Đức tuyển sinh gần 1.900 chỉ ti&#234;u</a></h3><p>(Dân trí) - Trường Đại học Hồng Đức (Thanh Hóa) vừa công bố đề án tuyển sinh Đại học (ĐH), Cao đẳng (CĐ) năm 2017. Theo đó, kỳ thi tuyển sinh năm nay, nhà trường tuyển 1.860 chỉ tiêu vào bậc ĐH và CĐ.</p></div>
+    </div>
+    
+    <div class="cat-trangsau">
+        &nbsp;[ <a href="/tuyen-sinh/chi-tieu/trang-2.htm">Trang sau</a> ]
+    </div>
+    <div id="ctl00_ContentPlaceHolder1_divBaiDaDang">
+        
+<div class="oldernew">       
+	<p>Các bài đã đăng</p>
+    <ul>
+       <li><i class="dotted sprite"></i><a title="Năm 2017 Đại học Cần Thơ dự kiến tuyển sinh 9.000 chỉ ti&#234;u" href="/giao-duc-khuyen-hoc/nam-2017-dai-hoc-can-tho-du-kien-tuyen-sinh-9000-chi-tieu-20170211082329113.htm">Năm 2017 Đại học Cần Thơ dự kiến tuyển sinh 9.000 chỉ ti&#234;u (11/02)</a></li><li><i class="dotted sprite"></i><a title="Năm 2017, trường ĐH Khoa học tự nhi&#234;n TPHCM dự kiến tuyển bổ sung tổ hợp mới" href="/giao-duc-khuyen-hoc/nam-2017-truong-dh-khoa-hoc-tu-nhien-tphcm-du-kien-tuyen-bo-sung-to-hop-moi-20170111113627066.htm">Năm 2017, trường ĐH Khoa học tự nhi&#234;n TPHCM dự kiến tuyển bổ sung tổ hợp mới (11/01)</a></li><li><i class="dotted sprite"></i><a title="Trường ĐH đầu ti&#234;n c&#244;ng bố chỉ ti&#234;u tuyển sinh dự kiến năm 2017" href="/giao-duc-khuyen-hoc/truong-dh-dau-tien-cong-bo-chi-tieu-tuyen-sinh-du-kien-nam-2017-20161229164918415.htm">Trường ĐH đầu ti&#234;n c&#244;ng bố chỉ ti&#234;u tuyển sinh dự kiến năm 2017 (29/12)</a></li><li><i class="dotted sprite"></i><a title="Tuyển sinh ĐH 2017: Vẫn d&#224;nh chỉ ti&#234;u x&#233;t tuyển theo khối thi A, B, C, D, A1" href="/giao-duc-khuyen-hoc/tuyen-sinh-dh-2017-van-danh-chi-tieu-xet-tuyen-theo-khoi-thi-a-b-c-d-a1-20160912144033052.htm">Tuyển sinh ĐH 2017: Vẫn d&#224;nh chỉ ti&#234;u x&#233;t tuyển theo khối thi A, B, C, D, A1 (12/09)</a></li><li><i class="dotted sprite"></i><a title="Danh s&#225;ch c&#225;c trường đại học c&#244;ng bố điểm chuẩn năm 2016" href="/giao-duc-khuyen-hoc/danh-sach-cac-truong-dai-hoc-cong-bo-diem-chuan-nam-2016-20160813153414479.htm">Danh s&#225;ch c&#225;c trường đại học c&#244;ng bố điểm chuẩn năm 2016 (17/08)</a></li><li><i class="dotted sprite"></i><a title="Điểm chuẩn v&#224;o trường ĐH khối c&#244;ng an ng&#224;nh cao nhất l&#224; 29,75" href="/giao-duc-khuyen-hoc/diem-chuan-vao-truong-dh-khoi-cong-an-nganh-cao-nhat-la-2975-20160815134054609.htm">Điểm chuẩn v&#224;o trường ĐH khối c&#244;ng an ng&#224;nh cao nhất l&#224; 29,75 (15/08)</a></li><li><i class="dotted sprite"></i><a title="Trường Đại học Nội vụ H&#224; Nội tuyển sinh hệ ch&#237;nh quy năm 2016" href="/tuyen-sinh/truong-dai-hoc-noi-vu-ha-noi-tuyen-sinh-he-chinh-quy-nam-2016-20160715100239878.htm">Trường Đại học Nội vụ H&#224; Nội tuyển sinh hệ ch&#237;nh quy năm 2016 (15/07)</a></li><li><i class="dotted sprite"></i><a title="Trường ĐH Quảng Nam được giao tuyển sinh 3.100 chỉ ti&#234;u" href="/tuyen-sinh/truong-dh-quang-nam-duoc-giao-tuyen-sinh-3100-chi-tieu-20160624173617621.htm">Trường ĐH Quảng Nam được giao tuyển sinh 3.100 chỉ ti&#234;u (24/06)</a></li><li><i class="dotted sprite"></i><a title="Th&#244;ng tin x&#233;t tuyển của 440 trường ĐH,CĐ trong cả nước năm 2016" href="/giao-duc-khuyen-hoc/thong-tin-xet-tuyen-cua-440-truong-dhcd-trong-ca-nuoc-nam-2016-20160328190432909.htm">Th&#244;ng tin x&#233;t tuyển của 440 trường ĐH,CĐ trong cả nước năm 2016 (29/03)</a></li><li><i class="dotted sprite"></i><a title="Trường ĐH T&#226;y Đ&#244; x&#233;t tuyển theo 2 h&#236;nh thức" href="/giao-duc-khuyen-hoc/truong-dh-tay-do-xet-tuyen-theo-2-hinh-thuc-20160315205717318.htm">Trường ĐH T&#226;y Đ&#244; x&#233;t tuyển theo 2 h&#236;nh thức (15/03)</a></li>	
+    </ul>
+    <input type="button" onclick="displayCalendar(this,'dd-mm-yyyy',this);" value="" class="sprite xembaitheongaythang" id="viewbdate" />
+</div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            FixList();
+        });
+    </script>
+
+            </div>
+            <div id="column-right">
+                
+<div class="block" style="padding:0 5px">
+    
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+</div>
+                
+                
+<div class="tuvantoancanh block">
+    <div class="tvtc-container">
+       <a class="sprite header" href="/tuyen-sinh/tu-van-toan-canh/trang-1.htm"><img src="https://dantri3.vcmedia.vn/Images/tuyensinh/blank.gif" alt="tuvantoancanh" /></a>
+	    <ul>
+		    <li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/cong-bo-diem-thi-thptqg-2016-toan-bo-120-cum-thi-da-co-diem-2016071816583279.htm">Công bố điểm thi THPTQG 2016: Toàn bộ 120 cụm thi đã có điểm</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/bi-quyet-on-luyen-mon-ngu-van-chi-tiet-cach-lam-bai-nghi-luan-van-hoc-phan-2-20160420094714672.htm">Bí quyết ôn luyện môn Ngữ văn: Chi tiết cách làm bài Nghị luận văn học (phần 2)</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/o-truong-sa-su-dung-loai-song-nao-de-xem-truyen-hinh-2016032813455991.htm">Ở Trường Sa sử dụng loại sóng nào để xem truyền hình?</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/cach-ghi-19-muc-trong-phieu-dang-ky-du-thi-thpt-quoc-gia-2016-20160324224005302.htm">Cách ghi 19 mục trong Phiếu đăng ký dự thi THPT quốc gia 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/2-truong-hop-duoc-mien-thi-mon-ngoai-ngu-thpt-quoc-gia-2016-20160324211938503.htm">2 trường hợp được miễn thi môn ngoại ngữ THPT quốc gia 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/ca-nuoc-co-70-cum-thi-thpt-quoc-gia-do-truong-dai-hoc-chu-tri-20160316160253795.htm">Cả nước có 70 cụm thi THPT quốc gia do trường đại học chủ trì</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/video-bai-giang-phuong-phap-su-dung-may-tinh-bo-tui-trong-giai-toan-trac-nghiem-20160309110201025.htm">Video bài giảng: Phương pháp sử dụng máy tính bỏ túi trong giải toán trắc nghiệm</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/moi-thu-suc-voi-15-cau-hoi-sinh-hoc-thi-thpt-quoc-gia-20160308152024754.htm">Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/du-kien-bo-quy-dinh-thi-sinh-nop-phieu-dkxt-tai-truong-khong-can-thiet-phai-bo-20160306094304476.htm">Dự kiến bỏ quy định thí sinh nộp phiếu ĐKXT tại trường: Không cần thiết phải bỏ!</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/toan-canh-chi-tieu-khoi-truong-cong-an-nhan-dan-nam-2016-20160223145712607.htm">Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/4-quyet-dinh-quan-trong-doi-voi-giao-vien-hs-sv-co-hieu-luc-tu-1-1-2016-20160101082532836.htm">4 quyết định quan trọng đối với giáo viên, HS,SV có hiệu lực từ 1/1/2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/hoc-vien-chinh-sach-va-phat-trien-tuyen-sinh-dh-he-chinh-quy-2015-20150818105528141.htm">Học viện Chính sách và Phát triển tuyển sinh ĐH hệ chính quy 2015</a></h4></li>
+	    </ul>
+	</div>
+    <div class="sprite tvtc-footer"></div>
+</div>
+                
+<div class="tiemdiem block">
+    <p class="sprite header">
+        <img src="https://dantri3.vcmedia.vn/Images/tuyensinh/blank.gif" class="tieudiemhome" />
+    </p>
+    <div class="container">
+         <div class="item"><a title="Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016" href="/giao-duc-khuyen-hoc/toan-canh-chi-tieu-khoi-truong-cong-an-nhan-dan-nam-2016-20160223145712607.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/2016/img20160223145352401.jpg" alt="Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016" title="Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016"></a><h4><a href="/giao-duc-khuyen-hoc/toan-canh-chi-tieu-khoi-truong-cong-an-nhan-dan-nam-2016-20160223145712607.htm" title="Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016"> Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016</a></h4></div> <div class="item"><a title="Cách tra cứu điểm thi THPT khi website của Bộ bị “treo”" href="/giao-duc-khuyen-hoc/cach-tra-cuu-diem-thi-thpt-khi-website-cua-bo-bi-treo-1438255281.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/twK7MXE15GxgTREVOccccccccccccz/Image/2015/07/tra-cuu-13ca8.jpg" alt="Cách tra cứu điểm thi THPT khi website của Bộ bị “treo”" title="Cách tra cứu điểm thi THPT khi website của Bộ bị “treo”"></a><h4><a href="/giao-duc-khuyen-hoc/cach-tra-cuu-diem-thi-thpt-khi-website-cua-bo-bi-treo-1438255281.htm" title="Cách tra cứu điểm thi THPT khi website của Bộ bị “treo”"> Cách tra cứu điểm thi THPT khi website của Bộ bị “treo”</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Cụm thi Đồng Tháp, An Giang có 12 thí sinh đạt điểm 10" href="/chi-tieu/cum-thi-dong-thap-an-giang-co-12-thi-sinh-dat-diem-10-1438238488.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/4TpreXMbYY39rHwamNOW7SZqpdB8w/Image/2015/07/mon-dia-0d251.jpg" alt="Cụm thi Đồng Tháp, An Giang có 12 thí sinh đạt điểm 10" title="Cụm thi Đồng Tháp, An Giang có 12 thí sinh đạt điểm 10"></a><h4><a href="/chi-tieu/cum-thi-dong-thap-an-giang-co-12-thi-sinh-dat-diem-10-1438238488.htm" title="Cụm thi Đồng Tháp, An Giang có 12 thí sinh đạt điểm 10"> Cụm thi Đồng Tháp, An Giang có 12 thí sinh đạt điểm 10</a></h4></div> <div class="item"><a title="Đại học Đà Nẵng có 200 chỉ tiêu tuyển thẳng" href="/tuyen-sinh/dai-hoc-da-nang-co-200-chi-tieu-tuyen-thang-1432464899.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/OEta0cHAGq5RTLIi8TMnpXR3iBhVz8/Image/2015/05/16-5-tinGD-5cfb3.JPG" alt="Đại học Đà Nẵng có 200 chỉ tiêu tuyển thẳng" title="Đại học Đà Nẵng có 200 chỉ tiêu tuyển thẳng"></a><h4><a href="/tuyen-sinh/dai-hoc-da-nang-co-200-chi-tieu-tuyen-thang-1432464899.htm" title="Đại học Đà Nẵng có 200 chỉ tiêu tuyển thẳng"> Đại học Đà Nẵng có 200 chỉ tiêu tuyển thẳng</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="81 chỉ tiêu tuyển thẳng, ưu tiên xét tuyển vào khối trường Quân đội" href="/tuyen-sinh/81-chi-tieu-tuyen-thang-uu-tien-xet-tuyen-vao-khoi-truong-quan-doi-1432423400.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/nj9OL2eSyMbdHjm4iXjZvsbuNZjof/Image/2015/05/hv_16052015-ab1f9.jpg" alt="81 chỉ tiêu tuyển thẳng, ưu tiên xét tuyển vào khối trường Quân đội" title="81 chỉ tiêu tuyển thẳng, ưu tiên xét tuyển vào khối trường Quân đội"></a><h4><a href="/tuyen-sinh/81-chi-tieu-tuyen-thang-uu-tien-xet-tuyen-vao-khoi-truong-quan-doi-1432423400.htm" title="81 chỉ tiêu tuyển thẳng, ưu tiên xét tuyển vào khối trường Quân đội"> 81 chỉ tiêu tuyển thẳng, ưu tiên xét tuyển vào khối trường Quân đội</a></h4></div> <div class="item"><a title="ĐH Luật Hà Nội: Ưu tiên xét tuyển không quá 1% tổng chỉ tiêu" href="/chi-tieu/dh-luat-ha-noi-uu-tien-xet-tuyen-khong-qua-1-tong-chi-tieu-1431986016.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/nj9OL2eSyMbdHjm4iXjZvsbuNZjof/Image/2015/05/anh_10052015-a41a6.JPG" alt="ĐH Luật Hà Nội: Ưu tiên xét tuyển không quá 1% tổng chỉ tiêu" title="ĐH Luật Hà Nội: Ưu tiên xét tuyển không quá 1% tổng chỉ tiêu"></a><h4><a href="/chi-tieu/dh-luat-ha-noi-uu-tien-xet-tuyen-khong-qua-1-tong-chi-tieu-1431986016.htm" title="ĐH Luật Hà Nội: Ưu tiên xét tuyển không quá 1% tổng chỉ tiêu"> ĐH Luật Hà Nội: Ưu tiên xét tuyển không quá 1% tổng chỉ tiêu</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="ĐH Cần Thơ tuyển sinh 8.600 chỉ tiêu cho 70 ngành học" href="/tuyen-sinh/dh-can-tho-tuyen-sinh-8600-chi-tieu-cho-70-nganh-hoc-1428832692.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/iHtWeW371oRjSB0Cjvok8L40o4DMs2/Image/2015/04/dh-ct-d4b1c.jpg" alt="ĐH Cần Thơ tuyển sinh 8.600 chỉ tiêu cho 70 ngành học" title="ĐH Cần Thơ tuyển sinh 8.600 chỉ tiêu cho 70 ngành học"></a><h4><a href="/tuyen-sinh/dh-can-tho-tuyen-sinh-8600-chi-tieu-cho-70-nganh-hoc-1428832692.htm" title="ĐH Cần Thơ tuyển sinh 8.600 chỉ tiêu cho 70 ngành học"> ĐH Cần Thơ tuyển sinh 8.600 chỉ tiêu cho 70 ngành học</a></h4></div> <div class="item"><a title="Trường ĐH Xây dựng miền Trung tổ chức xét tuyển, thi tuyển và xét học bạ" href="/tuyen-sinh/truong-dh-xay-dung-mien-trung-to-chuc-xet-tuyen-thi-tuyen-va-xet-hoc-ba-1427235708.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/twK7MXE15GxgTREVOccccccccccccz/Image/2015/02/xay-dung-1-e68a7.jpg" alt="Trường ĐH Xây dựng miền Trung tổ chức xét tuyển, thi tuyển và xét học bạ" title="Trường ĐH Xây dựng miền Trung tổ chức xét tuyển, thi tuyển và xét học bạ"></a><h4><a href="/tuyen-sinh/truong-dh-xay-dung-mien-trung-to-chuc-xet-tuyen-thi-tuyen-va-xet-hoc-ba-1427235708.htm" title="Trường ĐH Xây dựng miền Trung tổ chức xét tuyển, thi tuyển và xét học bạ"> Trường ĐH Xây dựng miền Trung tổ chức xét tuyển, thi tuyển và xét học bạ</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="ĐH Y dược Cần Thơ tuyển 1.300 chỉ tiêu năm 2015" href="/tuyen-sinh/dh-y-duoc-can-tho-tuyen-1300-chi-tieu-nam-2015-1426726526.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/0cccccccccccccp9naPwZGJZhKf7vl/Image/2015/03/ydct-2e326.jpg" alt="ĐH Y dược Cần Thơ tuyển 1.300 chỉ tiêu năm 2015" title="ĐH Y dược Cần Thơ tuyển 1.300 chỉ tiêu năm 2015"></a><h4><a href="/tuyen-sinh/dh-y-duoc-can-tho-tuyen-1300-chi-tieu-nam-2015-1426726526.htm" title="ĐH Y dược Cần Thơ tuyển 1.300 chỉ tiêu năm 2015"> ĐH Y dược Cần Thơ tuyển 1.300 chỉ tiêu năm 2015</a></h4></div> <div class="item"><a title="Toàn cảnh chỉ tiêu và tổ hợp xét tuyển khối các trường Quân đội " href="/tuyen-sinh/toan-canh-chi-tieu-va-to-hop-xet-tuyen-khoi-cac-truong-quan-doi-1426130112.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/nj9OL2eSyMbdHjm4iXjZvsbuNZjof/Image/2015/03/quandoi_04032015-c76fb.jpg" alt="Toàn cảnh chỉ tiêu và tổ hợp xét tuyển khối các trường Quân đội " title="Toàn cảnh chỉ tiêu và tổ hợp xét tuyển khối các trường Quân đội "></a><h4><a href="/tuyen-sinh/toan-canh-chi-tieu-va-to-hop-xet-tuyen-khoi-cac-truong-quan-doi-1426130112.htm" title="Toàn cảnh chỉ tiêu và tổ hợp xét tuyển khối các trường Quân đội "> Toàn cảnh chỉ tiêu và tổ hợp xét tuyển khối các trường Quân đội </a></h4></div><div class="td-saparator"></div>
+ 
+  
+ </div>
+</div>
+
+                
+                
+<div class="block" style="padding:0 5px">
+    
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+                
+
+<div class="block" style="padding:0 5px">
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_486.ads"></script>
+</div>
+            </div>
+        </div>
+        
+<div id="footer">
+    <div class="footer-logo"><a rel="nofollow" class="sprite" href="/" title="Tuyển sinh Dân trí"></a></div>
+    <div class="footer-menu">
+        <ul>
+            <li><a rel="nofollow" href="http://dantri.com.vn" title="Dân trí">Trang chủ</a></li>
+            <li><a rel="nofollow" href="/" title="Tuyển sinh 2015">Tuyển sinh 2015</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/gap-go-cac-truong.htm" title="Gặp gỡ các trường">Gặp gỡ các trường</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/bi-quyet-hoc-va-thi.htm" title="Bí quyết học và thi">Bí quyết học và thi</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu - Điểm thi">Chỉ tiêu - Điểm thi</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án">Đề thi - Đáp án</a></li>
+            <li class="last"><a rel="nofollow" href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi">Khoảnh khắc mùa thi</a></li>
+        </ul>
+        <p>Chuyên mục của báo Điện tử Dân trí</p>
+    </div>
+</div>
+    </div>
+    </form>
+</body>
+</html>
+

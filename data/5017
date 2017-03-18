@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Các loại rau quả, trái cây mọc tự nhiên như thế nào? (3) - iOne
+</title><meta name="keywords" /><meta name="description" content="Hạt dẻ, hạt dẻ cười là món ăn khoái khẩu của nhiều người nhưng bạn có tò mò muốn biết cây nó như thế nào không? Hãy xem nhé!" />
+<link rel="canonical" href="http://www.baomoi.com/cac-loai-rau-qua-trai-cay-moc-tu-nhien-nhu-the-nao-3/c/21792223.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792223" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792223" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://ione.vnexpress.net/tin-tuc/vui-doc/cac-loai-rau-qua-trai-cay-moc-tu-nhien-nhu-the-nao-3-3556899.html");
+else
+window.location.replace("http://www.baomoi.com/cac-loai-rau-qua-trai-cay-moc-tu-nhien-nhu-the-nao-3/c/21792223.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

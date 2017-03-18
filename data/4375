@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bão tuyết tấn công bờ đông Mỹ - Hà Tĩnh
+</title><meta name="keywords" content="New Jersey,Thành phố New York,chicago,pennsylvania,đóng cửa,afp,reuters,thời tiết,Mỹ,ban bố,philadelphia,Maine,virginia,New England,bắc mỹ,Đồi Capitol,Broadway" /><meta name="description" content="Cơn bão mùa đông Stella hoành hành tại đông bắc Mỹ ngày 14-3 mang theo mưa đá và tuyết rơi dày khiến hàng ngàn chuyến bay bị hủy, trường học và cửa hàng bị ..." />
+<link rel="canonical" href="http://www.baomoi.com/bao-tuyet-tan-cong-bo-dong-my/c/21767709.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21767709" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21767709" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baohatinh.vn/quoc-te/chum-anh-bao-tuyet-tan-cong-bo-dong-my/130446.htm");
+else
+window.location.replace("http://www.baomoi.com/bao-tuyet-tan-cong-bo-dong-my/c/21767709.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

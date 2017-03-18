@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hải Phòng: Kênh Cửa Hàng biến thành... bãi rác - GĐ&XH
+</title><meta name="keywords" content="Bắc Hưng,Nam Hưng,chợ Xuân,Phạm Thị Bích Ngọc,Phạm Văn Tuyên,Tiên Lãng,Đông Hưng,ô nhiễm,cung ứng,nắng nóng,Hải Phòng,xử phạt,chỉ đạo,sản xuất,bảo vệ" /><meta name="description" content="Với chiều dài 3,3 km, trước đây kênh Cửa Hàng có nhiệm vụ cung ứng nguồn nước sinh hoạt, sản xuất cho nhân dân 4 xã: Nam Hưng, Bắc Hưng, Đông Hưng, Tây Hưng..." />
+<link rel="canonical" href="http://www.baomoi.com/hai-phong-kenh-cua-hang-bien-thanh-bai-rac/c/21793185.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793185" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793185" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://giadinh.net.vn/xa-hoi/hai-phong-kenh-cua-hang-bien-thanh-bai-rac-2017031721471875.htm");
+else
+window.location.replace("http://www.baomoi.com/hai-phong-kenh-cua-hang-bien-thanh-bai-rac/c/21793185.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

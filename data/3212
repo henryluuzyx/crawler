@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hai bảo mẫu ở Gò Vấp thừa nhận hành vi bạo hành trẻ - TT&VH
+</title><meta name="keywords" content="Gò Vấp,đình chỉ,thành phố hồ chí minh,sai phạm,thông tấn xã việt nam,tiến hành điều tra" /><meta name="description" content="Liên quan đến vụ việc hai bảo mẫu tại một cơ sở trông trẻ tự phát ở quận Gò Vấp, TP Hồ Chí Minh có hành vi bạo hành nhiều trẻ nhỏ , ngày 16/3, cơ quan chức ..." />
+<link rel="canonical" href="http://www.baomoi.com/hai-bao-mau-o-go-vap-thua-nhan-hanh-vi-bao-hanh-tre/c/21787579.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21787579" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21787579" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thethaovanhoa.vn/video/xa-hoi/hai-bao-mau-o-go-vap-thua-nhan-hanh-vi-bao-hanh-tre-n20170317114926474.htm");
+else
+window.location.replace("http://www.baomoi.com/hai-bao-mau-o-go-vap-thua-nhan-hanh-vi-bao-hanh-tre/c/21787579.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

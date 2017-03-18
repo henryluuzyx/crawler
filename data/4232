@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=100" />
+        <link type="image/x-icon" href="http://st.f1.thethao.vnecdn.net/i/v2/favicon.ico" rel="shortcut icon" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+        <link rel="dns-prefetch" href="http://st.f2.thethao.vnecdn.net"/>
+        <link rel="dns-prefetch" href="http://st.f3.thethao.vnecdn.net"/>
+        <link rel="dns-prefetch" href="http://la.eclick.vn"/>
+        <link rel="dns-prefetch" href="http://usi.saas.vnexpress.net"/>
+        <link rel="dns-prefetch" href="//s.eclick.vn"/>
+        <link rel="dns-prefetch" href="//st.core.polyad.net"/>
+        <link rel="dns-prefetch" href="//www.google-analytics.com"/>
+        <link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+        <link rel="dns-prefetch" href="http://b.scorecardresearch.com"/>
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-title" content="VnExpress.net" />
+        <meta name="dc.description" content="Tin nhanh video clip hình ảnh các môn thể thao: bóng đá quyền anh đua xe bóng chuyền cầu lông… đang diễn ra ở VN & thế giới.." />
+        <meta name="dc.subject" content="Thể Thao - VnExpress" />
+        <meta name="dc.created" content="2001-02-26" />
+        <meta name="dc.publisher" content="VnExpress" />
+        <meta name="dc.rights.copyright" content="VnExpress" />
+        <meta name="dc.creator.name" content="VnExpress" />
+        <meta name="dc.creator.email" content="webmaster@vnexpress.net" />
+        <meta name="dc.identifier" content="http://vnexpress.net" />
+        <meta name="copyright" content="VnExpress" />
+        <meta name="author" content="VnExpress" />
+        <meta name="dc.language" content="vi-VN" />
+        <meta name="robots" content="index,follow" />
+        <meta http-equiv="content-language" content="vi"/>
+        <meta name="geo.placename" content="Ha Noi, Viet Nam" />
+        <meta name="geo.region" content="VN-HN" />
+        <meta name="geo.position" content="21.030624;105.782431" />
+        <meta name="ICBM" content="21.030624, 105.782431" />
+        <meta name="revisit-after" content="days">
+        <meta property="fb:app_id" content="1547540628876392" />
+        <link rel="alternate" href="http://thethao.vnexpress.net" hreflang="vi-vn" />
+        <link rel="canonical" href="http://thethao.vnexpress.net/tin-tuc/tennis" />
+                <!-- Twitter Card -->
+        <meta name="twitter:card" value="summary">
+        <meta name="twitter:url" content="http://thethao.vnexpress.net/tin-tuc/tennis">
+        <meta name="twitter:title" content="Tin tức quần vợt, tennis, lịch thi đấu, video trực tuyến - Tennis">
+        <meta name="twitter:description" content="Cập nhật nhanh tin tức Quần vợt mới nhất hôm nay. Xem kết quả, lịch thi đấu, video clip thể thao Tennis trực tuyến Online tại Việt Nam &amp; Thế giới.">
+        <meta name="twitter:image" content="http://st.f1.vnecdn.net/responsive/i/v28/logo_default.jpg"/>
+        <meta name="twitter:site" content="@VnEnews">
+        <meta name="twitter:creator" content="@VnEnews">
+        <!-- End Twitter Card -->
+        <!-- iPad icons -->
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/72x72.png" sizes="72x72">
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="144x144">
+        <!-- iPhone and iPod touch icons -->
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png" sizes="57x57">
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="114x114">
+        <!-- Nokia Symbian -->
+        <link rel="nokia-touch-icon" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png">
+        <!-- Android icon precomposed so it takes precedence -->
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="1x1">
+                    <meta http-equiv="REFRESH" content="1800" />
+                    <meta content="VnExpress" property="og:site_name" />
+        <meta content="website" property="og:type" />
+        <meta content="Tin tức quần vợt, tennis, lịch thi đấu, video trực tuyến - Tennis" itemprop="headline" property="og:title" />
+        <meta content="http://thethao.vnexpress.net/tin-tuc/tennis" itemprop="url" property="og:url" />
+        <meta content="http://st.f1.vnecdn.net/responsive/i/v28/logo_default.jpg" itemprop="thumbnailUrl" property="og:image" />
+        <meta content="Cập nhật nhanh tin tức Quần vợt mới nhất hôm nay. Xem kết quả, lịch thi đấu, video clip thể thao Tennis trực tuyến Online tại Việt Nam &amp; Thế giới." itemprop="description" property="og:description" />
+        <!--Meta Tag-->
+        <meta name="description" content="Cập nhật nhanh tin tức Quần vợt mới nhất hôm nay. Xem kết quả, lịch thi đấu, video clip thể thao Tennis trực tuyến Online tại Việt Nam &amp; Thế giới." >
+<meta name="keywords" content="tennis 24h, quan vot, tennis truc tuyen , tennis online, tin tuc tennis, lich thi dau tennis" >        <meta name="tt_site_id" content="1002565" />
+        <meta name="tt_category_id" content="1002619" />
+        <meta name="tt_article_id" content="1002619" />
+        <meta name="tt_page_type" content="folder" />
+        <!--Title-->
+        <title>Tin tức quần vợt, tennis, lịch thi đấu, video trực tuyến - Tennis</title>        
+                        <script type="text/javascript">
+                            (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+                            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                            })(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
+                            ga("create", "UA-249346-37", "auto", {"name": "t0"});
+                            ga("t0.send", "pageview");
+                            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+                            new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+                            "//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,"script","dataLayer","GTM-N3FNJF");
+                            var _siteId = "11";
+                            (function() {
+                                var a = document.createElement("script");
+                                a.type = "text/javascript";
+                                a.async = !0;
+                                a.src = "http://st.l.a.eclick.vn/ea.js";
+                                var b = document.getElementsByTagName("script")[0];
+                                b.parentNode.insertBefore(a, b)
+                            })();
+                            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+                            new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+                            "//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,"script","dataLayer","GTM-5PD4X6");
+                            var _comscore = _comscore || [];
+                            _comscore.push({ c1: "2", c2: "19747654" });
+                            (function() {
+                                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                                el.parentNode.insertBefore(s, el);
+                            })();
+                            (function() {
+                                var csid = "F09828";
+                                var bpid = "fpt_vn";
+                                var e = document.createElement("script");
+                                var s = document.getElementsByTagName("script")[0];
+                                e.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid;
+                                e.async = true;
+                                s.parentNode.insertBefore(e, s);
+                            })();
+                        </script>
+                        <noscript>
+                            <img src="http://b.scorecardresearch.com/p?c1=2&c2=19747654&cv=2.0&cj=1" />
+                            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+                            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PD4X6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+                        </noscript>
+                                <!-- JS -->
+        <script type="text/javascript">
+            var SITE_ID     = 1002565,
+                img_url     = 'http://st.f1.thethao.vnecdn.net/i/v2',
+                css_url     = 'http://st.f2.thethao.vnecdn.net/c/v2',
+                base_url    = 'http://thethao.vnexpress.net',
+                device_env  = 4,
+                article_id  = 0,
+                vne_url     = 'http://vnexpress.net',
+                application_env = 'production',
+                interactions_url = 'http://usi.saas.vnexpress.net',
+                predict_with_captcha = 0;
+                        document.domain = 'vnexpress.net';
+        </script>
+        <!-- CSS -->
+        <link rel="stylesheet" href="http://st.f3.vnecdn.net/responsive/c/v23/general_v2_min.css" media="all" />
+        <link rel="stylesheet" href="http://st.f2.thethao.vnecdn.net/c/v2/thethao.css" media="all" />
+                <script src="http://st.f2.vnecdn.net/responsive/libs/jquery-1.7.1.min.js"></script>
+        <script src="http://st.f2.vnecdn.net/responsive/j/v16/interactions/parser_v3.js"></script>
+        <script src="http://st.f2.vnecdn.net/responsive/j/v16/utils/utils.js"></script>
+                    <script src="http://st.core.polyad.net/TheThaoShowAds.js"></script>
+            </head>
+    <body>
+        <div id="myvne_taskbar"></div>
+        <div class="block_more_info" id="box_col_left">
+            <div class="box_width_common">
+                <div class="btn_control_col_left"><i class="ic ic-menu"></i></div>
+                <div class="block_scoll_menu">
+                    <div class="block_search">
+                        <form action="http://timkiem.vnexpress.net/thethao" method="get" id="search">
+                            <input type="text" name="q" value="Tìm kiếm" maxlength="80" class="input_search" onblur="if(this.value=='') this.value=this.defaultValue" onfocus="if(this.value==this.defaultValue) this.value=''"/>
+                            <button type="submit" class="icon_menu_phone btn_search" value=""><i class="ic ic-search"></i></button>
+                        </form>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="block_swich_en_mobile">
+                        Phiên bản: <a href="http://e.vnexpress.net" title="VnExpress International – Vietnam and ASEAN news" target="_blank">VnExpress International – Vietnam and ASEAN news</a>
+                    </div>
+                    <ul class="list_item_panel">
+                        <li><a href="http://vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Trang chủ');" title="Trang chủ" class="bg_666"><i class="ic ic-m-home"></i>Trang chủ</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/thoi-su" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thời sự');" title="Thời sự"><i class="ic ic-m-news"></i>Thời sự</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/goc-nhin" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Góc nhìn');"><i class="ic ic-m-opinion"></i>Góc nhìn</a></
+                        <li><a href="http://vnexpress.net/tin-tuc/the-gioi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thế giới');" title="Thế giới"><i class="ic ic-m-world"></i>Thế giới</a></li>
+						<li><a style="background: #e2e2e2 url(http://st.f1.vnecdn.net/responsive/i/v33/graphics/kimjongnam_menu.jpg) no-repeat right 0; background-size: contain; text-indent: -9000px;" data-transition="flip" href="http://vnexpress.net/anh-trai-cua-kim-jong-un-chet-o-malaysia/topic-21717.html">Vụ án anh trai của Kim Jong-un</a></li>
+                        <li><a href="http://kinhdoanh.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Kinh doanh');" title="Kinh doanh"><i class="ic ic-m-business"></i>Kinh doanh</a></li>
+                        <li><a href="http://giaitri.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giải trí');" title="Giải trí"><i class="ic ic-m-entertainment"></i>Giải trí</a></li>
+                        <li class="active"><a href="/" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thể thao');" title="Thể thao"><i class="ic ic-m-sport"></i>Thể thao</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/phap-luat" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Pháp luật');" title="Pháp luật"><i class="ic ic-m-law"></i>Pháp luật</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/giao-duc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giáo dục');" title="Giáo dục"><i class="ic ic-m-education"></i>Giáo dục</a></li>
+                        <li><a href="http://suckhoe.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Sức khỏe');" title="Sức khỏe"><i class="ic ic-m-health"></i>Sức khỏe</a></li>
+                        <li><a href="http://giadinh.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Đời sống');" title="Gia đình"><i class="ic ic-m-family"></i>Gia đình</a></li>
+                        <li><a href="http://dulich.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Du lịch');" title="Du lịch"><i class="ic ic-m-travel"></i>Du lịch</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/khoa-hoc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Khoa học');" title="Khoa học"><i class="ic ic-m-science"></i>Khoa học</a></li>
+                        <li><a href="http://sohoa.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Số hóa');" title="Số hóa"><i class="ic ic-m-technology"></i>Số hóa</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/oto-xe-may" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Xe');" title="Xe"><i class="ic ic-m-car"></i>Xe</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cong-dong" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cộng đồng');" title="Cộng đồng"><i class="ic ic-m-social"></i>Cộng đồng</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/tam-su" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Tâm sự');" title="Tâm sự"><i class="ic ic-m-talk"></i>Tâm sự</a></li>
+                        <li><a href="http://video.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Video');" title="Video"><i class="ic ic-m-video"></i>Video</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/anh" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Ảnh');"><i class="ic ic-m-photo"></i>Ảnh</a></li>
+                        <li><a href="http://vnexpress.net/infographics" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Infographics');"><i class="ic ic-m-infographic"></i>Infographics</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cuoi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cười');" title="Cười"><i class="ic ic-m-fun"></i>Cười</a></li>
+                        <li><a href="http://raovat.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Rao vặt');" title="Rao vặt"><i class="ic ic-m-ecom"></i>Rao vặt</a></li>
+                        <li><a class="bg_e8e8" href="http://vnexpress.net/24h-qua" onclick="ga('t0.send', 'event', 'Menu', 'Click', '24h qua');" title="24h qua"><i class="ic ic-m-24h"></i>24h qua</a></li>
+                        <li><a href="http://vnexpress.net/lien-he-toa-soan/?p=thethao" class="bg_e8e8"><i class="ic ic-m-contact"></i>Liên hệ Toà soạn</a></li>
+                        <li class="end"><a href="http://vnexpress.net/contact.htm" class="bg_e8e8"><i class="ic ic-m-mail"></i>Thông tin Toà soạn</a></li>
+                    </ul>
+                    <div class="coppy_right_left width_common">
+                        <div class="txt_coppy_right">
+                            <p>&copy; Copyright 1997 - VnExpress.net, All rights reserved.</p>
+                            <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+                        </div>
+                        <div class="txt_lienhe"> Hotline:<br>
+                            <a href="tel:012388801238">0123.888.0123 (Hà Nội)</a><br />
+                            <a href="tel:01292333555">0129.233.3555 (TP HCM) </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+        <div id="page">
+            <div id="header_web" class="width_common">
+                <div id="header_main">
+                    <div class="header_logo width_common">
+                        <a href="http://vnexpress.net" title="vnexpress logo"><img src="http://st.f1.vnecdn.net/responsive/i/v41/graphics/img_logo_vne_web.gif" alt="vnexpress logo"  class="left logo_web"/></a>
+                            <div class="banner_728x90 right">
+        <script type="text/javascript">try {Poly_Top();}catch(ex){};</script>    </div>
+                    </div>
+                    <ul id="menu_web" class="width_common">
+                        <li><a href="http://vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Trang chủ');" title="Trang chủ"><i class="ic ic-m-home"></i></a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/thoi-su" class="mnu_thoisu" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thời sự');" title="Thời sự">Thời sự</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/the-gioi" class="mnu_thegioi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thế giới');" title="Thế giới">Thế giới</a></li>
+                        <li><a href="http://kinhdoanh.vnexpress.net" class="mnu_kinhdoanh" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Kinh doanh');" title="Kinh doanh">Kinh doanh</a></li>
+                        <li><a href="http://giaitri.vnexpress.net" class="mnu_giaitri" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giải trí');" title="Giải trí">Giải trí</a></li>
+                        <li class="active"><a href="/" class="mnu_thethao" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thể thao');" title="Thể thao">Thể thao</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/phap-luat" class="mnu_phapluat" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Pháp luật');" title="Pháp luật">Pháp luật</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/giao-duc" class="mnu_giaoduc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giáo dục');" title="Giáo dục">Giáo dục</a></li>
+                        <li><a href="http://suckhoe.vnexpress.net" class="mnu_suckhoe" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Sức khỏe');" title="Sức khỏe">Sức khỏe</a></li>
+                        <li><a href="http://giadinh.vnexpress.net" class="mnu_doisong" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Đời sống');">Gia đình</a></li>
+                        <li><a href="http://dulich.vnexpress.net" class="mnu_dulich" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Du lịch');" title="Du lịch">Du lịch</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/khoa-hoc" class="mnu_khoahoc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Khoa học');" title="Khoa học">Khoa học</a></li>
+                        <li><a href="http://sohoa.vnexpress.net" class="mnu_sohoa" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Số hóa');" title="Số hóa">Số hóa</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/oto-xe-may" class="mnu_xe" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Xe');" title="Xe">Xe</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cong-dong" class="mnu_bandoc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cộng đồng');" title="Cộng đồng">Cộng đồng</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/tam-su" class="mnu_tamsu" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Tâm sự');" title="Tâm sự">Tâm sự</a></li>
+                        <li><a href="http://video.vnexpress.net" class="mnu_video" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Video');" title="Video">Video</a></li>
+						<li><a href="http://vnexpress.net/tin-tuc/cuoi" class="mnu_cuoi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cười');" title="Cười">Cười</a></li>
+                        <li class="end"><a href="http://raovat.vnexpress.net" class="mnu_raovat end" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Rao vặt');">Rao vặt</a></li>
+                    </ul>
+                    <div class="mid_header width_common">
+                        <ul id="breakumb_web">
+                                                            <li >
+                                    <h3>
+                                        <a href="http://video.vnexpress.net/the-thao" class="parent_menu">
+                                            Video                                        </a>
+                                    </h3>
+                                </li>
+                                                                <li >
+                                    <h3>
+                                        <a href="/tin-tuc/bong-da" class="parent_menu">
+                                            Bóng đá                                        </a>
+                                    </h3>
+                                </li>
+                                                                <li class="active" data-url="/tin-tuc/tennis" data-name="Tennis">
+                                    <h3>
+                                        <a href="/tin-tuc/tennis" class="parent_menu">
+                                            Tennis                                        </a>
+                                    </h3>
+                                </li>
+                                                                <li >
+                                    <h3>
+                                        <a href="/tin-tuc/cac-mon-khac" class="parent_menu">
+                                            Các môn khác                                        </a>
+                                    </h3>
+                                </li>
+                                                                <li >
+                                    <h3>
+                                        <a href="/tin-tuc/hau-truong" class="parent_menu">
+                                            Hậu trường                                        </a>
+                                    </h3>
+                                </li>
+                                                                <li >
+                                    <h3>
+                                        <a href="/photo" class="parent_menu">
+                                            Ảnh                                        </a>
+                                    </h3>
+                                </li>
+                                                                <li >
+                                    <h3>
+                                        <a href="/tin-tuc/tuong-thuat" class="parent_menu">
+                                            Tường thuật                                        </a>
+                                    </h3>
+                                </li>
+                                                        </ul>
+                        <div class="right">
+                            <a href="http://e.vnexpress.net" class="left" title="VnExpress International – Vietnam and ASEAN news"><img src="http://st.f1.thethao.vnecdn.net/i/v2/icons/icon_swich_en.gif" alt="VnExpress International – Vietnam and ASEAN news" /></a>
+                                                                <a href="http://vnexpress.net/24h-qua/" class="txt_24h">24h qua</a>
+                                                                    <a href="http://vnexpress.net/rss/" class="img_rss left">RSS&nbsp;<i class="ic ic-rss"></i></a>
+                                                        </div>
+                                                    <div class="block_breakumb_left" style="width: 670px;">
+                                <ul class="list_arrow_breakumb">
+                                    <li class="start have_cap2"><h4><a href="/">Thể thao</a><span class="arrow_breakumb">&nbsp;</span></h4></li>
+                                    <li class="cap2"><h4><a href="/tin-tuc/tennis/">Tennis</a><span class="arrow_breakumb">&nbsp;</span></h4></li>                                </ul>
+                                                                                            </div>
+                                                </div>
+                </div>
+            </div>
+            <div id="wrapper_header">
+                <div id="header">
+                    <div class="width_common">
+                        <div class="logovne">
+                            <a href="http://vnexpress.net" title="vnexpress logo"><img src="http://st.f1.vnecdn.net/responsive/i/v41/graphics/logo.png" alt="vnexpress logo" class="img_logo" /></a>
+                            <div class="right ipad_header">
+                                <div class="block_icon_menu_header right">
+                                    <div class="left block_location_tt" data-component-type="weather" data-component-click=""></div>
+                                    <a href="http://video.vnexpress.net"><img src="http://st.f1.thethao.vnecdn.net/i/v2/icons/icon_videomenu.gif" alt="" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="clear">&nbsp;</div>
+                </div>
+            </div>
+            <div id="wrapper_container" class="container_common">
+                <div id="container">
+                    <div class="width_common">
+                        <div class="breakumb_timer width_common">
+                            <div class="timer_header">
+                                <ul>
+                                                                        <li class="start have_cap2"><a href="/">Thể thao</a><span class="arrow_breakumb">&nbsp;</span></li>
+                                                                            <li class="cap2"><a href="/tin-tuc/tennis">Tennis</a><span class="arrow_breakumb">&nbsp;</span></li>
+                                                                        </ul>
+                            </div>
+                            <div class="rss right">
+                                                                <div class="block_timer left txt_666" id="clockMobile"></div>
+                                                                <a href="javascript:;" class="img_arrow_timer">&nbsp;</a>
+                            </div>
+                            <div class="block_show_breakumb" style="display: none;">
+                                <ul>
+                                                                            <li><a href="http://video.vnexpress.net/the-thao">Video</a></li>
+                                                                                <li><a href="/tin-tuc/bong-da">Bóng đá</a></li>
+                                                                                <li><a href="/tin-tuc/tennis">Tennis</a></li>
+                                                                                <li><a href="/tin-tuc/cac-mon-khac">Các môn khác</a></li>
+                                                                                <li><a href="/tin-tuc/hau-truong">Hậu trường</a></li>
+                                                                                <li><a href="/photo">Ảnh</a></li>
+                                                                                <li><a href="/tin-tuc/tuong-thuat">Tường thuật</a></li>
+                                                                        </ul>
+                            </div>
+                        </div>
+                        <div class="width_common line_col">
+    <div id="col_1"><div class="block_mid_new">
+    <ul class="list_news" id="news_home">
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/agassi-toi-da-thoi-du-doan-ve-federer-3548362.html" title="Agassi: 'Tôi đã thôi dự đoán về Federer'" class="txt_link">Agassi: 'Tôi đã thôi dự đoán về Federer'</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/agassi-toi-da-thoi-du-doan-ve-federer-3548362.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3548362"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/agassi-toi-da-thoi-du-doan-ve-federer-3548362.html" title="Agassi: 'Tôi đã thôi dự đoán về Federer'" alt="Agassi: 'Tôi đã thôi dự đoán về Federer'">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/03/01/top-7113-1488328203_180x108.jpg" alt="Agassi: 'Tôi đã thôi dự đoán về Federer'" title="Agassi: 'Tôi đã thôi dự đoán về Federer'" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Cựu tay vợt Mỹ thán phục sự bền bỉ của đàn em, người giống anh thuở trước vẫn có thể thi đấu đỉnh cao và chinh phục danh hiệu lớn ở tuổi băm.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-thang-tran-dau-tien-sau-chuc-vo-dich-australia-mo-rong-3547802.html" title="Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng" alt="Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng">Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-ky-hop-dong-thi-dau-them-ba-nam-o-giai-tai-basel-3544981.html" title="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel" alt="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel">Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/serena-thach-dau-hai-tay-vot-vo-danh-khi-dang-di-dao-o-my-3547856.html" title="Serena thách đấu hai tay vợt vô danh khi đang đi dạo ở Mỹ" class="txt_link">Serena thách đấu hai tay vợt vô danh khi đang đi dạo ở Mỹ</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/hau-truong/serena-thach-dau-hai-tay-vot-vo-danh-khi-dang-di-dao-o-my-3547856.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3547856"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/serena-thach-dau-hai-tay-vot-vo-danh-khi-dang-di-dao-o-my-3547856.html" title="Serena thách đấu hai tay vợt vô danh khi đang đi dạo ở Mỹ" alt="Serena thách đấu hai tay vợt vô danh khi đang đi dạo ở Mỹ">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/02/28/2017-02-27T165342Z-1414561996-3765-8901-1488246286_180x108.jpg" alt="Serena thách đấu hai tay vợt vô danh khi đang đi dạo ở Mỹ" title="Serena thách đấu hai tay vợt vô danh khi đang đi dạo ở Mỹ" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Nhà vô địch Australia Mở rộng 2017 gây bất ngờ khi xuất hiện trên một sân quần vợt vào ban đêm và đề nghị hai tay vợt nghiệp dư đấu với cô.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/danh-bai-chi-gai-serena-lap-ky-luc-khi-vo-dich-australia-mo-rong-3534319.html" title="Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng" alt="Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng">Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/serena-williams-tran-chung-ket-voi-venus-khien-chung-toi-gan-nhau-hon-3534220.html" title="Serena Williams: 'Trận chung kết với Venus khiến chúng tôi gần nhau hơn'" alt="Serena Williams: 'Trận chung kết với Venus khiến chúng tôi gần nhau hơn'">Serena Williams: 'Trận chung kết với Venus khiến chúng tôi gần nhau hơn'</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-thang-tran-dau-tien-sau-chuc-vo-dich-australia-mo-rong-3547802.html" title="Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng" class="txt_link">Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-thang-tran-dau-tien-sau-chuc-vo-dich-australia-mo-rong-3547802.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3547802"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-thang-tran-dau-tien-sau-chuc-vo-dich-australia-mo-rong-3547802.html" title="Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng" alt="Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/02/28/2017-02-27T165342Z-1414561996-3804-1607-1488240864_180x108.jpg" alt="Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng" title="Federer thắng trận đầu tiên sau chức vô địch Australia Mở rộng" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    "Tàu tốc hành" đánh bại Benoit Paire chỉ sau 54 phút, với tỷ số 6-1, 6-3 trong trận ra quân tại Dubai Championship.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-ky-hop-dong-thi-dau-them-ba-nam-o-giai-tai-basel-3544981.html" title="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel" alt="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel">Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-nhan-loi-tham-du-su-kien-tu-thien-cua-murray-3539021.html" title="Federer nhận lời tham dự sự kiện từ thiện của Murray" alt="Federer nhận lời tham dự sự kiện từ thiện của Murray">Federer nhận lời tham dự sự kiện từ thiện của Murray</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/kei-nishikori-pha-vot-vi-tuc-gian-trong-that-bai-o-rio-open-3545519.html" title="Kei Nishikori phá vợt vì tức giận trong thất bại ở Rio Open" class="txt_link">Kei Nishikori phá vợt vì tức giận trong thất bại ở Rio Open</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/kei-nishikori-pha-vot-vi-tuc-gian-trong-that-bai-o-rio-open-3545519.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3545519"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/kei-nishikori-pha-vot-vi-tuc-gian-trong-that-bai-o-rio-open-3545519.html" title="Kei Nishikori phá vợt vì tức giận trong thất bại ở Rio Open" alt="Kei Nishikori phá vợt vì tức giận trong thất bại ở Rio Open">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/02/23/ni-8073-1487810608_180x108.jpg" alt="Kei Nishikori phá vợt vì tức giận trong thất bại ở Rio Open" title="Kei Nishikori phá vợt vì tức giận trong thất bại ở Rio Open" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt số năm thế giới người Nhật đập gãy vợt khi bị loại ngay vòng một của giải đấu trên sân đất nện ở Rio de Janeiro, Brazil, hôm 22/2.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://video.vnexpress.net/tin-tuc/tennis/nhung-man-dap-vot-nam-2016-3516786.html" title="Những màn đập vợt năm 2016" alt="Những màn đập vợt năm 2016">Những màn đập vợt năm 2016</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-ky-hop-dong-thi-dau-them-ba-nam-o-giai-tai-basel-3544981.html" title="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel" class="txt_link">Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-ky-hop-dong-thi-dau-them-ba-nam-o-giai-tai-basel-3544981.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3544981"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-ky-hop-dong-thi-dau-them-ba-nam-o-giai-tai-basel-3544981.html" title="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel" alt="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/02/22/2017-01-31T124419Z-1362078372-3616-4408-1487724544_180x108.jpg" alt="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel" title="Federer ký hợp đồng thi đấu thêm ba năm ở giải tại Basel" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người Thụy Sỹ cam kết sẽ tham dự sự kiện ở quê nhà cho đến hết năm 2019, tức là khi anh 38 tuổi.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-nhan-loi-tham-du-su-kien-tu-thien-cua-murray-3539021.html" title="Federer nhận lời tham dự sự kiện từ thiện của Murray" alt="Federer nhận lời tham dự sự kiện từ thiện của Murray">Federer nhận lời tham dự sự kiện từ thiện của Murray</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-muon-thi-dau-it-nhat-hai-nam-nua-3521874.html" title="Federer muốn thi đấu ít nhất hai năm nữa" alt="Federer muốn thi đấu ít nhất hai năm nữa">Federer muốn thi đấu ít nhất hai năm nữa</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/tsonga-vo-dich-rotterdam-mo-rong-3544017.html" title="Tsonga vô địch Rotterdam Mở rộng" class="txt_link">Tsonga vô địch Rotterdam Mở rộng</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/tsonga-vo-dich-rotterdam-mo-rong-3544017.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3544017"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/tsonga-vo-dich-rotterdam-mo-rong-3544017.html" title="Tsonga vô địch Rotterdam Mở rộng" alt="Tsonga vô địch Rotterdam Mở rộng">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/02/20/Untitled-4429-1487561393_180x108.jpg" alt="Tsonga vô địch Rotterdam Mở rộng" title="Tsonga vô địch Rotterdam Mở rộng" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người Pháp ngược dòng đánh bại David Goffin và giành danh hiệu ATP đầu tiên kể từ năm 2015.                </div>
+                            </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/pliskova-vo-dich-qatar-mo-rong-3543576.html" title="Pliskova vô địch Qatar Mở rộng" class="txt_link">Pliskova vô địch Qatar Mở rộng</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/pliskova-vo-dich-qatar-mo-rong-3543576.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3543576"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/pliskova-vo-dich-qatar-mo-rong-3543576.html" title="Pliskova vô địch Qatar Mở rộng" alt="Pliskova vô địch Qatar Mở rộng">
+                        <img src="http://img.f4.thethao.vnecdn.net/2017/02/19/2017-02-18T164730Z-130438050-M-9269-9772-1487465439_180x108.jpg" alt="Pliskova vô địch Qatar Mở rộng" title="Pliskova vô địch Qatar Mở rộng" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người CH Czech đánh bại cựu số một thế giới Caroline Wozniacki với tỷ số 6-3, 6-4 để giành danh hiệu thứ hai trong năm nay.                </div>
+                            </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/bouchard-hen-ho-lan-hai-voi-nguoi-ham-mo-may-man-3543169.html" title="Bouchard hẹn hò lần hai với người hâm mộ may mắn" class="txt_link">Bouchard hẹn hò lần hai với người hâm mộ may mắn</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/hau-truong/bouchard-hen-ho-lan-hai-voi-nguoi-ham-mo-may-man-3543169.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3543169"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/bouchard-hen-ho-lan-hai-voi-nguoi-ham-mo-may-man-3543169.html" title="Bouchard hẹn hò lần hai với người hâm mộ may mắn" alt="Bouchard hẹn hò lần hai với người hâm mộ may mắn">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/02/18/Untitled-8964-1487360937_180x108.jpg" alt="Bouchard hẹn hò lần hai với người hâm mộ may mắn" title="Bouchard hẹn hò lần hai với người hâm mộ may mắn" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Hoa khôi quần vợt người Canada khẳng định sẽ tiếp tục gặp người đã thắng cô trong lần cá cược kết quả trận Super Bowl trên mạng.                 </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/bong-hong-canada-hen-ho-voi-cdv-nam-vi-thua-cuoc-3542522.html" title="'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược" alt="'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược">'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/bong-hong-canada-hen-ho-voi-cdv-nam-vi-thua-cuoc-3542522.html" title="'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược" class="txt_link">'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/hau-truong/bong-hong-canada-hen-ho-voi-cdv-nam-vi-thua-cuoc-3542522.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3542522"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/bong-hong-canada-hen-ho-voi-cdv-nam-vi-thua-cuoc-3542522.html" title="'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược" alt="'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/02/16/Untitled1-1487243913-4365-1487244118_180x108.jpg" alt="'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược" title="'Bông hồng Canada' hẹn hò với CĐV nam vì thua cược" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Eugenie Bouchard cá cược về đội thắng trong trận Super Bowl với CĐV bằng một cuộc hẹn, và cô đã thua cược.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/bouchard-dung-buoc-tai-vong-ba-australia-mo-rong-3531229.html" title="Bouchard dừng bước tại vòng ba Australia Mở rộng" alt="Bouchard dừng bước tại vòng ba Australia Mở rộng">Bouchard dừng bước tại vòng ba Australia Mở rộng</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/sharapova-bouchard-nhe-buoc-vao-vong-hai-3344635.html" title="Sharapova, Bouchard nhẹ bước vào vòng hai" alt="Sharapova, Bouchard nhẹ bước vào vòng hai">Sharapova, Bouchard nhẹ bước vào vòng hai</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/photo/hau-truong/sharapova-miet-mai-luyen-tap-chuan-bi-cho-ngay-tai-xuat-3540065.html" title="Sharapova miệt mài luyện tập chuẩn bị cho ngày tái xuất" class="txt_link">Sharapova miệt mài luyện tập chuẩn bị cho ngày tái xuất</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/hau-truong/sharapova-miet-mai-luyen-tap-chuan-bi-cho-ngay-tai-xuat-3540065.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3540065"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/photo/hau-truong/sharapova-miet-mai-luyen-tap-chuan-bi-cho-ngay-tai-xuat-3540065.html" title="Sharapova miệt mài luyện tập chuẩn bị cho ngày tái xuất" alt="Sharapova miệt mài luyện tập chuẩn bị cho ngày tái xuất">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/02/12/sharapova-miet-mai-luyen-tap-chuan-bi-cho-ngay-tai-xuat-1486888371_180x108.png" alt="Sharapova miệt mài luyện tập chuẩn bị cho ngày tái xuất" title="Sharapova miệt mài luyện tập chuẩn bị cho ngày tái xuất" />
+                        <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                    </a>
+                </div>
+                                <div class="news_lead">
+                    "Búp bê Nga" Maria Sharapova sẽ trở lại thi đấu vào cuối tháng Tư tới, sau 15 tháng vắng mặt theo án kỷ luật vì sử dụng doping.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/sharapova-tai-xuat-o-giai-porsche-grand-prix-sau-be-boi-doping-3526601.html" title="Sharapova tái xuất ở giải Porsche Grand Prix sau bê bối doping" alt="Sharapova tái xuất ở giải Porsche Grand Prix sau bê bối doping">Sharapova tái xuất ở giải Porsche Grand Prix sau bê bối doping</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/sharapova-duoc-dac-cach-tham-du-madrid-mo-rong-3538730.html" title="Sharapova được đặc cách tham dự Madrid Mở rộng" alt="Sharapova được đặc cách tham dự Madrid Mở rộng">Sharapova được đặc cách tham dự Madrid Mở rộng</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-nhan-loi-tham-du-su-kien-tu-thien-cua-murray-3539021.html" title="Federer nhận lời tham dự sự kiện từ thiện của Murray" class="txt_link">Federer nhận lời tham dự sự kiện từ thiện của Murray</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-nhan-loi-tham-du-su-kien-tu-thien-cua-murray-3539021.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3539021"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-nhan-loi-tham-du-su-kien-tu-thien-cua-murray-3539021.html" title="Federer nhận lời tham dự sự kiện từ thiện của Murray" alt="Federer nhận lời tham dự sự kiện từ thiện của Murray">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/02/10/2017-01-29T111744Z-81639578-SR-5181-2734-1486689740_180x108.jpg" alt="Federer nhận lời tham dự sự kiện từ thiện của Murray" title="Federer nhận lời tham dự sự kiện từ thiện của Murray" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    ĐKVĐ Australia Mở rộng lần đầu tiên đến Scotland thi đấu theo lời mời của tay vợt số một thế giới.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/mesut-ozil-phat-cuong-vi-federer-vo-dich-australia-mo-rong-3534581.html" title="Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng" alt="Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng">Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng</a> / <a href="http://thethao.vnexpress.net/photo/tennis/federer-roi-nuoc-mat-sau-khi-thang-nadal-3534560.html" title="Federer rơi nước mắt sau khi thắng Nadal" alt="Federer rơi nước mắt sau khi thắng Nadal">Federer rơi nước mắt sau khi thắng Nadal</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-rut-khoi-abn-amro-3539005.html" title="Nadal rút khỏi ABN Amro" class="txt_link">Nadal rút khỏi ABN Amro</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-rut-khoi-abn-amro-3539005.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3539005"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-rut-khoi-abn-amro-3539005.html" title="Nadal rút khỏi ABN Amro" alt="Nadal rút khỏi ABN Amro">
+                        <img src="http://img.f4.thethao.vnecdn.net/2017/02/10/2017-01-29T111744Z-81639578-SR-1904-4746-1486688359_180x108.jpg" alt="Nadal rút khỏi ABN Amro" title="Nadal rút khỏi ABN Amro" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người Tây Ban Nha không dự giải đấu ở Rotterdam tuần tới để nghỉ ngơi, hồi phục sức khỏe theo tư vấn của bác sĩ.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/la-liga/rafael-nadal-muon-lam-chu-tich-real-madrid-3538229.html" title="Rafael Nadal muốn làm Chủ tịch Real Madrid" alt="Rafael Nadal muốn làm Chủ tịch Real Madrid">Rafael Nadal muốn làm Chủ tịch Real Madrid</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-cung-murray-tham-du-queens-club-championships-3537448.html" title="Nadal cùng Murray tham dự Queen's Club Championships" alt="Nadal cùng Murray tham dự Queen's Club Championships">Nadal cùng Murray tham dự Queen's Club Championships</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/sharapova-duoc-dac-cach-tham-du-madrid-mo-rong-3538730.html" title="Sharapova được đặc cách tham dự Madrid Mở rộng" class="txt_link">Sharapova được đặc cách tham dự Madrid Mở rộng</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/sharapova-duoc-dac-cach-tham-du-madrid-mo-rong-3538730.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3538730"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/sharapova-duoc-dac-cach-tham-du-madrid-mo-rong-3538730.html" title="Sharapova được đặc cách tham dự Madrid Mở rộng" alt="Sharapova được đặc cách tham dự Madrid Mở rộng">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/02/09/Untitled3-1486626062-5160-1486626064_180x108.jpg" alt="Sharapova được đặc cách tham dự Madrid Mở rộng" title="Sharapova được đặc cách tham dự Madrid Mở rộng" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    "Búp bê Nga" sẽ trở lại thi đấu vào cuối tháng Tư và hứa hẹn có một lịch làm việc bận rộn.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/sharapova-tai-xuat-o-giai-porsche-grand-prix-sau-be-boi-doping-3526601.html" title="Sharapova tái xuất ở giải Porsche Grand Prix sau bê bối doping" alt="Sharapova tái xuất ở giải Porsche Grand Prix sau bê bối doping">Sharapova tái xuất ở giải Porsche Grand Prix sau bê bối doping</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/tay-vot-nga-cu-10-tay-vot-nu-thi-co-mot-la-nguoi-dong-tinh-3538226.html" title="Tay vợt Nga: 'Cứ 10 tay vợt nữ thì có một là người đồng tính'" class="txt_link">Tay vợt Nga: 'Cứ 10 tay vợt nữ thì có một là người đồng tính'</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/hau-truong/tay-vot-nga-cu-10-tay-vot-nu-thi-co-mot-la-nguoi-dong-tinh-3538226.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3538226"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/tay-vot-nga-cu-10-tay-vot-nu-thi-co-mot-la-nguoi-dong-tinh-3538226.html" title="Tay vợt Nga: 'Cứ 10 tay vợt nữ thì có một là người đồng tính'" alt="Tay vợt Nga: 'Cứ 10 tay vợt nữ thì có một là người đồng tính'">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/02/08/Untitled-1-4579-1486544221_180x108.jpg" alt="Tay vợt Nga: 'Cứ 10 tay vợt nữ thì có một là người đồng tính'" title="Tay vợt Nga: 'Cứ 10 tay vợt nữ thì có một là người đồng tính'" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Ekaterina Bychkova tiết lộ về thế giới của các tay vợt đồng tính nữ trong quần vợt chuyên nghiệp.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/cau-thu-duoc-ban-dong-tinh-cau-hon-ngay-tren-san-dau-olympic-3450112.html" title="Cầu thủ được bạn đồng tính cầu hôn ngay trên sân đấu Olympic" alt="Cầu thủ được bạn đồng tính cầu hôn ngay trên sân đấu Olympic">Cầu thủ được bạn đồng tính cầu hôn ngay trên sân đấu Olympic</a> / <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/trong-tai-dong-tinh-nam-bat-tran-chung-ket-rugby-world-cup-3304507.html" title="Trọng tài đồng tính nam bắt trận chung kết Rugby World Cup" alt="Trọng tài đồng tính nam bắt trận chung kết Rugby World Cup">Trọng tài đồng tính nam bắt trận chung kết Rugby World Cup</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/trong-tai-bi-danh-bong-trung-mat-cac-tay-vot-ngay-cang-dien-ro-3537761.html" title="Trọng tài bị đánh bóng trúng mắt: 'Các tay vợt ngày càng điên rồ'" class="txt_link">Trọng tài bị đánh bóng trúng mắt: 'Các tay vợt ngày càng điên rồ'</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/trong-tai-bi-danh-bong-trung-mat-cac-tay-vot-ngay-cang-dien-ro-3537761.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3537761"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/trong-tai-bi-danh-bong-trung-mat-cac-tay-vot-ngay-cang-dien-ro-3537761.html" title="Trọng tài bị đánh bóng trúng mắt: 'Các tay vợt ngày càng điên rồ'" alt="Trọng tài bị đánh bóng trúng mắt: 'Các tay vợt ngày càng điên rồ'">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/02/07/arnaud-7406-1486472407_180x108.jpg" alt="Trọng tài bị đánh bóng trúng mắt: 'Các tay vợt ngày càng điên rồ'" title="Trọng tài bị đánh bóng trúng mắt: 'Các tay vợt ngày càng điên rồ'" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Arnaud Gabas cảm thấy may mắn vì vết thương không nghiêm trọng hơn, sau cú đánh thiếu kiềm chế của tay vợt Denis Shapovalov.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/tay-vot-canada-bi-xu-thua-vi-danh-bong-trung-mat-trong-tai-3537014.html" title="Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài" alt="Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài">Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/quan-vot-viet-nam-that-bai-vi-vat-kiet-suc-hoang-nam-hoang-thien-3537223.html" title="Quần vợt Việt Nam thất bại vì vắt kiệt sức Hoàng Nam, Hoàng Thiên" class="txt_link">Quần vợt Việt Nam thất bại vì vắt kiệt sức Hoàng Nam, Hoàng Thiên</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/quan-vot-viet-nam-that-bai-vi-vat-kiet-suc-hoang-nam-hoang-thien-3537223.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3537223"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/quan-vot-viet-nam-that-bai-vi-vat-kiet-suc-hoang-nam-hoang-thien-3537223.html" title="Quần vợt Việt Nam thất bại vì vắt kiệt sức Hoàng Nam, Hoàng Thiên" alt="Quần vợt Việt Nam thất bại vì vắt kiệt sức Hoàng Nam, Hoàng Thiên">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/02/07/DONG1362-1486401378-9769-1486401399_180x108.jpg" alt="Quần vợt Việt Nam thất bại vì vắt kiệt sức Hoàng Nam, Hoàng Thiên" title="Quần vợt Việt Nam thất bại vì vắt kiệt sức Hoàng Nam, Hoàng Thiên" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Rất nhiều nguyên nhân được các chuyên gia chỉ ra khi tuyển quần vợt Việt Nam thua 2-3 trước Hong Kong tại nhóm hai Davis Cup 2017 khu vực châu Á - Thái Bình Dương                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/photo/tennis/ly-hoang-nam-chien-thang-sau-y-dinh-bo-set-dau-bat-thanh-3536570.html" title="Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành" alt="Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành">Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-va-hoang-thien-that-thu-viet-nam-bat-loi-o-davis-cup-3536407.html" title="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup" alt="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup">Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-cung-murray-tham-du-queens-club-championships-3537448.html" title="Nadal cùng Murray tham dự Queen's Club Championships" class="txt_link">Nadal cùng Murray tham dự Queen's Club Championships</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-cung-murray-tham-du-queens-club-championships-3537448.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3537448"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-cung-murray-tham-du-queens-club-championships-3537448.html" title="Nadal cùng Murray tham dự Queen's Club Championships" alt="Nadal cùng Murray tham dự Queen's Club Championships">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/02/07/2017-01-29T110814Z-40169183-6771-1486439637_180x108.jpg" alt="Nadal cùng Murray tham dự Queen's Club Championships" title="Nadal cùng Murray tham dự Queen's Club Championships" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người Tây Ban Nha sẽ khởi động cho Wimbledon tại giải đấu mà Andy Murray là đương kim vô địch.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/photo/tennis/federer-roi-nuoc-mat-sau-khi-thang-nadal-3534560.html" title="Federer rơi nước mắt sau khi thắng Nadal" alt="Federer rơi nước mắt sau khi thắng Nadal">Federer rơi nước mắt sau khi thắng Nadal</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-khuat-phuc-nadal-lan-thu-18-vo-dich-grand-slam-3534511.html" title="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam" alt="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam">Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/tay-vot-canada-bi-xu-thua-vi-danh-bong-trung-mat-trong-tai-3537014.html" title="Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài" class="txt_link">Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/tay-vot-canada-bi-xu-thua-vi-danh-bong-trung-mat-trong-tai-3537014.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3537014"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/tay-vot-canada-bi-xu-thua-vi-danh-bong-trung-mat-trong-tai-3537014.html" title="Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài" alt="Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/02/06/2017-02-06T021526Z-11803890-5208-1486366397_180x108.jpg" alt="Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài" title="Tay vợt Canada bị xử thua vì đánh bóng trúng mắt trọng tài" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Denis Shapovalov phải trả giá cho hành động thiếu kiềm chế trong trận đấu với Kyle Edmund ở Davis Cup.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-thang-ap-dao-tai-davis-cup-3536084.html" title="Hoàng Nam thắng áp đảo tại Davis Cup" alt="Hoàng Nam thắng áp đảo tại Davis Cup">Hoàng Nam thắng áp đảo tại Davis Cup</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/photo/tennis/ly-hoang-nam-chien-thang-sau-y-dinh-bo-set-dau-bat-thanh-3536570.html" title="Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành" class="txt_link">Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành</a>
+                <i class="ic ic-video"></i>&nbsp;<i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/tennis/ly-hoang-nam-chien-thang-sau-y-dinh-bo-set-dau-bat-thanh-3536570.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3536570"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/photo/tennis/ly-hoang-nam-chien-thang-sau-y-dinh-bo-set-dau-bat-thanh-3536570.html" title="Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành" alt="Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/02/05/6-1486297586_180x108.jpg" alt="Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành" title="Lý Hoàng Nam chiến thắng sau ý định bỏ set đấu bất thành" />
+                        <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                    </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt số một Việt Nam đánh bại Wong Hong Kit để quân bình tỷ số 2-2 cho tuyển Việt Nam trước Hong Kong tại Davis Cup.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-va-hoang-thien-that-thu-viet-nam-bat-loi-o-davis-cup-3536407.html" title="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup" alt="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup">Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-thang-ap-dao-tai-davis-cup-3536084.html" title="Hoàng Nam thắng áp đảo tại Davis Cup" alt="Hoàng Nam thắng áp đảo tại Davis Cup">Hoàng Nam thắng áp đảo tại Davis Cup</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-va-hoang-thien-that-thu-viet-nam-bat-loi-o-davis-cup-3536407.html" title="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup" class="txt_link">Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-va-hoang-thien-that-thu-viet-nam-bat-loi-o-davis-cup-3536407.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3536407"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-va-hoang-thien-that-thu-viet-nam-bat-loi-o-davis-cup-3536407.html" title="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup" alt="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup">
+                        <img src="http://img.f4.thethao.vnecdn.net/2017/02/04/DONG1363-1486219622-8996-1486219627_180x108.jpg" alt="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup" title="Hoàng Nam và Hoàng Thiên thất thủ, Việt Nam bất lợi ở Davis Cup" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Thua ngược 1-3 ở nội dung đánh đôi chiều 4/2, tuyển Việt Nam để Hong Kong dẫn 2-1 tại Davis Cup 2017 nhóm hai khu vực châu Á - Thái Bình Dương.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-gap-doi-thu-kem-876-bac-tai-davis-cup-3535433.html" title="Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup" alt="Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup">Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-thang-ap-dao-tai-davis-cup-3536084.html" title="Hoàng Nam thắng áp đảo tại Davis Cup" alt="Hoàng Nam thắng áp đảo tại Davis Cup">Hoàng Nam thắng áp đảo tại Davis Cup</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-thang-ap-dao-tai-davis-cup-3536084.html" title="Hoàng Nam thắng áp đảo tại Davis Cup" class="txt_link">Hoàng Nam thắng áp đảo tại Davis Cup</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-thang-ap-dao-tai-davis-cup-3536084.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3536084"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-thang-ap-dao-tai-davis-cup-3536084.html" title="Hoàng Nam thắng áp đảo tại Davis Cup" alt="Hoàng Nam thắng áp đảo tại Davis Cup">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/02/03/anh3-1486135464-3333-1486135475_180x108.jpg" alt="Hoàng Nam thắng áp đảo tại Davis Cup" title="Hoàng Nam thắng áp đảo tại Davis Cup" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt sinh năm 1997 hạ Li Hei Yin Andrew 3-0 (6-1, 6-2, 6-4) trong ngày thi đấu đầu tiên giữa tuyển Việt Nam và Hong Kong tại Davis Cup 2017 nhóm hai khu vực châu Á - Thái Bình Dương tối 3/2.                </div>
+                            </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-gap-doi-thu-kem-876-bac-tai-davis-cup-3535433.html" title="Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup" class="txt_link">Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-gap-doi-thu-kem-876-bac-tai-davis-cup-3535433.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3535433"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/hoang-nam-gap-doi-thu-kem-876-bac-tai-davis-cup-3535433.html" title="Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup" alt="Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/02/02/a1-3824-1486024312_180x108.jpg" alt="Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup" title="Hoàng Nam gặp đối thủ kém 876 bậc tại Davis Cup" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Trong ngày thi đấu đầu tiên giữa Việt Nam và Hong Kong, Hoàng Nam đối đầu Li Hei Yin Andrew, đối thủ bằng tuổi nhưng kém xa trên bảng thứ bậc ATP.                </div>
+                            </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/mesut-ozil-phat-cuong-vi-federer-vo-dich-australia-mo-rong-3534581.html" title="Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng" class="txt_link">Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/hau-truong/mesut-ozil-phat-cuong-vi-federer-vo-dich-australia-mo-rong-3534581.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3534581"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/mesut-ozil-phat-cuong-vi-federer-vo-dich-australia-mo-rong-3534581.html" title="Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng" alt="Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/01/30/top-1485741154_180x108.jpg" alt="Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng" title="Mesut Ozil phát cuồng vì Federer vô địch Australia Mở rộng" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Ngôi sao đội Arsenal như nổ tung trong phấn khích, nhiều tên tuổi lớn khác của thế giới bóng đá thì hân hoan với chức vô địch Grand Slam thứ 18 của tay vợt Thuỵ Sỹ.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/photo/tennis/federer-roi-nuoc-mat-sau-khi-thang-nadal-3534560.html" title="Federer rơi nước mắt sau khi thắng Nadal" alt="Federer rơi nước mắt sau khi thắng Nadal">Federer rơi nước mắt sau khi thắng Nadal</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-vo-dich-australia-mo-rong-2017-quan-trong-ngang-roland-garros-2009-3534561.html" title="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'" alt="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'">Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-vo-dich-australia-mo-rong-2017-quan-trong-ngang-roland-garros-2009-3534561.html" title="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'" class="txt_link">Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-vo-dich-australia-mo-rong-2017-quan-trong-ngang-roland-garros-2009-3534561.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3534561"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-vo-dich-australia-mo-rong-2017-quan-trong-ngang-roland-garros-2009-3534561.html" title="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'" alt="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/01/30/2017-01-29T132640Z-1460123979-8895-7762-1485720459_180x108.jpg" alt="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'" title="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người Thụy Sỹ nhấn mạnh tầm quan trọng của chiến thắng trước Rafael Nadal trong trận chung kết Grand Slam đầu năm 2017.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/photo/tennis/federer-roi-nuoc-mat-sau-khi-thang-nadal-3534560.html" title="Federer rơi nước mắt sau khi thắng Nadal" alt="Federer rơi nước mắt sau khi thắng Nadal">Federer rơi nước mắt sau khi thắng Nadal</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-khuat-phuc-nadal-lan-thu-18-vo-dich-grand-slam-3534511.html" title="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam" alt="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam">Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/photo/tennis/federer-roi-nuoc-mat-sau-khi-thang-nadal-3534560.html" title="Federer rơi nước mắt sau khi thắng Nadal" class="txt_link">Federer rơi nước mắt sau khi thắng Nadal</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/tennis/federer-roi-nuoc-mat-sau-khi-thang-nadal-3534560.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3534560"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/photo/tennis/federer-roi-nuoc-mat-sau-khi-thang-nadal-3534560.html" title="Federer rơi nước mắt sau khi thắng Nadal" alt="Federer rơi nước mắt sau khi thắng Nadal">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/01/30/2500-1485718405_180x108.jpg" alt="Federer rơi nước mắt sau khi thắng Nadal" title="Federer rơi nước mắt sau khi thắng Nadal" />
+                        <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                    </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người Thụy Sỹ đánh bại kình địch sau một trận chung kết dài năm set để vô địch Australia Mở rộng 2017.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-khuat-phuc-nadal-lan-thu-18-vo-dich-grand-slam-3534511.html" title="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam" alt="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam">Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-vo-dich-australia-mo-rong-2017-quan-trong-ngang-roland-garros-2009-3534561.html" title="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'" alt="Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'">Federer: 'Vô địch Australia Mở rộng 2017 quan trọng ngang Roland Garros 2009'</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-khuat-phuc-nadal-lan-thu-18-vo-dich-grand-slam-3534511.html" title="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam" class="txt_link">Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-khuat-phuc-nadal-lan-thu-18-vo-dich-grand-slam-3534511.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3534511"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-khuat-phuc-nadal-lan-thu-18-vo-dich-grand-slam-3534511.html" title="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam" alt="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam">
+                        <img src="http://img.f4.thethao.vnecdn.net/2017/01/29/20170129T123737Z229797937SR1ED1T0Z267WRTRMADP3TENNISOPENJPG-1485693666_180x108.jpg" alt="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam" title="Federer khuất phục Nadal, lần thứ 18 vô địch Grand Slam" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    "Tàu tốc hành" giành chiến thắng trong trận đấu kéo dài năm set với tỷ số 6-4, 3-6, 6-1, 3-6, 6-3 qua đó vô địch Australia Mở rộng 2017.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/photo/tennis/tam-tran-chung-ket-grand-slam-giua-federer-va-nadal-3534414.html" title="Tám trận chung kết Grand Slam giữa Federer và Nadal" alt="Tám trận chung kết Grand Slam giữa Federer và Nadal">Tám trận chung kết Grand Slam giữa Federer và Nadal</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-tran-dau-voi-federer-vuot-qua-gioi-han-cua-quan-vot-3534391.html" title="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'" alt="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'">Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/photo/tennis/tam-tran-chung-ket-grand-slam-giua-federer-va-nadal-3534414.html" title="Tám trận chung kết Grand Slam giữa Federer và Nadal" class="txt_link">Tám trận chung kết Grand Slam giữa Federer và Nadal</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/photo/tennis/tam-tran-chung-ket-grand-slam-giua-federer-va-nadal-3534414.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3534414"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/photo/tennis/tam-tran-chung-ket-grand-slam-giua-federer-va-nadal-3534414.html" title="Tám trận chung kết Grand Slam giữa Federer và Nadal" alt="Tám trận chung kết Grand Slam giữa Federer và Nadal">
+                        <img src="http://img.f2.thethao.vnecdn.net/2017/01/29/tam-tran-chung-ket-grand-slam-giua-federer-va-nadal-1485657789_180x108.jpg" alt="Tám trận chung kết Grand Slam giữa Federer và Nadal" title="Tám trận chung kết Grand Slam giữa Federer và Nadal" />
+                        <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                    </a>
+                </div>
+                                <div class="news_lead">
+                    Nadal nhỉnh hơn với sáu chiến thắng trong đó có lần đánh bại đối thủ để đăng quang ở Australia Mở rộng 2009.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-tung-khong-tin-con-kha-nang-vao-chung-ket-voi-nadal-3534068.html" title="Federer từng không tin còn khả năng vào chung kết với Nadal" alt="Federer từng không tin còn khả năng vào chung kết với Nadal">Federer từng không tin còn khả năng vào chung kết với Nadal</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-tran-dau-voi-federer-vuot-qua-gioi-han-cua-quan-vot-3534391.html" title="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'" alt="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'">Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li >
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-tran-dau-voi-federer-vuot-qua-gioi-han-cua-quan-vot-3534391.html" title="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'" class="txt_link">Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'</a>
+                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-tran-dau-voi-federer-vuot-qua-gioi-han-cua-quan-vot-3534391.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3534391"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-tran-dau-voi-federer-vuot-qua-gioi-han-cua-quan-vot-3534391.html" title="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'" alt="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'">
+                        <img src="http://img.f1.thethao.vnecdn.net/2017/01/29/Untitled-8411-1485651050_180x108.jpg" alt="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'" title="Nadal: 'Trận đấu với Federer vượt qua giới hạn của quần vợt'" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Tay vợt người Tây Ban Nha cho rằng sức thu hút của trận chung kết Australia Mở rộng năm nay nhiều hơn một màn so tài thông thường.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/nadal-ha-dimitrov-tai-ngo-federer-o-chung-ket-australia-mo-rong-3534165.html" title="Nadal hạ Dimitrov, tái ngộ Federer ở chung kết Australia Mở rộng" alt="Nadal hạ Dimitrov, tái ngộ Federer ở chung kết Australia Mở rộng">Nadal hạ Dimitrov, tái ngộ Federer ở chung kết Australia Mở rộng</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/federer-tung-khong-tin-con-kha-nang-vao-chung-ket-voi-nadal-3534068.html" title="Federer từng không tin còn khả năng vào chung kết với Nadal" alt="Federer từng không tin còn khả năng vào chung kết với Nadal">Federer từng không tin còn khả năng vào chung kết với Nadal</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+                <li class="end">
+            <h3 class="title_news">
+                <a href="http://thethao.vnexpress.net/tin-tuc/tennis/danh-bai-chi-gai-serena-lap-ky-luc-khi-vo-dich-australia-mo-rong-3534319.html" title="Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng" class="txt_link">Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tennis/danh-bai-chi-gai-serena-lap-ky-luc-khi-vo-dich-australia-mo-rong-3534319.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3534319"></span></a>            </h3>
+            <div class="block_image_news width_common">
+                                <div class="thumb">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/tennis/danh-bai-chi-gai-serena-lap-ky-luc-khi-vo-dich-australia-mo-rong-3534319.html" title="Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng" alt="Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/01/28/20170128T102415Z731859235SR1ED1S0SW1F2RTRMADP3TENNISOPENJPG-1485602564_180x108.jpg" alt="Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng" title="Đánh bại chị gái, Serena lập kỷ lục khi vô địch Australia Mở rộng" />
+                                            </a>
+                </div>
+                                <div class="news_lead">
+                    Hạt giống số hai thắng Venus Williams với tỷ số 6-4, 6-4 để đoạt danh hiệu Grand Slam thứ 23.                </div>
+                                    <ul class="list_news_dot_3x3">
+                        <li>
+                            <strong>
+                            <a href="http://thethao.vnexpress.net/tin-tuc/tennis/serena-williams-tran-chung-ket-voi-venus-khien-chung-toi-gan-nhau-hon-3534220.html" title="Serena Williams: 'Trận chung kết với Venus khiến chúng tôi gần nhau hơn'" alt="Serena Williams: 'Trận chung kết với Venus khiến chúng tôi gần nhau hơn'">Serena Williams: 'Trận chung kết với Venus khiến chúng tôi gần nhau hơn'</a> / <a href="http://thethao.vnexpress.net/tin-tuc/tennis/chi-em-nha-williams-cham-tran-nhau-o-chung-ket-australia-mo-rong-3533883.html" title="Chị em nhà Williams chạm trán nhau ở chung kết Australia Mở rộng" alt="Chị em nhà Williams chạm trán nhau ở chung kết Australia Mở rộng">Chị em nhà Williams chạm trán nhau ở chung kết Australia Mở rộng</a>                            </strong>
+                        </li>
+                    </ul>
+                                </div>
+        </li>
+            </ul>
+    <div class="bottom_pagination width_common">
+                <div id="calendar" class="view_date_time"></div>
+        <script>
+            $( document ).ready(function() {
+                if(typeof(CalendarParser) != "undefined")
+                {
+                    CalendarParser.calendar_parser_id = "calendar";
+                    CalendarParser.calendar_parser_parent   = 1002565;
+                    CalendarParser.calendar_parser_child    = 1002619;
+                    CalendarParser.calendar_parser_child_recursive = 0;
+                    CalendarParser.parse();
+                }
+            });
+        </script>
+        <div class="pagination_news right"><a href="http://thethao.vnexpress.net/tin-tuc/tennis/page/1.html" class="pagination_btn pa_prev"><i class="ic ic-caret-left"></i></a><a href="http://thethao.vnexpress.net/tin-tuc/tennis/page/1.html" >1</a><a href="javascript:void(0)" class="active">2</a><a href="http://thethao.vnexpress.net/tin-tuc/tennis/page/3.html" >3</a><a href="http://thethao.vnexpress.net/tin-tuc/tennis/page/4.html" >4</a><a href="http://thethao.vnexpress.net/tin-tuc/tennis/page/5.html" >5</a><a href="http://thethao.vnexpress.net/tin-tuc/tennis/page/3.html" class="pagination_btn pa_next"><i class="ic ic-caret-right"></i></a></div>    </div>
+</div>
+</div>
+    <div id="col_2">
+            <div class="box_category width_common hidden320">
+        <div class="banner_300x250">
+            <script type="text/javascript">try {Poly_Large(1);}catch(ex){};</script>        </div>
+    </div>
+    <div class="box_category width_common hidden320">
+        <div class="banner_300x120">
+            <script type="text/javascript">try {Poly_Large(2);}catch(ex){};</script>        </div>
+    </div>
+        <div id="block-video-left">&nbsp;</div>
+        <script type="text/javascript">
+            $(function () {
+                if (typeof(thethao.getVideoApi) != 'undefined') {
+                    thethao.getVideoApi(1003008, 36, 7, 'block-video-left', 1);
+                }
+            });
+        </script>
+        <div class="box_category width_common hidden320">
+    <div class="banner_300x250">
+        <script type="text/javascript">try {Poly_Large(3);}catch(ex){};</script>    </div>
+</div>    <div class="box_category width_common">
+        <div class="title_box_category width_common" >
+            <h2 class="txt_main_category">
+                <a href="/tin-tuc/hau-truong"  title="Hậu trường">
+                    Hậu trường                </a>
+            </h2>
+                            <a href="/tin-tuc/hau-truong" title="Hậu trường" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+                        </div>
+        <div class="content_box_category width_common">
+                            <h2 class="title_news">
+                    <a href="http://thethao.vnexpress.net/photo/hau-truong/mourinho-boc-chuoi-cho-hoc-tro-an-tren-san-3556718.html"  title="Mourinho bóc chuối cho học trò ăn trên sân" class="txt_link">Mourinho bóc chuối cho học trò ăn trên sân</a>
+                    <i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/hau-truong/mourinho-boc-chuoi-cho-hoc-tro-an-tren-san-3556718.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3556718"></span></a>                </h2>
+                            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a href="http://thethao.vnexpress.net/photo/hau-truong/mourinho-boc-chuoi-cho-hoc-tro-an-tren-san-3556718.html"  title="Mourinho bóc chuối cho học trò ăn trên sân">
+                                <img src="http://img.f3.thethao.vnecdn.net/2017/03/17/2-1489720462_180x108.jpg" alt="Mourinho bóc chuối cho học trò ăn trên sân" title="Mourinho bóc chuối cho học trò ăn trên sân"/>
+                                <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://thethao.vnexpress.net/photo/hau-truong/mourinho-boc-chuoi-cho-hoc-tro-an-tren-san-3556718.html">
+                        HLV của Man Utd giúp hậu vệ Marcos Rojo nạp năng lượng trong trận lượt về vòng 1/8 Europa League giữa tối qua 16/3.                    </div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a href="http://thethao.vnexpress.net/photo/hau-truong/bo-con-schmeichel-di-nha-hang-mung-chien-thang-cua-leicester-3556315.html"  title="Bố con Schmeichel đi nhà hàng mừng chiến thắng của Leicester">Bố con Schmeichel đi nhà hàng mừng chiến thắng của Leicester</a>
+                                    <a class="icon_commend" href="http://thethao.vnexpress.net/photo/hau-truong/bo-con-schmeichel-di-nha-hang-mung-chien-thang-cua-leicester-3556315.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3556315"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a href="http://thethao.vnexpress.net/tin-tuc/hau-truong/roy-keane-mia-mai-trao-luu-selfie-cua-cac-cau-thu-3556490.html"  title="Roy Keane mỉa mai trào lưu selfie của các cầu thủ">Roy Keane mỉa mai trào lưu selfie của các cầu thủ</a>
+                                    <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/hau-truong/roy-keane-mia-mai-trao-luu-selfie-cua-cac-cau-thu-3556490.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556490"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a href="http://thethao.vnexpress.net/photo/hau-truong/san-bong-bien-thanh-song-tai-champions-league-cua-nam-my-3556456.html"  title="Sân bóng biến thành sông tại 'Champions League của Nam Mỹ'">Sân bóng biến thành sông tại 'Champions League của Nam Mỹ'</a>
+                                    <i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/hau-truong/san-bong-bien-thanh-song-tai-champions-league-cua-nam-my-3556456.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3556456"></span></a>                                </h2>
+                            </li>
+                                                </ul>
+                            </div>
+        </div>
+    </div>
+<div class="box_category width_common" id="video">
+    <div class="title_box_category width_common">
+        <h2 class="txt_main_category">
+            <a href="http://thethao.vnexpress.net/photo"   title="Ảnh">Ảnh</a>
+        </h2>
+        <a class="block_arrow_title" href="http://thethao.vnexpress.net/photo" title="Ảnh"><i class="ic ic-caret-right"></i></a>
+    </div>
+    <div class="content_box_category width_common">
+                <div class="width_common box_num02">
+                            <div class="thumb_relative">
+                    <a href="http://thethao.vnexpress.net/photo/hinh-bong-da/cdv-nam-liet-giuong-den-san-thong-nhat-co-vu-slna-3554148.html"  title="CĐV nằm liệt giường đến sân Thống Nhất cổ vũ SLNA">
+                        <img src="http://img.f3.thethao.vnecdn.net/2017/03/12/DONG7586-1489324283_490x294.jpg" alt="CĐV nằm liệt giường đến sân Thống Nhất cổ vũ SLNA" title="CĐV nằm liệt giường đến sân Thống Nhất cổ vũ SLNA"/>
+                        <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                    </a>
+                </div>
+                        <h2 class="title_news">
+                <a class="txt_link" href="http://thethao.vnexpress.net/photo/hinh-bong-da/cdv-nam-liet-giuong-den-san-thong-nhat-co-vu-slna-3554148.html"  title="CĐV nằm liệt giường đến sân Thống Nhất cổ vũ SLNA">CĐV nằm liệt giường đến sân Thống Nhất cổ vũ SLNA</a>
+                <i class="ic ic-video"></i>&nbsp;<i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/hinh-bong-da/cdv-nam-liet-giuong-den-san-thong-nhat-co-vu-slna-3554148.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3554148"></span></a>            </h2>
+            <div class="news_lead" data-mobile-href="http://thethao.vnexpress.net/photo/hinh-bong-da/cdv-nam-liet-giuong-den-san-thong-nhat-co-vu-slna-3554148.html">
+                Thiệt thòi về thân thể không ngăn được tình yêu của Nguyễn Bá Kỳ với trái bóng tròn cũng như CLB quê hương xứ Nghệ.            </div>
+        </div>
+                <ul class="list_new_140 list_col">
+                        <li >
+                                    <div class="thumb_140 width_common">
+                        <a href="http://thethao.vnexpress.net/photo/hinh-bong-da/do-vui-ve-cac-hlv-tam-quyen-trong-lang-bong-da-chau-au-3554037.html"  title="Đố vui về các HLV tạm quyền trong làng bóng đá châu Âu">
+                            <img src="http://img.f2.thethao.vnecdn.net/2017/03/12/do-vui-ve-cac-hlv-tam-quyen-trong-lang-bong-da-chau-au-1489288616_180x108.jpg" alt="Đố vui về các HLV tạm quyền trong làng bóng đá châu Âu" title="Đố vui về các HLV tạm quyền trong làng bóng đá châu Âu"/>
+                            <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                        </a>
+                    </div>
+                                <h2>
+                    <a href="http://thethao.vnexpress.net/photo/hinh-bong-da/do-vui-ve-cac-hlv-tam-quyen-trong-lang-bong-da-chau-au-3554037.html"  title="Đố vui về các HLV tạm quyền trong làng bóng đá châu Âu">Đố vui về các HLV tạm quyền trong làng bóng đá châu Âu</a>
+                    <i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/hinh-bong-da/do-vui-ve-cac-hlv-tam-quyen-trong-lang-bong-da-chau-au-3554037.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3554037"></span></a>                </h2>
+            </li>
+                        <li class="end">
+                                    <div class="thumb_140 width_common">
+                        <a href="http://thethao.vnexpress.net/photo/hinh-bong-da/man-nguoc-dong-khong-tuong-dua-barca-vao-tu-ket-3552525.html"  title="Màn ngược dòng không tưởng đưa Barca vào tứ kết">
+                            <img src="http://img.f1.thethao.vnecdn.net/2017/03/09/9-1489016710_180x108.jpg" alt="Màn ngược dòng không tưởng đưa Barca vào tứ kết" title="Màn ngược dòng không tưởng đưa Barca vào tứ kết"/>
+                            <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                        </a>
+                    </div>
+                                <h2>
+                    <a href="http://thethao.vnexpress.net/photo/hinh-bong-da/man-nguoc-dong-khong-tuong-dua-barca-vao-tu-ket-3552525.html"  title="Màn ngược dòng không tưởng đưa Barca vào tứ kết">Màn ngược dòng không tưởng đưa Barca vào tứ kết</a>
+                    <i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/hinh-bong-da/man-nguoc-dong-khong-tuong-dua-barca-vao-tu-ket-3552525.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3552525"></span></a>                </h2>
+            </li>
+                    </ul>
+            </div>
+</div>
+<div class="box_category width_common hidden320">
+    <div class="banner_300x250">
+        <script type="text/javascript">try {Poly_Large(4);}catch(ex){};</script>    </div>
+</div>    <div class="box_category width_common">
+        <div class="title_box_category width_common" >
+            <h2 class="txt_main_category">
+                <a href="/tin-tuc/cac-mon-khac"  title="Các môn khác">
+                    Các môn khác                </a>
+            </h2>
+                            <a href="/tin-tuc/cac-mon-khac" title="Các môn khác" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+                        </div>
+        <div class="content_box_category width_common">
+                            <h2 class="title_news">
+                    <a href="http://thethao.vnexpress.net/tin-tuc/golf/giai-masters-giam-so-golf-thu-duoc-moi-du-par-3-contest-3557103.html"  title="Giải Masters giảm số golf thủ được mời dự Par-3 Contest" class="txt_link">Giải Masters giảm số golf thủ được mời dự Par-3 Contest</a>
+                    <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/golf/giai-masters-giam-so-golf-thu-duoc-moi-du-par-3-contest-3557103.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3557103"></span></a>                </h2>
+                            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a href="http://thethao.vnexpress.net/tin-tuc/golf/giai-masters-giam-so-golf-thu-duoc-moi-du-par-3-contest-3557103.html"  title="Giải Masters giảm số golf thủ được mời dự Par-3 Contest">
+                                <img src="http://img.f2.thethao.vnecdn.net/2017/03/18/vonn-9640-1489800673_180x108.jpg" alt="Giải Masters giảm số golf thủ được mời dự Par-3 Contest" title="Giải Masters giảm số golf thủ được mời dự Par-3 Contest"/>
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://thethao.vnexpress.net/tin-tuc/golf/giai-masters-giam-so-golf-thu-duoc-moi-du-par-3-contest-3557103.html">
+                        Vòng đấu truyền thống khởi động cho sự kiện major đầu tiên của làng golf năm nay sẽ có ít đấu thủ tranh tài hơn so với những năm trước.                    </div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a href="http://thethao.vnexpress.net/photo/co-vua/quang-liem-rang-ro-giuong-cao-cup-vo-dich-hdbank-2017-3557044.html"  title="Quang Liêm rạng rỡ giương cao Cup vô địch HDBank 2017">Quang Liêm rạng rỡ giương cao Cup vô địch HDBank 2017</a>
+                                    <i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/co-vua/quang-liem-rang-ro-giuong-cao-cup-vo-dich-hdbank-2017-3557044.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3557044"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a href="http://thethao.vnexpress.net/tin-tuc/co-vua/quang-liem-vo-dich-giai-co-vua-hdbank-sau-thang-loi-nghet-tho-3556842.html"  title="Quang Liêm vô địch giải cờ vua HDBank sau thắng lợi nghẹt thở">Quang Liêm vô địch giải cờ vua HDBank sau thắng lợi nghẹt thở</a>
+                                    <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/co-vua/quang-liem-vo-dich-giai-co-vua-hdbank-sau-thang-loi-nghet-tho-3556842.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556842"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a href="http://thethao.vnexpress.net/tin-tuc/cac-mon-khac/doc-co-cau-bai-muay-viet-len-ngoi-tren-dat-thai-3556764.html"  title="'Độc cô cầu bại muay Việt' lên ngôi trên đất Thái">'Độc cô cầu bại muay Việt' lên ngôi trên đất Thái</a>
+                                    <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/cac-mon-khac/doc-co-cau-bai-muay-viet-len-ngoi-tren-dat-thai-3556764.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556764"></span></a>                                </h2>
+                            </li>
+                                                </ul>
+                            </div>
+        </div>
+    </div>
+<div class="box_category width_common hidden320">
+    <div class="banner_300x250">
+        <script type="text/javascript">try {Poly_Large(5);}catch(ex){};</script>    </div>
+</div><div class="box_category width_common"><div class="ad_wrapper_protection"><iframe class="ad_frame_protection" allowtransparency="true" frameborder="0" height="250px" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="http://giaitri.vnexpress.net/widget/category/id/1002727/type/1" vspace="0" width="300px"></iframe></div></div>    </div>
+    <div id="col_3"><div class="box_category width_common hidden320">
+    <div class="banner_160x600 left">
+        <script type="text/javascript">try {Poly_Big(1);}catch(ex){};</script>    </div>
+</div>    <div class="box_category width_common" id="doanhnghiepviet">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category">
+                <a href="http://thethao.vnexpress.net" title="Thể Thao">
+                    Xem nhiều nhất                </a>
+            </h2>
+        </div>
+        <div class="content_box_category width_common">
+            <div class="block_image_news width_common">
+                <ul class="list_news">
+                                            <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/bong-da-trong-nuoc/viet-nam-chung-bang-voi-phap-o-u20-world-cup-3555657.html" title="Việt Nam chung bảng với Pháp ở U20 World Cup">Việt Nam chung bảng với Pháp ở U20 World Cup</a>
+                                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/bong-da-trong-nuoc/viet-nam-chung-bang-voi-phap-o-u20-world-cup-3555657.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555657"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/champions-league/danh-bai-sevilla-leicester-vao-tu-ket-champions-league-3555386.html" title="Đánh bại Sevilla, Leicester vào tứ kết Champions League">Đánh bại Sevilla, Leicester vào tứ kết Champions League</a>
+                                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/champions-league/danh-bai-sevilla-leicester-vao-tu-ket-champions-league-3555386.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555386"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/tuong-thuat/bayern-dai-chien-real-o-tu-ket-champions-league-3556939.html" title="Bayern đại chiến Real ở tứ kết Champions League">Bayern đại chiến Real ở tứ kết Champions League</a>
+                                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/tuong-thuat/bayern-dai-chien-real-o-tu-ket-champions-league-3556939.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="5" data-objectid="3556939"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/photo/champions-league/psg-tung-tam-bang-chung-khieu-nai-trong-tai-len-uefa-3555400.html" title="PSG tung tám bằng chứng, khiếu nại trọng tài lên UEFA">PSG tung tám bằng chứng, khiếu nại trọng tài lên UEFA</a>
+                                <i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/photo/champions-league/psg-tung-tam-bang-chung-khieu-nai-trong-tai-len-uefa-3555400.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3555400"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/champions-league/man-city-thua-dam-monaco-bi-loai-khoi-champions-league-3555972.html" title="Man City thua đậm Monaco, bị loại khỏi Champions League">Man City thua đậm Monaco, bị loại khỏi Champions League</a>
+                                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/champions-league/man-city-thua-dam-monaco-bi-loai-khoi-champions-league-3555972.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555972"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/cac-mon-khac/doc-co-cau-bai-muay-viet-len-ngoi-tren-dat-thai-3556764.html" title="'Độc cô cầu bại muay Việt' lên ngôi trên đất Thái">'Độc cô cầu bại muay Việt' lên ngôi trên đất Thái</a>
+                                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/cac-mon-khac/doc-co-cau-bai-muay-viet-len-ngoi-tren-dat-thai-3556764.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556764"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/cac-giai-khac/mata-dua-man-utd-vao-tu-ket-europa-league-3556577.html" title="Mata đưa Man Utd vào tứ kết Europa League">Mata đưa Man Utd vào tứ kết Europa League</a>
+                                <a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/cac-giai-khac/mata-dua-man-utd-vao-tu-ket-europa-league-3556577.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556577"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/champions-league/chuyen-gia-nghi-cau-thu-lat-ghe-ranieri-sau-chien-thang-sevilla-3555450.html" title="Chuyên gia nghi cầu thủ lật ghế Ranieri sau chiến thắng Sevilla">Chuyên gia nghi cầu thủ lật ghế Ranieri sau chiến thắng Sevilla</a>
+                                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/champions-league/chuyen-gia-nghi-cau-thu-lat-ghe-ranieri-sau-chien-thang-sevilla-3555450.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555450"></span></a>                            </h2>
+                        </li>
+                                                <li >
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/bong-da-trong-nuoc/hlv-u20-viet-nam-hai-long-voi-ket-qua-boc-tham-world-cup-3555722.html" title="HLV U20 Việt Nam hài lòng với kết quả bốc thăm World Cup">HLV U20 Việt Nam hài lòng với kết quả bốc thăm World Cup</a>
+                                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/bong-da-trong-nuoc/hlv-u20-viet-nam-hai-long-voi-ket-qua-boc-tham-world-cup-3555722.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555722"></span></a>                            </h2>
+                        </li>
+                                                <li class="end">
+                            <h2 class="title_news">
+                                <a class="txt_link" href="http://thethao.vnexpress.net/tin-tuc/champions-league/atletico-vao-tu-ket-champions-league-lan-thu-tu-lien-tiep-3555971.html" title="Atletico vào tứ kết Champions League lần thứ tư liên tiếp">Atletico vào tứ kết Champions League lần thứ tư liên tiếp</a>
+                                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://thethao.vnexpress.net/tin-tuc/champions-league/atletico-vao-tu-ket-champions-league-lan-thu-tu-lien-tiep-3555971.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555971"></span></a>                            </h2>
+                        </li>
+                                        </ul>
+            </div>
+        </div>
+    </div>
+    <div class="box_category width_common hidden320">
+    <div class="banner_160x600 left">
+        <script type="text/javascript">try {Poly_Big(2);}catch(ex){};</script>    </div>
+</div></div>
+</div>    <div class="banner_980x60">
+        <div class="box_category width_common hidden320">
+            <script type="text/javascript">try {Poly_Footer();}catch(ex){};</script>        </div>
+    </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div id="wrapper_footer">
+                <div class="go_head">
+                    <a style="border-right: medium none navy;" href="http://vnexpress.net">Trang chủ</a>
+                    <div class="right">
+                        <a href="javascript:;" id="aSetHomePage" class="sethomepage" style="display: none;"><span class="icon_responsive ico_respone_01"><i class="ic ic-m-home"></i></span>Đặt VnExpress làm trang chủ</a>
+                        <a href="javascript:;" id="aSetHomePageIE" onclick="thethao.setHomepage();"><span class="icon_responsive ico_respone_01"><i class="ic ic-m-home"></i></span>Đặt VnExpress làm trang chủ</a>
+                        <a onclick="return common.scrollToTop();" href="#"><span class="icon_responsive ico_respone_02"><i class="ic ic-arrow-up"></i></span>Về đầu trang</a>
+                    </div>
+                    <div class="clear">&nbsp;</div>
+                </div>
+                <div id="footer">
+                    <div class="footerMenu">
+                        <div class="lineFmenu">
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a class="mnu_thoisu" href="http://vnexpress.net/tin-tuc/thoi-su">Thời sự</a></h2></li>
+                                <li class="liFirst"><h2><a class="mnu_gocnhin" href="http://vnexpress.net/tin-tuc/goc-nhin">Góc nhìn</a></h2></li>
+                                <li class="liFirst"><h2><a class="mnu_phapluat" href="http://vnexpress.net/tin-tuc/phap-luat">Pháp luật</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a class="mnu_giaoduc" href="http://vnexpress.net/tin-tuc/giao-duc">Giáo dục</a></h2></li>
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/tin-tuc/the-gioi" class="mnu_thegioi">Thế giới</a></h2></li>
+                                <li class="liFirst family"><h2><a class="mnu_doisong" href="http://giadinh.vnexpress.net">Gia đình</a></h2></li>                                
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst business"><h2><a class="mnu_kinhdoanh" href="http://kinhdoanh.vnexpress.net">Kinh doanh</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa">Hàng hóa</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep">Doanh nghiệp</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank">Ebank</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst entertainment"><h2><a class="mnu_giaitri" href="http://giaitri.vnexpress.net">Giải trí</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://giaitri.vnexpress.net/tin-tuc/gioi-sao">Giới sao</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://giaitri.vnexpress.net/tin-tuc/thoi-trang">Thời trang</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://giaitri.vnexpress.net/tin-tuc/phim">Phim</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst sporting"><h2><a class="mnu_thethao" href="/">Thể thao</a></h2></li>
+                                <li class="liFollow"><h2><a href="/tin-tuc/bong-da">Bóng đá</a></h2></li>
+                                <li class="liFollow"><h2><a href="/tin-tuc/tennis">Tennis</a></h2></li>
+                                <li class="liFollow"><h2><a href="/tin-tuc/cac-mon-khac">Các môn khác</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a class="mnu_video" href="http://video.vnexpress.net">Video</a></h2></li>
+                                <li class="liFirst"><h2><a class="mnu_anh" href="http://vnexpress.net/tin-tuc/anh">Ảnh</a></h2></li>
+                                <li class="liFirst"><h2><a class="mnu_info" href="http://vnexpress.net/infographics">Infographics</a></h2></li>                                
+                            </ul>
+                        </div>
+                        <div class="lineFmenu">
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a class="mnu_suckhoe" href="http://suckhoe.vnexpress.net">Sức khỏe</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://suckhoe.vnexpress.net/tin-tuc/cac-benh">Các bệnh</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://suckhoe.vnexpress.net/tin-tuc/khoe-dep">Khỏe đẹp</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://suckhoe.vnexpress.net/tin-tuc/dinh-duong">Dinh dưỡng</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst dulich">
+                                    <h2><a class="mnu_dulich" href="http://dulich.vnexpress.net">Du lịch</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://dulich.vnexpress.net/tin-tuc/viet-nam">Việt Nam</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://dulich.vnexpress.net/tin-tuc/quoc-te">Quốc tế</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://dulich.vnexpress.net/tin-tuc/cong-dong">Cộng đồng</a></h2>
+                                </li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst digitizing">
+                                    <h2><a class="mnu_sohoa" href="http://sohoa.vnexpress.net">Số hóa</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://sohoa.vnexpress.net/tin-tuc/san-pham">Sản phẩm</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://sohoa.vnexpress.net/danh-gia">Đánh giá</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so">Đời sống số</a></h2>
+                                </li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst">
+                                    <h2><a class="mnu_xe" href="http://vnexpress.net/tin-tuc/oto-xe-may">Xe</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://vnexpress.net/tin-tuc/oto-xe-may/tu-van">Tư vấn</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://vnexpress.net/tin-tuc/oto-xe-may/thi-truong">Thị trường</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://vnexpress.net/tin-tuc/oto-xe-may/dien-dan">Diễn đàn</a></h2>
+                                </li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst">
+                                    <h2><a class="mnu_raovat" href="http://raovat.vnexpress.net" target="_blank">Rao vặt</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://raovat.vnexpress.net/mua-ban-nha-dat" target="_blank">Mua bán nhà đất</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://raovat.vnexpress.net/thue-nha-dat" target="_blank">Cho thuê nhà đất</a></h2>
+                                </li>
+                                <li class="liFollow">
+                                    <h2><a href="http://raovat.vnexpress.net/oto" target="_blank">Mua bán ô tô</a></h2>
+                                </li>
+                            </ul>
+                            <ul class="ulBlockMenu ulMainMenu">
+                                <li class="liFirst">
+                                    <h2><a class="mnu_khoahoc" href="http://vnexpress.net/tin-tuc/khoa-hoc">Khoa học</a></h2>
+                                </li>
+                                <li class="liFirst">
+                                    <h2><a class="mnu_bandoc" href="http://vnexpress.net/tin-tuc/cong-dong">Cộng đồng</a></h2>
+                                </li>
+                                <li class="liFirst">
+                                    <h2><a class="mnu_tamsu" href="http://vnexpress.net/tin-tuc/tam-su">Tâm sự</a></h2>
+                                </li>
+                                <li class="liFirst">
+                                    <h2><a class="mnu_cuoi" href="http://vnexpress.net/tin-tuc/cuoi">Cười</a></h2>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <ul class="list_menu_small">
+                        <li><a href="http://vnexpress.net">Trang chủ</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/thoi-su">Thời sự</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/goc-nhin">Góc nhìn</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/the-gioi">Thế giới</a></li>
+                        <li><a href="http://kinhdoanh.vnexpress.net">Kinh doanh</a></li>
+                        <li><a href="http://giaitri.vnexpress.net">Giải trí</a></li>
+                        <li><a href="/">Thể thao</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/phap-luat">Pháp luật</a></li>
+                        <li><a href="http://giadinh.vnexpress.net">Giáo dục</a></li>
+                        <li><a href="http://suckhoe.vnexpress.net">Sức khỏe</a></li>
+                        <li><a href="http://giadinh.vnexpress.net">Gia đình</a></li>
+                        <li><a href="http://dulich.vnexpress.net">Du lịch</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/khoa-hoc">Khoa học</a></li>
+                        <li><a href="http://sohoa.vnexpress.net">Số hóa</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/oto-xe-may">Xe</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cong-dong">Cộng đồng</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/tam-su">Tâm sự</a></li>
+                        <li><a href="http://video.vnexpress.net">Video</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/anh">Ảnh</a></li>
+                        <li><a href="http://vnexpress.net/infographics">Infographics</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cuoi">Cười</a></li>
+                        <li><a href="http://raovat.vnexpress.net">Rao vặt</a></li>
+                    </ul>
+                    <div class="ft-bot">
+                        <div class="ft-botl">
+                            <a href="http://vnexpress.net" title="vnexpress logo"><img src="http://st.f1.vnecdn.net/responsive/i/v41/graphics/img_logo_vne.jpg" alt="vnexpress logo" /></a>
+                        </div>
+                        <div class="ft-botm txt_666">
+                            <p>&copy; <span>Copyright 1997 VnExpress.net,</span>  All rights reserved.</p>
+                            <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+                        </div>
+                        <div class="ft-botr">
+                            <p><a href="http://vnexpress.net/tuyen-dung.html">VnExpress tuyển dụng</a> <a href="http://vnexpress.net/lien-he-quang-cao/">Liên hệ quảng cáo</a> / <a href="http://vnexpress.net/lien-he-toa-soan/?p=thethao">Liên hệ Tòa soạn</a></p>
+                            <p><a href="http://vnexpress.net/contact.htm" target="_blank" style="color: #686E7A;font: 11px arial;padding: 0 4px;text-decoration: none;">Thông tin Tòa soạn.</a> <span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP HCM)</p>
+                        </div>
+                        <div class="coppy_right_small">
+                            <div class="tttoasoan">
+                                <div class="txt_up width_common">
+                                    <div class="width_50 "><a href="http://vnexpress.net/lien-he-toa-soan/?p=thethao"><img src="http://st.f1.thethao.vnecdn.net/i/v2/icons/hotline.gif" alt="" />Liên hệ Toà soạn</a></div>
+                                    <div class="width_50"><a href="http://vnexpress.net/contact.htm" target="_blank"><img src="http://st.f1.thethao.vnecdn.net/i/v2/icons/icon_thongtintoasoan.gif" alt="" />Thông tin Toà soạn</a></div>
+                                </div>
+                                <div class="txt_down width_common">
+                                    <div class="width_50 "><b>0123.888.0123</b> (HN) </div>
+                                    <div class="width_50"><b>0129.233.3555</b> (TP HCM)</div>
+                                </div>
+                            </div>
+                            <div class="coppy_right">
+                                <p>&copy; <span>Copyright 1997 VnExpress.net,</span>  All rights reserved.</p>
+                                <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="block_close_menu">&nbsp;</div>
+        </div>
+        <a href="javascript:;" id="to_top"><i class="ic ic-arrow-up"></i></a>
+		<div class="clear"></div>
+                <script type="text/javascript">
+            var PageHot = 0,
+                PAGE_FOLDER = 1002619,
+                PAGE_DETAIL = 0;
+            $(function(){
+                if(typeof(Parser) != "undefined"){
+                    Parser.SITE_URL = "http://vnexpress.net";
+                    Parser.URL = "http://st.f2.vnecdn.net/responsive/j/v16";
+                    Parser.FLASH_URL = "http://st.f1.thethao.vnecdn.net/f/v1";
+                    Parser.SITE_ID = 1002565;
+                    Parser.AUTO_PLAY = 1;
+                    Parser.parseAll();
+                }
+            });
+        </script>
+        <script src="http://st.f3.thethao.vnecdn.net/j/v28/thethao.js"></script>
+        <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/utils/calendar/calendar.js"></script>        <script src="http://st.f2.vnecdn.net/responsive/j/v16/interactions/cmt.widget.js" async></script>
+        <script src="https://stmy.vnexpress.net/myvne/j/v4/myvne_users.js"></script>
+        <script src="https://stmy.vnexpress.net/myvne/j/v4/plugins/vne.js"></script>
+        <script id="image_load_ajax" type="text/x-handlebars-template">
+            <div style="text-align: center;"><p style="padding: 25px 0;"><img src="http://st.f1.thethao.vnecdn.net/i/v2/graphics/icon-loading.gif"></p></div>
+        </script>
+                    <script src="http://st.core.polyad.net/Ads.js"></script>
+                            <script src="http://st.polyad.net/Vals/50/0/1002619/Val.js"></script>
+                            <script type="text/javascript">
+                    try {Poly_showads();}catch(ex){};
+                </script>
+                <script type="text/javascript">
+            if (Math.random() < 0.5) {
+                (function() {
+                    var el = document.createElement('script');
+                    el.type = 'text/javascript';
+                    el.async = true;
+					el.defer = true;
+                    el.src = 'http://js.knowlead.io/dmpcollector.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(el, s);
+                })();
+            }
+        </script>        
+        		
+				 <script type="text/javascript">
+            (function() {
+                window._klDmp = window._klDmp || [];
+                window._klDmp.push(["_siteId:VNE2103"]);
+                window._klCookies = window._klCookies || [];
+                window._klCookies.push("fosp_aid");
+                window._klCookies.push("myvne_user_id");
+                var el = document.createElement('script');
+                el.type = 'text/javascript'; el.async = true;
+                el.src = 'http://js.knowlead.io/dmpcollector.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(el, s);
+            })();
+        </script>
+		    </body>
+</html>

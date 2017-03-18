@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+'Làm công chức mà giàu như vậy thì khó lắm' - VietnamNet
+</title><meta name="keywords" content="Đặng Quang Khoa,Nguyễn Sỹ Dũng,Trần Văn Thông,Bạt Tuấn,Huy Phúc,Đức Yên,Xuân Quý,Trần Quang,Phạm Huyền,Thu Hồng,Nguyễn Văn Thanh,Lê Anh Dũng,thành kiến,Hồ Thị Kim Thoa,tư lợi,phòng chống tham nhũng,biến chất,văn phòng quốc hội,nhà lập pháp,mua cổ phần,may mặc" /><meta name="description" content="Làm công chức mà giàu như vậy thì khó lắm, các vị khách bình luận tiếp chủ đề &quot;quan chức giàu có, tiền từ đâu ra?&quot; tại Góc nhìn thẳng và đề nghị, cần tôn vi..." />
+<link rel="canonical" href="http://www.baomoi.com/lam-cong-chuc-ma-giau-nhu-vay-thi-kho-lam/c/21792602.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792602" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792602" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/goc-nhin-thang/quan-chuc-giau-co-can-giu-long-tin-nhu-con-nguoi-cua-mat-minh-361958.html");
+else
+window.location.replace("http://www.baomoi.com/lam-cong-chuc-ma-giau-nhu-vay-thi-kho-lam/c/21792602.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

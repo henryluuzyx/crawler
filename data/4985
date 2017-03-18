@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Món ngon mỗi ngày: Đổi vị cuối tuần với sườn non rang muối - VietQ
+</title><meta name="keywords" /><meta name="description" content="Nếu bạn đã quá quen thuộc với món sườn xào chua ngọt hay sườn ninh măng thì hãy thử đổi vị với món ngon sườn non rang muối, vừa dễ làm lại lạ miệng." />
+<link rel="canonical" href="http://www.baomoi.com/mon-ngon-moi-ngay-doi-vi-cuoi-tuan-voi-suon-non-rang-muoi/c/21792807.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792807" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792807" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietq.vn/mon-ngon-moi-ngay-doi-vi-cuoi-tuan-voi-suon-non-rang-muoi-d117304.html");
+else
+window.location.replace("http://www.baomoi.com/mon-ngon-moi-ngay-doi-vi-cuoi-tuan-voi-suon-non-rang-muoi/c/21792807.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

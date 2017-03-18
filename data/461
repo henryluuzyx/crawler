@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trồng củ 'trắng vỏ đỏ lòng': Con thích mê, bố mẹ ăn miễn chê - Dân Việt
+</title><meta name="keywords" content="thu hoạch,chế biến,Nga" /><meta name="description" content="Nhờ &quot;ngoại hình&quot; tròn trịa bên ngoài và sắc hồng đỏ siêu bắt mắt bên trong, những củ cải mini &quot;trắng vỏ đỏ lòng&quot; không những &quot;được lòng&quot; các thành viên nhí ..." />
+<link rel="canonical" href="http://www.baomoi.com/trong-cu-trang-vo-do-long-con-thich-me-bo-me-an-mien-che/c/21792686.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792686" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792686" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/nha-nong/trong-cu-trang-vo-do-long-con-thich-me-bo-me-an-mien-che-754081.html");
+else
+window.location.replace("http://www.baomoi.com/trong-cu-trang-vo-do-long-con-thich-me-bo-me-an-mien-che/c/21792686.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

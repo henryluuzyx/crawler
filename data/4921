@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+“Quảng Bình trong lòng Hà Nội” - Thanh Tra
+</title><meta name="keywords" content="Quảng Bình,hồ Hoàn Kiếm,Lý Thái Tổ,xúc tiến,new york times,quảng bá,trưng bày,bình chọn,châu á,Hà Nội,UBND tỉnh Quảng Bình,việt nam,Tân Nhàn,Tượng Đài Lý Thái Tổ,Thành Lê,Trọng Tấn,đường bay Quảng Bình,Chiang Mai,kích cầu,Triển lãm trưng bày,Cát Bi" /><meta name="description" content="Đây là chương trình quảng bá văn hóa, du lịch do Bộ Thông tin và Truyền thông (TT&amp;TT) phối hợp với Bộ Văn hóa, Thể thao và Du lịch (VHTT&amp;DL), UBND tỉnh Quản..." />
+<link rel="canonical" href="http://www.baomoi.com/quang-binh-trong-long-ha-noi/c/21787039.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21787039" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21787039" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhtra.com.vn/van-hoa-giai-tri/du-lich/quang-binh-trong-long-ha-noi_t114c24n116396");
+else
+window.location.replace("http://www.baomoi.com/quang-binh-trong-long-ha-noi/c/21787039.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

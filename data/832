@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả - Một Thế Giới
+</title><meta name="keywords" content="Sông Lam Nghệ An,Sài Gòn FC,sân Thống Nhất,Nghệ An,Hoàng Anh Gia Lai,sân Vinh,thi đấu,Quế Ngọc Hải,Đoàn Nguyên Đức,Công Phượng,Nguyễn Đức Thắng,fan,chiến thắng,đoàn kết,Anh" /><meta name="description" content="Không chỉ HAGL cần có ít nhất một trận hòa để lấy lại niềm tin nơi khán giả mà ngay cả chủ nhà SLNA cũng cần có chiến thắng để củng cố lòng tin nơi người hâ..." />
+<link rel="canonical" href="http://www.baomoi.com/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/c/21793229.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793229" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793229" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://motthegioi.vn/the-thao-c-71/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia-58916.html");
+else
+window.location.replace("http://www.baomoi.com/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/c/21793229.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

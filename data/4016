@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trưng bày bản đồ, tư liệu về Hoàng Sa, Trường Sa tại Đồng Tháp - Tin Tức TTXVN
+</title><meta name="keywords" content="công viên Văn Miếu,Trường Sa,Hoàng Sa,quần đảo hoàng sa,Cao Lãnh,Trần Đức Anh Sơn,trưng bày,khai phá,Đồng Tháp,khai mạc,tham quan,biển Đông,lý thường kiệt,Nghĩa tình Hoàng Sa,Xã hội Đà Nẵng,xã hội chủ nghĩa,Hải đảo Việt Nam,Nguyễn Văn Trí,Nguyễn Chu Hồi,bảo vệ,a-tlát" /><meta name="description" content="Từ ngày 10 - 14/3, tại Công viên Văn Miếu - Lý Thường Kiệt, thành phố Cao Lãnh, tỉnh Đồng Tháp, Bộ Thông tin và Truyền thông phối hợp Ủy ban nhân dân tỉnh Đ..." />
+<link rel="canonical" href="http://www.baomoi.com/trung-bay-ban-do-tu-lieu-ve-hoang-sa-truong-sa-tai-dong-thap/c/21734970.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21734970" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21734970" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/bien-dao-viet-nam/trung-bay-ban-do-tu-lieu-ve-hoang-sa-truong-sa-tai-dong-thap-20170310213320393.htm");
+else
+window.location.replace("http://www.baomoi.com/trung-bay-ban-do-tu-lieu-ve-hoang-sa-truong-sa-tai-dong-thap/c/21734970.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

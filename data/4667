@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mỹ hết kiên nhẫn với Triều Tiên - NLĐ
+</title><meta name="keywords" content="triều tiên,Bình Nhưỡng,ngoại giao,hàn quốc,Mỹ,Trung Quốc,washington,bắc kinh,cộng hòa dân chủ nhân dân triều tiên,kêu gọi,Rex Tillerson,lên án,ngoại trưởng mỹ,trừng phạt,Phạm Nghĩa,Associated Press,phát biểu,phiền hà,cam kết,trả đũa,cách tiếp cận" /><meta name="description" content="Ngoại trưởng Mỹ Rex Tillerson hôm 17-3 cho biết Washington đang xem xét lựa chọn quân sự để chống lại CHDCND Triều Tiên." />
+<link rel="canonical" href="http://www.baomoi.com/my-het-kien-nhan-voi-trieu-tien/c/21791957.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791957" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791957" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://nld.com.vn/thoi-su-quoc-te/my-het-kien-nhan-voi-trieu-tien-20170317182758173.htm");
+else
+window.location.replace("http://www.baomoi.com/my-het-kien-nhan-voi-trieu-tien/c/21791957.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

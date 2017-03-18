@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tạm đình chỉ cô giáo đánh học sinh nhập viện vì điểm kém - Doanh Nghiệp
+</title><meta name="keywords" content="Quang Thị Hương,Tiểu học Diên Lãm,Phạm Trường Sơn,Nguyễn Thị Châu,Quỳ Châu,ĐT huyện Quỳ Châu,tường trình,Nghệ An,đình chỉ,nhập viện,Huyện Quỳ Châu,Zing.vn" /><meta name="description" content="Hơn 20 học sinh có bài kiểm tra đạt điểm kém bị cô giáo dùng thước nhựa đánh. Một em bị đánh vào đầu, sau đó nôn mửa, phải nhập viện..." />
+<link rel="canonical" href="http://www.baomoi.com/tam-dinh-chi-co-giao-danh-hoc-sinh-nhap-vien-vi-diem-kem/c/21792972.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792972" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792972" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://doanhnghiepvn.vn/tam-dinh-chi-co-giao-danh-hoc-sinh-nhap-vien-vi-diem-kem-d94707.html");
+else
+window.location.replace("http://www.baomoi.com/tam-dinh-chi-co-giao-danh-hoc-sinh-nhap-vien-vi-diem-kem/c/21792972.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhà báo Mỹ cảnh báo về tổ chức mới nguy hiểm hơn IS - Phụ Nữ News
+</title><meta name="keywords" content="Cao nguyên Golan,Syria,Mặt Trận Nusra,khủng bố,New York Daily News,al-qaeda,giam cầm,Daily Star,IS,giam giữ,paris,thổ nhĩ kỳ,liên hợp quốc,london,gia nhập,vnexpress,châu âu,Mỹ" /><meta name="description" content="Nhà báo Mỹ từng bị bị al-Qaeda giam cầm cho biết nhiều nhóm phiến quân mới nổi ở Syria sở hữu nhiều vũ khí và nguy hiểm hơn tổ chức Nhà nước Hồi giáo tự xưn..." />
+<link rel="canonical" href="http://www.baomoi.com/nha-bao-my-canh-bao-ve-to-chuc-moi-nguy-hiem-hon-is/c/21759202.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21759202" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21759202" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/tin-tuc/nha-bao-my-canh-bao-ve-to-chuc-moi-nguy-hiem-hon-is-143728/");
+else
+window.location.replace("http://www.baomoi.com/nha-bao-my-canh-bao-ve-to-chuc-moi-nguy-hiem-hon-is/c/21759202.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

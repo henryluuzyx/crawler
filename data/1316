@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" lang="vi"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>C&#225;c ng&#244;i trường danh tiếng</title><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><title>
+Du Học - Dân trí
+</title><meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" /><link href="https://dantri4.vcmedia.vn/web_css/duhoc.main.1.0.css" rel="stylesheet" type="text/css" />
+
+<script src="https://dantri3.vcmedia.vn/Scripts/duhoc.main.1.0.js"></script>
+<script>
+function setCookieForMobile(cname, cvalue, exdays) {
+var d = new Date();
+d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+var expires = "expires=" + d.toUTCString();
+document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function CheckMobileRedirect() {
+try {
+//check session on client
+if (typeof (Storage) !== "undefined") {
+var session = sessionStorage.getItem("VisitSession");
+if (session == null) {
+//phien lam viec moi
+sessionStorage.setItem("VisitSession", "1");
+
+var hash = window.location.hash;
+if (hash == "#first") {
+//link được redirect từ bản mobile sang thì không làm gì.
+window.history.replaceState("", "", window.location.href.split('#')[0]);
+} else {
+//nếu không phải link đá từ mobile thì remove cookie ở đây.
+setCookieForMobile("browser", "", -1);
+//reload lại trang để hệ thống chuyển về bản mobile.
+window.location = window.location.href;
+}
+} else {
+//van dang o phien lam viec cu thi khong lam gi.  
+}
+}
+} catch (e) { }
+}
+CheckMobileRedirect();
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-12366027-9', 'auto');
+ga('send', 'pageview');
+
+ga('create', 'UA-4263013-51', 'auto', { 'name': 'dh_vcc' });
+ga('dh_vcc.send', 'pageview');
+
+ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+ga('dtonly.send', 'pageview');
+
+ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+ga('dtboo.send', 'pageview');
+
+ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+ga('totaldt.send', 'pageview');
+
+</script>
+ <script type="text/javascript">var _ADM_Channel='%2Fdu-hoc%2Fcac-ngoi-truong-danh-tieng%2F';</script>
+<script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+
+  
+
+ <!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17793284" });
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link href="http://m.dantri.com.vn/du-hoc/cac-ngoi-truong-danh-tieng.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/du-hoc/cac-ngoi-truong-danh-tieng.htm" rel="alternate" media="handheld" /><link href="http://duhoc.dantri.com.vn/du-hoc/cac-ngoi-truong-danh-tieng.htm" rel="canonical" /></head>
+<body>
+<form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="cac-ngoi-truong-danh-tieng" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="752" />
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="752" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="752" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="C&#225;c ng&#244;i trường danh tiếng" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ1MTAyMDIyMWRk6ezMeR4I5ICP1/o4pv6B+ZFRe41bwVIQcDeBY4/BBCU=" />
+</div>
+
+<div id="wrap">
+
+<div id="header">
+<div class="logo "><a class="sprite" href="/" title="Du học"></a></div>
+<div class="box-search" style="visibility: hidden;">
+<div class="container">
+<input type="text" id="txtSearch" class="txt-search" onkeypress="return SearchKeyPress(event)" />
+<img onclick="return OnSearchClick()" src="/Images/blank.gif"/>
+</div>
+</div>
+</div>
+
+<div class="adv-header">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_221.ads"></script>
+</div>
+
+<div id="menu">
+<ul>
+<li><a target="_blank" href="http://dantri.com.vn" title="Trang chủ Dân Trí"><span>Trang chủ</span></a></li>
+<li class="home">
+<a class="sprite" title="Du Học" href="/"><span>Du Học</span></a>
+</li>
+<li>
+<a title="Cơ hội du học" href="/du-hoc/co-hoi-du-hoc.htm"><span>Cơ hội du học</span></a>
+</li>
+<li>
+<h1><a title="Thế giới du học" class="active" href="/du-hoc/the-gioi-du-hoc.htm"><span>Thế giới du học</span></a></h1>
+</li>
+<li>
+<a title="Tài trí Việt" href="/du-hoc/tai-tri-viet.htm"><span>Tài trí Việt</span></a> 
+</li>
+<li>
+<a title="Cẩm nang - Hỏi đáp" href="/du-hoc/cam-nang-hoi-dap.htm"><span>Cẩm nang - Hỏi đáp</span></a> 
+</li>
+<li>
+<a title="Các ngôi trường danh tiếng" href="/du-hoc/cac-ngoi-truong-danh-tieng.htm"><span>Các ngôi trường danh tiếng</span></a>  
+
+</li>
+<li>
+<a title="Góc chia sẻ" href="/du-hoc/goc-chia-se.htm"><span>Góc chia sẻ</span></a>  
+ 
+</li>
+</ul>
+</div>
+<style type="text/css">#menu ul .home a{ height: auto !important;}</style>
+
+
+<div id="container" class="clearfix">
+
+<div id="container" class="clearfix">
+<div id="column-left-list">
+
+
+<div class="list">
+
+<div class="item">
+<a href="/du-hoc/cuoc-song-xa-hoa-lac-thu-trong-ngoi-truong-dep-nhu-mo-o-anh-20161210111645522.htm" alt="Anh" title="Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh"><img alt="Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh" width="193px" src="https://dantri.vcmedia.vn/zoom/327_245/2016/cambridge3-1481343036853-crop-1481343305659.jpg"/></a>
+<h3>
+<a title="Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh" href="/du-hoc/cuoc-song-xa-hoa-lac-thu-trong-ngoi-truong-dep-nhu-mo-o-anh-20161210111645522.htm">Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh <img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp;</a></h3>
+<p>
+Những sự thật thú vị về Đại học Cambridge (Anh) sẽ khiến bạn muốn tới đây ít nhất một lần trong đời.</p>
+</div>
+
+
+<div class="item">
+<a href="/du-hoc/ky-tuc-xa-sang-chanh-nhu-khach-san-cua-sinh-vien-my-20160902224952295.htm" alt="Anh" title="K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ"><img alt="K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/hathu3-1472831263606.jpg"/></a>
+
+<h3>
+<a title="K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ" href="/du-hoc/ky-tuc-xa-sang-chanh-nhu-khach-san-cua-sinh-vien-my-20160902224952295.htm">K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ </a></h3>
+<p>
+Những căn phòng ký túc xá này được trang trí lộng lẫy đến mức ai nhìn cũng ao ước.</p>
+</div>
+
+<div class="item">
+<a href="/cac-ngoi-truong-danh-tieng/vai-phut-tro-chuyen-cung-tan-hieu-truong-cua-truong-quan-tri-va-kinh-te-solvay-brussels-viet-nam-20160614111625131.htm" alt="Anh" title="V&#224;i ph&#250;t tr&#242; chuyện c&#249;ng t&#226;n hiệu trưởng của trường quản trị v&#224; kinh tế Solvay Brussels Việt Nam"><img alt="V&#224;i ph&#250;t tr&#242; chuyện c&#249;ng t&#226;n hiệu trưởng của trường quản trị v&#224; kinh tế Solvay Brussels Việt Nam" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/img20160614111417245.jpg"/></a>
+
+<h3>
+<a title="V&#224;i ph&#250;t tr&#242; chuyện c&#249;ng t&#226;n hiệu trưởng của trường quản trị v&#224; kinh tế Solvay Brussels Việt Nam" href="/cac-ngoi-truong-danh-tieng/vai-phut-tro-chuyen-cung-tan-hieu-truong-cua-truong-quan-tri-va-kinh-te-solvay-brussels-viet-nam-20160614111625131.htm">V&#224;i ph&#250;t tr&#242; chuyện c&#249;ng t&#226;n hiệu trưởng của trường quản trị v&#224; kinh tế Solvay Brussels Việt Nam </a></h3>
+<p>
+Bước sang năm thứ 21 hoạt động tại Việt Nam tổ chức chương trình cao học Việt Bỉ đào tạo nguồn nhân lực cao cấp, Trường QTKT Solvay Brussels thực hiên việc đổi mới chiến lược phát triển cho giai đoạn 10 năm tiếp theo và việc bổ nhiệm Giáo sư Michel Alle vào vị trí tân hiêu trưởng là bước đi đầu tiên thực hiện chiến lược đưa Solvay Brussels và cao học Việt Bỉ trở thành chương trình cao học hàng đầu tại Việt Nam và khu vực.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/chiem-nguong-top-10-cong-trinh-giao-duc-the-gioi-2014-1421266034.htm" alt="Anh" title="Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014"><img alt="Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/01/designboom070115b-7af2b.jpg"/></a>
+
+<h3>
+<a title="Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014" href="/du-hoc/chiem-nguong-top-10-cong-trinh-giao-duc-the-gioi-2014-1421266034.htm">Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014 <img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp;</a></h3>
+<p>
+(Dân trí) - Bên cạnh trường mầm non "Farming Kindergarten" tại Việt Nam, một số ngôi trường với kiến trúc hết sức độc đáo tại Úc, Trung Quốc hay Lebanon... cũng góp mặt trong top 10 công trình kiến trúc giáo dục thế giới năm 2014 của trang mạng kiến trúc nghệ thuật danh tiếng Designboom bình chọn.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/my-va-anh-tiep-tuc-ap-dao-top-10-truong-dai-hoc-tot-nhat-the-gioi-1411671258.htm" alt="Anh" title="Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới"><img alt="Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2014/09/havard-89be3.jpg"/></a>
+
+<h3>
+<a title="Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới" href="/du-hoc/my-va-anh-tiep-tuc-ap-dao-top-10-truong-dai-hoc-tot-nhat-the-gioi-1411671258.htm">Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới </a></h3>
+<p>
+(Dân trí) - Tổ chức giáo dục Quacquarelli Symonds (QS) vừa công bố bảng xếp hạng thường niên các trường đại học tốt nhất thế giới năm 2014. Theo đó, ngôi quán quân thuộc về Học viện danh tiếng Massachusetts Institute of Technology (MIT).</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/ust-truong-dai-hoc-hang-dau-han-quoc-1405489396.htm" alt="Anh" title="UST - Trường đại học h&#224;ng đầu H&#224;n Quốc"><img alt="UST - Trường đại học h&#224;ng đầu H&#224;n Quốc" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2014/07/uts1-c0c4c.jpg"/></a>
+
+<h3>
+<a title="UST - Trường đại học h&#224;ng đầu H&#224;n Quốc" href="/du-hoc/ust-truong-dai-hoc-hang-dau-han-quoc-1405489396.htm">UST - Trường đại học h&#224;ng đầu H&#224;n Quốc </a></h3>
+<p>
+(Dân trí) - Trường đại học UST (gần đây đổi tên thành Korea University of Science and Technology, website www.ust.ac.kr) được thành lập năm 2003 bởi chính phủ Hàn Quốc. UST là một trường quốc gia đặc biệt trong đào tạo khoa học, công nghệ và nghiên cứu của Hàn Quốc.</p>
+</div>
+
+<div class="item">
+<a href="/cac-ngoi-truong-danh-tieng/gioi-thieu-dai-hoc-vermont-noi-tieng-tai-my-1403505873.htm" alt="Anh" title="Giới thiệu đại học Vermont nổi tiếng tại Mỹ"><img alt="Giới thiệu đại học Vermont nổi tiếng tại Mỹ" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2014/06/uvt2-b74d7.jpg"/></a>
+
+<h3>
+<a title="Giới thiệu đại học Vermont nổi tiếng tại Mỹ" href="/cac-ngoi-truong-danh-tieng/gioi-thieu-dai-hoc-vermont-noi-tieng-tai-my-1403505873.htm">Giới thiệu đại học Vermont nổi tiếng tại Mỹ </a></h3>
+<p>
+Trường Đại học Vermont (UVM) là trường đầu ngành tại Mỹ về nghiên cứu, nổi tiếng với các khoá học danh tiếng về Kinh Doanh, Y Tế, Sinh học, Môi trường, Kỹ Thuật và nhiều lĩnh vực khác. </p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/dai-hoc-monash-giai-nhat-uc-ve-giao-duc-va-dao-tao-quoc-te-1388284505.htm" alt="Anh" title="Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế"><img alt="Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2013/12/a3-b5b3a.jpg"/></a>
+
+<h3>
+<a title="Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế" href="/du-hoc/dai-hoc-monash-giai-nhat-uc-ve-giao-duc-va-dao-tao-quoc-te-1388284505.htm">Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế </a></h3>
+<p>
+(Dân trí) - Sự sáng tạo và đổi mới trong chương trình đào tạo cùng với nhiều thành công lớn trong cộng đồng quốc tế về lĩnh vực giáo dục và đào tạo là một trong những yếu tố đưa Monash đến với danh hiệu “Giáo dục và Đào tạo Xuất sắc nhất Quốc gia” – được trao tặng bởi Thủ tướng Úc – Tony Abbot trong tháng 11 vừa qua.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/xep-hang-cac-truong-dai-hoc-tai-canada-1383111472.htm" alt="Anh" title="Xếp hạng c&#225;c trường Đại học tại Canada"><img alt="Xếp hạng c&#225;c trường Đại học tại Canada" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2013/10/a4-bc45c.jpg"/></a>
+
+<h3>
+<a title="Xếp hạng c&#225;c trường Đại học tại Canada" href="/du-hoc/xep-hang-cac-truong-dai-hoc-tai-canada-1383111472.htm">Xếp hạng c&#225;c trường Đại học tại Canada </a></h3>
+<p>
+(Dân trí) - Nếu bạn đang tìm kiếm cơ hội để học tại một trong những trường đại học hàng đầu Canada, thì một trong hai thành phố Toronto hay Montreal chắc chắn sẽ là sự lựa chọn của bạn. </p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/mo-vang-mang-ten-new-south-wales-va-dai-hoc-newcaslte-new-england-1382216748.htm" alt="Anh" title="“Mỏ v&#224;ng” mang t&#234;n New South Wales v&#224; đại học Newcaslte, New England"><img alt="“Mỏ v&#224;ng” mang t&#234;n New South Wales v&#224; đại học Newcaslte, New England" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2013/10/a2-e7f5b.jpg"/></a>
+
+<h3>
+<a title="“Mỏ v&#224;ng” mang t&#234;n New South Wales v&#224; đại học Newcaslte, New England" href="/du-hoc/mo-vang-mang-ten-new-south-wales-va-dai-hoc-newcaslte-new-england-1382216748.htm">“Mỏ v&#224;ng” mang t&#234;n New South Wales v&#224; đại học Newcaslte, New England </a></h3>
+<p>
+(Dân trí) - New South Wales (NSW) là bang “có tên tuổi” tại Úc về nhiều mặt. Thành phố đại diện, và là bộ mặt của NSW là TP Sydney nổi tiếng cả trong và ngoài nước Úc, với: “nhà sò”, Cảng Darling, khu trung tâm thương mại, khu China Town…và được xếp và danh sách TOP những thành phố đẹp nhất và có cuộc sống dễ chịu nhất thế giới.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/anh-my-van-thong-tri-bang-xep-hang-times-higher-education-2013-14-1381350779.htm" alt="Anh" title="Anh - Mỹ vẫn thống trị bảng xếp hạng Times Higher Education 2013-14"><img alt="Anh - Mỹ vẫn thống trị bảng xếp hạng Times Higher Education 2013-14" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2013/10/camb-8455d-1522a.jpg"/></a>
+
+<h3>
+<a title="Anh - Mỹ vẫn thống trị bảng xếp hạng Times Higher Education 2013-14" href="/du-hoc/anh-my-van-thong-tri-bang-xep-hang-times-higher-education-2013-14-1381350779.htm">Anh - Mỹ vẫn thống trị bảng xếp hạng Times Higher Education 2013-14 </a></h3>
+<p>
+(Dân trí) - Tạp chí Times Higher Education (THE) vừa công bố bảng xếp hạng các trường Đại học hàng đầu thế giới với nhiều thay đổi đáng chú ý so với năm ngoái. </p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/giao-duc-dai-hoc-cua-singapore-thang-hoa-tren-bang-xep-hang-the-gioi-2013-1380115980.htm" alt="Anh" title="Gi&#225;o dục Đại học của Singapore thăng hoa tr&#234;n bảng xếp hạng thế giới 2013"><img alt="Gi&#225;o dục Đại học của Singapore thăng hoa tr&#234;n bảng xếp hạng thế giới 2013" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2013/09/a1-f0e6c.jpg"/></a>
+
+<h3>
+<a title="Gi&#225;o dục Đại học của Singapore thăng hoa tr&#234;n bảng xếp hạng thế giới 2013" href="/du-hoc/giao-duc-dai-hoc-cua-singapore-thang-hoa-tren-bang-xep-hang-the-gioi-2013-1380115980.htm">Gi&#225;o dục Đại học của Singapore thăng hoa tr&#234;n bảng xếp hạng thế giới 2013 </a></h3>
+<p>
+(Dân trí) - Singapore từ lâu đã được biết đến như một đất nước có nền giáo dục đại học tiên tiến bậc nhất thế giới. Quốc đảo với dân số khiêm tốn khoảng 4 triệu nguời nhưng đã có tới 4 trường đại học lớn và rất nhiều trường đại học tư thục.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/rabun-gap-nacoochee-truong-tu-thuc-hang-dau-mien-nam-nuoc-my-1378732209.htm" alt="Anh" title="Rabun Gap Nacoochee - trường tư thục h&#224;ng đầu miền Nam nước Mỹ"><img alt="Rabun Gap Nacoochee - trường tư thục h&#224;ng đầu miền Nam nước Mỹ" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/kLmtCyYGgph1lHhk1u5h/Image/2013/09/Anh-3-b8c7a.jpg"/></a>
+
+<h3>
+<a title="Rabun Gap Nacoochee - trường tư thục h&#224;ng đầu miền Nam nước Mỹ" href="/du-hoc/rabun-gap-nacoochee-truong-tu-thuc-hang-dau-mien-nam-nuoc-my-1378732209.htm">Rabun Gap Nacoochee - trường tư thục h&#224;ng đầu miền Nam nước Mỹ </a></h3>
+<p>
+(Dân trí) - Rabun Gap Nacoochee School gọi tắt là Rabun Gap, là một trong những trường tư thục hàng đầu của miền Nam nước Mỹ dành cho học sinh từ lớp 5 đến lớp 12. </p>
+</div>
+
+</div>
+<script type="text/javascript" language="javascript">
+$('.list .item:last').addClass("last");
+</script>
+<div class="cat-trangsau">
+&nbsp;[ <a href="/du-hoc/cac-ngoi-truong-danh-tieng/trang-2.htm" title"sau">Trang sau</a> ]
+</div>
+<div id="ContentPlaceHolder1_ContentPlaceHolder1_List1_divBaiDaDang">
+
+<div class="oldernew">  
+<p>Các bài đã đăng</p>
+<ul>
+
+<li><a href="/du-hoc/dai-hoc-flinders-truong-diem-voi-chi-phi-mem-tai-nam-uc-1378175421.htm" title="Đại học Flinders, trường “điểm” với chi ph&#237; “mềm” tại Nam &#218;c">Đại học Flinders, trường “điểm” với chi ph&#237; “mềm” tại Nam &#218;c (28/8)</a></li>
+
+<li><a href="/du-hoc/hai-truong-dai-hoc-khu-vuc-uu-tien-tai-bang-queensland-uc-1377998908.htm" title="Hai trường đại học khu vực ưu ti&#234;n tại bang Queensland - &#218;c">Hai trường đại học khu vực ưu ti&#234;n tại bang Queensland - &#218;c (26/8)</a></li>
+
+<li><a href="/du-hoc/top-10-truong-dai-hoc-hang-dau-the-gioi-ve-y-khoa-1377950279.htm" title="Top 10 trường Đại học h&#224;ng đầu thế giới về Y khoa">Top 10 trường Đại học h&#224;ng đầu thế giới về Y khoa (26/8)</a></li>
+
+<li><a href="/du-hoc/nhom-truong-dai-hoc-khu-vuc-uu-tien-tai-uc-loi-ich-cho-du-hoc-sinh-1377450664.htm" title="Nh&#243;m trường Đại học khu vực ưu ti&#234;n tại &#218;c – Lợi &#237;ch cho du học sinh">Nh&#243;m trường Đại học khu vực ưu ti&#234;n tại &#218;c – Lợi &#237;ch cho du học sinh (20/8)</a></li>
+
+<li><a href="/du-hoc/sungkyunkwan-truong-dai-hoc-len-phim-1376179772.htm" title="SungkyunKwan - Trường đại học “l&#234;n phim”">SungkyunKwan - Trường đại học “l&#234;n phim” (5/8)</a></li>
+
+<li><a href="/du-hoc/top-10-dai-hoc-dung-dau-chau-a-ve-nghe-thuat-va-khoa-hoc-nhan-van-1375010708.htm" title="Top 10 đại học đứng đầu ch&#226;u &#193; về Nghệ thuật v&#224; Khoa học Nh&#226;n văn">Top 10 đại học đứng đầu ch&#226;u &#193; về Nghệ thuật v&#224; Khoa học Nh&#226;n văn (23/7)</a></li>
+
+<li><a href="/du-hoc/10-truong-dai-hoc-tot-nhat-chau-a-ve-khoa-hoc-xa-hoi-va-quan-ly-1373791729.htm" title="10 trường đại học tốt nhất ch&#226;u &#193; về Khoa học X&#227; hội v&#224; Quản l&#253;">10 trường đại học tốt nhất ch&#226;u &#193; về Khoa học X&#227; hội v&#224; Quản l&#253; (11/7)</a></li>
+
+<li><a href="/du-hoc/top-10-dai-hoc-chau-a-ve-khoa-hoc-tu-nhien-1373410164.htm" title="Top 10 đại học ch&#226;u &#193; về Khoa học tự nhi&#234;n">Top 10 đại học ch&#226;u &#193; về Khoa học tự nhi&#234;n (4/7)</a></li>
+
+<li><a href="/du-hoc/suyt-xoa-truoc-kien-truc-doc-dao-cua-thu-vien-dh-nghe-thuat-musashino-1372519991.htm" title="“Su&#253;t xoa” trước kiến tr&#250;c độc đ&#225;o của thư viện ĐH nghệ thuật Musashino">“Su&#253;t xoa” trước kiến tr&#250;c độc đ&#225;o của thư viện ĐH nghệ thuật Musashino (25/6)</a></li>
+
+<li><a href="/du-hoc/10-truong-dai-hoc-tot-nhat-anh-quoc-nam-2014-ky-4-1372284586.htm" title="10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 4)">10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 4) (21/6)</a></li>
+
+<li><a href="/du-hoc/10-truong-dai-hoc-tot-nhat-anh-quoc-nam-2014-ky-3-1372144289.htm" title="10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 3)">10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 3) (20/6)</a></li>
+
+<li><a href="/du-hoc/10-truong-dai-hoc-tot-nhat-anh-quoc-nam-2014-ky-2-1371826531.htm" title="10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 2)">10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 2) (16/6)</a></li>
+
+<li><a href="/cac-ngoi-truong-danh-tieng/10-truong-dai-hoc-tot-nhat-anh-quoc-nam-2014-ky-1-1371676526.htm" title="10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 1)">10 trường đại học tốt nhất Anh quốc năm 2014 (Kỳ 1) (14/6)</a></li>
+
+</ul>
+<input type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="" class="sprite xembaitheongaythang" id="viewbdate" />
+</div>
+</div>
+
+</div>
+<div id="column-right">
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+</div>
+
+<div class="boxrightcontent2 block">
+ 
+<p class="sprite header">
+<a href="/du-hoc/cam-nang-hoi-dap.htm" title="Cẩm nang - Hỏi đáp">Cẩm nang - Hỏi đáp</a></p>
+<div class="brc-container">
+<div class="brc-img"><div class="brc-img-top"><span></span></div><div class="brc-img-center"><a href="/du-hoc/sinh-vien-viet-bat-dau-tim-viec-o-nhat-kha-muon-do-thieu-thong-tin-20170110090633741.htm" title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin"><img alt="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" src="https://dantri.vcmedia.vn/zoom/273_204/2017/nhatban1-1484013830959.jpg" border="0px" width="273px" title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" /></a></div><div class="brc-img-bottom"><span></span></div></div>
+
+<h4>
+<a title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" href="/du-hoc/sinh-vien-viet-bat-dau-tim-viec-o-nhat-kha-muon-do-thieu-thong-tin-20170110090633741.htm">Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin</a></h4>
+<p class="sapo">
+
+</p>
+<ul>
+<li><i class="dotted sprite"></i><h4><a title="10 lời khuy&#234;n gi&#250;p bản CV của bạn th&#234;m &quot;long lanh&quot; trong mắt nh&#224; tuyển dụng" href="/du-hoc/10-loi-khuyen-giup-ban-cv-cua-ban-them-long-lanh-trong-mat-nha-tuyen-dung-2016110108305491.htm">10 lời khuy&#234;n gi&#250;p bản CV của bạn th&#234;m &quot;long lanh&quot; trong mắt nh&#224; tuyển dụng</a></h4></li><li><i class="dotted sprite"></i><h4><a title="Du học H&#224;n Quốc kh&#225;c biệt thế n&#224;o so với c&#225;c nước ch&#226;u &#194;u?" href="/du-hoc/du-hoc-han-quoc-khac-biet-the-nao-so-voi-cac-nuoc-chau-au-20161004073306704.htm">Du học H&#224;n Quốc kh&#225;c biệt thế n&#224;o so với c&#225;c nước ch&#226;u &#194;u?</a></h4></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+<div class="boxrightcontent5 block">
+<p class="sprite header"><a href="/du-hoc/goc-multimedia.htm" title="Góc Multimedia"><img src="/Images/blank.gif" border="0"/></a></p>
+<div class="brc-container">
+<div class="brc-img"><a href="/du-hoc/khoe-anh-cuoi-ngot-ngao-o-3-nuoc-tu-linh-mo-ve-mot-gia-dinh-nho-20170303124506059.htm" title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ"><img alt="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ" src="https://dantri.vcmedia.vn/zoom/273_204/2017/tulinh1-1488519632407-crop-1488551221194.png" border="0px" width="193px" title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ"/></a></div>
+
+<h4><a title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ" href="/du-hoc/khoe-anh-cuoi-ngot-ngao-o-3-nuoc-tu-linh-mo-ve-mot-gia-dinh-nho-20170303124506059.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ</a></h4>
+<ul>
+<li><i class="dotted sprite"></i><h4><a title="Nữ thạc sĩ 9X xinh đẹp trong t&#224; &#225;o d&#224;i đi lễ ch&#249;a đầu năm" href="/du-hoc/nu-thac-si-9x-xinh-dep-trong-ta-ao-dai-di-le-chua-dau-nam-20170211084500757.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Nữ thạc sĩ 9X xinh đẹp trong t&#224; &#225;o d&#224;i đi lễ ch&#249;a đầu năm</a></h4></li><li><i class="dotted sprite"></i><h4><a title="Hot girl c&#243; nụ cười “trẻ thơ” kể chuyện du học Mỹ" href="/nhip-song-tre/hot-girl-co-nu-cuoi-tre-tho-ke-chuyen-du-hoc-my-20170209000016635.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Hot girl c&#243; nụ cười “trẻ thơ” kể chuyện du học Mỹ</a></h4></li>
+</ul>
+</div>
+</div>
+
+<div class="tiemdiem2 block">
+<p class="sprite header"><img src="https://dantri3.vcmedia.vn/Images/duhoc/blank.gif" class="headerAvatar"/></p>
+<div class="container">
+
+<div class="item">
+<a href="/du-hoc/cuoc-song-xa-hoa-lac-thu-trong-ngoi-truong-dep-nhu-mo-o-anh-20161210111645522.htm" title="Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2016/cambridge3-1481343036853-crop-1481343305659.jpg"/ alt="Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh"></a>
+<h4><a href="/du-hoc/cuoc-song-xa-hoa-lac-thu-trong-ngoi-truong-dep-nhu-mo-o-anh-20161210111645522.htm" title="Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Cuộc sống xa hoa, lạc th&#250; trong ng&#244;i trường đẹp như mơ ở Anh</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/ky-tuc-xa-sang-chanh-nhu-khach-san-cua-sinh-vien-my-20160902224952295.htm" title="K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2016/hathu3-1472831263606.jpg"/ alt="K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ"></a>
+<h4><a href="/du-hoc/ky-tuc-xa-sang-chanh-nhu-khach-san-cua-sinh-vien-my-20160902224952295.htm" title="K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ"> K&#253; t&#250;c x&#225; sang chảnh như kh&#225;ch sạn của sinh vi&#234;n Mỹ</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/chiem-nguong-top-10-cong-trinh-giao-duc-the-gioi-2014-1421266034.htm" title="Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/01/designboom070115b-7af2b.jpg"/ alt="Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014"></a>
+<h4><a href="/du-hoc/chiem-nguong-top-10-cong-trinh-giao-duc-the-gioi-2014-1421266034.htm" title="Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Chi&#234;m ngưỡng top 10 c&#244;ng tr&#236;nh gi&#225;o dục thế giới 2014</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/my-va-anh-tiep-tuc-ap-dao-top-10-truong-dai-hoc-tot-nhat-the-gioi-1411671258.htm" title="Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/kLmtCyYGgph1lHhk1u5h/Image/2014/09/havard-89be3.jpg"/ alt="Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới"></a>
+<h4><a href="/du-hoc/my-va-anh-tiep-tuc-ap-dao-top-10-truong-dai-hoc-tot-nhat-the-gioi-1411671258.htm" title="Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới"> Mỹ v&#224; Anh tiếp tục &#225;p đảo Top 10 trường đại học tốt nhất thế giới</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/ust-truong-dai-hoc-hang-dau-han-quoc-1405489396.htm" title="UST - Trường đại học h&#224;ng đầu H&#224;n Quốc"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/kLmtCyYGgph1lHhk1u5h/Image/2014/07/uts1-c0c4c.jpg"/ alt="UST - Trường đại học h&#224;ng đầu H&#224;n Quốc"></a>
+<h4><a href="/du-hoc/ust-truong-dai-hoc-hang-dau-han-quoc-1405489396.htm" title="UST - Trường đại học h&#224;ng đầu H&#224;n Quốc"> UST - Trường đại học h&#224;ng đầu H&#224;n Quốc</a></h4>
+</div>
+
+<div class="item">
+<a href="/cac-ngoi-truong-danh-tieng/gioi-thieu-dai-hoc-vermont-noi-tieng-tai-my-1403505873.htm" title="Giới thiệu đại học Vermont nổi tiếng tại Mỹ"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/kLmtCyYGgph1lHhk1u5h/Image/2014/06/uvt2-b74d7.jpg"/ alt="Giới thiệu đại học Vermont nổi tiếng tại Mỹ"></a>
+<h4><a href="/cac-ngoi-truong-danh-tieng/gioi-thieu-dai-hoc-vermont-noi-tieng-tai-my-1403505873.htm" title="Giới thiệu đại học Vermont nổi tiếng tại Mỹ"> Giới thiệu đại học Vermont nổi tiếng tại Mỹ</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/dai-hoc-monash-giai-nhat-uc-ve-giao-duc-va-dao-tao-quoc-te-1388284505.htm" title="Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/kLmtCyYGgph1lHhk1u5h/Image/2013/12/a3-b5b3a.jpg"/ alt="Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế"></a>
+<h4><a href="/du-hoc/dai-hoc-monash-giai-nhat-uc-ve-giao-duc-va-dao-tao-quoc-te-1388284505.htm" title="Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế"> Đại học Monash - Giải nhất &#218;c về Gi&#225;o dục v&#224; Đ&#224;o tạo Quốc tế</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/xep-hang-cac-truong-dai-hoc-tai-canada-1383111472.htm" title="Xếp hạng c&#225;c trường Đại học tại Canada"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/kLmtCyYGgph1lHhk1u5h/Image/2013/10/a4-bc45c.jpg"/ alt="Xếp hạng c&#225;c trường Đại học tại Canada"></a>
+<h4><a href="/du-hoc/xep-hang-cac-truong-dai-hoc-tai-canada-1383111472.htm" title="Xếp hạng c&#225;c trường Đại học tại Canada"> Xếp hạng c&#225;c trường Đại học tại Canada</a></h4>
+</div>
+
+</div>
+</div>
+
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_366.ads"></script>
+</div>
+</div>
+<div id="column-right-list">
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_228.ads"></script>
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="footer">
+<div class="footer-logo"><a class="sprite" rel="nofollow" title="Du học" href="/"></a></div>
+<div class="footer-menu">
+<ul>
+<li><a rel="nofollow" title="Du học" href="/"><span>Du Học</span></a></li>
+<li><a rel="nofollow" title="Cơ hội du học" href="/du-hoc/co-hoi-du-hoc.htm"><span>Cơ hội du học</span></a></li>
+<li><a rel="nofollow" title="Thế giới du học" href="/du-hoc/the-gioi-du-hoc.htm"><span>Thế giới du học</span></a></li>
+<li><a rel="nofollow" title="Tài trí việt" href="/du-hoc/tai-tri-viet.htm"><span>Tài trí Việt</span></a></li>
+<li><a rel="nofollow" title="Cẩm nang hỏi đáp" href="/du-hoc/cam-nang-hoi-dap.htm"><span>Cẩm nang - Hỏi đáp</span></a></li>
+<li><a rel="nofollow" title="Các ngôi trường danh tiếng" href="/du-hoc/cac-ngoi-truong-danh-tieng.htm"><span>Các ngôi trường danh tiếng</span></a></li>
+<li class="last"><a rel="nofollow" title="Góc chia sẻ" href="/du-hoc/goc-chia-se.htm"><span>Góc chia sẻ</span></a></li>
+</ul>
+<p>Chuyên mục của báo Điện tử Dân trí</p>
+</div>
+</div>
+
+
+</div>
+
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="14DD91A0" />
+</div></form>
+</body>
+</html><!--u: 03/18/2017 08:27:49-->

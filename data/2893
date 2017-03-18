@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+VFF tiếc tiền, ĐTVN đá giao hữu Đài Bắc Trung Hoa ở Hàng Đẫy - VietnamNet
+</title><meta name="keywords" content="Kazuo Kuroda,Huang Chiu-Lin,Chen Sheng-Wei,Hung Tzu-Kuei,Jiang Sin-Long,Lee Hsiang-Wei,Lai Chih-Hsuan,Chao Ming-Hsiu,Chen Chia-Chun,Tseng Chih-Wei,Lee Pin-Hsien,Pai Shao-Yu,Wei Pei-Lun,Su De-Cai,Yen Tavio Yaki Aithamy,Chiu Yu-hung,Chan Che-Yuan,Kuroda Kazuo,Hirata Reiji,Oyaneder Gate Auritz,Li Wen-Tsai" /><meta name="description" content="VFF đã quyết định tổ chức trận đấu giao hữu giữa ĐTVN và Đài Bắc Trung Hoa trên sân Hàng Đẫy, thay vì ở Mỹ Đình vào ngày 22/3 tới như thường lệ. Nhưng, quyế..." />
+<link rel="canonical" href="http://www.baomoi.com/vff-tiec-tien-dtvn-da-giao-huu-dai-bac-trung-hoa-o-hang-day/c/21778823.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21778823" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21778823" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/the-thao/dtvn-da-giao-huu-my-dinh-nhuong-ca-hat-hlv-huu-thang-lo-mat-san-361664.html");
+else
+window.location.replace("http://www.baomoi.com/vff-tiec-tien-dtvn-da-giao-huu-dai-bac-trung-hoa-o-hang-day/c/21778823.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

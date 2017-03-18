@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Du lịch mùa này 'chuẩn' nhất chỉ có lên Đà Lạt ngắm phượng tím - Phụ Nữ News
+</title><meta name="keywords" content="Đà Lạt,Xuân Hương,Đường Nguyễn Thị Minh Khai,Hồ Xuân Hương,Bùi Thị Xuân,châu mỹ,miền nam,nguyễn thị minh khai,chia tay,internet,nghiên cứu" /><meta name="description" content="Còn gì tuyệt vời hơn khi sắc tím dịu dàng, lãng mạn giăng mắc trên mọi ngóc ngách của thành phố ngàn hoa?" />
+<link rel="canonical" href="http://www.baomoi.com/du-lich-mua-nay-chuan-nhat-chi-co-len-da-lat-ngam-phuong-tim/c/21768870.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21768870" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21768870" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/doi-song/du-lich-mua-nay-chuan-nhat-chi-co-len-da-lat-ngam-phuong-tim-144268/");
+else
+window.location.replace("http://www.baomoi.com/du-lich-mua-nay-chuan-nhat-chi-co-len-da-lat-ngam-phuong-tim/c/21768870.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Chảo lửa Deir Ezzor: Quân đội Syria bẻ gãy cuộc tấn công IS, diệt hàng chục chiến binh khủng bố - VietTimes
+</title><meta name="keywords" content="Deir Ezzor,Quân đội Syria,Nguyễn Thuận,IS,Deir ez-Zor,pháo binh Quân đội Syria,lực lượng vũ trang,Syria,phòng ngự,Không quân Syria,tập kích,pháo kích,ngăn chặn,giao chiến,chiến đấu,khủng bố,tự sát,tiêu diệt,phản công,căn cứ" /><meta name="description" content="Theo SANA dẫn nguồn tin quân sự từ Deir Ezzor, quân đội Syria đẩy lùi một số cuộc tấn công của lực lượng khủng bố IS trên vùng ngoại ô phía nam và phía tây ..." />
+<link rel="canonical" href="http://www.baomoi.com/chao-lua-deir-ezzor-quan-doi-syria-be-gay-cuoc-tan-cong-is-diet-hang-chuc-chien-binh-khung-bo/c/21793300.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793300" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793300" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://viettimes.vn/chao-lua-deir-ezzor-quan-doi-syria-be-gay-cuoc-tan-cong-is-diet-hang-chuc-chien-binh-khung-bo-113955.html");
+else
+window.location.replace("http://www.baomoi.com/chao-lua-deir-ezzor-quan-doi-syria-be-gay-cuoc-tan-cong-is-diet-hang-chuc-chien-binh-khung-bo/c/21793300.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

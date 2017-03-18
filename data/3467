@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Người phụ nữ ở Lâm Đồng nhận giải Jackpot hơn 41,6 tỷ đồng - VietnamPlus
+</title><meta name="keywords" content="thuế thu nhập cá nhân,thành phố hồ chí minh,Vietlott,chuyển khoản,Jackpot,Jackpot Mega 6/45,Lâm Đồng" /><meta name="description" content="Khách hàng trúng giải Jackpot trị giá hơn 41,6 tỷ đồng trong kỳ quay số mở thưởng ngày 19/2 đã đến chi nhánh Vietlott yêu cầu trả thưởng." />
+<link rel="canonical" href="http://www.baomoi.com/nguoi-phu-nu-o-lam-dong-nhan-giai-jackpot-hon-41-6-ty-dong/c/21699975.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21699975" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21699975" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/nguoi-phu-nu-o-lam-dong-nhan-giai-jackpot-hon-416-ty-dong/434339.vnp");
+else
+window.location.replace("http://www.baomoi.com/nguoi-phu-nu-o-lam-dong-nhan-giai-jackpot-hon-41-6-ty-dong/c/21699975.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

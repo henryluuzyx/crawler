@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Máy bay chở khách mất cánh quạt, hạ cánh khẩn cấp - VietQ
+</title><meta name="keywords" content="sân bay Sydney,máy bay chở khách,hạ cánh khẩn cấp,australia,Xuân Hồng" /><meta name="description" content="Vào chiều thứ 6, một chiếc máy bay chở khách đã phải hạ cánh khẩn cấp xuống sân bay ở Australia do một cánh quạt của nó bị rơi." />
+<link rel="canonical" href="http://www.baomoi.com/may-bay-cho-khach-mat-canh-quat-ha-canh-khan-cap/c/21793219.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793219" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793219" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietq.vn/may-bay-cho-khach-mat-canh-quat-ha-canh-khan-cap-d117383.html");
+else
+window.location.replace("http://www.baomoi.com/may-bay-cho-khach-mat-canh-quat-ha-canh-khan-cap/c/21793219.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

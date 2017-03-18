@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tặng quà cho nhân viên, doanh nghiệp phải khai thuế? - PLO
+</title><meta name="keywords" content="quyết toán,thuế thu nhập cá nhân,cục thuế,thu nhập chịu thuế,thuế thu nhập doanh nghiệp,VAT,Cục Thuế Tp.HCM,giải đáp,vướng mắc,căn cứ,Nguyễn Văn Thiện,vinh danh,đối thoại" /><meta name="description" content="Nhiều doanh nghiệp gặp khó khăn các thủ tục quyết toán thuế khi biếu tặng cho khách hàng, tổ chức tiệc cuối năm trao thưởng cho nhân viên." />
+<link rel="canonical" href="http://www.baomoi.com/tang-qua-cho-nhan-vien-doanh-nghiep-phai-khai-thue/c/21761470.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21761470" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21761470" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/kinh-te/tang-qua-cho-nhan-vien-doanh-nghiep-phai-khai-thue-688663.html");
+else
+window.location.replace("http://www.baomoi.com/tang-qua-cho-nhan-vien-doanh-nghiep-phai-khai-thue/c/21761470.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

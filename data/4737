@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Ông Donald Trump sẽ quyên góp toàn bộ lương tổng thống vào cuối năm - Gia Đình VN
+</title><meta name="keywords" content="Sean Spicer,Trump,Nhà Trắng,Donald Trump,Mỹ,đắc cử,reuters,Mỹ Donald Trump,người Mỹ,tranh cử,Thành phố New York,cam kết,bầu cử,Hillary Clinton,ước tính,CBS,bộ tài chính,Nguyễn Ngân,forbes" /><meta name="description" content="Người phát ngôn Nhà Trắng ngày 13/3 thông báo, Tổng thống Donald Trump sẽ quyên góp toàn bộ tiền lương của ông vào cuối năm nay như cam kết ông từng tuyên bố." />
+<link rel="canonical" href="http://www.baomoi.com/ong-donald-trump-se-quyen-gop-toan-bo-luong-tong-thong-vao-cuoi-nam/c/21763032.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21763032" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21763032" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.giadinhvietnam.com/tin-nhanh/ong-donald-trump-se-quyen-gop-toan-bo-luong-tong-thong-d109112.html");
+else
+window.location.replace("http://www.baomoi.com/ong-donald-trump-se-quyen-gop-toan-bo-luong-tong-thong-vao-cuoi-nam/c/21763032.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

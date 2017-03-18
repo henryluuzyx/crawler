@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khai mạc Triển lãm về Hoàng Sa, Trường Sa tại Bộ Tư lệnh Vùng cảnh sát biển 4 - Infonet
+</title><meta name="keywords" content="Trường Sa,Hoàng Sa,quần đảo hoàng sa,Hải đội Hoàng Sa,trưng bày,khai mạc,tham quan,bộ tư lệnh,nhận thức,3D,Nguyễn Văn Tạo,lực lượng vũ trang,bảo vệ,phát biểu,trình diễn,việt nam,Phú Quốc,Bình Minh,Kiên Giang,giáo dục" /><meta name="description" content="Lễ khai mạc Triển lãm bản đồ và trưng bày tư liệu “Hoàng Sa, Trường Sa của Việt Nam – Những bằng chứng lịch sử và pháp lý” do Bộ TT&amp;TT tổ chức vừa diễn ra c..." />
+<link rel="canonical" href="http://www.baomoi.com/khai-mac-trien-lam-ve-hoang-sa-truong-sa-tai-bo-tu-lenh-vung-canh-sat-bien-4/c/21792796.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792796" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792796" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://infonet.vn/khai-mac-trien-lam-ve-hoang-sa-truong-sa-tai-bo-tu-lenh-vung-canh-sat-bien-4-post223322.info");
+else
+window.location.replace("http://www.baomoi.com/khai-mac-trien-lam-ve-hoang-sa-truong-sa-tai-bo-tu-lenh-vung-canh-sat-bien-4/c/21792796.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

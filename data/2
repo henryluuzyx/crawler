@@ -1,0 +1,1600 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=100">
+		<meta http-equiv="REFRESH" content="1800" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+	<link rel="dns-prefetch" href="http://st.f3.vnecdn.net"/>
+	<link rel="dns-prefetch" href="http://st.f2.vnecdn.net"/>
+	<link rel="dns-prefetch" href="http://la.eclick.vn"/>
+	<link rel="dns-prefetch" href="http://usi.saas.vnexpress.net"/>
+	<link rel="dns-prefetch" href="//s.eclick.vn"/>
+	<link rel="dns-prefetch" href="//st.core.polyad.net"/>
+	<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+	<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+	<link rel="dns-prefetch" href="http://b.scorecardresearch.com"/>
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-title" content="e.vnexpress.net" />
+	<meta name="description" content="VnExpress International is a leading source for politics, economics, finance, travel &amp; food from Vietnam and ASEAN." >
+<meta name="keywords" content="vnexpress, vnexpress international, asian, asean, news, politics, economics, finance, travel, food, development, life, art, culture, data, vietnam, business" >		<meta name="tt_category_id" content="1003888" />
+	<meta name="tt_article_id" content="1003888" />
+	<meta name="tt_site_id" content="1003888" />
+	<meta name="tt_page_type" content="other" />
+		<meta property="og:url" itemprop="url" content="http://e.vnexpress.net" />
+        	<meta property="og:image" itemprop="thumbnailUrl" content="http://st.f1.en.vnecdn.net/i/v6/graphics/logo_site_share.png" />
+			<meta content="news" itemprop="genre" name="medium"/> 
+	<meta content="vi-VN" itemprop="inLanguage"/>             
+	<meta content="VnExpress International - Latest news, business, travel and analysis from Vietnam" itemprop="headline" property="og:title" /> 
+	<meta content="VnExpress International - Latest news, business, travel and analysis from Vietnam" itemprop="keywords" name="keywords"/>  
+	<meta content="" itemprop="articleSection"/>  
+	<meta content="VnExpress International – Latest news, business, travel and analysis from Vietnam" itemprop="sourceOrganization" name="source"/>  
+	<meta content="" itemprop="datePublished" name="pubdate"/>  
+	<meta content="" itemprop="dateModified" name="lastmod"/>  
+	<meta content="" itemprop="dateCreated"/>    
+	<meta content="article" property="og:type"/>  
+	<meta content="VnExpress International – Latest news, business, travel and analysis from Vietnam" property="og:site_name"/>
+			
+	<meta content="VnExpress International is a leading source for politics, economic, finance, travel & food from Vietnam and ASEAN." itemprop="description" property="og:description"/> 
+
+		<!-- iPad icons -->
+	<link rel="apple-touch-icon-precomposed" href="http://st.f1.en.vnecdn.net/i/v6/logos/72x72.png" sizes="72x72">
+	<link rel="apple-touch-icon-precomposed" href="http://st.f1.en.vnecdn.net/i/v6/logos/114x114.png" sizes="144x144">
+	<!-- iPhone and iPod touch icons -->
+	<link rel="apple-touch-icon-precomposed" href="http://st.f1.en.vnecdn.net/i/v6/logos/57x57.png" sizes="57x57">
+	<link rel="apple-touch-icon-precomposed" href="http://st.f1.en.vnecdn.net/i/v6/logos/114x114.png" sizes="114x114">
+	<!-- Nokia Symbian -->
+	<link rel="nokia-touch-icon" href="http://st.f1.en.vnecdn.net/i/v6/logos/57x57.png">
+	<!-- Android icon precomposed so it takes precedence -->
+	<link rel="apple-touch-icon-precomposed" href="http://st.f1.en.vnecdn.net/i/v6/logos/114x114.png" sizes="1x1">
+	<link rel="alternate" href=" http://e.vnexpress.net/" hreflang="vi-vn" />
+	<meta name="dc.created" content="2016-03-16" />
+	<meta name="dc.publisher" content="VnExpress" />
+	<meta name="dc.rights.copyright" content="VnExpress" />
+	<meta name="dc.creator.name" content="VnExpress" />
+	<meta name="dc.creator.email" content="international@vnexpress.net" />
+	<meta name="dc.identifier" content="http://e.vnexpress.net" />
+	<meta name="copyright" content="VnExpress" />
+	<meta name="author" content="VnExpress" />
+	<meta name="dc.language" content="EN" />
+	<meta name="robots" content="index,follow" />
+	<meta http-equiv="content-language" content="EN"/>
+	<meta name="geo.placename" content="Ha Noi, Viet Nam" />
+	<meta name="geo.region" content="VN-HN" />
+	<meta name="geo.position" content="21.030624;105.782431" />
+	<meta name="ICBM" content="21.030624, 105.782431" />
+	<meta property="fb:app_id" content="1547540628876392" />
+   <!-- Twitter Card -->
+	<meta name="twitter:card" value="summary_large_image">
+		<meta name="twitter:url" content="http://e.vnexpress.net">
+			<meta name="twitter:title" content="VnExpress International - Latest news, business, travel and analysis from Vietnam">
+			<meta name="twitter:description" content="VnExpress International is a leading source for politics, economic, finance, travel & food from Vietnam and ASEAN.">
+			<meta name="twitter:image" content="http://st.f1.en.vnecdn.net/i/v6/graphics/logo_site_share.png"/>
+		<meta name="twitter:site" content="@VnEnews">
+	<meta name="twitter:creator" content="@VnEnews">
+	<!-- End Twitter Card -->
+	    
+    <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-50285069-13', 'auto', {'name': 't0'});
+  		    
+	  ga('t0.send', 'pageview');
+	  
+</script>
+    <script>
+        var _siteId = "31";
+		/// track cu trang chu//
+	   (function(){
+		var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";
+		var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+    </script>
+    <!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PD4X6"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5PD4X6');</script>
+	<!-- End Google Tag Manager -->
+    
+    <!-- Google Tag Manager  -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3FNJF"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N3FNJF');</script>
+	<!-- End Google Tag Manager  -->
+    
+		<script language="javascript" type="text/javascript">
+    	 var interactions_url    = 'http://usi.saas.vnexpress.net';
+    	 var base_url            = 'http://e.vnexpress.net';
+    	 var css_url             = 'http://st.f3.en.vnecdn.net/c/v7';
+    	 var js_url              = 'http://st.f2.en.vnecdn.net/j/v18';
+    	 var flash_url           = 'http://st.f1.en.vnecdn.net/f/v3';
+    	 var img_url             = 'http://st.f1.en.vnecdn.net/i/v6';    	 
+    	 var device_env          =  4;
+    	 var site_id             =  1003888;
+    	 var SITE_ID             =  1003888;
+    	 var PAGE_FOLDER         =  1003888;
+    	 var PAGE_DETAIL         =  0;  
+    	 document.domain = 'vnexpress.net';
+    </script>
+	<title>VnExpress International - Latest news, business, travel and analysis from Vietnam</title>    
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="http://st.f3.en.vnecdn.net/c/v7/font-awesome-4.4.0/css/font-awesome.min.css" media="all" />
+	<link rel="stylesheet" href="http://st.f3.en.vnecdn.net/c/v7/en_general.css" media="all" />
+		<link href="http://e.vnexpress.net" rel="canonical" >	<script type="text/javascript" src="http://st.f2.en.vnecdn.net/j/v18/libs/jquery-1.7.1.min.js"></script>	
+			
+	<script type="text/javascript" src="http://st.core.polyad.net/EngShowAds.js"></script>
+	     	</head>
+   	<body>     
+          <div id="menu_tablet" class="width_common visible_sm">
+    <div class="container">
+         <a href="/"><img src="http://st.f1.en.vnecdn.net/i/v6/graphics/Logo_mobile.png" alt="" class="logo_site_mobile" /></a>
+        <div class="txt_themost">The most read Vietnamese newspaper</div>
+    </div>
+	<div class="social_top_mobile">Follow us on&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.facebook.com/VnExpressInternational"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://twitter.com/vietnamenglish"><i class="fa fa-twitter"></i></a></div>
+    <div class="block_hamber_menu">
+      <div class="hamber"> <span>&nbsp;</span> <span>&nbsp;</span> <span>&nbsp;</span> </div>
+     
+    </div>
+    <div id="panel_menu_left">
+        <div class="login_mobile">
+            Edition: <a href="/" class="active">International</a>  &nbsp; | &nbsp; <a href="http://vnexpress.net/">Vietnamese</a>
+           <!--  <a href="#">Subscribe</a>
+            <a href="#"></a> -->
+        </div>
+    <!--<div class="search_menu_panel">
+            <input type="input" placeholder="Search" class="search_input">
+            <button class="btn_earch"><i class="fa fa-search"></i></button>
+    </div>-->
+        <div class="block_main_menu">
+            <div class="item_menu_mobile">
+                <a href="/" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_1', 'INT');">Home </a> 
+                
+            </div>
+                                                        <div class="item_menu_mobile ">
+                
+                    <a href="/news/news" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_2', 'INT');">News</a>
+                                                                                                <div class="show_sub_menu">
+                                <i class="fa fa-caret-down"></i>
+                            </div>
+                            
+                            <div style="display:none;" class="sub_menu_mobile">
+                                                                                                                                                                            <a class="" href="/news/news/perspectives" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_2_1', 'INT');">
+                                        Perspectives                                    </a>
+                                                            </div>
+                                            
+                </div>
+                                            <div class="item_menu_mobile ">
+                
+                    <a href="/news/business" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_3', 'INT');">Business</a>
+                                                                                                <div class="show_sub_menu">
+                                <i class="fa fa-caret-down"></i>
+                            </div>
+                            
+                            <div style="display:none;" class="sub_menu_mobile">
+                                                                                                                                        <a class="" href="/news/business/economy" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_3_1', 'INT');">
+                                        Economy                                    </a>
+                                                                                                                                            <a class="" href="/news/business/finance" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_3_2', 'INT');">
+                                        Finance                                    </a>
+                                                                                                                                                                                <a class="" href="/news/business/data-speaks" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_3_3', 'INT');">
+                                        DataSpeaks                                    </a>
+                                                            </div>
+                                            
+                </div>
+                                            <div class="item_menu_mobile ">
+                
+                    <a href="/news/travel-life" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_4', 'INT');">Travel & Life</a>
+                                                                                                <div class="show_sub_menu">
+                                <i class="fa fa-caret-down"></i>
+                            </div>
+                            
+                            <div style="display:none;" class="sub_menu_mobile">
+                                                                                                                                        <a class="" href="/news/travel-life/food" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_4_1', 'INT');">
+                                        Food                                    </a>
+                                                                                                        <a class="" href="/news/travel-life/culture-arts" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_4_2', 'INT');">
+                                        Culture & Arts                                    </a>
+                                                                                                        <a class="" href="/news/travel-life/travel" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_4_3', 'INT');">
+                                        Travel                                    </a>
+                                                                                                                                            <a class="" href="/news/travel-life/what-s-on" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_4_4', 'INT');">
+                                        What’s On                                    </a>
+                                                            </div>
+                                            
+                </div>
+                                            <div class="item_menu_mobile ">
+                
+                    <a href="/news/video" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_5', 'INT');">Video</a>
+                                                                                                <div class="show_sub_menu">
+                                <i class="fa fa-caret-down"></i>
+                            </div>
+                            
+                            <div style="display:none;" class="sub_menu_mobile">
+                                                                                                                                        <a class="" href="/news/video/business" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_5_1', 'INT');">
+                                        Business                                    </a>
+                                                                                                        <a class="" href="/news/video/travel-life" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_5_2', 'INT');">
+                                        Travel & Life                                     </a>
+                                                                                                        <a class="" href="/news/video/news" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_5_3', 'INT');">
+                                        News                                    </a>
+                                                            </div>
+                                            
+                </div>
+                                            <div class="item_menu_mobile ">
+                
+                    <a href="/news/world" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_6', 'INT');">World</a>
+                                                                                        
+                </div>
+                        <!-- <div class="block_down_app_menu">
+                Our Apps
+                <a href="#" class="btn_down_app">Download now</a>
+            </div> -->
+           <!--  <div class="item_menu_mobile item_sub_contactmenu">
+             <a href="/term_of_service.html">Terms & conditions</a> 
+            </div> -->
+            <!-- <div class="item_menu_mobile item_sub_contactmenu">
+                <a href="/privacy_policy.html">Privacy policy</a> 
+            </div> -->
+            <div class="item_menu_mobile item_sub_contactmenu end">
+                <a href="/contactus">Contact Us</a> 
+            </div>
+            <div class="coppy_right_panel_left">
+                <i class="fa fa-caret-down"></i>
+                © Copyright 1997 VnExpress.net, All rights reserved
+            </div>
+        </div> 
+    </div>
+        <div class="block_search_right_top">
+        <a href="javascript:;"><i class="fa fa-search"></i></a>
+    </div>
+        <div style="display: none" id="block_search_page" class="">
+        <div class="main_search_top box_relative row" id="searchTablet">
+            <form method="get" name="frmSearch" onsubmit="return ArticleShare.checkSearchTablet();" id="frmSearch" action="http://e.vnexpress.net/search/">
+                                <input type="text" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if(this.value == 'Search') {this.value = '';}" value="Search" class="input_search_page" id="q" name="q">
+                                <button class="btn_search_page" id="submitsearch">Go</button>
+                <i class="fa fa-times" id="vnexpress_clear_search_btn"></i>
+            </form>
+        </div>
+    </div>
+</div>  
+      <div id="page" class="homepage">
+	    <div class="row banner banner_toppage" style="height: 110px;">
+	        		 	<div id='TOP_BANNER'></div>
+		 			</div>
+  		<header class="row hidden_sm" id="wrapper_header">
+	        <div class="container">
+		      	<a href="http://e.vnexpress.net" class="left" alt="VnExpress International"><img src="http://st.f1.en.vnecdn.net/i/v6/graphics/logo_site.png" alt="VnExpress International"  class="logo_left"/></a>
+		        <div class="txt_themost">The most read Vietnamese newspaper</div>
+		        <div class="header_right">
+		             <div class="item_header_right">
+		            	<a href="javascript:;" id="internation_edition" alt="International Edition">International Edition <i class="fa fa-angle-down"></i></a>
+		                <div class="sub_header_right">
+		                	<i class="fa fa-caret-up"></i>
+		                	<a href="/" alt="International Edition">International Edition</a>
+		                    <a href="http://vnexpress.net/" alt="Vietnamese Edition">Vietnamese Edition</a>
+		                </div>
+		            </div>
+		            <!-- <a href="javascript:;" class="item_header_right"> Subcriber Now</a><span>|</span> -->
+		            <a href="http://e.vnexpress.net/contactus" class="item_header_right"> Contact us</a>
+					<span>|</span>
+					<span class="item_header_right txt_follow"> Follow us on</span>&nbsp;&nbsp;&nbsp;
+					<a target="_blank" href="https://www.facebook.com/VnExpressInternational"><i class="fa fa-facebook"></i></a>						&nbsp;&nbsp;&nbsp;
+					<a target="_blank" href="https://twitter.com/vietnamenglish"><i class="fa fa-twitter"></i></a>
+					
+		            <div class="search_right" id="search_right">
+		            	<form method="get" name="frmSearch" onsubmit="return ArticleShare.checkSearchVNE();" id="frmSearchVNE" action="http://e.vnexpress.net/search/">		            								
+							<input type="text" 
+								onblur="if (this.value == '') {this.value = 'Search';$('#submitsearchVNE').prop('disabled', false).find('i').prop({'style' : ''});}"
+                    		 	onfocus="if(this.value == 'Search') {this.value = '';}" 
+                    		 	onkeyup="ArticleShare.checkSearchVNE(this);"
+                    		 	value="Search" class="search_input" 
+                    		 	id="q" name="q" 
+                    		>
+							<button class="btn_earch" id="submitsearchVNE" disabled><i class="fa fa-search" style="color:#ccc"></i></button>
+						</form>	
+		            </div>
+	        </div>
+         	    <nav id="main_menu_web" class="row">
+    <h5 class="item_menu_left active"><a onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_1', 'INT');" href="http://e.vnexpress.net"><i
+                class="fa fa-home"></i></a></h5>
+            <h5 class="item_menu_left ">
+                        <a onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_2', 'INT');" class=""
+               href="/news/news">News</a>
+        </h5>
+            <h5 class="item_menu_left ">
+                        <a onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_3', 'INT');" class=""
+               href="/news/business">Business</a>
+        </h5>
+            <h5 class="item_menu_left ">
+                        <a onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_4', 'INT');" class=""
+               href="/news/travel-life">Travel & Life</a>
+        </h5>
+            <h5 class="item_menu_left ">
+                        <a onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_5', 'INT');" class=""
+               href="/news/video">Video</a>
+        </h5>
+            <h5 class="item_menu_left ">
+                        <a onclick ="ga('t0.send', 'event', 'Menu', 'Clk_Item_6', 'INT');" class=""
+               href="/news/world">World</a>
+        </h5>
+        <div class="borwse_section">
+        <a href="javascript:;" onclick ="ga('t0.send', 'event', 'Menu', 'Clk_All_Section', 'INT');" id="vnexpress_menu_all_selection"><i class="fa fa-bars"></i> Browse all section</a>
+    </div>
+    <div class="block_subbrowse_section">
+                    <div class="item_sub_browse">
+                <a class="parent_menu" href="/news/news">News</a>
+                                        <a href="/news/news/perspectives">Perspectives</a>
+                                    </div>
+                    <div class="item_sub_browse">
+                <a class="parent_menu" href="/news/business">Business</a>
+                                        <a href="/news/business/economy">Economy</a>
+                                                <a href="/news/business/finance">Finance</a>
+                                                <a href="/news/business/data-speaks">DataSpeaks</a>
+                                    </div>
+                    <div class="item_sub_browse">
+                <a class="parent_menu" href="/news/travel-life">Travel & Life</a>
+                                        <a href="/news/travel-life/food">Food</a>
+                                                <a href="/news/travel-life/culture-arts">Culture & Arts</a>
+                                                <a href="/news/travel-life/travel">Travel</a>
+                                                <a href="/news/travel-life/what-s-on">What’s On</a>
+                                    </div>
+                    <div class="item_sub_browse">
+                <a class="parent_menu" href="/news/video">Video</a>
+                                        <a href="/news/video/business">Business</a>
+                                                <a href="/news/video/travel-life">Travel & Life </a>
+                                                <a href="/news/video/news">News</a>
+                                    </div>
+                    <div class="item_sub_browse">
+                <a class="parent_menu" href="/news/world">World</a>
+                            </div>
+             </div>
+</nav> 
+	        </div>
+	  	</header>
+	  	        <section id="wrapper_container">
+        	 
+            <div class="container">
+                        
+                <div class="row line_topstory space_bottom_20">
+    <div class="row_col ">
+        <div class="top_grid">
+            <div class="col_220 col position_sm_2 full_width_sm" id="box_topstory_left">
+                <div class="content_block row">
+
+                    <div class="list_topstory_left">
+                                                    <div class="item_topstory_left">
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event', 'TopNews', 'Clk_TopNews_1', 'INT');" href="http://e.vnexpress.net/news/news/vietnam-tells-firms-to-stop-youtube-and-facebook-ads-3556445.html" title="Vietnam tells firms to stop YouTube and Facebook ads">Vietnam tells firms to stop YouTube and Facebook ads</a>
+                                </h4>
+
+                                <div class="lead_news_site">
+                                    The government wants to eliminate 'toxic, fake content' on Google and Facebook.                                </div>
+                                <div class="mask_under">1</div>
+                            </div>
+                                                    <div class="item_topstory_left">
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event', 'TopNews', 'Clk_TopNews_2', 'INT');" href="http://e.vnexpress.net/projects/kong-has-come-and-gone-now-what-3555266/index.html" title="Kong has come and gone, now what?">Kong has come and gone, now what?</a>
+                                </h4>
+
+                                <div class="lead_news_site">
+                                    Vietnam gave the Hollywood movie the ‘perfect’ set and it shouldn't go unnoticed.                                </div>
+                                <div class="mask_under">2</div>
+                            </div>
+                                                    <div class="item_topstory_left">
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event', 'TopNews', 'Clk_TopNews_3', 'INT');" href="http://e.vnexpress.net/news/news/disturbing-video-exposes-violent-feeding-at-saigon-kindergarten-3556341.html" title="Disturbing video exposes violent feeding at Saigon kindergarten">Disturbing video exposes violent feeding at Saigon kindergarten</a>
+                                </h4>
+
+                                <div class="lead_news_site">
+                                    Two women are seen slapping babies when they refuse to swallow food.                                </div>
+                                <div class="mask_under">3</div>
+                            </div>
+                                                    <div class="item_topstory_left">
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event', 'TopNews', 'Clk_TopNews_4', 'INT');" href="http://e.vnexpress.net/news/video/five-famous-films-set-in-vietnam-ranked-3555259.html" title="Five famous films set in Vietnam, ranked">Five famous films set in Vietnam, ranked</a>
+                                </h4>
+
+                                <div class="lead_news_site">
+                                    'Kong: Skull Island' is not the first flick that has captured the beauty of Vietnam.                                </div>
+                                <div class="mask_under">4</div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            <div class="col_700 col position_sm_1 full_width_sm" id="box_topstory_center">
+                <div class="hot_news_center row space_bottom_20">
+                     
+                                                <div class="thumb_size thumb_left">
+                            <a class="thumb_news_site thumb_5x3"
+                                style="background-image:url(http://img.f48.english.vnecdn.net/2017/03/16/Kong-1489657877_490x294.jpg)"
+                                href="http://e.vnexpress.net/news/travel-life/king-kong-in-vietnam-6-hilarious-internet-memes-that-you-need-to-see-3555730.html"
+                                title="King Kong in Vietnam: 6 hilarious internet memes that you need to see" onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_1', 'INT');"
+                            >
+                            </a>
+                                                    </div>
+                                                
+                        <div class="info_news_center">
+                            <h1 class="title_news_site">
+                                <a href="http://e.vnexpress.net/news/travel-life/king-kong-in-vietnam-6-hilarious-internet-memes-that-you-need-to-see-3555730.html" onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_1', 'INT');" title="King Kong in Vietnam: 6 hilarious internet memes that you need to see">King Kong in Vietnam: 6 hilarious internet memes that you need to see</a>
+                                <span class="no_wrap"></span>
+                                                            </h1>
+
+                            <h2 class="lead_news_site">'Kong by the Mekong' is clearly our favorite. What's yours?</h2>
+                        </div>
+                                    </div>
+                <div class="list_topstory_center row">
+                    <div class="row_col">
+                                                                                <div class="item_topstory_list_center">
+
+                                                                <div class="thumb_size thumb_left space_bottom_10">
+                                    <a class="thumb_news_site thumb_5x3"
+                                        style="background-image:url(http://img.f48.english.vnecdn.net/2017/03/17/HoiAn-1489740926-1728-1489740965_300x180.jpg)"
+                                        href="http://e.vnexpress.net/news/travel-life/travel/aussie-travel-blogger-in-cnn-ad-names-ha-long-hoi-an-her-vietnam-favorites-3556944.html"
+                                        title="Aussie travel blogger in CNN ad names Ha Long, Hoi An her Vietnam favorites" onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_2', 'INT');"
+                                    >
+                                    </a>
+                                                                    </div>
+                                
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_2', 'INT');" href="http://e.vnexpress.net/news/travel-life/travel/aussie-travel-blogger-in-cnn-ad-names-ha-long-hoi-an-her-vietnam-favorites-3556944.html" title="Aussie travel blogger in CNN ad names Ha Long, Hoi An her Vietnam favorites"> Aussie travel blogger in CNN ad names Ha Long, Hoi An her Vietnam favorites</a>
+                                    <span class="no_wrap"></span>
+                                </h4>
+
+                                <div class="lead_news_site">
+                                    ‘We loved them so much we can’t wait to go back.’                                </div>
+                            </div>
+                                                                                <div class="item_topstory_list_center">
+
+                                                                <div class="thumb_size thumb_left space_bottom_10">
+                                    <a class="thumb_news_site thumb_5x3"
+                                        style="background-image:url(http://img.f46.english.vnecdn.net/2017/03/17/buoivinasun29371489654487-1489-7513-8885-1489745746_300x180.jpg)"
+                                        href="http://e.vnexpress.net/news/business/saigon-cab-firm-takes-on-uber-with-unexpected-weapon-grapefruit-3557002.html"
+                                        title="Saigon cab firm takes on Uber with unexpected weapon: grapefruit" onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_3', 'INT');"
+                                    >
+                                    </a>
+                                                                    </div>
+                                
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_3', 'INT');" href="http://e.vnexpress.net/news/business/saigon-cab-firm-takes-on-uber-with-unexpected-weapon-grapefruit-3557002.html" title="Saigon cab firm takes on Uber with unexpected weapon: grapefruit"> Saigon cab firm takes on Uber with unexpected weapon: grapefruit</a>
+                                    <span class="no_wrap"></span>
+                                </h4>
+
+                                <div class="lead_news_site">
+                                    There's no need to be bitter when you can sell grapefruit to passengers.                                </div>
+                            </div>
+                                                                                <div class="item_topstory_list_center">
+
+                                                                <div class="thumb_size thumb_left space_bottom_10">
+                                    <a class="thumb_news_site thumb_5x3"
+                                        style="background-image:url(http://img.f46.english.vnecdn.net/2017/03/17/teavendorStill001Copy-1489740634_300x180.jpg)"
+                                        href="http://e.vnexpress.net/news/video/travel-life/a-hanoi-vendor-s-story-reveals-dilemma-for-sidewalk-cleanup-3556455.html"
+                                        title="A Hanoi vendor's story reveals dilemma for sidewalk cleanup" onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_4', 'INT');"
+                                    >
+                                    </a>
+                                                                    </div>
+                                
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event', 'TopStory', 'Clk_TopStory_4', 'INT');" href="http://e.vnexpress.net/news/video/travel-life/a-hanoi-vendor-s-story-reveals-dilemma-for-sidewalk-cleanup-3556455.html" title="A Hanoi vendor's story reveals dilemma for sidewalk cleanup"> A Hanoi vendor's story reveals dilemma for sidewalk cleanup</a>
+                                    <span class="no_wrap"></span>
+                                </h4>
+
+                                <div class="lead_news_site">
+                                    As many vulnerable lives continue to be tied to sidewalks, cleanup campaigns are exposing uncomfortable truths.                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="col_300 col hidden_sm full_width_sm">
+        <div class="box_item_topstory_right row space_bottom_20" id="box_most_read">
+
+                                <div class="tab_topstory_right">
+                    <a href="javascript:;" class="active">Most Read</a>
+                    <!-- <a href="#">Relative</a> -->
+                </div>
+                <div class="content_tab_most_read">
+                    <div class="nice_scroll" style="max-height:260px;">
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/five-famous-films-set-in-vietnam-ranked-3555259.html" title="Five famous films set in Vietnam, ranked" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_1', 'INT');">
+                                        Five famous films set in Vietnam, ranked                                    </a>
+                                </h4>
+                                <div class="number_most_read">1</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/should-you-stop-exercising-because-of-hanoi-s-pollution-3554651.html" title="Should you stop exercising because of Hanoi's pollution?" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_2', 'INT');">
+                                        Should you stop exercising because of Hanoi's pollution?                                    </a>
+                                </h4>
+                                <div class="number_most_read">2</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/hanoi-goes-global-cnn-broadcasts-the-best-of-vietnam-s-capital-3555216.html" title="Hanoi goes global: CNN broadcasts the best of Vietnam's capital" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_3', 'INT');">
+                                        Hanoi goes global: CNN broadcasts the best of Vietnam's capital                                    </a>
+                                </h4>
+                                <div class="number_most_read">3</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/kong-has-come-and-gone-now-what-3555266.html" title="Kong has come and gone, now what?" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_4', 'INT');">
+                                        Kong has come and gone, now what?                                    </a>
+                                </h4>
+                                <div class="number_most_read">4</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/vietnam-s-major-cities-rank-low-in-quality-of-life-calculation-3555503.html" title="Vietnam's major cities rank low in quality of life calculation" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_5', 'INT');">
+                                        Vietnam's major cities rank low in quality of life calculation                                    </a>
+                                </h4>
+                                <div class="number_most_read">5</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/travel-life/meet-the-vietnamese-man-who-went-through-excruciating-surgery-to-reach-new-heights-3555782.html" title="Meet the Vietnamese man who went through 'excruciating' surgery to reach new heights" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_6', 'INT');">
+                                        Meet the Vietnamese man who went through 'excruciating' surgery to reach new heights                                    </a>
+                                </h4>
+                                <div class="number_most_read">6</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/interactive/2017/eight-world-class-resorts-in-vietnam-that-could-cost-you-fortunes" title="Eight world-class resorts in Vietnam that could cost you fortunes" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_7', 'INT');">
+                                        Eight world-class resorts in Vietnam that could cost you fortunes                                    </a>
+                                </h4>
+                                <div class="number_most_read">7</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/the-long-lost-mickey-mouse-in-vietnam-film-disney-didn-t-want-you-to-see-3555132.html" title="The long-lost ‘Mickey Mouse in Vietnam’ film Disney didn't want you to see" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_8', 'INT');">
+                                        The long-lost ‘Mickey Mouse in Vietnam’ film Disney didn't want you to see                                    </a>
+                                </h4>
+                                <div class="number_most_read">8</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/ho-chi-minh-city-to-relocate-banished-street-food-vendors-3554339.html" title="Ho Chi Minh City to relocate banished street food vendors" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_9', 'INT');">
+                                        Ho Chi Minh City to relocate banished street food vendors                                    </a>
+                                </h4>
+                                <div class="number_most_read">9</div>
+                            </div>
+                         
+                            <div class="item_most_read">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/video/the-day-vietnam-lost-a-spratly-reef-to-china-3554895.html" title="The day Vietnam lost a Spratly reef to China" onclick ="ga('t0.send', 'event', 'Box_Most_Read', 'Clk_Item_10', 'INT');">
+                                        The day Vietnam lost a Spratly reef to China                                    </a>
+                                </h4>
+                                <div class="number_most_read">10</div>
+                            </div>
+                                            </div>
+                </div>
+
+            </div>
+            <div class="row space_bottom_20">
+           		 	<div id='LARGE_BANNER_1'></div>
+		 	           </div>
+        </div>
+    </div>
+</div>
+<div id="box_folder_politics" class="block_folder row">
+    <div class="title_block_folder row_col">
+        <div class="col_220 col block_folder_left">
+            <div class="folder_name">
+                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Title_box', 'INT');" href="/news/news" title="News">
+                    News                </a>
+            </div>
+        </div>
+        <div class="col_1020 col">
+            <div class="itemsub_folder">
+                       <!--  <a href="javascript:;" class="txt_hide_block updown_box_folder_politics" data-id="box_folder_politics">Hide <i class="fa fa-angle-up"></i> </a> -->
+            </div>
+        </div>
+    </div>
+    <div class="row_col content_box_folder content_box_folder_politics">
+        <div class="col_1020 col new full_width_sm">
+            <div class="row ">
+                <div class="row_col">  
+                    <div class="row">
+
+                                                    <div class="col_300 col box_news_border_title">
+
+                                                                <div class="thumb_size thumb_left">
+                                    <a class="thumb_news_site thumb_5x3"
+                                        style="background-image:url(http://img.f46.english.vnecdn.net/2017/03/17/9-7510-1489750035_300x180.jpg)"
+                                        href="http://e.vnexpress.net/news/news/hanoi-to-extinguish-sidewalk-cooking-fires-to-improve-city-s-image-3557032.html" 
+                                        title="Hanoi to extinguish sidewalk cooking fires to improve city's image" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_1', 'INT');"
+                                        >
+                                    </a>
+                                                                    </div>
+                                
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_1', 'INT');" href="http://e.vnexpress.net/news/news/hanoi-to-extinguish-sidewalk-cooking-fires-to-improve-city-s-image-3557032.html" title="Hanoi to extinguish sidewalk cooking fires to improve city's image">
+                                        Hanoi to extinguish sidewalk cooking fires to improve city's image                                    </a>
+                                </h4>
+
+                            </div>
+                        
+                        <div class="col_460 col">
+                            <div class="list_2item_news row_col space_bottom_20">
+                                                                     
+                                                                            <div class="item_list">
+                                            
+                                                                                        <div class="thumb_size thumb_left space_bottom_10">
+                                                <a class="thumb_news_site thumb_5x3"
+                                                    style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/17/1112903-1489755145-5545-1489755165_300x180.jpg)" 
+                                                    href="http://e.vnexpress.net/news/news/vietnamese-fishermen-return-home-after-24-hour-ordeal-adrift-at-sea-3557049.html"
+                                                    title="Vietnamese fishermen return home after 24 hour ordeal adrift at sea" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_2', 'INT');"
+                                                    >
+                                                </a>
+                                                                                            </div>
+                                            
+                                            <h4 class="title_news_site" title="Vietnamese fishermen return home after 24 hour ordeal adrift at sea">
+                                                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_2', 'INT');" href="http://e.vnexpress.net/news/news/vietnamese-fishermen-return-home-after-24-hour-ordeal-adrift-at-sea-3557049.html">Vietnamese fishermen return home after 24 hour ordeal adrift at sea</a>
+                                            </h4>
+                                            <div class="lead_news_site">
+                                                The fishermen fell overboard in the middle of rough seas and strong winds.                                            </div>
+                                        </div>
+                                                                                                                                                 
+                                                                            <div class="item_list">
+                                            
+                                                                                        <div class="thumb_size thumb_left space_bottom_10">
+                                                <a class="thumb_news_site thumb_5x3"
+                                                    style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/17/childsexualabused-1489752282_300x180.jpg)" 
+                                                    href="http://e.vnexpress.net/news/news/un-calls-for-action-over-drawn-out-child-sexual-abuse-cases-in-vietnam-3557034.html"
+                                                    title="UN calls for action over drawn-out child sexual abuse cases in Vietnam" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_3', 'INT');"
+                                                    >
+                                                </a>
+                                                                                            </div>
+                                            
+                                            <h4 class="title_news_site" title="UN calls for action over drawn-out child sexual abuse cases in Vietnam">
+                                                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_3', 'INT');" href="http://e.vnexpress.net/news/news/un-calls-for-action-over-drawn-out-child-sexual-abuse-cases-in-vietnam-3557034.html">UN calls for action over drawn-out child sexual abuse cases in Vietnam</a>
+                                            </h4>
+                                            <div class="lead_news_site">
+                                                The United Nations has raised concerns only four days after Vietnam’s president demanded answers on a prolonged child ...                                            </div>
+                                        </div>
+                                                                                                                                                 
+                                                                            <div class="item_list">
+                                            
+                                                                                        <div class="thumb_size thumb_left space_bottom_10">
+                                                <a class="thumb_news_site thumb_5x3"
+                                                    style="background-image:url(http://img.f48.english.vnecdn.net/2017/03/17/1-1489745911-4051-1489746059-8707-1489748797_300x180.jpg)" 
+                                                    href="http://e.vnexpress.net/news/news/brunei-seizes-10-vietnamese-fishermen-on-trespassing-charges-3557005.html"
+                                                    title="Brunei seizes 10 Vietnamese fishermen on trespassing charges" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_4', 'INT');"
+                                                    >
+                                                </a>
+                                                                                            </div>
+                                            
+                                            <h4 class="title_news_site" title="Brunei seizes 10 Vietnamese fishermen on trespassing charges">
+                                                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_4', 'INT');" href="http://e.vnexpress.net/news/news/brunei-seizes-10-vietnamese-fishermen-on-trespassing-charges-3557005.html">Brunei seizes 10 Vietnamese fishermen on trespassing charges</a>
+                                            </h4>
+                                            <div class="lead_news_site">
+                                                Each crew member faces up to one year imprisonment or a hefty fine.                                            </div>
+                                        </div>
+                                                                                                                                        </div>
+                        </div>
+                        <div class="col_220 col space_bottom_20">
+                            <div class="lits_news_dot_vne row">
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/news/man-arrested-in-high-profile-hanoi-child-sex-abuse-case-3556774.html" title="Man arrested in high-profile Hanoi child sex abuse case" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_4', 'INT');">
+                                        Man arrested in high-profile Hanoi child sex abuse case                                        </a>
+                                    </h4>
+                                </div>
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/news/vietnam-wants-its-internet-savvy-citizens-to-read-more-books-3556713.html" title="Vietnam wants its internet-savvy citizens to read more books" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_5', 'INT');">
+                                        Vietnam wants its internet-savvy citizens to read more books                                        </a>
+                                    </h4>
+                                </div>
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/news/vietnam-s-tourist-hotspots-join-wwf-s-global-climate-action-competition-3556545.html" title="Vietnam's tourist hotspots join WWF’s global climate action competition" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_6', 'INT');">
+                                        Vietnam's tourist hotspots join WWF’s global climate action competition                                        </a>
+                                    </h4>
+                                </div>
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/news/thai-woman-escapes-death-in-vietnam-gets-life-in-jail-for-heroin-smuggling-3556633.html" title="Thai woman escapes death in Vietnam, gets life in jail for heroin smuggling" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_7', 'INT');">
+                                        Thai woman escapes death in Vietnam, gets life in jail for heroin smuggling                                        </a>
+                                    </h4>
+                                </div>
+                                                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+    </div>
+
+</div><div id="box_folder_finance" class="block_folder row">
+    <div class="title_block_folder row_col">
+        <div class="col_220 col block_folder_left">
+            <div class="folder_name">
+                <a href="/news/business" title="Business" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Title_box', 'INT');" >
+                    Business                </a>
+            </div>
+        </div>
+        <div class="col_1020 col">
+            <div class="itemsub_folder">
+                            <a href="/news/business/economy" title="Economy" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Sub_Title_Box_1', 'INT');" >
+                    Economy                </a>
+                            <a href="/news/business/finance" title="Finance" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Sub_Title_Box_2', 'INT');" >
+                    Finance                </a>
+                            <a href="/news/business/data-speaks" title="DataSpeaks" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Sub_Title_Box_3', 'INT');" >
+                    DataSpeaks                </a>
+                        <!-- <a href="javascript:;" class="txt_hide_block updown_box_folder_finance" data-id="box_folder_finance">Hide <i class="fa fa-angle-up"></i> </a> -->
+            </div>
+        </div>
+    </div>
+    <div class="row_col content_box_folder content_box_folder_finance">
+        <div class="col_940 col full_width_sm">
+            <div class="row">
+                <div class="row_col">
+
+                                            <div class="col_300 col">
+                            <div class="news_noimage_style2 space_bottom_20">
+                                <h4 class="title_news_site">
+                                    <a href="http://e.vnexpress.net/news/business/harvest-rain-takes-the-flavor-out-of-vietnamese-coffee-crop-3556321.html" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_1', 'INT');">
+                                        Harvest rain takes the flavor out of Vietnamese coffee crop                                    </a>
+                                </h4>
+                                <div class="lead_news_site">
+                                    India's ban on Vietnamese coffee imports has triggered a holdup of shipments.                                </div>
+                            </div>
+                        </div>
+                                        
+                    <div class="col_600 col">
+                        <div class="list_2item_news row_col list_item_2row space_bottom_20">
+                                                            <div class="item_list">
+                                    <div class="item_col_mid_finance">
+
+                                                                                <div class="thumb_size_70 thumb_right">
+                                            <a class="thumb_news_site thumb_1x1"
+                                                style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/16/VietnamCarindustry-1489660729_122x122.jpg)" 
+                                                href="http://e.vnexpress.net/news/business/vietnam-driven-to-protect-domestic-automobile-industry-3556385.html"
+                                                title="Vietnam driven to protect domestic automobile industry" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_2', 'INT');"
+                                                >
+                                                                                        </a>
+                                        </div>
+                                                                                
+                                        <h4 class="title_news_site">
+                                            <a href="http://e.vnexpress.net/news/business/vietnam-driven-to-protect-domestic-automobile-industry-3556385.html" title="Vietnam driven to protect domestic automobile industry" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_2', 'INT');">
+                                                Vietnam driven to protect domestic automobile industry                                            </a>
+                                        </h4>
+                                        <div class="lead_news_site">
+                                             A middle-class population and falling tariffs on car imports are the main drivers behind Vietnam’s car market.                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="item_list">
+                                    <div class="item_col_mid_finance">
+
+                                                                                <div class="thumb_size_70 thumb_right">
+                                            <a class="thumb_news_site thumb_1x1"
+                                                style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/16/s4reutersmedianet-1489650837_122x122.jpg)" 
+                                                href="http://e.vnexpress.net/news/business/vietnam-s-banking-cleanup-efforts-recoup-18-percent-of-toxic-debts-3556242.html"
+                                                title="Vietnam's banking cleanup efforts recoup 18 percent of toxic debts" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_3', 'INT');"
+                                                >
+                                                                                        </a>
+                                        </div>
+                                                                                
+                                        <h4 class="title_news_site">
+                                            <a href="http://e.vnexpress.net/news/business/vietnam-s-banking-cleanup-efforts-recoup-18-percent-of-toxic-debts-3556242.html" title="Vietnam's banking cleanup efforts recoup 18 percent of toxic debts" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_3', 'INT');">
+                                                Vietnam's banking cleanup efforts recoup 18 percent of toxic debts                                            </a>
+                                        </h4>
+                                        <div class="lead_news_site">
+                                             The country may need $25 billion to clear toxic debts off bank books.                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="item_list">
+                                    <div class="item_col_mid_finance">
+
+                                                                                <div class="thumb_size_70 thumb_right">
+                                            <a class="thumb_news_site thumb_1x1"
+                                                style="background-image:url(http://img.f48.english.vnecdn.net/2017/03/16/Vietnamcoffeeexports-1489651906_122x122.jpg)" 
+                                                href="http://e.vnexpress.net/news/business/firming-prices-may-sink-vietnam-s-robusta-shipments-despite-fed-rate-hike-3556207.html"
+                                                title="Firming prices may sink Vietnam's robusta shipments despite Fed rate hike" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_4', 'INT');"
+                                                >
+                                                                                        </a>
+                                        </div>
+                                                                                
+                                        <h4 class="title_news_site">
+                                            <a href="http://e.vnexpress.net/news/business/firming-prices-may-sink-vietnam-s-robusta-shipments-despite-fed-rate-hike-3556207.html" title="Firming prices may sink Vietnam's robusta shipments despite Fed rate hike" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_4', 'INT');">
+                                                Firming prices may sink Vietnam's robusta shipments despite Fed rate hike                                            </a>
+                                        </h4>
+                                        <div class="lead_news_site">
+                                             Vietnam's coffee prices have risen 11 percent so far in the 2016/2017 crop year.                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="item_list">
+                                    <div class="item_col_mid_finance">
+
+                                                                                <div class="thumb_size_70 thumb_right">
+                                            <a class="thumb_news_site thumb_1x1"
+                                                style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/16/trade-1489627046-6124-1489627069_122x122.jpg)" 
+                                                href="http://e.vnexpress.net/news/business/pacific-trade-pact-countries-look-for-progressive-way-forward-3556024.html"
+                                                title="Pacific trade pact countries look for 'progressive' way forward" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_5', 'INT');"
+                                                >
+                                                                                        </a>
+                                        </div>
+                                                                                
+                                        <h4 class="title_news_site">
+                                            <a href="http://e.vnexpress.net/news/business/pacific-trade-pact-countries-look-for-progressive-way-forward-3556024.html" title="Pacific trade pact countries look for 'progressive' way forward" onclick ="ga('t0.send', 'event',  'Box_Business', 'Clk_Item_5', 'INT');">
+                                                Pacific trade pact countries look for 'progressive' way forward                                            </a>
+                                        </h4>
+                                        <div class="lead_news_site">
+                                             With the retreat of the United States, China appears to be the natural successor to lead discussions.                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                <div class="col_300 col hidden_sm">
+            <div class="row space_bottom_20" id="box_datablock"> 
+                <div class="content_block">
+                    <div class="title_box_myvn">
+                        <a href="/news/business/data-speaks" onclick ="ga('t0.send', 'event',  'Box_DataBlock', 'Clk_Title_box', 'INT');">
+                            DataSpeaks                        </a>
+                    </div>                               
+                    <h4 class="title_news_site">
+                        <a href="http://e.vnexpress.net/news/business/data-speaks/trump-s-immigration-rules-threaten-remittances-to-vietnam-3554066.html" title="Trump's immigration rules threaten remittances to Vietnam" onclick =" 'Box_DataBlock', 'Clk_Item_1', 'INT');">
+                            Trump's immigration rules threaten remittances to Vietnam                        </a>
+                    </h4>
+                </div>
+                <div class="thumb_size thumb_left">
+                    <a class="thumb_news_site thumb_5x3"
+                        style="background-image:url(http://img.f46.english.vnecdn.net/2017/03/12/centralbank-1489297559-8643-14-2880-9861-1489323201_300x180.jpg)"
+                        href="http://e.vnexpress.net/news/business/data-speaks/trump-s-immigration-rules-threaten-remittances-to-vietnam-3554066.html"
+                        title="Trump's immigration rules threaten remittances to Vietnam" onclick ="ga('t0.send', 'event', 'Box_DataBlock', 'Clk_Item_1', 'INT');"
+                    >
+                    </a>
+                </div> 
+            </div>
+        </div>
+        
+    </div>
+
+</div><div id="box_folder_travel_food" class="block_folder row">
+    <div class="title_block_folder row_col">
+        <div class="col_220 col block_folder_left">
+           <div class="folder_name">
+                <a href="/news/travel-life" title="Travel & Life" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Title_box', 'INT');">
+                    Travel & Life                </a>
+            </div>
+        </div>
+        <div class="col_1020 col">
+            <div class="itemsub_folder">
+                        <!-- <a href="javascript:;" class="txt_hide_block updown_box_folder_travel_food" data-id="box_folder_travel_food">Hide <i class="fa fa-angle-up"></i> </a> -->
+            </div>
+        </div>
+    </div>
+    <div class="row_col content_box_folder content_box_folder_travel_food" >
+                                <div id="box_tfood_top" class="col col_700 full_width_sm ipad">
+
+                <div class="hot_news_center row space_bottom_20">
+
+                                        <div class="thumb_size thumb_left">
+                        <a class="thumb_news_site thumb_5x3" 
+                            style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/17/Ward-1489726271-2131-1489738844_490x294.jpg)"
+                            href="http://e.vnexpress.net/news/travel-life/travel/man-who-s-just-visited-all-197-countries-make-sure-hanoi-is-on-your-route-plans-3556801.html"
+                            title="Man who’s just visited all 197 countries: ‘Make sure Hanoi is on your route plans’" onclick ="ga('t0.send', 'event', 'Box_Travel', 'Clk_Item_1', 'INT');"
+                        >
+                        </a>
+                                            </div>
+                    
+                    <div class="info_news_center">
+                        <h4 class="title_news_site">
+                            <a href="http://e.vnexpress.net/news/travel-life/travel/man-who-s-just-visited-all-197-countries-make-sure-hanoi-is-on-your-route-plans-3556801.html" title="Man who’s just visited all 197 countries: ‘Make sure Hanoi is on your route plans’" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Item_1', 'INT');">
+                                Man who’s just visited all 197 countries: ‘Make sure Hanoi is on your route plans’                            </a>
+                        </h4>
+                        <div class="lead_news_site"> 
+                            It has taken 10 years for Johnny Ward to complete his tour around the world – and he’s making all of us jealous.                        </div>
+                      
+                    </div>
+                </div>    
+            </div>
+                    
+            
+                    <div class="col_220 col full_haft_sm space_bottom_20 ">
+            <div class="news_noimage_sm">
+
+                                <div class="thumb_size thumb_left space_bottom_5">
+                    <a class="thumb_news_site thumb_5x3" 
+                        style="background-image:url(http://img.f46.english.vnecdn.net/2017/03/17/TuLan-1489733969-2639-1489735409_300x180.jpg)"
+                        href="http://e.vnexpress.net/news/travel-life/travel/kong-overkill-official-says-vietnam-must-rise-above-hollywood-movie-3556860.html"
+                        title="Kong overkill: Official says Vietnam must rise above Hollywood movie" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Item_2', 'INT');"
+                    >
+                                        </a>
+                </div>            
+                                            
+                <h4 class="title_news_site">
+                    <a href="http://e.vnexpress.net/news/travel-life/travel/kong-overkill-official-says-vietnam-must-rise-above-hollywood-movie-3556860.html" title="Kong overkill: Official says Vietnam must rise above Hollywood movie" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Item_2', 'INT');">
+                        Kong overkill: Official says Vietnam must rise above Hollywood movie                    </a>
+                </h4>
+                <div class="lead_news_site">
+                    ‘Don’t make Kong the icon of Quang Binh,’ Vietnam’s cave kingdom has been told.                </div>                      
+             </div>
+        </div>
+                
+                    <div id="box_tfood_top" class="col col_700 full_width_sm pc">
+
+                <div class="hot_news_center row space_bottom_20">
+
+                                        <div class="thumb_size thumb_left">
+                        <a class="thumb_news_site thumb_5x3" 
+                            style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/17/Ward-1489726271-2131-1489738844_490x294.jpg)"
+                            href="http://e.vnexpress.net/news/travel-life/travel/man-who-s-just-visited-all-197-countries-make-sure-hanoi-is-on-your-route-plans-3556801.html"
+                            title="Man who’s just visited all 197 countries: ‘Make sure Hanoi is on your route plans’" onclick ="ga('t0.send', 'event', 'Box_Travel', 'Clk_Item_1', 'INT');"
+                        >
+                        </a>
+                                            </div>
+                    
+                    <div class="info_news_center">
+                        <h4 class="title_news_site">
+                            <a href="http://e.vnexpress.net/news/travel-life/travel/man-who-s-just-visited-all-197-countries-make-sure-hanoi-is-on-your-route-plans-3556801.html" title="Man who’s just visited all 197 countries: ‘Make sure Hanoi is on your route plans’" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Item_1', 'INT');">
+                                Man who’s just visited all 197 countries: ‘Make sure Hanoi is on your route plans’                            </a>
+                        </h4>
+                        <div class="lead_news_site"> 
+                            It has taken 10 years for Johnny Ward to complete his tour around the world – and he’s making all of us jealous.                        </div>
+                      
+                    </div>
+                </div>    
+            </div>
+        
+        
+
+        <div class="col_300 col full_haft_sm space_bottom_20">
+           <!--  <div class="news_noimage">
+                <div class="item_list">
+                    <h4 class="title_news_site">
+                        <a href="http://e.vnexpress.net/news/travel-life/travel/kong-overkill-official-says-vietnam-must-rise-above-hollywood-movie-3556860.html" title="Kong overkill: Official says Vietnam must rise above Hollywood movie">
+                            Kong overkill: Official says Vietnam must rise above Hollywood movie                        </a>
+                    </h4>
+                    <div class="lead_news_site">
+                        ‘Don’t make Kong the icon of Quang Binh,’ Vietnam’s cave kingdom has been told.                    </div>                       
+                </div>
+            </div> -->
+            <div class="list_item_news space_bottom_20">
+                                <div class="item_list">
+                    <div class="item_col_mid_finance">
+                                                <div class="thumb_size_70 thumb_right">
+                            <a class="thumb_news_site thumb_1x1" 
+                                href="http://e.vnexpress.net/news/travel-life/in-pictures-the-best-of-vietnam-this-week-3556634.html"
+                                style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/17/1733240914711360562528086529694515899400192n-1489719464_122x122.jpg)"
+                                title="In pictures: The best of Vietnam this week" onclick ="ga('t0.send', 'event', 'Box_Travel', 'Clk_Item_3', 'INT');"
+                            >
+                            </a>
+                        </div>
+                        
+                        <h4 class="title_news_site">
+                            <a href="http://e.vnexpress.net/news/travel-life/in-pictures-the-best-of-vietnam-this-week-3556634.html" title="In pictures: The best of Vietnam this week" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Item_3', 'INT');">
+                                In pictures: The best of Vietnam this week                            </a>
+                        </h4>
+                        <div class="lead_news_site">
+                             Check out some of the most stunning Instagram photos of #Vietnam.                        </div>
+
+                   </div>
+                </div>  
+                                <div class="item_list">
+                    <div class="item_col_mid_finance">
+                                                <div class="thumb_size_70 thumb_right">
+                            <a class="thumb_news_site thumb_1x1" 
+                                href="http://e.vnexpress.net/news/travel-life/food/six-places-for-a-perfect-coffee-date-in-hanoi-3556435.html"
+                                style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/16/1-1489657156-6711-1489657237_122x122.jpg)"
+                                title="Six places for a perfect coffee date in Hanoi" onclick ="ga('t0.send', 'event', 'Box_Travel', 'Clk_Item_4', 'INT');"
+                            >
+                            </a>
+                        </div>
+                        
+                        <h4 class="title_news_site">
+                            <a href="http://e.vnexpress.net/news/travel-life/food/six-places-for-a-perfect-coffee-date-in-hanoi-3556435.html" title="Six places for a perfect coffee date in Hanoi" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Item_4', 'INT');">
+                                Six places for a perfect coffee date in Hanoi                            </a>
+                        </h4>
+                        <div class="lead_news_site">
+                             The top places to get your caffeine hit across the ancient capital.                        </div>
+
+                   </div>
+                </div>  
+                                <div class="item_list">
+                    <div class="item_col_mid_finance">
+                                                <div class="thumb_size_70 thumb_right">
+                            <a class="thumb_news_site thumb_1x1" 
+                                href="http://e.vnexpress.net/news/travel-life/travel/a-french-filmmaker-shows-the-best-part-of-vietnam-its-people-3556629.html"
+                                style="background-image:url(http://img.f46.english.vnecdn.net/2017/03/17/623332480-1489714240-1688-1489714460_122x122.jpg)"
+                                title="A French filmmaker shows the best part of Vietnam: its people" onclick ="ga('t0.send', 'event', 'Box_Travel', 'Clk_Item_5', 'INT');"
+                            >
+                            </a>
+                        </div>
+                        
+                        <h4 class="title_news_site">
+                            <a href="http://e.vnexpress.net/news/travel-life/travel/a-french-filmmaker-shows-the-best-part-of-vietnam-its-people-3556629.html" title="A French filmmaker shows the best part of Vietnam: its people" onclick ="ga('t0.send', 'event',  'Box_Travel', 'Clk_Item_5', 'INT');">
+                                A French filmmaker shows the best part of Vietnam: its people                            </a>
+                        </h4>
+                        <div class="lead_news_site">
+                             In his gorgeous 'A Thousand Smiles,' Fabien Ecochard distills his journey across the land of 'epic landscapes and ...                        </div>
+
+                   </div>
+                </div>  
+                
+            </div>
+        </div>
+        
+    </div>          
+</div><div id="box_folder_video" class="block_folder row">
+    <div class="title_block_folder row_col">
+        <div class="col_220 col block_folder_left">
+            <div class="folder_name">
+                <a href="/news/video" title="Video" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Title_box', 'INT');">
+                    Video                </a>
+            </div>
+        </div>
+        <div class="col_1020 col">
+            <div class="itemsub_folder">
+                        <!-- <a href="javascript:;" data-id="box_folder_video" class="txt_hide_block updown_box_folder_video">Hide <i class="fa fa-angle-up"></i> </a> -->
+            </div>
+        </div>
+    </div>
+    <div class="row_col content_box_folder content_box_folder_video">
+        <div class="col_940 col full_width_sm">
+            <div class="row space_bottom_20 bg_box_video" id="box_videohome">
+                <div class="col col_720">
+                    <div class="video_hot row">
+                        <div class="thumb_size thumb_left">
+                            <div class="embed-container">
+                                <iframe id="vnexpress_home_video_embed" src="http://e.vnexpress.net/parser_v3.php?id=126036&t=2&ft=video&si=1003888&ap=0&ishome=1&share_url=http://e.vnexpress.net/news/video/interpol-issues-red-notice-for-north-koreans-linked-to-kim-murder-3556869.html" frameborder="0" allowfullscreen=""></iframe>
+                            </div>
+                        </div>
+                      <!--   <div class="info_news_center">
+                            <h4 class="title_news_site"><a href="http://e.vnexpress.net/news/video/interpol-issues-red-notice-for-north-koreans-linked-to-kim-murder-3556869.html">Interpol issues 'red notice' for North Koreans linked to Kim murder</a></h4>
+                        </div>
+                        <div class="mask_video"></div> -->
+                    </div>
+                    <div class="description">
+										<div class="mota">
+											<p>The red alert follows the confirmation of Kim Jong-Nam's identity by Malaysian authorities on Wednesday.</p>
+											
+																						
+											<span class="date">March 17, 2017 | 02:48 pm GMT+7</span>
+										<div class="search">
+											<ul>
+												<li><a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fe.vnexpress.net%2Fnews%2Fvideo%2Finterpol-issues-red-notice-for-north-koreans-linked-to-kim-murder-3556869.html" rel="nofollow" onclick="return !window.open(this.href, 'Facebook', 'width=640,height=400')" target="_blank"><img src="http://st.f1.en.vnecdn.net/i/v6/graphics/face.png" alt=""></a></li>
+												<li><a target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fe.vnexpress.net%2Fnews%2Fvideo%2Finterpol-issues-red-notice-for-north-koreans-linked-to-kim-murder-3556869.html&text=Interpol issues 'red notice' for North Koreans linked to Kim murder - " rel="nofollow" onclick="return !window.open(this.href, 'Twitter', 'width=640,height=400')"><img src="http://st.f1.en.vnecdn.net/i/v6/graphics/tiwter.png" alt=""></a></li>
+												<li><a target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fe.vnexpress.net%2Fnews%2Fvideo%2Finterpol-issues-red-notice-for-north-koreans-linked-to-kim-murder-3556869.html" rel="nofollow" onclick="return !window.open(this.href, 'Google Plus', 'width=640,height=400')"><img src="http://st.f1.en.vnecdn.net/i/v6/graphics/google.png" alt=""></a></li>											
+											</ul>
+										</div>	
+										</div>
+										
+									</div>
+                </div>
+                <div class="col col_190" id="vnexpress_home_video_list">
+                    <div class="main_scroll">
+                        <div class="nice_scroll">
+                                                        <div class="item_video row space_bottom_10">
+                                <div class="thumb_size thumb_left space_bottom_5">
+                                    <a class="thumb_news_site thumb_16x9" 
+                                        href="http://e.vnexpress.net/news/video/hop-on-the-new-5-star-train-from-saigon-to-nha-trang-3556337.html"
+                                        data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125797&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/hop-on-the-new-5-star-train-from-saigon-to-nha-trang-3556337.html"
+                                        style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/16/1NTJPG1200x0-1489656489_200x113.jpg)"
+                                        title="Hop on the new 5-star train from Saigon to Nha Trang" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Item_1', 'INT');"
+                                        >
+                                    </a>
+                                    
+                                </div>
+                                <div class="info_news_center">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/video/hop-on-the-new-5-star-train-from-saigon-to-nha-trang-3556337.html" data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125797&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/hop-on-the-new-5-star-train-from-saigon-to-nha-trang-3556337.html" title="Hop on the new 5-star train from Saigon to Nha Trang" onclick ="ga('t0.send', 'event', 'Box_Video', 'Clk_Item_1', 'INT');">
+                                            Hop on the new 5-star train from Saigon to Nha Trang                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                                                        <div class="item_video row space_bottom_10">
+                                <div class="thumb_size thumb_left space_bottom_5">
+                                    <a class="thumb_news_site thumb_16x9" 
+                                        href="http://e.vnexpress.net/news/video/india-eyes-fat-tax-as-worries-rise-over-fast-food-consumption-3556618.html"
+                                        data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125898&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/india-eyes-fat-tax-as-worries-rise-over-fast-food-consumption-3556618.html"
+                                        style="background-image:url(http://img.f48.english.vnecdn.net/2017/03/17/India-1489712994-9393-1489713031_200x113.jpg)"
+                                        title="India eyes 'fat tax' as worries rise over fast food consumption" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Item_2', 'INT');"
+                                        >
+                                    </a>
+                                    
+                                </div>
+                                <div class="info_news_center">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/video/india-eyes-fat-tax-as-worries-rise-over-fast-food-consumption-3556618.html" data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125898&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/india-eyes-fat-tax-as-worries-rise-over-fast-food-consumption-3556618.html" title="India eyes 'fat tax' as worries rise over fast food consumption" onclick ="ga('t0.send', 'event', 'Box_Video', 'Clk_Item_2', 'INT');">
+                                            India eyes 'fat tax' as worries rise over fast food consumption                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                                                        <div class="item_video row space_bottom_10">
+                                <div class="thumb_size thumb_left space_bottom_5">
+                                    <a class="thumb_news_site thumb_16x9" 
+                                        href="http://e.vnexpress.net/news/video/panda-cubs-rebel-against-mother-3556316.html"
+                                        data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125735&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/panda-cubs-rebel-against-mother-3556316.html"
+                                        style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/16/panda-cubs-rebel-against-mothe-6626-9016-1489650036_200x113.jpg)"
+                                        title="Panda cubs rebel against mother" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Item_3', 'INT');"
+                                        >
+                                    </a>
+                                    
+                                </div>
+                                <div class="info_news_center">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/video/panda-cubs-rebel-against-mother-3556316.html" data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125735&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/panda-cubs-rebel-against-mother-3556316.html" title="Panda cubs rebel against mother" onclick ="ga('t0.send', 'event', 'Box_Video', 'Clk_Item_3', 'INT');">
+                                            Panda cubs rebel against mother                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                                                        <div class="item_video row space_bottom_10">
+                                <div class="thumb_size thumb_left space_bottom_5">
+                                    <a class="thumb_news_site thumb_16x9" 
+                                        href="http://e.vnexpress.net/news/video/five-famous-films-set-in-vietnam-ranked-3555259.html"
+                                        data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125492&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/five-famous-films-set-in-vietnam-ranked-3555259.html"
+                                        style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/15/thequietamericanvietnam2-1489567586_200x113.jpg)"
+                                        title="Five famous films set in Vietnam, ranked" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Item_4', 'INT');"
+                                        >
+                                    </a>
+                                    
+                                </div>
+                                <div class="info_news_center">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/video/five-famous-films-set-in-vietnam-ranked-3555259.html" data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125492&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/five-famous-films-set-in-vietnam-ranked-3555259.html" title="Five famous films set in Vietnam, ranked" onclick ="ga('t0.send', 'event', 'Box_Video', 'Clk_Item_4', 'INT');">
+                                            Five famous films set in Vietnam, ranked                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                                                        <div class="item_video row space_bottom_10">
+                                <div class="thumb_size thumb_left space_bottom_5">
+                                    <a class="thumb_news_site thumb_16x9" 
+                                        href="http://e.vnexpress.net/news/video/the-hoi-an-river-trip-that-will-help-you-earn-some-good-karma-3555062.html"
+                                        data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125065&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/the-hoi-an-river-trip-that-will-help-you-earn-some-good-karma-3555062.html"
+                                        style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/14/anh414892294241200x0-1489466982_200x113.jpg)"
+                                        title="The Hoi An river trip that will help you earn some good karma" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Item_5', 'INT');"
+                                        >
+                                    </a>
+                                    
+                                </div>
+                                <div class="info_news_center">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/video/the-hoi-an-river-trip-that-will-help-you-earn-some-good-karma-3555062.html" data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125065&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/the-hoi-an-river-trip-that-will-help-you-earn-some-good-karma-3555062.html" title="The Hoi An river trip that will help you earn some good karma" onclick ="ga('t0.send', 'event', 'Box_Video', 'Clk_Item_5', 'INT');">
+                                            The Hoi An river trip that will help you earn some good karma                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                                                        <div class="item_video row space_bottom_10">
+                                <div class="thumb_size thumb_left space_bottom_5">
+                                    <a class="thumb_news_site thumb_16x9" 
+                                        href="http://e.vnexpress.net/news/video/should-you-stop-exercising-because-of-hanoi-s-pollution-3554651.html"
+                                        data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125243&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/should-you-stop-exercising-because-of-hanoi-s-pollution-3554651.html"
+                                        style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/14/chay2-1489498879_200x113.jpg)"
+                                        title="Should you stop exercising because of Hanoi's pollution?" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Item_6', 'INT');"
+                                        >
+                                    </a>
+                                    
+                                </div>
+                                <div class="info_news_center">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/video/should-you-stop-exercising-because-of-hanoi-s-pollution-3554651.html" data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125243&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/should-you-stop-exercising-because-of-hanoi-s-pollution-3554651.html" title="Should you stop exercising because of Hanoi's pollution?" onclick ="ga('t0.send', 'event', 'Box_Video', 'Clk_Item_6', 'INT');">
+                                            Should you stop exercising because of Hanoi's pollution?                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                                                        <div class="item_video row space_bottom_10">
+                                <div class="thumb_size thumb_left space_bottom_5">
+                                    <a class="thumb_news_site thumb_16x9" 
+                                        href="http://e.vnexpress.net/news/video/how-vietnam-lost-64-soldiers-in-1988-spratlys-battle-3555357.html"
+                                        data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125241&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/how-vietnam-lost-64-soldiers-in-1988-spratlys-battle-3555357.html"
+                                        style="background-image:url(http://img.f46.english.vnecdn.net/2017/03/14/HQ50537011489409226-1489498092-7933-1489498117_200x113.jpg)"
+                                        title="How Vietnam lost 64 soldiers in 1988 Spratlys battle" onclick ="ga('t0.send', 'event',  'Box_Video', 'Clk_Item_7', 'INT');"
+                                        >
+                                    </a>
+                                    
+                                </div>
+                                <div class="info_news_center">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/video/how-vietnam-lost-64-soldiers-in-1988-spratlys-battle-3555357.html" data-url-embed="http://e.vnexpress.net/parser_v3.php?id=125241&t=1&ft=video&si=1003888&autoplay=1&ishome=1&share_url=http://e.vnexpress.net/news/video/how-vietnam-lost-64-soldiers-in-1988-spratlys-battle-3555357.html" title="How Vietnam lost 64 soldiers in 1988 Spratlys battle" onclick ="ga('t0.send', 'event', 'Box_Video', 'Clk_Item_7', 'INT');">
+                                            How Vietnam lost 64 soldiers in 1988 Spratlys battle                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="col_300 col full_width_sm">
+             
+<div class="box_item_topstory_right row" id="whats_on">
+    <div class="tt_box_top_story_right"><a href="/news/travel-life/what-s-on" title="What's on" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_Title_Box', 'INT');">What’s On</a></div>
+    <div class="tab_topstory_right">
+        <a onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HN', 'INT');" href="javascript:;" class="tab_location" data-location="19" id="tab_19">Hanoi</a>
+        <a onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HCM', 'INT');" href="javascript:;" class="tab_location" data-location="24" id="tab_24">HCMC</a>
+    </div>
+                <div class="content_tab_topstory content_tab_whatson_19" style="display: none;">
+                            <div class="item_topstory_right">
+
+                                        <div class="thumb_size_70 thumb_right">
+                        <a href="http://e.vnexpress.net/news/travel-life/what-s-on/exhibition-installation-qua-3426901.html" class="thumb_news_site thumb_1x1" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HN_1', 'INT');">
+                            <img src="http://img.f47.english.vnecdn.net/2016/06/27/photoweb4-630x420-2460-1467029897_122x122.jpg" alt="Exhibition/Installation: “Qua”">
+                        </a>
+                    </div>
+                    
+                    <h4 class="title_news_site">
+                         <a href="http://e.vnexpress.net/news/travel-life/what-s-on/exhibition-installation-qua-3426901.html" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HN_1', 'INT');">
+                            Exhibition/Installation: “Qua”                        </a>
+                    </h4>
+                    
+                     
+                     
+                        <div class="location_vne_news">
+                            <i class="fa fa-paper-plane"></i> 
+                             l'Espace, 24 Trang Tien Street, Hanoi                        </div>
+                    
+                                    </div>
+                            <div class="item_topstory_right">
+
+                                        <div class="thumb_size_70 thumb_right">
+                        <a href="http://e.vnexpress.net/news/travel-life/what-s-on/workshop-bamboo-paper-art-3424962.html" class="thumb_news_site thumb_1x1" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HN_2', 'INT');">
+                            <img src="http://img.f46.english.vnecdn.net/2016/06/23/Bambuspapierkunst-2545-1466680706_122x122.jpg" alt="Workshop: Bamboo paper art">
+                        </a>
+                    </div>
+                    
+                    <h4 class="title_news_site">
+                         <a href="http://e.vnexpress.net/news/travel-life/what-s-on/workshop-bamboo-paper-art-3424962.html" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HN_2', 'INT');">
+                            Workshop: Bamboo paper art                        </a>
+                    </h4>
+                    
+                     
+                     
+                        <div class="location_vne_news">
+                            <i class="fa fa-paper-plane"></i> 
+                             Goethe-Institut Hanoi, 56-58 Nguyen Thai Hoc Street, Hanoi                        </div>
+                    
+                     
+                        <div class="timer_post">
+                            <i class="fa fa-clock-o"></i>
+                            10:00 am, Sat 02 Jul 2016                        </div>
+                                    </div>
+                    </div>
+            <div class="content_tab_topstory content_tab_whatson_24" style="display: none;">
+                            <div class="item_topstory_right">
+
+                                        <div class="thumb_size_70 thumb_right">
+                        <a href="http://e.vnexpress.net/news/travel-life/what-s-on/movie-night-nocturnal-animals-3557013.html" class="thumb_news_site thumb_1x1" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HCM_1', 'INT');">
+                            <img src="http://img.f48.english.vnecdn.net/2017/03/17/1-8081-1489746761_122x122.jpg" alt="Movie Night: Nocturnal Animals">
+                        </a>
+                    </div>
+                    
+                    <h4 class="title_news_site">
+                         <a href="http://e.vnexpress.net/news/travel-life/what-s-on/movie-night-nocturnal-animals-3557013.html" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HCM_1', 'INT');">
+                            Movie Night: Nocturnal Animals                        </a>
+                    </h4>
+                    
+                     
+                     
+                        <div class="location_vne_news">
+                            <i class="fa fa-paper-plane"></i> 
+                             Yoko cafe, 22A Nguyen Thi Dieu, District 3, Ho Chi Minh City                        </div>
+                    
+                     
+                        <div class="timer_post">
+                            <i class="fa fa-clock-o"></i>
+                            08:30 pm, Mon 20 Mar 2017                        </div>
+                                    </div>
+                            <div class="item_topstory_right">
+
+                                        <div class="thumb_size_70 thumb_right">
+                        <a href="http://e.vnexpress.net/news/travel-life/what-s-on/magner-s-int-l-comedy-competition-final-round-3557016.html" class="thumb_news_site thumb_1x1" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HCM_2', 'INT');">
+                            <img src="http://img.f45.english.vnecdn.net/2017/03/17/1-3173-1489747184-9248-1489747343_122x122.jpg" alt="Magner's Int'l Comedy Competition Final Round">
+                        </a>
+                    </div>
+                    
+                    <h4 class="title_news_site">
+                         <a href="http://e.vnexpress.net/news/travel-life/what-s-on/magner-s-int-l-comedy-competition-final-round-3557016.html" onclick ="ga('t0.send', 'event', 'Box_WhatsOn', 'Clk_HCM_2', 'INT');">
+                            Magner's Int'l Comedy Competition Final Round                        </a>
+                    </h4>
+                    
+                     
+                     
+                        <div class="location_vne_news">
+                            <i class="fa fa-paper-plane"></i> 
+                             La Fenetre Soleil, 44 Ly Tu Trong, District 1, Ho Chi Minh City                        </div>
+                    
+                     
+                        <div class="timer_post">
+                            <i class="fa fa-clock-o"></i>
+                            08:00 pm, Mon 20 Mar 2017                        </div>
+                                    </div>
+                    </div>
+    </div>
+
+
+<script>
+$(document).ready(function(){
+	change_tab_whatson();
+	
+});
+
+</script><div class="row banner_box txt_center space_bottom_15">
+        		 	 <div id='LARGE_BANNER_2'></div>
+		 			</div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function() {
+        $('#box_videohome .nice_scroll').niceScroll({
+            cursorcolor:"#2e2e2e",
+            cursorborder:"2e2e2e",
+            cursoropacitymin:'1'
+        });
+        $('#box_most_read .nice_scroll').niceScroll({
+            cursorcolor:"#e6e6e6 ",
+            cursorborder:"e6e6e6 ",
+            cursoropacitymin:'1'
+        });
+
+        
+    });
+</script><div id="box_folder_politics" class="block_folder row">
+    <div class="title_block_folder row_col">
+        <div class="col_220 col block_folder_left">
+            <div class="folder_name">
+                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Title_box', 'INT');" href="/news/world" title="World">
+                    World                </a>
+            </div>
+        </div>
+        <div class="col_1020 col">
+            <div class="itemsub_folder">
+                       <!--  <a href="javascript:;" class="txt_hide_block updown_box_folder_politics" data-id="box_folder_politics">Hide <i class="fa fa-angle-up"></i> </a> -->
+            </div>
+        </div>
+    </div>
+    <div class="row_col content_box_folder content_box_folder_politics">
+        <div class="col_1020 col new full_width_sm">
+            <div class="row ">
+                <div class="row_col">  
+                    <div class="row">
+
+                                                    <div class="col_300 col box_news_border_title">
+
+                                                                <div class="thumb_size thumb_left">
+                                    <a class="thumb_news_site thumb_5x3"
+                                        style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/17/download2-1489733984-9979-1489734062_300x180.jpg)"
+                                        href="http://e.vnexpress.net/news/world/china-asean-to-enhance-tourism-cooperation-to-new-level-chinese-vice-premier-3556845.html" 
+                                        title="China, ASEAN to enhance tourism cooperation to new level - Chinese vice premier" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_1', 'INT');"
+                                        >
+                                    </a>
+                                                                    </div>
+                                
+                                <h4 class="title_news_site">
+                                    <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_1', 'INT');" href="http://e.vnexpress.net/news/world/china-asean-to-enhance-tourism-cooperation-to-new-level-chinese-vice-premier-3556845.html" title="China, ASEAN to enhance tourism cooperation to new level - Chinese vice premier">
+                                        China, ASEAN to enhance tourism cooperation to new level - Chinese vice premier                                    </a>
+                                </h4>
+
+                            </div>
+                        
+                        <div class="col_460 col">
+                            <div class="list_2item_news row_col space_bottom_20">
+                                                                     
+                                                                            <div class="item_list">
+                                            
+                                                                                        <div class="thumb_size thumb_left space_bottom_10">
+                                                <a class="thumb_news_site thumb_5x3"
+                                                    style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/17/churchJPG-1489733422-2644-1489733569_300x180.jpg)" 
+                                                    href="http://e.vnexpress.net/news/world/report-says-1-100-complaints-of-child-abuse-made-against-australia-s-anglican-church-3556839.html"
+                                                    title="Report says 1,100 complaints of child abuse made against Australia's Anglican church" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_2', 'INT');"
+                                                    >
+                                                </a>
+                                                                                            </div>
+                                            
+                                            <h4 class="title_news_site" title="Report says 1,100 complaints of child abuse made against Australia's Anglican church">
+                                                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_2', 'INT');" href="http://e.vnexpress.net/news/world/report-says-1-100-complaints-of-child-abuse-made-against-australia-s-anglican-church-3556839.html">Report says 1,100 complaints of child abuse made against Australia's Anglican church</a>
+                                            </h4>
+                                            <div class="lead_news_site">
+                                                'Anglicans have been truly shocked and dismayed (by) the scope of our failure to tackle child sexual abuse within the ...                                            </div>
+                                        </div>
+                                                                                                                                                 
+                                                                            <div class="item_list">
+                                            
+                                                                                        <div class="thumb_size thumb_left space_bottom_10">
+                                                <a class="thumb_news_site thumb_5x3"
+                                                    style="background-image:url(http://img.f47.english.vnecdn.net/2017/03/17/tixung-1489717354-1169-1489717807_300x180.jpg)" 
+                                                    href="http://e.vnexpress.net/news/world/ethiopia-trash-dump-landslide-death-toll-rises-to-115-3556671.html"
+                                                    title="Ethiopia trash dump landslide death toll rises to 115" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_3', 'INT');"
+                                                    >
+                                                </a>
+                                                                                            </div>
+                                            
+                                            <h4 class="title_news_site" title="Ethiopia trash dump landslide death toll rises to 115">
+                                                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_3', 'INT');" href="http://e.vnexpress.net/news/world/ethiopia-trash-dump-landslide-death-toll-rises-to-115-3556671.html">Ethiopia trash dump landslide death toll rises to 115</a>
+                                            </h4>
+                                            <div class="lead_news_site">
+                                                Emergency workers in the Ethiopian capital Addis Ababa searched through a mountain of garbage for the fifth consecutive ...                                            </div>
+                                        </div>
+                                                                                                                                                 
+                                                                            <div class="item_list">
+                                            
+                                                                                        <div class="thumb_size thumb_left space_bottom_10">
+                                                <a class="thumb_news_site thumb_5x3"
+                                                    style="background-image:url(http://img.f45.english.vnecdn.net/2017/03/17/trumptower-1489712421-7418-1489712434_300x180.jpg)" 
+                                                    href="http://e.vnexpress.net/news/world/top-senators-no-evidence-trump-tower-bugged-by-obama-3556607.html"
+                                                    title="Top senators: No evidence Trump Tower bugged by Obama" onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_4', 'INT');"
+                                                    >
+                                                </a>
+                                                                                            </div>
+                                            
+                                            <h4 class="title_news_site" title="Top senators: No evidence Trump Tower bugged by Obama">
+                                                <a onclick ="ga('t0.send', 'event',  'Box_News', 'Clk_Item_4', 'INT');" href="http://e.vnexpress.net/news/world/top-senators-no-evidence-trump-tower-bugged-by-obama-3556607.html">Top senators: No evidence Trump Tower bugged by Obama</a>
+                                            </h4>
+                                            <div class="lead_news_site">
+                                                Trump once sparked a furor with tweets that accused former President Barack Obama of ordering a wiretap on his ...                                            </div>
+                                        </div>
+                                                                                                                                        </div>
+                        </div>
+                        <div class="col_220 col space_bottom_20">
+                            <div class="lits_news_dot_vne row">
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/world/french-interior-ministry-spokesman-says-eight-injured-in-grasse-shooting-incident-3556530.html" title="French interior ministry spokesman says eight injured in Grasse shooting incident" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_4', 'INT');">
+                                        French interior ministry spokesman says eight injured in Grasse shooting incident                                        </a>
+                                    </h4>
+                                </div>
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/world/trump-i-might-not-be-here-if-it-wasn-t-for-twitter-3556465.html" title="Trump: I might not be here 'if it wasn't for Twitter'" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_5', 'INT');">
+                                        Trump: I might not be here 'if it wasn't for Twitter'                                        </a>
+                                    </h4>
+                                </div>
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/world/military-wins-in-first-trump-budget-environment-aid-lose-big-3556303.html" title="Military wins in first Trump budget; environment, aid lose big" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_6', 'INT');">
+                                        Military wins in first Trump budget; environment, aid lose big                                        </a>
+                                    </h4>
+                                </div>
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/world/wall-street-sees-2-more-fed-rate-hikes-in-2017-at-least-3-in-2018-3556009.html" title="Wall Street sees 2 more Fed rate hikes in 2017, at least 3 in 2018" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_7', 'INT');">
+                                        Wall Street sees 2 more Fed rate hikes in 2017, at least 3 in 2018                                        </a>
+                                    </h4>
+                                </div>
+                                                                <div class="item_dot_vne">
+                                    <h4 class="title_news_site">
+                                        <a href="http://e.vnexpress.net/news/world/hawaii-judge-freezes-trump-s-revamped-travel-ban-3555999.html" title="Hawaii judge freezes Trump's revamped travel ban" onclick ="ga('t0.send', 'event', 'Box_News', 'Clk_Item_8', 'INT');">
+                                        Hawaii judge freezes Trump's revamped travel ban                                        </a>
+                                    </h4>
+                                </div>
+                                                            </div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+    </div>
+
+</div>                <div class="clear"></div>
+
+        	 
+            </div>
+                    </section>
+		<div class="row banner banner_bottom" id="en_banner_bottom">
+			
+			 		 	<div id='FOOTER_BANNER'></div>
+		 			</div>
+	  	        <footer class="row">
+    <div class="container">
+        <div id="footer" class="row">
+            <div class="nav_footer row">
+                <a href="javascript:;" class="txt_back_top"><i class="fa fa-angle-up"></i>
+                    Back to top</a>
+
+                <div class="right">Contact: <a href="/contactus">Editorial</a> 
+                    <!--  &nbsp; | &nbsp; 
+                    <a href="#">Advertising</a> -->
+                </div>
+            </div>
+            <div class="row block_footer_menu">
+                <div class="menu_footer full_width_sm">
+                    <div class="col_menu_footer">
+                        <h3><a href="/news/news" class="parent_menu">News</a></h3>
+                        <h3><a href="/news/world" class="parent_menu">World</a></h3>
+                        
+                    </div>
+                    <div class="col_menu_footer col_economic">
+                        <h3><a href="/news/business" class="parent_menu">Business</a></h3>
+                        <h3><a href="/news/business/economy" class="">Economy</a></h3>
+                        <h3><a href="/news/business/finance" class="">Finance</a></h3>
+                        <h3><a href="/news/business/data-speaks" class="">DataSpeaks</a></h3>
+                    </div>
+                    <div class="col_menu_footer">
+                        <h3><a href="/news/travel-life/" class="parent_menu">Travel & Life</a></h3>
+                        <h3><a href="/news/travel-life/travel" class="">Travel</a></h3>
+                        <h3><a href="/news/travel-life/food" class="">Food</a></h3>
+                         <h3><a href="/news/travel-life/culture-arts" class="">Culture & Arts</a></h3>
+                        
+                    </div>
+                    
+                     <div class="col_menu_footer">
+                        <h3><a href="/news/video" class="parent_menu">Video</a></h3>
+                        <h3><a href="/news/travel-life/what-s-on" class="">What's On</a></h3>
+                       
+                    </div>
+                    
+                </div>
+
+               <!--  <div class="block_footer_right full_width_sm">
+                    <div class="txt_download_app"><a href="#"><b>Download Our Apps</b></a></div>
+                    <div class="main_download_app">
+                        <a href="#"><i class="fa fa-apple"></i> IOS</a>
+                        <a href="#"><i class="fa fa-android"></i> Android</a>
+                        <a href="#"><i class="fa fa-windows"></i> Window</a>
+                    </div>
+
+                    <div class="email_footer">
+                        <input type="input" class="email_input" value="Search">
+                        <button class="btn_send_email"><i class="fa fa-angle-right"></i></button>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+        <div class="coppy_right row">
+            <div class="coppy_right_left left">
+                <p>© Copyright 1997 VnExpress.net, All rights reserved</p>
+            </div>
+            <div class="coppy_right_right right">
+                <!-- <a href="/term_of_service.html">Terms & conditions</a> | <a href="/privacy_policy.html"> Privacy policy</a> -->
+            </div>
+        </div>
+    </div>
+</footer>    <div class="mark_menu">&nbsp;</div>
+        </div>
+    <a href="javascript:;" class="gottop"><img src="http://st.f1.en.vnecdn.net/i/v6/graphics/icon_gototop.png" alt="" /></a>
+      <!-- /page -->    
+	<script type="text/javascript" src="http://st.f2.en.vnecdn.net/j/v18/parser_v3.js"></script>
+	<script src="http://st.f2.en.vnecdn.net/j/v18/common.js"></script>
+		   
+	<script type="text/javascript" src="http://st.core.polyad.net/Ads.js"></script>
+    <script type="text/javascript" src="http://st.polyad.net/Vals/66/0/1003888/Val.js"></script>
+    <script type="text/javascript">   
+        Poly_showads();
+    </script>
+       
+	<script type="text/javascript" src="http://st.f2.en.vnecdn.net/j/v18/libs/jquery.nicescroll.min.js"></script>        <script type="text/javascript">
+        (function() {
+            window._klDmp = window._klDmp || [];
+            window._klDmp.push(["_siteId:VNE2103"]);
+            window._klCookies = window._klCookies || [];
+            window._klCookies.push("fosp_aid");
+            window._klCookies.push("myvne_user_id");
+            var el = document.createElement('script');
+            el.type = 'text/javascript'; el.async = true;
+            el.src = 'http://js.knowlead.io/dmpcollector.js';
+            var s = document.getElementsByTagName('script')[0];                                
+            s.parentNode.insertBefore(el, s);
+        })();
+    </script>
+    
+   </body>
+</html>

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hướng dẫn nấu món đùi gà sốt cam thơm ngon, lạ miệng - KH&PT
+</title><meta name="keywords" content="Lương Ngọc,chế biến,người Việt" /><meta name="description" content="Đùi gà sốt cam là món ăn còn khá lạ lẫm đối với người Việt Nam. Tuy nhiên, những ai đã từng 1 lần thưởng thức món ăn này thì nhớ mãi không quên mùi vị của nó." />
+<link rel="canonical" href="http://www.baomoi.com/huong-dan-nau-mon-dui-ga-sot-cam-thom-ngon-la-mieng/c/21790935.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790935" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790935" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/suc-khoe/huong-dan-nau-mon-dui-ga-sot-cam-thom-ngon-la-mieng/20170317064212981p1c784.htm");
+else
+window.location.replace("http://www.baomoi.com/huong-dan-nau-mon-dui-ga-sot-cam-thom-ngon-la-mieng/c/21790935.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

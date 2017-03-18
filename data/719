@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Máy tính xách tay chứa thông tin nhạy cảm của mật vụ Mỹ bị đánh cắp - Thanh Niên
+</title><meta name="keywords" content="máy tính xách tay,đánh cắp,Brooklyn,Hillary Clinton,Thành phố New York,Trump,cnn,tổng thống Mỹ,Mỹ,Trump Tower,email,New York Post,Kiều Oanh,bảo vệ,tranh cử,bầu cử" /><meta name="description" content="Một máy tính xách tay của nhân viên mật vụ Mỹ đã bị đánh cắp, trong đó chứa sơ đồ tòa nhà Trump Tower mà vợ con ông Trump đang ở, chứa các thông tin nhạy cả..." />
+<link rel="canonical" href="http://www.baomoi.com/may-tinh-xach-tay-chua-thong-tin-nhay-cam-cua-mat-vu-my-bi-danh-cap/c/21793084.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793084" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793084" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhnien.vn/the-gioi/may-tinh-xach-tay-chua-thong-tin-nhay-cam-cua-mat-vu-my-bi-danh-cap-816491.html");
+else
+window.location.replace("http://www.baomoi.com/may-tinh-xach-tay-chua-thong-tin-nhay-cam-cua-mat-vu-my-bi-danh-cap/c/21793084.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

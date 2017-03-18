@@ -1,0 +1,1705 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="tt_category_id" content="1001191" >
+<meta name="tt_article_id" content="1001191" >
+<title>VnExpress - 100 nguoi giau nhat Viet Nam tren TTCK 2011</title>
+<link href="http://st.f2.vnecdn.net/c/v1/toprich/2012/jquery.jscrollpane.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" language="javascript" src="http://st.f2.vnecdn.net/c/v1/toprich/js/library2.js"></script>	
+
+<!--[if lte IE 6]>
+     <script type="text/JavaScript" src="http://st.f2.vnecdn.net/j/v1/Pngfix.js"></script>
+     <script type="text/javascript">
+   	 	$(document).ready(function() {
+     		DD_belatedPNG.fix('.png');
+    	});   
+  	 </script>
+<![endif]-->
+
+<!-- Start GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-249346-21']);
+	_gaq.push(['_trackPageview']);
+
+	_gaq.push(['b._setAccount', 'UA-249346-22']);
+	_gaq.push(['b._trackPageview']);
+
+	_gaq.push(['c._setAccount', 'UA-249346-57']);
+	_gaq.push(['c._trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<!-- End GA -->
+	
+</head>
+<style>
+body{margin:0px; padding:0px; background:#961631;}
+	a{ text-decoration:none;}
+	a img{border:none;}
+	.fl{float:left;}
+	.fr{float:right;}
+
+	#wrap{width:1004px; margin:0px auto; background:#fff;}
+	#header{width:100%; height:157px; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/head.jpg) no-repeat top left; float:left; overflow:hidden;}
+	.header-top{ width:969px; height:45px; padding:41px 0px 35px 35px; float:left;}
+	#menu{ width:919px; height:35px; margin:0px 47px 0px 38px; display:inline; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/menu.png) no-repeat 1px 4px; float:left;}
+	.top500{ width:142px; height:100%; float:left; cursor:pointer;}
+	.top100{ width:141px; height:100%; float:left; cursor:pointer;}
+	.top50{ width:107px; height:100%; float:left; cursor:pointer;}
+	.top30{ width:118px; height:100%; float:left; cursor:pointer;}
+	.top500 .active{ width:100%; height:100%; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/menu.png) no-repeat 0px -46px;}
+	.top100 .active{ width:100%; height:100%; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/menu.png) no-repeat -141px -46px;}
+	.top50 .active{ width:100%; height:100%; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/menu.png) no-repeat -282px -46px;}
+	.top30 .active{ width:100%; height:100%; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/menu.png) no-repeat -390px -46px;}
+
+
+	#content{ width:100%; padding-bottom:10px; background:#ffffff; float:left;}
+	.ct-tbl{ width:100%; height:540px; padding-bottom:10px; float:left;}
+	.ct-left{ width:39px; height:540px; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/ct-left.jpg) no-repeat top left; float:left;}
+	.ct-right{ width:45px; height:540px; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/ct-right.jpg) no-repeat top right; float:left;}
+	.ct-mid{ width:920px; height:520px; padding-bottom:20px; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/ct-mid.gif) repeat-x top left #dee4e5; float:left;}
+	.ct-form{ width:920px; height:513px; padding:7px 0px 0px; background:#3e4d52; float:left;}
+
+	.tbl{ width:100%; height:100%; background:#fff;}
+	.tbl-title{ width:100%; height:82px; border-collapse:collapse;}
+	.tbl-title td{ padding:4px; background:#d6dcde; border:1px solid #fff; text-align:center; font:bold 13px arial; color:#000;}
+	.tbl-ts{ width:42px;}
+	.tbl-tlast{ width:57px;}
+	.tbl-ht{ width:120px;}
+
+	.scroll_box{ width:100%; height:430px; overflow-x:hidden; overflow-y:scroll;}
+	.tbl-ct{ width:903px; height:100%; background:#d6dcde; border-left:1px solid #fff;}/* border-collapse:collapse; */
+	.bg_tr{ background:#ffffff;}
+	.bg_tr1{ background:#eff3f3;}
+	.td1{width:35px; padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td2{ width:36px; padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td3{ width:121px; padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td8,.td9{ width:72px;*width:74px; /*\**/width:74px\9; padding:4px; text-align:center; font:13px arial; color:#000;}
+
+	.td10{width:37px; padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td11,.td12{ width:35px;*width:37px; /*\**/width:37px\9; padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td4{ padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td5{ width:64px; padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td6{ width:111px; padding:4px; text-align:center; font:13px arial; color:#000;}
+	.td7{padding:4px; text-align:center; font:13px arial; color:#000;width:39px;}/**/
+
+	.ct-note{ width:924px; padding:0px 25px 12px 55px; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/ct-note.gif) repeat-x bottom left; float:left;}
+	.ct-note p{ margin:0px 0px 8px; font:bold italic 12px arial; color:#83173d;}
+	.ctn{ width:100%; overflow:hidden;}
+	.ctn-left{ width:630px; float:left;}
+	.ctn-right{ width:294px; padding-top:10px; float:left;}
+	.ctnr-left{ padding-top:7px; font:bold 12px arial; color:#000; float:left;}
+	.ctnr-right{ float:right;}
+
+	#footer{ width:976px; padding:0px 0px 32px 28px; background:url(http://st.f2.vnecdn.net/c/v1/toprich/2011/footer.gif) repeat-x bottom left #fff; float:left;}
+	#footer p{ margin:0px 0px 7px;}
+	#footer p,#footer p a{ font:11px arial; color:#83173d;}
+	@-moz-document url-prefix() {.td8,.td9{width:74px;} .td11,.td12{width:37px;}}
+
+</style>
+<body>
+<div id="wrap">
+    	<div id="header">
+            <div class="header-top">
+				<a target="_blank" href="http://vnexpress.net/"><img alt="VnExpress" src="http://st.f2.vnecdn.net/c/v1/toprich/2011/vne-logo.gif"></a>
+            </div>            
+            <div class="png" id="menu">
+        	    <div onclick="javascript: window.location = '/customize/chung-khoan/top/2011/top500/';" class="top500 png" id="top500"><div class="normal"></div></div>
+        	    <div onclick="javascript: window.location = '/customize/chung-khoan/top/2011/top100/';" class="top100 png" id="top100"><div class="active"></div></div>
+        	    <div onclick="javascript: window.location = '/customize/chung-khoan/top/2011/top50/';" class="top50 png" id="top50"><div class="normal"></div></div>
+        	    <div onclick="javascript: window.location = '/customize/chung-khoan/top/2011/top30/';" class="top30 png" id="top30"><div class="normal"></div></div>
+            </div>	
+        </div>        
+        <div id="content">
+            <div class="ct-tbl">
+                <div class="ct-left"></div>
+        	    <div class="ct-mid">
+        	        <div class="ct-form">
+        	            <table cellspacing="0" cellpadding="0" class="tbl">
+        	                <tbody><tr>
+                                <td>
+                                    <table cellspacing="0" cellpadding="0" class="tbl-title">                                        
+                                        <tbody><tr>
+                                            <td width="10%" colspan="2">
+                                                Thứ bậc
+                                            </td>
+                                            <td width="14%" rowspan="2">
+                                                Họ và tên
+                                            </td>
+                                            <td width="18%" colspan="2">
+                                                Tài sản của VIP<br>
+                                                <i>(Tỷ đồng)</i>
+                                            </td>
+                                            <td width="5%" rowspan="2">
+                                                Năm sinh
+                                            </td>
+                                            <td width="5%" rowspan="2">
+                                                Học vấn
+                                            </td>                                                
+                                            <td width="5%" rowspan="2">
+                                                Cư trú
+                                            </td>
+                                            <td colspan="4">
+                                                Doanh nghiệp
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="5%">2011</td>
+                                            <td width="5%">2010</td>
+                                            <td width="9%">2011<br><i>(**)</i></td>
+                                            <td width="9%">2010<br><i>(***)</i></td>  
+                                            <td>Tên công ty</td>
+                                            <td width="8%">Mã CK</td>
+                                            <td width="13%">Ngành nghề</td>
+                                            <td width="7%" class="tbl-tlast">P/E</td>
+                                        </tr>                                        
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="scroll_box">
+                                        <table cellspacing="1px" cellpadding="0px" class="tbl-ct">
+                                            <tbody>
+                                               <tr class="bg_tr">
+<td class="td1">1</td>
+<td class="td2">1</td>
+<td class="td3"><b>Phạm Nhật Vượng</b> - Chủ tịch HĐQT VIC</td>
+<td class="td8">16.763,566</td>
+<td class="td9">15.775,684</td>
+<td class="td10">1968</td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP Vincom</td>
+<td class="td5">VIC</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">14.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">2</td>
+<td class="td2">2</td>
+<td class="td3"><b>Đoàn Nguyên Đức</b> - Chủ tịch HĐQT HAG</td>
+<td class="td8">4.348,251</td>
+<td class="td9">11.879,310</td>
+<td class="td10">1963</td>
+<td class="td11">12/12</td>
+<td class="td12">Gia Lai</td>
+<td class="td4">CTCP Hoàng Anh Gia Lai</td>
+<td class="td5">HAG</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">6.2</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">3</td>
+<td class="td2">6</td>
+<td class="td3"><b>Phạm Thu Hương</b> - Vợ ông Phạm Nhật Vượng - Thành viên HĐQT VIC</td>
+<td class="td8">2.890,682</td>
+<td class="td9">2.341,304</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP Vincom</td>
+<td class="td5">VIC</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">14.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">4</td>
+<td class="td2">12</td>
+<td class="td3"><b>Nguyễn Hoàng Yến</b> - Thành viên HĐQT, Vợ ông Nguyễn Đăng Quang Chủ tịch HĐQT MSN</td>
+<td class="td8">1.971,047</td>
+<td class="td9">1.633,459</td>
+<td class="td10">1963</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tập đoàn Ma San</td>
+<td class="td5">MSN</td>
+<td class="td6">Thực phẩm</td>
+<td class="td7">14.8</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">5</td>
+<td class="td2">9</td>
+<td class="td3"><b>Phạm Thúy Hằng</b> - Thành viên HĐQT VIC</td>
+<td class="td8">1.919,476</td>
+<td class="td9">1.880,893</td>
+<td class="td10">1974</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP VINCOM</td>
+<td class="td5">VIC</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">14.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">6</td>
+<td class="td2">13</td>
+<td class="td3"><b>Hồ Hùng Anh</b> - Phó Chủ tịch HĐQT MSN</td>
+<td class="td8">1.789,028</td>
+<td class="td9">1.632,620</td>
+<td class="td10"></td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tập đoàn Ma San</td>
+<td class="td5">MSN</td>
+<td class="td6">Thực phẩm</td>
+<td class="td7">14.8</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">7</td>
+<td class="td2">5</td>
+<td class="td3"><b>Nguyễn Văn Đạt</b> - Chủ tịch HĐQT PDR</td>
+<td class="td8">1.443,840</td>
+<td class="td9">2.611,200</td>
+<td class="td10"></td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty phát triển bất động sản Phát Đạt</td>
+<td class="td5">PDR</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">14.7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">8</td>
+<td class="td2">3</td>
+<td class="td3"><b>Đặng Thành Tâm</b> - Chủ tịch HĐQT KBC, SGT; Thành viên HĐQT ITA, NVB</td>
+<td class="td8">1.399,023</td>
+<td class="td9">5.180,172</td>
+<td class="td10">1964</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tổng công ty Phát triển Đô thị Kinh Bắc<br>Công ty Công nghệ Viễn thông Sài Gòn<br>Công ty Đầu tư&nbsp;Công nghiệp Tân Tạo<br>Ngân hàng Nam Việt</td>
+<td class="td5">KBC<br>SGT<br>ITA<br>NVB</td>
+<td class="td6">Bất động sản<br>Internet<br>Bất động sản<br>Ngân hàng</td>
+<td class="td7">4.5</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">9</td>
+<td class="td2">4</td>
+<td class="td3"><b>Trần Đình Long</b> - Chủ tịch HĐQT HPG</td>
+<td class="td8">1.339,800</td>
+<td class="td9">2.962,872</td>
+<td class="td10">1961</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn Hòa Phát</td>
+<td class="td5">HPG</td>
+<td class="td6">Thép</td>
+<td class="td7">3.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">10</td>
+<td class="td2">8</td>
+<td class="td3"><b>Hà Văn Thắm</b> - Chủ tịch HĐQT OGC, OCH</td>
+<td class="td8">861,843</td>
+<td class="td9">2.012,865</td>
+<td class="td10">1972</td>
+<td class="td11">Tiến sỹ</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn Đại Dương<br>Công ty Khách sạn và Dịch vụ Đại Dương</td>
+<td class="td5">OGC<br>OCH</td>
+<td class="td6">Dịch vụ đầu tư<br>Bất động sản</td>
+<td class="td7">6.7</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">11</td>
+<td class="td2">18</td>
+<td class="td3"><b>Đặng Ngọc Lan</b> - Vợ ông Nguyễn Đức Kiên - Phó Chủ tịch Hội đồng sáng lập ACB</td>
+<td class="td8">831,880</td>
+<td class="td9">882,559</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Ngân hàng Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">12</td>
+<td class="td2">11</td>
+<td class="td3"><b>Nguyễn Thị Như Loan</b> - Chủ tịch HĐQT QCG</td>
+<td class="td8">813,820</td>
+<td class="td9">1.640,837</td>
+<td class="td10"></td>
+<td class="td11">12/12</td>
+<td class="td12">Gia Lai</td>
+<td class="td4">Công ty Quốc Cường Gia Lai</td>
+<td class="td5">QCG</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">20.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">13</td>
+<td class="td2">15</td>
+<td class="td3"><b>Trương Gia Bình</b> - Chủ tịch HĐQT FPT</td>
+<td class="td8">777,052</td>
+<td class="td9">1.002,538</td>
+<td class="td10">1956</td>
+<td class="td11">Tiến sỹ</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn FPT</td>
+<td class="td5">FPT</td>
+<td class="td6">Dịch vụ máy tính</td>
+<td class="td7">7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">14</td>
+<td class="td2">23</td>
+<td class="td3"><b>Nguyễn Đức Kiên</b> - Phó Chủ tịch Hội đồng sáng lập ACB</td>
+<td class="td8">759,612</td>
+<td class="td9">805,889</td>
+<td class="td10">1964</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Ngân hàng Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">15</td>
+<td class="td2">26</td>
+<td class="td3"><b>Trương Thị Lệ Khanh</b> - Chủ tịch HĐQT VHC</td>
+<td class="td8">663,761</td>
+<td class="td9">688,957</td>
+<td class="td10">1961</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Vĩnh Hoàn</td>
+<td class="td5">VHC</td>
+<td class="td6">Nông sản và thủy hải sản</td>
+<td class="td7">4.2</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">16</td>
+<td class="td2">41</td>
+<td class="td3"><b>Đặng Văn Thành</b> - Chủ tịch HĐQT STB</td>
+<td class="td8">644,762</td>
+<td class="td9">453,924</td>
+<td class="td10"></td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Ngân hàng Sài Gòn Thương Tín</td>
+<td class="td5">STB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">8.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">17</td>
+<td class="td2">25</td>
+<td class="td3"><b>Trần Hùng Huy</b> - Phó TGĐ ACB</td>
+<td class="td8">620,980</td>
+<td class="td9">750,350</td>
+<td class="td10">1978</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Ngân hàng Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">18</td>
+<td class="td2">29</td>
+<td class="td3"><b>Đặng Hồng Anh</b> - Chủ tịch HĐQT SCR; Thành viên HĐQT STB, Con ông Đặng Văn Thành</td>
+<td class="td8">612,697</td>
+<td class="td9">618,262</td>
+<td class="td10"></td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Địa ốc Sài Gòn Thương Tín<br>Ngân hàng&nbsp;Sài Gòn Thương Tín</td>
+<td class="td5">SCR<br>STB</td>
+<td class="td6">Bất động sản<br>Ngân hàng</td>
+<td class="td7">73.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">19</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Chang Hen Jui</b> - Chồng bà Huỳnh Quế Hà - Phó Chủ tịch HĐQT STB</td>
+<td class="td8">532,628</td>
+<td class="td9">(*)</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">Ngân hàng Sài Gòn Thương Tín</td>
+<td class="td5">STB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">8.3</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">20</td>
+<td class="td2">14</td>
+<td class="td3"><b>Nguyễn Thị Kim Xuân</b> - Cổ đông lớn KBC, SGT - Chị Vợ ông Đặng Thành Tâm KBC</td>
+<td class="td8">496,052</td>
+<td class="td9">1.572,541</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tổng công ty Phát triển Đô thị Kinh Bắc<br>Công ty Công nghệ Viễn thông Sài Gòn</td>
+<td class="td5">KBC<br>SGT</td>
+<td class="td6">Bất động sản<br>Internet</td>
+<td class="td7">8.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">21</td>
+<td class="td2">35</td>
+<td class="td3"><b>Dương Ngọc Minh</b> - Chủ tịch HĐQT kiêm TGĐ HVG; Phó Chủ tịch HĐQT AGF; Chủ tịch HĐQT VTF</td>
+<td class="td8">452,628</td>
+<td class="td9">505,851</td>
+<td class="td10">1956</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Hùng Vương<br>Công ty XNK Thủy sản An Giang<br>Công ty Thủy sản Việt Thắng</td>
+<td class="td5">HVG<br>AGF<br>VTF</td>
+<td class="td6">Nông sản và thủy hải sản</td>
+<td class="td7">3.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">22</td>
+<td class="td2">10</td>
+<td class="td3"><b>Nguyễn Duy Hưng</b> - Chủ tịch HĐQT kiêm TGĐ SSI</td>
+<td class="td8">443,542</td>
+<td class="td9">1.740,745</td>
+<td class="td10">1962</td>
+<td class="td11">Cử nhân Luật</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Công ty Chứng khoán Sài Gòn<br>Công ty Xuyên Thái Bình Dương<br>Tập đoàn Hoàng Anh Gia Lai<br>Thuỷ điện Vĩnh Sơn Sông Hinh</td>
+<td class="td5">SSI<br>PAN<br>HAG<br>VSH</td>
+<td class="td6">Dịch vụ đầu tư<br>Dịch vụ tiêu dùng<br>Điện</td>
+<td class="td7">47.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">23</td>
+<td class="td2">17</td>
+<td class="td3"><b>Vũ Thị Hiền</b> - Vợ ông Trần Đình Long, Chủ tịch HĐQT HPG</td>
+<td class="td8">410,351</td>
+<td class="td9">907,460</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn Hòa Phát</td>
+<td class="td5">HPG</td>
+<td class="td6">Thép</td>
+<td class="td7">3.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">24</td>
+<td class="td2">34</td>
+<td class="td3"><b>Bùi Quang Ngọc</b> - Phó Chủ tịch HĐQT FPT</td>
+<td class="td8">401,932</td>
+<td class="td9">507,893</td>
+<td class="td10">1956</td>
+<td class="td11">Tiến sỹ</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn FPT</td>
+<td class="td5">FPT</td>
+<td class="td6">Dịch vụ máy tính</td>
+<td class="td7">7</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">25</td>
+<td class="td2">21</td>
+<td class="td3"><b>Trần Kim Thành</b> - Chủ tịch HĐQT KDC, TRI, Phó Chủ tịch HĐQT TLG</td>
+<td class="td8">380,110</td>
+<td class="td9">827,235</td>
+<td class="td10"></td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Kinh Đô<br>Công ty Nước Giải khát Sài Gòn Tribeco<br>Tập đoàn Thiên Long</td>
+<td class="td5">KDC<br>TRI<br>TLG</td>
+<td class="td6">Thực phẩm<br>Nước ngọt<br>Cửa hàng chuyên dụng</td>
+<td class="td7">8.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">26</td>
+<td class="td2">39</td>
+<td class="td3"><b>Bùi Pháp</b> - Chủ tịch HĐQT DLG, DL1</td>
+<td class="td8">366,966</td>
+<td class="td9">462,898</td>
+<td class="td10">1962</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Gia Lai</td>
+<td class="td4">Tập đoàn Đức Long Gia Lai<br>Công ty Đầu tư phát triển dịch vụ công trình công cộng Đức Long Gia Lai</td>
+<td class="td5">DLG<br>DL1</td>
+<td class="td6">Đồ đạc, nội thất<br>Dịch vụ vận tải</td>
+<td class="td7">18.7</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">27</td>
+<td class="td2">27</td>
+<td class="td3"><b>Nguyễn Thị Diệu Hiền</b> - Vợ ông Nguyễn Văn Đạt - Chủ tịch HĐQT PDR</td>
+<td class="td8">360,960</td>
+<td class="td9">652,800</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Phát triển bất động sản Phát Đạt</td>
+<td class="td5">PDR</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">14.7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">28</td>
+<td class="td2">32</td>
+<td class="td3"><b>Trần Mộng Hùng</b> - Bố ông Trần Hùng Huy - Phó TGĐ ACB</td>
+<td class="td8">356,915</td>
+<td class="td9">586,016</td>
+<td class="td10">1953</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Ngân hàng Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">29</td>
+<td class="td2">49</td>
+<td class="td3"><b>Nguyễn Thanh Nghĩa</b> - Chủ tịch HĐQT DTL</td>
+<td class="td8">342,026</td>
+<td class="td9">325,245</td>
+<td class="td10">1963</td>
+<td class="td11">Đại học</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Đại Thiên Lộc</td>
+<td class="td5">DTL</td>
+<td class="td6">Thép</td>
+<td class="td7">5.5</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">30</td>
+<td class="td2">22</td>
+<td class="td3"><b>Lê Phước Vũ</b> - Chủ tịch HĐQT HSG</td>
+<td class="td8">323,900</td>
+<td class="td9">810,864</td>
+<td class="td10">1963</td>
+<td class="td11">Trung học</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tập đoàn Hoa Sen</td>
+<td class="td5">HSG</td>
+<td class="td6">Thép</td>
+<td class="td7">5.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">31</td>
+<td class="td2">20</td>
+<td class="td3"><b>Nguyễn Thị Kim Thanh</b> - Vợ ông Đặng Thành Tâm - Thành viên HĐQT</td>
+<td class="td8">289,511</td>
+<td class="td9">842,339</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tổng công ty Phát triển Đô thị Kinh Bắc<br>Công ty Công nghệ Viễn thông Sài Gòn<br>Công ty Đầu tư&nbsp;Công nghiệp Tân Tạo<br>Ngân hàng Nam Việt</td>
+<td class="td5">KBC<br>SGT<br>ITA<br>NVB</td>
+<td class="td6">Bất động sản<br>Internet<br>Bất động sản<br>Ngân hàng</td>
+<td class="td7">8.3</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">32</td>
+<td class="td2">24</td>
+<td class="td3"><b>Trần Lệ Nguyên</b> - Phó Chủ tịch HĐQT kiêm TGĐ KDC; Phó Chủ tịch HĐQT TRI; Thành viên HĐQT TLG; Em ông Trần Kim Thành</td>
+<td class="td8">255,444</td>
+<td class="td9">753,958</td>
+<td class="td10">1968</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Kinh Đô<br>Công ty Nước Giải khát Sài Gòn Tribeco<br>Tập đoàn Thiên Long</td>
+<td class="td5">KDC<br>TRI<br>TLG</td>
+<td class="td6">Thực phẩm<br>Nước ngọt<br>Cửa hàng chuyên dụng</td>
+<td class="td7">8.6</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">33</td>
+<td class="td2">33</td>
+<td class="td3"><b>Chu Thị Bình</b> - Phó TGĐ MPC</td>
+<td class="td8">255,135</td>
+<td class="td9">522,502</td>
+<td class="td10">1964</td>
+<td class="td11">Trung cấp</td>
+<td class="td12">Cà Mau</td>
+<td class="td4">Công ty Thuỷ sản Minh Phú</td>
+<td class="td5">MPC</td>
+<td class="td6">Nông sản và thủy hải sản</td>
+<td class="td7">3.9</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">34</td>
+<td class="td2">52</td>
+<td class="td3"><b>Đào Hữu Hoàng</b> - Chủ tịch HĐQT SPM</td>
+<td class="td8">254,877</td>
+<td class="td9">308,535</td>
+<td class="td10">1963</td>
+<td class="td11">Bác sỹ</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty S.P.M.</td>
+<td class="td5">SPM</td>
+<td class="td6">Dược phẩm</td>
+<td class="td7">5.9</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">35</td>
+<td class="td2">361</td>
+<td class="td3"><b>Trần Minh Hoàng</b> - Phó TGĐ VNI, Em ông Trần Hùng Huy - ACB</td>
+<td class="td8">248,484</td>
+<td class="td9">25,647</td>
+<td class="td10"></td>
+<td class="td11">Tiến sỹ</td>
+<td class="td12">TP HCM</td>
+<td class="td4">CTCP Đầu tư bất động sản Viên Nam</td>
+<td class="td5">VNI</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">36</td>
+<td class="td2">7</td>
+<td class="td3"><b>Đặng Thị Hoàng Yến</b> - Chị ông Đặng Thành Tâm - Thành viên HĐQT ITA</td>
+<td class="td8">247,085</td>
+<td class="td9">2.046,990</td>
+<td class="td10">1959</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Đầu tư Công nghiệp Tân Tạo</td>
+<td class="td5">ITA</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">4.5</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">37</td>
+<td class="td2">73</td>
+<td class="td3"><b>Cao Thị Ngọc Dung</b> - Chủ tịch HĐQT PNJ</td>
+<td class="td8">244,775</td>
+<td class="td9">216,765</td>
+<td class="td10">1957</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Vàng bạc đá quý Phú Nhuận</td>
+<td class="td5">PNJ</td>
+<td class="td6">Khai thác vàng</td>
+<td class="td7">10.5</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">38</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Đặng Thu Thủy</b> - Mẹ ông Trần Hùng Huy - Phó TGĐ ACB</td>
+<td class="td8">236,684</td>
+<td class="td9">(*)</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">Ngân hàng Thương Mại Cổ Phần Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">39</td>
+<td class="td2">38</td>
+<td class="td3"><b>Lê Văn Quang</b> - Chồng bà Chu Thị Bình - Phó TGĐ</td>
+<td class="td8">233,031</td>
+<td class="td9">477,233</td>
+<td class="td10">1958</td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Thuỷ sản Minh Phú</td>
+<td class="td5">MPC</td>
+<td class="td6">Nông sản và thủy hải sản</td>
+<td class="td7">3.9</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">40</td>
+<td class="td2">44</td>
+<td class="td3"><b>Trần Đặng Thu Thảo</b> - Chị ông Trần Hùng Huy - Phó TGĐ ACB</td>
+<td class="td8">228,361</td>
+<td class="td9">397,572</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">TP HCM</td>
+<td class="td4">Ngân hàng Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">41</td>
+<td class="td2">43</td>
+<td class="td3"><b>Doãn Tới</b> - Chủ tịch HĐQT ANV</td>
+<td class="td8">221,630</td>
+<td class="td9">422,295</td>
+<td class="td10">1954</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">An Giang</td>
+<td class="td4">Công ty Nam Việt</td>
+<td class="td5">ANV</td>
+<td class="td6">Nông sản và thủy hải sản</td>
+<td class="td7">7.9</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">42</td>
+<td class="td2">16</td>
+<td class="td3"><b>Đặng Thị Hoàng Phượng</b> - Em ông Đặng Thành Tâm - Chủ tịch HĐQT KBC</td>
+<td class="td8">221,569</td>
+<td class="td9">989,700</td>
+<td class="td10">1969</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tổng công ty Phát triển Đô thị Kinh Bắc<br>Công ty Đầu tư&nbsp;Công nghiệp Tân Tạo<br>Công ty Công nghệ Viễn thông Sài Gòn</td>
+<td class="td5">KBC<br>ITA<br>SGT</td>
+<td class="td6">Bất động sản<br>Bất động sản<br>Internet</td>
+<td class="td7">8.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">43</td>
+<td class="td2">60</td>
+<td class="td3"><b>Huỳnh Quế Hà</b> - Phó Chủ tịch HĐQT STB, VTO</td>
+<td class="td8">220,925</td>
+<td class="td9">258,088</td>
+<td class="td10">1969</td>
+<td class="td11">MBA</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Ngân hàng Sài Gòn Thương Tín<br>Công ty&nbsp;Vận tải Xăng dầu Vitaco</td>
+<td class="td5">STB<br>VTO</td>
+<td class="td6">Ngân hàng<br>Vận tải biển</td>
+<td class="td7">8.3</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">44</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Lê Văn Hướng</b> - Chủ tịch HĐQT JVC</td>
+<td class="td8">218,284</td>
+<td class="td9">(*)</td>
+<td class="td10">1976</td>
+<td class="td11"></td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP Thiết bị Y tế Việt Nhật</td>
+<td class="td5">JVC</td>
+<td class="td6">Thiết bị y tế</td>
+<td class="td7">7.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">45</td>
+<td class="td2">37</td>
+<td class="td3"><b>Lý Điền Sơn</b> - Chủ tịch HĐQT KDH</td>
+<td class="td8">216,778</td>
+<td class="td9">480,729</td>
+<td class="td10">1966</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Đầu tư và Kinh doanh nhà Khang Điền</td>
+<td class="td5">KDH</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">10.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">46</td>
+<td class="td2">36</td>
+<td class="td3"><b>Nguyễn Hồng Nam</b> - Em ông Nguyễn Duy Hưng - Chủ tịch HĐQT SSI</td>
+<td class="td8">214,925</td>
+<td class="td9">502,014</td>
+<td class="td10">1967</td>
+<td class="td11">Thạc sỹ</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Chứng khoán Sài Gòn</td>
+<td class="td5">SSI</td>
+<td class="td6">Dịch vụ đầu tư</td>
+<td class="td7">47.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">47</td>
+<td class="td2">46</td>
+<td class="td3"><b>Hoàng Minh Châu</b> - Phó Chủ tịch HĐQT FPT</td>
+<td class="td8">198,800</td>
+<td class="td9">341,178</td>
+<td class="td10">1958</td>
+<td class="td11">MBA</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tập đoàn FPT</td>
+<td class="td5">FPT</td>
+<td class="td6">Dịch vụ máy tính</td>
+<td class="td7">7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">48</td>
+<td class="td2">83</td>
+<td class="td3"><b>Phạm Văn Khương</b> - Phó TGĐ VIC</td>
+<td class="td8">182,336</td>
+<td class="td9">178,670</td>
+<td class="td10">1959</td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP VINCOM</td>
+<td class="td5">VIC</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">14.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">49</td>
+<td class="td2">70</td>
+<td class="td3"><b>Nguyễn Thành Nam</b> - Thành viên HĐQT FPT</td>
+<td class="td8">181,583</td>
+<td class="td9">229,268</td>
+<td class="td10">1961</td>
+<td class="td11">Tiến sỹ</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn FPT</td>
+<td class="td5">FPT</td>
+<td class="td6">Dịch vụ máy tính</td>
+<td class="td7">7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">50</td>
+<td class="td2">71</td>
+<td class="td3"><b>Trương Thị Thanh Thanh</b> - Phó Chủ tịch HĐQT FPT, Chị ông Trương Gia Bình - Chủ tịch HĐQT FPT</td>
+<td class="td8">172,993</td>
+<td class="td9">224,507</td>
+<td class="td10">1951</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Tập&nbsp;đoàn&nbsp;FPT</td>
+<td class="td5">FPT</td>
+<td class="td6">Dịch vụ máy tính</td>
+<td class="td7">7</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">51</td>
+<td class="td2">74</td>
+<td class="td3"><b>Nguyễn Thùy Hương</b> - Em ông Nguyễn Đức Kiên - Phó Chủ tịch Hội đồng sáng lập ACB</td>
+<td class="td8">164,990</td>
+<td class="td9">199,362</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">Ngân hàng Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">52</td>
+<td class="td2">75</td>
+<td class="td3"><b>Nguyễn Thúy Lan</b> - Em ông Nguyễn Đức Kiên - Phó Chủ tịch Hội đồng sáng lập ACB</td>
+<td class="td8">164,990</td>
+<td class="td9">199,362</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">Ngân hàng Á Châu</td>
+<td class="td5">ACB</td>
+<td class="td6">Ngân hàng</td>
+<td class="td7">7.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">53</td>
+<td class="td2">47</td>
+<td class="td3"><b>Nguyễn Tuấn Hải</b> - Chủ tịch HĐQT ALP và AME</td>
+<td class="td8">164,461</td>
+<td class="td9">335,500</td>
+<td class="td10">1965</td>
+<td class="td11">MBA</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Công ty Alphanam<br>Công ty Alphanam cơ điện</td>
+<td class="td5">ALP<br>AME</td>
+<td class="td6">Máy công nghiệp<br>Thiết bị điện</td>
+<td class="td7">18.8</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">54</td>
+<td class="td2">82</td>
+<td class="td3"><b>Lê Ngọc Ánh</b> - Vợ ông Phạm Phúc Toại - Chủ tịch HĐQT HLG</td>
+<td class="td8">161,886</td>
+<td class="td9">178,845</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">Tập đoàn Hoàng Long</td>
+<td class="td5">HLG</td>
+<td class="td6">Thuốc lá</td>
+<td class="td7">9.5</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">55</td>
+<td class="td2">48</td>
+<td class="td3"><b>Đỗ Cao Bảo</b> - Thành viên HĐQT FPT</td>
+<td class="td8">155,223</td>
+<td class="td9">326,600</td>
+<td class="td10">1957</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập&nbsp;đoàn&nbsp;FPT</td>
+<td class="td5">FPT</td>
+<td class="td6">Dịch vụ máy tính</td>
+<td class="td7">7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">56</td>
+<td class="td2">50</td>
+<td class="td3"><b>Nguyễn Mạnh Tuấn</b> - Phó Chủ tịch HĐQT HPG</td>
+<td class="td8">147,000</td>
+<td class="td9">325,080</td>
+<td class="td10">1962</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn Hòa Phát</td>
+<td class="td5">HPG</td>
+<td class="td6">Thép</td>
+<td class="td7">3.6</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">57</td>
+<td class="td2">51</td>
+<td class="td3"><b>Trần Tuấn Dương</b> - Phó Chủ tịch HĐQT/TGĐ HPG</td>
+<td class="td8">147,000</td>
+<td class="td9">325,080</td>
+<td class="td10">1963</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn Hòa Phát</td>
+<td class="td5">HPG</td>
+<td class="td6">Thép</td>
+<td class="td7">3.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">58</td>
+<td class="td2">106</td>
+<td class="td3"><b>Phạm Hồng Linh</b> - Chị bà Phạm Thúy Hằng - Phó Chủ tịch HĐQT VIC</td>
+<td class="td8">144,779</td>
+<td class="td9">141,868</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP VINCOM</td>
+<td class="td5">VIC</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">14.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">59</td>
+<td class="td2">53</td>
+<td class="td3"><b>Nguyễn Hoàng Minh</b> - Chủ tịch HĐQT KAC</td>
+<td class="td8">143,912</td>
+<td class="td9">302,214</td>
+<td class="td10">1959</td>
+<td class="td11">12/12</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Đầu tư địa ốc An Khang</td>
+<td class="td5">KAC</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">59.7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">60</td>
+<td class="td2">56</td>
+<td class="td3"><b>Hà Hoài Nam</b> - Chủ tịch HĐQT KLS</td>
+<td class="td8">135,625</td>
+<td class="td9">286,864</td>
+<td class="td10">1972</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Công ty Chứng khoán Kim Long</td>
+<td class="td5">KLS</td>
+<td class="td6">Dịch vụ đầu tư</td>
+<td class="td7">9.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">61</td>
+<td class="td2">128</td>
+<td class="td3"><b>Nguyễn Thiều Quang</b> - Anh ông Nguyễn Thiều Nam - Phó TGĐ MSN</td>
+<td class="td8">135,425</td>
+<td class="td9">112,230</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Tập đoàn Ma San</td>
+<td class="td5">MSN</td>
+<td class="td6">Thực phẩm</td>
+<td class="td7">14.8</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">62</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Mai Kiều Liên</b> - Chủ tịch HĐQT VNM</td>
+<td class="td8">130,643</td>
+<td class="td9">(*)</td>
+<td class="td10">1953</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">CTCP Sữa Việt Nam</td>
+<td class="td5">VNM</td>
+<td class="td6">Thực phẩm</td>
+<td class="td7">12.7</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">63</td>
+<td class="td2">80</td>
+<td class="td3"><b>Đặng Phước Thành</b> - Chủ tịch HĐQT VNS</td>
+<td class="td8">130,380</td>
+<td class="td9">186,345</td>
+<td class="td10">1957</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Ánh Dương Việt</td>
+<td class="td5">VNS</td>
+<td class="td6">Du lịch</td>
+<td class="td7">5.2</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">64</td>
+<td class="td2">62</td>
+<td class="td3"><b>Đỗ Quang Hiển</b> - Chủ tịch HĐQT SHB, SHS</td>
+<td class="td8">124,024</td>
+<td class="td9">256,290</td>
+<td class="td10">1962</td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Ngân hàng Sài Gòn - Hà Nội<br>Công ty Chứng khoán Sài Gòn - Hà Nội</td>
+<td class="td5">SHB<br>SHS</td>
+<td class="td6">Ngân hàng<br>Dịch vụ đầu tư</td>
+<td class="td7">4.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">65</td>
+<td class="td2">91</td>
+<td class="td3"><b>Lê Quang Tiến</b> - Phó Chủ tịch HĐQT FPT</td>
+<td class="td8">123,752</td>
+<td class="td9">160,604</td>
+<td class="td10">1958</td>
+<td class="td11">MBA</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập&nbsp;đoàn&nbsp;FPT</td>
+<td class="td5">FPT</td>
+<td class="td6">Dịch vụ máy tính</td>
+<td class="td7">7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">66</td>
+<td class="td2">203</td>
+<td class="td3"><b>Lê Thanh Thuấn</b> - Chủ tịch HĐQT ASM, IDI</td>
+<td class="td8">119,309</td>
+<td class="td9">63,037</td>
+<td class="td10">1958</td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">TP HCM</td>
+<td class="td4">CTCP Đầu tư và Xây dựng Sao Mai tỉnh An Giang<br>CTCP đầu tư và phát triển đa quốc gia I.D.I</td>
+<td class="td5">ASM<br>IDI</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">7.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">67</td>
+<td class="td2">113</td>
+<td class="td3"><b>Phạm Phúc Toại</b> - Chủ tịch HĐQT HLG</td>
+<td class="td8">116,669</td>
+<td class="td9">128,771</td>
+<td class="td10">1956</td>
+<td class="td11">Đại học</td>
+<td class="td12">TP HCM</td>
+<td class="td4">CTCP Tập đoàn Hoàng Long</td>
+<td class="td5">HLG</td>
+<td class="td6">Thuốc lá</td>
+<td class="td7">9.5</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">68</td>
+<td class="td2">96</td>
+<td class="td3"><b>Nguyễn Thị Bích Liên</b> - Phó Chủ tịch HĐQT DTL</td>
+<td class="td8">110,599</td>
+<td class="td9">152,971</td>
+<td class="td10">1964</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Đại Thiên Lộc</td>
+<td class="td5">DTL</td>
+<td class="td6">Thép</td>
+<td class="td7">3.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">69</td>
+<td class="td2">67</td>
+<td class="td3"><b>Doãn Gia Cường</b> - Phó Chủ tịch HĐQT HPG, VNS</td>
+<td class="td8">110,250</td>
+<td class="td9">243,810</td>
+<td class="td10">1963</td>
+<td class="td11">Thạc sỹ</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn Hòa Phát</td>
+<td class="td5">HPG</td>
+<td class="td6">Thép</td>
+<td class="td7">3.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">70</td>
+<td class="td2">68</td>
+<td class="td3"><b>Nguyễn Ngọc Quang</b> - Thành viên HĐQT HPG</td>
+<td class="td8">110,250</td>
+<td class="td9">243,810</td>
+<td class="td10"></td>
+<td class="td11">Trung cấp</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Tập đoàn Hòa Phát</td>
+<td class="td5">HPG</td>
+<td class="td6">Thép</td>
+<td class="td7">3.6</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">71</td>
+<td class="td2">72</td>
+<td class="td3"><b>Vương Ngọc Xiềm</b> - Thành viên HĐQT KDC</td>
+<td class="td8">105,344</td>
+<td class="td9">223,447</td>
+<td class="td10">1962</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Kinh Đô</td>
+<td class="td5">KDC</td>
+<td class="td6">Thực phẩm</td>
+<td class="td7">8.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">72</td>
+<td class="td2">139</td>
+<td class="td3"><b>Phạm Thị Tuyết Mai</b> - Vợ ông Phạm Văn Khương - Phó TGĐ VIC</td>
+<td class="td8">104,068</td>
+<td class="td9">101,975</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP VINCOM</td>
+<td class="td5">VIC</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">14.4</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">73</td>
+<td class="td2">107</td>
+<td class="td3"><b>Nguyễn Thanh Loan</b> - Con ông Nguyễn Thanh Nghĩa - Chủ tịch HĐQT DTL</td>
+<td class="td8">102,190</td>
+<td class="td9">141,340</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Đại Thiên Lộc</td>
+<td class="td5">DTL</td>
+<td class="td6">Thép</td>
+<td class="td7">3.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">74</td>
+<td class="td2">77</td>
+<td class="td3"><b>Vương Quốc Trụ</b> - Em ông Trần Kim Thành - Chủ tịch HĐQT KDC</td>
+<td class="td8">98,444</td>
+<td class="td9">194,994</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">Công ty Kinh Đô</td>
+<td class="td5">KDC</td>
+<td class="td6">Thực phẩm</td>
+<td class="td7">8.6</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">75</td>
+<td class="td2">76</td>
+<td class="td3"><b>Lê Thị Dịu Minh</b> - Con bà Chu Thị Bình - Phó TGĐ MPC</td>
+<td class="td8">96,360</td>
+<td class="td9">197,340</td>
+<td class="td10"></td>
+<td class="td11">Đại học</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty thuỷ sản Minh Phú</td>
+<td class="td5">MPC</td>
+<td class="td6">Nông sản và thủy hải sản</td>
+<td class="td7">3.9</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">76</td>
+<td class="td2">89</td>
+<td class="td3"><b>Nguyễn Văn Tuấn</b> - Anh ông Nguyễn Văn Đạt - Thành viên HĐQT PDR</td>
+<td class="td8">94,000</td>
+<td class="td9">170,000</td>
+<td class="td10">1964</td>
+<td class="td11">12/12</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Phát triển Bất động sản Phát Đạt</td>
+<td class="td5">PDR</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">14.7</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">77</td>
+<td class="td2">186</td>
+<td class="td3"><b>Trần Phương Ngọc Giao</b> - Con bà Cao Thị Ngọc Dung - Chủ tịch HĐQT PNJ</td>
+<td class="td8">93,425</td>
+<td class="td9">71,200</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Vàng bạc đá quý Phú Nhuận</td>
+<td class="td5">PNJ</td>
+<td class="td6">Khai thác vàng</td>
+<td class="td7">10.5</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">78</td>
+<td class="td2">69</td>
+<td class="td3"><b>Lương Trí Thìn</b> - Chủ tịch HĐQT DXG</td>
+<td class="td8">92,718</td>
+<td class="td9">233,933</td>
+<td class="td10">1976</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">CTCP Dịch vụ- Xây dựng Địa ốc Đất Xanh</td>
+<td class="td5">DXG</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">3.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">79</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Trần Uyển Nhàn</b> - Thành viên HĐQT NKG, Con ông Trần Xảo Cơ</td>
+<td class="td8">90,743</td>
+<td class="td9">(*)</td>
+<td class="td10">1976</td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Hữu Liên Á Châu</td>
+<td class="td5">HLA</td>
+<td class="td6">Thép</td>
+<td class="td7">188.1</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">80</td>
+<td class="td2">93</td>
+<td class="td3"><b>Võ Dư Ngọc Trân</b> - Thành viên HĐQT NBB</td>
+<td class="td8">88,020</td>
+<td class="td9">158,400</td>
+<td class="td10">1972</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Năm Bảy Bảy</td>
+<td class="td5">NBB</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">12.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">81</td>
+<td class="td2">118</td>
+<td class="td3"><b>Đặng Thành Duy</b> - Con ông Đặng Phước Thành - Chủ tịch HĐQT VNS</td>
+<td class="td8">85,860</td>
+<td class="td9">122,715</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Ánh Dương Việt Nam</td>
+<td class="td5">VNS</td>
+<td class="td6">Du lịch</td>
+<td class="td7">5.2</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">82</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Trịnh Văn Quyết</b> - Chủ tịch HĐQT FLC</td>
+<td class="td8">85,260</td>
+<td class="td9">(*)</td>
+<td class="td10">1975</td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Tập đoàn FLC</td>
+<td class="td5">FLC</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7"></td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">83</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Triệu Dỏng</b> - Anh ông Nguyễn Hoàng Phương -Thành viên HĐQT CCL</td>
+<td class="td8">84,460</td>
+<td class="td9">(*)</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Đầu tư và Phát triển Dầu khí Cửu Long</td>
+<td class="td5">CCL</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">14</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">84</td>
+<td class="td2">123</td>
+<td class="td3"><b>Lê Viết Hải</b> - Chủ tịch HĐQT HBC</td>
+<td class="td8">83,808</td>
+<td class="td9">118,766</td>
+<td class="td10"></td>
+<td class="td11">Kiến trúc sư</td>
+<td class="td12">TP HCM</td>
+<td class="td4">CTCP Xây Dựng và Kinh Doanh Địa ốc Hòa Bình</td>
+<td class="td5">HBC</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">3.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">85</td>
+<td class="td2">88</td>
+<td class="td3"><b>Trương Hồng Loan</b> - Chủ tịch HĐQT CTI</td>
+<td class="td8">83,028</td>
+<td class="td9">170,628</td>
+<td class="td10">1969</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Đồng Nai</td>
+<td class="td4">Công ty Đầu tư Phát triển Cường Thuận IDICO</td>
+<td class="td5">CTI</td>
+<td class="td6">Công trình xây dựng</td>
+<td class="td7">23.6</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">86</td>
+<td class="td2">66</td>
+<td class="td3"><b>Đỗ Thị Kim Ngọc</b> - Em ông Đỗ Xuân Chiểu - Chủ tịch HĐQT POM</td>
+<td class="td8">80,303</td>
+<td class="td9">249,638</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Thép Pomina</td>
+<td class="td5">POM</td>
+<td class="td6">Thép</td>
+<td class="td7">3.9</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">87</td>
+<td class="td2">55</td>
+<td class="td3"><b>Nguyễn Ngọc Hải</b> - Chồng bà Nguyễn Thị Mai Thanh - Chủ tịch HĐQT REE, STB</td>
+<td class="td8">79,023</td>
+<td class="td9">292,192</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Cơ điện lạnh REE<br>Ngân hàng Sài Gòn Thương Tín</td>
+<td class="td5">REE<br>STB</td>
+<td class="td6">Máy công nghiệp<br>Ngân hàng</td>
+<td class="td7">6.2</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">88</td>
+<td class="td2">59</td>
+<td class="td3"><b>Đoàn Nguyên Thu</b> - Em ông Đoàn Nguyên Đức - Phó TGĐ HAG</td>
+<td class="td8">78,854</td>
+<td class="td9">275,833</td>
+<td class="td10">1977</td>
+<td class="td11">MBA</td>
+<td class="td12">Gia Lai</td>
+<td class="td4">Tập đoàn Hoàng Anh Gia Lai</td>
+<td class="td5">HAG</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">6.2</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">89</td>
+<td class="td2">105</td>
+<td class="td3"><b>Võ Thị Thanh</b> - Chủ tịch HĐQT GTT</td>
+<td class="td8">78,484</td>
+<td class="td9">144,892</td>
+<td class="td10">1955</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Phú Yên</td>
+<td class="td4">CTCP Thuận Thảo</td>
+<td class="td5">GTT</td>
+<td class="td6">Khách sạn</td>
+<td class="td7">12.4</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">90</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Nguyễn Như Khánh</b> - Cổ đông lớn SBS</td>
+<td class="td8">77,500</td>
+<td class="td9">(*)</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Chứng khoán Ngân hàng Sài Gòn Thương tín</td>
+<td class="td5">SBS</td>
+<td class="td6">Dịch vụ đầu tư</td>
+<td class="td7">8.5</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">91</td>
+<td class="td2">92</td>
+<td class="td3"><b>Phạm Tấn Huy Bằng</b> - Thành viên HĐQT KLS</td>
+<td class="td8">77,275</td>
+<td class="td9">158,461</td>
+<td class="td10">1961</td>
+<td class="td11">Cử nhân</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">Công ty Chứng khoán Kim Long</td>
+<td class="td5">KLS</td>
+<td class="td6">Dịch vụ đầu tư</td>
+<td class="td7">9.1</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">92</td>
+<td class="td2">151</td>
+<td class="td3"><b>Ngô Thị Thông</b> - Chủ tịch HĐQT NHW</td>
+<td class="td8">76,330</td>
+<td class="td9">92,645</td>
+<td class="td10">1952</td>
+<td class="td11">Đại học</td>
+<td class="td12">TP HCM</td>
+<td class="td4">CTCP Ngô Han</td>
+<td class="td5">NHW</td>
+<td class="td6">Thiết bị viễn thông</td>
+<td class="td7">6.6</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">93</td>
+<td class="td2">132</td>
+<td class="td3"><b>Trần Hùng Giang</b> - Phó Chủ tịch HĐQT ELC</td>
+<td class="td8">75,329</td>
+<td class="td9">109,344</td>
+<td class="td10">1969</td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP Đầu tư Phát triển Công nghệ điện tử - Viễn thông</td>
+<td class="td5">ELC</td>
+<td class="td6">Phần mềm</td>
+<td class="td7">5.3</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">94</td>
+<td class="td2">87</td>
+<td class="td3"><b>Nguyễn Mạnh Hùng</b> - Em ông Nguyễn Duy Hưng - Chủ tịch HĐQT SSI</td>
+<td class="td8">74,441</td>
+<td class="td9">171,352</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">Công ty Chứng khoán Sài Gòn</td>
+<td class="td5">SSI</td>
+<td class="td6">Dịch vụ đầu tư</td>
+<td class="td7">47.1</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">95</td>
+<td class="td2">121</td>
+<td class="td3"><b>Nguyễn Trọng Thông</b> - Chủ tịch HĐQT HDG</td>
+<td class="td8">73,476</td>
+<td class="td9">119,387</td>
+<td class="td10"></td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP Tập đoàn Hà Đô</td>
+<td class="td5">HDG</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">4.1</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">96</td>
+<td class="td2">228</td>
+<td class="td3"><b>Võ Thị Thanh Tâm</b> - Vợ ông Lê Thanh Thuấn - Chủ tịch HĐQT ASM</td>
+<td class="td8">72,609</td>
+<td class="td9">51,282</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Đầu tư và Xây dựng Sao Mai tỉnh An Giang</td>
+<td class="td5">ASM</td>
+<td class="td6">Bất Động Sản</td>
+<td class="td7">7.3</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">97</td>
+<td class="td2">240</td>
+<td class="td3"><b>Nguyễn Văn Đạo</b> - Chủ tịch HĐQT AGD</td>
+<td class="td8">72,575</td>
+<td class="td9">48,383</td>
+<td class="td10">1966</td>
+<td class="td11">Đại học Kinh tế</td>
+<td class="td12">Bến Tre</td>
+<td class="td4">CTCP Gò Đàng</td>
+<td class="td5">AGD</td>
+<td class="td6">Nông sản và thủy hải sản</td>
+<td class="td7">2.7</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">98</td>
+<td class="td2">100</td>
+<td class="td3"><b>Trần Ngọc Henri</b> - Phó Chủ tịch HĐQT BCI</td>
+<td class="td8">71,795</td>
+<td class="td9">147,032</td>
+<td class="td10">1955</td>
+<td class="td11">12/12</td>
+<td class="td12">TP HCM</td>
+<td class="td4">Công ty Đầu tư Xây dựng Bình Chánh</td>
+<td class="td5">BCI</td>
+<td class="td6">Bất động sản</td>
+<td class="td7">6.6</td>
+</tr>
+<tr class="bg_tr">
+<td class="td1">99</td>
+<td class="td2">(*)</td>
+<td class="td3"><b>Phạm Thị Nhật Thanh</b> - Cổ đông lớn SBS</td>
+<td class="td8">71,703</td>
+<td class="td9">(*)</td>
+<td class="td10"></td>
+<td class="td11"></td>
+<td class="td12"></td>
+<td class="td4">CTCP Chứng khoán Ngân hàng Sài Gòn Thương tín</td>
+<td class="td5">SBS</td>
+<td class="td6">Dịch vụ đầu tư</td>
+<td class="td7">8.5</td>
+</tr>
+<tr class="bg_tr1">
+<td class="td1">100</td>
+<td class="td2">138</td>
+<td class="td3"><b>Phan Chiến Thắng</b> - Chủ tịch HĐQT ELC</td>
+<td class="td8">71,130</td>
+<td class="td9">103,156</td>
+<td class="td10">1971</td>
+<td class="td11">Kỹ sư</td>
+<td class="td12">Hà Nội</td>
+<td class="td4">CTCP Đầu tư Phát triển Công nghệ điện tử - Viễn thông</td>
+<td class="td5">ELC</td>
+<td class="td6">Phần mềm</td>
+<td class="td7">5.3</td>
+</tr>
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+        	            </tbody></table>
+        	        </div>
+        	    </div>
+        	    <div class="ct-right"></div>
+            </div>   
+            <div class="ct-note">
+                <p>- Nguồn dữ liệu: Cáo bạch và thông tin của doanh nghiệp niêm yết tại hai Sở Giao dịch Chứng khoán Hà Nội và TP HCM</p>
+                <p>-(*) : Thuộc doanh nghiệp mới lên sàn trong năm 2011, hoặc trước đó nhưng chưa có thông tin</p>
+                <div class="ctn">
+                    <div class="ctn-left">
+                        <p>-(**): Tổng giá trị cổ phiếu năm giữ tính theo giá đóng cửa phiên giao dịch 31/12/2011</p>
+                        <p>-(***): Tổng giá trị cổ phiếu nắm giữ tính theo giá đóng cửa phiên giao dịch 31/12/2010</p>
+                    </div>
+                    <div class="ctn-right">
+                        <div class="ctnr-left">
+                            Đối tác cung cấp dữ liệu
+                        </div>
+                        <div class="ctnr-right">
+                            <a target="_blank" href="http://www.vndirect.com.vn">
+								<img src="http://st.f2.vnecdn.net/c/v1/toprich/2011/vndirect.gif" alt="">
+							</a>
+                        </div>
+                    </div>
+                </div>
+            </div>     	
+        </div>
+        <div id="footer">
+            <p>&copy;&nbsp;CopyRight 1997 - 2013 VNExpress.net, All rights reserved <a href="http://vnexpress.net/ContactUs/?id=webmaster@vnexpress.net">
+                Contact us</a> - <a href="javascript:ContactUs()">Thông tin tòa soạn</a>                                    
+            </p>
+            <p>&reg;&nbsp;VnExpress giữ bản quyền nội dung trang này.</p>
+        </div>
+    </div>	
+
+<script type="text/javascript" language="javascript">	
+	function setCookieVistorID(Name, Domain, Value)
+	{
+			var cstr = Name.concat('=').concat(Value);				
+			cstr=cstr.concat(';domain=').concat(Domain);			
+			var Expires=(new Date(2020,11,14)).toGMTString();				
+			document.cookie=cstr.concat(';expires=').concat(Expires);
+	}
+
+	function setCookieVistorIDTime(Name, Domain, Value)
+	{
+			var cstr = Name.concat('=').concat(Value);				
+			cstr=cstr.concat(';domain=').concat(Domain);							
+			var Expires=new Date().addHours(2).toGMTString();
+			document.cookie=cstr.concat(';expires=').concat(Expires);
+	}
+
+	function S4() {
+	   return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+	}
+	function guid() {
+	   return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4());
+	}
+	function guidGenerator() {
+		var S4 = function() {
+		   return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+		};
+		return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4());
+	}
+	var VisitorID = getCookie('VisitorID','');
+	var VisitorIDTime = getCookie('VisitorIDTime','');
+	var OldVisit = 0;
+	var OldVisitTime = 0;
+	Date.prototype.addHours= function(h){
+		this.setHours(this.getHours()+h);
+		return this;
+	}		
+	if (VisitorID==""){
+		VisitorID = guidGenerator();
+		setCookieVistorID('VisitorID','vnexpress.net',VisitorID);			
+	}else{
+		OldVisit = 1;
+	}
+	if (VisitorIDTime==""){
+		VisitorIDTime = guidGenerator();			
+		setCookieVistorIDTime('VisitorIDTime','vnexpress.net',VisitorIDTime);
+	}else{
+		OldVisitTime = 1;
+	}
+</script>
+
+<script type="text/javascript" language="javascript">		
+	var LPAGE_FOLDER = "172";
+	var LVisited = "1";
+	var LReferer = "www.google.com.vn";
+	var Lpid = "172";
+	var LdNow = "5/7/2013 10:59:40 AM";		
+</script>
+
+<script type="text/javascript" language="javascript"  src="http://st.f2.vnecdn.net/j/v1/jquery-1.7.1.min.js"></script>	
+<script type="text/javascript" src="http://st.f2.vnecdn.net/j/v1/jquery.mousewheel.js"></script>
+<script type="text/javascript" src='http://st.f2.vnecdn.net/j/v1/jquery.jscrollpane.js'></script>
+<script>
+
+	function tabProduct(nameTab) {
+        $('.' + nameTab + ' a').click(function () {
+            var $this = $(this);
+            var id = $this.attr("rel");
+            $('.' + nameTab).parent().removeClass('mtd-act');
+            $('.' + nameTab).parent().addClass('mtd-nor');
+            $('.' + id).children().removeClass('mtd-nor');
+            $('.' + id).children().addClass('mtd-act');
+            $('.tbl').css('display', 'none');
+            $('#' + id).css('display', 'block');
+            jQuery('.scroll_box').jScrollPane({ showArrows: true }); // scroll rate table	      
+        });
+
+    }
+    $(function () {
+        tabProduct('mmid');
+        jQuery('.scroll_box').jScrollPane({ showArrows: true }); // scroll rate table	
+
+    });
+	
+</script>
+<script type="text/javascript">
+//Tracking FOSP         
+var _siteId="24";
+(function(){
+	var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";
+	var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)
+})(); 
+</script>
+</body>
+</html>
+

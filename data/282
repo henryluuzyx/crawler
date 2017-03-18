@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng - Lao Động
+</title><meta name="keywords" content="Kazuo Kuroda,ĐT Đài Bắc Trung Hoa,Asian Cup 2019,World Cup 2018,tuyển việt nam,SVĐ Hàng Đẫy,Hữu Thắng,Sân Hàng Đẫy,liên đoàn bóng đá việt nam,đấu giao hữu,triệu tập,thi đấu,Nguyễn Hữu Thắng,Hà Nội,đài bắc,Trung Quốc,việt nam,ĐT Afghanistan,Republican Central,Dushanbe,tập huấn" /><meta name="description" content="Liên đoàn bóng đá Việt Nam (VFF) đã chính thức công bố giá vé trận đấu giao hữu giữa ĐT Việt Nam và ĐT Đài Bắc Trung Hoa trên sân Hàng Đẫy với 2 mệnh giá: 1..." />
+<link rel="canonical" href="http://www.baomoi.com/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/c/21793365.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793365" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793365" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://laodong.com.vn/the-thao/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150000-dong-647740.bld");
+else
+window.location.replace("http://www.baomoi.com/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/c/21793365.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

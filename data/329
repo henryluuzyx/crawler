@@ -1,0 +1,1476 @@
+
+<!doctype html>
+<!--[if IE 7]><html lang="en" class="ie7"></html><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie8"></html><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie9"></html><![endif]-->
+<!-- [if gt IE 9] <!-->
+<html lang="en">
+  <!-- <![endif]-->
+<head>
+	<meta name="language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="author" content="Tuổi Trẻ" />
+	<meta name="copyright" content="Tuổi Trẻ" />
+        <meta property="fb:admins" content="646205748,1626380507" />
+    <meta property="og:title" content="TVO - Trang chủ"/>
+    <meta property="og:type" content="activity"/>
+    <meta property="og:image" content="/assets/c347b1f2/images/logotvo.png"/>
+    <meta property="og:site_name" content="Truyền hình báo Tuổi Trẻ"/>
+    <meta property="og:description" content="TVO - Trang chủ"/>
+
+	<link rel="stylesheet" type="text/css" href="/assets/25042ee9/listview/styles.css" />
+<script type="text/javascript" src="/assets/e61c6da/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e61c6da/jquery.ba-bbq.js"></script>
+<title>TVO - Trang chủ</title>
+	<meta name="description" content="TVO - Trang chủ" />
+	<meta name="keywords" content="TVO - Trang chủ" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<link rel="shortcut icon" href="/assets/c347b1f2/images/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="/assets/c347b1f2/css/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/assets/c347b1f2/css/lib.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/assets/c347b1f2/css/plugin.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/assets/c347b1f2/css/screen.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/base/jquery-ui.css" media="screen" />
+
+	<script type="text/javascript">var layout_asset = 'http://tv.tuoitre.vn/assets/c347b1f2';</script>
+	<meta name="google-site-verification" content="kUGIhWpp0kMVssj-ecJ0PC9uLhSN3BnIw7KzB_k-33A" />	<!-- Put the following javascript before the closing </head> tag. -->
+	<script>
+	var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-24516501-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	  (function() {
+	    var cx = '016063765444758930218:4dmlyf-jdfe';
+	    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+	    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+	        '//www.google.com/cse/cse.js?cx=' + cx;
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+	  })();	
+	</script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-46730129-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+		<!--[if lt IE 9]>
+	 <script src="../js/html5shiv.js" type="text/javascript"></script>
+	 <script src="../js/respond.min.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.6&appId=265277930290746";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body>
+	<!-- main nav -->
+	<!-- <div id="loading"><img src="/assets/c347b1f2/images/loading.gif" /></div> -->
+	<nav class="navbar navbar-default main-nav live-nav" id="mainNav">
+	  		      					  <div class="container">
+				    <!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				    	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				    		<span class="sr-only">Toggle navigation</span>
+				    		<span class="icon-bar"></span>
+				    		<span class="icon-bar"></span>
+				    		<span class="icon-bar"></span>
+				    	</button>
+				    	<a class="navbar-brand hidden-pc" href="http://tv.tuoitre.vn"><img alt="" src="/assets/c347b1f2/images/logo-tvo.png"></a>
+				    </div>
+				    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				    	<ul class="nav navbar-nav">
+				    		                            				    		<li class="active"><a title="" href="http://tv.tuoitre.vn">
+				    			<img alt="" src="/assets/c347b1f2/images/logo-tvo.png">				    			<span>Trang chủ</span></a>
+				    		</li>
+				    				
+				    		<li ><a title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a></li>
+				    			
+				    		<li ><a title="Tin nóng 24h" href="http://tv.tuoitre.vn/tin-nong-24h">Tin nóng 24h</a></li>
+				    			
+				    		<li ><a title="Giải trí 24h" href="http://tv.tuoitre.vn/giai-tri-24h">Giải trí 24h</a></li>
+				    			
+				    		<li ><a title="Nghệ thuật đường phố " href="http://tv.tuoitre.vn/nghe-thuat-duong-pho">Nghệ thuật đường phố </a></li>
+				    			
+				    		<li ><a title="Phóng sự - Điều tra" href="http://tv.tuoitre.vn/phong-su-dieu-tra">Phóng sự - Điều tra</a></li>
+				    			
+				    		<li ><a title="Video khác" href="http://tv.tuoitre.vn/video-khac">Video khác</a></li>
+				    			
+				    		<li ><a title="Clip nóng" href="http://tv.tuoitre.vn/clip-nong">Clip nóng</a></li>
+				    						    	</ul>
+				    </div>
+            <form class="frm-search" action="http://tv.tuoitre.vn/search">
+              <input class="form-control txt-search" name="q" type="text" placeholder="Tìm kiếm">
+              <button class="btn-search" type="button"><i class="fa fa-search"></i></button>
+            </form>
+				   </div><!-- /.container -->
+               	    	
+    	
+    	    	</nav>
+	<!-- main -->
+	<div class="main">
+		<div class="container">
+			<div class="outer-highlight">
+				<section class="highlight-top">
+    <article class="art-top">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="outer-video embed-responsive embed-responsive-16by9">
+                    <div id="video-wrapper"></div>
+                </div>
+            </div>
+            <div class="info col-md-4" id="maindesc">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">18/03/2017 08:00</span>
+                </div>
+                
+                <h1><a title="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn" href="http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html">Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn</a></h1>
+                <p> 
+                    <span class="shortcut">Kể từ ngày 11-03-2017, đường Quang Trung, huyện Hóc Môn tính từ đoạn Lê Thị...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28903');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28903');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28903');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </div>
+    </article>
+    <div class="block-news">
+    <div class="flexslider flexslider-top">
+        <ul class="slides" id='scroller'>
+                
+        <li>
+            <input type="hidden" class="clip-id" value="28903"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/3qQuGq8P.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/VafOchJ2.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn" href="javascript:void(0)">
+                <img alt="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn" src="http://cdn.static.tuoitre.vn/i/s285/2017/03/VafOchJ2.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn" href="javascript:void(0)">Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn</a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">18/03/2017 08:00</span>
+                </div>
+                
+                <h1><a title="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn" href="http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html">Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn</a></h1>
+                <p>
+                    <span class="shortcut">Kể từ ngày 11-03-2017, đường Quang Trung, huyện Hóc Môn tính từ đoạn Lê Thị...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28903');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28903');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28903');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28906"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/WsyPCJmv.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/u90ruTDG.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Bò lang thang kiếm ăn trên tỉnh lộ " href="javascript:void(0)">
+                <img alt="Bò lang thang kiếm ăn trên tỉnh lộ " src="http://cdn.static.tuoitre.vn/i/s285/2017/03/u90ruTDG.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Bò lang thang kiếm ăn trên tỉnh lộ " href="javascript:void(0)">Bò lang thang kiếm ăn trên tỉnh lộ </a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">18/03/2017 06:30</span>
+                </div>
+                
+                <h1><a title="Bò lang thang kiếm ăn trên tỉnh lộ " href="http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html">Bò lang thang kiếm ăn trên tỉnh lộ </a></h1>
+                <p>
+                    <span class="shortcut">Đàn bò gần 40 con, thả ăn ngay sát tỉnh lộ không có người trông...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28906');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28906');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28906');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28885"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/C4WvK7Yd.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/ah1hbQlj.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái " href="javascript:void(0)">
+                <img alt="Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái " src="http://cdn.static.tuoitre.vn/i/s285/2017/03/ah1hbQlj.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái " href="javascript:void(0)">Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái </a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">18/03/2017 06:00</span>
+                </div>
+                
+                <h1><a title="Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái " href="http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html">Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái </a></h1>
+                <p>
+                    <span class="shortcut">Gần 100 năm nay, cứ mỗi buổi chiều là hàng chục ngàn con chim, cò...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28885');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28885');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28885');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28911"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/y0pwMGrB.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/Ow07Shyc.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế" href="javascript:void(0)">
+                <img alt="Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế" src="http://cdn.static.tuoitre.vn/i/s285/2017/03/Ow07Shyc.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế" href="javascript:void(0)">Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế</a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">18/03/2017 04:00</span>
+                </div>
+                
+                <h1><a title="Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế" href="http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html">Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế</a></h1>
+                <p>
+                    <span class="shortcut">Vào đợt mưa lũ cuối năm 2016 đã gây sạt lở, sập nhiều trường học,...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28911');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28911');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28911');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28877"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/j7X1aUOf.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/8dPWyukI.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá" href="javascript:void(0)">
+                <img alt="Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá" src="http://cdn.static.tuoitre.vn/i/s285/2017/03/8dPWyukI.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá" href="javascript:void(0)">Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá</a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">17/03/2017 23:00</span>
+                </div>
+                
+                <h1><a title="Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá" href="http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html">Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá</a></h1>
+                <p>
+                    <span class="shortcut">Khu vực Hồ đá nằm trong làng đại học Quốc gia TP.HCM, mỗi năm xảy...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28877');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28877');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28877');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28904"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/6fF4CSES.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/fIjaBB0g.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Xây nhà dựng nhà không phép trong khu bảo tồn biển " href="javascript:void(0)">
+                <img alt="Xây nhà dựng nhà không phép trong khu bảo tồn biển " src="http://cdn.static.tuoitre.vn/i/s285/2017/03/fIjaBB0g.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Xây nhà dựng nhà không phép trong khu bảo tồn biển " href="javascript:void(0)">Xây nhà dựng nhà không phép trong khu bảo tồn biển </a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">17/03/2017 22:30</span>
+                </div>
+                
+                <h1><a title="Xây nhà dựng nhà không phép trong khu bảo tồn biển " href="http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html">Xây nhà dựng nhà không phép trong khu bảo tồn biển </a></h1>
+                <p>
+                    <span class="shortcut">Nhiều ngôi nhà được xây dựng trái Luật di sản văn hóa tại đảo Hòn...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28904');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28904');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28904');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28878"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/TdW0BuR9.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/BbwcbQXk.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Trẻ em trượt patin ra đường bất chấp nguy hiểm" href="javascript:void(0)">
+                <img alt="Trẻ em trượt patin ra đường bất chấp nguy hiểm" src="http://cdn.static.tuoitre.vn/i/s285/2017/03/BbwcbQXk.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Trẻ em trượt patin ra đường bất chấp nguy hiểm" href="javascript:void(0)">Trẻ em trượt patin ra đường bất chấp nguy hiểm</a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">17/03/2017 22:00</span>
+                </div>
+                
+                <h1><a title="Trẻ em trượt patin ra đường bất chấp nguy hiểm" href="http://tv.tuoitre.vn/tin-moi/20170317/tre-em-truot-patin-ra-duong-bat-chap-nguy-hiem/28878.html">Trẻ em trượt patin ra đường bất chấp nguy hiểm</a></h1>
+                <p>
+                    <span class="shortcut">Gần đây, tại thị trấn Dương Đông, huyện Phú Quốc, tỉnh Kiên Giang đang rộ...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28878');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170317/tre-em-truot-patin-ra-duong-bat-chap-nguy-hiem/28878.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/tre-em-truot-patin-ra-duong-bat-chap-nguy-hiem/28878.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/tre-em-truot-patin-ra-duong-bat-chap-nguy-hiem/28878.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28878');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28878');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28914"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/MV3sLNGu.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/2lh2v7q5.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Ở gần công trình nước sạch mà vẫn khát" href="javascript:void(0)">
+                <img alt="Ở gần công trình nước sạch mà vẫn khát" src="http://cdn.static.tuoitre.vn/i/s285/2017/03/2lh2v7q5.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Ở gần công trình nước sạch mà vẫn khát" href="javascript:void(0)">Ở gần công trình nước sạch mà vẫn khát</a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">17/03/2017 21:30</span>
+                </div>
+                
+                <h1><a title="Ở gần công trình nước sạch mà vẫn khát" href="http://tv.tuoitre.vn/tin-moi/20170317/o-gan-cong-trinh-nuoc-sach-ma-van-khat/28914.html">Ở gần công trình nước sạch mà vẫn khát</a></h1>
+                <p>
+                    <span class="shortcut">Người dân đang phải sống trong cảnh “khát nước” trong khi gần bên là trạm...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28914');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170317/o-gan-cong-trinh-nuoc-sach-ma-van-khat/28914.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/o-gan-cong-trinh-nuoc-sach-ma-van-khat/28914.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/o-gan-cong-trinh-nuoc-sach-ma-van-khat/28914.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28914');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28914');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28895"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/vxhgQY89.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/XtMjOlsJ.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="8.	Hồ tiêu trong nước đang thừa nhưng vẫn phải nhập" href="javascript:void(0)">
+                <img alt="8.	Hồ tiêu trong nước đang thừa nhưng vẫn phải nhập" src="http://cdn.static.tuoitre.vn/i/s285/2017/03/XtMjOlsJ.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="8.	Hồ tiêu trong nước đang thừa nhưng vẫn phải nhập" href="javascript:void(0)">8.	Hồ tiêu trong nước đang thừa nhưng vẫn phải nhập</a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">17/03/2017 21:00</span>
+                </div>
+                
+                <h1><a title="8.	Hồ tiêu trong nước đang thừa nhưng vẫn phải nhập" href="http://tv.tuoitre.vn/tin-moi/20170317/8-ho-tieu-trong-nuoc-dang-thua-nhung-van-phai-nhap/28895.html">8.	Hồ tiêu trong nước đang thừa nhưng vẫn phải nhập</a></h1>
+                <p>
+                    <span class="shortcut">Trong khi sản lượng hồ tiêu trong nước năm nay dự báo tăng mạnh và...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28895');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170317/8-ho-tieu-trong-nuoc-dang-thua-nhung-van-phai-nhap/28895.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/8-ho-tieu-trong-nuoc-dang-thua-nhung-van-phai-nhap/28895.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/8-ho-tieu-trong-nuoc-dang-thua-nhung-van-phai-nhap/28895.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28895');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28895');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            
+        <li>
+            <input type="hidden" class="clip-id" value="28891"/>
+            <input type="hidden" class="par_video" value="http://cdn.static.tuoitre.vn/2017/03/KJ3giyie.mp4"/>
+            <input type="hidden" class="par_thumb" value="http://cdn.static.tuoitre.vn/i/s639/2017/03/9RrC9dod.jpg"/>
+            <input type="hidden" class="par_schedule" value='[]'/>
+            
+            <article class="art-top slider_video">
+            <a class="thumb" title="Phơi lúa ngay giữa đường giao thông" href="javascript:void(0)">
+                <img alt="Phơi lúa ngay giữa đường giao thông" src="http://cdn.static.tuoitre.vn/i/s285/2017/03/9RrC9dod.jpg"> 
+                <span class="glyphicon glyphicon-triangle-right"></span>
+            </a>
+            <h3><a title="Phơi lúa ngay giữa đường giao thông" href="javascript:void(0)">Phơi lúa ngay giữa đường giao thông</a></h3>
+            </article>
+            <div class="info" style="display:none">
+                <div class="outer-tool">
+                    <a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+                    <span class="time">17/03/2017 21:00</span>
+                </div>
+                
+                <h1><a title="Phơi lúa ngay giữa đường giao thông" href="http://tv.tuoitre.vn/tin-moi/20170317/phoi-lua-ngay-giua-duong-giao-thong/28891.html">Phơi lúa ngay giữa đường giao thông</a></h1>
+                <p>
+                    <span class="shortcut">Những ngày này, người dân tại xã Vạn Long, huyện Vạn Ninh, tỉnh Khánh Hòa...</span>
+                    <a class="btn-more" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28891');">Xem thêm</a>
+                </p>
+                <ul class="list-inline list-social">
+                    <li><div class="fb-like" data-href="http://tv.tuoitre.vn/tin-moi/20170317/phoi-lua-ngay-giua-duong-giao-thong/28891.html" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/phoi-lua-ngay-giua-duong-giao-thong/28891.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/phoi-lua-ngay-giua-duong-giao-thong/28891.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28891');"><i class="fa fa-plus"></i></a></li>
+                    <li class="comment"><a title="Comment" href="javascript:;" onClick="return commentPopup('http://tv.tuoitre.vn/', 'home', '58', 'tvo_comment', '1bd413e26618aadd8514a60d56bc009602cda6c7','28891');"><i class="fa fa-comments" > </i> 0 </a></li>
+                </ul>
+                <div class="banner-tr"><iframe id='ad8fea86' name='ad8fea86' src='http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='330' height='260'><a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a0c31ec0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=30&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0c31ec0' border='0' alt='' /></a></iframe></div>            </div>
+        </li>
+            </ul>
+    </div>
+    </div>
+</section>
+<div class="modal fade" id="modalComment" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: none;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <div class="modal-body">
+            <div id="s-comment" class="comment">
+                <div class="block-comment block-comment-1"></div>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="/assets/c347b1f2/js/jwplayer7/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="yl/yqfTaFkHTZsvJEK6NtJYZZujiAxc3knwh";</script>
+				<div class="outer-highlight outer-highlight-1">
+					<div class="row">
+						<div class="col-md-8">
+							<div class="banner-n">
+<iframe id="a2671597" name="a2671597" src="http://delivery.senvangvn.com/www/delivery/afr.php?zoneid=4&amp;cb=a2671597" frameborder="0" scrolling="no" width="750" height="90">&lt;a href='http://delivery.senvangvn.com/www/delivery/ck.php?n=a2ace349&amp;amp;cb=a2671597' target='_blank'&gt;&lt;img src='http://delivery.senvangvn.com/www/delivery/avw.php?zoneid=4&amp;amp;cb=a2671597&amp;amp;n=a2ace349' border='0' alt='' /&gt;&lt;/a&gt;</iframe>
+</div><div id="yw0" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<section class="highlight">
+			<h2>Tiêu điểm&nbsp;</h2>
+			<div class="flexslider carousel-1">
+					<ul class="slides">	<li>
+		<article class="art-type">
+			<a class="thumb" title="Cắm chì vào ổ điện, bé 5 tuổi bị hoại tử hai bàn tay" href="http://tv.tuoitre.vn/tin-moi/20170317/cam-chi-vao-o-dien-be-5-tuoi-bi-hoai-tu-hai-ban-tay/28875.html">
+				<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/MH1vGbpp.jpg" alt="Cắm chì vào ổ điện, bé 5 tuổi bị hoại tử hai bàn tay" />
+				<span class="glyphicon glyphicon-triangle-right"></span>
+				<!--<span class="time-1">10:30</span>-->
+			</a>
+			<h3><a title="Cắm chì vào ổ điện, bé 5 tuổi bị hoại tử hai bàn tay" href="http://tv.tuoitre.vn/tin-moi/20170317/cam-chi-vao-o-dien-be-5-tuoi-bi-hoai-tu-hai-ban-tay/28875.html">Cắm chì vào ổ điện, bé 5 tuổi bị hoại tử hai bàn tay</a></h3>
+			<ul class="list-inline list-tool">
+				<li>809 lượt xem</li> | 
+				<li>17.03.2017</li>
+			</ul>
+			<ul class="list-inline list-social">
+				<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+		        <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/cam-chi-vao-o-dien-be-5-tuoi-bi-hoai-tu-hai-ban-tay/28875.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/cam-chi-vao-o-dien-be-5-tuoi-bi-hoai-tu-hai-ban-tay/28875.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28875');"><i class="fa fa-plus"></i></a></li>
+			</ul>
+		</article>
+	</li>
+      
+	<li>
+		<article class="art-type">
+			<a class="thumb" title="Xe Mercedes bốc cháy trên tuyến tránh Rạch Giá" href="http://tv.tuoitre.vn/clip-nong/20170315/xe-mercedes-boc-chay-tren-tuyen-tranh-rach-gia/28816.html">
+				<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/D70drgnF.jpg" alt="Xe Mercedes bốc cháy trên tuyến tránh Rạch Giá" />
+				<span class="glyphicon glyphicon-triangle-right"></span>
+				<!--<span class="time-1">10:30</span>-->
+			</a>
+			<h3><a title="Xe Mercedes bốc cháy trên tuyến tránh Rạch Giá" href="http://tv.tuoitre.vn/clip-nong/20170315/xe-mercedes-boc-chay-tren-tuyen-tranh-rach-gia/28816.html">Xe Mercedes bốc cháy trên tuyến tránh Rạch Giá</a></h3>
+			<ul class="list-inline list-tool">
+				<li>179.890 lượt xem</li> | 
+				<li>15.03.2017</li>
+			</ul>
+			<ul class="list-inline list-social">
+				<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+		        <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/clip-nong/20170315/xe-mercedes-boc-chay-tren-tuyen-tranh-rach-gia/28816.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/clip-nong/20170315/xe-mercedes-boc-chay-tren-tuyen-tranh-rach-gia/28816.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28816');"><i class="fa fa-plus"></i></a></li>
+			</ul>
+		</article>
+	</li>
+      
+	<li>
+		<article class="art-type">
+			<a class="thumb" title="Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170314/thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28765.html">
+				<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/PHaQOeGi.jpg" alt="Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình" />
+				<span class="glyphicon glyphicon-triangle-right"></span>
+				<!--<span class="time-1">10:30</span>-->
+			</a>
+			<h3><a title="Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170314/thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28765.html">Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình</a></h3>
+			<ul class="list-inline list-tool">
+				<li>864 lượt xem</li> | 
+				<li>14.03.2017</li>
+			</ul>
+			<ul class="list-inline list-social">
+				<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+		        <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/phong-su-dieu-tra/20170314/thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28765.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/phong-su-dieu-tra/20170314/thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28765.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28765');"><i class="fa fa-plus"></i></a></li>
+			</ul>
+		</article>
+	</li>
+      
+	<li>
+		<article class="art-type">
+			<a class="thumb" title="Cái giá phải trả cho hành vi hiếp dâm trẻ em" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170315/cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28791.html">
+				<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/s7Od80qR.jpg" alt="Cái giá phải trả cho hành vi hiếp dâm trẻ em" />
+				<span class="glyphicon glyphicon-triangle-right"></span>
+				<!--<span class="time-1">10:30</span>-->
+			</a>
+			<h3><a title="Cái giá phải trả cho hành vi hiếp dâm trẻ em" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170315/cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28791.html">Cái giá phải trả cho hành vi hiếp dâm trẻ em</a></h3>
+			<ul class="list-inline list-tool">
+				<li>1.646 lượt xem</li> | 
+				<li>15.03.2017</li>
+			</ul>
+			<ul class="list-inline list-social">
+				<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+		        <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/phong-su-dieu-tra/20170315/cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28791.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/phong-su-dieu-tra/20170315/cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28791.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28791');"><i class="fa fa-plus"></i></a></li>
+			</ul>
+		</article>
+	</li>
+</ul>
+			</div>
+		</section>      
+</div>
+<div class="keys" style="display:none" title="/"><span>28875</span><span>28816</span><span>28765</span><span>28791</span></div>
+</div><section class="highlight">
+	<h2><a href='/tin-moi' title='Tin mới'>Tin mới</a></h2>
+	<div class="flexslider carousel-1">
+      	<ul class="slides">
+      		        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn" href="http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/VafOchJ2.jpg" alt="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn" href="http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html">Xe tải bất chấp lưu thông vào đường cấm tại huyện Hóc Môn</a></h3>
+					<ul class="list-inline list-tool">
+						<li>87 lượt xem</li> | 
+						<li>18.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/xe-tai-bat-chap-luu-thong-vao-duong-cam-tai-huyen-hoc-mon/28903.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28903');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Bò lang thang kiếm ăn trên tỉnh lộ " href="http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/u90ruTDG.jpg" alt="Bò lang thang kiếm ăn trên tỉnh lộ "/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Bò lang thang kiếm ăn trên tỉnh lộ " href="http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html">Bò lang thang kiếm ăn trên tỉnh lộ </a></h3>
+					<ul class="list-inline list-tool">
+						<li>297 lượt xem</li> | 
+						<li>18.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/bo-lang-thang-kiem-an-tren-tinh-lo/28906.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28906');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái " href="http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/ah1hbQlj.jpg" alt="Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái "/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái " href="http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html">Đưa vườn cò Trung Hòa trở thành điểm du lịch sinh thái </a></h3>
+					<ul class="list-inline list-tool">
+						<li>133 lượt xem</li> | 
+						<li>18.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/dua-vuon-co-trung-hoa-tro-thanh-diem-du-lich-sinh-thai/28885.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28885');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế" href="http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/Ow07Shyc.jpg" alt="Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế" href="http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html">Nguy cơ sạt lở núi vẫn rình rập trường học, trạm y tế</a></h3>
+					<ul class="list-inline list-tool">
+						<li>190 lượt xem</li> | 
+						<li>18.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170318/nguy-co-sat-lo-nui-van-rinh-rap-truong-hoc-tram-y-te/28911.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28911');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá" href="http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/8dPWyukI.jpg" alt="Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá" href="http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html">Bất chấp nguy hiểm trèo rào 2m để vào Hồ Đá</a></h3>
+					<ul class="list-inline list-tool">
+						<li>490 lượt xem</li> | 
+						<li>17.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/bat-chap-nguy-hiem-treo-rao-2m-de-vao-ho-da/28877.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28877');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Xây nhà dựng nhà không phép trong khu bảo tồn biển " href="http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/fIjaBB0g.jpg" alt="Xây nhà dựng nhà không phép trong khu bảo tồn biển "/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Xây nhà dựng nhà không phép trong khu bảo tồn biển " href="http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html">Xây nhà dựng nhà không phép trong khu bảo tồn biển </a></h3>
+					<ul class="list-inline list-tool">
+						<li>305 lượt xem</li> | 
+						<li>17.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170317/xay-nha-dung-nha-khong-phep-trong-khu-bao-ton-bien/28904.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28904');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	 
+        </ul>
+    </div>
+</section>						</div>
+						<div class="col-md-4">
+							<div class="banner-n">
+<div class="outer">
+								<h3>Liên hệ <a href="https://www.facebook.com/Truyenhinh.BaoTuoiTre" target="_blank" title="">Fanpage truyền hình  Tuổi Trẻ</a></h3>
+								<p>
+									<i class="fa fa-phone"></i> <a href="tel:0918033133" title="">0918 033 133</a>
+									<span>Đường dây nóng</span>
+								</p>
+								<p><i class="fa fa-envelope"></i> <a href="mailto:thoisutvo@tuoitre.com.vn" title="">thoisutvo@tuoitre.com.vn</a><span>Địa chỉ Email</span></p>
+							</div>
+							</div><section class="highlight">
+	<h2><a href='/clip-nong' title='Clip nóng'>Clip nóng</a></h2>
+	<article class="art-type ">
+		<a class="thumb" title="Tài xế xe ôm lại thành “thầy cõi trên” chữa bách bệnh" href="http://tv.tuoitre.vn/clip-nong/20170317/tai-xe-xe-om-lai-thanh-thay-coi-tren-chua-bach-benh/28894.html">
+			<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/kRSi5TIB.jpg" alt="Tài xế xe ôm lại thành “thầy cõi trên” chữa bách bệnh" draggable="false">
+			<span class="glyphicon glyphicon-triangle-right"></span>
+			<!-- <span class="time-1">10:30</span>  -->
+		</a>
+		<h3><a title="Tài xế xe ôm lại thành “thầy cõi trên” chữa bách bệnh" href="http://tv.tuoitre.vn/clip-nong/20170317/tai-xe-xe-om-lai-thanh-thay-coi-tren-chua-bach-benh/28894.html">Tài xế xe ôm lại thành “thầy cõi trên” chữa bách bệnh</a></h3>
+		<ul class="list-inline list-tool">
+						<li>142.092 lượt xem</li> | 
+			<li>17.03.2017</li>
+					</ul>
+		<ul class="list-inline list-social">
+            <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/clip-nong/20170317/tai-xe-xe-om-lai-thanh-thay-coi-tren-chua-bach-benh/28894.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+            <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/clip-nong/20170317/tai-xe-xe-om-lai-thanh-thay-coi-tren-chua-bach-benh/28894.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28894');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+	</article>
+	<div class="row">
+				<article class="art-type art-type-live col-sm-6 col-xs-6">
+			<a class="thumb" title="Tai nạn đường sắt, 1 người chết" href="http://tv.tuoitre.vn/clip-nong/20170317/tai-nan-duong-sat-1-nguoi-chet/28890.html">
+				<img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/Y6Syx7yO.jpg" alt="Tai nạn đường sắt, 1 người chết">
+				<span class="glyphicon glyphicon-triangle-right"></span>
+			</a>
+			<h3><a title="Tai nạn đường sắt, 1 người chết" href="http://tv.tuoitre.vn/clip-nong/20170317/tai-nan-duong-sat-1-nguoi-chet/28890.html">Tai nạn đường sắt, 1 người chết</a></h3>
+			<ul class="list-inline list-tool">
+			<li>169.296 lượt xem</li> | 
+			<li>17.03.2017</li>
+			</ul>
+			<ul class="list-inline list-social">
+	            <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/clip-nong/20170317/tai-nan-duong-sat-1-nguoi-chet/28890.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+	            <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/clip-nong/20170317/tai-nan-duong-sat-1-nguoi-chet/28890.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+	            <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28890');"><i class="fa fa-plus"></i></a></li>
+			</ul>
+		</article>
+				<article class="art-type art-type-live col-sm-6 col-xs-6">
+			<a class="thumb" title="Sản phụ chết bất thường sau khi sinh mổ tại bệnh viện" href="http://tv.tuoitre.vn/clip-nong/20170317/san-phu-chet-bat-thuong-sau-khi-sinh-mo-tai-benh-vien/28893.html">
+				<img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/f4nRqtPy.jpg" alt="Sản phụ chết bất thường sau khi sinh mổ tại bệnh viện">
+				<span class="glyphicon glyphicon-triangle-right"></span>
+			</a>
+			<h3><a title="Sản phụ chết bất thường sau khi sinh mổ tại bệnh viện" href="http://tv.tuoitre.vn/clip-nong/20170317/san-phu-chet-bat-thuong-sau-khi-sinh-mo-tai-benh-vien/28893.html">Sản phụ chết bất thường sau khi sinh mổ tại bệnh viện</a></h3>
+			<ul class="list-inline list-tool">
+			<li>2.068 lượt xem</li> | 
+			<li>17.03.2017</li>
+			</ul>
+			<ul class="list-inline list-social">
+	            <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/clip-nong/20170317/san-phu-chet-bat-thuong-sau-khi-sinh-mo-tai-benh-vien/28893.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+	            <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/clip-nong/20170317/san-phu-chet-bat-thuong-sau-khi-sinh-mo-tai-benh-vien/28893.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+	            <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28893');"><i class="fa fa-plus"></i></a></li>
+			</ul>
+		</article>
+			</div>
+</section>						</div>
+					</div>
+				</div>
+				<div class="banner-n">
+<img src="http://cdn.static.tuoitre.vn/2017/03/aYbu71no.jpg" alt="Kỉ niệm 10 năm thành lập" style="width:60%">
+</div><section class="highlight">
+	<h2><a href='/tin-nong-24h' title='Tin nóng 24h '>Tin nóng 24h </a></h2>
+	<div class="flexslider carousel">
+      	<ul class="slides">
+      		        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Tin nóng 24h: Núp bóng khơi thông luồng lạch để khai thác cát" href="http://tv.tuoitre.vn/tin-nong-24h/20170317/tin-nong-24h-nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28907.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/tqoVvZO5.jpg" alt="Tin nóng 24h: Núp bóng khơi thông luồng lạch để khai thác cát"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Tin nóng 24h: Núp bóng khơi thông luồng lạch để khai thác cát" href="http://tv.tuoitre.vn/tin-nong-24h/20170317/tin-nong-24h-nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28907.html">Tin nóng 24h: Núp bóng khơi thông luồng lạch để khai thác cát</a></h3>
+					<ul class="list-inline list-tool">
+						<li>435.211 lượt xem</li> | 
+						<li>17.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-nong-24h/20170317/tin-nong-24h-nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28907.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-nong-24h/20170317/tin-nong-24h-nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28907.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28907');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Tin nóng 24h: Cần có cuộc cách mạng cho cây lúa miền Tây" href="http://tv.tuoitre.vn/tin-nong-24h/20170316/tin-nong-24h-can-co-cuoc-cach-mang-cho-cay-lua-mien-tay/28865.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/9LHA117t.jpg" alt="Tin nóng 24h: Cần có cuộc cách mạng cho cây lúa miền Tây"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Tin nóng 24h: Cần có cuộc cách mạng cho cây lúa miền Tây" href="http://tv.tuoitre.vn/tin-nong-24h/20170316/tin-nong-24h-can-co-cuoc-cach-mang-cho-cay-lua-mien-tay/28865.html">Tin nóng 24h: Cần có cuộc cách mạng cho cây lúa miền Tây</a></h3>
+					<ul class="list-inline list-tool">
+						<li>509.683 lượt xem</li> | 
+						<li>16.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-nong-24h/20170316/tin-nong-24h-can-co-cuoc-cach-mang-cho-cay-lua-mien-tay/28865.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-nong-24h/20170316/tin-nong-24h-can-co-cuoc-cach-mang-cho-cay-lua-mien-tay/28865.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28865');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Tin nóng 24h: Tội phạm ấu dâm, thực trạng báo động" href="http://tv.tuoitre.vn/tin-nong-24h/20170315/tin-nong-24h-toi-pham-au-dam-thuc-trang-bao-dong/28837.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/ULLPPyl9.jpg" alt="Tin nóng 24h: Tội phạm ấu dâm, thực trạng báo động"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Tin nóng 24h: Tội phạm ấu dâm, thực trạng báo động" href="http://tv.tuoitre.vn/tin-nong-24h/20170315/tin-nong-24h-toi-pham-au-dam-thuc-trang-bao-dong/28837.html">Tin nóng 24h: Tội phạm ấu dâm, thực trạng báo động</a></h3>
+					<ul class="list-inline list-tool">
+						<li>780.141 lượt xem</li> | 
+						<li>15.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-nong-24h/20170315/tin-nong-24h-toi-pham-au-dam-thuc-trang-bao-dong/28837.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-nong-24h/20170315/tin-nong-24h-toi-pham-au-dam-thuc-trang-bao-dong/28837.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28837');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Tin nóng 24h: Cái giá phải trả cho hành vi hiếp dâm trẻ em" href="http://tv.tuoitre.vn/tin-nong-24h/20170314/tin-nong-24h-cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28801.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/fD4ocbkw.jpg" alt="Tin nóng 24h: Cái giá phải trả cho hành vi hiếp dâm trẻ em"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Tin nóng 24h: Cái giá phải trả cho hành vi hiếp dâm trẻ em" href="http://tv.tuoitre.vn/tin-nong-24h/20170314/tin-nong-24h-cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28801.html">Tin nóng 24h: Cái giá phải trả cho hành vi hiếp dâm trẻ em</a></h3>
+					<ul class="list-inline list-tool">
+						<li>504.212 lượt xem</li> | 
+						<li>14.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-nong-24h/20170314/tin-nong-24h-cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28801.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-nong-24h/20170314/tin-nong-24h-cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28801.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28801');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Tin nóng 24h: Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình? " href="http://tv.tuoitre.vn/tin-nong-24h/20170313/tin-nong-24h-thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28768.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/YYRX3mTO.jpg" alt="Tin nóng 24h: Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình? "/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Tin nóng 24h: Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình? " href="http://tv.tuoitre.vn/tin-nong-24h/20170313/tin-nong-24h-thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28768.html">Tin nóng 24h: Thuốc kháng sinh, muốn khỏi bệnh hay tự hại chính mình? </a></h3>
+					<ul class="list-inline list-tool">
+						<li>505.783 lượt xem</li> | 
+						<li>13.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-nong-24h/20170313/tin-nong-24h-thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28768.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-nong-24h/20170313/tin-nong-24h-thuoc-khang-sinh-muon-khoi-benh-hay-tu-hai-chinh-minh/28768.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28768');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Tin nóng 24h: Cà Mau vẫn còn tiềm ẩn nhiều nỗi lo cháy chợ" href="http://tv.tuoitre.vn/tin-nong-24h/20170312/tin-nong-24h-ca-mau-van-con-tiem-an-nhieu-noi-lo-chay-cho/28738.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/5yDf7eTw.jpg" alt="Tin nóng 24h: Cà Mau vẫn còn tiềm ẩn nhiều nỗi lo cháy chợ"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Tin nóng 24h: Cà Mau vẫn còn tiềm ẩn nhiều nỗi lo cháy chợ" href="http://tv.tuoitre.vn/tin-nong-24h/20170312/tin-nong-24h-ca-mau-van-con-tiem-an-nhieu-noi-lo-chay-cho/28738.html">Tin nóng 24h: Cà Mau vẫn còn tiềm ẩn nhiều nỗi lo cháy chợ</a></h3>
+					<ul class="list-inline list-tool">
+						<li>454.356 lượt xem</li> | 
+						<li>12.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-nong-24h/20170312/tin-nong-24h-ca-mau-van-con-tiem-an-nhieu-noi-lo-chay-cho/28738.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-nong-24h/20170312/tin-nong-24h-ca-mau-van-con-tiem-an-nhieu-noi-lo-chay-cho/28738.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28738');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	 
+        </ul>
+    </div>
+</section><section class="highlight">
+    <h2><a href='/giai-tri-24h' title='Giải trí 24h'>Giải trí 24h</a></h2>
+    <div class="art-spec">
+        <div class="row">
+
+            <div class="col-md-6">
+                <a class="thumb" title="Giải trí 24h: Ngô Thanh Vân công bố dự án điện ảnh “Cô Ba Sài Gòn”" href="http://tv.tuoitre.vn/giai-tri-24h/20170317/giai-tri-24h-ngo-thanh-van-cong-bo-du-an-dien-anh-co-ba-sai-gon/28908.html">
+                	<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/K8E10UB9.jpg" alt="Giải trí 24h: Ngô Thanh Vân công bố dự án điện ảnh “Cô Ba Sài Gòn”" />
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <!--<span class="time-1">10:30</span>-->
+                </a>
+                <ul class="list-inline list-social">
+                    <!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/giai-tri-24h/20170317/giai-tri-24h-ngo-thanh-van-cong-bo-du-an-dien-anh-co-ba-sai-gon/28908.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/giai-tri-24h/20170317/giai-tri-24h-ngo-thanh-van-cong-bo-du-an-dien-anh-co-ba-sai-gon/28908.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28908');"><i class="fa fa-plus"></i></a></li>
+                </ul>
+            </div>
+            <div class="info col-md-6">
+                <h3><a title="Giải trí 24h: Ngô Thanh Vân công bố dự án điện ảnh “Cô Ba Sài Gòn”" href="http://tv.tuoitre.vn/giai-tri-24h/20170317/giai-tri-24h-ngo-thanh-van-cong-bo-du-an-dien-anh-co-ba-sai-gon/28908.html">Giải trí 24h: Ngô Thanh Vân công bố dự án điện ảnh “Cô Ba Sài Gòn”</a></h3>
+                <p>Độc đáo trình diễn thời trang Xuân Hè 2017; Bảo Thy chia sẻ bí kiếp “thoát ế” trong MV mới; Thưởng thức triển lãm cuối cùng tại Nhà ga 3A; Khám phá tranh thủy mặc trong workshop “Sen”; Ý nghĩa với Guitar show “Thắp sáng ước mơ”… là những nội dung chính của chương trình ngày 17/03/2017</p>
+                <ul class="list-inline list-tool">
+                    <li>48.591 lượt xem</li> | 
+                    <li>17.03.2017</li>
+                </ul>
+                <div class="row">
+                                    <article class="art-1 col-sm-4 col-xs-4 col-xs-4">
+                        <a class="thumb" title="Giải trí 24h: Con đường ca hát của chàng trai bán phở có 2 giọng hát" href="http://tv.tuoitre.vn/giai-tri-24h/20170316/giai-tri-24h-con-duong-ca-hat-cua-chang-trai-ban-pho-co-2-giong-hat/28870.html">
+                            <img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/fmvjXHRs.jpg" alt="Giải trí 24h: Con đường ca hát của chàng trai bán phở có 2 giọng hát" draggable="false"/>
+                            <span class="glyphicon glyphicon-triangle-right"></span>
+                            <!--<span class="time-1">10:30</span>-->
+                        </a>
+                        <h4><a title="Giải trí 24h: Con đường ca hát của chàng trai bán phở có 2 giọng hát" href="http://tv.tuoitre.vn/giai-tri-24h/20170316/giai-tri-24h-con-duong-ca-hat-cua-chang-trai-ban-pho-co-2-giong-hat/28870.html">Giải trí 24h: Con đường ca hát của chàng trai bán phở có 2 giọng hát</a></h4>
+                    </article>
+                                    <article class="art-1 col-sm-4 col-xs-4 col-xs-4">
+                        <a class="thumb" title="Giải trí 24h: Cộng đồng metal Việt Nam “cháy” hết mình cùng ban nhạc đình đám đến từ Đức" href="http://tv.tuoitre.vn/giai-tri-24h/20170315/giai-tri-24h-cong-dong-metal-viet-nam-chay-het-minh-cung-ban-nhac-dinh-dam-den-tu-duc/28836.html">
+                            <img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/61pCQDiV.jpg" alt="Giải trí 24h: Cộng đồng metal Việt Nam “cháy” hết mình cùng ban nhạc đình đám đến từ Đức" draggable="false"/>
+                            <span class="glyphicon glyphicon-triangle-right"></span>
+                            <!--<span class="time-1">10:30</span>-->
+                        </a>
+                        <h4><a title="Giải trí 24h: Cộng đồng metal Việt Nam “cháy” hết mình cùng ban nhạc đình đám đến từ Đức" href="http://tv.tuoitre.vn/giai-tri-24h/20170315/giai-tri-24h-cong-dong-metal-viet-nam-chay-het-minh-cung-ban-nhac-dinh-dam-den-tu-duc/28836.html">Giải trí 24h: Cộng đồng metal Việt Nam “cháy” hết mình cùng ban nhạc đình đám đến từ Đức</a></h4>
+                    </article>
+                                    <article class="art-1 col-sm-4 col-xs-4 col-xs-4">
+                        <a class="thumb" title="Giải trí 24h: Hãy nhớ Lâm Gia Khang là một thương hiệu thời trang" href="http://tv.tuoitre.vn/giai-tri-24h/20170314/giai-tri-24h-hay-nho-lam-gia-khang-la-mot-thuong-hieu-thoi-trang/28802.html">
+                            <img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/BDIR5KVs.jpg" alt="Giải trí 24h: Hãy nhớ Lâm Gia Khang là một thương hiệu thời trang" draggable="false"/>
+                            <span class="glyphicon glyphicon-triangle-right"></span>
+                            <!--<span class="time-1">10:30</span>-->
+                        </a>
+                        <h4><a title="Giải trí 24h: Hãy nhớ Lâm Gia Khang là một thương hiệu thời trang" href="http://tv.tuoitre.vn/giai-tri-24h/20170314/giai-tri-24h-hay-nho-lam-gia-khang-la-mot-thuong-hieu-thoi-trang/28802.html">Giải trí 24h: Hãy nhớ Lâm Gia Khang là một thương hiệu thời trang</a></h4>
+                    </article>
+                 
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="banner-n">
+<img src="http://cdn.static.tuoitre.vn/2017/03/KKyVL8Kq.jpg" alt="Nhanh - Chính xác - Nhân văn" style="width:60%">
+</div><section class="highlight">
+	<h2><a href='/nghe-thuat-duong-pho' title='Nghệ thuật đường phố'>Nghệ thuật đường phố</a></h2>
+	<div class="flexslider carousel">
+      	<ul class="slides">
+      		        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Chung kết “Liên hoan nghệ thuật đường phố” phần 3" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-3/26647.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/01/FMCZhLPv.jpg" alt="Chung kết “Liên hoan nghệ thuật đường phố” phần 3"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Chung kết “Liên hoan nghệ thuật đường phố” phần 3" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-3/26647.html">Chung kết “Liên hoan nghệ thuật đường phố” phần 3</a></h3>
+					<ul class="list-inline list-tool">
+						<li>5.476 lượt xem</li> | 
+						<li>10.01.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-3/26647.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-3/26647.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','26647');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Chung kết “Liên hoan nghệ thuật đường phố” phần 2" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-2/26645.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/01/aCYhbeGU.jpg" alt="Chung kết “Liên hoan nghệ thuật đường phố” phần 2"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Chung kết “Liên hoan nghệ thuật đường phố” phần 2" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-2/26645.html">Chung kết “Liên hoan nghệ thuật đường phố” phần 2</a></h3>
+					<ul class="list-inline list-tool">
+						<li>86.395 lượt xem</li> | 
+						<li>10.01.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-2/26645.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-2/26645.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','26645');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Chung kết “Liên hoan nghệ thuật đường phố” phần 1" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-1/26631.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/01/sTK7TpTN.jpg" alt="Chung kết “Liên hoan nghệ thuật đường phố” phần 1"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Chung kết “Liên hoan nghệ thuật đường phố” phần 1" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-1/26631.html">Chung kết “Liên hoan nghệ thuật đường phố” phần 1</a></h3>
+					<ul class="list-inline list-tool">
+						<li>137.900 lượt xem</li> | 
+						<li>10.01.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-1/26631.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20170110/chung-ket-lien-hoan-nghe-thuat-duong-pho-phan-1/26631.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','26631');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Ấn tượng Halloween tại Universal Studio" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161025/an-tuong-halloween-tai-universal-studio/24033.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2016/10/MQ9NtKvi.jpg" alt="Ấn tượng Halloween tại Universal Studio"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Ấn tượng Halloween tại Universal Studio" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161025/an-tuong-halloween-tai-universal-studio/24033.html">Ấn tượng Halloween tại Universal Studio</a></h3>
+					<ul class="list-inline list-tool">
+						<li>70.565 lượt xem</li> | 
+						<li>25.10.2016</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161025/an-tuong-halloween-tai-universal-studio/24033.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161025/an-tuong-halloween-tai-universal-studio/24033.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','24033');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Mã số dự thi 134 “Hát ca khúc “Con đò lỡ hẹn”" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161018/ma-so-du-thi-134-hat-ca-khuc-con-do-lo-hen/23799.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2016/10/dc2N5pXR.jpg" alt="Mã số dự thi 134 “Hát ca khúc “Con đò lỡ hẹn”"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Mã số dự thi 134 “Hát ca khúc “Con đò lỡ hẹn”" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161018/ma-so-du-thi-134-hat-ca-khuc-con-do-lo-hen/23799.html">Mã số dự thi 134 “Hát ca khúc “Con đò lỡ hẹn”</a></h3>
+					<ul class="list-inline list-tool">
+						<li>65.882 lượt xem</li> | 
+						<li>18.10.2016</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161018/ma-so-du-thi-134-hat-ca-khuc-con-do-lo-hen/23799.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161018/ma-so-du-thi-134-hat-ca-khuc-con-do-lo-hen/23799.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','23799');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	        	<li>
+        		<article class="art-type">
+					<a class="thumb" title="Mã số dự thi 132 “Hát ca khúc “ Nhớ biển Nha Trang”" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161017/ma-so-du-thi-132-hat-ca-khuc-nho-bien-nha-trang/23744.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2016/10/iXNQoPJI.jpg" alt="Mã số dự thi 132 “Hát ca khúc “ Nhớ biển Nha Trang”"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+						<!--<span class="time-1">10:30</span>-->
+					</a>
+					<h3><a title="Mã số dự thi 132 “Hát ca khúc “ Nhớ biển Nha Trang”" href="http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161017/ma-so-du-thi-132-hat-ca-khuc-nho-bien-nha-trang/23744.html">Mã số dự thi 132 “Hát ca khúc “ Nhớ biển Nha Trang”</a></h3>
+					<ul class="list-inline list-tool">
+						<li>107.402 lượt xem</li> | 
+						<li>17.10.2016</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161017/ma-so-du-thi-132-hat-ca-khuc-nho-bien-nha-trang/23744.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+		        		<li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/nghe-thuat-duong-pho/20161017/ma-so-du-thi-132-hat-ca-khuc-nho-bien-nha-trang/23744.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+		        		<li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','23744');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+        	</li>
+        	 
+        </ul>
+    </div>
+</section><section class="highlight">
+    <h2><a href='/phong-su-dieu-tra' title='Phóng sự - Điều tra'>Phóng sự - Điều tra</a></h2>
+    <div class="art-spec">
+        <div class="row">
+
+            <div class="col-md-6">
+                <a class="thumb" title="Núp bóng khơi thông luồng lạch để khai thác cát" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170317/nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28912.html">
+                	<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/jXeX4j0a.jpg" alt="Núp bóng khơi thông luồng lạch để khai thác cát" />
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <!--<span class="time-1">10:30</span>-->
+                </a>
+                <ul class="list-inline list-social">
+                    <!--<li><a title="" href="#"><i class="fa fa-thumbs-up"></i> 1.233</a></li>-->
+                    <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/phong-su-dieu-tra/20170317/nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28912.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/phong-su-dieu-tra/20170317/nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28912.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+                    <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28912');"><i class="fa fa-plus"></i></a></li>
+                </ul>
+            </div>
+            <div class="info col-md-6">
+                <h3><a title="Núp bóng khơi thông luồng lạch để khai thác cát" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170317/nup-bong-khoi-thong-luong-lach-de-khai-thac-cat/28912.html">Núp bóng khơi thông luồng lạch để khai thác cát</a></h3>
+                <p>UBND tỉnh Bắc Ninh khẳng định lý do địa phương này này gửi văn bản kêu cứu lên thủ tướng là do trên địa bàn xuất hiện tình trạng núp dưới dự án khơi thông luồng lạch để khai thác cát trái phép gây nguy cơ mất an toàn, an ninh đê điều, gây bức xúc trong nhân dân</p>
+                <ul class="list-inline list-tool">
+                    <li>445 lượt xem</li> | 
+                    <li>17.03.2017</li>
+                </ul>
+                <div class="row">
+                                    <article class="art-1 col-sm-4 col-xs-4 col-xs-4">
+                        <a class="thumb" title="Cần có cuộc cách mạng cho cây lúa miền Tây" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170316/can-co-cuoc-cach-mang-cho-cay-lua-mien-tay/28866.html">
+                            <img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/RZQlPRkv.jpg" alt="Cần có cuộc cách mạng cho cây lúa miền Tây" draggable="false"/>
+                            <span class="glyphicon glyphicon-triangle-right"></span>
+                            <!--<span class="time-1">10:30</span>-->
+                        </a>
+                        <h4><a title="Cần có cuộc cách mạng cho cây lúa miền Tây" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170316/can-co-cuoc-cach-mang-cho-cay-lua-mien-tay/28866.html">Cần có cuộc cách mạng cho cây lúa miền Tây</a></h4>
+                    </article>
+                                    <article class="art-1 col-sm-4 col-xs-4 col-xs-4">
+                        <a class="thumb" title="Cái giá phải trả cho hành vi hiếp dâm trẻ em" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170315/cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28791.html">
+                            <img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/s7Od80qR.jpg" alt="Cái giá phải trả cho hành vi hiếp dâm trẻ em" draggable="false"/>
+                            <span class="glyphicon glyphicon-triangle-right"></span>
+                            <!--<span class="time-1">10:30</span>-->
+                        </a>
+                        <h4><a title="Cái giá phải trả cho hành vi hiếp dâm trẻ em" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170315/cai-gia-phai-tra-cho-hanh-vi-hiep-dam-tre-em/28791.html">Cái giá phải trả cho hành vi hiếp dâm trẻ em</a></h4>
+                    </article>
+                                    <article class="art-1 col-sm-4 col-xs-4 col-xs-4">
+                        <a class="thumb" title="Vô tư thổi phồng công dụng sừng tê giác" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170314/vo-tu-thoi-phong-cong-dung-sung-te-giac/28779.html">
+                            <img src="http://cdn.static.tuoitre.vn/i/s285/2017/03/Ks1X9kLM.jpg" alt="Vô tư thổi phồng công dụng sừng tê giác" draggable="false"/>
+                            <span class="glyphicon glyphicon-triangle-right"></span>
+                            <!--<span class="time-1">10:30</span>-->
+                        </a>
+                        <h4><a title="Vô tư thổi phồng công dụng sừng tê giác" href="http://tv.tuoitre.vn/phong-su-dieu-tra/20170314/vo-tu-thoi-phong-cong-dung-sung-te-giac/28779.html">Vô tư thổi phồng công dụng sừng tê giác</a></h4>
+                    </article>
+                 
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="banner-n">
+<img src="http://cdn.static.tuoitre.vn/2017/03/toQkhHuK.jpg" alt="Liên hệ quảng cáo" style="width:60%">
+</div><section class="highlight">
+	<h2><a href='/video-khac' title='Video khác'>Video khác</a></h2>
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="row havePad content">
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Một Trưởng phòng Sở Công thương chết trong tư thế treo cổ" href="http://tv.tuoitre.vn/ban-doc/20170316/mot-truong-phong-so-cong-thuong-chet-trong-tu-the-treo-co/28850.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/c9nwiKKp.jpg" alt="Một Trưởng phòng Sở Công thương chết trong tư thế treo cổ" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Bạn đọc" href="http://tv.tuoitre.vn/ban-doc">Bạn đọc</a>
+					</div>
+					<h3><a title="Một Trưởng phòng Sở Công thương chết trong tư thế treo cổ" href="http://tv.tuoitre.vn/ban-doc/20170316/mot-truong-phong-so-cong-thuong-chet-trong-tu-the-treo-co/28850.html">Một Trưởng phòng Sở Công thương chết trong tư thế treo cổ</a></h3>
+					<ul class="list-inline list-tool">
+						<li>150.942 lượt xem</li> | 
+						<li>16.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/ban-doc/20170316/mot-truong-phong-so-cong-thuong-chet-trong-tu-the-treo-co/28850.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/ban-doc/20170316/mot-truong-phong-so-cong-thuong-chet-trong-tu-the-treo-co/28850.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28850');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Chuyên mục TTHQ tháng 03-2017" href="http://tv.tuoitre.vn/bien-dao/20170312/chuyen-muc-tthq-thang-032017/28678.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/RgsnJlE7.jpg" alt="Chuyên mục TTHQ tháng 03-2017" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Biển đảo" href="http://tv.tuoitre.vn/bien-dao">Biển đảo</a>
+					</div>
+					<h3><a title="Chuyên mục TTHQ tháng 03-2017" href="http://tv.tuoitre.vn/bien-dao/20170312/chuyen-muc-tthq-thang-032017/28678.html">Chuyên mục TTHQ tháng 03-2017</a></h3>
+					<ul class="list-inline list-tool">
+						<li>274 lượt xem</li> | 
+						<li>12.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/bien-dao/20170312/chuyen-muc-tthq-thang-032017/28678.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/bien-dao/20170312/chuyen-muc-tthq-thang-032017/28678.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28678');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Nghề dệt vải bằng tơ sen ở Inle Lake" href="http://tv.tuoitre.vn/kham-pha-du-lich/20170309/nghe-det-vai-bang-to-sen-o-inle-lake/28628.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/03/K6vjMmaA.jpg" alt="Nghề dệt vải bằng tơ sen ở Inle Lake" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Khám phá - Du lịch" href="http://tv.tuoitre.vn/kham-pha-du-lich">Khám phá - Du lịch</a>
+					</div>
+					<h3><a title="Nghề dệt vải bằng tơ sen ở Inle Lake" href="http://tv.tuoitre.vn/kham-pha-du-lich/20170309/nghe-det-vai-bang-to-sen-o-inle-lake/28628.html">Nghề dệt vải bằng tơ sen ở Inle Lake</a></h3>
+					<ul class="list-inline list-tool">
+						<li>385 lượt xem</li> | 
+						<li>09.03.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/kham-pha-du-lich/20170309/nghe-det-vai-bang-to-sen-o-inle-lake/28628.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/kham-pha-du-lich/20170309/nghe-det-vai-bang-to-sen-o-inle-lake/28628.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28628');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Quyết tâm cao để đạt ước mơ lớn" href="http://tv.tuoitre.vn/tin-moi/20170220/quyet-tam-cao-de-dat-uoc-mo-lon/28069.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/02/feXzLdqA.jpg" alt="Quyết tâm cao để đạt ước mơ lớn" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a>
+					</div>
+					<h3><a title="Quyết tâm cao để đạt ước mơ lớn" href="http://tv.tuoitre.vn/tin-moi/20170220/quyet-tam-cao-de-dat-uoc-mo-lon/28069.html">Quyết tâm cao để đạt ước mơ lớn</a></h3>
+					<ul class="list-inline list-tool">
+						<li>249 lượt xem</li> | 
+						<li>20.02.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/tin-moi/20170220/quyet-tam-cao-de-dat-uoc-mo-lon/28069.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/tin-moi/20170220/quyet-tam-cao-de-dat-uoc-mo-lon/28069.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','28069');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Trải nghiệm cảm giác cực mạnh với Shotover Jet ở New Zealand" href="http://tv.tuoitre.vn/nhip-song-giai-tri/20170209/trai-nghiem-cam-giac-cuc-manh-voi-shotover-jet-o-new-zealand/27666.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2017/02/W1iF0DTB.jpg" alt="Trải nghiệm cảm giác cực mạnh với Shotover Jet ở New Zealand" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Nhịp sống giải trí" href="http://tv.tuoitre.vn/nhip-song-giai-tri">Nhịp sống giải trí</a>
+					</div>
+					<h3><a title="Trải nghiệm cảm giác cực mạnh với Shotover Jet ở New Zealand" href="http://tv.tuoitre.vn/nhip-song-giai-tri/20170209/trai-nghiem-cam-giac-cuc-manh-voi-shotover-jet-o-new-zealand/27666.html">Trải nghiệm cảm giác cực mạnh với Shotover Jet ở New Zealand</a></h3>
+					<ul class="list-inline list-tool">
+						<li>1.059 lượt xem</li> | 
+						<li>09.02.2017</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/nhip-song-giai-tri/20170209/trai-nghiem-cam-giac-cuc-manh-voi-shotover-jet-o-new-zealand/27666.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/nhip-song-giai-tri/20170209/trai-nghiem-cam-giac-cuc-manh-voi-shotover-jet-o-new-zealand/27666.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','27666');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Lặng lẽ nơi bìa rừng" href="http://tv.tuoitre.vn/phim-tai-lieu/20161219/lang-le-noi-bia-rung/25889.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2016/12/8U9tjk66.jpg" alt="Lặng lẽ nơi bìa rừng" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Phim tài liệu" href="http://tv.tuoitre.vn/phim-tai-lieu">Phim tài liệu</a>
+					</div>
+					<h3><a title="Lặng lẽ nơi bìa rừng" href="http://tv.tuoitre.vn/phim-tai-lieu/20161219/lang-le-noi-bia-rung/25889.html">Lặng lẽ nơi bìa rừng</a></h3>
+					<ul class="list-inline list-tool">
+						<li>673 lượt xem</li> | 
+						<li>19.12.2016</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/phim-tai-lieu/20161219/lang-le-noi-bia-rung/25889.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/phim-tai-lieu/20161219/lang-le-noi-bia-rung/25889.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','25889');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Chi phí điều trị ung thư bao nhiêu là đủ" href="http://tv.tuoitre.vn/song-khoe/20161212/chi-phi-dieu-tri-ung-thu-bao-nhieu-la-du/26176.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2016/12/cHwERBMx.jpg" alt="Chi phí điều trị ung thư bao nhiêu là đủ" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Sống khỏe" href="http://tv.tuoitre.vn/song-khoe">Sống khỏe</a>
+					</div>
+					<h3><a title="Chi phí điều trị ung thư bao nhiêu là đủ" href="http://tv.tuoitre.vn/song-khoe/20161212/chi-phi-dieu-tri-ung-thu-bao-nhieu-la-du/26176.html">Chi phí điều trị ung thư bao nhiêu là đủ</a></h3>
+					<ul class="list-inline list-tool">
+						<li>2.352 lượt xem</li> | 
+						<li>12.12.2016</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/song-khoe/20161212/chi-phi-dieu-tri-ung-thu-bao-nhieu-la-du/26176.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/song-khoe/20161212/chi-phi-dieu-tri-ung-thu-bao-nhieu-la-du/26176.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','26176');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+							<article class="art-type col-sm-3 col-xs-6">
+					<a class="thumb" title="Nâng đường quá cao, người dân kêu trời" href="http://tv.tuoitre.vn/ong-kinh-phong-vien/20160612/nang-duong-qua-cao-nguoi-dan-keu-troi/20448.html">
+						<img src="http://cdn.static.tuoitre.vn/i/s639/2016/06/JmRiMMTP.jpg" alt="Nâng đường quá cao, người dân kêu trời" draggable="false"/>
+						<span class="glyphicon glyphicon-triangle-right"></span>
+					</a>
+					<div class="outer-tool">
+						<a class="sub-title" title="Ống kính phóng viên" href="http://tv.tuoitre.vn/ong-kinh-phong-vien">Ống kính phóng viên</a>
+					</div>
+					<h3><a title="Nâng đường quá cao, người dân kêu trời" href="http://tv.tuoitre.vn/ong-kinh-phong-vien/20160612/nang-duong-qua-cao-nguoi-dan-keu-troi/20448.html">Nâng đường quá cao, người dân kêu trời</a></h3>
+					<ul class="list-inline list-tool">
+						<li>2.570 lượt xem</li> | 
+						<li>12.06.2016</li>
+					</ul>
+					<ul class="list-inline list-social">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tv.tuoitre.vn/ong-kinh-phong-vien/20160612/nang-duong-qua-cao-nguoi-dan-keu-troi/20448.html" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				        <li class="google"><a target="_blank" href="https://plus.google.com/share?url=http://tv.tuoitre.vn/ong-kinh-phong-vien/20160612/nang-duong-qua-cao-nguoi-dan-keu-troi/20448.html" title="google plus"><i class="fa fa- fa-google-plus"></i></a></li>
+				        <li class="plus"><a title="Share" href="javascript:;" onClick="return sharePopup('http://tv.tuoitre.vn/', 'home', '162', 'tvo_share', '1bd413e26618aadd8514a60d56bc009602cda6c7','20448');"><i class="fa fa-plus"></i></a></li>
+					</ul>
+				</article>
+			 
+			</div>
+		</div>
+			</div>
+</section>			</div>
+		</div>
+		<footer class="footer">
+				      	    	
+    	    		<div class="container">
+    			<div class="outer-footer">
+    				<ul class="list-inline list-footer-top  text-center">
+    					<li><a title="Tuổi trẻ Online" href="http://tuoitre.vn" target="_blank">Tuổi trẻ Online</a></li>
+    					<li><a title="Tuổi trẻ cười" href="http://chuyentrang.tuoitre.vn/TTC/" target="_blank">Tuổi trẻ cười</a></li>
+    					<li><a title="Tuổi Trẻ Cuối Tuần" href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan" target="_blank">Tuổi Trẻ Cuối Tuần</a></li>
+    					<li class="google"><a title="Google plus" href="https://plus.google.com/107706664902384479582"><i class="fa fa- fa-google-plus"></i></a></li>
+    					<li class="facebook"><a title="facebook" href="https://www.facebook.com/baotuoitre"><i class="fa fa-facebook"></i></a></li>
+    				</ul>
+    				<ul class="list-menu">
+    						
+    						<li><a title="Tin mới" href="http://tv.tuoitre.vn/tin-moi">Tin mới</a></li>
+    						
+    						<li><a title="Tin nóng 24h" href="http://tv.tuoitre.vn/tin-nong-24h">Tin nóng 24h</a></li>
+    						
+    						<li><a title="Giải trí 24h" href="http://tv.tuoitre.vn/giai-tri-24h">Giải trí 24h</a></li>
+    						
+    						<li><a title="Nghệ thuật đường phố " href="http://tv.tuoitre.vn/nghe-thuat-duong-pho">Nghệ thuật đường phố </a></li>
+    						
+    						<li><a title="Phóng sự - Điều tra" href="http://tv.tuoitre.vn/phong-su-dieu-tra">Phóng sự - Điều tra</a></li>
+    						
+    						<li><a title="Video khác" href="http://tv.tuoitre.vn/video-khac">Video khác</a></li>
+    						
+    						<li><a title="Clip nóng" href="http://tv.tuoitre.vn/clip-nong">Clip nóng</a></li>
+    					    				</ul>
+    			</div>
+    		</div>
+    		<div class="container">
+    			<div class="bottom-footer">		
+    				<a class="logo-footer" href="http://tuoitre.vn" title="logo"><img alt="" src="/assets/c347b1f2/images/logo-footer.png"></a>
+    				<p class="float-l">
+    					<strong>© Copyright 2014 TUOITRE.VN</strong>, All rights reserved <br> ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này.
+    				</p>
+    				<p class="float-r">
+    					<a href="http://tuoitre.vn/tin/thong-tin-toa-soan" title="Thông tin Tòa soạn">Thông tin Tòa soạn</a> -
+    					<a href="http://www.thanhdoan.hochiminhcity.gov.vn/thanhdoan/webtd" title="Thông tin Thành Đoàn">Thông tin Thành Đoàn</a>  <br>
+    					<span>Đường dây nóng: <strong>0918.033.133</strong> - Liên hệ Quảng cáo: <strong>083.997.4848</strong></span>
+    				</p>
+    			</div>	
+    		</div>
+    	
+    	    		</footer>
+		<!-- footer -->
+	</div>
+	<a class="btn-top" href="javascript:void(0)" title="top"><i class="fa fa-chevron-up"></i></a>
+	<!-- Modal share -->
+<div class="modal fade" id="modalShare" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      <div class="modal-body">
+        <article class="art-box">
+
+        </article>
+      </div>
+    </div>
+  </div>
+</div>
+	<script type="text/javascript" src="/assets/c347b1f2/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/c347b1f2/js/lib.js"></script>
+<script type="text/javascript" src="/assets/c347b1f2/js/plugin.js"></script>
+<script type="text/javascript" src="/assets/c347b1f2/js/start.js"></script>
+<script type="text/javascript" src="/assets/c347b1f2/js/all.js?v=1"></script>
+<script type="text/javascript" src="/assets/c347b1f2/js/radiantmediaplayer/js/rmp.min.js"></script>
+<script type="text/javascript" src="/assets/c347b1f2/js/custom.js?v=1"></script>
+<script type="text/javascript" src="/assets/25042ee9/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(document).ready(function($) {$(".navbar-nav li").last().addClass("live");});
+
+        var frontsiteurl = 'http://tv.tuoitre.vn';
+        function tracking(id){
+            var track_url = 'http://utils.tuoitre.vn/?r=event/tvo/view&id=';
+            track_url = track_url + id;
+            $.get(track_url);
+        }
+        $(document).ready(function() { 
+            var path_video = $('#scroller').children('.playing').children('.par_video').val();
+            var schedule_temp = $('#scroller').children('.playing').children('.par_schedule').val();
+            var path_thumb = $('#scroller').children('.playing').children('.par_thumb').val();
+            var schedule_str = JSON.parse(schedule_temp);
+            var player_path = '/assets/c347b1f2/js/jwplayer7/player.swf?v=32';
+
+            var clip_id = $('#scroller').children('.playing').children('.clip-id').val();
+            tracking(clip_id);
+            playVideo(path_video, path_thumb, schedule_str, player_path);
+        }); //End ready
+
+        $('.slider_video').click(function(){
+                var related = $(this).parent().find('.info').html();
+                var tag_li = $('#scroller').children();
+                for (i = 0; i < tag_li.length; i++) {
+                    $(tag_li[i]).find('.slider_video').removeClass('current');
+                    $(tag_li[i]).removeClass('playing');
+                }
+                $(this).parent().addClass('playing');
+                $(this).addClass('current');
+                $('#maindesc').find('*').remove();
+                $('#maindesc').append(related);
+                var path_video = $(this).parent().children('.par_video').val();
+                var path_thumb = $(this).parent().children('.par_thumb').val();
+                var schedule_temp = $(this).parent().children('.par_schedule').val();
+                var schedule_str = JSON.parse(schedule_temp);
+                var player_path = '/assets/c347b1f2/js/jwplayer7/player.swf?v=32';
+
+                var clip_id = $(this).parent().children('.clip-id').val();
+                tracking(clip_id);
+                playVideo(path_video, path_thumb, schedule_str, player_path);
+                changeUrl(frontsiteurl);
+            });
+
+            //$('#scroller').simplyScroll();
+            $('#scroller').children(':first').addClass('playing');
+            $('#scroller').children(':first').find('.slider_video').addClass('current');
+            $.get('http://utils.tuoitre.vn/?r=event/tvo/view&id=28903');
+            changeUrl(frontsiteurl);
+    
+jQuery(function($) {
+jQuery('#yw0').yiiListView({'ajaxUpdate':[],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

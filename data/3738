@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Báo chí Việt Nam đồng hành cùng đất nước đổi mới - KTĐT
+</title><meta name="keywords" content="Báo chí Việt Nam,hội nhà báo việt nam,ban tuyên giáo trung ương,khai mạc,ủy ban nhân dân thành phố hà nội,đổi mới,việt nam" /><meta name="description" content="Sáng 17/3, Hội Nhà báo Việt Nam phối hợp với Ban Tuyên giáo Trung ương, Bộ TT&amp;TT, Bộ VHTT&amp;DL, UBND TP Hà Nội tổ chức khai mạc Hội Báo toàn quốc 2017 với chủ..." />
+<link rel="canonical" href="http://www.baomoi.com/bao-chi-viet-nam-dong-hanh-cung-dat-nuoc-doi-moi/c/21790896.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790896" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790896" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kinhtedothi.vn/bao-chi-viet-nam-dong-hanh-cung-dat-nuoc-doi-moi-283149.html");
+else
+window.location.replace("http://www.baomoi.com/bao-chi-viet-nam-dong-hanh-cung-dat-nuoc-doi-moi/c/21790896.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

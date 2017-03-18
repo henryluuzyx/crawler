@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bay bổng cùng tam tấu Tâm hồn nhà thơ - ĐTTD
+</title><meta name="keywords" content="Tâm hồn nhà thơ,swing,Bỉ,nguyễn du,tiếng Pháp,nhạc viện hà nội,Fabien Degryse,Jean-Louis Rassinfosse,Pierre Vaiana,Quận 1,Ngày Quốc tế Pháp ngữ,Phái đoàn Wallonie-Bruxelles,sáng tạo,Hồ Chí Mính,The Rainbow,contrabass,lưu diễn,việt nam,Hà Nội,saxophone,Lê Thanh Hải" /><meta name="description" content="(ĐTTD) Trong khuôn khổ Ngày Quốc tế Pháp ngữ tại Việt Nam 2017, Phái đoàn Wallonie-Bruxelles sẽ giới thiệu tới công chúng Hà Nội và TP Hồ Chí Mính hai buổi ..." />
+<link rel="canonical" href="http://www.baomoi.com/bay-bong-cung-tam-tau-tam-hon-nha-tho/c/21752805.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21752805" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21752805" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://dientutieudung.vn/ca-fe/bay-bong-cung-tam-tau-tam-hon-nha-tho/");
+else
+window.location.replace("http://www.baomoi.com/bay-bong-cung-tam-tau-tam-hon-nha-tho/c/21752805.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

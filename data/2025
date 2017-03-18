@@ -1,0 +1,1431 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>3 bài học khởi nghiệp thất bại của tôi</title><meta name="description" content="Tôi là người thích kinh doanh và đã trải qua nhiều thất bại trong kinh doanh. Người ta thường nói: “Thất bại là mẹ của thành công”. Câu nói này không sai nhưng cũng không đúng. Bởi tôi đã chứng kiến rất nhiều người khởi nghiệp sau khi vấp ngã đã không thể gượng nổi dậy để đi tiếp." /><meta name="keywords" content="khởi nghiệp thất bại,Câu chuyện khởi nghiệp,đầu tư cơ sở vật chất,người khởi nghiệp,Đại học Ngoại ngữ,Đại học Hà Nội,thiết kế logo,công việc hiện tại" /><meta name="news_keywords" content="khởi nghiệp thất bại,Câu chuyện khởi nghiệp,đầu tư cơ sở vật chất,người khởi nghiệp,Đại học Ngoại ngữ,Đại học Hà Nội,thiết kế logo,công việc hiện tại" /> <script type="text/javascript">var _adm1='%2Fsu-kien%2Fdetail%2F';var _adm2= '%2Fviec-lam%2Fdetail%2F'</script><div id="ctl00_ctl00_pnJsAdm">
+	
+        <script>
+            var urlDetailCheckAdm = window.location.href;
+            var _Analytics_Channel ="";
+            var _ADM_Channel = "";
+            if (urlDetailCheckAdm.indexOf("/su-kien/") != -1) {
+                _Analytics_Channel = _adm2;
+                _ADM_Channel = _adm1;
+            }
+            else {
+                _Analytics_Channel = undefined;
+                _ADM_Channel = _adm2;
+            }
+        </script>
+    
+</div>
+<!--[if lt IE 7 ]>
+    <noscript><meta http-equiv="refresh" content="0; url='/static/old-browser.html'" /></noscript>
+    <script type="text/javascript">
+        window.location.href = '/static/old-browser.html';
+    </script>
+    <![endif]-->
+<meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" />
+
+        <meta name="robots" content="index,follow,all" />
+    
+<meta property="og:locale" content="vi_VN" />
+
+<meta property="fb:app_id" content="164035690775918" />
+<meta name="generator" content="VCCorp.vn" />
+<meta name="copyright" content="Công ty Cổ phần VCCorp" />
+<meta name="author" content="VCCorp.vn" />
+<meta http-equiv="audience" content="General" />
+<meta name="resource-type" content="Document" />
+<meta name="distribution" content="Global" />
+<meta name="revisit-after" content="1 days" />
+<meta http-equiv="REFRESH" content="1800" />
+<link rel="icon" href="http://static.dantricdn.com/App_Themes/Default/Images/favico.ico" />
+<meta property="fb:pages" content="345033318906366" />
+<meta property="article:author" content="https://www.facebook.com/baodantridientu" />
+<meta property="article:publisher" content="https://www.facebook.com/baodantridientu" />
+
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <link href="https://static.dantricdn.com/min/web/css-default-new.1.1.css" rel="stylesheet" />
+
+
+
+
+<noscript>
+    <style type="text/css">
+        img.lazy { display: none; }
+    </style>
+</noscript>
+<style>
+    .icon-game { background: url('http://dantricdn.com/web_images/khcn.jpg') 0 0 no-repeat; }
+    .subnav ul li { height: 21px; }
+    .subnav a.btn-euro.event { padding: 0; width: auto; height: auto; }
+    .subnav ul a { line-height: 21px; }
+</style>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-34575478-26', 'auto');
+    ga('send', 'pageview');
+
+    //ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+    //ga('totaldt.send', 'pageview');
+
+    //if (location.pathname === '/' || location.pathname === '/the-gioi.htm') {
+    //    ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt1' });
+    //    ga('totaldt1.send', 'pageview');
+    //}
+</script>
+
+
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript" async></script>
+    
+<script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "17793284" }), function () {
+        var c = document.createElement("script"), e = document.getElementsByTagName("script")[0];
+        c.async = !0, c.src = ("https:" == document.location.protocol ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js", e.parentNode.insertBefore(c, e);
+    }();
+</script>
+
+
+
+    <!--[if lt IE 9]>
+    <script src="http://static.dantricdn.com/scripts/lib/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">var appSettings = {domain:'http://dantri.com.vn',imageDomain:'https://dantricdn.com',videoImageDomain:'http://video-thumbs.mediacdn.vn',ajaxDomain:'http://wcm.dantri.com.vn',ajaxDomainOther:'http://wcm.dantri.com.vn',ajaxDomainCountListComment:'http://wcm.dantri.com.vn',allowVietId:false, allowFacebook:true,urlExtension:'.htm' };</script>
+
+    <script type="text/javascript">
+        var _jsCbArr = [];
+        var jsCallback = {
+            push: function (name, body) {
+                _jsCbArr[name] = body;
+            },
+            exec: function (name, args) {
+                if (typeof _jsCbArr[name] == "function") {
+                    try {
+                        _jsCbArr[name](args);
+                    } catch (e) {
+                        return;
+                    }
+                }
+            }
+        };
+
+        (function () {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            var setCookie = function (a, c, f) {
+                                var e = new Date();
+                                e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                                var b = "expires=" + e.toUTCString();
+                                document.cookie = a + "=" + c + "; " + b;
+                            };
+                            setCookie("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+        })();
+
+    </script>
+    
+   
+    
+    
+  
+    
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.6&appId=830263217081389";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+    
+<script type="text/javascript" class="lazy" data-original="https://apis.google.com/js/plusone.js"></script>
+    <style type="text/css">
+        .box26 { height: inherit; background-position: 100% -457px; }
+        .breadcrumb { position: static; }
+        .VCSortableInPreviewMode[type="VideoStream"] img { display: none !important; }
+        .VCSortableInPreviewMode[type=Photo] a { display: inline; }
+        @-moz-document url-prefix() { .detail-content table img;
+        { display: none; }
+        }
+        .ul12 li:nth-child(n+6) .ico-newstype-new { display: none;}
+    </style>
+
+    <link href="https://dantricdn.com/web_css/site.css" rel="stylesheet" />
+    <style>.adm-hidden{display: none}</style>
+
+
+    <script type="text/javascript">//danh cho nhung kieu moi
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+        (function () { var a = document.createElement("script"); a.async = !0; a.type = "text/javascript"; a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+    </script>
+
+<link href="http://dantri.com.vn/viec-lam/3-bai-hoc-khoi-nghiep-that-bai-cua-toi-20170318074039838.htm" rel="canonical" /><link href="http://m.dantri.com.vn/viec-lam/3-bai-hoc-khoi-nghiep-that-bai-cua-toi-20170318074039838.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/viec-lam/3-bai-hoc-khoi-nghiep-that-bai-cua-toi-20170318074039838.htm" rel="alternate" media="handheld" /><meta property="og:type" content="article" /><meta property="og:url" content="http://dantri.com.vn/news-20170318074039838.htm" /><meta property="og:title" content="3 bài học khởi nghiệp thất bại của tôi" /><meta property="og:image" content="https://dantricdn.com/thumb_w/600/2017/khoi-nghiep-1489797494967.jpg" /><meta property="og:description" content="Tôi là người thích kinh doanh và đã trải qua nhiều thất bại trong kinh doanh. Người ta thường nói: “Thất bại là mẹ của thành công”. Câu nói này không sai nhưng cũng không đúng. Bởi tôi đã chứng kiến rất nhiều người khởi nghiệp sau khi vấp ngã đã không thể gượng nổi dậy để đi tiếp." /></head>
+<body>
+    <form name="aspnetForm" method="post" action="" id="aspnetForm">
+<div>
+<input type="hidden" name="hidCategoryPath" id="hidCategoryPath" value="/viec-lam" />
+<input type="hidden" name="GetZoneID" id="GetZoneID" value="133" />
+<input type="hidden" name="__hidDebugInfo" id="__hidDebugInfo" value="" />
+<input type="hidden" name="hdNewsId" id="hdNewsId" value="20170318074039838" />
+<input type="hidden" name="hidCurrentDate" id="hidCurrentDate" value="3/18/2017 7:41:22 AM" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM5MDc5ODA5M2QYBQUlY3RsMDAkY3RsMDAkSGVhZEluZm9ybWF0aW9uMSRtdlJvYm90cw8PZGZkBR5jdGwwMCRjdGwwMCRjcGhCb2R5JGN0bDAwJG12SDEPD2QCAWQFPmN0bDAwJGN0bDAwJGNwaEJvZHkkY3BoQm9keSRjdGwwMSROZXdzRGV0YWlsQm90dG9tMSR2aWV3UGFyZW50Dw9kZmQFJGN0bDAwJGN0bDAwJGNwaEJvZHkkY3RsMDEkdmlld1BhcmVudA8PZGZkBSBjdGwwMCRjdGwwMCRjcGhCb2R5JGN0bDAyJG12TWVudQ8PZGZkyLEKR3XXa1lRPuY0y4+TCojpS9I=" />
+</div>
+
+        
+        
+<style type="text/css">
+    /*.header{ margin-bottom: 0;} body{ background-position: 0 -2615px}
+    .header.tet{    background: transparent url(http://dantricdn.com/web_images/dantri_bg_tet.png) 0 0 no-repeat !important;
+    margin-top: 0;
+    height: 66px;}
+    .header.tet .logo{ background-image: none !important;}
+    .nav-wrap{background-image:url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav{background-image: url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav li,.nav li.menu-home{background-image:url(http://dantri4.vcmedia.vn/web_images/menu-saparator-tet.png)}
+    .nav li.menu-home{margin-top: 3px !important}
+    .nav a:hover span, .nav a.active span,.nav a:hover, .nav a.active{ background-image: none;background-color: rgba(255, 255, 255, 0.15);border-radius: 4px 4px 0 0}
+    .nav a b,.nav a:hover b, .nav a.active b{ background: url(http://dantri4.vcmedia.vn/web_images/home-tet-icon2.png) no-repeat top center;height: 25px;}
+    .ul2 li.active,.box4{background-image: url(http://dantri4.vcmedia.vn/web_images/tab_bg_tet.png) }*/
+</style>
+<div class="header">
+    <div class="clearfix relative">
+        
+                <a href="/" class="logo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"></a>
+               
+            
+
+        <div id="div_gdpda" class="div_gdpda">
+            <a href="/?removecookie=true" rel="nofollow">Giao diện PDA</a>
+        </div>
+        <div id="searchbox" class="searchbox hidden">
+            <div class="clearfix">
+                
+                <input type="text" name="q" id="txtData" data-elementtype="searchtextv2" />
+                <input type="button" value="Tìm kiếm" class="btn" data-elementtype="searchbuttonv2" />
+            </div>
+        </div>
+        <div class="links">
+            <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a> <a title="Blog" class="icon-ads"
+                href="/blog.htm">Blog</a> <a title="Du học" class="icon-duhoc" href="http://duhoc.dantri.com.vn"
+                    target="_blank">Du học</a> <a title="Tuyển sinh" class="icon-tuyensinh" href="http://tuyensinh.dantri.com.vn"
+                        target="_blank">Tuyển sinh</a> <a title="So sánh" class="icon-tuanbao2" href="http://websosanh.vn/dantri/"
+                            target="_blank">So sánh</a> <a title="Mua bán" target="_blank" class="icon-bussiness" href="http://enbac.com">Mua bán</a>  <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a><a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a>
+            <a title="Diễn đàn" class="icon-forum2" href="/dien-dan.htm">Diễn đàn</a> <a title="English" class="icon-tienganh"
+                href="http://www.dtinews.vn" target="_blank">English</a>
+        </div>
+    </div>
+</div>
+<script type="text/lazyscript">
+
+    $('[data-elementtype=searchbuttonv2]').click(function () {
+        var strSearch = $('[data-elementtype=searchtextv2]').val();
+        strSearch=convertHtmlToText(strSearch);
+        strSearch = encodeURIComponent(strSearch);
+        if (strSearch != '') {
+            var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+            if (document.all) {
+                window.location.href = url;
+            } else {
+                document.location.href = url;
+            }
+        } else {
+            $('[data-elementtype=searchtextv2]').focus();
+        }
+        return false;
+    });
+
+    $('[data-elementtype=searchtextv2]').keypress(function (event) {
+        var key;
+        if (window.event) {
+            key = window.event.keyCode;
+        } else {
+            key = event.which;
+        }
+        if (key == 13) {
+            $('[data-elementtype=searchbuttonv2]').click();
+            return false;
+        }
+    });
+    $("#searchbox").removeClass('hidden').show();    
+</script>
+
+        <div class="top-ads clearfix">
+            <div class=" mgauto wid980">
+                
+        
+        
+<div id="admzone221"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone221') });
+</script>
+    
+            </div>
+        </div>
+        
+<style>.subnav ul li{ padding-right: 8px;}</style>
+<div class="nav-wrap">
+    <div class="clearfix">
+        <div class="mgauto wid1004">
+            
+            
+                    <ul class="nav">
+                        <li class="menu-home"><a href="/" title="Trang chủ"><span><b></b></span></a></li>
+                        <li><a title="Video" href="/video-page.htm"><span>Video</span></a></li>
+                        <li><a title="Sự kiện" href="/su-kien.htm"><span>Sự kiện</span></a></li>
+                        <li><a title="Xã hội" href="/xa-hoi.htm"><span>Xã hội</span></a></li>
+                        <li><a title="Thế giới" href="/the-gioi.htm"><span>Thế giới</span></a></li>
+                        <li><a title="Thể thao" href="/the-thao.htm"><span>Thể thao</span></a></li>
+                        <li><a title="Giáo dục" href="/giao-duc-khuyen-hoc.htm"><span>Giáo dục</span></a> </li>
+                        <li><a title="Tấm lòng nhân ái" href="/tam-long-nhan-ai.htm"><span>Nhân ái</span></a></li>
+                        <li><a title="Kinh doanh" href="/kinh-doanh.htm"><span>Kinh doanh</span></a></li>
+                        <li><a title="Văn hóa" href="/van-hoa.htm"><span>Văn hóa</span></a></li>
+                        <li><a title="Giải trí" href="/giai-tri.htm"><span>Giải trí</span></a></li>
+                        <li><a title="Du lịch" target="_blank" href="http://dulich.dantri.com.vn"><span>Du lịch</span></a></li>
+                        <li><a title="Pháp luật" href="/phap-luat.htm"><span>Pháp luật</span></a></li>
+                        <li><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm"><span>Nhịp sống trẻ</span></a></li>
+                        <li><a title="Sức khỏe" href="/suc-khoe.htm"><span>Sức khỏe</span></a></li>
+                        <li><a title="Sức mạnh số" href="/suc-manh-so.htm"><span>Sức mạnh số</span></a></li>
+                        <li><a title="Ô tô - xe máy" href="/o-to-xe-may.htm"><span>Xe++</span></a></li>
+                        <li><a title="Tình yêu giới tính" href="/tinh-yeu-gioi-tinh.htm"><span>Tình yêu</span></a></li>
+                        <li><a title="Chuyện lạ" href="/chuyen-la.htm"><span>Chuyện lạ</span></a></li>
+                    </ul>
+                
+        </div>
+    </div>
+
+    <div class="subnav relative">
+        <ul class="clearfix" id="ul_submenu">
+            
+           
+            <li><a href="/viec-lam.htm" title="Việc l&#224;m">Việc làm</a></li><li><a href="/viec-lam/chinh-sach.htm" title="Ch&#237;nh s&#225;ch">Chính sách</a></li><li><a href="/viec-lam/thi-truong.htm" title="Thị trường">Thị trường</a></li><li><a href="/viec-lam/chung-toi-noi.htm" title="Ch&#250;ng t&#244;i n&#243;i">Chúng tôi nói</a></li><li><a href="/viec-lam/dao-tao.htm" title="Đ&#224;o tạo">Đào tạo</a></li><li><a href="/viec-lam/xkld.htm" title="XKLĐ">XKLĐ</a></li>
+
+        </ul>
+        <div class="hidden">
+            
+        </div>
+        <div class="subSideBtn">
+            <div class="submenu-btnside">
+                <a title="Bạn đọc" href="/ban-doc.htm">Bạn đọc</a>
+            </div>
+            <div class="submenu-btnside">
+                <a title="Việc làm" href="/viec-lam.htm">Việc làm</a>
+            </div>
+        </div>
+
+        <div class="top-rss-wrapper">
+
+            <a title="Rss" class="icon-rss2" ref="nofollow" href="/viec-lam.rss"></a>
+        </div>
+    </div>
+
+
+
+</div>
+
+        
+        <div class="ads-sponsor type-2 adm-hidden">
+        <div id="admsectionlogo"></div>
+         </div>
+        <div class="ads-sponsor type-2 adm-hidden">
+        <div id="admsection1"></div>
+        </div>
+      
+        
+    <script type="text/javascript">
+        var metas = document.getElementsByTagName('meta');
+        var tagparam = [];
+        for (i = 0; i < metas.length; i++) {
+            if (metas[i].getAttribute("name") == "news_keywords") {
+                tagparam = metas[i].getAttribute("content").split(',');
+                break;
+            }
+        }
+    </script>
+    
+    
+
+    <style type="text/css">
+        .detail-content table{padding: 0px}
+        .detail-content table th, .detail-content table td{padding: 5px}
+
+
+        .detail-content table {
+            width: 98% !important;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .fb-like {
+            margin-right: 10px;
+            float: left;
+        }
+
+        .chiasefb {
+            background: #4167b2;
+            height: 20px;
+            line-height: 20px;
+            display: inline;
+            border-radius: 3px;
+            color: #fff;
+            padding: 0 10px;
+        }
+
+        .chiasefb i {
+            font-style: normal;
+        }
+        .imglikefake{float: left}
+    </style>
+    <div class="clearfix wrapper">
+        <div class="container adm-sectionslide">
+            
+<div id="ctl00_ctl00_cphBody_cphBody_ctl01_ctrNewsInSlide" class="newest-of-cat" style="display: none">
+    <div class="noc-header">
+        <div class="noc-container"></div>
+    </div>
+    <div class="button-left">
+        <a href="javascript:void(0)" rel="nofollow">
+            <img src="http://static.dantricdn.com/App_Themes/Default/Images/blank.gif" alt="preview"></a>
+    </div>
+    <div class="viewspot">
+        <ul>
+            
+        </ul>
+    </div>
+    <div class="button-right">
+        <a href="javascript:void(0)" rel="nofollow">
+            <img src="http://static.dantricdn.com/App_Themes/Default/Images/blank.gif" alt="next"></a>
+    </div>
+</div>
+<script type="text/lazyscript">
+    var base = $("#ctl00_ctl00_cphBody_cphBody_ctl01_ctrNewsInSlide");   
+    var funcNoData = function(){
+        
+        base.wrap('<div class="clearfix" style="margin: 10px 0;"></div>');
+        base.remove();
+    }
+    var newsIdRemove='20170318074039838';
+    $.get(appSettings.ajaxDomain + '/news/zone/' + $("#GetZoneID").val() + '/top-12-in-slide-detail.htm', function (data) {
+        if(data.length>100)
+        {
+            base.find(".viewspot ul").html(data);
+            base.show();
+            var list = base.find('ul').first();
+            list.find('li[rel="'+newsIdRemove+'"]').remove();
+        
+            var li = list.find('li');
+    
+    if(!li || li.length == 0)
+    {
+        return funcNoData();
+    }
+            li.each(function () {
+                if ((li.index($(this)) + 1) % 3 != 0) {
+                    $(this).addClass('has-border');
+                }
+            });
+
+            list.mcgSlider({
+                slideItemElement: ">li",
+                preButton: base.find('.button-left'),
+                nextButton: base.find('.button-right'),
+                numberOfVisibleSlides: 3,
+                auto: false
+            });
+        }else {
+    return funcNoData();
+    }
+    });
+     
+    
+</script>
+
+        </div>
+    </div>
+<div class="clearfix adm-mainsection">    
+    <div class="ads-sponsor type-2 adm-hidden"><div id="admsection2"></div></div>
+    <div class="ads-sponsor type-2 adm-hidden"><div id="admsection3"></div></div>
+    <div class="clearfix wrapper">
+        <div class="container">
+    <div class="fl wid470 adm-leftsection">
+        <div id="ctl00_IDContent_Tin_Chi_Tiet">
+            <div id="ctl00_IDContent_ctl00_divContent" class="clearfix">
+                
+<div class="box26 clearfix">
+    
+<!--VuLV - edit 11/06-->
+
+        <ol class="breadcrumb clearfix inline" itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+        <li class="fl" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="breadcrumbitem1" itemprop="item" href="/">
+                <span itemprop="name">Dân trí</span>&nbsp;&nbsp;›&nbsp;&nbsp;</a>
+            <meta itemprop="position" content="1" />
+        </li>
+
+    
+        <li class="fl" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="breadcrumbitem1" itemprop="item" href="/viec-lam.htm">
+                <span itemprop="name">Việc làm</span>&nbsp;&nbsp;›&nbsp;&nbsp;</a>
+            <meta itemprop="position" content="2" />
+        </li>
+
+    
+        </ol>
+    
+
+    <span class="fr fon7 mr2 tt-capitalize">
+        Thứ bảy, 18/03/2017 - 07:39</span>
+</div>
+
+<h1 class="fon31 mgb15">
+    3 bài học khởi nghiệp thất bại của tôi</h1>
+<div class="mt2 clearfix top-sharing">
+    
+
+    <a class="fl chiasefb" target="_blank" style="margin-right: 10px;" href="http://www.facebook.com/sharer.php?u=http://dantri.com.vn/news-20170318074039838.htm" rel="nofollow">
+        Chia sẻ <i></i>
+    </a>
+   <img src="http://dantricdn.com/web_images/fb_like.png" class="imglikefake"/>
+   <div class="fb-like hidden"  data-href="http://dantri.com.vn/news-20170318074039838.htm" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+   
+
+
+    <div class="fb-send" data-href="http://dantri.com.vn/news-20170318074039838.htm" data-width="52" data-height="20" data-colorscheme="light"></div>
+    
+<section class="share-email">
+<a rel="nofollow" href="javascript:location.href='mailto:?SUBJECT='+document.title+'&BODY='+escape(location.href);" class="btn-sendmail"></a>
+    </section>
+    
+    <section class="share-google">
+        <g:plusone size="medium" count="false"></g:plusone>
+    </section>
+
+
+    
+</div>
+
+<h2 class="fon33 mt1 sapo">
+    Tôi là người thích kinh doanh và đã trải qua nhiều thất bại trong kinh doanh. Người ta thường nói: “Thất bại là mẹ của thành công”. Câu nói này không sai nhưng cũng không đúng. Bởi tôi đã chứng kiến rất nhiều người khởi nghiệp sau khi vấp ngã đã không thể gượng nổi dậy để đi tiếp.<br /><a href="/viec-lam/khoi-nghiep-vi-sao-chi-3-thanh-cong-20170310095312353.htm" title="Khởi nghiệp: V&#236; sao chỉ 3% th&#224;nh c&#244;ng?"><b>&nbsp;&gt;&gt;&nbsp;Khởi nghiệp: Vì sao chỉ 3% thành công?</b></a><br /><a href="/viec-lam/khoi-nghiep-kinh-doanh-dung-di-mot-minh-20170303072829925.htm" title="Khởi nghiệp kinh doanh: Đừng đi một m&#236;nh"><b>&nbsp;&gt;&gt;&nbsp;Khởi nghiệp kinh doanh: Đừng đi một mình</b></a><br /><a href="/viec-lam/chang-trai-9x-khiem-thinh-day-nghi-luc-khoi-nghiep-voi-nghe-cat-toc-20170210222335909.htm" title="Ch&#224;ng trai 9X khiếm th&#237;nh đầy nghị lực khởi nghiệp với nghề cắt t&#243;c"><b>&nbsp;&gt;&gt;&nbsp;Chàng trai 9X khiếm thính đầy nghị lực khởi nghiệp với nghề cắt tóc</b></a>
+</h2>
+
+                
+<style>
+    /*ims gan*/
+    .VCSortableInPreviewMode[type="content"]{
+        padding:10px;
+    }
+
+    .VCSortableInPreviewMode[type="Photo"]{
+        display:block;
+        margin:0 auto 2% !important;
+    }
+
+    .VideoCMS_Caption, .VideoCMS_Caption p{
+        background:#eee; font-family:tahoma !important; font-size:13px !important;text-align: center;
+        margin-bottom: 0px;
+    }
+    .VideoCMS_Caption{ padding-bottom: 5px;}
+    .VCSortableInPreviewMode[type=VideoStream] { background-color: #eee; }
+
+    .VCSortableInPreviewMode[type="PhotoInContentBox"].floatleft { float: left; margin-right: 2%; }
+    .VCSortableInPreviewMode[type="PhotoInContentBox"].floatnone { float: none; margin: 0 auto; }
+    .VCSortableInPreviewMode[type="PhotoInContentBox"].floatright { float: right; margin-left: 2%; }
+    /*ims gan*/
+
+    div.balinks a {
+        font-size: 24px;
+    }
+
+    .news-tag {
+        margin-top: 10px;
+    }
+
+    /*anh 360*/
+    .VCSortableInPreviewMode[type="3"] {
+        display: block !important;
+        cursor: e-resize;
+        position: relative;
+    }
+
+    .VCSortableInPreviewMode[type="3"] .reload-spin {
+        position: absolute;
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+        background: black;
+        color: white;
+        padding: 5px 10px;
+        font-weight: bold;
+        cursor: pointer;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .VCSortableInPreviewMode[type="3"] .spin-desc {
+        background-color: rgba(0, 0, 0, 0.5);
+        border-radius: 10px;
+        bottom: 30%;
+        color: #FFFFFF;
+        font-size: 18px;
+        left: 25%;
+        padding: 10px;
+        position: absolute;
+        text-align: center;
+        font-style: normal;
+        font-family: arial;
+    }
+</style>
+<div id="divNewsContent" class="fon34 mt3 mr2 fon43 detail-content">
+    <p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_2cd23e10-0b73-11e7-bf34-0f3c8ea07ae1" photoid="2cd23e10-0b73-11e7-bf34-0f3c8ea07ae1" src="https://dantricdn.com/2017/khoi-nghiep-1489797494967.jpg" rel="https://dantricdn.com/2017/khoi-nghiep-1489797494967.jpg" type="photo" h="405" w="620" style="max-width:100%;" data-original="https://dantricdn.com/2017/khoi-nghiep-1489797494967.jpg"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p>Mỗi lần thất bại trong việc kinh doanh riêng, chúng ta sẽ mất đi rất nhiều nguồn lực.</p>
+
+<p>- <u>Về thời gian</u>: chúng ta cống hiến rất nhiều thời gian cho doanh nghiệp của mình nhưng không có kết quả.</p>
+
+<p>Và bạn biết rồi đó, thời gian là thứ cực kỳ quý giá bởi khi càng nhiều tuổi, nhiệt huyết khởi nghiệp của cá nhân thường có xu hướng giảm dần.</p>
+
+<p>- <u>Về tiền bạc</u>: không thất bại nào trong kinh doanh không gắn liền với mất mát về tài chính.</p>
+
+<p>Ít nhất, bạn đã mất tiền đầu tư cơ sở vật chất cho doanh nghiệp và để rồi đến lúc thất bại, bạn sẽ rất may mắn nếu tình trạng tài chính của bạn là con số 0. Trên thực tế, rất nhiều bạn bè của tôi sau khi thất bại đã phải bắt đầu với con số âm, tôi cũng không phải ngoại lệ. Và trong thời buổi kinh tế hiện nay, đồng tiền kiếm được là vô cùng quý giá.</p>
+
+<p>- <u>Về tâm lý</u>: đây là mất mát vô hình nhưng lớn nhất.</p>
+
+<p>Khi khởi nghiệp, chúng ta đầy khát khao, đam mê, hoài bão để rồi khi đối diện với thất bại, chúng ta sẽ phải đối diên với hàng loạt câu hỏi: “Tôi thật kém cỏi”, “Tôi thật vô dụng” v.v... và chưa kể là những ánh mắt của bạn bè, người thân luôn xoáy vào bạn. Những câu nói dè bỉu: “Tao đã bảo rồi mà...” sẽ luôn khiến bạn cảm thấy dằn vặt.</p>
+
+<p>Chính rào cản về mặt tâm lý mới là điều kinh khủng nhất, là yếu tố tôi chứng kiến nhiều bạn bè của mình sau khi vấp ngã đã không thể một lần nữa phá rào để khởi nghiệp lại.</p>
+
+<p>Trong khi rất nhiều sách vở đề cao sự thất bại thì hãy cẩn thận, tốt hơn hết là tránh được thất bại mà vẫn gặt hái được thành công, đó mới là điều tốt nhất. Nếu bạn yêu thích thất bại, tốt hơn cả là bạn nên có nhiều tiền, nhiều thời gian và có thần kinh thép.</p>
+
+<p>Sở dĩ tôi nói vậy vì mỗi lần khởi nghiệp thất bại, tôi thường phải mất từ 1 đến 2 năm mới có thể hồi phục lại được và tiếp tục khởi nghiệp trở lại. Sau này, khi nhìn lại, tôi mới thấy rằng có nhiều thất bại của mình diễn ra một cách rất ngu xuẩn. Thực tế, những thất bại này hoàn toàn có thể tránh được.</p>
+
+<p>Trải nghiệm thất bại sau đó thành công là điều tốt. Nhưng tốt hơn cả là quan sát, học hỏi để tránh khỏi thất bại cần thiết. Chúng ta không nhất thiết phải sờ vào điện 220 volt để biết rằng điện giật có hại.</p>
+
+<p>Những thất bại cũng vậy, có nhiều thất bại trong khởi nghiệp được lập đi lập lại và nếu quan sát một cách kỹ càng, học hỏi một cách chân thành, chúng ta sẽ tránh được thất bại và giúp chúng ta tiết kiệm được những nguồn lực khổng lồ về mặt thời gian cũng như tiền bạc.</p>
+
+<p>Tôi đã rất nhiều lần thất bại nhưng tôi xin kể 3 câu chuyện khởi nghiệp thất bại của mình, và những thất bại đó đã cho tôi những bài học gì. Mong các bạn tránh được những thất bại mà tôi đã vấp phải.</p>
+
+<p><strong>Câu chuyện khởi nghiệp thứ nhất</strong></p>
+
+<p>Tôi vốn học Đại học Ngoại ngữ (nay là Đại học Hà Nội). Từ thời sinh viên, tôi và các bạn bè cũng lớp đã có những hợp đồng dịch. Mức giá khi đó là 50.000 đồng/trang. Điều đáng nói: Định nghĩa của 1 trang giấy ở đây có mức độ co giãn rất lớn khi mà các công ty dịch đưa cho chúng tôi những tờ giấy A4 nhưng căn lề ra sát dòng, font chữ không bao giờ là 12 mà chỉ là 10, đặc biệt, không bao giờ xuống dòng.</p>
+
+<p>Sau khi ra trường, dù đã có công việc chính thức nhưng ngoài giờ, tôi vẫn nhận dịch với những hợp đồng dịch tốt hơn: nghĩa là ít chữ hơn và tiền nhiều hơn. Đôi khi, một mình không đủ thời gian dịch, tôi chia sẻ lại cho bạn bè và cùng nhau dịch.</p>
+
+<p>Đến một thời điểm, tôi ngồi cùng hai người bạn và nói: “Chúng ta nên thành lập một công ty về dịch thuật. Quay lại trường tìm những bạn sinh viên tốt. Chia sẻ những bản dịch cho mọi người. Sinh viên sẽ được chúng ta đối xử tốt hơn. Chúng ta cũng sẽ thỏa sức nhận nhiều hợp đồng dịch lớn và kiếm nhiều tiền hơn”.</p>
+
+<p>Và thế là chúng tôi bắt tay vào thành lập một Trung tâm Dịch thuật, hì hục thiết kế logo, làm web, in danh thiếp v.v... với hi vọng về những viễn cảnh tươi sáng.</p>
+
+<p>Trung tâm lay lắt được vài tháng thì dừng hoạt động.</p>
+
+<p><u>Nguyên nhân</u>: Chẳng ai trong số chúng tôi quyết định nghỉ việc để về làm toàn thời gian cho công việc kinh doanh của mình cả. Bởi công việc hiện tại của cả ba đều ổn định, thu nhập tốt và khi bắt tay vào thực hiện dự án dịch thuật, không ai có đủ thời gian để chạy hai công việc cùng một lúc.</p>
+
+<p><u>Bài học</u>: Sau này, tôi gặp gỡ nhiều bạn bè, chứng kiến nhiều startup và cũng được bạn bè rủ tham gia vào những startup khác nhau.</p>
+
+<p>Câu hỏi đầu tiên tôi luôn đặt ra là: “Ai sẽ quyết định làm toàn thời gian, sống chết cho dự án này”. Nếu mọi người đều chỉ tham gia với tư cách bán thời gian, tôi sẽ dừng việc hợp tác ngay lập tức, cho dù là đội hình đó có kinh nghiệm đến mấy, có bằng cấp cao đến mấy. Bởi khi khởi nghiệp, công việc tư duy rất nhiều nhưng công việc chân tay còn nhiều hơn gấp bội. Bạn cần phải có người xắn tay vào làm việc cật lực, toàn tâm, toàn ý, may ra thành công mới mỉm cười với bạn.</p>
+
+<p><strong>Câu chuyện khởi nghiệp thứ hai</strong></p>
+
+<p>Một người bạn tôi rất nể trọng trong lĩnh vực công nghệ rủ tôi khởi nghiệp. Đó là thời điểm năm 2008 khi làn sóng thương mại điện tử còn khá mới mẻ. Lĩnh vực gì: “ERP - phần mềm quản trị doanh nghiệp”. Người bạn tôi nói: “Đây là lĩnh vực của tương lai. Doanh nghiệp sẽ quản trị toàn bộ nhân sự, kế toán v.v... trên nền tảng ERP”.</p>
+
+<p>Thú thực là lúc đó tôi cũng không biết ERP là gì, chỉ nhớ mang máng vì đã đọc quá nhiều sách về Bill Gates, Steve Jobs, Micheal Dell và bị ám ảnh bởi những thương vụ khởi nghiệp tỷ đô ở thung lũng Silicon hoa lệ.</p>
+
+<p>Tôi nhanh chóng bị người bạn thuyết phục với lời khẳng định: “Phần mềm này ở nước ngoài có giá lên đến hàng chục ngàn đô. Tao có thể làm được chỉ với vài chục triệu”.</p>
+
+<p>Giấc mơ làm giàu bùng cháy để rồi tắt ngấm sau... chưa đầy 1 năm.</p>
+
+<p><u>Nguyên nhân</u>: Người bạn tôi vật lộn mãi nhưng không thể nào làm ra được sản phẩm demo. Trong khi đó, chi phí nuôi nhân viên kỹ thuật, nhân viên bán hàng, tiền thuê nhà v.v... hàng tháng rất lớn.</p>
+
+<p>Cuối cùng, khi sản phẩm ra đời, chúng tôi đi chào hàng thì chẳng doanh nghiệp nào mua. Thú thực là ai dám trao toàn bộ hệ thống dữ liệu doanh nghiệp cho hai thằng nhóc với một công ty hoàn toàn không có thương hiệu trên thị trường.</p>
+
+<p><u>Bài học</u>: Sau này, khi tham gia tư vấn hoặc tham gia trực tiếp vào một số doanh nghiệp khởi nghiệp, các câu hỏi tôi luôn đặt ra là: “Bao nhiêu lâu thì sản phẩm ra đời?”; “Ngân sách nuôi công ty đến lúc sản phẩm ra đời là bao nhiêu?”; và “Bao nhiêu tiền sẽ được chi ra để làm thương hiệu nhằm thuyết phục khách hàng mua sản phẩm?”.</p>
+
+<p>Nếu 3 câu hỏi trên chưa được trả lời thấu đáo, tôi sẽ chờ đợi đến thời điểm chín muồi hơn để bắt đầu.</p>
+
+<p><strong>Câu chuyện khởi nghiệp thứ ba</strong></p>
+
+<p>Sau khi ra trường, tôi làm việc trong lĩnh vực du lịch. Nhận thấy thị trường nhà hàng chuyên dành cho khách du lịch có tiềm năng, tôi cùng hai người anh cùng nghề nữa quyết định gọi vốn mở nhà hàng du lịch.</p>
+
+<p>Vì ít vốn nên chúng tôi quyết định gọi thêm vốn từ những anh em, bạn bè khác cũng làm trong lĩnh vực du lịch. Một phần lo sợ mơ hồ rằng sau này công ty lớn mạnh, những cổ đông lớn hơn sẽ chiếm đoạt tâm huyết do mình gây dựng nên chúng tôi quyết định những cổ đông góp vốn không được góp quá 20% cổ phần. Rất nhiều người tham gia góp vốn và dự án nhà hàng được hình thành với danh sách cổ đông ban đầu lên tới gần chục người.</p>
+
+<p>Sau hơn 1 năm nhà hàng hoạt động, tôi cùng với một cổ đông sáng lập khác rút vốn khỏi dự án.</p>
+
+<p><u>Nguyên nhân</u>: Nguyên nhân không hẳn đến từ việc kinh doanh. Thực tế công việc kinh doanh khá suôn sẻ và nhà hàng đã có độ phủ rộng tới toàn bộ các công ty du lịch tại Hà Nội với lượng khách khá ổn định. Tuy nhiên, sự tan rã đến tự nội bộ cổ đông.</p>
+
+<p>Nhiều người không phải là điều tệ hại. Điều tệ hại là khi bạn có nhiều người tham gia góp vốn, bạn cần phải có luật chơi thật sòng phẳng và rõ ràng ngay từ ban đầu. Nếu không, sự va chạm của những cái tôi lớn và tư duy “tôi là cổ đông, tôi là chủ” sẽ khiến doanh nghiệp mất quá nhiều thời gian giải quyết những vấn đề nội bộ rồi không thể vươn mình lên một tầm vóc lớn được.</p>
+
+<p><u>Bài học</u>: Vậy có nghĩa là bạn nên khởi nghiệp một mình? Không!</p>
+
+<p>Những câu chuyện kinh doanh đã đề cao quá nhiều đến vấn đề cá nhân. Một mình Steve Jobs không thể khởi nghiệp thành công nếu thiếu thiên tài kỹ thuật Steve Wozniak và tư duy marketing ban đầu của Mike Markkula. Một mình Bill Gates đã không thể thành công nếu thiếu sự đóng góp của Pall Allan trong những ngày đầu lập nghiệp.</p>
+
+<p>Khi khởi nghiệp, chúng ta cần có một ê kíp làm việc. Điều đáng nói, ê kíp này của những công ty khởi nghiệp thường là bạn bè. Bạn bè thường có một điểm chung nào đó. Có quá nhiều điểm chung chỉ tốt khi chúng ta nói chuyện cafe, còn thực ra không tốt cho doanh nghiệp khi khởi sự. Bởi ê kíp làm việc cần những con người với kỹ năng khác biệt.</p>
+
+<p>Lý tưởng là một bộ ba với kỹ năng Sản phẩm - Marketing - Vận hành. Đó là ba chân kiềng vững để doanh nghiệp có thể vượt qua những sóng gió ban đầu và tìm kiếm cơ hội trong tương lai.</p>
+
+<p>Tuy nhiên, bài học lớn hơn cả khi tham gia vào các dự án khởi nghiệp, đó là sau này khi bắt đầu những dự án khác, những cổ đông cũ vẫn sẵn sàng tiếp tục góp vốn cùng với tôi. Bởi trong quá trình làm việc, tôi đặt nguyên tắc "Minh bạch tài chính" lên hàng đầu.</p>
+
+<p>Bạn có thể thất bại do thiếu kỹ năng, thiếu may mắn hay thiếu cả hai, cổ đông có thể chê trách bạn nhưng bạn sẽ vẫn có cơ hội làm lại bởi con đường kinh doanh còn dài với những người đam mê khởi nghiệp. Nhưng nếu bạn nhập nhằng về tài chính, cơ hội làm lại đối với bạn là rất nhỏ. Bởi không ai muốn tham gia doanh nghiệp với một người không minh bạch tài chính.</p>
+
+<p style="text-align: right;"><strong>Theo Hoàng Tùng/Doanh nhân Sài gòn</strong></p>
+
+
+    
+
+   
+    
+        <div class="news-tag">
+            <div class="news-tag-list"><span class="news-tagname">Tag :</span><span class="news-tags-item"><a href="/khoi-nghiep-that-bai.tag" title="khởi nghiệp thất bại">khởi nghiệp thất bại</a>, <a href="/cau-chuyen-khoi-nghiep.tag" title="C&#226;u chuyện khởi nghiệp">Câu chuyện khởi nghiệp</a>, <a href="/dau-tu-co-so-vat-chat.tag" title="đầu tư cơ sở vật chất">đầu tư cơ sở vật chất</a>, <a href="/nguoi-khoi-nghiep.tag" title="người khởi nghiệp">người khởi nghiệp</a>, <a href="/dai-hoc-ngoai-ngu.tag" title="Đại học Ngoại ngữ">Đại học Ngoại ngữ</a>, <a href="/dai-hoc-ha-noi.tag" title="Đại học H&#224; Nội">Đại học Hà Nội</a>, <a href="/thiet-ke-logo.tag" title="thiết kế logo">thiết kế logo</a>, <a href="/cong-viec-hien-tai.tag" title="c&#244;ng việc hiện tại">công việc hiện tại</a></span></div>
+        </div>
+    
+    <div id="div_tamlongnhanai"></div>
+</div>
+<style>
+    .fullScreen {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+</style>
+<script type="text/lazyscript">
+    if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+        $('.detail-content table img').css('max-width', function () { return $(this).closest('td').width(); }).show();
+    }
+    
+    //BeforeAfter
+      $(".VCCSortableInPreviewMode[type=BeforeAfter]").each(function () {
+            $(this).beforeAfter({
+                animateIntro: true,
+                imagePath: 'https://dantricdn.com/web_images/',
+                introDuration: 100,
+                linkDisplaySpeed: 500,
+                introPosition: parseFloat($(this).attr('position-percent')),
+                showFullLinks: true,
+                title: decodeURIComponent($(this).attr('title')),
+                cursor: 'e-resize',
+                enableKeyboard: true,
+                //dividerColor: '#947e3c',
+                beforeLinkText: '&nbsp;&nbsp; «',
+                afterLinkText: '» &nbsp;&nbsp;',
+                beforeDate: $(this).attr('before-date'),
+                afterDate: $(this).attr('after-date'),
+                imageWidth: $(this).attr('w'),
+                imageHeight: $(this).attr('h')
+            });
+            $('.balinks a[target="_blank"]').removeAttr('target');
+        });
+    
+    //cho trang chi tiet ims
+    $(function() {
+        $('.VCSortableInPreviewMode[type="Photo"] img').each(function() {
+            //$(this).on('load', function () {
+            var $parent = $(this).parents('.VCSortableInPreviewMode');
+            var w = $(this).attr('w');
+            if (typeof (w) == 'undefined') {
+                w = $(this).width();
+            }
+            w = parseInt(w);
+    
+    if(w>0 && $parent.width()>0)
+    {
+            if (w < $parent.width()) {
+                $parent.css({
+                    width: w
+                });
+                $(this).css({
+                    width: w
+                });
+            } else {
+                $(this).css({
+                    width: $parent.width()
+                });
+            }
+    }
+        });
+        //})
+    });
+     $('.PhotoCMS_Caption').each(function () {
+        if ($.trim($(this).html()) == '') {
+            $(this).hide();
+        }
+    });
+    //end cho trang chi tiet ims
+</script>
+<script type="text/lazyscript">
+    //dang anh 360
+    var LoadBox360Details = {
+        width: 460,
+        height: 330,
+        frameTime: 150,
+        init: function (control) {
+            var me = this;
+            var $control = $(control);
+            var id = $control.attr('id').replace('s2s_wrap-', '');
+            $.ajax({
+                url: appSettings.ajaxDomain + "/Handlers/Image360.ashx",
+                data: { 'command': 'boxgallerydetails', 'id': id },
+                xhrFields: {
+                    withCredentials: true
+                },
+                type: "GET",
+                success: function (data) {
+                    data = eval('(' + data + ')');
+                    if (data.Success === true) {
+
+                        //
+                        var w360 = 460;
+                        var h360 = 330;
+                        $control.append(String.format('<div id="slide-360-{0}"></div><i class="spin-desc" id="spin-desc-{0}">Dùng chuột để xoay ảnh &#8596;</i><input class="reload-spin" type="button" value="Play" id="reload-spin-{0}" />', id));
+
+                        var desc = $control.find('.spin-desc');
+                        var l = (me.width - desc.width()) / 2;
+                        desc.css('left', l + "px");
+
+                        $control.css('height', 'auto');
+
+                        var slides = [];
+
+                        for (var i = 0; i < data.Data.length; i++) {
+                            //slides[i] = appSettings.imageDomain + '/' + data.Data[i].RawImage;
+
+                            slides[i] = appSettings.imageDomain + '/' + data.Data[i].ImageUrl;
+                            //alert(slides[i]);
+                            if (i == 0) {
+                                //de lay ra chieu cao va do rong da
+                                var htmImg = "<img src='" + slides[i] + "' id='LoadImgGetWH360' />";
+                                $(".VCSortableInPreviewMode[type=3]").append(htmImg);
+
+
+                            }
+                        }
+                        setTimeout(function () {
+                            w360 = $(".VCSortableInPreviewMode #LoadImgGetWH360").width();
+                            h360 = $(".VCSortableInPreviewMode #LoadImgGetWH360").height();
+                            $(".VCSortableInPreviewMode #LoadImgGetWH360").remove();
+                            //console.log(w360 + '-' + h360);
+                            $("#slide-360-" + id).spritespin({
+                                // path to the source images.
+                                source: slides,
+                                width: 460, // width in pixels of the window/frame
+                                height: (460 * h360 / w360), // height in pixels of the window/frame
+                                //width: 460, // width in pixels of the window/frame
+                                //height: 330, // height in pixels of the window/frame
+
+                                frameTime: me.frameTime,
+                                onLoad: function () { me.bindButton(id); }
+                            });
+                        }, 2000);
+                        //
+
+                        //
+                    }
+                }
+            });
+        },
+        bindButton: function (id) {
+            $('#reload-spin-' + id).bind('click', function () {
+                $("#slide-360-" + id).spritespin({
+                    animate: true
+                });
+            });
+            $('#slide-360-' + id).hover(function () {
+                $(this).next().hide();
+            }, function () {
+                $(this).next().show();
+            });
+        }
+    };
+
+    $(".VCSortableInPreviewMode").each(function () {
+        //var img = new Image();
+        //img.src = image.src;
+        // return {
+        //     width: img.width,
+        //  height: img.height
+        // };
+        if ($(this).attr("type") == "3") {
+            LoadBox360Details.width = $(this).width();
+            LoadBox360Details.height = $(this).height();
+            LoadBox360Details.init($(this));
+        }
+        else if ($(this).hasClass("PanoramaPhoto")) {
+            PanoramaViewer.init($(this));
+        }
+
+    });    
+    
+</script>
+<style>
+    .VCSortableInPreviewMode.PanoramaPhoto{position: relative}
+     .VCSortableInPreviewMode.PanoramaPhoto .panoguide {color: #fff;display: block;position: absolute;padding: 10px;background-color: rgba(0,0,0,0.5);border-radius: 5px;top: 40%;left: 30%;cursor: pointer;}
+</style>
+<script type="text/javascript">
+    var PanoramaViewer = {
+        width: 460,
+        height: 330,
+        init: function (control) {
+            var me = this;
+            var $control = $(control);
+            var guide = $('<span class="panoguide">Click để xem ảnh dạng 360 độ</span>');
+            $control.prepend(guide);
+            var currentImg = $control.find("img");
+            guide.click(function () {
+                var imgSrc = currentImg.attr("data-original");
+                if (typeof (imgSrc) != "undefined") {
+                    //console.log(appSettings.imageDomain,imgSrc.indexOf(appSettings.imageDomain));
+                    imgSrc = imgSrc.replace(appSettings.imageDomain, appSettings.imageDomain + '/thumb_h/800');
+                    var iframe = $("<iframe webkitAllowFullScreen mozAllowFullScreen allowFullScreen width='100%' height='330px' style='display:none' scrolling='no' frameborder='0'>");
+                    //iframe.css({ "height": me.height, "width": me.width });
+                    var url = appSettings.ajaxDomain + '/panorama.htm?image=' + imgSrc;
+                    iframe.attr("src", url);
+                    iframe.on('load', function () {
+                        $(this).show();
+                        currentImg.remove();
+                        guide.remove();
+                    });
+
+
+                    $control.prepend(iframe);
+                }
+            });
+            
+        }
+    };
+</script>
+            </div>
+            
+
+            <div class="clearfix mgt20 bottom-sharing">
+                <div class="fl">
+                    
+
+    <a class="fl chiasefb" target="_blank" style="margin-right: 10px;" href="http://www.facebook.com/sharer.php?u=http://dantri.com.vn/news-20170318074039838.htm" rel="nofollow">
+        Chia sẻ <i></i>
+    </a>
+   <img src="http://dantricdn.com/web_images/fb_like.png" class="imglikefake"/>
+   <div class="fb-like hidden"  data-href="http://dantri.com.vn/news-20170318074039838.htm" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+   
+
+
+                    <div class="fb-send fl" data-href="" data-width="52" data-height="20" data-colorscheme="light"></div>
+                </div>
+
+                <a href="/print-20170318074039838.htm" target="_blank" rel="nofollow" class="print-url fr">
+                    <i class="ico-print"></i>In bài viết này
+                </a>
+                
+<section class="share-email">
+<a rel="nofollow" href="javascript:location.href='mailto:?SUBJECT='+document.title+'&BODY='+escape(location.href);" class="btn-sendmail"></a>
+    </section>
+                
+    <section class="share-google">
+        <g:plusone size="medium" count="false"></g:plusone>
+    </section>
+
+
+            </div>
+            
+
+<div style="display: none" class="fb-page mgt20 clearfix" data-href="https://www.facebook.com/baodantridientu" data-width="470" data-height="50" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+    <div class="fb-xfbml-parse-ignore">
+        <blockquote cite="https://www.facebook.com/baodantridientu"><a rel="nofollow" href="https://www.facebook.com/baodantridientu">Dân trí</a></blockquote>
+    </div>
+</div>
+            <div style="text-align: center; padding-top: 5px">
+                
+
+<div style="text-align: center; padding-top: 5px">
+    
+            
+            
+<div id="admzone230"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone230') });
+</script>
+        
+</div>
+
+            </div>
+            <div class="ads-sponsor type-2 adm-hidden"><div id="admsection5"></div></div>
+            
+                <div class="mgt20 clearfix">
+                    
+
+
+<div id="ctl00_ctl00_cphBody_cphBody_ctl01_ctrBoxComment"></div>
+<div id="ctl00_ctl00_cphBody_cphBody_ctl01_ctrBoxCommentnode" style="display: none"></div>
+
+
+<script  type="text/lazyscript">
+    generateCommentIframe({
+        replace: true,
+        placeHolder: $("#ctl00_ctl00_cphBody_cphBody_ctl01_ctrBoxComment"),
+        objectType: '1',
+        objectId: '20170318074039838',
+        objectTitle: 'MytiJWMzJWEwaStoJWUxJWJiJThkYytraCVlMSViYiU5ZmkrbmdoaSVlMSViYiU4N3ArdGglZTElYmElYTV0K2IlZTElYmElYTFpK2MlZTElYmIlYTdhK3QlYzMlYjRp',
+        objectUrl: 'http://dantri.com.vn/news-20170318074039838.htm',
+        zoneId: '133'
+    });
+</script>
+
+
+
+
+                </div>
+            
+
+        </div>
+
+
+        
+
+
+        
+
+
+
+        <div id="divOlderNews" class="box21 mt5 clearfix">
+            <div class="fon39">
+                <h5>Các bài đã đăng</h5>
+            </div>
+            <ul class="ul11 ml2 mt2">
+                <li><h4><a href="/viec-lam/han-quoc-xu-huong-chon-nganh-hoc-la-de-tang-co-hoi-viec-lam-20170318073052513.htm" title="H&#224;n Quốc: Xu hướng chọn ng&#224;nh học lạ để tăng cơ hội việc l&#224;m">Hàn Quốc: Xu hướng chọn ngành học lạ để tăng cơ hội việc làm (18/3)</a></h4></li><li><h4><a href="/viec-lam/tinh-luong-huu-tren-muc-luong-co-so-cu-hay-moi-20170318072008015.htm" title="T&#237;nh lương hưu tr&#234;n mức lương cơ sở cũ hay mới?">Tính lương hưu trên mức lương cơ sở cũ hay mới? (18/3)</a></h4></li><li><h4><a href="/viec-lam/cho-lon-nghe-nhac-phap-hai-tien-ty-moi-nam-20170317072536768.htm" title="Cho lợn nghe nhạc Ph&#225;p “h&#225;i” tiền tỷ mỗi năm">Cho lợn nghe nhạc Pháp “hái” tiền tỷ mỗi năm (17/3)</a></h4></li><li><h4><a href="/viec-lam/tu-1-7-luong-huu-du-kien-tang-74--20170317071232031.htm" title="Từ 1/7: Lương hưu dự kiến tăng 7,4 %">Từ 1/7: Lương hưu dự kiến tăng 7,4 % (17/3)</a></h4></li><li><h4><a href="/viec-lam/sang-21-3-tai-ha-noi-phien-gdvl-thanh-nien-voi-500-chi-tieu-tuyen-dung-2017031706351088.htm" title="S&#225;ng 21/3, tại H&#224; Nội: Phi&#234;n GDVL thanh ni&#234;n với 500 chỉ ti&#234;u tuyển dụng">Sáng 21/3, tại Hà Nội: Phiên GDVL thanh niên với 500 chỉ tiêu tuyển dụng (17/3)</a></h4></li><li><h4><a href="/viec-lam/vietinbank-gia-han-tuyen-dung-tai-khu-vuc-mien-nam-20170317061206777.htm" title="VietinBank gia hạn tuyển dụng tại khu vực miền Nam">VietinBank gia hạn tuyển dụng tại khu vực miền Nam (17/3)</a></h4></li><li><h4><a href="/viec-lam/nhung-phan-doi-ben-ganh-hang-rong-20170316194101566.htm" title="Những phận đời b&#234;n g&#225;nh h&#224;ng rong">Những phận đời bên gánh hàng rong (17/3)</a></h4></li><li><h4><a href="/viec-lam/viet-nam-kien-quyet-xoa-bo-moi-hinh-thuc-phan-biet-doi-xu-voi-phu-nu-20170316123358913.htm" title="“Việt Nam ki&#234;n quyết x&#243;a bỏ mọi h&#236;nh thức ph&#226;n biệt đối xử với phụ nữ”">“Việt Nam kiên quyết xóa bỏ mọi hình thức phân biệt đối xử với phụ nữ” (16/3)</a></h4></li><li><h4><a href="/viec-lam/loi-keu-cuu-tu-a-rap-xe-ut-chinh-thuc-thu-giay-phep-cua-cong-ty-dung-tru-so-ma-2017031611543269.htm" title="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: Ch&#237;nh thức thu giấy ph&#233;p của c&#244;ng ty d&#249;ng trụ sở &quot;ma&quot;!">Lời kêu cứu từ Ả Rập Xê Út: Chính thức thu giấy phép của công ty dùng trụ sở "ma"! (16/3)</a></h4></li><li><h4><a href="/viec-lam/kien-doi-so-bhxh-co-phai-nop-tien-201703160800014.htm" title="Kiện đ&#242;i sổ BHXH, c&#243; phải nộp tiền?">Kiện đòi sổ BHXH, có phải nộp tiền? (16/3)</a></h4></li>
+            </ul>
+        </div>
+        
+        <script type="text/lazyscript">
+            var IMSInteractiveBasePath = ("https:" == document.location.protocol ? "https://" : "http://") + "interactive.channelvn.net";
+            (function () {
+                var ims = document.createElement("script");
+                ims.type = "text/javascript"; ims.async = true;
+                ims.src = IMSInteractiveBasePath + "/published/quiz/embed.js";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(ims, s);
+            })();
+            </script>
+
+
+        <script type="text/lazyscript">
+            var date = new Date();
+            var txtDate = String.format('({0}/{1})', date.getDate(), date.getMonth() + 1);
+            $("#divLatestNews li a,#divOlderNews li a").each(function () {
+                if ($(this).text().indexOf(txtDate) != -1) {
+                    $(this).append("<i class=\"ico-newstype-new\"></i>");
+                }
+            });
+
+        </script>
+
+        <script type="text/lazyscript">
+          
+            //quiz
+            $(document).ready(function () {
+                if ($("#divNewsContent .IMSInteractiveItem.v2").length > 0) {
+
+                    var ims = document.createElement("script");
+                    var s = document.getElementsByTagName("script")[0];
+                    ims.type = "text/javascript";
+                    ims.async = true;
+                    ims.onreadystatechange = ims.onload = function () {
+                        IMSQuizEmbed.init({
+                            nameSpace: 'vpn.www.dantri.com.vn',
+                            userName: '',
+                            getTokenFunction: function (callback) {
+                                $.ajax({
+                                    type: 'POST',
+                                    url: 'http://wcm.dantri.com.vn/Ajax/QuizNews/Quiz.ashx',
+                                    dataType: "json",
+                                    success: function (res) {
+                                        var data = res;
+                                        if (typeof (data) == 'string') data = JSON.parse(data);
+                                        callback(data.message.token);
+                                    }
+                                });
+                            }
+                        });
+                    },
+                    ims.src = "http://embed.widget.channelvn.net/dist/plugins/quiz-embed.js";
+                    s.parentNode.insertBefore(ims, s);
+                }
+            });
+            
+        </script>
+
+        <script type="text/lazyscript">
+            var fbClient = {
+                version: 'v2.3',
+                appId: '830263217081389',
+                xfbml: true,
+                status: true,
+                likeCB: null,
+                loaded: null,
+                init: function () {
+                    var me = this;
+
+                    $(document).ready(function () {
+                        if ($('#fb-root').length === 0) {
+                            $('body').prepend('<div id="fb-root"></div>');
+                        }
+                        me.fbLoad('//connect.facebook.net/vi_VN/sdk.js', function () {
+                            FB.init({
+                                appId: me.appId,
+                                status: me.status,
+                                xfbml: me.xfbml,
+                                version: me.version
+                            });
+
+                            FB.Event.subscribe('xfbml.render', me.renderButton);
+                            FB.Event.subscribe('edge.create', me.likeCB);
+                        });
+                    });
+                },
+                fbParse: function (ele) {
+                    try {
+                        FB.XFBML.parse(ele);
+                    } catch (e) {
+                    }
+                },
+                fbLoad: function (url, callback) {
+                    callback = (typeof callback != 'undefined') ? callback : {};
+
+                    $.ajax({
+                        type: "GET",
+                        url: url,
+                        success: callback,
+                        dataType: "script",
+                        cache: true
+                    });
+                },
+                getLikeShareCount: function (url, eleShare, eleLike, eleTotal) {
+                    $.ajax({
+                        type: "GET",
+                        dataType: "json",
+                        url: 'http://api.facebook.com/restserver.php?method=links.getStats&format=JSON&urls=' + url,
+                        success: function (msg) {
+                            if ($(eleShare) != null) {
+                                var iCount = msg[0].share_count;
+                                if (iCount == 0) {
+                                     $(eleShare).html('');
+                                }
+                                else {
+                                    $(eleShare).html(iCount);
+                                }
+                            }
+
+                            if ($(eleLike) != null)
+                                $(eleLike).html(msg[0].like_count);
+
+                            if ($(eleTotal) != null)
+                                $(eleTotal).html(msg[0].total_count);
+                        }
+                    });
+                },
+                shareClick: function (hr) {
+                    var wleft = screen.width / 2 - 700 / 2;
+                    var wtop = screen.height / 2 - 450 / 2;
+
+                    var link = hr != null ? hr : document.location.href;
+
+                    var w = window.open("http://www.facebook.com/sharer.php?u=" + link, "chia sẻ",
+                            'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=700, height=485, top=' + wtop + ', left=' + wleft
+                        );
+                    w.focus();
+                    return false;
+                },
+                fanpage: function () {
+                    setTimeout(function () {
+                        if (!$('.social-share .fb-like iframe').is(':visible'))
+                            $('.social-share').remove();
+                    }, 10000);
+                },
+                renderButton: function () {
+                    $('.fb-send').removeClass('hidden').show().parent('.fbSendWrap').children(':not(".fb-send")').remove();
+                    $('.fb-like').removeClass('hidden').show().parent('.fbLikeWrap').children(':not(".fb-like")').remove();
+                    $('.imglikefake').addClass('hidden');
+                    //console.log('vao');
+                },
+                likeOnload: function (obj, width, height) {
+                    $(obj).css({ 'display': 'block', 'width': width, 'height': height });
+                }
+            };
+            fbClient.init();
+            //fbClient.getLikeShareCount('http://dantri.com.vn/news-20170318074039838.htm', '.chiasefb i');
+        </script>
+        <script type="text/lazyscript">
+            brandContent.init();
+        </script>
+        
+<div class="clearfix mt2 newsdateselector">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm trước" id="btnViewNewsPrevDate">
+    <input class="btn-view-month" type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="Xem bài theo ngày tháng »" id="Button1">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm sau" id="btnViewNewsNextDate">
+</div>
+<script type="text/lazyscript">
+    var categoryPath = $("#hidCategoryPath").val().trim('/');
+    
+    var currentDate = new Date();
+    if ($("#hidCurrentDate") && $("#hidCurrentDate").val() != '') {
+        currentDate = new Date($("#hidCurrentDate").val());
+    }
+    var now = new Date();
+    var hasNext = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() > new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate()).getTime();
+    
+    var prevDate = currentDate.addDays(-1);
+    var prevDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, prevDate.getDate(), prevDate.getMonth() + 1, prevDate.getFullYear(), appSettings.urlExtension);
+    $('#btnViewNewsPrevDate').bind('click', function () {
+        window.location.href = prevDateUrl;
+    });
+
+    if (hasNext) {
+        var nextDate = currentDate.addDays(1);
+        var nextDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, nextDate.getDate(), nextDate.getMonth() + 1, nextDate.getFullYear(), appSettings.urlExtension);
+        $('#btnViewNewsNextDate').bind('click', function () {
+            window.location.href = nextDateUrl;
+        });
+        $('#btnViewNewsNextDate').show();
+    }else{
+        $('#btnViewNewsNextDate').addClass('disabled');
+    }
+</script>
+
+    </div>
+
+    <div class="fr w510 adm-rightsection">
+        
+
+
+
+<div class="fl wid310 box5 admicro mgl10">
+
+    
+        <div align="center" class="ic-ads" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 300px" align="center">
+                
+<div id="admzone401"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone401') });
+</script> 
+            </div> 
+        </div> 
+    
+    
+<div class="fl" id="newsfocus">
+    <div class="fon42 tieudiemh3">Tiêu điểm</div>
+    <div class="box16 box24 ml1 mr1 mb2 newsfocuspage1">
+        <div class="box24 clearfix"><div class="fr wid150"><a  href="/viec-lam/nhan-tro-cap-that-nghiep-van-duoc-dong-tiep-bhxh-de-nghi-huu-20170212222637305.htm" title="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" ><img   title="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" alt="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" data-x2="https://dantricdn.com/c37effd5/zoom/48_48/2017/bao-hiem-that-nghiep-1486913125018.jpg" src="https://dantricdn.com/zoom/45_45/2017/bao-hiem-that-nghiep-1486913125018.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/nhan-tro-cap-that-nghiep-van-duoc-dong-tiep-bhxh-de-nghi-huu-20170212222637305.htm" title="Nhận trợ cấp thất nghiệp vẫn được đ&#243;ng tiếp BHXH để nghỉ hưu" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Nhận trợ cấp thất nghiệp vẫn được đóng tiếp BHXH để nghỉ hưu</a></div><div class="fr"><a  href="/viec-lam/khi-nhan-vien-pham-sai-lam-20170212223335967.htm" title="Khi nh&#226;n vi&#234;n phạm sai lầm" ><img   title="Khi nh&#226;n vi&#234;n phạm sai lầm" alt="Khi nh&#226;n vi&#234;n phạm sai lầm" data-x2="https://dantricdn.com/08a35511/zoom/48_48/2017/nhan-vien-1486913497208.jpg" src="https://dantricdn.com/zoom/45_45/2017/nhan-vien-1486913497208.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/khi-nhan-vien-pham-sai-lam-20170212223335967.htm" title="Khi nh&#226;n vi&#234;n phạm sai lầm" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Khi nhân viên phạm sai lầm</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/viec-lam/cu-ba-88-tuoi-van-sua-xe-chong-day-moi-ngay-20170216072842178.htm" title="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" ><img   title="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" alt="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" data-x2="https://dantricdn.com/ecacb948/zoom/48_48/2017/a1-1-1487204644824.JPG" src="https://dantricdn.com/zoom/45_45/2017/a1-1-1487204644824.JPG" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/cu-ba-88-tuoi-van-sua-xe-chong-day-moi-ngay-20170216072842178.htm" title="Cụ b&#224; 88 tuổi vẫn sửa xe, chống đẩy mỗi ng&#224;y" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Cụ bà 88 tuổi vẫn sửa xe, chống đẩy mỗi ngày</a></div><div class="fr"><a  href="/viec-lam/tan-trang-xe-co-nghe-kiem-bon-tien-tai-cuba-20170224171305621.htm" title="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" ><img   title="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" alt="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" data-x2="https://dantricdn.com/5b28211f/zoom/48_48/2017/o-to-co-1487930990964.jpg" src="https://dantricdn.com/zoom/45_45/2017/o-to-co-1487930990964.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/tan-trang-xe-co-nghe-kiem-bon-tien-tai-cuba-20170224171305621.htm" title="T&#226;n trang xe cổ - Nghề kiếm bộn tiền tại Cuba" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Tân trang xe cổ - Nghề kiếm bộn tiền tại Cuba</a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/viec-lam/cu-nhan-khong-viet-noi-don-xin-viec-vi-sao-20170301090353532.htm" title="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" ><img   title="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" alt="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" data-x2="https://dantricdn.com/df9f7483/zoom/48_48/2017/cu-nhan-1488333753663.jpg" src="https://dantricdn.com/zoom/45_45/2017/cu-nhan-1488333753663.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/cu-nhan-khong-viet-noi-don-xin-viec-vi-sao-20170301090353532.htm" title="Cử nh&#226;n kh&#244;ng viết nổi đơn xin việc, v&#236; sao?" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Cử nhân không viết nổi đơn xin việc, vì sao?</a></div><div class="fr"><a  href="/viec-lam/bo-ld-tbxh-manh-tay-rut-giay-phep-voi-doanh-nghiep-xkld-khong-hieu-qua-20170308234114812.htm" title="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" ><img   title="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" alt="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" data-x2="https://dantricdn.com/2418fb75/zoom/48_48/2017/xkld-1488991026224.jpeg" src="https://dantricdn.com/zoom/45_45/2017/xkld-1488991026224.jpeg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/bo-ld-tbxh-manh-tay-rut-giay-phep-voi-doanh-nghiep-xkld-khong-hieu-qua-20170308234114812.htm" title="Bộ LĐ-TB&amp;XH: Mạnh tay r&#250;t giấy ph&#233;p với doanh nghiệp XKLĐ kh&#244;ng hiệu quả" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Bộ LĐ-TB&XH: Mạnh tay rút giấy phép với doanh nghiệp XKLĐ không hiệu quả</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/viec-lam/tuyen-sinh-tc-cd-2017-cac-truong-co-quyen-tuyen-sinh-nhieu-lan-trong-nam-20170309164152663.htm" title="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" ><img   title="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" alt="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" data-x2="https://dantricdn.com/29d3ec43/zoom/48_48/2017/day-nghe-1489052380933.jpg" src="https://dantricdn.com/zoom/45_45/2017/day-nghe-1489052380933.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/tuyen-sinh-tc-cd-2017-cac-truong-co-quyen-tuyen-sinh-nhieu-lan-trong-nam-20170309164152663.htm" title="Tuyển sinh TC-CĐ 2017: C&#225;c trường c&#243; quyền tuyển sinh nhiều lần trong năm" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Tuyển sinh TC-CĐ 2017: Các trường có quyền tuyển sinh nhiều lần trong năm</a></div><div class="fr"><a  href="/viec-lam/nghien-cuu-dung-the-dien-tu-thay-the-so-huu-tro-cap-bhxh-bang-giay-20170311072525855.htm" title="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" ><img   title="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" alt="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" data-x2="https://dantricdn.com/741340c7/zoom/48_48/2017/luong-huu-1489191856695.jpg" src="https://dantricdn.com/zoom/45_45/2017/luong-huu-1489191856695.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/nghien-cuu-dung-the-dien-tu-thay-the-so-huu-tro-cap-bhxh-bang-giay-20170311072525855.htm" title="Nghi&#234;n cứu d&#249;ng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Nghiên cứu dùng thẻ điện tử thay thế sổ hưu, trợ cấp BHXH bằng giấy</a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/viec-lam/tu-nam-2018-dong-bhxh-theo-tong-thu-nhap-20170313072819294.htm" title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" ><img   title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" alt="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" data-x2="https://dantricdn.com/0706c5a2/zoom/48_48/2017/bhxh-1489364803981.jpg" src="https://dantricdn.com/zoom/45_45/2017/bhxh-1489364803981.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/tu-nam-2018-dong-bhxh-theo-tong-thu-nhap-20170313072819294.htm" title="Từ năm 2018, đ&#243;ng BHXH theo tổng thu nhập" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Từ năm 2018, đóng BHXH theo tổng thu nhập</a></div><div class="fr"><a  href="/viec-lam/bao-hiem-xa-hoi-cong-khai-ten-doanh-nghiep-no-tren-bao-chi-2017031308361525.htm" title="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" ><img   title="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" alt="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" data-x2="https://dantricdn.com/b8efed2b/zoom/48_48/2017/lao-dong-1489368580955.jpg" src="https://dantricdn.com/zoom/45_45/2017/lao-dong-1489368580955.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/bao-hiem-xa-hoi-cong-khai-ten-doanh-nghiep-no-tren-bao-chi-2017031308361525.htm" title="Bảo hiểm x&#227; hội c&#244;ng khai t&#234;n doanh nghiệp nợ tr&#234;n b&#225;o ch&#237;" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Bảo hiểm xã hội công khai tên doanh nghiệp nợ trên báo chí</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/viec-lam/dip-gio-to-hung-vuong-nguoi-lao-dong-duoc-nghi-may-ngay-20170204083235004.htm" title="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" ><img   title="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" alt="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" data-x2="https://dantricdn.com/3bbb8cb6/zoom/48_48/2017/gio-to-1486177541716.jpg" src="https://dantricdn.com/zoom/45_45/2017/gio-to-1486177541716.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/viec-lam/dip-gio-to-hung-vuong-nguoi-lao-dong-duoc-nghi-may-ngay-20170204083235004.htm" title="Dịp Giỗ Tổ H&#249;ng Vương: Người lao động được nghỉ mấy ng&#224;y?" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Dịp Giỗ Tổ Hùng Vương: Người lao động được nghỉ mấy ngày?</a></div></div>
+    </div>
+</div>
+
+<script type="text/lazyscript">
+    pagingBoxTieuDiem(3);
+</script>
+
+    
+        <div style="float: left; width: 300px; padding: 5px">
+            
+            
+<div id="admzone345"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone345') });
+</script>
+        </div> 
+    
+</div>
+
+    <div class="fr pt5" style="width: 180px;">
+        <div align="center" class="dantri-div-bottom" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 180px; padding-top: 5px;" align="center">
+                
+<div id="admzone228"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone228') });
+</script> 
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+        </div>
+    </div>
+    <div id="adm_sponsor_footer1"></div>
+</div>
+
+
+
+
+        <div class="wrapper">    
+            <div id="adm_sticky_footer" style="height: 0px"></div>
+            
+
+<div class="footer box19">
+    <div class="fr mb1 mt2">
+        <a href="javascript:void(0)" data-elementtype="button-sethomepage" rel="nofollow">Đặt Dân trí làm trang chủ </a>|  <a href="mailto:dantri@dantri.com.vn" title="Góp ý - Liên hệ" rel="nofollow">Góp ý
+            - Liên hệ</a> | &nbsp;&nbsp;&nbsp;<a
+                href="#" class="fon19" rel="nofollow">[ Trở về đầu trang ]</a>
+    </div>
+    <div class="clear line2">
+    </div>
+    <div class="clearfix">
+        <div class="fon17 mt1">
+            <a rel="nofollow" href="/su-kien.htm" title="Sự kiện">Sự kiện</a> | <a rel="nofollow" href="/xa-hoi.htm" title="Xã hội">Xã hội</a> | <a rel="nofollow" href="/the-gioi.htm" title="Thế giới">Thế giới</a> | <a rel="nofollow" href="/the-thao.htm" title="Thể thao">Thể thao</a> | <a rel="nofollow" href="/giao-duc-khuyen-hoc.htm" title="Giáo dục">Giáo dục</a> | <a rel="nofollow" href="/tam-long-nhan-ai.htm" title="Nhân ái">Nhân ái</a> | <a rel="nofollow" href="/kinh-doanh.htm" title="Kinh doanh">Kinh doanh</a> | <a rel="nofollow" href="/van-hoa.htm" title="Văn hóa">Văn hóa</a> | <a rel="nofollow" href="/giai-tri.htm" title="Giải trí">Giải trí</a> | <a rel="nofollow" href="http://dulich.dantri.com.vn" target="_blank" title="Du lịch">Du lịch</a> | <a rel="nofollow" href="/phap-luat.htm" title="Pháp luật">Pháp luật</a> | <a rel="nofollow" href="/nhip-song-tre.htm" title="Nhịp sống trẻ">Nhịp sống trẻ</a> | <a rel="nofollow" href="/suc-khoe.htm" title="Sức khỏe">Sức khỏe</a> |  <a rel="nofollow" href="/suc-manh-so.htm" title="Sức mạnh số">Sức mạnh số</a> | <a rel="nofollow" href="/o-to-xe-may.htm" title="Xe++">Xe++</a>
+            | <a rel="nofollow" href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu">Tình yêu</a> | <a rel="nofollow" href="/chuyen-la.htm" title="Chuyện lạ">Chuyện lạ</a>
+        </div>
+    </div>
+    <div class="footer-content box8 fon18 lh18">
+        <div class="footer-content-left">
+            Cơ quan của TW Hội Khuyến học Việt Nam<br />
+            Giấy phép hoạt động báo điện tử Dân trí trên Internet số  378/GP - BTTTT Hà Nội,
+            ngày 16-09-2013.<br />
+            Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br />
+            Điện thoại: 04-3736-6491. Fax: 04-3736-6490<br />
+            Email: <a href="mailto:info@dantri.com.vn" title="Gửi email tới Dân Trí" rel="nofollow">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" title="Xem trang Dân Trí"
+                rel="nofollow">http://www.dantri.com.vn</a>
+            <br />
+            <p>
+                <i>Mọi hành động sử dụng nội dung đăng tải trên Báo điện tử Dân trí tại địa chỉ www.dantri.com.vn
+                phải<br/> có sự đồng ý bằng văn bản của Báo điện tử Dân trí.
+                </i>
+            </p>
+        </div>
+        <div class="footer-content-right">
+            <p>
+                Đơn vị quảng cáo: &nbsp;<img src="https://static.dantricdn.com/App_Themes/Default/Images/adm_new_logo_small.png"
+                    style="display:inline-block; border: none;" />
+            </p>
+            <p>
+                Hotline: 0926.864.344
+            </p>
+            <p>
+                Email: <a href="mailto:quangcao@admicro.vn" rel="nofollow">quangcao@admicro.vn</a>
+            </p>
+            <p>
+                Website: <a href="http://www.admicro.vn" target="_blank"
+                    rel="nofollow">www.admicro.vn</a>
+            </p>
+            <p>
+                Hỗ trợ và CSKH: 01268 269 779 (Ms. Thơm)
+            </p>
+            <p>
+                Các mảng: <a href="http://afamily.vn" target="_blank" title="gia đình">gia đình
+                </a>-<a href="http://genk.vn" target="_blank" title="công nghệ"> công nghệ </a>-
+                <a href="http://gamek.vn" target="_blank" title="game">game </a>- <a href="http://kenh14.vn"
+                    target="_blank" title="giải trí">giải trí</a> , <a href="http://kenh14.vn/xa-hoi.chn"
+                        target="_blank" title="xã hội">xã hội.</a>
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    <script src="http://static.hosting.vcmedia.vn/code_redirect_player.js" type="text/javascript"></script>
+    <script type="text/lazyscript">
+        var icoNewsTypeVote = '<i class="ico-newstype-vote" title="Bài trắc nghiệm"></i>';
+        if ($("html").hasClass("homepage")) {
+            $("a[data-newstype=22]").prepend(icoNewsTypeVote);
+        } else {
+            $("a[data-newstype=22]").append(icoNewsTypeVote);
+        }
+    </script>
+    <script src="//media1.admicro.vn/js_boxapp/tagsponsorz_40401.js"></script>
+    
+
+        
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C7FDD17C" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var pageConfig = {suggestVideoUrl:'http://wcm.dantri.com.vn/video/zone-0/suggest-videos.htm'}//]]>
+</script>
+</form>
+    
+    
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <script src="http://dantricdn.com/web_js/js-default-new.1.3.js" type="text/javascript" ></script>
+
+
+<script type="text/lazyscript">
+    var newZoneLink = $('.subnav ul a[href$="/doi-song/thuong-luu.htm"]');
+    if (newZoneLink.length > 0) {
+        newZoneLink.css({
+            "position": "relative",
+            "padding-right": "32px"
+        });
+        var icoNew = $('<i />').css({
+            background: 'transparent url("https://dantricdn.com/web_images/bd2aa9f1-5e63-4cc5-96b3-2d03e5fd9be7.png")  0 0 no-repeat',
+            width: '29px',
+            height: '16px',
+            display: 'inline-block',
+            position: 'absolute',
+            top: '-2px',
+            right: '0'
+        });
+        newZoneLink.append(icoNew);
+    }
+</script>
+
+
+</body>
+</html>
+
+<!--s: 07:41:22 18/03/2017 -->

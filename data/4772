@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Rủ nhau 'trốn' khỏi miền Bắc những ngày mưa nồm ẩm ướt - Em Đẹp
+</title><meta name="keywords" content="Đà Lạt,rủ nhau,Nha Trang,cộng tác,miền bắc,miền nam,email,phản ánh,Hội An,thời tiết,sài gòn,việt nam,Hà Nội" /><meta name="description" content="Trong những ngày Hà Nội mưa phùn, thời tiết nồm ẩm khó chịu này, người ta mới càng da diết nhớ những ngày nắng vàng khô ráo và muốn &quot;trốn chạy&quot; tới những nơ..." />
+<link rel="canonical" href="http://www.baomoi.com/ru-nhau-tron-khoi-mien-bac-nhung-ngay-mua-nom-am-uot/c/21789763.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789763" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789763" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://emdep.vn/xem-choi/ru-nhau-tron-khoi-mien-bac-nhung-ngay-mua-nom-am-uot-20170317144450499.htm");
+else
+window.location.replace("http://www.baomoi.com/ru-nhau-tron-khoi-mien-bac-nhung-ngay-mua-nom-am-uot/c/21789763.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

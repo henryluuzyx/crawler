@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nga đưa tàu do thám hoạt động gần căn cứ tàu ngầm Mỹ - Giao Thông
+</title><meta name="keywords" content="Lê Dũng,Mỹ,Nga,Victor Leonov,cảng Norfolk,chỉ huy,Hải Quân Nga,Connecticut,Georgia,virginia,căn cứ,trinh sát,phát hiện" /><meta name="description" content="Hải quân Mỹ thông báo, họ đã phát hiện một tàu gián điệp của Hải quân Nga đang hoạt động ngay gần một căn cứ tàu ngầm của Mỹ - FoxNews ngày 16/3 đưa tin." />
+<link rel="canonical" href="http://www.baomoi.com/nga-dua-tau-do-tham-hoat-dong-gan-can-cu-tau-ngam-my/c/21787524.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21787524" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21787524" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/nga-dua-tau-do-tham-hoat-dong-gan-can-cu-tau-ngam-my-d192579.html");
+else
+window.location.replace("http://www.baomoi.com/nga-dua-tau-do-tham-hoat-dong-gan-can-cu-tau-ngam-my/c/21787524.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

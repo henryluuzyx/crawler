@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đài Bắc Trung Hoa 'thay máu' lực lượng cho cuộc tái đấu tuyển Việt Nam - Lao Động
+</title><meta name="keywords" content="Kazuo Kuroda,Huang Chiu-Lin,Chen Sheng-Wei,Hung Tzu-Kuei,Jiang Sin-Long,Lee Hsiang-Wei,Lai Chih-Hsuan,Chao Ming-Hsiu,Chen Chia-Chun,Tseng Chih-Wei,Lee Pin-Hsien,Pai Shao-Yu,Wei Pei-Lun,Su De-Cai,Yen Tavio Yaki Aithamy,Chiu Yu-hung,Chan Che-Yuan,Huang Kai-chun,Li Mao,Wu Chun-Chinh,Lin Chien-Hsun" /><meta name="description" content="Ngày 14.3, ĐT Đài Bắc Trung Hoa đã có mặt tại Hà Nội và sau khi ổn định nơi đóng quân tại khách sạn La Thành, thầy trò HLV Kazuo Kuroda đã ra sân tập luôn." />
+<link rel="canonical" href="http://www.baomoi.com/dai-bac-trung-hoa-thay-mau-luc-luong-cho-cuoc-tai-dau-tuyen-viet-nam/c/21772933.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21772933" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21772933" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://laodong.com.vn/the-thao/dai-bac-trung-hoa-thay-mau-luc-luong-cho-cuoc-tai-dau-tuyen-viet-nam-646964.bld");
+else
+window.location.replace("http://www.baomoi.com/dai-bac-trung-hoa-thay-mau-luc-luong-cho-cuoc-tai-dau-tuyen-viet-nam/c/21772933.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tour Sơn Đoòng miễn phí - Thanh Niên
+</title><meta name="keywords" content="Chinh phục Sơn Đoòng,Tượng Đài Lý Thái Tổ,Sơn Đoòng,Quảng Bình,tour,bình chọn,quảng bá,chinh phục,bình luận,khai thác,facebook,chiến thắng,Hà Nội" /><meta name="description" content="Đây là giải thưởng cho du khách chiến thắng cuộc thi khám phá “Quảng Bình - Thiên đường trải nghiệm”." />
+<link rel="canonical" href="http://www.baomoi.com/tour-son-doong-mien-phi/c/21792625.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792625" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792625" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhnien.vn/kinh-doanh/tour-son-doong-mien-phi-816450.html");
+else
+window.location.replace("http://www.baomoi.com/tour-son-doong-mien-phi/c/21792625.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

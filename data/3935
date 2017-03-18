@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nam thanh niên chạy xe đánh cược với 'thần chết' ở Sài Gòn - VietnamNet
+</title><meta name="keywords" content="đánh võng,cầu vượt Lăng Cha Cả,Đường Cộng Hòa,Đường Trường Chinh,vạ lây,An Sương,liều mạng,Tân Bình,video clip,đánh cược,sài gòn" /><meta name="description" content="Ngồi một bên, điều khiển một tay, thanh niên chạy xe máy lạng lách khi đổ dốc cầu vượt thép ở Sài Gòn khiến nhiều người đi đường “sởn gai ốc” vì kiểu chạy x..." />
+<link rel="canonical" href="http://www.baomoi.com/nam-thanh-nien-chay-xe-danh-cuoc-voi-than-chet-o-sai-gon/c/21751822.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21751822" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21751822" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tin-moi-nam-thanh-nien-chay-xe-danh-cuoc-voi-than-chet-o-sai-gon-360995.html");
+else
+window.location.replace("http://www.baomoi.com/nam-thanh-nien-chay-xe-danh-cuoc-voi-than-chet-o-sai-gon/c/21751822.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

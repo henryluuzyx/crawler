@@ -1,0 +1,2155 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+không gian kiến trúc - BAOMOI.COM
+</title><meta name="keywords" content="không gian kiến trúc, khong gian kien truc, tin tức không gian kiến trúc, tin tuc khong gian kien truc" /><meta name="description" content="không gian kiến trúc, cập nhật tin tức, hình ảnh mới nhất về các chủ đề liên quan đến không gian kiến trúc" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/khong-gian-kien-truc.epi" />
+<link rel="alternate" href="http://www.baomoi.com/khong-gian-kien-truc.epi" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/khong-gian-kien-truc.epi" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/khong-gian-kien-truc.epi" />
+<meta property="og:title" content="Không gian - Kiến trúc" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Không gian - Kiến trúc",
+"alternateName" : "không gian kiến trúc, cập nhật tin tức, hình ảnh mới nhất về các chủ đề liên quan đến không gian kiến trúc",
+"url" : "http://www.baomoi.com/khong-gian-kien-truc.epi"
+}
+</script>
+<link rel="alternate" href="http://www.baomoi.com/khong-gian-kien-truc.rss" type="application/rss+xml" title="RSS" />
+<script type="text/javascript">
+var cate_id = 150;
+var cate_path = "khong-gian-kien-truc";</script>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content nocontent robots-nocontent">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<section class="main category-page">
+<section class="hot-news">
+<div class="focus" data-track="|hotnews">
+<div class="main">
+<article data-aid="21793012" class="feature">
+<figure>
+<a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w626/17/03/18/283/21793012/10_107022.jpg" alt="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:12:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/c/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2" class="spr spr-cache cache">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792530" >
+<figure>
+<a target="_blank" href="/ngam-hang-loat-mau-biet-thu-mini-moi-la-dep-mat/r/21792530.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/139/21792530/12_70273.jpg" alt="Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ngam-hang-loat-mau-biet-thu-mini-moi-la-dep-mat/r/21792530.epi" title="Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt">Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T05:30:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ngam-hang-loat-mau-biet-thu-mini-moi-la-dep-mat/c/21792530.epi" title="Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt" class="spr spr-cache cache">Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792811" >
+<figure>
+<a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/229/21792811/7_56652.jpg" alt="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-18T06:32:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/c/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi" class="spr spr-cache cache">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793271" >
+<figure>
+<a target="_blank" href="/vo-chong-beyonce-mo-nha-hang-o-australia/r/21793271.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/139/21793271/10_54206.jpg" alt="Vợ chồng Beyonce mở nhà hàng ở Australia" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vo-chong-beyonce-mo-nha-hang-o-australia/r/21793271.epi" title="Vợ chồng Beyonce mở nhà hàng ở Australia">Vợ chồng Beyonce mở nhà hàng ở Australia</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:33:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/vo-chong-beyonce-mo-nha-hang-o-australia/c/21793271.epi" title="Vợ chồng Beyonce mở nhà hàng ở Australia" class="spr spr-cache cache">Vợ chồng Beyonce mở nhà hàng ở Australia</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792980" >
+<figure>
+<a target="_blank" href="/biet-thu-sieu-doc-dao-cua-ngoi-sao-dinh-dam-will-smith/r/21792980.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/94/21792980/14_72419.jpg" alt="Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/biet-thu-sieu-doc-dao-cua-ngoi-sao-dinh-dam-will-smith/r/21792980.epi" title="Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith">Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:06:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/biet-thu-sieu-doc-dao-cua-ngoi-sao-dinh-dam-will-smith/c/21792980.epi" title="Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith" class="spr spr-cache cache">Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</div>
+<div class="more-article" data-track="|news">
+<article data-aid="21793014">
+<header>
+<h2><a target="_blank" href="/van-dung-phong-thuy-phong-ngu-hoa-giai-nguy-co-xuat-hien-tinh-dich/r/21793014.epi" title="Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch">
+Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch
+</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:04:00+07:00"></time>
+<span>
+<a href="/van-dung-phong-thuy-phong-ngu-hoa-giai-nguy-co-xuat-hien-tinh-dich/c/21793014.epi" title="Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch" class="spr spr-cache cache">Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792638">
+<header>
+<h2><a target="_blank" href="/ky-thuat-trong-cay-hoa-toc-tien-leo-dep-ruc-ro-don-nang-he/r/21792638.epi" title="Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè">
+Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè
+</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-18T06:06:00+07:00"></time>
+<span>
+<a href="/ky-thuat-trong-cay-hoa-toc-tien-leo-dep-ruc-ro-don-nang-he/c/21792638.epi" title="Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè" class="spr spr-cache cache">Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792317">
+<header>
+<h2><a target="_blank" href="/kho-tin-loat-noi-that-bang-vang-trong-nha-ty-phu-tre-nhat-chau-phi/r/21792317.epi" title="Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi">
+Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi
+</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T00:36:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/kho-tin-loat-noi-that-bang-vang-trong-nha-ty-phu-tre-nhat-chau-phi/c/21792317.epi" title="Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi" class="spr spr-cache cache">Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791746">
+<header>
+<h2><a target="_blank" href="/can-ho-37m2-so-huu-cach-bai-tri-thong-minh-va-sang-tao/r/21791746.epi" title="Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo">
+Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo
+</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T21:36:48+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/can-ho-37m2-so-huu-cach-bai-tri-thong-minh-va-sang-tao/c/21791746.epi" title="Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo" class="spr spr-cache cache">Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791795">
+<header>
+<h2><a target="_blank" href="/neu-nha-bep-co-dieu-nay-toi-ngay-ban-se-hoi-khong-kip/r/21791795.epi" title="Nếu nhà bếp có điều này tới ngày bạn sẽ &#39;hối không kịp&#39;">
+Nếu nhà bếp có điều này tới ngày bạn sẽ 'hối không kịp'
+</a></h2>
+<p class="meta">
+<a href="/phunutoday.vn-phu-nu-today/p/297.epi">Phụ Nữ Today</a>
+<time class="friendly" datetime="2017-03-17T21:30:00+07:00"></time>
+<span>
+<a href="/neu-nha-bep-co-dieu-nay-toi-ngay-ban-se-hoi-khong-kip/c/21791795.epi" title="Nếu nhà bếp có điều này tới ngày bạn sẽ &#39;hối không kịp&#39;" class="spr spr-cache cache">Nếu nhà bếp có điều này tới ngày bạn sẽ 'hối không kịp'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791671">
+<header>
+<h2><a target="_blank" href="/10-dieu-lam-giam-gia-tri-ngoi-nha-cua-ban/r/21791671.epi" title="10 điều làm giảm giá trị ngôi nhà của bạn">
+10 điều làm giảm giá trị ngôi nhà của bạn
+</a></h2>
+<p class="meta">
+<a href="/www.giaoducthoidai.vn-bao-giao-duc-thoi-dai-gd-td/p/181.epi">GD&TĐ</a>
+<time class="friendly" datetime="2017-03-17T21:07:00+07:00"></time>
+<span>
+<a href="/10-dieu-lam-giam-gia-tri-ngoi-nha-cua-ban/c/21791671.epi" title="10 điều làm giảm giá trị ngôi nhà của bạn" class="spr spr-cache cache">10 điều làm giảm giá trị ngôi nhà của bạn</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790822">
+<header>
+<h2><a target="_blank" href="/can-canh-noi-song-don-so-cua-dien-vien-co-guong-mat-du-ton-nhat-man-anh/r/21790822.epi" title="Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh">
+Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh
+</a></h2>
+<p class="meta">
+<a href="/tiin.vn-tiin/p/239.epi">Tiin</a>
+<time class="friendly" datetime="2017-03-17T18:49:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/can-canh-noi-song-don-so-cua-dien-vien-co-guong-mat-du-ton-nhat-man-anh/c/21790822.epi" title="Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh" class="spr spr-cache cache">Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790742">
+<header>
+<h2><a target="_blank" href="/viet-kieu-ngheo-chat-vat-song-o-little-saigon/r/21790742.epi" title="Việt kiều nghèo chật vật sống ở Little Saigon">
+Việt kiều nghèo chật vật sống ở Little Saigon
+</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-17T18:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/viet-kieu-ngheo-chat-vat-song-o-little-saigon/c/21790742.epi" title="Việt kiều nghèo chật vật sống ở Little Saigon" class="spr spr-cache cache">Việt kiều nghèo chật vật sống ở Little Saigon</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790525">
+<header>
+<h2><a target="_blank" href="/giuong-hop-doc-dao-cho-phong-ngu-hien-dai/r/21790525.epi" title="Giường hộp độc đáo cho phòng ngủ hiện đại">
+Giường hộp độc đáo cho phòng ngủ hiện đại
+</a></h2>
+<p class="meta">
+<a href="/www.baoxaydung.com.vn-bao-xay-dung-xay-dung/p/56.epi">Xây Dựng</a>
+<time class="friendly" datetime="2017-03-17T17:47:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/giuong-hop-doc-dao-cho-phong-ngu-hien-dai/c/21790525.epi" title="Giường hộp độc đáo cho phòng ngủ hiện đại" class="spr spr-cache cache">Giường hộp độc đáo cho phòng ngủ hiện đại</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<script>
+var arr_baomoiprkhonggiankientrucnoibat = [
+];;
+if (arr_baomoiprkhonggiankientrucnoibat.length > 0) {
+var slots_baomoiprkhonggiankientrucnoibat = new Array;
+var prefix = "pr_baomoiprkhonggiankientrucnoibat_";
+for (var i = 1; i <= 10; i++) {
+var id = prefix + i;
+var obj = document.getElementById(id);
+if (obj == null) break;
+else slots_baomoiprkhonggiankientrucnoibat.push(obj);
+}
+var total = 100.0;
+var dist_baomoiprkhonggiankientrucnoibat = [];
+for (var index = 0; index < slots_baomoiprkhonggiankientrucnoibat.length; index++) {
+var t = Math.floor(Math.random() * total);
+var n = 0;
+for (var i = 0; i < arr_baomoiprkhonggiankientrucnoibat.length; i++) {
+n += arr_baomoiprkhonggiankientrucnoibat[i].share;
+if (n >= t) {
+total -= arr_baomoiprkhonggiankientrucnoibat[i].share;
+dist_baomoiprkhonggiankientrucnoibat.push(arr_baomoiprkhonggiankientrucnoibat[i].value);
+arr_baomoiprkhonggiankientrucnoibat.splice(i, 1);
+break;
+}
+}
+}
+for (var index = 0; index < Math.min(dist_baomoiprkhonggiankientrucnoibat.length, slots_baomoiprkhonggiankientrucnoibat.length) ; index++)
+slots_baomoiprkhonggiankientrucnoibat[index].outerHTML = dist_baomoiprkhonggiankientrucnoibat[index];
+}
+</script>
+<div class="cat-content">
+<section class="content-list" data-track="|contentlist">
+<header>
+<h1 class="title">Không gian - Kiến trúc</h1>
+</header>
+<article data-aid="21793271" >
+<figure>
+<a target="_blank" href="/vo-chong-beyonce-mo-nha-hang-o-australia/r/21793271.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/139/21793271/10_54206.jpg" alt="Vợ chồng Beyonce mở nhà hàng ở Australia">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/vo-chong-beyonce-mo-nha-hang-o-australia/r/21793271.epi" title="Vợ chồng Beyonce mở nhà hàng ở Australia">Vợ chồng Beyonce mở nhà hàng ở Australia</a>
+</h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:33:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/vo-chong-beyonce-mo-nha-hang-o-australia/c/21793271.epi" title="Vợ chồng Beyonce mở nhà hàng ở Australia" class="spr spr-cache cache">Vợ chồng Beyonce mở nhà hàng ở Australia</a>
+</span>
+</p>
+<p class="summary">
+Là cặp sao giàu có, quyền lực bậc nhất Hollywood nhưng vợ chồng Beyonce vẫn không ngừng mở rộng kinh doanh. Mới đây họ vừa mở nhà hàng tại Australia.
+</p>
+</header>
+</article>
+<article data-aid="21793012" >
+<figure>
+<a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/283/21793012/10_107022.jpg" alt="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:12:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/c/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2" class="spr spr-cache cache">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a>
+</span>
+</p>
+<p class="summary">
+Nhờ chọn lựa phong cách Scandinavian làm phong cách chủ đạo, thêm cách bố trí không gian hài hòa giúp cho căn hộ nhỏ đẹp tinh tế và rộng thoáng hơn nhiều so với diện tích thực.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_1" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_1" class="related-list collapse">
+<a href="/tin-lien-quan/t/2083104.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793013">
+<figure>
+<a target="_blank" href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/r/21793013.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/283/21793013/13_92793.jpg" alt="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/r/21793013.epi" title="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật">'Học lỏm' cách trang trí phòng khách mang phong cách Nhật</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:02:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/c/21793013.epi" title="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật" class="spr spr-cache cache">'Học lỏm' cách trang trí phòng khách mang phong cách Nhật</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789794">
+<figure>
+<a target="_blank" href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/r/21789794.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/283/21789794/10_127565.jpg" alt="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/r/21789794.epi" title="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo">Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T16:04:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/c/21789794.epi" title="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo" class="spr spr-cache cache">Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788607">
+<figure>
+<a target="_blank" href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/r/21788607.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/283/21788607/18_189046.jpg" alt="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/r/21788607.epi" title="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng">'Hô biến' tường rào cho ngôi nhà thêm ấn tượng</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T14:26:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/c/21788607.epi" title="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng" class="spr spr-cache cache">'Hô biến' tường rào cho ngôi nhà thêm ấn tượng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21776636">
+<figure>
+<a target="_blank" href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/r/21776636.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/283/21776636/11_163204.jpg" alt="Không gian ngoài trời đẹp lung linh nhờ rọ đá"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/r/21776636.epi" title="Không gian ngoài trời đẹp lung linh nhờ rọ đá">Không gian ngoài trời đẹp lung linh nhờ rọ đá</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-16T09:13:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/c/21776636.epi" title="Không gian ngoài trời đẹp lung linh nhờ rọ đá" class="spr spr-cache cache">Không gian ngoài trời đẹp lung linh nhờ rọ đá</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792980" >
+<figure>
+<a target="_blank" href="/biet-thu-sieu-doc-dao-cua-ngoi-sao-dinh-dam-will-smith/r/21792980.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/94/21792980/14_72419.jpg" alt="Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/biet-thu-sieu-doc-dao-cua-ngoi-sao-dinh-dam-will-smith/r/21792980.epi" title="Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith">Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith</a>
+</h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:06:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/biet-thu-sieu-doc-dao-cua-ngoi-sao-dinh-dam-will-smith/c/21792980.epi" title="Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith" class="spr spr-cache cache">Biệt thự siêu độc đáo của ngôi sao đình đám Will Smith</a>
+</span>
+</p>
+<p class="summary">
+Ngôi sao Hollywood Will Smith đang sống hạnh phúc bên tổ ấm hạnh phúc của mình tại căn biệt thự độc đáo nằm ở Calabasas, California.
+</p>
+</header>
+</article>
+<article data-aid="21793014" >
+<figure>
+<a target="_blank" href="/van-dung-phong-thuy-phong-ngu-hoa-giai-nguy-co-xuat-hien-tinh-dich/r/21793014.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/283/21793014/3_121706.jpg" alt="Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/van-dung-phong-thuy-phong-ngu-hoa-giai-nguy-co-xuat-hien-tinh-dich/r/21793014.epi" title="Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch">Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:04:00+07:00"></time>
+<span>
+<a href="/van-dung-phong-thuy-phong-ngu-hoa-giai-nguy-co-xuat-hien-tinh-dich/c/21793014.epi" title="Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch" class="spr spr-cache cache">Vận dụng phong thủy phòng ngủ hóa giải nguy cơ xuất hiện tình địch</a>
+</span>
+</p>
+<p class="summary">
+Một vài mẹo phong thủy phòng ngủ đơn giản dưới đây sẽ giúp bạn hóa giải nguy cơ xuất hiện tình địch.
+</p>
+</header>
+</article>
+<article data-aid="21793013" >
+<figure>
+<a target="_blank" href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/r/21793013.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/283/21793013/13_92793.jpg" alt="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/r/21793013.epi" title="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật">'Học lỏm' cách trang trí phòng khách mang phong cách Nhật</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:02:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/c/21793013.epi" title="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật" class="spr spr-cache cache">'Học lỏm' cách trang trí phòng khách mang phong cách Nhật</a>
+</span>
+</p>
+<p class="summary">
+Những căn phòng tiếp khách đẹp giản dị, thanh thoát, pha chút gần gũi, tự nhiên khi được trang trí theo phong cách Nhật.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_4" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_4" class="related-list collapse">
+<a href="/tin-lien-quan/t/2083104.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793012">
+<figure>
+<a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/283/21793012/10_107022.jpg" alt="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:12:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/c/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2" class="spr spr-cache cache">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789794">
+<figure>
+<a target="_blank" href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/r/21789794.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/283/21789794/10_127565.jpg" alt="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/r/21789794.epi" title="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo">Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T16:04:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/c/21789794.epi" title="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo" class="spr spr-cache cache">Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788607">
+<figure>
+<a target="_blank" href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/r/21788607.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/283/21788607/18_189046.jpg" alt="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/r/21788607.epi" title="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng">'Hô biến' tường rào cho ngôi nhà thêm ấn tượng</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T14:26:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/c/21788607.epi" title="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng" class="spr spr-cache cache">'Hô biến' tường rào cho ngôi nhà thêm ấn tượng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21776636">
+<figure>
+<a target="_blank" href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/r/21776636.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/283/21776636/11_163204.jpg" alt="Không gian ngoài trời đẹp lung linh nhờ rọ đá"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/r/21776636.epi" title="Không gian ngoài trời đẹp lung linh nhờ rọ đá">Không gian ngoài trời đẹp lung linh nhờ rọ đá</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-16T09:13:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/c/21776636.epi" title="Không gian ngoài trời đẹp lung linh nhờ rọ đá" class="spr spr-cache cache">Không gian ngoài trời đẹp lung linh nhờ rọ đá</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792811" >
+<figure>
+<a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/229/21792811/7_56652.jpg" alt="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a>
+</h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-18T06:32:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/c/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi" class="spr spr-cache cache">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a>
+</span>
+</p>
+<p class="summary">
+Hạn chế treo chuông gió phong thủy phòng ngủ của trẻ để tránh trẻ bị phân tâm hay bị nhiễu loạn tinh thần.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_5" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_5" class="related-list collapse">
+<a href="/tin-lien-quan/t/1862862.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21791239">
+<figure>
+<a target="_blank" href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21791239.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/229/21791239/3_49140.jpg" alt="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21791239.epi" title="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-17T20:00:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21791239.epi" title="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21781403">
+<figure>
+<a target="_blank" href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21781403.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/229/21781403/3_73650.jpg" alt="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21781403.epi" title="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-16T17:00:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21781403.epi" title="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21765000">
+<figure>
+<a target="_blank" href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21765000.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/14/229/21765000/2_48651.jpg" alt="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21765000.epi" title="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-14T20:39:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21765000.epi" title="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21708421">
+<figure>
+<a target="_blank" href="/neu-ban-dat-1-nam-muoi-o-vi-tri-nay-trong-nha-dieu-than-ky-gi-se-den-voi-gia-chu/r/21708421.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/07/203/21708421/3_12898.jpg" alt="Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều &#39;thần kỳ&#39; gì sẽ đến với gia chủ?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/neu-ban-dat-1-nam-muoi-o-vi-tri-nay-trong-nha-dieu-than-ky-gi-se-den-voi-gia-chu/r/21708421.epi" title="Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều &#39;thần kỳ&#39; gì sẽ đến với gia chủ?">Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều 'thần kỳ' gì sẽ đến với gia chủ?</a></h2>
+<p class="meta">
+<a href="/phunutoday.vn-phu-nu-today/p/297.epi">Phụ Nữ Today</a>
+<time class="friendly" datetime="2017-03-07T20:00:00+07:00"></time>
+<span>
+<a href="/neu-ban-dat-1-nam-muoi-o-vi-tri-nay-trong-nha-dieu-than-ky-gi-se-den-voi-gia-chu/c/21708421.epi" title="Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều &#39;thần kỳ&#39; gì sẽ đến với gia chủ?" class="spr spr-cache cache">Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều 'thần kỳ' gì sẽ đến với gia chủ?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792638" >
+<figure>
+<a target="_blank" href="/ky-thuat-trong-cay-hoa-toc-tien-leo-dep-ruc-ro-don-nang-he/r/21792638.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/229/21792638/2_97956.jpg" alt="Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ky-thuat-trong-cay-hoa-toc-tien-leo-dep-ruc-ro-don-nang-he/r/21792638.epi" title="Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè">Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè</a>
+</h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-18T06:06:00+07:00"></time>
+<span>
+<a href="/ky-thuat-trong-cay-hoa-toc-tien-leo-dep-ruc-ro-don-nang-he/c/21792638.epi" title="Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè" class="spr spr-cache cache">Kỹ thuật trồng cây hoa Tóc Tiên leo đẹp rực rỡ đón nắng hè</a>
+</span>
+</p>
+<p class="summary">
+Kỹ thuật trồng cây hoa Tóc Tiên leo cực kì dễ trồng, chỉ cần gieo ít hạt vào đất, làm giàn cho cây leo cùng với công chăm sóc không quá cầu kỳ.
+</p>
+</header>
+</article>
+<article data-aid="21792530" >
+<figure>
+<a target="_blank" href="/ngam-hang-loat-mau-biet-thu-mini-moi-la-dep-mat/r/21792530.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/139/21792530/12_70273.jpg" alt="Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ngam-hang-loat-mau-biet-thu-mini-moi-la-dep-mat/r/21792530.epi" title="Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt">Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt</a>
+</h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T05:30:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ngam-hang-loat-mau-biet-thu-mini-moi-la-dep-mat/c/21792530.epi" title="Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt" class="spr spr-cache cache">Ngắm hàng loạt mẫu biệt thự mini mới lạ đẹp mắt</a>
+</span>
+</p>
+<p class="summary">
+Có diện tích trên dưới 100m2, những mẫu biệt thự mini gồm 1 tầng hoặc 2 tầng mang nét đẹp riêng qua đường nét thiết kế ngoại thất tinh tế.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_7" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_7" class="related-list collapse">
+<a href="/tin-lien-quan/t/2093022.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21782583">
+<figure>
+<a target="_blank" href="/ngam-nha-pho-3-tang-tuyet-dep-cua-dai-gia-thai-binh/r/21782583.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/16/139/21782583/11_82315.jpg" alt="Ngắm nhà phố 3 tầng tuyệt đẹp của đại gia Thái Bình"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ngam-nha-pho-3-tang-tuyet-dep-cua-dai-gia-thai-binh/r/21782583.epi" title="Ngắm nhà phố 3 tầng tuyệt đẹp của đại gia Thái Bình">Ngắm nhà phố 3 tầng tuyệt đẹp của đại gia Thái Bình</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-16T19:31:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ngam-nha-pho-3-tang-tuyet-dep-cua-dai-gia-thai-binh/c/21782583.epi" title="Ngắm nhà phố 3 tầng tuyệt đẹp của đại gia Thái Bình" class="spr spr-cache cache">Ngắm nhà phố 3 tầng tuyệt đẹp của đại gia Thái Bình</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774859">
+<figure>
+<a target="_blank" href="/cach-thiet-ke-mai-nha-theo-xu-huong-moi/r/21774859.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/66/21774859/2_66409.jpg" alt="Cách thiết kế mái nhà theo xu hướng mới"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cach-thiet-ke-mai-nha-theo-xu-huong-moi/r/21774859.epi" title="Cách thiết kế mái nhà theo xu hướng mới">Cách thiết kế mái nhà theo xu hướng mới</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-16T05:07:00+07:00"></time>
+<span>
+<a href="/cach-thiet-ke-mai-nha-theo-xu-huong-moi/c/21774859.epi" title="Cách thiết kế mái nhà theo xu hướng mới" class="spr spr-cache cache">Cách thiết kế mái nhà theo xu hướng mới</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792317" >
+<figure>
+<a target="_blank" href="/kho-tin-loat-noi-that-bang-vang-trong-nha-ty-phu-tre-nhat-chau-phi/r/21792317.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/139/21792317/10_91542.jpg" alt="Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/kho-tin-loat-noi-that-bang-vang-trong-nha-ty-phu-tre-nhat-chau-phi/r/21792317.epi" title="Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi">Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi</a>
+</h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T00:36:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/kho-tin-loat-noi-that-bang-vang-trong-nha-ty-phu-tre-nhat-chau-phi/c/21792317.epi" title="Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi" class="spr spr-cache cache">Khó tin loạt nội thất bằng vàng trong nhà tỷ phú trẻ nhất Châu Phi</a>
+</span>
+</p>
+<p class="summary">
+Loạt nội thất bằng vàng xa xỉ bên trong dinh thự siêu sang của tỷ phú trẻ nhất Châu Phi khiến nhiều người không thể tin vào mắt mình.
+</p>
+</header>
+</article>
+<article data-aid="21791746" >
+<figure>
+<a target="_blank" href="/can-ho-37m2-so-huu-cach-bai-tri-thong-minh-va-sang-tao/r/21791746.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/256/21791746/21_101068.jpg" alt="Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/can-ho-37m2-so-huu-cach-bai-tri-thong-minh-va-sang-tao/r/21791746.epi" title="Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo">Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T21:36:48+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/can-ho-37m2-so-huu-cach-bai-tri-thong-minh-va-sang-tao/c/21791746.epi" title="Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo" class="spr spr-cache cache">Căn hộ 37m2 sở hữu cách bài trí thông minh và sáng tạo</a>
+</span>
+</p>
+<p class="summary">
+Với diện tích chỉ vẻn ven 37m2 nhưng căn hộ nhỏ này lại sở hữu cách bài trí thông minh và sáng tạo đến nỗi dù nhỏ nhưng vẫn làm người ở cảm nhận dược sự đầy đủ, tiện nghi và không...
+</p>
+</header>
+</article>
+<article data-aid="21791795" >
+<figure>
+<a target="_blank" href="/neu-nha-bep-co-dieu-nay-toi-ngay-ban-se-hoi-khong-kip/r/21791795.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/203/21791795/3_45335.jpg" alt="Nếu nhà bếp có điều này tới ngày bạn sẽ &#39;hối không kịp&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/neu-nha-bep-co-dieu-nay-toi-ngay-ban-se-hoi-khong-kip/r/21791795.epi" title="Nếu nhà bếp có điều này tới ngày bạn sẽ &#39;hối không kịp&#39;">Nếu nhà bếp có điều này tới ngày bạn sẽ 'hối không kịp'</a>
+</h2>
+<p class="meta">
+<a href="/phunutoday.vn-phu-nu-today/p/297.epi">Phụ Nữ Today</a>
+<time class="friendly" datetime="2017-03-17T21:30:00+07:00"></time>
+<span>
+<a href="/neu-nha-bep-co-dieu-nay-toi-ngay-ban-se-hoi-khong-kip/c/21791795.epi" title="Nếu nhà bếp có điều này tới ngày bạn sẽ &#39;hối không kịp&#39;" class="spr spr-cache cache">Nếu nhà bếp có điều này tới ngày bạn sẽ 'hối không kịp'</a>
+</span>
+</p>
+<p class="summary">
+Nếu nhà bếp có điều này tới ngày bạn sẽ "hối không kịp" - tìm hiểu để thay đổi còn kịp nhé.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_10" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_10" class="related-list collapse">
+<a href="/tin-lien-quan/t/2033889.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21766987">
+<figure>
+<a target="_blank" href="/nha-bep-bai-tri-kieu-nay-hay-bo-ngay-de-tranh-van-xui-keo-den-lam-an-cang-lui-bai/r/21766987.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/283/21766987/3_133311.jpg" alt="Nhà bếp bài trí kiểu này hãy bỏ ngay để tránh vận xui kéo đến, làm ăn càng lụi bại"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nha-bep-bai-tri-kieu-nay-hay-bo-ngay-de-tranh-van-xui-keo-den-lam-an-cang-lui-bai/r/21766987.epi" title="Nhà bếp bài trí kiểu này hãy bỏ ngay để tránh vận xui kéo đến, làm ăn càng lụi bại">Nhà bếp bài trí kiểu này hãy bỏ ngay để tránh vận xui kéo đến, làm ăn càng lụi bại</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-15T07:47:00+07:00"></time>
+<span>
+<a href="/nha-bep-bai-tri-kieu-nay-hay-bo-ngay-de-tranh-van-xui-keo-den-lam-an-cang-lui-bai/c/21766987.epi" title="Nhà bếp bài trí kiểu này hãy bỏ ngay để tránh vận xui kéo đến, làm ăn càng lụi bại" class="spr spr-cache cache">Nhà bếp bài trí kiểu này hãy bỏ ngay để tránh vận xui kéo đến, làm ăn càng lụi bại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21712003">
+<figure>
+<a target="_blank" href="/meo-hay-hoa-giai-phong-thuy-thay-doi-nang-luong-cho-nha-o-nga-ba-duong/r/21712003.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/08/283/21712003/5_145121.jpg" alt="Mẹo hay hóa giải phong thủy, thay đổi năng lượng cho nhà ở ngã ba đường"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/meo-hay-hoa-giai-phong-thuy-thay-doi-nang-luong-cho-nha-o-nga-ba-duong/r/21712003.epi" title="Mẹo hay hóa giải phong thủy, thay đổi năng lượng cho nhà ở ngã ba đường">Mẹo hay hóa giải phong thủy, thay đổi năng lượng cho nhà ở ngã ba đường</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-08T09:41:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/meo-hay-hoa-giai-phong-thuy-thay-doi-nang-luong-cho-nha-o-nga-ba-duong/c/21712003.epi" title="Mẹo hay hóa giải phong thủy, thay đổi năng lượng cho nhà ở ngã ba đường" class="spr spr-cache cache">Mẹo hay hóa giải phong thủy, thay đổi năng lượng cho nhà ở ngã ba đường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21693760">
+<figure>
+<a target="_blank" href="/giai-phap-phong-thuy-thao-go-hoa-giai-rac-roi-gia-dinh/r/21693760.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/06/283/21693760/3_99181.jpg" alt="Giải pháp phong thủy tháo gỡ, hóa giải rắc rối gia đình"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/giai-phap-phong-thuy-thao-go-hoa-giai-rac-roi-gia-dinh/r/21693760.epi" title="Giải pháp phong thủy tháo gỡ, hóa giải rắc rối gia đình">Giải pháp phong thủy tháo gỡ, hóa giải rắc rối gia đình</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-06T08:05:00+07:00"></time>
+<span>
+<a href="/giai-phap-phong-thuy-thao-go-hoa-giai-rac-roi-gia-dinh/c/21693760.epi" title="Giải pháp phong thủy tháo gỡ, hóa giải rắc rối gia đình" class="spr spr-cache cache">Giải pháp phong thủy tháo gỡ, hóa giải rắc rối gia đình</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21687098">
+<figure>
+<a target="_blank" href="/cach-hoa-giai-nha-pham-the-sat-trong-phong-thuy/r/21687098.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/05/229/21687098/4_104132.jpg" alt="Cách hóa giải nhà phạm thế &#39;sát&#39; trong phong thủy"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cach-hoa-giai-nha-pham-the-sat-trong-phong-thuy/r/21687098.epi" title="Cách hóa giải nhà phạm thế &#39;sát&#39; trong phong thủy">Cách hóa giải nhà phạm thế 'sát' trong phong thủy</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-05T06:27:00+07:00"></time>
+<span>
+<a href="/cach-hoa-giai-nha-pham-the-sat-trong-phong-thuy/c/21687098.epi" title="Cách hóa giải nhà phạm thế &#39;sát&#39; trong phong thủy" class="spr spr-cache cache">Cách hóa giải nhà phạm thế 'sát' trong phong thủy</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21791671" >
+<figure>
+<a target="_blank" href="/10-dieu-lam-giam-gia-tri-ngoi-nha-cua-ban/r/21791671.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/144/21791671/3_192021.jpg" alt="10 điều làm giảm giá trị ngôi nhà của bạn">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/10-dieu-lam-giam-gia-tri-ngoi-nha-cua-ban/r/21791671.epi" title="10 điều làm giảm giá trị ngôi nhà của bạn">10 điều làm giảm giá trị ngôi nhà của bạn</a>
+</h2>
+<p class="meta">
+<a href="/www.giaoducthoidai.vn-bao-giao-duc-thoi-dai-gd-td/p/181.epi">GD&TĐ</a>
+<time class="friendly" datetime="2017-03-17T21:07:00+07:00"></time>
+<span>
+<a href="/10-dieu-lam-giam-gia-tri-ngoi-nha-cua-ban/c/21791671.epi" title="10 điều làm giảm giá trị ngôi nhà của bạn" class="spr spr-cache cache">10 điều làm giảm giá trị ngôi nhà của bạn</a>
+</span>
+</p>
+<p class="summary">
+Từ trang trí không đẹp mắt đến hàng xóm ầm ĩ hay không may rơi vào vùng trũng, ngập nước... đều có thể làm giảm giá trị ngôi nhà của bạn.
+</p>
+</header>
+</article>
+<article data-aid="21791239" >
+<figure>
+<a target="_blank" href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21791239.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/229/21791239/3_49140.jpg" alt="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21791239.epi" title="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-17T20:00:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21791239.epi" title="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+<p class="summary">
+Việc lựa chọn ngành nghề phù hợp với Ngũ hành sẽ mang lại nhiều may mắn, thuận lợi và khả năng thăng tiến cao trong sự nghiệp cho Người mệnh Kim.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_12" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_12" class="related-list collapse">
+<a href="/tin-lien-quan/t/1862862.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792811">
+<figure>
+<a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/229/21792811/7_56652.jpg" alt="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-18T06:32:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/c/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi" class="spr spr-cache cache">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21781403">
+<figure>
+<a target="_blank" href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21781403.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/229/21781403/3_73650.jpg" alt="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21781403.epi" title="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-16T17:00:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21781403.epi" title="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21765000">
+<figure>
+<a target="_blank" href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21765000.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/14/229/21765000/2_48651.jpg" alt="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21765000.epi" title="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-14T20:39:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21765000.epi" title="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21708421">
+<figure>
+<a target="_blank" href="/neu-ban-dat-1-nam-muoi-o-vi-tri-nay-trong-nha-dieu-than-ky-gi-se-den-voi-gia-chu/r/21708421.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/07/203/21708421/3_12898.jpg" alt="Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều &#39;thần kỳ&#39; gì sẽ đến với gia chủ?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/neu-ban-dat-1-nam-muoi-o-vi-tri-nay-trong-nha-dieu-than-ky-gi-se-den-voi-gia-chu/r/21708421.epi" title="Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều &#39;thần kỳ&#39; gì sẽ đến với gia chủ?">Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều 'thần kỳ' gì sẽ đến với gia chủ?</a></h2>
+<p class="meta">
+<a href="/phunutoday.vn-phu-nu-today/p/297.epi">Phụ Nữ Today</a>
+<time class="friendly" datetime="2017-03-07T20:00:00+07:00"></time>
+<span>
+<a href="/neu-ban-dat-1-nam-muoi-o-vi-tri-nay-trong-nha-dieu-than-ky-gi-se-den-voi-gia-chu/c/21708421.epi" title="Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều &#39;thần kỳ&#39; gì sẽ đến với gia chủ?" class="spr spr-cache cache">Nếu bạn đặt 1 nắm muối ở vị trí này trong nhà điều 'thần kỳ' gì sẽ đến với gia chủ?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21791290" >
+<figure>
+<a target="_blank" href="/chi-can-trong-cay-nay-trong-nha-nhieu-dieu-than-ky-se-go-cua-gia-dinh-ban/r/21791290.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/203/21791290/3_485481.jpg" alt="Chỉ cần trồng cây này trong nhà nhiều điều thần kỳ sẽ gõ cửa gia đình bạn">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/chi-can-trong-cay-nay-trong-nha-nhieu-dieu-than-ky-se-go-cua-gia-dinh-ban/r/21791290.epi" title="Chỉ cần trồng cây này trong nhà nhiều điều thần kỳ sẽ gõ cửa gia đình bạn">Chỉ cần trồng cây này trong nhà nhiều điều thần kỳ sẽ gõ cửa gia đình bạn</a>
+</h2>
+<p class="meta">
+<a href="/phunutoday.vn-phu-nu-today/p/297.epi">Phụ Nữ Today</a>
+<time class="friendly" datetime="2017-03-17T20:00:00+07:00"></time>
+<span>
+<a href="/chi-can-trong-cay-nay-trong-nha-nhieu-dieu-than-ky-se-go-cua-gia-dinh-ban/c/21791290.epi" title="Chỉ cần trồng cây này trong nhà nhiều điều thần kỳ sẽ gõ cửa gia đình bạn" class="spr spr-cache cache">Chỉ cần trồng cây này trong nhà nhiều điều thần kỳ sẽ gõ cửa gia đình bạn</a>
+</span>
+</p>
+<p class="summary">
+Chỉ cần trồng cây này trong nhà nhiều điều thần kỳ sẽ gõ cửa gia đình bạn - hãy đọc để biết ngay hôm nay.
+</p>
+</header>
+</article>
+<article data-aid="21791056" >
+<figure>
+<a target="_blank" href="/chum-anh-ngam-nha-da-ong-sieu-doc-la-giua-duong-pho-ha-noi/r/21791056.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/139/21791056/18_122388.jpg" alt="Chùm ảnh: Ngắm nhà đá ong siêu độc lạ giữa đường phố Hà Nội">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/chum-anh-ngam-nha-da-ong-sieu-doc-la-giua-duong-pho-ha-noi/r/21791056.epi" title="Chùm ảnh: Ngắm nhà đá ong siêu độc lạ giữa đường phố Hà Nội">Chùm ảnh: Ngắm nhà đá ong siêu độc lạ giữa đường phố Hà Nội</a>
+</h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-17T19:31:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/chum-anh-ngam-nha-da-ong-sieu-doc-la-giua-duong-pho-ha-noi/c/21791056.epi" title="Chùm ảnh: Ngắm nhà đá ong siêu độc lạ giữa đường phố Hà Nội" class="spr spr-cache cache">Chùm ảnh: Ngắm nhà đá ong siêu độc lạ giữa đường phố Hà Nội</a>
+</span>
+</p>
+<p class="summary">
+Ngôi nhà đá ong hài hòa giữa truyền thống và hiện đại nổi bật trên đường phố Hà Nội thu hút sự chú ý của nhiều người đi đường.
+</p>
+</header>
+</article>
+<article data-aid="21791061" >
+<figure>
+<a target="_blank" href="/meo-phong-thuy-hoa-giai-phong-bep-khong-co-cua-so/r/21791061.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/139/21791061/8_36088.jpg" alt="Mẹo phong thủy hóa giải phòng bếp không có cửa sổ">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/meo-phong-thuy-hoa-giai-phong-bep-khong-co-cua-so/r/21791061.epi" title="Mẹo phong thủy hóa giải phòng bếp không có cửa sổ">Mẹo phong thủy hóa giải phòng bếp không có cửa sổ</a>
+</h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-17T19:24:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/meo-phong-thuy-hoa-giai-phong-bep-khong-co-cua-so/c/21791061.epi" title="Mẹo phong thủy hóa giải phòng bếp không có cửa sổ" class="spr spr-cache cache">Mẹo phong thủy hóa giải phòng bếp không có cửa sổ</a>
+</span>
+</p>
+<p class="summary">
+Do điều kiện nên có nhiều không gian bếp không thiết kế được cửa sổ. Vậy làm thế nào hóa giải và không làm ảnh hưởng đến phong thủy phòng bếp?
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_15" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_15" class="related-list collapse">
+<a href="/tin-lien-quan/t/2050709.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21776890">
+<figure>
+<a target="_blank" href="/bo-tri-phong-bep-hop-phong-thuy-cho-nguoi-menh-hoa/r/21776890.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/227/21776890/3_62927.jpg" alt="Bố trí phòng bếp hợp phong thủy cho người mệnh Hỏa"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bo-tri-phong-bep-hop-phong-thuy-cho-nguoi-menh-hoa/r/21776890.epi" title="Bố trí phòng bếp hợp phong thủy cho người mệnh Hỏa">Bố trí phòng bếp hợp phong thủy cho người mệnh Hỏa</a></h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-16T09:21:00+07:00"></time>
+<span>
+<a href="/bo-tri-phong-bep-hop-phong-thuy-cho-nguoi-menh-hoa/c/21776890.epi" title="Bố trí phòng bếp hợp phong thủy cho người mệnh Hỏa" class="spr spr-cache cache">Bố trí phòng bếp hợp phong thủy cho người mệnh Hỏa</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21764678">
+<figure>
+<a target="_blank" href="/6-doc-chieu-hoa-giai-loi-phong-thuy-phong-bep/r/21764678.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/139/21764678/10_289393.png" alt="6 độc chiêu hóa giải lỗi phong thủy phòng bếp"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/6-doc-chieu-hoa-giai-loi-phong-thuy-phong-bep/r/21764678.epi" title="6 độc chiêu hóa giải lỗi phong thủy phòng bếp">6 độc chiêu hóa giải lỗi phong thủy phòng bếp</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-14T19:45:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/6-doc-chieu-hoa-giai-loi-phong-thuy-phong-bep/c/21764678.epi" title="6 độc chiêu hóa giải lỗi phong thủy phòng bếp" class="spr spr-cache cache">6 độc chiêu hóa giải lỗi phong thủy phòng bếp</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21704664">
+<figure>
+<a target="_blank" href="/ve-lap-lanh-cua-da-phong-thuy-opal/r/21704664.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/07/61/21704664/1_63639.jpg" alt="Vẻ lấp lánh của đá phong thủy opal"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ve-lap-lanh-cua-da-phong-thuy-opal/r/21704664.epi" title="Vẻ lấp lánh của đá phong thủy opal">Vẻ lấp lánh của đá phong thủy opal</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-07T12:02:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/ve-lap-lanh-cua-da-phong-thuy-opal/c/21704664.epi" title="Vẻ lấp lánh của đá phong thủy opal" class="spr spr-cache cache">Vẻ lấp lánh của đá phong thủy opal</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21708485">
+<header>
+<h2><a target="_blank" href="/8-bi-an-phong-thuy-khi-di-du-lich-o-khach-san-ban-phai-nho-de-tranh-bat-trac/r/21708485.epi" title="8 bí ẩn phong thủy khi đi du lịch, ở khách sạn bạn phải nhớ để tránh bất trắc">8 bí ẩn phong thủy khi đi du lịch, ở khách sạn bạn phải nhớ để tránh bất trắc</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-02-10T12:18:00+07:00"></time>
+<span>
+<a href="/8-bi-an-phong-thuy-khi-di-du-lich-o-khach-san-ban-phai-nho-de-tranh-bat-trac/c/21708485.epi" title="8 bí ẩn phong thủy khi đi du lịch, ở khách sạn bạn phải nhớ để tránh bất trắc" class="spr spr-cache cache">8 bí ẩn phong thủy khi đi du lịch, ở khách sạn bạn phải nhớ để tránh bất trắc</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21791017" >
+<figure>
+<a target="_blank" href="/12-xu-huong-trang-tri-nha-du-bao-se-gay-bao-nam-2017/r/21791017.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/283/21791017/12_137924.png" alt="12 xu hướng trang trí nhà dự báo sẽ &#39;gây bão&#39; năm 2017">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/12-xu-huong-trang-tri-nha-du-bao-se-gay-bao-nam-2017/r/21791017.epi" title="12 xu hướng trang trí nhà dự báo sẽ &#39;gây bão&#39; năm 2017">12 xu hướng trang trí nhà dự báo sẽ 'gây bão' năm 2017</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T19:23:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/12-xu-huong-trang-tri-nha-du-bao-se-gay-bao-nam-2017/c/21791017.epi" title="12 xu hướng trang trí nhà dự báo sẽ &#39;gây bão&#39; năm 2017" class="spr spr-cache cache">12 xu hướng trang trí nhà dự báo sẽ 'gây bão' năm 2017</a>
+</span>
+</p>
+<p class="summary">
+Các chuyên gia tại trang mạng chuyên về trang trí nhà cửa đã cùng nhau liệt kê 12 xu hướng trang trí nhà dự đoán sẽ trở nên phổ biến trong năm 2017.
+</p>
+</header>
+</article>
+<article data-aid="21790822" >
+<figure>
+<a target="_blank" href="/can-canh-noi-song-don-so-cua-dien-vien-co-guong-mat-du-ton-nhat-man-anh/r/21790822.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/213/21790822/17_297538.png" alt="Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/can-canh-noi-song-don-so-cua-dien-vien-co-guong-mat-du-ton-nhat-man-anh/r/21790822.epi" title="Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh">Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh</a>
+</h2>
+<p class="meta">
+<a href="/tiin.vn-tiin/p/239.epi">Tiin</a>
+<time class="friendly" datetime="2017-03-17T18:49:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/can-canh-noi-song-don-so-cua-dien-vien-co-guong-mat-du-ton-nhat-man-anh/c/21790822.epi" title="Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh" class="spr spr-cache cache">Cận cảnh nơi sống đơn sơ của diễn viên có gương mặt dữ tợn nhất màn ảnh</a>
+</span>
+</p>
+<p class="summary">
+Vừa làm diễn viên điện ảnh, vừa là nghệ sĩ của nhà hát Tuồng nhưng 10 năm qua, Danh Thái vẫn chưa thể trả hết số nợ mua căn nhà tập thể.
+</p>
+</header>
+</article>
+<article data-aid="21790742" >
+<figure>
+<a target="_blank" href="/viet-kieu-ngheo-chat-vat-song-o-little-saigon/r/21790742.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/61/21790742/4_62418.jpg" alt="Việt kiều nghèo chật vật sống ở Little Saigon">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/viet-kieu-ngheo-chat-vat-song-o-little-saigon/r/21790742.epi" title="Việt kiều nghèo chật vật sống ở Little Saigon">Việt kiều nghèo chật vật sống ở Little Saigon</a>
+</h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-17T18:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/viet-kieu-ngheo-chat-vat-song-o-little-saigon/c/21790742.epi" title="Việt kiều nghèo chật vật sống ở Little Saigon" class="spr spr-cache cache">Việt kiều nghèo chật vật sống ở Little Saigon</a>
+</span>
+</p>
+<p class="summary">
+Đằng sau vẻ ồn ào, náo nhiệt ở khu Little Saigon, quận Cam, bang California, nhiều Việt kiều vẫn phải sống trong những căn phòng chật hẹp và bám trụ với kế sinh nhai hàng ngày.
+</p>
+</header>
+</article>
+<article data-aid="21790525" >
+<figure>
+<a target="_blank" href="/giuong-hop-doc-dao-cho-phong-ngu-hien-dai/r/21790525.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/257/21790525/1_30467.jpg" alt="Giường hộp độc đáo cho phòng ngủ hiện đại">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/giuong-hop-doc-dao-cho-phong-ngu-hien-dai/r/21790525.epi" title="Giường hộp độc đáo cho phòng ngủ hiện đại">Giường hộp độc đáo cho phòng ngủ hiện đại</a>
+</h2>
+<p class="meta">
+<a href="/www.baoxaydung.com.vn-bao-xay-dung-xay-dung/p/56.epi">Xây Dựng</a>
+<time class="friendly" datetime="2017-03-17T17:47:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/giuong-hop-doc-dao-cho-phong-ngu-hien-dai/c/21790525.epi" title="Giường hộp độc đáo cho phòng ngủ hiện đại" class="spr spr-cache cache">Giường hộp độc đáo cho phòng ngủ hiện đại</a>
+</span>
+</p>
+<p class="summary">
+Những chiếc giường hộp, giường thấp hay giường platform đã không còn quá xa lạ trong thiết kế nội thất phòng hiện đại. Để biến phòng ngủ thành một không gian không chỉ thoải mái,...
+</p>
+</header>
+</article>
+<article data-aid="21789921" >
+<figure>
+<a target="_blank" href="/bac-cau-thang-go-vao-nha-tren-tuyen-duong-dat-nhat-viet-nam/r/21789921.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/61/21789921/1_625179.gif" alt="Bắc cầu thang gỗ vào nhà trên tuyến đường &#39;đắt nhất Việt Nam&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bac-cau-thang-go-vao-nha-tren-tuyen-duong-dat-nhat-viet-nam/r/21789921.epi" title="Bắc cầu thang gỗ vào nhà trên tuyến đường &#39;đắt nhất Việt Nam&#39;">Bắc cầu thang gỗ vào nhà trên tuyến đường 'đắt nhất Việt Nam'</a>
+</h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-17T16:42:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-cau-thang-go-vao-nha-tren-tuyen-duong-dat-nhat-viet-nam/c/21789921.epi" title="Bắc cầu thang gỗ vào nhà trên tuyến đường &#39;đắt nhất Việt Nam&#39;" class="spr spr-cache cache">Bắc cầu thang gỗ vào nhà trên tuyến đường 'đắt nhất Việt Nam'</a>
+</span>
+</p>
+<p class="summary">
+Sau khi bậc tam cấp bị phá bỏ, nhiều ngôi nhà ở phố Xã Đàn (Hà Nội) có nền cách mặt đường tới 1 m. Sinh hoạt trong gia đình và việc kinh doanh bị ảnh hưởng.
+</p>
+</header>
+</article>
+<article data-aid="21789794" >
+<figure>
+<a target="_blank" href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/r/21789794.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/283/21789794/10_127565.jpg" alt="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/r/21789794.epi" title="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo">Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T16:04:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ngoi-nha-pho-hai-tang-dep-hien-dai-sang-trong-sau-khi-cai-tao/c/21789794.epi" title="Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo" class="spr spr-cache cache">Ngôi nhà phố hai tầng đẹp hiện đại, sang trọng sau khi cải tạo</a>
+</span>
+</p>
+<p class="summary">
+Ban đầu, không gian sống vô cùng tối tăm và lộn xộn, nhưng sau khi cải tạo, ngôi nhà phố bỗng trở nên xinh xắn và hiện đại, tiện nghi bất ngờ.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_21" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_21" class="related-list collapse">
+<a href="/tin-lien-quan/t/2083104.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793012">
+<figure>
+<a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/283/21793012/10_107022.jpg" alt="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/r/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:12:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/noi-that-ca-tinh-trong-can-ho-trang-phong-cach-scandinavian-rong-40m2/c/21793012.epi" title="Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2" class="spr spr-cache cache">Nội thất cá tính trong căn hộ trắng phong cách Scandinavian rộng 40m2</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793013">
+<figure>
+<a target="_blank" href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/r/21793013.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/283/21793013/13_92793.jpg" alt="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/r/21793013.epi" title="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật">'Học lỏm' cách trang trí phòng khách mang phong cách Nhật</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:02:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/hoc-lom-cach-trang-tri-phong-khach-mang-phong-cach-nhat/c/21793013.epi" title="&#39;Học lỏm&#39; cách trang trí phòng khách mang phong cách Nhật" class="spr spr-cache cache">'Học lỏm' cách trang trí phòng khách mang phong cách Nhật</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788607">
+<figure>
+<a target="_blank" href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/r/21788607.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/283/21788607/18_189046.jpg" alt="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/r/21788607.epi" title="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng">'Hô biến' tường rào cho ngôi nhà thêm ấn tượng</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T14:26:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ho-bien-tuong-rao-cho-ngoi-nha-them-an-tuong/c/21788607.epi" title="&#39;Hô biến&#39; tường rào cho ngôi nhà thêm ấn tượng" class="spr spr-cache cache">'Hô biến' tường rào cho ngôi nhà thêm ấn tượng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21776636">
+<figure>
+<a target="_blank" href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/r/21776636.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/283/21776636/11_163204.jpg" alt="Không gian ngoài trời đẹp lung linh nhờ rọ đá"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/r/21776636.epi" title="Không gian ngoài trời đẹp lung linh nhờ rọ đá">Không gian ngoài trời đẹp lung linh nhờ rọ đá</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-16T09:13:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/khong-gian-ngoai-troi-dep-lung-linh-nho-ro-da/c/21776636.epi" title="Không gian ngoài trời đẹp lung linh nhờ rọ đá" class="spr spr-cache cache">Không gian ngoài trời đẹp lung linh nhờ rọ đá</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789477" >
+<figure>
+<a target="_blank" href="/muon-kieu-bac-tam-cap-moi-cua-nguoi-dan-ha-noi/r/21789477.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/283/21789477/15_137739.jpg" alt="Muôn kiểu bậc tam cấp mới của người dân Hà Nội">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/muon-kieu-bac-tam-cap-moi-cua-nguoi-dan-ha-noi/r/21789477.epi" title="Muôn kiểu bậc tam cấp mới của người dân Hà Nội">Muôn kiểu bậc tam cấp mới của người dân Hà Nội</a>
+</h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-17T15:52:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/muon-kieu-bac-tam-cap-moi-cua-nguoi-dan-ha-noi/c/21789477.epi" title="Muôn kiểu bậc tam cấp mới của người dân Hà Nội" class="spr spr-cache cache">Muôn kiểu bậc tam cấp mới của người dân Hà Nội</a>
+</span>
+</p>
+<p class="summary">
+Sau khi lực lượng chức năng đập bỏ những bậc tam cấp, trên phố Xã Đàn đã xuất hiện nhiều bậc tam cấp "tạm thời" với muôn kiểu hình dạng khác nhau.
+</p>
+</header>
+</article>
+<article data-aid="21789657" >
+<figure>
+<a target="_blank" href="/tiet-kiem-dien-tich-nha-tam-nho-kheo-sap-xep-do-dac/r/21789657.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/265/21789657/17_213665.jpg" alt="Tiết kiệm diện tích nhà tắm nhờ khéo sắp xếp đồ đạc">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/tiet-kiem-dien-tich-nha-tam-nho-kheo-sap-xep-do-dac/r/21789657.epi" title="Tiết kiệm diện tích nhà tắm nhờ khéo sắp xếp đồ đạc">Tiết kiệm diện tích nhà tắm nhờ khéo sắp xếp đồ đạc</a>
+</h2>
+<p class="meta">
+<a href="/emdep.vn-em-dep/p/276.epi">Em Đẹp</a>
+<time class="friendly" datetime="2017-03-17T15:40:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/tiet-kiem-dien-tich-nha-tam-nho-kheo-sap-xep-do-dac/c/21789657.epi" title="Tiết kiệm diện tích nhà tắm nhờ khéo sắp xếp đồ đạc" class="spr spr-cache cache">Tiết kiệm diện tích nhà tắm nhờ khéo sắp xếp đồ đạc</a>
+</span>
+</p>
+<p class="summary">
+Dưới đây là một số ý tưởng sắp xếp, trang trí phòng tắm hợp lý và sáng tạo nhất.
+</p>
+</header>
+</article>
+<div class="pagination pagination-centered">
+<span id="main_PagingList1_pager"><a class="active">1</a><a href="/khong-gian-kien-truc/trang2.epi">2</a><a href="/khong-gian-kien-truc/trang3.epi">3</a><a href="/khong-gian-kien-truc/trang4.epi">4</a><a href="/khong-gian-kien-truc/trang5.epi">5</a><a href="/khong-gian-kien-truc/trang6.epi">6</a><a href="/khong-gian-kien-truc/trang7.epi">...</a><a href="/khong-gian-kien-truc/trang100.epi">100</a><a id="main_PagingList1_pager_nextControl" href="/khong-gian-kien-truc/trang2.epi">»</a></span>
+</div>
+</section>
+<aside>
+<div class="topics" data-track="|clusters">
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_0" href="/phong-thuy/t/1862862.epi">#phong-thủy</a>
+</header>
+<article data-aid="21792811" >
+<figure>
+<a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/229/21792811/7_56652.jpg" alt="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/r/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-18T06:32:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nhung-toi-ky-trong-phong-thuy-phong-ngu-tre-em-cac-menh-tuoi/c/21792811.epi" title="Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi" class="spr spr-cache cache">Những tối kỵ trong phong thủy phòng ngủ trẻ em các mệnh tuổi</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791239" >
+<figure>
+<a target="_blank" href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21791239.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/229/21791239/3_49140.jpg" alt="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21791239.epi" title="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-17T20:00:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-kim-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21791239.epi" title="Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Kim nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21781403" >
+<figure>
+<a target="_blank" href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21781403.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/229/21781403/3_73650.jpg" alt="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21781403.epi" title="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-16T17:00:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-tho-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21781403.epi" title="Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Thổ nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21765000" >
+<figure>
+<a target="_blank" href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21765000.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/14/229/21765000/2_48651.jpg" alt="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/r/21765000.epi" title="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?">Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-14T20:39:00+07:00"></time>
+<span>
+<a href="/nguoi-menh-hoa-nen-lam-nghe-gi-kinh-doanh-gi-la-phu-hop-nhat/c/21765000.epi" title="Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?" class="spr spr-cache cache">Người mệnh Hỏa nên làm nghề gì, kinh doanh gì là phù hợp nhất?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</div>
+<section class="zone" data-track="|popular">
+<header><a href="/tin-nong.epi">Tin nóng</a></header>
+<article data-aid="21793378" >
+<figure>
+<a target="_blank" href="/dinh-chi-cong-tac-co-giao-dung-thuoc-danh-hang-chuc-hoc-sinh/r/21793378.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/105/21793378/2_133590.jpg" alt="Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dinh-chi-cong-tac-co-giao-dung-thuoc-danh-hang-chuc-hoc-sinh/r/21793378.epi" title="Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh">Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:55:00+07:00"></time>
+<span>
+<a href="/dinh-chi-cong-tac-co-giao-dung-thuoc-danh-hang-chuc-hoc-sinh/c/21793378.epi" title="Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh" class="spr spr-cache cache">Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792678" >
+<header>
+<h2><a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T06:15:00+07:00"></time>
+<span>
+<a href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/c/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La" class="spr spr-cache cache">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792503" >
+<header>
+<h2><a target="_blank" href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T05:04:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/c/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục" class="spr spr-cache cache">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793227" >
+<header>
+<h2><a target="_blank" href="/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/r/21793227.epi" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:54:00+07:00"></time>
+<span>
+<a href="/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/c/21793227.epi" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân" class="spr spr-cache cache">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792758" >
+<header>
+<h2><a target="_blank" href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T06:38:00+07:00"></time>
+<span>
+<a href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/c/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?" class="spr spr-cache cache">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793109" >
+<header>
+<h2><a target="_blank" href="/merkel-de-nghi-bat-tay-trump-khong-dap/r/21793109.epi" title="Merkel đề nghị bắt tay, Trump không đáp">Merkel đề nghị bắt tay, Trump không đáp</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-18T07:11:00+07:00"></time>
+<span>
+<a href="/merkel-de-nghi-bat-tay-trump-khong-dap/c/21793109.epi" title="Merkel đề nghị bắt tay, Trump không đáp" class="spr spr-cache cache">Merkel đề nghị bắt tay, Trump không đáp</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792564" >
+<header>
+<h2><a target="_blank" href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/r/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/c/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột" class="spr spr-cache cache">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<header>
+<h2><a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792702" >
+<header>
+<h2><a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:10:00+07:00"></time>
+<span>
+<a href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/c/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" class="spr spr-cache cache">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792830" >
+<header>
+<h2><a target="_blank" href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/c/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt" class="spr spr-cache cache">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</aside>
+</div>
+</section>
+<section class="sidebar">
+<div class="fyi-300 nocontent robots-nocontent" style="display:none;" id="BaoMoi_HalfPage"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R1"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R2"></div>
+<section id="photo-box" data-track="|video">
+<header>
+<h6>
+<a href="/tin-video.epi">Video</a>
+</h6>
+</header>
+<div class="slider">
+<article data-aid="21793352" >
+<figure>
+<a href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/c/21793352.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/139/21793352/1_38393.jpg" alt="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm">
+</a>
+</figure>
+<header>
+<h2><a href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/c/21793352.epi" title="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm">Mẹo hút hơi nước trong nhà cực nhanh ngày nồm</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T08:15:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/r/21793352.epi" title="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm" class="spr spr-more" target="_blank">Mẹo hút hơi nước trong nhà cực nhanh ngày nồm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793255" >
+<figure>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/293/21793255/4_366004.png" alt="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">
+</a>
+</figure>
+<header>
+<h2><a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-18T08:00:17+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/r/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?" class="spr spr-more" target="_blank">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">
+</a>
+</figure>
+<header>
+<h2><a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-more" target="_blank">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793200" >
+<figure>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/255/21793200/3_154934.jpg" alt="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">
+</a>
+</figure>
+<header>
+<h2><a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/r/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh" class="spr spr-more" target="_blank">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793119" >
+<figure>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/88/21793119/3_70096.jpg" alt="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">
+</a>
+</figure>
+<header>
+<h2><a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:40:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/r/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương" class="spr spr-more" target="_blank">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793101" >
+<figure>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/139/21793101/1_37764.jpg" alt="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+</a>
+</figure>
+<header>
+<h2><a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-more" target="_blank">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793240" >
+<figure>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/301/21793240/1_144150.jpg" alt="Một tháng trong quân ngũ của Á khôi áo dài">
+</a>
+</figure>
+<header>
+<h2><a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài">Một tháng trong quân ngũ của Á khôi áo dài</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/r/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài" class="spr spr-more" target="_blank">Một tháng trong quân ngũ của Á khôi áo dài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793205" >
+<figure>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/66/21793205/2_91393.jpg" alt="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">
+</a>
+</figure>
+<header>
+<h2><a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-18T07:31:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/r/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ" class="spr spr-more" target="_blank">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793074" >
+<figure>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/25/21793074/2_67136.jpg" alt="Mỹ công bố 750 video thử nghiệm bom hạt nhân">
+</a>
+</figure>
+<header>
+<h2><a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:29:52+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/r/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân" class="spr spr-more" target="_blank">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793192" >
+<figure>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+</a>
+</figure>
+<header>
+<h2><a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-more" target="_blank">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<section class="top-story">
+<ul class=" tab-header">
+<li class="active"><a href="#most-read" data-toggle="tab">Nóng trong ngày</a></li>
+<li><a href="#most-read7" data-toggle="tab">Trong tuần</a></li>
+</ul>
+<div id="top-story" class="tab-content">
+<div class="tab-pane active" id="most-read" data-track="|mostread">
+</div>
+<div class="tab-pane fade" id="most-read7" data-track="|mostread7">
+</div>
+</div>
+</section>
+<section class="social-idx">
+<header>
+<h6><a href="javascript:;">Theo dõi Báo Mới</a></h6>
+</header>
+<div class="social">
+<a href="https://www.facebook.com/baomoi/" target="_blank" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Fanpage</span>
+</a>
+<a href="https://www.facebook.com/baomoigiaitri/" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Giải Trí</span>
+</a>
+<a href="https://noti.baomoi.com/" target="_blank" class="noti">
+<span><i class="spr social-noti"></i></span>
+<span>Gửi tin nóng<br>
+cho bạn</span>
+</a>
+<a href="https://plus.google.com/+baomoi/posts" target="_blank" class="gplus">
+<span><i class="spr social-gplus"></i></span>
+<span>Google<br>
+Plus</span>
+</a>
+</div>
+</section>
+<section id="trending-list" data-track="|trending">
+<header>
+<h6>
+<a href="javascript:;">Xu hướng</a>
+</h6>
+</header>
+<div class="trending">
+<span class=" w13"><a href="/tag/âm-tường.epi">âm tường</a></span>
+<span class=" w11"><a href="/tag/danh-thái.epi">Danh Thái</a></span>
+<span class="up w2"><a href="/tag/minh-minh/emdep.epi">Minh Minh/Emdep</a></span>
+<span class=" w6"><a href="/tag/acrylic-bóng-gương.epi">Acrylic bóng gương</a></span>
+<span class=" w7"><a href="/tag/sofa.epi">sofa</a></span>
+<span class=" w8"><a href="/tag/người-mệnh-kim.epi">Người mệnh Kim</a></span>
+<span class=" w10"><a href="/tag/mệnh-kim.epi">Mệnh Kim</a></span>
+<span class=" w14"><a href="/tag/việt-hoàn.epi">Việt Hoàn</a></span>
+<span class=" w16"><a href="/tag/xuân-thắng.epi">Xuân Thắng</a></span>
+<span class="down w17"><a href="/tag/nhà-ống.epi">nhà ống</a></span>
+<span class="down w12"><a href="/tag/xã-đàn.epi">Xã Đàn</a></span>
+<span class=" w9"><a href="/tag/cửa-ra-vào.epi">cửa ra vào</a></span>
+<span class=" w15"><a href="/tag/hollywood-will-smith.epi">Hollywood Will Smith</a></span>
+<span class=" w3"><a href="/tag/gỗ-an-cường.epi">Gỗ An Cường</a></span>
+<span class="up w1"><a href="/tag/phong-thủy.epi">phong thủy</a></span>
+<span class=" w20"><a href="/tag/top-dreamer.epi">Top Dreamer</a></span>
+<span class=" w5"><a href="/tag/laminate-kingdom.epi">Laminate Kingdom</a></span>
+<span class=" w19"><a href="/tag/sehoon-lee.epi">Sehoon Lee</a></span>
+<span class=" w4"><a href="/tag/one-stop-shopping-center.epi">ONE-STOP SHOPPING CENTER</a></span>
+<span class=" w18"><a href="/tag/beat-self.epi">Beat Self</a></span>
+</div>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_MiddleRight_1"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R3"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R4"></div>
+</section>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime">Cung cấp trong: 11.04 ms.</p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

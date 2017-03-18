@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Điểm đen ở ngã 5 nơi xe đón dâu gặp nạn - Zing
+</title><meta name="keywords" content="Kim Bảng,Hà Nam,Hoàng Cư,Hoàng Lam" /><meta name="description" content="Ngã 5 giao lộ thuộc huyện Kim Bảng (Hà Nam) có góc khuất, không có đèn tín hiệu, ít biển báo hạn chế tốc độ và gờ giảm tốc. Cơ quan chức năng cho biết sẽ lắ..." />
+<link rel="canonical" href="http://www.baomoi.com/diem-den-o-nga-5-noi-xe-don-dau-gap-nan/c/21792185.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792185" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792185" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/diem-den-o-nga-5-noi-xe-don-dau-gap-nan-post729308.html");
+else
+window.location.replace("http://www.baomoi.com/diem-den-o-nga-5-noi-xe-don-dau-gap-nan/c/21792185.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

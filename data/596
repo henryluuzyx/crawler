@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những smartphone giá từ 2 đến 5 triệu đồng pin cực khỏe - Phụ Nữ News
+</title><meta name="keywords" content="Redmi Note 4,Xiaomi Redmi Note,Asus Zenfone 3 Max,Zenfone 3 Max,Snapdragon 625,smartphone,bộ nhớ trong,độ phân giải,megapixel,chip,Outkitel K10000,Philips V377,Asus,vi xử lý,full hd,Lenovo K6 Power,Tuấn Anh/Vnexpress,chip Snapdragon 430,Philips,phân phối,Vertu" /><meta name="description" content="Những smartphone giá từ 2 đến 5 triệu đồng pin cực khỏe từ 4.000 đến 5.000 mAh, thậm chí còn tới 10.000 mAh." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-smartphone-gia-tu-2-den-5-trieu-dong-pin-cuc-khoe/c/21792551.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792551" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792551" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/thi-truong/nhung-smartphone-gia-tu-2-den-5-trieu-dong-pin-cuc-khoe-145518/");
+else
+window.location.replace("http://www.baomoi.com/nhung-smartphone-gia-tu-2-den-5-trieu-dong-pin-cuc-khoe/c/21792551.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

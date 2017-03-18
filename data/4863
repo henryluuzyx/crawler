@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Lễ hội Áo dài: 'Hội tụ và thăng hoa' - Tiền Phong
+</title><meta name="keywords" content="Bùi Tá Hoàng Vũ,Ngô Tùng,sở du lịch tp hồ chí minh,Võ Thị Dung,Nguyễn Thị Quyết Tâm,ga-la,Mỹ Linh,Nguyễn Huệ,vinh danh,tôn vinh,hội đồng nhân dân,quảng bá,ước tính,thành phố hồ chí minh,trình diễn,phát biểu,đầu tư,lãnh đạo,việt nam" /><meta name="description" content="Chương trình Gala nghệ thuật với chủ đề “Áo dài Việt Nam - Hội tụ và thăng hoa” đã chính thức khép lại Lễ hội Áo dài TPHCM năm 2017." />
+<link rel="canonical" href="http://www.baomoi.com/le-hoi-ao-dai-hoi-tu-va-thang-hoa/c/21792350.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792350" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792350" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.tienphong.vn/van-nghe/le-hoi-ao-dai-hoi-tu-va-thang-hoa-1131427.tpo");
+else
+window.location.replace("http://www.baomoi.com/le-hoi-ao-dai-hoi-tu-va-thang-hoa/c/21792350.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

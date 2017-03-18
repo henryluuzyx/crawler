@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hủy văn bản yêu cầu cam kết 'không đi trên các tuyến đường BOT' - Thanh Niên
+</title><meta name="keywords" content="Bến Thủy,bot,Hà Tĩnh,Trạm thu phí Bến Thủy,Nghệ An,TX.Hồng Lĩnh,Trần Trọng Nghĩa,cam kết,chi trả,bộ giao thông vận tải,ban hành,đầu tư" /><meta name="description" content="Ngày 17.3, ông Trần Trọng Nghĩa, Phó tổng giám đốc Tổng công ty xây dựng công trình giao thông 4 (Cienco4), cho biết tổng công ty đã hủy bỏ văn bản gửi các ..." />
+<link rel="canonical" href="http://www.baomoi.com/huy-van-ban-yeu-cau-cam-ket-khong-di-tren-cac-tuyen-duong-bot/c/21793196.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793196" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793196" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhnien.vn/doi-song/huy-van-ban-yeu-cau-cam-ket-khong-di-tren-cac-tuyen-duong-bot-816488.html");
+else
+window.location.replace("http://www.baomoi.com/huy-van-ban-yeu-cau-cam-ket-khong-di-tren-cac-tuyen-duong-bot/c/21793196.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

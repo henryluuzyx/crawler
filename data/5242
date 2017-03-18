@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+'Thót tim' lần đầu đi ăn ong ở U Minh Hạ - Kiến Thức
+</title><meta name="keywords" content="Trần Văn Nhì,rừng U Minh Hạ,Nguyễn Văn Vững,U Minh Hạ,Minh Hạ,Nguyễn Phích,U Minh,cục sở hữu trí tuệ,thót tim,bảo hộ,thu hoạch,Cà Mau,khoa học công nghệ,tăng trưởng,bảo vệ,phát hiện" /><meta name="description" content="Trực tiếp gặp gỡ những người thợ ăn ong ở U Minh Hạ mới thấy hết tâm huyết với nghề của họ và những điều thú vị về nghề." />
+<link rel="canonical" href="http://www.baomoi.com/thot-tim-lan-dau-di-an-ong-o-u-minh-ha/c/21792139.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792139" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792139" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kienthuc.net.vn/kinh-doanh/thot-tim-lan-dau-di-an-ong-o-u-minh-ha-840887.html");
+else
+window.location.replace("http://www.baomoi.com/thot-tim-lan-dau-di-an-ong-o-u-minh-ha/c/21792139.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

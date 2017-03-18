@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khởi động chương trình 'Thị thực Lao động Kết hợp Kỳ nghỉ' - Nông Nghiệp
+</title><meta name="keywords" content="Xã hội Việt Nam,visa,Lao Động,australia,nhập cảnh,nhập cư,website,bảo vệ,việt nam" /><meta name="description" content="Từ ngày 1/3/2017, Úc và Việt Nam sẽ bắt đầu thực hiện chương trình hợp tác trao đổi mang tên “Thị thực Lao động Kết hợp Kỳ nghỉ”." />
+<link rel="canonical" href="http://www.baomoi.com/khoi-dong-chuong-trinh-thi-thuc-lao-dong-ket-hop-ky-nghi/c/21793351.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793351" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793351" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://nongnghiep.vn/khoi-dong-chuong-trinh-thi-thuc-lao-dong-ket-hop-ky-nghi-post189166.html");
+else
+window.location.replace("http://www.baomoi.com/khoi-dong-chuong-trinh-thi-thuc-lao-dong-ket-hop-ky-nghi/c/21793351.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Triển lãm bản đồ, trưng bày tư liệu Hoàng Sa, Trường Sa ở Phú Quốc - VietnamPlus
+</title><meta name="keywords" content="Trường Sa,Hoàng Sa,khai phá,bộ tư lệnh,quần đảo hoàng sa,trưng bày,Phú Quốc,thực thi,Việt Nam-Những,biển Đông,xã hội chủ nghĩa,Kiên Giang,chứng minh,Lê Huy Hải,Việt ngữ,An Thới,khai mạc,thông tấn xã việt nam,nhận thức,bảo vệ,đông dương" /><meta name="description" content="Triển lãm bản đồ và trưng bày tư liệu “Hoàng Sa, Trường Sa của Việt Nam-Những bằng chứng lịch sử và pháp lý,” khai mạc chiều 17/3, ở Bộ Tư lệnh Vùng Cảnh sá..." />
+<link rel="canonical" href="http://www.baomoi.com/trien-lam-ban-do-trung-bay-tu-lieu-hoang-sa-truong-sa-o-phu-quoc/c/21791040.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791040" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791040" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/trien-lam-ban-do-trung-bay-tu-lieu-hoang-sa-truong-sa-o-phu-quoc/436327.vnp");
+else
+window.location.replace("http://www.baomoi.com/trien-lam-ban-do-trung-bay-tu-lieu-hoang-sa-truong-sa-o-phu-quoc/c/21791040.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

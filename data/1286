@@ -1,0 +1,225 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1" lang="vi"><meta name="google-site-verification" content="bmqrm3PnDa_o67l350-ha5w2RXwkPYS9WYwrUJU5rIA" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Đề thi - đáp án | Chuyên trang tuyển sinh | Dân trí</title><meta id="ctl00_metakeywords" name="keywords" content="Tuyển sinh,du học, họp cập" /><meta id="ctl00_newskeywords" name="news_keywords" content="Tuyển sinh,du học, họp cập" /><meta id="ctl00_metaDes" name="description" content="Tờ báo cập nhật 24/24 tin tức tuyển sinh mới" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta property="og:locale" content="vi_VN" /><meta property="fb:app_id" content="830263217081389" /><meta name="author" content="BAO DIEN TU DAN TRI" /><meta property="article:author" content="https://www.facebook.com/baodantridientu" /><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><link href="https://dantri4.vcmedia.vn/web_css/tuyensinhdantri.min.1.4.css" rel="stylesheet" type="text/css" />
+    <script src="https://dantri3.vcmedia.vn/tuyensinh/scripts/tuyensinhdantri.min.1.3.js"
+        type="text/javascript" language="javascript"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-4263013-49', 'auto', { 'name': 'ts_vcc' });
+        ga('ts_vcc.send', 'pageview');
+
+        ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+        ga('dtonly.send', 'pageview');
+
+//        ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+//        ga('dtboo.send', 'pageview');
+
+//        ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+//        ga('totaldt.send', 'pageview');
+    </script>
+    
+    <script type="text/javascript">var  _ADM_Channel='%2Ftuyen-sinh%2Fde-thi-dap-an%2F';</script>
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+    <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "17793284" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+    
+    <script type="text/javascript">
+        /*mobile*/
+        function setCookieMobileRedirect(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+
+        function CheckMobileRedirect() {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            setCookieMobileRedirect("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    } else {
+                        //van dang o phien lam viec cu thi khong lam gi.   
+                    }
+                }
+            } catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+
+        }
+        //check mobile
+        CheckMobileRedirect();
+        /*end mobile*/
+    </script>
+<link rel="canonical" href="http://tuyensinh.dantri.com.vn/tuyen-sinh/de-thi-dap-an.htm" /><link rel="alternate" type="application/rss+xml" href="http://tuyensinh.dantri.com.vn/de-thi-dap-an.rss" title="Đề thi - đáp án | Chuyên trang tuyển sinh | Dân trí" /><link href="http://m.dantri.com.vn/tuyen-sinh/de-thi-dap-an.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link rel="next" href="http://tuyensinh.dantri.com.vn/tuyen-sinh/de-thi-dap-an/trang-2.htm" /><meta property="og:type" content="article" /><meta property="article:tag" content="Tuyển sinh,du học, họp cập" /><meta itemprop="headline" property="og:title" content="Đề thi - đáp án | Chuyên trang tuyển sinh | Dân trí" /><meta itemprop="description" property="og:description" content="Tờ báo cập nhật 24/24 tin tức tuyển sinh mới" /><meta itemprop="keywords" content="Tuyển sinh,du học, họp cập" /><meta itemprop="thumbnailUrl" property="og:image" /><meta itemprop="url" property="og:url" content="http://tuyensinh.dantri.com.vn/tuyen-sinh/de-thi-dap-an.htm" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="./List.aspx?parentCatUrl=tuyen-sinh&amp;catUrl=de-thi-dap-an&amp;url=tuyen-sinh%2fde-thi-dap-an%2f&amp;pageIndex=1&amp;PageType=7777" id="aspnetForm">
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="704" />
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="de-thi-dap-an" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="706" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="706" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="Đề thi - Đ&#225;p &#225;n" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4MTUyODM5MGRkXbmw8mBcoW1EtMrTzifKBg3EwA1BFHjCGn2SS5u1KNo=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB3BDE6C" />
+    <div id="wrap">
+        
+<div id="header">
+    <a class="sprite logo" href="/" title="Tuyển sinh Dân trí"></a>
+
+</div>
+
+<div class="fullbanner">
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_1122.ads"></script>
+</div>
+
+        
+<div id="menu">
+    <ul>
+ <li><a href="http://dantri.com.vn" target="_blank" title="Dân trí">Trang chủ</a></li>
+ <li><a href="/" title="Tuyển sinh" class="normal" id="home">Tuyển sinh</a></li>
+
+ <li><a href="/tuyen-sinh/gap-go-cac-truong.htm" title="Gặp gỡ các trường" id="gap-go-cac-truong" class="normal active">Gặp gỡ các trường</a></li>
+
+ <li><a href="/tuyen-sinh/bi-quyet-hoc-va-thi.htm" title="Bí quyết học và thi" id="bi-quyet-hoc-va-thi" class="normal">Bí quyết học và thi</a></li>
+
+ <li><a href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu - Điểm chuẩn" id="chi-tieu" class="normal">Chỉ tiêu - Điểm chuẩn</a></li>
+
+ <li><a href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án" id="de-thi-dap-an" class="normal">Đề thi - Đáp án</a></li>
+
+ <li><a href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi" id="khoanh-khac-mua-thi" class="normal">Khoảnh khắc mùa thi</a></li>
+ </ul>
+    
+</div>
+<script type="text/javascript">
+    MenuTop();
+</script>
+
+        <div id="container" class="clearfix">
+            <div id="column-left">
+                
+   
+    <div id="ctl00_ContentPlaceHolder1_divNormal" class="list">
+         <h1 class="item"><a href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án" class="titlelist">Đề thi - Đáp án</a></h1>
+        <div class="item"><a title="Bộ GD&amp;ĐT c&#244;ng bố 14 đề thi minh họa THPT quốc gia 2017"  href="/giao-duc-khuyen-hoc/bo-gddt-cong-bo-14-de-thi-minh-hoa-thpt-quoc-gia-2017-20161005160328555.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/thi-sinh-1475459259599.jpg" alt="Bộ GD&amp;ĐT c&#244;ng bố 14 đề thi minh họa THPT quốc gia 2017" class="avatar"></a> <h3><a title="Bộ GD&amp;ĐT c&#244;ng bố 14 đề thi minh họa THPT quốc gia 2017" href="/giao-duc-khuyen-hoc/bo-gddt-cong-bo-14-de-thi-minh-hoa-thpt-quoc-gia-2017-20161005160328555.htm">Bộ GD&amp;ĐT c&#244;ng bố 14 đề thi minh họa THPT quốc gia 2017</a></h3><p>(Dân trí) - Nhằm tạo thuận lợi cho thí sinh dự thi kỳ thi THPT quốc gia 2017, chiều 05/10, Bộ Giáo dục và Đào tạo công bố 14 đề thi minh họa của các môn thi để giáo viên và học sinh tham khảo.</p></div><div class="item"><a title="M&#244;n H&#243;a học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-hoa-hoc-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704154220326.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/1-dehoavuatamthisinhdelay67diem-1467621601338.JPG" alt="M&#244;n H&#243;a học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n H&#243;a học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-hoa-hoc-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704154220326.htm">M&#244;n H&#243;a học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn Hóa học kỳ thi THPTQG 2016 mà Bộ GD-ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n tiếng Đức - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-tieng-duc-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704202129484.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/thi3-1467638407309.JPG" alt="M&#244;n tiếng Đức - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n tiếng Đức - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-tieng-duc-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704202129484.htm">M&#244;n tiếng Đức - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn tiếng Đức kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n tiếng Nga - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-tieng-nga-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704201505672.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/thi2-1467638020100.JPG" alt="M&#244;n tiếng Nga - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n tiếng Nga - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-tieng-nga-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704201505672.htm">M&#244;n tiếng Nga - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn tiếng Nga kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n Vật l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-vat-ly-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704154942839.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/vatlyphanhoacaophandienkhonhat-1467621995691.jpg" alt="M&#244;n Vật l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n Vật l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-vat-ly-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704154942839.htm">M&#244;n Vật l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn Vật lý kỳ thi THPTQG 2016 mà Bộ GD-ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n tiếng Nhật - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-tieng-nhat-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704200826806.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/thi1-1467637635470.jpg" alt="M&#244;n tiếng Nhật - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n tiếng Nhật - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-tieng-nhat-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704200826806.htm">M&#244;n tiếng Nhật - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - (Dân trí) - Dưới đây là đề thi và đáp án chính thức môn tiếng Nhật kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n tiếng Trung - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-tieng-trung-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704161919593.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/su10-1467623862487.JPG" alt="M&#244;n tiếng Trung - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n tiếng Trung - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-tieng-trung-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704161919593.htm">M&#244;n tiếng Trung - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn tiếng Trung kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n tiếng Ph&#225;p - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-tieng-phap-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704161408022.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/su9-1467623545220-crop-1467623568777.jpg" alt="M&#244;n tiếng Ph&#225;p - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n tiếng Ph&#225;p - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-tieng-phap-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704161408022.htm">M&#244;n tiếng Ph&#225;p - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn tiếng Pháp kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n Sinh học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-sinh-hoc-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704152004735.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/su3-1467622257939.JPG" alt="M&#244;n Sinh học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n Sinh học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-sinh-hoc-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704152004735.htm">M&#244;n Sinh học - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn Sinh học kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n Địa l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-dia-ly-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704155501555.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/su4-1467622415786.JPG" alt="M&#244;n Địa l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n Địa l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-dia-ly-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704155501555.htm">M&#244;n Địa l&#253; - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn Địa lý kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div><div class="item"><a title="M&#244;n Lịch sử - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016"  href="/tuyen-sinh/mon-lich-su-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704154029225.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/su2-1467621790667.jpg" alt="M&#244;n Lịch sử - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" class="avatar"></a> <h3><a title="M&#244;n Lịch sử - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-lich-su-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704154029225.htm">M&#244;n Lịch sử - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016</a></h3><p>(Dân trí) - Dưới đây là đề thi và đáp án chính thức môn Lịch sử kỳ thi THPTQG 2016 mà Bộ GD- ĐT vừa mới công bố.</p></div>
+    </div>
+    
+    <div class="cat-trangsau">
+        &nbsp;[ <a href="/tuyen-sinh/de-thi-dap-an/trang-2.htm">Trang sau</a> ]
+    </div>
+    <div id="ctl00_ContentPlaceHolder1_divBaiDaDang">
+        
+<div class="oldernew">       
+	<p>Các bài đã đăng</p>
+    <ul>
+       <li><i class="dotted sprite"></i><a title="M&#244;n Ngữ văn - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-ngu-van-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704155705499.htm">M&#244;n Ngữ văn - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016 (04/07)</a></li><li><i class="dotted sprite"></i><a title="M&#244;n tiếng Anh - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-tieng-anh-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704160810776.htm">M&#244;n tiếng Anh - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016 (04/07)</a></li><li><i class="dotted sprite"></i><a title="M&#244;n To&#225;n - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016" href="/tuyen-sinh/mon-toan-de-thi-va-dap-an-chinh-thuc-thptqg-2016-20160704160252965.htm">M&#244;n To&#225;n - Đề thi v&#224; đ&#225;p &#225;n ch&#237;nh thức THPTQG 2016 (04/07)</a></li><li><i class="dotted sprite"></i><a title="Bộ Gi&#225;o dục c&#244;ng bố đ&#225;p &#225;n ch&#237;nh thức 8 m&#244;n thi THPTQG 2016" href="/giao-duc-khuyen-hoc/bo-giao-duc-cong-bo-dap-an-chinh-thuc-8-mon-thi-thptqg-2016-20160704160345286.htm">Bộ Gi&#225;o dục c&#244;ng bố đ&#225;p &#225;n ch&#237;nh thức 8 m&#244;n thi THPTQG 2016 (04/07)</a></li><li><i class="dotted sprite"></i><a title="Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n Sinh học kỳ thi THPTQG 2016" href="/giao-duc-khuyen-hoc/de-thi-va-goi-y-dap-an-mon-sinh-hoc-ky-thi-thptqg-2016-20160704162842645.htm">Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n Sinh học kỳ thi THPTQG 2016 (04/07)</a></li><li><i class="dotted sprite"></i><a title="Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n Lịch sử kỳ thi THPTQG 2016" href="/giao-duc-khuyen-hoc/de-thi-va-goi-y-dap-an-mon-lich-su-ky-thi-thptqg-2016-20160704102126841.htm">Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n Lịch sử kỳ thi THPTQG 2016 (04/07)</a></li><li><i class="dotted sprite"></i><a title="Gi&#225;o vi&#234;n nhận định: Đề thi H&#243;a học hợp l&#253; v&#224; c&#243; t&#237;nh thực tiễn" href="/giao-duc-khuyen-hoc/giao-vien-nhan-dinh-de-thi-hoa-hoc-hop-ly-va-co-tinh-thuc-tien-20160703181639666.htm">Gi&#225;o vi&#234;n nhận định: Đề thi H&#243;a học hợp l&#253; v&#224; c&#243; t&#237;nh thực tiễn (03/07)</a></li><li><i class="dotted sprite"></i><a title="Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n H&#243;a học kỳ thi THPTQG 2016" href="/giao-duc-khuyen-hoc/de-thi-va-goi-y-dap-an-mon-hoa-hoc-ky-thi-thptqg-2016-2016070316280575.htm">Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n H&#243;a học kỳ thi THPTQG 2016 (03/07)</a></li><li><i class="dotted sprite"></i><a title="Đề Địa l&#253; mang t&#237;nh thời sự v&#224; ph&#226;n h&#243;a cao" href="/giao-duc-khuyen-hoc/de-dia-ly-mang-tinh-thoi-su-va-phan-hoa-cao-20160703123702802.htm">Đề Địa l&#253; mang t&#237;nh thời sự v&#224; ph&#226;n h&#243;a cao (03/07)</a></li><li><i class="dotted sprite"></i><a title="Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n Địa l&#253; kỳ thi THPTQG 2016" href="/giao-duc-khuyen-hoc/de-thi-va-goi-y-dap-an-mon-dia-ly-ky-thi-thptqg-2016-20160703094923004.htm">Đề thi v&#224; gợi &#253; đ&#225;p &#225;n m&#244;n Địa l&#253; kỳ thi THPTQG 2016 (03/07)</a></li>	
+    </ul>
+    <input type="button" onclick="displayCalendar(this,'dd-mm-yyyy',this);" value="" class="sprite xembaitheongaythang" id="viewbdate" />
+</div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            FixList();
+        });
+    </script>
+
+            </div>
+            <div id="column-right">
+                
+<div class="block" style="padding:0 5px">
+    
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+</div>
+                
+                
+<div class="tuvantoancanh block">
+    <div class="tvtc-container">
+       <a class="sprite header" href="/tuyen-sinh/tu-van-toan-canh/trang-1.htm"><img src="https://dantri3.vcmedia.vn/Images/tuyensinh/blank.gif" alt="tuvantoancanh" /></a>
+	    <ul>
+		    <li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/cong-bo-diem-thi-thptqg-2016-toan-bo-120-cum-thi-da-co-diem-2016071816583279.htm">Công bố điểm thi THPTQG 2016: Toàn bộ 120 cụm thi đã có điểm</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/bi-quyet-on-luyen-mon-ngu-van-chi-tiet-cach-lam-bai-nghi-luan-van-hoc-phan-2-20160420094714672.htm">Bí quyết ôn luyện môn Ngữ văn: Chi tiết cách làm bài Nghị luận văn học (phần 2)</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/o-truong-sa-su-dung-loai-song-nao-de-xem-truyen-hinh-2016032813455991.htm">Ở Trường Sa sử dụng loại sóng nào để xem truyền hình?</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/cach-ghi-19-muc-trong-phieu-dang-ky-du-thi-thpt-quoc-gia-2016-20160324224005302.htm">Cách ghi 19 mục trong Phiếu đăng ký dự thi THPT quốc gia 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/2-truong-hop-duoc-mien-thi-mon-ngoai-ngu-thpt-quoc-gia-2016-20160324211938503.htm">2 trường hợp được miễn thi môn ngoại ngữ THPT quốc gia 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/ca-nuoc-co-70-cum-thi-thpt-quoc-gia-do-truong-dai-hoc-chu-tri-20160316160253795.htm">Cả nước có 70 cụm thi THPT quốc gia do trường đại học chủ trì</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/video-bai-giang-phuong-phap-su-dung-may-tinh-bo-tui-trong-giai-toan-trac-nghiem-20160309110201025.htm">Video bài giảng: Phương pháp sử dụng máy tính bỏ túi trong giải toán trắc nghiệm</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/moi-thu-suc-voi-15-cau-hoi-sinh-hoc-thi-thpt-quoc-gia-20160308152024754.htm">Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/du-kien-bo-quy-dinh-thi-sinh-nop-phieu-dkxt-tai-truong-khong-can-thiet-phai-bo-20160306094304476.htm">Dự kiến bỏ quy định thí sinh nộp phiếu ĐKXT tại trường: Không cần thiết phải bỏ!</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/toan-canh-chi-tieu-khoi-truong-cong-an-nhan-dan-nam-2016-20160223145712607.htm">Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/4-quyet-dinh-quan-trong-doi-voi-giao-vien-hs-sv-co-hieu-luc-tu-1-1-2016-20160101082532836.htm">4 quyết định quan trọng đối với giáo viên, HS,SV có hiệu lực từ 1/1/2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/hoc-vien-chinh-sach-va-phat-trien-tuyen-sinh-dh-he-chinh-quy-2015-20150818105528141.htm">Học viện Chính sách và Phát triển tuyển sinh ĐH hệ chính quy 2015</a></h4></li>
+	    </ul>
+	</div>
+    <div class="sprite tvtc-footer"></div>
+</div>
+                
+<div class="tiemdiem block">
+    <p class="sprite header">
+        <img src="https://dantri3.vcmedia.vn/Images/tuyensinh/blank.gif" class="tieudiemhome" />
+    </p>
+    <div class="container">
+         <div class="item"><a title="Bộ Giáo dục công bố đáp án chính thức 8 môn thi THPTQG 2016" href="/giao-duc-khuyen-hoc/bo-giao-duc-cong-bo-dap-an-chinh-thuc-8-mon-thi-thptqg-2016-20160704160345286.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/2016/su7-1467622775562.jpg" alt="Bộ Giáo dục công bố đáp án chính thức 8 môn thi THPTQG 2016" title="Bộ Giáo dục công bố đáp án chính thức 8 môn thi THPTQG 2016"></a><h4><a href="/giao-duc-khuyen-hoc/bo-giao-duc-cong-bo-dap-an-chinh-thuc-8-mon-thi-thptqg-2016-20160704160345286.htm" title="Bộ Giáo dục công bố đáp án chính thức 8 môn thi THPTQG 2016"> Bộ Giáo dục công bố đáp án chính thức 8 môn thi THPTQG 2016</a></h4></div> <div class="item"><a title="Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia" href="/tuyen-sinh/moi-thu-suc-voi-15-cau-hoi-sinh-hoc-thi-thpt-quoc-gia-20160308152024754.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/2016/mon-sinh-1457424749088.jpg" alt="Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia" title="Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia"></a><h4><a href="/tuyen-sinh/moi-thu-suc-voi-15-cau-hoi-sinh-hoc-thi-thpt-quoc-gia-20160308152024754.htm" title="Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia"> Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Mẫu bài thi 6 môn ngoại ngữ của kỳ thi đánh giá năng lực" href="/giao-duc-khuyen-hoc/mau-bai-thi-6-mon-ngoai-ngu-cua-ky-thi-danh-gia-nang-luc-20160303144011448.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/2016/ngoai-ngu-1456990169087.jpg" alt="Mẫu bài thi 6 môn ngoại ngữ của kỳ thi đánh giá năng lực" title="Mẫu bài thi 6 môn ngoại ngữ của kỳ thi đánh giá năng lực"></a><h4><a href="/giao-duc-khuyen-hoc/mau-bai-thi-6-mon-ngoai-ngu-cua-ky-thi-danh-gia-nang-luc-20160303144011448.htm" title="Mẫu bài thi 6 môn ngoại ngữ của kỳ thi đánh giá năng lực"> Mẫu bài thi 6 môn ngoại ngữ của kỳ thi đánh giá năng lực</a></h4></div> <div class="item"><a title="Môn Lịch sử - Đề thi và đáp án chính thức" href="/tuyen-sinh/mon-lich-su-de-thi-va-dap-an-chinh-thuc-1436710340.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/0cccccccccccccp9naPwZGJZhKf7vl/Image/2015/07/su-75657.JPG" alt="Môn Lịch sử - Đề thi và đáp án chính thức" title="Môn Lịch sử - Đề thi và đáp án chính thức"></a><h4><a href="/tuyen-sinh/mon-lich-su-de-thi-va-dap-an-chinh-thuc-1436710340.htm" title="Môn Lịch sử - Đề thi và đáp án chính thức"> Môn Lịch sử - Đề thi và đáp án chính thức</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Môn Hóa học - Đề thi và đáp án chính thức" href="/tuyen-sinh/mon-hoa-hoc-de-thi-va-dap-an-chinh-thuc-1436611373.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/07/congbo04071513-4fd5f.jpg" alt="Môn Hóa học - Đề thi và đáp án chính thức" title="Môn Hóa học - Đề thi và đáp án chính thức"></a><h4><a href="/tuyen-sinh/mon-hoa-hoc-de-thi-va-dap-an-chinh-thuc-1436611373.htm" title="Môn Hóa học - Đề thi và đáp án chính thức"> Môn Hóa học - Đề thi và đáp án chính thức</a></h4></div> <div class="item"><a title="Môn tiếng Nhật - Đề thi và đáp án chính thức" href="/tuyen-sinh/mon-tieng-nhat-de-thi-va-dap-an-chinh-thuc-1436610722.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/07/congbo0407158-50144.jpg" alt="Môn tiếng Nhật - Đề thi và đáp án chính thức" title="Môn tiếng Nhật - Đề thi và đáp án chính thức"></a><h4><a href="/tuyen-sinh/mon-tieng-nhat-de-thi-va-dap-an-chinh-thuc-1436610722.htm" title="Môn tiếng Nhật - Đề thi và đáp án chính thức"> Môn tiếng Nhật - Đề thi và đáp án chính thức</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Môn Sinh học - Đề thi và đáp án chính thức" href="/tuyen-sinh/mon-sinh-hoc-de-thi-va-dap-an-chinh-thuc-1436611140.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/07/congbo04071511-96499.jpg" alt="Môn Sinh học - Đề thi và đáp án chính thức" title="Môn Sinh học - Đề thi và đáp án chính thức"></a><h4><a href="/tuyen-sinh/mon-sinh-hoc-de-thi-va-dap-an-chinh-thuc-1436611140.htm" title="Môn Sinh học - Đề thi và đáp án chính thức"> Môn Sinh học - Đề thi và đáp án chính thức</a></h4></div> <div class="item"><a title="Môn tiếng Nga - Đề thi và đáp án chính thức" href="/tuyen-sinh/mon-tieng-nga-de-thi-va-dap-an-chinh-thuc-1436610633.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/07/congbo0407157-87ad4.jpg" alt="Môn tiếng Nga - Đề thi và đáp án chính thức" title="Môn tiếng Nga - Đề thi và đáp án chính thức"></a><h4><a href="/tuyen-sinh/mon-tieng-nga-de-thi-va-dap-an-chinh-thuc-1436610633.htm" title="Môn tiếng Nga - Đề thi và đáp án chính thức"> Môn tiếng Nga - Đề thi và đáp án chính thức</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Môn Địa lý - Đề thi và đáp án chính thức" href="/tuyen-sinh/mon-dia-ly-de-thi-va-dap-an-chinh-thuc-1436611046.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/07/congbo0407154-71d47.jpg" alt="Môn Địa lý - Đề thi và đáp án chính thức" title="Môn Địa lý - Đề thi và đáp án chính thức"></a><h4><a href="/tuyen-sinh/mon-dia-ly-de-thi-va-dap-an-chinh-thuc-1436611046.htm" title="Môn Địa lý - Đề thi và đáp án chính thức"> Môn Địa lý - Đề thi và đáp án chính thức</a></h4></div> <div class="item"><a title="Môn tiếng Anh - Đề thi và đáp án chính thức" href="/tuyen-sinh/mon-tieng-anh-de-thi-va-dap-an-chinh-thuc-1436610302.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/07/congbo0407155-2c55f.jpg" alt="Môn tiếng Anh - Đề thi và đáp án chính thức" title="Môn tiếng Anh - Đề thi và đáp án chính thức"></a><h4><a href="/tuyen-sinh/mon-tieng-anh-de-thi-va-dap-an-chinh-thuc-1436610302.htm" title="Môn tiếng Anh - Đề thi và đáp án chính thức"> Môn tiếng Anh - Đề thi và đáp án chính thức</a></h4></div><div class="td-saparator"></div>
+ 
+  
+ </div>
+</div>
+
+                
+                
+<div class="block" style="padding:0 5px">
+    
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+                
+
+<div class="block" style="padding:0 5px">
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_486.ads"></script>
+</div>
+            </div>
+        </div>
+        
+<div id="footer">
+    <div class="footer-logo"><a rel="nofollow" class="sprite" href="/" title="Tuyển sinh Dân trí"></a></div>
+    <div class="footer-menu">
+        <ul>
+            <li><a rel="nofollow" href="http://dantri.com.vn" title="Dân trí">Trang chủ</a></li>
+            <li><a rel="nofollow" href="/" title="Tuyển sinh 2015">Tuyển sinh 2015</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/gap-go-cac-truong.htm" title="Gặp gỡ các trường">Gặp gỡ các trường</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/bi-quyet-hoc-va-thi.htm" title="Bí quyết học và thi">Bí quyết học và thi</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu - Điểm thi">Chỉ tiêu - Điểm thi</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án">Đề thi - Đáp án</a></li>
+            <li class="last"><a rel="nofollow" href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi">Khoảnh khắc mùa thi</a></li>
+        </ul>
+        <p>Chuyên mục của báo Điện tử Dân trí</p>
+    </div>
+</div>
+    </div>
+    </form>
+</body>
+</html>
+

@@ -1,0 +1,2350 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Tin tài chính - BAOMOI.COM
+</title><meta name="keywords" content="tài chính, tin tức tài chính, ngân hàng, thuế, lãi xuất, tỷ giá, thuế, ngân sách, vàng" /><meta name="description" content="Thông tin tài chính nhanh nhất, chuẩn xác và đầy đủ nhất được cập nhật liên tục" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/tai-chinh.epi" />
+<link rel="alternate" href="http://www.baomoi.com/tai-chinh.epi" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/tai-chinh.epi" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/tai-chinh.epi" />
+<meta property="og:title" content="Tài chính" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Tài chính",
+"alternateName" : "Thông tin tài chính nhanh nhất, chuẩn xác và đầy đủ nhất được cập nhật liên tục",
+"url" : "http://www.baomoi.com/tai-chinh.epi"
+}
+</script>
+<link rel="alternate" href="http://www.baomoi.com/tai-chinh.rss" type="application/rss+xml" title="RSS" />
+<script type="text/javascript">
+var cate_id = 126;
+var cate_path = "tai-chinh";</script>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content nocontent robots-nocontent">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<section class="main category-page">
+<section class="hot-news">
+<div class="focus" data-track="|hotnews">
+<div class="main">
+<article data-aid="21792571" class="feature">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w626/17/03/18/7/21792571/1_56461.jpg" alt="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792952" >
+<figure>
+<a target="_blank" href="/tai-chinh-dau-khi-va-vung-lay-pvn-che-giau-sai-pham-khi-mat-von/r/21792952.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/4/21792952/1_2762773.jpg" alt="Tài chính dầu khí và &#39;vũng lầy&#39; PVN: Che giấu sai phạm khi mất vốn" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tai-chinh-dau-khi-va-vung-lay-pvn-che-giau-sai-pham-khi-mat-von/r/21792952.epi" title="Tài chính dầu khí và &#39;vũng lầy&#39; PVN: Che giấu sai phạm khi mất vốn">Tài chính dầu khí và 'vũng lầy' PVN: Che giấu sai phạm khi mất vốn</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T07:11:10+07:00"></time>
+<span>
+<a href="/tai-chinh-dau-khi-va-vung-lay-pvn-che-giau-sai-pham-khi-mat-von/c/21792952.epi" title="Tài chính dầu khí và &#39;vũng lầy&#39; PVN: Che giấu sai phạm khi mất vốn" class="spr spr-cache cache">Tài chính dầu khí và 'vũng lầy' PVN: Che giấu sai phạm khi mất vốn</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792539" >
+<figure>
+<a target="_blank" href="/theo-duoi-tang-truong-trung-quoc-doi-dien-nguy-co-khung-hoang/r/21792539.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/255/21792539/2_121363.jpg" alt="Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/theo-duoi-tang-truong-trung-quoc-doi-dien-nguy-co-khung-hoang/r/21792539.epi" title="Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng">Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T05:33:00+07:00"></time>
+<span>
+<a href="/theo-duoi-tang-truong-trung-quoc-doi-dien-nguy-co-khung-hoang/c/21792539.epi" title="Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng" class="spr spr-cache cache">Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792784" >
+<figure>
+<a target="_blank" href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/r/21792784.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/255/21792784/2_201187.jpg" alt="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/r/21792784.epi" title="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu">VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T06:47:00+07:00"></time>
+<span>
+<a href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/c/21792784.epi" title="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu" class="spr spr-cache cache">VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792597" >
+<figure>
+<a target="_blank" href="/vi-sao-my-quyet-dinh-nang-lai-suat/r/21792597.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/271/21792597/2_91469.jpg" alt="Vì sao Mỹ quyết định nâng lãi suất?" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vi-sao-my-quyet-dinh-nang-lai-suat/r/21792597.epi" title="Vì sao Mỹ quyết định nâng lãi suất?">Vì sao Mỹ quyết định nâng lãi suất?</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/vi-sao-my-quyet-dinh-nang-lai-suat/c/21792597.epi" title="Vì sao Mỹ quyết định nâng lãi suất?" class="spr spr-cache cache">Vì sao Mỹ quyết định nâng lãi suất?</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</div>
+<div class="more-article" data-track="|news">
+<article data-aid="21793334">
+<header>
+<h2><a target="_blank" href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/r/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng">
+Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng
+</a></h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-18T07:54:00+07:00"></time>
+<span>
+<a href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/c/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng" class="spr spr-cache cache">Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792698">
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại">
+Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại
+</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:33:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/c/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792451">
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/r/21792451.epi" title="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng">
+Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng
+</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T03:45:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/c/21792451.epi" title="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng" class="spr spr-cache cache">Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792446">
+<header>
+<h2><a target="_blank" href="/hoat-dong-cung-cap-dich-vu-ke-toan-qua-bien-gioi-cua-doanh-nghiep-nuoc-ngoai/r/21792446.epi" title="Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài">
+Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài
+</a></h2>
+<p class="meta">
+<a href="/tapchitaichinh.vn-tap-chi-tai-chinh-finance-plus/p/241.epi">Finance Plus</a>
+<time class="friendly" datetime="2017-03-18T03:00:00+07:00"></time>
+<span>
+<a href="/hoat-dong-cung-cap-dich-vu-ke-toan-qua-bien-gioi-cua-doanh-nghiep-nuoc-ngoai/c/21792446.epi" title="Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài" class="spr spr-cache cache">Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792268">
+<header>
+<h2><a target="_blank" href="/thay-truoc-tranh-duoc-soc/r/21792268.epi" title="Thấy trước, tránh được &#39;sốc&#39;">
+Thấy trước, tránh được 'sốc'
+</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T00:22:34+07:00"></time>
+<span>
+<a href="/thay-truoc-tranh-duoc-soc/c/21792268.epi" title="Thấy trước, tránh được &#39;sốc&#39;" class="spr spr-cache cache">Thấy trước, tránh được 'sốc'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792109">
+<header>
+<h2><a target="_blank" href="/kinh-te-viet-nam-anh-huong-gi-khi-fed-tang-lai-suat/r/21792109.epi" title="Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?">
+Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?
+</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T23:14:00+07:00"></time>
+<span>
+<a href="/kinh-te-viet-nam-anh-huong-gi-khi-fed-tang-lai-suat/c/21792109.epi" title="Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?" class="spr spr-cache cache">Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791777">
+<header>
+<h2><a target="_blank" href="/cac-ngan-hang-tren-the-gioi-dieu-chinh-chinh-sach-sau-khi-fed-tang-lai-suat/r/21791777.epi" title="Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất">
+Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất
+</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T21:41:00+07:00"></time>
+<span>
+<a href="/cac-ngan-hang-tren-the-gioi-dieu-chinh-chinh-sach-sau-khi-fed-tang-lai-suat/c/21791777.epi" title="Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất" class="spr spr-cache cache">Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791242">
+<header>
+<h2><a target="_blank" href="/phap-kinh-te-co-nhieu-dau-hieu-tich-cuc-giua-hang-loat-be-boi/r/21791242.epi" title="Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối">
+Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối
+</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-17T19:40:00+07:00"></time>
+<span>
+<a href="/phap-kinh-te-co-nhieu-dau-hieu-tich-cuc-giua-hang-loat-be-boi/c/21791242.epi" title="Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối" class="spr spr-cache cache">Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792881">
+<header>
+<h2><a target="_blank" href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/r/21792881.epi" title="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu">
+VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu
+</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-17T19:32:04+07:00"></time>
+<span>
+<a href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/c/21792881.epi" title="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu" class="spr spr-cache cache">VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<script>
+var arr_baomoiprtaichinhnoibat = [
+];;
+if (arr_baomoiprtaichinhnoibat.length > 0) {
+var slots_baomoiprtaichinhnoibat = new Array;
+var prefix = "pr_baomoiprtaichinhnoibat_";
+for (var i = 1; i <= 10; i++) {
+var id = prefix + i;
+var obj = document.getElementById(id);
+if (obj == null) break;
+else slots_baomoiprtaichinhnoibat.push(obj);
+}
+var total = 100.0;
+var dist_baomoiprtaichinhnoibat = [];
+for (var index = 0; index < slots_baomoiprtaichinhnoibat.length; index++) {
+var t = Math.floor(Math.random() * total);
+var n = 0;
+for (var i = 0; i < arr_baomoiprtaichinhnoibat.length; i++) {
+n += arr_baomoiprtaichinhnoibat[i].share;
+if (n >= t) {
+total -= arr_baomoiprtaichinhnoibat[i].share;
+dist_baomoiprtaichinhnoibat.push(arr_baomoiprtaichinhnoibat[i].value);
+arr_baomoiprtaichinhnoibat.splice(i, 1);
+break;
+}
+}
+}
+for (var index = 0; index < Math.min(dist_baomoiprtaichinhnoibat.length, slots_baomoiprtaichinhnoibat.length) ; index++)
+slots_baomoiprtaichinhnoibat[index].outerHTML = dist_baomoiprtaichinhnoibat[index];
+}
+</script>
+<div class="cat-content">
+<section class="content-list" data-track="|contentlist">
+<header>
+<h1 class="title">Tài chính</h1>
+</header>
+<article data-aid="21793334" >
+<figure>
+<a target="_blank" href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/r/21793334.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/227/21793334/2_33739.jpg" alt="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/r/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng">Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng</a>
+</h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-18T07:54:00+07:00"></time>
+<span>
+<a href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/c/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng" class="spr spr-cache cache">Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng</a>
+</span>
+</p>
+<p class="summary">
+Giá vàng 18/3 tiếp tục giảm nhưng vẫn đang đứng ở mức cao trong hai tuần qua do USD đang yếu và chính sách của Mỹ trong những cuộc họp gần đây.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_0" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_0" class="related-list collapse">
+<a href="/tin-lien-quan/t/1980376.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21777107">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-16-3-nha-dau-tu-nen-nghe-ngong/r/21777107.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/105/21777107/2_36875.jpg" alt="Giá vàng hôm nay 16.3: Nhà đầu tư nên nghe ngóng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-16-3-nha-dau-tu-nen-nghe-ngong/r/21777107.epi" title="Giá vàng hôm nay 16.3: Nhà đầu tư nên nghe ngóng">Giá vàng hôm nay 16.3: Nhà đầu tư nên nghe ngóng</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-16T03:45:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-16-3-nha-dau-tu-nen-nghe-ngong/c/21777107.epi" title="Giá vàng hôm nay 16.3: Nhà đầu tư nên nghe ngóng" class="spr spr-cache cache">Giá vàng hôm nay 16.3: Nhà đầu tư nên nghe ngóng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21771861">
+<figure>
+<a target="_blank" href="/gia-vang-ngay-16-3-2017-tang-giam-the-nao/r/21771861.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/15/70/21771861/2_234702.jpg" alt="Giá vàng ngày 16/3/2017: Tăng giảm thế nào?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-ngay-16-3-2017-tang-giam-the-nao/r/21771861.epi" title="Giá vàng ngày 16/3/2017: Tăng giảm thế nào?">Giá vàng ngày 16/3/2017: Tăng giảm thế nào?</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-15T15:56:00+07:00"></time>
+<span>
+<a href="/gia-vang-ngay-16-3-2017-tang-giam-the-nao/c/21771861.epi" title="Giá vàng ngày 16/3/2017: Tăng giảm thế nào?" class="spr spr-cache cache">Giá vàng ngày 16/3/2017: Tăng giảm thế nào?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21768600">
+<figure>
+<a target="_blank" href="/gia-vang-ngay-15-3-vang-trong-nuoc-dao-dong-trong-khoang-36-trieu-dong/r/21768600.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/15/227/21768600/2_47270.jpg" alt="Giá vàng ngày 15/3: Vàng trong nước dao động trong khoảng 36 triệu đồng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-ngay-15-3-vang-trong-nuoc-dao-dong-trong-khoang-36-trieu-dong/r/21768600.epi" title="Giá vàng ngày 15/3: Vàng trong nước dao động trong khoảng 36 triệu đồng">Giá vàng ngày 15/3: Vàng trong nước dao động trong khoảng 36 triệu đồng</a></h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-15T10:15:00+07:00"></time>
+<span>
+<a href="/gia-vang-ngay-15-3-vang-trong-nuoc-dao-dong-trong-khoang-36-trieu-dong/c/21768600.epi" title="Giá vàng ngày 15/3: Vàng trong nước dao động trong khoảng 36 triệu đồng" class="spr spr-cache cache">Giá vàng ngày 15/3: Vàng trong nước dao động trong khoảng 36 triệu đồng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21768638">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-15-03-noi-lao-doc-ngoai-binh-chan/r/21768638.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/15/267/21768638/2_80885.jpg" alt="Giá vàng hôm nay 15/03: Nội lao dốc, ngoại bình chân"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-15-03-noi-lao-doc-ngoai-binh-chan/r/21768638.epi" title="Giá vàng hôm nay 15/03: Nội lao dốc, ngoại bình chân">Giá vàng hôm nay 15/03: Nội lao dốc, ngoại bình chân</a></h2>
+<p class="meta">
+<a href="/antt.vn-bao-an-ninh-tien-te-antt/p/277.epi">ANTT</a>
+<time class="friendly" datetime="2017-03-15T09:23:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-15-03-noi-lao-doc-ngoai-binh-chan/c/21768638.epi" title="Giá vàng hôm nay 15/03: Nội lao dốc, ngoại bình chân" class="spr spr-cache cache">Giá vàng hôm nay 15/03: Nội lao dốc, ngoại bình chân</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792952" >
+<figure>
+<a target="_blank" href="/tai-chinh-dau-khi-va-vung-lay-pvn-che-giau-sai-pham-khi-mat-von/r/21792952.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/4/21792952/1_2762773.jpg" alt="Tài chính dầu khí và &#39;vũng lầy&#39; PVN: Che giấu sai phạm khi mất vốn">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/tai-chinh-dau-khi-va-vung-lay-pvn-che-giau-sai-pham-khi-mat-von/r/21792952.epi" title="Tài chính dầu khí và &#39;vũng lầy&#39; PVN: Che giấu sai phạm khi mất vốn">Tài chính dầu khí và 'vũng lầy' PVN: Che giấu sai phạm khi mất vốn</a>
+</h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T07:11:10+07:00"></time>
+<span>
+<a href="/tai-chinh-dau-khi-va-vung-lay-pvn-che-giau-sai-pham-khi-mat-von/c/21792952.epi" title="Tài chính dầu khí và &#39;vũng lầy&#39; PVN: Che giấu sai phạm khi mất vốn" class="spr spr-cache cache">Tài chính dầu khí và 'vũng lầy' PVN: Che giấu sai phạm khi mất vốn</a>
+</span>
+</p>
+<p class="summary">
+Đứng trước nguy cơ thất thoát hàng nghìn tỉ đồng vốn nhà nước, hai “mẹ con” PVFC Invest và PVFC cùng nhau thực hiện kế “kim thiền thoát xác”, tiến hành tái cấu trúc, thay tên đổi...
+</p>
+</header>
+</article>
+<article data-aid="21792784" >
+<figure>
+<a target="_blank" href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/r/21792784.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/255/21792784/2_201187.jpg" alt="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/r/21792784.epi" title="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu">VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu</a>
+</h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T06:47:00+07:00"></time>
+<span>
+<a href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/c/21792784.epi" title="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu" class="spr spr-cache cache">VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu</a>
+</span>
+</p>
+<p class="summary">
+Công ty quản lý tài sản của các tổ chức tín dụng (VAMC) cho biết đã phối hợp với các tổ chức tín dụng (TCTD) thu hồi nợ được 50.165 tỉ đồng nợ xấu thông qua nhiều hình thức.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_2" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_2" class="related-list collapse">
+<a href="/tin-lien-quan/t/2101307.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792881">
+<figure>
+<a target="_blank" href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/r/21792881.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/24/21792881/1_85452.jpg" alt="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/r/21792881.epi" title="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu">VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-17T19:32:04+07:00"></time>
+<span>
+<a href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/c/21792881.epi" title="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu" class="spr spr-cache cache">VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789771">
+<figure>
+<a target="_blank" href="/co-phieu-ngan-hang-khong-de-co-nguoi-mua/r/21789771.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/28/21789771/2_58413.jpg" alt="Cổ phiếu ngân hàng không dễ có người mua"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-ngan-hang-khong-de-co-nguoi-mua/r/21789771.epi" title="Cổ phiếu ngân hàng không dễ có người mua">Cổ phiếu ngân hàng không dễ có người mua</a></h2>
+<p class="meta">
+<a href="/www.thesaigontimes.vn-thoi-bao-kinh-te-sai-gon-saigon-times/p/112.epi">Saigon Times</a>
+<time class="friendly" datetime="2017-03-17T16:00:00+07:00"></time>
+<span>
+<a href="/co-phieu-ngan-hang-khong-de-co-nguoi-mua/c/21789771.epi" title="Cổ phiếu ngân hàng không dễ có người mua" class="spr spr-cache cache">Cổ phiếu ngân hàng không dễ có người mua</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792698" >
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/284/21792698/2_120419.jpg" alt="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a>
+</h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:33:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/c/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a>
+</span>
+</p>
+<p class="summary">
+Giá vàng thế giới chốt tuần với mức tăng. Đây là tuần lễ đầu tiên kể từ tháng 2/2017 trở lại đây, giá vàng đã ghi nhận lực tăng trong 1 tuần.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_3" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_3" class="related-list collapse">
+<a href="/tin-lien-quan/t/2025660.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792571">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/7/21792571/1_56461.jpg" alt="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790804">
+<figure>
+<a target="_blank" href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/r/21790804.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/229/21790804/4_66385.jpg" alt="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/r/21790804.epi" title="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường">Giá vàng trong nước ngày 17/3 'vội vàng lao dốc', diễn biến khó lường</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-17T18:52:00+07:00"></time>
+<span>
+<a href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/c/21790804.epi" title="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường" class="spr spr-cache cache">Giá vàng trong nước ngày 17/3 'vội vàng lao dốc', diễn biến khó lường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789591">
+<figure>
+<a target="_blank" href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/r/21789591.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/16/21789591/1_97648.jpg" alt="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/r/21789591.epi" title="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?">Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-17T14:57:00+07:00"></time>
+<span>
+<a href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/c/21789591.epi" title="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?" class="spr spr-cache cache">Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788705">
+<figure>
+<a target="_blank" href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/r/21788705.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/50/21788705/1_198951.jpg" alt="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/r/21788705.epi" title="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?">Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-17T14:14:00+07:00"></time>
+<span>
+<a href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/c/21788705.epi" title="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?" class="spr spr-cache cache">Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792571" >
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/7/21792571/1_56461.jpg" alt="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</span>
+</p>
+<p class="summary">
+Giá vàng hôm nay 18/3 tiếp tục giảm nhưng vẫn đang neo ở mức cao trong hai tuần qua do USD đang yếu và chính sách của Mỹ trong những cuộc họp gần đây.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_4" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_4" class="related-list collapse">
+<a href="/tin-lien-quan/t/2025660.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792698">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/284/21792698/2_120419.jpg" alt="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:33:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/c/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790804">
+<figure>
+<a target="_blank" href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/r/21790804.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/229/21790804/4_66385.jpg" alt="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/r/21790804.epi" title="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường">Giá vàng trong nước ngày 17/3 'vội vàng lao dốc', diễn biến khó lường</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-17T18:52:00+07:00"></time>
+<span>
+<a href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/c/21790804.epi" title="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường" class="spr spr-cache cache">Giá vàng trong nước ngày 17/3 'vội vàng lao dốc', diễn biến khó lường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789591">
+<figure>
+<a target="_blank" href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/r/21789591.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/16/21789591/1_97648.jpg" alt="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/r/21789591.epi" title="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?">Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-17T14:57:00+07:00"></time>
+<span>
+<a href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/c/21789591.epi" title="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?" class="spr spr-cache cache">Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788705">
+<figure>
+<a target="_blank" href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/r/21788705.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/50/21788705/1_198951.jpg" alt="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/r/21788705.epi" title="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?">Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-17T14:14:00+07:00"></time>
+<span>
+<a href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/c/21788705.epi" title="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?" class="spr spr-cache cache">Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792597" >
+<figure>
+<a target="_blank" href="/vi-sao-my-quyet-dinh-nang-lai-suat/r/21792597.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/271/21792597/2_91469.jpg" alt="Vì sao Mỹ quyết định nâng lãi suất?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/vi-sao-my-quyet-dinh-nang-lai-suat/r/21792597.epi" title="Vì sao Mỹ quyết định nâng lãi suất?">Vì sao Mỹ quyết định nâng lãi suất?</a>
+</h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/vi-sao-my-quyet-dinh-nang-lai-suat/c/21792597.epi" title="Vì sao Mỹ quyết định nâng lãi suất?" class="spr spr-cache cache">Vì sao Mỹ quyết định nâng lãi suất?</a>
+</span>
+</p>
+<p class="summary">
+Theo đánh giá của giới chuyên môn, yếu tố quyết định động thái tăng lãi suất của Fed bắt nguồn từ kết quả tăng trưởng kinh tế liên tục và đều đặn, số người có việc làm tăng vững,...
+</p>
+</header>
+</article>
+<article data-aid="21792539" >
+<figure>
+<a target="_blank" href="/theo-duoi-tang-truong-trung-quoc-doi-dien-nguy-co-khung-hoang/r/21792539.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/255/21792539/2_121363.jpg" alt="Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/theo-duoi-tang-truong-trung-quoc-doi-dien-nguy-co-khung-hoang/r/21792539.epi" title="Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng">Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng</a>
+</h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T05:33:00+07:00"></time>
+<span>
+<a href="/theo-duoi-tang-truong-trung-quoc-doi-dien-nguy-co-khung-hoang/c/21792539.epi" title="Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng" class="spr spr-cache cache">Theo đuổi tăng trưởng, Trung Quốc đối diện nguy cơ khủng hoảng</a>
+</span>
+</p>
+<p class="summary">
+Thủ tướng Lý Khắc Cường cho biết, mức mở rộng tín dụng của Trung Quốc trong năm 2017 khoảng 12%, con số này trên thực tế thấp hơn đáng kể so với mức độ mở rộng tín dụng của nước...
+</p>
+</header>
+</article>
+<article data-aid="21792451" >
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/r/21792451.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/105/21792451/2_111528.jpg" alt="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/r/21792451.epi" title="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng">Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng</a>
+</h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T03:45:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/c/21792451.epi" title="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng" class="spr spr-cache cache">Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng</a>
+</span>
+</p>
+<p class="summary">
+Chốt phiên giao dịch ngày 17.3, giá vàng thế giới tiếp tục tăng mạnh, kéo theo giá vàng trong nước cũng tăng theo. Các chuyên gia nhận định giá vàng hôm nay 18.3 sẽ tiếp tục tăng...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_7" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_7" class="related-list collapse">
+<a href="/tin-lien-quan/t/2072282.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21787416">
+<figure>
+<a target="_blank" href="/gia-vang-usd-cung-tang/r/21787416.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/4/21787416/1_48155.jpg" alt="Giá vàng, USD cùng tăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-usd-cung-tang/r/21787416.epi" title="Giá vàng, USD cùng tăng">Giá vàng, USD cùng tăng</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-17T11:24:55+07:00"></time>
+<span>
+<a href="/gia-vang-usd-cung-tang/c/21787416.epi" title="Giá vàng, USD cùng tăng" class="spr spr-cache cache">Giá vàng, USD cùng tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21769784">
+<figure>
+<a target="_blank" href="/gia-vang-dau-tiep-tuc-giam/r/21769784.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/15/4/21769784/1_145731.jpg" alt="Giá vàng, dầu tiếp tục giảm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-dau-tiep-tuc-giam/r/21769784.epi" title="Giá vàng, dầu tiếp tục giảm">Giá vàng, dầu tiếp tục giảm</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-15T12:25:41+07:00"></time>
+<span>
+<a href="/gia-vang-dau-tiep-tuc-giam/c/21769784.epi" title="Giá vàng, dầu tiếp tục giảm" class="spr spr-cache cache">Giá vàng, dầu tiếp tục giảm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21750805">
+<figure>
+<a target="_blank" href="/vang-va-usd-cung-tang-gia/r/21750805.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/13/289/21750805/2_70881.jpg" alt="Vàng và USD cùng tăng giá"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vang-va-usd-cung-tang-gia/r/21750805.epi" title="Vàng và USD cùng tăng giá">Vàng và USD cùng tăng giá</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-13T10:29:00+07:00"></time>
+<span>
+<a href="/vang-va-usd-cung-tang-gia/c/21750805.epi" title="Vàng và USD cùng tăng giá" class="spr spr-cache cache">Vàng và USD cùng tăng giá</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21742279">
+<figure>
+<a target="_blank" href="/quan-ly-thi-truong-vang-thuc-trang-va-giai-phap/r/21742279.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/12/215/21742279/1_1183320.jpg" alt="Quản lý thị trường vàng: Thực trạng và giải pháp"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/quan-ly-thi-truong-vang-thuc-trang-va-giai-phap/r/21742279.epi" title="Quản lý thị trường vàng: Thực trạng và giải pháp">Quản lý thị trường vàng: Thực trạng và giải pháp</a></h2>
+<p class="meta">
+<a href="/tapchitaichinh.vn-tap-chi-tai-chinh-finance-plus/p/241.epi">Finance Plus</a>
+<time class="friendly" datetime="2017-03-12T02:00:00+07:00"></time>
+<span>
+<a href="/quan-ly-thi-truong-vang-thuc-trang-va-giai-phap/c/21742279.epi" title="Quản lý thị trường vàng: Thực trạng và giải pháp" class="spr spr-cache cache">Quản lý thị trường vàng: Thực trạng và giải pháp</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792446" >
+<figure>
+<a target="_blank" href="/hoat-dong-cung-cap-dich-vu-ke-toan-qua-bien-gioi-cua-doanh-nghiep-nuoc-ngoai/r/21792446.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/215/21792446/1_100674.jpg" alt="Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hoat-dong-cung-cap-dich-vu-ke-toan-qua-bien-gioi-cua-doanh-nghiep-nuoc-ngoai/r/21792446.epi" title="Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài">Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài</a>
+</h2>
+<p class="meta">
+<a href="/tapchitaichinh.vn-tap-chi-tai-chinh-finance-plus/p/241.epi">Finance Plus</a>
+<time class="friendly" datetime="2017-03-18T03:00:00+07:00"></time>
+<span>
+<a href="/hoat-dong-cung-cap-dich-vu-ke-toan-qua-bien-gioi-cua-doanh-nghiep-nuoc-ngoai/c/21792446.epi" title="Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài" class="spr spr-cache cache">Hoạt động cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp nước ngoài</a>
+</span>
+</p>
+<p class="summary">
+Ngày 30/12/2016, Thủ tướng Chính phủ đã ban hành Nghị định số 174/2016/NĐ-CP quy định một số điều của Luật Kế toán, trong đó, đã dành riêng một mục gồm 6 điều (từ Điều 29 đến Điều...
+</p>
+</header>
+</article>
+<article data-aid="21792268" class="no-fig">
+<header>
+<h2>
+<a target="_blank" href="/thay-truoc-tranh-duoc-soc/r/21792268.epi" title="Thấy trước, tránh được &#39;sốc&#39;">Thấy trước, tránh được 'sốc'</a>
+</h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T00:22:34+07:00"></time>
+<span>
+<a href="/thay-truoc-tranh-duoc-soc/c/21792268.epi" title="Thấy trước, tránh được &#39;sốc&#39;" class="spr spr-cache cache">Thấy trước, tránh được 'sốc'</a>
+</span>
+</p>
+<p class="summary">
+Việc Cục Dự trữ Liên bang Mỹ (FED) quyết định tăng lãi suất USD thêm 0,25% lên mức 0,75-1%/năm đã được dự báo trước, nhưng lại tác động lên thị trường vàng và USD theo chiều hướng...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_9" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_9" class="related-list collapse">
+<a href="/tin-lien-quan/t/2088070.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21783263">
+<figure>
+<a target="_blank" href="/du-dinh-tang-lai-suat-3-lan-trong-nam-2017-cuoi-cung-fed-da-hoa-thanh-dieu-hau/r/21783263.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/256/21783263/1_59909.jpg" alt="Dự định tăng lãi suất 3 lần trong năm 2017, cuối cùng Fed đã hóa thành &#39;diều hâu&#39;?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/du-dinh-tang-lai-suat-3-lan-trong-nam-2017-cuoi-cung-fed-da-hoa-thanh-dieu-hau/r/21783263.epi" title="Dự định tăng lãi suất 3 lần trong năm 2017, cuối cùng Fed đã hóa thành &#39;diều hâu&#39;?">Dự định tăng lãi suất 3 lần trong năm 2017, cuối cùng Fed đã hóa thành 'diều hâu'?</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-16T21:35:08+07:00"></time>
+<span>
+<a href="/du-dinh-tang-lai-suat-3-lan-trong-nam-2017-cuoi-cung-fed-da-hoa-thanh-dieu-hau/c/21783263.epi" title="Dự định tăng lãi suất 3 lần trong năm 2017, cuối cùng Fed đã hóa thành &#39;diều hâu&#39;?" class="spr spr-cache cache">Dự định tăng lãi suất 3 lần trong năm 2017, cuối cùng Fed đã hóa thành 'diều hâu'?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21782577">
+<figure>
+<a target="_blank" href="/nhat-ban-se-khong-tang-lai-suat-theo-my/r/21782577.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/16/198/21782577/1_105290.jpg" alt="Nhật Bản sẽ không tăng lãi suất theo Mỹ"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nhat-ban-se-khong-tang-lai-suat-theo-my/r/21782577.epi" title="Nhật Bản sẽ không tăng lãi suất theo Mỹ">Nhật Bản sẽ không tăng lãi suất theo Mỹ</a></h2>
+<p class="meta">
+<a href="/baotintuc.vn-bao-tin-tuc-ttxvn-tin-tuc-ttxvn/p/294.epi">Tin Tức TTXVN</a>
+<time class="friendly" datetime="2017-03-16T19:18:00+07:00"></time>
+<span>
+<a href="/nhat-ban-se-khong-tang-lai-suat-theo-my/c/21782577.epi" title="Nhật Bản sẽ không tăng lãi suất theo Mỹ" class="spr spr-cache cache">Nhật Bản sẽ không tăng lãi suất theo Mỹ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21771690">
+<figure>
+<a target="_blank" href="/usd-lang-song-nha-dau-tu-toan-tinh-voi-vang/r/21771690.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/15/215/21771690/1_81193.jpg" alt="USD lặng sóng, nhà đầu tư toan tính với vàng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/usd-lang-song-nha-dau-tu-toan-tinh-voi-vang/r/21771690.epi" title="USD lặng sóng, nhà đầu tư toan tính với vàng">USD lặng sóng, nhà đầu tư toan tính với vàng</a></h2>
+<p class="meta">
+<a href="/tapchitaichinh.vn-tap-chi-tai-chinh-finance-plus/p/241.epi">Finance Plus</a>
+<time class="friendly" datetime="2017-03-15T16:08:00+07:00"></time>
+<span>
+<a href="/usd-lang-song-nha-dau-tu-toan-tinh-voi-vang/c/21771690.epi" title="USD lặng sóng, nhà đầu tư toan tính với vàng" class="spr spr-cache cache">USD lặng sóng, nhà đầu tư toan tính với vàng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21767495">
+<figure>
+<a target="_blank" href="/gia-vang-giam-truoc-ap-luc-dong-usd-manh/r/21767495.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/15/289/21767495/2_54909.jpg" alt="Giá vàng giảm trước áp lực đồng USD mạnh"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-giam-truoc-ap-luc-dong-usd-manh/r/21767495.epi" title="Giá vàng giảm trước áp lực đồng USD mạnh">Giá vàng giảm trước áp lực đồng USD mạnh</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-15T08:44:00+07:00"></time>
+<span>
+<a href="/gia-vang-giam-truoc-ap-luc-dong-usd-manh/c/21767495.epi" title="Giá vàng giảm trước áp lực đồng USD mạnh" class="spr spr-cache cache">Giá vàng giảm trước áp lực đồng USD mạnh</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792109" >
+<figure>
+<a target="_blank" href="/kinh-te-viet-nam-anh-huong-gi-khi-fed-tang-lai-suat/r/21792109.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/3/21792109/1_212137.jpeg" alt="Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/kinh-te-viet-nam-anh-huong-gi-khi-fed-tang-lai-suat/r/21792109.epi" title="Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?">Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?</a>
+</h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T23:14:00+07:00"></time>
+<span>
+<a href="/kinh-te-viet-nam-anh-huong-gi-khi-fed-tang-lai-suat/c/21792109.epi" title="Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?" class="spr spr-cache cache">Kinh tế Việt Nam ảnh hưởng gì khi FED tăng lãi suất?</a>
+</span>
+</p>
+<p class="summary">
+Thông tin Cục dự trữ liên bang Mỹ (FED) giữa tháng 3 có khả năng tăng lãi suất phần nào sẽ tác động đến nền kinh tế Việt Nam. Trước đây, những đợt tăng lãi suất của Mỹ thường tạo...
+</p>
+</header>
+</article>
+<article data-aid="21791777" >
+<figure>
+<a target="_blank" href="/cac-ngan-hang-tren-the-gioi-dieu-chinh-chinh-sach-sau-khi-fed-tang-lai-suat/r/21791777.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/190/21791777/1_32083.jpg" alt="Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/cac-ngan-hang-tren-the-gioi-dieu-chinh-chinh-sach-sau-khi-fed-tang-lai-suat/r/21791777.epi" title="Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất">Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất</a>
+</h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T21:41:00+07:00"></time>
+<span>
+<a href="/cac-ngan-hang-tren-the-gioi-dieu-chinh-chinh-sach-sau-khi-fed-tang-lai-suat/c/21791777.epi" title="Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất" class="spr spr-cache cache">Các ngân hàng trên thế giới điều chỉnh chính sách sau khi Fed tăng lãi suất</a>
+</span>
+</p>
+<p class="summary">
+Các ngân hàng trung ương từ Bắc Kinh (Trung Quốc), Ankara (Thổ Nhĩ Kỳ) cho tới London (Anh) đã nhanh chóng có phản ứng trước động thái thay đổi chính sách của Fed.
+</p>
+</header>
+</article>
+<article data-aid="21791242" >
+<figure>
+<a target="_blank" href="/phap-kinh-te-co-nhieu-dau-hieu-tich-cuc-giua-hang-loat-be-boi/r/21791242.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/100/21791242/1_110500.jpg" alt="Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/phap-kinh-te-co-nhieu-dau-hieu-tich-cuc-giua-hang-loat-be-boi/r/21791242.epi" title="Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối">Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối</a>
+</h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-17T19:40:00+07:00"></time>
+<span>
+<a href="/phap-kinh-te-co-nhieu-dau-hieu-tich-cuc-giua-hang-loat-be-boi/c/21791242.epi" title="Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối" class="spr spr-cache cache">Pháp: Kinh tế có nhiều dấu hiệu tích cực giữa hàng loạt bê bối</a>
+</span>
+</p>
+<p class="summary">
+Đây được xem là tin vui với người Pháp trong bối cảnh chiến dịch tranh cử tổng thống ở nước này đang diễn ra gay cấn với hàng loạt vụ bê bối bị đưa ra ánh sáng và sự nổi lên của...
+</p>
+</header>
+</article>
+<article data-aid="21791071" >
+<figure>
+<a target="_blank" href="/anh-tang-thue-giam-vay-cho-brexit/r/21791071.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/190/21791071/1_245352.jpg" alt="Anh tăng thuế, giảm vay &#39;chờ&#39; Brexit">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/anh-tang-thue-giam-vay-cho-brexit/r/21791071.epi" title="Anh tăng thuế, giảm vay &#39;chờ&#39; Brexit">Anh tăng thuế, giảm vay 'chờ' Brexit</a>
+</h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T19:36:00+07:00"></time>
+<span>
+<a href="/anh-tang-thue-giam-vay-cho-brexit/c/21791071.epi" title="Anh tăng thuế, giảm vay &#39;chờ&#39; Brexit" class="spr spr-cache cache">Anh tăng thuế, giảm vay 'chờ' Brexit</a>
+</span>
+</p>
+<p class="summary">
+Bộ trưởng tài chính Anh Philip Hammond vừa công bố kế hoạch tăng thuế và giảm khoản vay chính phủ để đối phó với cú sốc hậu Brexit.
+</p>
+</header>
+</article>
+<article data-aid="21792881" >
+<figure>
+<a target="_blank" href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/r/21792881.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/24/21792881/1_85452.jpg" alt="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/r/21792881.epi" title="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu">VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu</a>
+</h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-17T19:32:04+07:00"></time>
+<span>
+<a href="/vamc-thu-hoi-hon-50-nghin-ty-tu-no-xau/c/21792881.epi" title="VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu" class="spr spr-cache cache">VAMC thu hồi hơn 50 nghìn tỷ từ nợ xấu</a>
+</span>
+</p>
+<p class="summary">
+Theo Công ty Quản lý tài sản của các tổ chức tín dụng (VAMC), tính đến thời điểm hiện tại, sau hơn 3 năm hoạt động, VAMC đã mua tổng cộng được 25.689 khoản nợ xấu tại 42 TCTD tại...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_14" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_14" class="related-list collapse">
+<a href="/tin-lien-quan/t/2101307.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792784">
+<figure>
+<a target="_blank" href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/r/21792784.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/255/21792784/2_201187.jpg" alt="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/r/21792784.epi" title="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu">VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T06:47:00+07:00"></time>
+<span>
+<a href="/vamc-thu-hoi-duoc-hon-50-000-ti-dong-no-xau/c/21792784.epi" title="VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu" class="spr spr-cache cache">VAMC thu hồi được hơn 50.000 tỉ đồng nợ xấu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789771">
+<figure>
+<a target="_blank" href="/co-phieu-ngan-hang-khong-de-co-nguoi-mua/r/21789771.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/28/21789771/2_58413.jpg" alt="Cổ phiếu ngân hàng không dễ có người mua"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-ngan-hang-khong-de-co-nguoi-mua/r/21789771.epi" title="Cổ phiếu ngân hàng không dễ có người mua">Cổ phiếu ngân hàng không dễ có người mua</a></h2>
+<p class="meta">
+<a href="/www.thesaigontimes.vn-thoi-bao-kinh-te-sai-gon-saigon-times/p/112.epi">Saigon Times</a>
+<time class="friendly" datetime="2017-03-17T16:00:00+07:00"></time>
+<span>
+<a href="/co-phieu-ngan-hang-khong-de-co-nguoi-mua/c/21789771.epi" title="Cổ phiếu ngân hàng không dễ có người mua" class="spr spr-cache cache">Cổ phiếu ngân hàng không dễ có người mua</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790983" >
+<figure>
+<a target="_blank" href="/my-buc-tranh-lac-quan-cua-nen-kinh-te-qua-cac-so-lieu-moi-nhat/r/21790983.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/285/21790983/2_27561.jpg" alt="Mỹ: Bức tranh lạc quan của nền kinh tế qua các số liệu mới nhất">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/my-buc-tranh-lac-quan-cua-nen-kinh-te-qua-cac-so-lieu-moi-nhat/r/21790983.epi" title="Mỹ: Bức tranh lạc quan của nền kinh tế qua các số liệu mới nhất">Mỹ: Bức tranh lạc quan của nền kinh tế qua các số liệu mới nhất</a>
+</h2>
+<p class="meta">
+<a href="/bnews.vn-bnews/p/324.epi">Bnews</a>
+<time class="friendly" datetime="2017-03-17T19:10:00+07:00"></time>
+<span>
+<a href="/my-buc-tranh-lac-quan-cua-nen-kinh-te-qua-cac-so-lieu-moi-nhat/c/21790983.epi" title="Mỹ: Bức tranh lạc quan của nền kinh tế qua các số liệu mới nhất" class="spr spr-cache cache">Mỹ: Bức tranh lạc quan của nền kinh tế qua các số liệu mới nhất</a>
+</span>
+</p>
+<p class="summary">
+Nền kinh tế Mỹ đang phát đi những tín hiệu tích cực khi một loạt các chỉ số kinh tế lạc quan được công bố ngày 16/3.
+</p>
+</header>
+</article>
+<article data-aid="21790804" >
+<figure>
+<a target="_blank" href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/r/21790804.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/229/21790804/4_66385.jpg" alt="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/r/21790804.epi" title="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường">Giá vàng trong nước ngày 17/3 'vội vàng lao dốc', diễn biến khó lường</a>
+</h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-17T18:52:00+07:00"></time>
+<span>
+<a href="/gia-vang-trong-nuoc-ngay-17-3-voi-vang-lao-doc-dien-bien-kho-luong/c/21790804.epi" title="Giá vàng trong nước ngày 17/3 &#39;vội vàng lao dốc&#39;, diễn biến khó lường" class="spr spr-cache cache">Giá vàng trong nước ngày 17/3 'vội vàng lao dốc', diễn biến khó lường</a>
+</span>
+</p>
+<p class="summary">
+Giá vàng hôm nay ngày 17/3/2017 bất ngờ giảm sau khi tăng mạnh vào hôm qua. Giá vàng trong nước dao động quanh ngưỡng 36,55 triệu đồng/lượng.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_16" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_16" class="related-list collapse">
+<a href="/tin-lien-quan/t/2025660.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792698">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/284/21792698/2_120419.jpg" alt="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:33:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/c/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792571">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/7/21792571/1_56461.jpg" alt="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789591">
+<figure>
+<a target="_blank" href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/r/21789591.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/16/21789591/1_97648.jpg" alt="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/r/21789591.epi" title="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?">Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-17T14:57:00+07:00"></time>
+<span>
+<a href="/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/c/21789591.epi" title="Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?" class="spr spr-cache cache">Giá vàng lên mạnh dù lãi suất USD tăng, vì sao?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788705">
+<figure>
+<a target="_blank" href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/r/21788705.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/50/21788705/1_198951.jpg" alt="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/r/21788705.epi" title="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?">Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-17T14:14:00+07:00"></time>
+<span>
+<a href="/dola-my-giam-bat-thuong-vang-tro-lai-thoi-huy-hoang/c/21788705.epi" title="Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?" class="spr spr-cache cache">Đôla Mỹ giảm bất thường, vàng trở lại thời huy hoàng ?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790791" >
+<figure>
+<a target="_blank" href="/doanh-nghiep-24h-co-hay-khong-lo-hong-trong-co-phan-hoa-tai-dien-quang/r/21790791.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/256/21790791/1_451042.png" alt="Doanh nghiệp 24h: Có hay không lỗ hổng trong cổ phần hóa tại Điện Quang?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/doanh-nghiep-24h-co-hay-khong-lo-hong-trong-co-phan-hoa-tai-dien-quang/r/21790791.epi" title="Doanh nghiệp 24h: Có hay không lỗ hổng trong cổ phần hóa tại Điện Quang?">Doanh nghiệp 24h: Có hay không lỗ hổng trong cổ phần hóa tại Điện Quang?</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T18:47:00+07:00"></time>
+<span>
+<a href="/doanh-nghiep-24h-co-hay-khong-lo-hong-trong-co-phan-hoa-tai-dien-quang/c/21790791.epi" title="Doanh nghiệp 24h: Có hay không lỗ hổng trong cổ phần hóa tại Điện Quang?" class="spr spr-cache cache">Doanh nghiệp 24h: Có hay không lỗ hổng trong cổ phần hóa tại Điện Quang?</a>
+</span>
+</p>
+<p class="summary">
+Hiện tượng thâu tóm cổ phần tại CTCP Điện Quang là do quá trình thực hiện bán vốn tại công ty cổ phần...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_17" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_17" class="related-list collapse">
+<a href="/tin-lien-quan/t/2096306.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21785577">
+<figure>
+<a target="_blank" href="/bo-tai-chinh-ly-giai-tai-san-khung-cua-ba-ho-thi-kim-thoa/r/21785577.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/301/21785577/2_90571.jpg" alt="Bộ Tài chính lý giải tài sản khủng của bà Hồ Thị Kim Thoa"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bo-tai-chinh-ly-giai-tai-san-khung-cua-ba-ho-thi-kim-thoa/r/21785577.epi" title="Bộ Tài chính lý giải tài sản khủng của bà Hồ Thị Kim Thoa">Bộ Tài chính lý giải tài sản khủng của bà Hồ Thị Kim Thoa</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-17T08:49:00+07:00"></time>
+<span>
+<a href="/bo-tai-chinh-ly-giai-tai-san-khung-cua-ba-ho-thi-kim-thoa/c/21785577.epi" title="Bộ Tài chính lý giải tài sản khủng của bà Hồ Thị Kim Thoa" class="spr spr-cache cache">Bộ Tài chính lý giải tài sản khủng của bà Hồ Thị Kim Thoa</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21785008">
+<figure>
+<a target="_blank" href="/bo-tai-chinh-noi-ve-so-huu-co-phan-lon-cua-thu-truong-kim-thoa/r/21785008.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/7/21785008/2_56527.jpg" alt="Bộ Tài chính nói về sở hữu cổ phần lớn của Thứ trưởng Kim Thoa"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bo-tai-chinh-noi-ve-so-huu-co-phan-lon-cua-thu-truong-kim-thoa/r/21785008.epi" title="Bộ Tài chính nói về sở hữu cổ phần lớn của Thứ trưởng Kim Thoa">Bộ Tài chính nói về sở hữu cổ phần lớn của Thứ trưởng Kim Thoa</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-17T07:45:00+07:00"></time>
+<span>
+<a href="/bo-tai-chinh-noi-ve-so-huu-co-phan-lon-cua-thu-truong-kim-thoa/c/21785008.epi" title="Bộ Tài chính nói về sở hữu cổ phần lớn của Thứ trưởng Kim Thoa" class="spr spr-cache cache">Bộ Tài chính nói về sở hữu cổ phần lớn của Thứ trưởng Kim Thoa</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21783518">
+<figure>
+<a target="_blank" href="/gia-dinh-thu-truong-kim-thoa-thau-tom-co-phan-dien-quang-ra-sao/r/21783518.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/70/21783518/1_49716.jpg" alt="Gia đình Thứ trưởng Kim Thoa &#39;thâu tóm&#39; cổ phần Điện Quang ra sao?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-dinh-thu-truong-kim-thoa-thau-tom-co-phan-dien-quang-ra-sao/r/21783518.epi" title="Gia đình Thứ trưởng Kim Thoa &#39;thâu tóm&#39; cổ phần Điện Quang ra sao?">Gia đình Thứ trưởng Kim Thoa 'thâu tóm' cổ phần Điện Quang ra sao?</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-16T22:26:00+07:00"></time>
+<span>
+<a href="/gia-dinh-thu-truong-kim-thoa-thau-tom-co-phan-dien-quang-ra-sao/c/21783518.epi" title="Gia đình Thứ trưởng Kim Thoa &#39;thâu tóm&#39; cổ phần Điện Quang ra sao?" class="spr spr-cache cache">Gia đình Thứ trưởng Kim Thoa 'thâu tóm' cổ phần Điện Quang ra sao?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21783543">
+<figure>
+<a target="_blank" href="/tai-san-gia-dinh-thu-truong-thoa-con-chau-co-the-bo-tien-tui-mua/r/21783543.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/16/21/21783543/1_103109.jpg" alt="Tài sản gia đình Thứ trưởng Thoa: &#39;Con cháu có thể bỏ tiền túi mua&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tai-san-gia-dinh-thu-truong-thoa-con-chau-co-the-bo-tien-tui-mua/r/21783543.epi" title="Tài sản gia đình Thứ trưởng Thoa: &#39;Con cháu có thể bỏ tiền túi mua&#39;">Tài sản gia đình Thứ trưởng Thoa: 'Con cháu có thể bỏ tiền túi mua'</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-16T22:21:00+07:00"></time>
+<span>
+<a href="/tai-san-gia-dinh-thu-truong-thoa-con-chau-co-the-bo-tien-tui-mua/c/21783543.epi" title="Tài sản gia đình Thứ trưởng Thoa: &#39;Con cháu có thể bỏ tiền túi mua&#39;" class="spr spr-cache cache">Tài sản gia đình Thứ trưởng Thoa: 'Con cháu có thể bỏ tiền túi mua'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790824" >
+<figure>
+<a target="_blank" href="/vi-sao-thi-truong-vang-khong-theo-quy-luat-khi-fed-nang-lai-suat/r/21790824.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/100/21790824/1_80468.jpg" alt="Vì sao thị trường vàng không theo quy luật khi Fed nâng lãi suất?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/vi-sao-thi-truong-vang-khong-theo-quy-luat-khi-fed-nang-lai-suat/r/21790824.epi" title="Vì sao thị trường vàng không theo quy luật khi Fed nâng lãi suất?">Vì sao thị trường vàng không theo quy luật khi Fed nâng lãi suất?</a>
+</h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-17T18:45:00+07:00"></time>
+<span>
+<a href="/vi-sao-thi-truong-vang-khong-theo-quy-luat-khi-fed-nang-lai-suat/c/21790824.epi" title="Vì sao thị trường vàng không theo quy luật khi Fed nâng lãi suất?" class="spr spr-cache cache">Vì sao thị trường vàng không theo quy luật khi Fed nâng lãi suất?</a>
+</span>
+</p>
+<p class="summary">
+Sau thông tin Cục Dự trữ Liên bang Mỹ (Fed) nâng lãi suất vào ngày hôm qua (16/3), thị trường vàng đã diễn biến không như quy luật.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_18" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_18" class="related-list collapse">
+<a href="/tin-lien-quan/t/2094213.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21788823">
+<figure>
+<a target="_blank" href="/vang-trong-nuoc-tang-khong-theo-kip-the-gioi/r/21788823.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/271/21788823/2_84504.jpg" alt="Vàng trong nước tăng không theo kịp thế giới"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vang-trong-nuoc-tang-khong-theo-kip-the-gioi/r/21788823.epi" title="Vàng trong nước tăng không theo kịp thế giới">Vàng trong nước tăng không theo kịp thế giới</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-17T14:38:48+07:00"></time>
+<span>
+<a href="/vang-trong-nuoc-tang-khong-theo-kip-the-gioi/c/21788823.epi" title="Vàng trong nước tăng không theo kịp thế giới" class="spr spr-cache cache">Vàng trong nước tăng không theo kịp thế giới</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21785987">
+<figure>
+<a target="_blank" href="/vang-tang-nha-dau-tu-van-day-manh-mua-vao/r/21785987.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/27/21785987/2_53589.jpg" alt="Vàng tăng, nhà đầu tư vẫn đẩy mạnh mua vào"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vang-tang-nha-dau-tu-van-day-manh-mua-vao/r/21785987.epi" title="Vàng tăng, nhà đầu tư vẫn đẩy mạnh mua vào">Vàng tăng, nhà đầu tư vẫn đẩy mạnh mua vào</a></h2>
+<p class="meta">
+<a href="/ktdt.com.vn-bao-kinh-te-do-thi-ktdt/p/11.epi">KTĐT</a>
+<time class="friendly" datetime="2017-03-17T09:14:00+07:00"></time>
+<span>
+<a href="/vang-tang-nha-dau-tu-van-day-manh-mua-vao/c/21785987.epi" title="Vàng tăng, nhà đầu tư vẫn đẩy mạnh mua vào" class="spr spr-cache cache">Vàng tăng, nhà đầu tư vẫn đẩy mạnh mua vào</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21785621">
+<figure>
+<a target="_blank" href="/gia-vang-tiep-tuc-tang/r/21785621.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/289/21785621/2_78015.jpg" alt="Giá vàng tiếp tục tăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-tiep-tuc-tang/r/21785621.epi" title="Giá vàng tiếp tục tăng">Giá vàng tiếp tục tăng</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-17T08:43:00+07:00"></time>
+<span>
+<a href="/gia-vang-tiep-tuc-tang/c/21785621.epi" title="Giá vàng tiếp tục tăng" class="spr spr-cache cache">Giá vàng tiếp tục tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21784034">
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-17-3-tiep-tuc-tang-manh/r/21784034.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/105/21784034/2_130432.jpg" alt="Giá vàng hôm nay 17.3: Tiếp tục tăng mạnh"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-17-3-tiep-tuc-tang-manh/r/21784034.epi" title="Giá vàng hôm nay 17.3: Tiếp tục tăng mạnh">Giá vàng hôm nay 17.3: Tiếp tục tăng mạnh</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-17T03:45:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-17-3-tiep-tuc-tang-manh/c/21784034.epi" title="Giá vàng hôm nay 17.3: Tiếp tục tăng mạnh" class="spr spr-cache cache">Giá vàng hôm nay 17.3: Tiếp tục tăng mạnh</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790830" >
+<figure>
+<a target="_blank" href="/quyet-dinh-nang-lai-suat-co-ban-cua-fed-se-anh-huong-khong-lon-den-vnd/r/21790830.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/100/21790830/1_51151.jpg" alt="Quyết định nâng lãi suất cơ bản của FED sẽ ảnh hưởng không lớn đến VND">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/quyet-dinh-nang-lai-suat-co-ban-cua-fed-se-anh-huong-khong-lon-den-vnd/r/21790830.epi" title="Quyết định nâng lãi suất cơ bản của FED sẽ ảnh hưởng không lớn đến VND">Quyết định nâng lãi suất cơ bản của FED sẽ ảnh hưởng không lớn đến VND</a>
+</h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-17T18:29:00+07:00"></time>
+<span>
+<a href="/quyet-dinh-nang-lai-suat-co-ban-cua-fed-se-anh-huong-khong-lon-den-vnd/c/21790830.epi" title="Quyết định nâng lãi suất cơ bản của FED sẽ ảnh hưởng không lớn đến VND" class="spr spr-cache cache">Quyết định nâng lãi suất cơ bản của FED sẽ ảnh hưởng không lớn đến VND</a>
+</span>
+</p>
+<p class="summary">
+Giới phân tích cho rằng, việc FED nâng lãi suất sẽ ít ảnh hưởng tỷ giá trong nước cũng như lãi suất tiền đồng tại thời điểm này.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_19" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_19" class="related-list collapse">
+<a href="/tin-lien-quan/t/2090599.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21786336">
+<figure>
+<a target="_blank" href="/gia-vang-sjc-quay-dau-ha-nhiet/r/21786336.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/256/21786336/2_70472.png" alt="Giá vàng SJC quay đầu &#39;hạ nhiệt&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-sjc-quay-dau-ha-nhiet/r/21786336.epi" title="Giá vàng SJC quay đầu &#39;hạ nhiệt&#39;">Giá vàng SJC quay đầu 'hạ nhiệt'</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T09:47:20+07:00"></time>
+<span>
+<a href="/gia-vang-sjc-quay-dau-ha-nhiet/c/21786336.epi" title="Giá vàng SJC quay đầu &#39;hạ nhiệt&#39;" class="spr spr-cache cache">Giá vàng SJC quay đầu 'hạ nhiệt'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21784894">
+<figure>
+<a target="_blank" href="/dong-usd-giam-gia-2-phien-lien-tiep/r/21784894.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/256/21784894/3_62285.jpg" alt="Đồng USD giảm giá 2 phiên liên tiếp"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dong-usd-giam-gia-2-phien-lien-tiep/r/21784894.epi" title="Đồng USD giảm giá 2 phiên liên tiếp">Đồng USD giảm giá 2 phiên liên tiếp</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T07:35:41+07:00"></time>
+<span>
+<a href="/dong-usd-giam-gia-2-phien-lien-tiep/c/21784894.epi" title="Đồng USD giảm giá 2 phiên liên tiếp" class="spr spr-cache cache">Đồng USD giảm giá 2 phiên liên tiếp</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21784945">
+<figure>
+<a target="_blank" href="/cuc-du-tru-lien-bang-my-tang-lai-suat-co-ban/r/21784945.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/16/21784945/1_59583.jpg" alt="Cục dự trữ Liên bang Mỹ tăng lãi suất cơ bản"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cuc-du-tru-lien-bang-my-tang-lai-suat-co-ban/r/21784945.epi" title="Cục dự trữ Liên bang Mỹ tăng lãi suất cơ bản">Cục dự trữ Liên bang Mỹ tăng lãi suất cơ bản</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-17T06:18:00+07:00"></time>
+<span>
+<a href="/cuc-du-tru-lien-bang-my-tang-lai-suat-co-ban/c/21784945.epi" title="Cục dự trữ Liên bang Mỹ tăng lãi suất cơ bản" class="spr spr-cache cache">Cục dự trữ Liên bang Mỹ tăng lãi suất cơ bản</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21784056">
+<figure>
+<a target="_blank" href="/ty-gia-giam-manh-gia-vang-tang/r/21784056.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/52/21784056/1_202389.jpg" alt="Tỷ giá giảm mạnh, giá vàng tăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ty-gia-giam-manh-gia-vang-tang/r/21784056.epi" title="Tỷ giá giảm mạnh, giá vàng tăng">Tỷ giá giảm mạnh, giá vàng tăng</a></h2>
+<p class="meta">
+<a href="/nhandan.com.vn-bao-nhan-dan-nhan-dan/p/14.epi">Nhân Dân</a>
+<time class="friendly" datetime="2017-03-17T03:22:53+07:00"></time>
+<span>
+<a href="/ty-gia-giam-manh-gia-vang-tang/c/21784056.epi" title="Tỷ giá giảm mạnh, giá vàng tăng" class="spr spr-cache cache">Tỷ giá giảm mạnh, giá vàng tăng</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790619" >
+<figure>
+<a target="_blank" href="/ctcp-chung-khoan-sai-gon-bi-truy-thu-va-phat-gan-300-trieu-dong-tien-thue/r/21790619.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/272/21790619/1_294958.jpg" alt="CTCP Chứng khoán Sài Gòn bị truy thu và phạt gần 300 triệu đồng tiền thuế">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ctcp-chung-khoan-sai-gon-bi-truy-thu-va-phat-gan-300-trieu-dong-tien-thue/r/21790619.epi" title="CTCP Chứng khoán Sài Gòn bị truy thu và phạt gần 300 triệu đồng tiền thuế">CTCP Chứng khoán Sài Gòn bị truy thu và phạt gần 300 triệu đồng tiền thuế</a>
+</h2>
+<p class="meta">
+<a href="/www.nguoitieudung.com.vn-bao-nguoi-tieu-dung-nguoi-tieu-dung/p/305.epi">Người Tiêu Dùng</a>
+<time class="friendly" datetime="2017-03-17T18:25:00+07:00"></time>
+<span>
+<a href="/ctcp-chung-khoan-sai-gon-bi-truy-thu-va-phat-gan-300-trieu-dong-tien-thue/c/21790619.epi" title="CTCP Chứng khoán Sài Gòn bị truy thu và phạt gần 300 triệu đồng tiền thuế" class="spr spr-cache cache">CTCP Chứng khoán Sài Gòn bị truy thu và phạt gần 300 triệu đồng tiền thuế</a>
+</span>
+</p>
+<p class="summary">
+Cục thuế TP.HCM vừa quyết định xử phạt vi phạm hành chính về thuế đối với CTCP Chứng khoán Sài Gòn (SSI). Nguyên nhân là do SSI kê sai dẫn đến giảm số thuế TNDN phải nộp trong giai...
+</p>
+</header>
+</article>
+<article data-aid="21790590" >
+<figure>
+<a target="_blank" href="/bang-xep-hang-5-ngan-hang-co-phan-tu-nhan-lon-nhat/r/21790590.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/282/21790590/6_303101.jpg" alt="Bảng xếp hạng 5 ngân hàng cổ phần tư nhân lớn nhất">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bang-xep-hang-5-ngan-hang-co-phan-tu-nhan-lon-nhat/r/21790590.epi" title="Bảng xếp hạng 5 ngân hàng cổ phần tư nhân lớn nhất">Bảng xếp hạng 5 ngân hàng cổ phần tư nhân lớn nhất</a>
+</h2>
+<p class="meta">
+<a href="/tieudungplus.vn-tieu-dung-plus/p/317.epi">Tiêu Dùng Plus</a>
+<time class="friendly" datetime="2017-03-17T18:11:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/bang-xep-hang-5-ngan-hang-co-phan-tu-nhan-lon-nhat/c/21790590.epi" title="Bảng xếp hạng 5 ngân hàng cổ phần tư nhân lớn nhất" class="spr spr-cache cache">Bảng xếp hạng 5 ngân hàng cổ phần tư nhân lớn nhất</a>
+</span>
+</p>
+<p class="summary">
+Sau những cuộc sáp nhập, tái cấu trúc mạnh mẽ, có ngân hàng sẽ lọt top 5 ngân hàng cổ phần (NHCP) tư nhân xét về năng lực tài chính song lại không có tên trong nhóm 5 NH tư nhân có...
+</p>
+</header>
+</article>
+<article data-aid="21790571" >
+<figure>
+<a target="_blank" href="/dau-gia-bien-so-dep-luat-su-len-tieng/r/21790571.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/24/21790571/1_104054.jpg" alt="Đấu giá biển số đẹp: Luật sư lên tiếng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/dau-gia-bien-so-dep-luat-su-len-tieng/r/21790571.epi" title="Đấu giá biển số đẹp: Luật sư lên tiếng">Đấu giá biển số đẹp: Luật sư lên tiếng</a>
+</h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-17T18:00:00+07:00"></time>
+<span>
+<a href="/dau-gia-bien-so-dep-luat-su-len-tieng/c/21790571.epi" title="Đấu giá biển số đẹp: Luật sư lên tiếng" class="spr spr-cache cache">Đấu giá biển số đẹp: Luật sư lên tiếng</a>
+</span>
+</p>
+<p class="summary">
+Theo quan điểm của luật sư, việc đấu giá biển số đẹp sẽ gặp khó khăn do pháp luật Việt Nam chưa coi biển số xe là tài sản nên chưa thể đấu giá.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_22" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_22" class="related-list collapse">
+<a href="/tin-lien-quan/t/2054920.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21776115">
+<figure>
+<a target="_blank" href="/vnpt-lo-thoai-von-ngoai-nganh-se-khong-kha-quan/r/21776115.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/16/21/21776115/1_52060.jpg" alt="VNPT lo thoái vốn ngoài ngành sẽ không khả quan"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vnpt-lo-thoai-von-ngoai-nganh-se-khong-kha-quan/r/21776115.epi" title="VNPT lo thoái vốn ngoài ngành sẽ không khả quan">VNPT lo thoái vốn ngoài ngành sẽ không khả quan</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-16T08:19:00+07:00"></time>
+<span>
+<a href="/vnpt-lo-thoai-von-ngoai-nganh-se-khong-kha-quan/c/21776115.epi" title="VNPT lo thoái vốn ngoài ngành sẽ không khả quan" class="spr spr-cache cache">VNPT lo thoái vốn ngoài ngành sẽ không khả quan</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21768984">
+<figure>
+<a target="_blank" href="/vamc-da-mua-hon-282-000-ti-dong-no-xau/r/21768984.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/15/28/21768984/3_59961.jpg" alt="VAMC đã mua hơn 282.000 tỉ đồng nợ xấu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vamc-da-mua-hon-282-000-ti-dong-no-xau/r/21768984.epi" title="VAMC đã mua hơn 282.000 tỉ đồng nợ xấu">VAMC đã mua hơn 282.000 tỉ đồng nợ xấu</a></h2>
+<p class="meta">
+<a href="/www.thesaigontimes.vn-thoi-bao-kinh-te-sai-gon-saigon-times/p/112.epi">Saigon Times</a>
+<time class="friendly" datetime="2017-03-15T10:53:00+07:00"></time>
+<span>
+<a href="/vamc-da-mua-hon-282-000-ti-dong-no-xau/c/21768984.epi" title="VAMC đã mua hơn 282.000 tỉ đồng nợ xấu" class="spr spr-cache cache">VAMC đã mua hơn 282.000 tỉ đồng nợ xấu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21757745">
+<figure>
+<a target="_blank" href="/quy-dinh-xac-dinh-gia-khoi-diem-cua-no-xau-khi-dau-gia/r/21757745.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/289/21757745/2_1223415.jpg" alt="Quy định xác định giá khởi điểm của nợ xấu khi đấu giá"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/quy-dinh-xac-dinh-gia-khoi-diem-cua-no-xau-khi-dau-gia/r/21757745.epi" title="Quy định xác định giá khởi điểm của nợ xấu khi đấu giá">Quy định xác định giá khởi điểm của nợ xấu khi đấu giá</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-14T07:30:00+07:00"></time>
+<span>
+<a href="/quy-dinh-xac-dinh-gia-khoi-diem-cua-no-xau-khi-dau-gia/c/21757745.epi" title="Quy định xác định giá khởi điểm của nợ xấu khi đấu giá" class="spr spr-cache cache">Quy định xác định giá khởi điểm của nợ xấu khi đấu giá</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21749089">
+<figure>
+<a target="_blank" href="/tranh-keo-dai-thoi-gian-e-am-cua-no-xau/r/21749089.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/13/21/21749089/1_47080.jpg" alt="Tránh kéo dài thời gian &#39;ế ẩm&#39; của nợ xấu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tranh-keo-dai-thoi-gian-e-am-cua-no-xau/r/21749089.epi" title="Tránh kéo dài thời gian &#39;ế ẩm&#39; của nợ xấu">Tránh kéo dài thời gian 'ế ẩm' của nợ xấu</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-13T07:42:00+07:00"></time>
+<span>
+<a href="/tranh-keo-dai-thoi-gian-e-am-cua-no-xau/c/21749089.epi" title="Tránh kéo dài thời gian &#39;ế ẩm&#39; của nợ xấu" class="spr spr-cache cache">Tránh kéo dài thời gian 'ế ẩm' của nợ xấu</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21791322" >
+<figure>
+<a target="_blank" href="/lai-suat-hap-dan-voi-chung-chi-tien-ghi-danh/r/21791322.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/22/21791322/2_82806.jpg" alt="Lãi suất hấp dẫn với Chứng chỉ tiền ghi danh">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/lai-suat-hap-dan-voi-chung-chi-tien-ghi-danh/r/21791322.epi" title="Lãi suất hấp dẫn với Chứng chỉ tiền ghi danh">Lãi suất hấp dẫn với Chứng chỉ tiền ghi danh</a>
+</h2>
+<p class="meta">
+<a href="/cand.com.vn-bao-cong-an-nhan-dan-cand/p/5.epi">CAND</a>
+<time class="friendly" datetime="2017-03-17T17:57:00+07:00"></time>
+<span>
+<a href="/lai-suat-hap-dan-voi-chung-chi-tien-ghi-danh/c/21791322.epi" title="Lãi suất hấp dẫn với Chứng chỉ tiền ghi danh" class="spr spr-cache cache">Lãi suất hấp dẫn với Chứng chỉ tiền ghi danh</a>
+</span>
+</p>
+<p class="summary">
+Chứng chỉ tiền gửi ghi danh là một trong những kênh đầu tư ưa thích của nhiều khách hàng có nguồn tài chính lớn bởi nó được đánh giá cáo bởi sự an toàn và linh hoạt cho người sử...
+</p>
+</header>
+</article>
+<div class="pagination pagination-centered">
+<span id="main_PagingList1_pager"><a class="active">1</a><a href="/tai-chinh/trang2.epi">2</a><a href="/tai-chinh/trang3.epi">3</a><a href="/tai-chinh/trang4.epi">4</a><a href="/tai-chinh/trang5.epi">5</a><a href="/tai-chinh/trang6.epi">6</a><a href="/tai-chinh/trang7.epi">...</a><a href="/tai-chinh/trang100.epi">100</a><a id="main_PagingList1_pager_nextControl" href="/tai-chinh/trang2.epi">»</a></span>
+</div>
+</section>
+<aside>
+<div class="topics" data-track="|clusters">
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_0" href="/gia-vang/gt/1339239.epi">Giá vàng</a>
+</header>
+<article data-aid="21793334" >
+<figure>
+<a target="_blank" href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/r/21793334.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/227/21793334/2_33739.jpg" alt="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/r/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng">Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng</a></h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-18T07:54:00+07:00"></time>
+<span>
+<a href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/c/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng" class="spr spr-cache cache">Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792698" >
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/284/21792698/2_120419.jpg" alt="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:33:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/c/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792571" >
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/7/21792571/1_56461.jpg" alt="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792451" >
+<figure>
+<a target="_blank" href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/r/21792451.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/105/21792451/2_111528.jpg" alt="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/r/21792451.epi" title="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng">Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T03:45:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-tien-sat-moc-37-trieu-dong-luong/c/21792451.epi" title="Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng" class="spr spr-cache cache">Giá vàng hôm nay 18.3: Tiến sát mốc 37 triệu đồng/lượng</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</div>
+<section class="zone" data-track="|popular">
+<header><a href="/tin-nong.epi">Tin nóng</a></header>
+<article data-aid="21792678" >
+<figure>
+<a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/100/21792678/1_138362.jpg" alt="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T06:15:00+07:00"></time>
+<span>
+<a href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/c/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La" class="spr spr-cache cache">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793191" >
+<header>
+<h2><a target="_blank" href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/r/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:44:08+07:00"></time>
+<span>
+<a href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/c/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017" class="spr spr-cache cache">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792503" >
+<header>
+<h2><a target="_blank" href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T05:04:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/c/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục" class="spr spr-cache cache">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792925" >
+<header>
+<h2><a target="_blank" href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/r/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:05:00+07:00"></time>
+<span>
+<a href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/c/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?" class="spr spr-cache cache">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792758" >
+<header>
+<h2><a target="_blank" href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T06:38:00+07:00"></time>
+<span>
+<a href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/c/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?" class="spr spr-cache cache">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792564" >
+<header>
+<h2><a target="_blank" href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/r/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/c/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột" class="spr spr-cache cache">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<header>
+<h2><a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792830" >
+<header>
+<h2><a target="_blank" href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/c/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt" class="spr spr-cache cache">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792702" >
+<header>
+<h2><a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:10:00+07:00"></time>
+<span>
+<a href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/c/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" class="spr spr-cache cache">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<header>
+<h2><a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-cache cache">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</aside>
+</div>
+</section>
+<section class="sidebar">
+<div class="fyi-300 nocontent robots-nocontent" style="display:none;" id="BaoMoi_HalfPage"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R1"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R2"></div>
+<section id="photo-box" data-track="|video">
+<header>
+<h6>
+<a href="/tin-video.epi">Video</a>
+</h6>
+</header>
+<div class="slider">
+<article data-aid="21793255" >
+<figure>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/293/21793255/4_366004.png" alt="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">
+</a>
+</figure>
+<header>
+<h2><a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-18T08:00:17+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/r/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?" class="spr spr-more" target="_blank">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">
+</a>
+</figure>
+<header>
+<h2><a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-more" target="_blank">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793200" >
+<figure>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/255/21793200/3_154934.jpg" alt="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">
+</a>
+</figure>
+<header>
+<h2><a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/r/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh" class="spr spr-more" target="_blank">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793119" >
+<figure>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/88/21793119/3_70096.jpg" alt="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">
+</a>
+</figure>
+<header>
+<h2><a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:40:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/r/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương" class="spr spr-more" target="_blank">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793101" >
+<figure>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/139/21793101/1_37764.jpg" alt="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+</a>
+</figure>
+<header>
+<h2><a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-more" target="_blank">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793240" >
+<figure>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/301/21793240/1_144150.jpg" alt="Một tháng trong quân ngũ của Á khôi áo dài">
+</a>
+</figure>
+<header>
+<h2><a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài">Một tháng trong quân ngũ của Á khôi áo dài</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/r/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài" class="spr spr-more" target="_blank">Một tháng trong quân ngũ của Á khôi áo dài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793205" >
+<figure>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/66/21793205/2_91393.jpg" alt="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">
+</a>
+</figure>
+<header>
+<h2><a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-18T07:31:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/r/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ" class="spr spr-more" target="_blank">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793074" >
+<figure>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/25/21793074/2_67136.jpg" alt="Mỹ công bố 750 video thử nghiệm bom hạt nhân">
+</a>
+</figure>
+<header>
+<h2><a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:29:52+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/r/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân" class="spr spr-more" target="_blank">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793192" >
+<figure>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+</a>
+</figure>
+<header>
+<h2><a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-more" target="_blank">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793140" >
+<figure>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">
+</a>
+</figure>
+<header>
+<h2><a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-more" target="_blank">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<section class="top-story">
+<ul class=" tab-header">
+<li class="active"><a href="#most-read" data-toggle="tab">Nóng trong ngày</a></li>
+<li><a href="#most-read7" data-toggle="tab">Trong tuần</a></li>
+</ul>
+<div id="top-story" class="tab-content">
+<div class="tab-pane active" id="most-read" data-track="|mostread">
+</div>
+<div class="tab-pane fade" id="most-read7" data-track="|mostread7">
+</div>
+</div>
+</section>
+<section class="social-idx">
+<header>
+<h6><a href="javascript:;">Theo dõi Báo Mới</a></h6>
+</header>
+<div class="social">
+<a href="https://www.facebook.com/baomoi/" target="_blank" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Fanpage</span>
+</a>
+<a href="https://www.facebook.com/baomoigiaitri/" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Giải Trí</span>
+</a>
+<a href="https://noti.baomoi.com/" target="_blank" class="noti">
+<span><i class="spr social-noti"></i></span>
+<span>Gửi tin nóng<br>
+cho bạn</span>
+</a>
+<a href="https://plus.google.com/+baomoi/posts" target="_blank" class="gplus">
+<span><i class="spr social-gplus"></i></span>
+<span>Google<br>
+Plus</span>
+</a>
+</div>
+</section>
+<section id="trending-list" data-track="|trending">
+<header>
+<h6>
+<a href="javascript:;">Xu hướng</a>
+</h6>
+</header>
+<div class="trending">
+<span class="down w6"><a href="/tag/vietcombank.epi">vietcombank</a></span>
+<span class="down w13"><a href="/tag/vàng-sjc.epi">vàng sjc</a></span>
+<span class="down w10"><a href="/tag/chính-sách-tiền-tệ.epi">chính sách tiền tệ</a></span>
+<span class=" w7"><a href="/tag/ctck-sài-gòn.epi">CTCK Sài Gòn</a></span>
+<span class=" w2"><a href="/tag/sjc.epi">SJC</a></span>
+<span class="down w5"><a href="/tag/thị-trường-vàng.epi">thị trường vàng</a></span>
+<span class=" w17"><a href="/tag/nguyễn-trí-hiếu.epi">Nguyễn Trí Hiếu</a></span>
+<span class="down w8"><a href="/tag/phiên-giao-dịch.epi">phiên giao dịch</a></span>
+<span class="down w20"><a href="/tag/tập-đoàn-vàng.epi">Tập Đoàn Vàng</a></span>
+<span class=" w12"><a href="/tag/tập-đoàn-doji.epi">Tập Đoàn DOJI</a></span>
+<span class="up w9"><a href="/tag/bảo-tín-minh-châu.epi">Bảo Tín Minh Châu</a></span>
+<span class="down w1"><a href="/tag/cục-dự-trữ-liên-bang.epi">cục dự trữ liên bang</a></span>
+<span class=" w16"><a href="/tag/mã-shs.epi">mã SHS</a></span>
+<span class=" w14"><a href="/tag/ngân-hàng-công-thương-việt-nam.epi">ngân hàng công thương việt nam</a></span>
+<span class=" w18"><a href="/tag/ssi.epi">SSI</a></span>
+<span class="down w11"><a href="/tag/ngân-hàng-thương-mại.epi">ngân hàng thương mại</a></span>
+<span class="down w4"><a href="/tag/doji.epi">doji</a></span>
+<span class="down w15"><a href="/tag/lạm-phát.epi">lạm phát</a></span>
+<span class=" w19"><a href="/tag/ngân-hàng-đầu-tư-và-phát-triển-việt-nam.epi">ngân hàng đầu tư và phát triển việt nam</a></span>
+<span class="down w3"><a href="/tag/tỷ-giá-usd.epi">tỷ giá usd</a></span>
+</div>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_MiddleRight_1"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R3"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R4"></div>
+</section>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime">Cung cấp trong: 10.09 ms.</p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

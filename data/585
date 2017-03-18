@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" lang="vi"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><title>
+Du Lịch - Dân trí
+</title><link href="https://dantri4.vcmedia.vn/web_css/dulich.main.1.1.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="https://dantri3.vcmedia.vn/Scripts/dulich/dulich.main.1.0.js"></script>
+<script type="text/javascript">
+function setCookieForMobile(cname, cvalue, exdays) {
+var d = new Date();
+d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+var expires = "expires=" + d.toUTCString();
+document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function CheckMobileRedirect() {
+try {
+//check session on client
+if (typeof (Storage) !== "undefined") {
+var session = sessionStorage.getItem("VisitSession");
+if (session == null) {
+//phien lam viec moi
+sessionStorage.setItem("VisitSession", "1");
+
+var hash = window.location.hash;
+if (hash == "#first") {
+//link được redirect từ bản mobile sang thì không làm gì.
+window.history.replaceState("", "", window.location.href.split('#')[0]);
+} else {
+//nếu không phải link đá từ mobile thì remove cookie ở đây.
+setCookieForMobile("browser", "", -1);
+//reload lại trang để hệ thống chuyển về bản mobile.
+window.location = window.location.href;
+}
+} else {
+//van dang o phien lam viec cu thi khong lam gi.  
+}
+}
+} catch (e) { }
+}
+CheckMobileRedirect();
+
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-12366027-8', 'auto');
+ga('send', 'pageview');
+
+ga('create', 'UA-4263013-50', 'auto', { 'name': 'dl_vcc' });
+ga('dl_vcc.send', 'pageview');
+
+ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+ga('dtonly.send', 'pageview');
+
+ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+ga('dtboo.send', 'pageview');
+
+ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+ga('totaldt.send', 'pageview');
+
+</script>
+ <script type="text/javascript">var _ADM_Channel='%2Fdu-lich%2F';</script>
+<script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+
+  
+ <!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17793284" });
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link href="http://m.dantri.com.vn/du-lich.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/du-lich.htm" rel="alternate" media="handheld" /><link href="http://dulich.dantri.com.vn" rel="canonical" /></head>
+<body class="bg1">
+<form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="default" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="0" />
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="0" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MDE4NDU3OTVkZBxhEdeSCqM1ZRZaTzgClX+NBOo0USmHFxn1dLwWaCU/" />
+</div>
+
+<style>
+.emailprint .dt-print {background: url(https://dantri3.vcmedia.vn/Images/tuyensinh/print.png) no-repeat scroll 0 6px transparent;}
+</style>
+<div class="main" id="wrap">
+
+<div class="header fl">
+<a class="sprite logo" href="/" title="Dân Trí Du Lịch"></a>
+</div>
+<div class="ads_headertop">
+  
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_221.ads"></script>
+
+</div>
+
+<div class="menu fl" id="menu">
+<ul>
+<li class="normal"><a target="_blank" title="Dân Trí" href="http://dantri.com.vn">DÂN TRÍ</a></li>
+<li class="border fl"></li>
+<li class="normal active"><h1><a title="DU LỊCH" href="/">DU LỊCH</a></h1></li>
+<li class="border fl"></li>
+<li class="normal"><a title="VÒNG QUAY DU LỊCH" href="/du-lich/vong-quay-du-lich.htm">VÒNG QUAY DU LỊCH</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="KHÁM PHÁ" href="/du-lich/kham-pha.htm">KHÁM PHÁ</a></li>
+
+<li class="border fl"></li>
+<li class="normal"><a title="MÓN NGON - ĐIỂM ĐẸP" href="/du-lich/mon-ngon-diem-dep.htm">MÓN NGON - ĐIỂM ĐẸP</a></li>
+  
+
+<li class="border fl"></li>
+<li class="normal"><a title="TOURS ƯA THÍCH" href="/du-lich/tours-ua-thich.htm">TOURS ƯA THÍCH</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="ĐIỂM ĐẾN MỖI TUẦN" href="/du-lich/diem-den-moi-tuan.htm">ĐIỂM ĐẾN MỖI TUẦN</a></li>
+
+</ul>
+</div>
+
+<div id="container" class="content fl">
+
+<div class="hotnews">
+<label>Dòng sự kiện</label>
+<div id="event" class="scroll-text">
+<ul>
+<li><a href="/event/hdv-trung-quoc-chui-xuyen-tac-lich-su-viet-nam-3001.htm" title="HDV Trung Quốc "chui" xuyên tạc lịch sử Việt Nam">HDV Trung Quốc "chui" xuyên tạc lịch sử Việt Nam</a></li><li><a href="/event/nhung-diem-mua-sam-hap-dan-tai-thai-lan-2943.htm" title="Những điểm mua sắm hấp dẫn tại Thái Lan">Những điểm mua sắm hấp dẫn tại Thái Lan</a></li>
+
+</ul>
+</div>
+</div>
+<div class="leftcontent fl">
+
+<script src="https://dantri4.vcmedia.vn/web_js/jquery.scrollbox.js"></script>
+<div class="newstop fl">
+<div class="left fl">
+<div class="hh-img-top"><span></span></div><div class="hh-img-center"><a title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" href="/du-lich/hang-nghin-nguoi-tham-du-dam-ruoc-cua-quy-dai-hon-2m-20170317223612829.htm"><img class="avatar" src="https://dantri.vcmedia.vn/zoom/420_315/2017/le-hoi-ruoc-cua-quy-1-1489742443671.jpg" alt="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" border="0px" width="414px" title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m"/></a></div>
+
+<h2>
+<p>
+<a title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" href="/du-lich/hang-nghin-nguoi-tham-du-dam-ruoc-cua-quy-dai-hon-2m-20170317223612829.htm">H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m <img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp;<img style="margin-bottom:-2px" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_text_video2.png" />&nbsp;</a>
+</p>
+</h2>
+<p class="sapo fl">
+(Dân trí) - Hàng nghìn người đã có mặt tại thành phố Nagaoka, Nhật Bản, để dự đám rước “của quý” trong ngày hội Hondare. Những cô gái cố gắng chạm tay vào mô hình “sinh thực khí nam” bằng gỗ khổng lồ với hi vọng gặp nhiều may mắn trong cuộc sống hôn nhân.
+</p>
+</div>
+<div class="right fr">
+<ul id="listNewst">
+
+<li>
+
+<h4>
+<a title="Vụ tai nạn tại th&#225;c Hang Cọp: Tạm đ&#236;nh chỉ hoạt động doanh nghiệp Giấc Mơ V&#224;ng" href="/du-lich/vu-tai-nan-tai-thac-hang-cop-tam-dinh-chi-hoat-dong-doanh-nghiep-giac-mo-vang-20170316163734555.htm"> Vụ tai nạn tại th&#225;c Hang Cọp: Tạm đ&#236;nh chỉ hoạt động doanh nghiệp Giấc Mơ V&#224;ng</a></h4>
+</li>
+
+<li>
+
+<h4>
+<a title="Việt Nam dẫn đầu về lượng du kh&#225;ch tới Campuchia li&#234;n tiếp trong 8 năm" href="/du-lich/viet-nam-dan-dau-ve-luong-du-khach-toi-campuchia-lien-tiep-trong-8-nam-20170315204006458.htm"> Việt Nam dẫn đầu về lượng du kh&#225;ch tới Campuchia li&#234;n tiếp trong 8 năm</a></h4>
+</li>
+
+<li>
+
+<h4>
+<a title="Kh&#225;m ph&#225; thế giới đồ ăn vặt b&#234;n bến Ninh Kiều" href="/du-lich/kham-pha-the-gioi-do-an-vat-ben-ben-ninh-kieu-20170316124215223.htm"> Kh&#225;m ph&#225; thế giới đồ ăn vặt b&#234;n bến Ninh Kiều</a></h4>
+</li>
+
+<li>
+
+<h4>
+<a title="T&#236;m thấy hơn 250 đầu l&#226;u trong hầm mộ b&#237; mật ở Mexico" href="/du-lich/tim-thay-hon-250-dau-lau-trong-ham-mo-bi-mat-o-mexico-20170316123811653.htm"> T&#236;m thấy hơn 250 đầu l&#226;u trong hầm mộ b&#237; mật ở Mexico</a></h4>
+</li>
+
+<li>
+
+<h4>
+<a title="Cuộc sống &quot;c&#245;i ti&#234;n&quot; của 15000 th&#224;nh vi&#234;n Ho&#224;ng gia Ả Rập" href="/du-lich/cuoc-song-coi-tien-cua-15000-thanh-vien-hoang-gia-a-rap-20170316071733402.htm"> Cuộc sống &quot;c&#245;i ti&#234;n&quot; của 15000 th&#224;nh vi&#234;n Ho&#224;ng gia Ả Rập</a></h4>
+</li>
+
+<li>
+
+<h4>
+<a title="Ibaraki – thi&#234;n đường hoa nước Nhật đi cả 4 m&#249;a kh&#244;ng ch&#225;n" href="/du-lich/ibaraki-thien-duong-hoa-nuoc-nhat-di-ca-4-mua-khong-chan-20170316070002989.htm"> Ibaraki – thi&#234;n đường hoa nước Nhật đi cả 4 m&#249;a kh&#244;ng ch&#225;n</a></h4>
+</li>
+
+</ul>
+</div>
+<div class="btnewstop fl">
+<ul>
+
+<li>
+<a href="/du-lich/ca-robot-boi-loi-tung-tang-trong-khach-san-ky-la-o-nhat-ban-20170316210354958.htm" title="C&#225; robot bơi lội tung tăng trong kh&#225;ch sạn kỳ lạ ở Nhật Bản"><img alt="C&#225; robot bơi lội tung tăng trong kh&#225;ch sạn kỳ lạ ở Nhật Bản" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/khach-san-robot-1489660402546.jpg" title="C&#225; robot bơi lội tung tăng trong kh&#225;ch sạn kỳ lạ ở Nhật Bản" /></a>
+<h3>
+<a title="C&#225; robot bơi lội tung tăng trong kh&#225;ch sạn kỳ lạ ở Nhật Bản" href="/du-lich/ca-robot-boi-loi-tung-tang-trong-khach-san-ky-la-o-nhat-ban-20170316210354958.htm"> C&#225; robot bơi lội tung tăng trong kh&#225;ch sạn kỳ lạ ở Nhật Bản</a>
+</h3>
+</li>
+
+<li>
+<a href="/du-lich/kinh-vien-vong-san-nguoi-ngoai-hanh-tinh-mo-cua-don-du-khach-20170316210551157.htm" title="K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch"><img alt="K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/nguoi-ngoai-hanh-tinh-1-1489650283975.jpg" title="K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch" /></a>
+<h3>
+<a title="K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch" href="/du-lich/kinh-vien-vong-san-nguoi-ngoai-hanh-tinh-mo-cua-don-du-khach-20170316210551157.htm"> K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch</a>
+</h3>
+</li>
+
+<li>
+<a href="/du-lich/voi-bat-ngo-quat-chet-quan-tuong-khi-dang-duoctam-20170316070030424.htm" title="Voi bất ngờ quật chết quản tượng khi đang được&#160;tắm"><img alt="Voi bất ngờ quật chết quản tượng khi đang được&#160;tắm" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/voi-quat-chet-nguoi-1-1489558805706.jpg" title="Voi bất ngờ quật chết quản tượng khi đang được&#160;tắm" /></a>
+<h3>
+<a title="Voi bất ngờ quật chết quản tượng khi đang được&#160;tắm" href="/du-lich/voi-bat-ngo-quat-chet-quan-tuong-khi-dang-duoctam-20170316070030424.htm"> Voi bất ngờ quật chết quản tượng khi đang được&#160;tắm</a>
+</h3>
+</li>
+
+</ul>
+</div>
+</div>
+<!--end newstop-->
+<script type="text/javascript">
+$('#listNewst li:last').attr('class', 'end');
+// $('#event').scrollbox();
+$('#event').scrollbox({
+delay: 10,
+speed: 50
+});
+</script>
+
+<div class="box_cate fl">
+<h2 class="sprite fl vongquaydulich">
+<a title="Vòng quay du lịch" href="/du-lich/vong-quay-du-lich.htm">Vòng quay du lịch</a>
+</h2>
+<ul>
+<li class="left">
+<a title="Vụ tai nạn tại th&#225;c Hang Cọp: Tạm đ&#236;nh chỉ hoạt động doanh nghiệp Giấc Mơ V&#224;ng" href="/du-lich/vu-tai-nan-tai-thac-hang-cop-tam-dinh-chi-hoat-dong-doanh-nghiep-giac-mo-vang-20170316163734555.htm"><img class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/z592525349969-08a5c9363bcbead8d7dff4aac1359681-1487844283702-1489656807945.jpg" alt="Vụ tai nạn tại th&#225;c Hang Cọp: Tạm đ&#236;nh chỉ hoạt động doanh nghiệp Giấc Mơ V&#224;ng" title="Vụ tai nạn tại th&#225;c Hang Cọp: Tạm đ&#236;nh chỉ hoạt động doanh nghiệp Giấc Mơ V&#224;ng" /></a>
+<h3>
+<a title="Vụ tai nạn tại th&#225;c Hang Cọp: Tạm đ&#236;nh chỉ hoạt động doanh nghiệp Giấc Mơ V&#224;ng" href="/du-lich/vu-tai-nan-tai-thac-hang-cop-tam-dinh-chi-hoat-dong-doanh-nghiep-giac-mo-vang-20170316163734555.htm"> Vụ tai nạn tại th&#225;c Hang Cọp: Tạm đ&#236;nh chỉ hoạt động doanh nghiệp Giấc Mơ V&#224;ng</a></h3>
+ 
+<p class="sapo fl">
+(Dân trí) - Liên quan đến vụ tai nạn đáng tiếc khiến 01 khách nước ngoài quốc tịch Ba Lan và 01 hướng dẫn viên du lịch tử vong tại Khu du lịch Thác Hang Cọp (Đà Lạt) ngày 23/02/2016, Sở VHTTDL Lâm Đồng vừa ra quyết định tạm đình chỉ hoạt động Công ty TNHH Giấc Mơ Vàng.</p>
+</li>
+<li class="right fl"><a title="Nh&#224; thổ b&#250;p b&#234; t&#236;nh dục đầu ti&#234;n ở ch&#226;u &#194;u bất ngờ đ&#243;ng cửa" href="/du-lich/nha-tho-bup-be-tinh-duc-dau-tien-o-chau-au-bat-ngo-dong-cua-20170317133030259.htm"><img class="avatar" alt="Nh&#224; thổ b&#250;p b&#234; t&#236;nh dục đầu ti&#234;n ở ch&#226;u &#194;u bất ngờ đ&#243;ng cửa" src="https://dantri.vcmedia.vn/zoom/200_150/2017/bup-be-tinh-duc-1489724504943.jpg" /></a><h3><a title="Nh&#224; thổ b&#250;p b&#234; t&#236;nh dục đầu ti&#234;n ở ch&#226;u &#194;u bất ngờ đ&#243;ng cửa" href="/du-lich/nha-tho-bup-be-tinh-duc-dau-tien-o-chau-au-bat-ngo-dong-cua-20170317133030259.htm"> Nh&#224; thổ b&#250;p b&#234; t&#236;nh dục đầu ti&#234;n ở ch&#226;u &#194;u bất ngờ đ&#243;ng cửa</a></h3></li><li class="right fl"><a title="TP HCM xếp 152/230, H&#224; Nội đứng vị tr&#237; 155/230 về chất lượng sống" href="/du-lich/tp-hcm-xep-152-230-ha-noi-dung-vi-tri-155-230-ve-chat-luong-song-20170317132719447.htm"><img class="avatar" alt="TP HCM xếp 152/230, H&#224; Nội đứng vị tr&#237; 155/230 về chất lượng sống" src="https://dantri.vcmedia.vn/zoom/200_150/2017/vienna-thu-do-xanh-1489729397561.jpg" /></a><h3><a title="TP HCM xếp 152/230, H&#224; Nội đứng vị tr&#237; 155/230 về chất lượng sống" href="/du-lich/tp-hcm-xep-152-230-ha-noi-dung-vi-tri-155-230-ve-chat-luong-song-20170317132719447.htm"> TP HCM xếp 152/230, H&#224; Nội đứng vị tr&#237; 155/230 về chất lượng sống</a></h3></li>
+</ul>
+</div>
+<!--box_cate-->
+
+
+<div class="box_cate fl">
+<h2 class="sprite fl vongquaydulich">
+<a title="Khám phá" href="/du-lich/kham-pha.htm">Khám phá</a>
+</h2>
+<ul>
+<li class="left">
+<a title="T&#236;m thấy hơn 250 đầu l&#226;u trong hầm mộ b&#237; mật ở Mexico" href="/du-lich/tim-thay-hon-250-dau-lau-trong-ham-mo-bi-mat-o-mexico-20170316123811653.htm"><img class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/1-1489637144089.jpg" alt="T&#236;m thấy hơn 250 đầu l&#226;u trong hầm mộ b&#237; mật ở Mexico" title="T&#236;m thấy hơn 250 đầu l&#226;u trong hầm mộ b&#237; mật ở Mexico" /></a>
+<h3>
+<a title="T&#236;m thấy hơn 250 đầu l&#226;u trong hầm mộ b&#237; mật ở Mexico" href="/du-lich/tim-thay-hon-250-dau-lau-trong-ham-mo-bi-mat-o-mexico-20170316123811653.htm"> T&#236;m thấy hơn 250 đầu l&#226;u trong hầm mộ b&#237; mật ở Mexico</a></h3>
+ 
+<p class="sapo fl">
+(Dân trí) - Trong một hầm mộ bí mật ở ngoại ô thành phố Veracruz, Mexico, người ta tìm thấy hơn 250 hộp sọ được cho là nằm trong số hàng nghìn người mất tích những năm trước đó.</p>
+</li>
+<li class="right fl"><a title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" href="/du-lich/hang-nghin-nguoi-tham-du-dam-ruoc-cua-quy-dai-hon-2m-20170317223612829.htm"><img class="avatar" alt="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" src="https://dantri.vcmedia.vn/zoom/200_150/2017/le-hoi-ruoc-cua-quy-1-1489742443671.jpg" /></a><h3><a title="H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m" href="/du-lich/hang-nghin-nguoi-tham-du-dam-ruoc-cua-quy-dai-hon-2m-20170317223612829.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp;<img style="margin-bottom:-2px" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_text_video2.png" />&nbsp; H&#224;ng ngh&#236;n người tham dự đ&#225;m rước “của qu&#253;” d&#224;i hơn 2m</a></h3></li><li class="right fl"><a title="Tới Bali nghỉ, Vua Saudi Arabia chi bộn tiền mua 6 tấn h&#224;ng h&#243;a" href="/du-lich/toi-bali-nghi-vua-saudi-arabia-chi-bon-tien-mua-6-tan-hang-hoa-20170317090634539.htm"><img class="avatar" alt="Tới Bali nghỉ, Vua Saudi Arabia chi bộn tiền mua 6 tấn h&#224;ng h&#243;a" src="https://dantri.vcmedia.vn/zoom/200_150/2017/nha-vua-saudi-arabia-2-1489716192805.jpg" /></a><h3><a title="Tới Bali nghỉ, Vua Saudi Arabia chi bộn tiền mua 6 tấn h&#224;ng h&#243;a" href="/du-lich/toi-bali-nghi-vua-saudi-arabia-chi-bon-tien-mua-6-tan-hang-hoa-20170317090634539.htm"> Tới Bali nghỉ, Vua Saudi Arabia chi bộn tiền mua 6 tấn h&#224;ng h&#243;a</a></h3></li>
+</ul>
+</div>
+<!--box_cate-->
+
+
+<div class="sprite box_cate1 fl">
+<h2 class="fl monngon">
+<a title="Món ngon - Điểm đẹp" href="mon-ngon-diem-dep.htm">Món ngon - Điểm đẹp</a></h2>
+
+</div>
+<div class="box_monngon fl">
+<ul>
+
+<li>
+<a href="/du-lich/nhung-mon-ngon-khong-nen-bo-qua-khi-den-hoi-an-20170318075143836.htm" title="Những m&#243;n ngon kh&#244;ng n&#234;n bỏ qua khi đến Hội An"><img alt="Những m&#243;n ngon kh&#244;ng n&#234;n bỏ qua khi đến Hội An" src="https://dantri.vcmedia.vn/zoom/200_150/2017/cao-lau-1-1489661796852.jpg" /></a> 
+<h3>
+<a title="Những m&#243;n ngon kh&#244;ng n&#234;n bỏ qua khi đến Hội An" href="/du-lich/nhung-mon-ngon-khong-nen-bo-qua-khi-den-hoi-an-20170318075143836.htm">Những m&#243;n ngon kh&#244;ng n&#234;n bỏ qua khi đến Hội An</a></h3>
+</li>
+
+<li>
+<a href="/du-lich/kham-pha-the-gioi-do-an-vat-ben-ben-ninh-kieu-20170316124215223.htm" title="Kh&#225;m ph&#225; thế giới đồ ăn vặt b&#234;n bến Ninh Kiều"><img alt="Kh&#225;m ph&#225; thế giới đồ ăn vặt b&#234;n bến Ninh Kiều" src="https://dantri.vcmedia.vn/zoom/200_150/2017/am-thuc-ninh-kieu-4-1489633608499.jpg" /></a> 
+<h3>
+<a title="Kh&#225;m ph&#225; thế giới đồ ăn vặt b&#234;n bến Ninh Kiều" href="/du-lich/kham-pha-the-gioi-do-an-vat-ben-ben-ninh-kieu-20170316124215223.htm">Kh&#225;m ph&#225; thế giới đồ ăn vặt b&#234;n bến Ninh Kiều</a></h3>
+</li>
+
+<li>
+<a href="/du-lich/ibaraki-thien-duong-hoa-nuoc-nhat-di-ca-4-mua-khong-chan-20170316070002989.htm" title="Ibaraki – thi&#234;n đường hoa nước Nhật đi cả 4 m&#249;a kh&#244;ng ch&#225;n"><img alt="Ibaraki – thi&#234;n đường hoa nước Nhật đi cả 4 m&#249;a kh&#244;ng ch&#225;n" src="https://dantri.vcmedia.vn/zoom/200_150/2017/ibaraki-8-1489599130198.jpg" /></a> 
+<h3>
+<a title="Ibaraki – thi&#234;n đường hoa nước Nhật đi cả 4 m&#249;a kh&#244;ng ch&#225;n" href="/du-lich/ibaraki-thien-duong-hoa-nuoc-nhat-di-ca-4-mua-khong-chan-20170316070002989.htm">Ibaraki – thi&#234;n đường hoa nước Nhật đi cả 4 m&#249;a kh&#244;ng ch&#225;n</a></h3>
+</li>
+
+</ul>
+</div>
+<!--end box_cate1-->
+
+
+
+<div class="box_cate fl">
+<h2 class="sprite fl vongquaydulich">
+
+  <img src="http://dantri4.vcmedia.vn/web_images/logotouruathich2.png" style="width: 50px;float: left; margin-top: 2px; margin-left: -13px;margin-right: 3px;" />
+<a title="Tours ưa thích" href="/du-lich/tours-ua-thich.htm">Tours ưa thích</a>
+</h2>
+<ul>
+<li class="left">
+<a title="K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ" href="/tours-ua-thich/ky-uc-truy-tim-manh-thu-tren-dong-co-20170309092038638.htm"><img class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1489025663884.jpg" alt="K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ" title="K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ" /></a>
+<h3>
+<a title="K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ" href="/tours-ua-thich/ky-uc-truy-tim-manh-thu-tren-dong-co-20170309092038638.htm"> K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ</a></h3>
+ 
+<p class="sapo fl">
+Nam Phi những ngày đầu tháng 3 trong tâm trí tôi là những hàng cây rợp bóng mát, là trăm loài hoa khoe sắc trong tiết trời dịu nhẹ của mùa thu nam bán cầu. Đó cũng là ký ức của cuộc hành trình truy tìm những mãnh thú trên đồng cỏ, một ấn tượng khó phai khi tận mắt chiêm ngưỡng các kỳ quan của lục địa đen trong chuyến du lịch cùng công ty Vietrantour.</p>
+</li>
+<li class="right fl"><a title="Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour" href="/tours-ua-thich/du-lich-nuoc-ngoai-de-dang-hon-qua-vietrantour-20170306085448143.htm"><img class="avatar" alt="Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-3-1488764935093.jpg" /></a><h3><a title="Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour" href="/tours-ua-thich/du-lich-nuoc-ngoai-de-dang-hon-qua-vietrantour-20170306085448143.htm"> Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour</a></h3></li><li class="right fl end"><a href="/tours-ua-thich/4-noi-nen-den-vao-mua-anh-dao-nhat-ban-20170227093738874.htm" title="4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản"><img alt="4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-2-1488162760431.jpg" /></a><h3><a title="4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản" href="/tours-ua-thich/4-noi-nen-den-vao-mua-anh-dao-nhat-ban-20170227093738874.htm"> 4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản</a></h3></li>
+</ul>
+</div>
+<!--box_cate-->
+
+ 
+<div class="box_cate fl">
+<h2 class="sprite fl vongquaydulich">
+<a title="Điểm đến mỗi tuần" href="/du-lich/diem-den-moi-tuan.htm">Điểm đến mỗi tuần</a>
+</h2>
+<ul>
+<li class="left">
+<a title="Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3" href="/du-lich/boi-hoi-mua-hoa-gao-ruc-do-thang-3-20170314080711668.htm"><img class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dsc-8792-1489366877512-1489453476689.jpg" alt="Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3" title="Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3" /></a>
+<h3>
+<a title="Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3" href="/du-lich/boi-hoi-mua-hoa-gao-ruc-do-thang-3-20170314080711668.htm"> Bồi hồi m&#249;a hoa gạo rực đỏ th&#225;ng 3</a></h3>
+ 
+<p class="sapo fl">
+(Dân trí) - Vào tháng 3 hàng năm, hoa gạo nở đỏ rực giữa các cánh đồng làng quê Bắc Bộ.</p>
+</li>
+<li class="right fl"><a title="Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển" href="/du-lich/ve-dao-ngoc-nham-nhi-ca-phe-ngam-song-bien-20170311231845823.htm"><img class="avatar" alt="Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển" src="https://dantri.vcmedia.vn/zoom/200_150/2017/20170309-100310-1489221161338.jpg" /></a><h3><a title="Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển" href="/du-lich/ve-dao-ngoc-nham-nhi-ca-phe-ngam-song-bien-20170311231845823.htm"> Về &quot;đảo ngọc&quot; nh&#226;m nhi c&#224; ph&#234;, ngắm s&#243;ng biển</a></h3></li><li class="right fl end"><a href="/du-lich/10-thanh-pho-de-chiu-nhat-de-lam-quen-nhung-nguoi-ban-moi-20170310204638592.htm" title="10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới"><img alt="10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-4-1489153288103.jpg" /></a><h3><a title="10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới" href="/du-lich/10-thanh-pho-de-chiu-nhat-de-lam-quen-nhung-nguoi-ban-moi-20170310204638592.htm"> 10 th&#224;nh phố dễ chịu nhất để l&#224;m quen những người bạn mới</a></h3></li>
+</ul>
+</div>
+<!--box_cate-->
+
+  
+
+
+
+</div>
+
+<div id="pnBoxRight">
+
+ <div class="rightcontent fr">
+ <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+
+
+<div class="tourhay fl">
+<h4 class="sprite fl">
+<a title="Tour hay - Khuyến mại" href="/du-lich/tour-hay-khuyen-mai.htm">Tour hay - Khuyến mại</a></h4>
+<ul>
+<li class="top">
+<a title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" href="/tour-hay-khuyen-mai/theo-dau-chan-kongskull-island-di-ngay-keo-lo-20170315142540562.htm"><img alt="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" src="https://dantri.vcmedia.vn/zoom/327_245/2017/photo-1-1489562560910.jpg" title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" /></a>
+<h5>
+<a title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" href="/tour-hay-khuyen-mai/theo-dau-chan-kongskull-island-di-ngay-keo-lo-20170315142540562.htm"> Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!</a>
+</h5>
+<p>
+Vừa qua, bộ phim Kong: Skull Island (Kong: Đảo đầu lâu) với 70% bối cảnh quay tại Việt Nam đã chính thức ra mắt. Trong khi siêu phẩm bom tấn này đang “làm mưa làm gió” tại các phòng vé thế giới, thì có một cơn “sốt” cũng nóng bỏng không kém.</p>
+</li>
+ <li class="normal"><span></span><h6><a title="Thử t&#234;n lửa gi&#250;p Triều Ti&#234;n kiếm bộn tiền từ du lịch" href="/du-lich/thu-ten-lua-giup-trieu-tien-kiem-bon-tien-tu-du-lich-20170314081238109.htm">Thử t&#234;n lửa gi&#250;p Triều Ti&#234;n kiếm bộn tiền từ du lịch</a></h6></li> <li class="normal"><span></span><h6><a title="Thưởng ngoạn nước &#218;c, giấc mơ trong tầm tay" href="/tour-hay-khuyen-mai/thuong-ngoan-nuoc-uc-giac-mo-trong-tam-tay-20170313090227895.htm">Thưởng ngoạn nước &#218;c, giấc mơ trong tầm tay</a></h6></li>
+</ul>
+</div>
+<!--end tourhay-->
+
+
+ 
+ 
+
+
+<div class="sprite videocate fl">
+<h4>
+<a title="" href="/du-lich/video-anh.htm"></a></h4>
+<ul>
+<li class="top">
+<a href="/du-lich/bo-anh-ve-dat-nuoc-ha-lan-nhung-nam-1890s-qua-cac-tam-buu-thiep-20170316211507276.htm" title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp"><img alt="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" src="https://dantri.vcmedia.vn/zoom/273_204/2017/photo-1-1489673305034.jpg" title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" /></a>
+<h5>
+<a title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" href="/du-lich/bo-anh-ve-dat-nuoc-ha-lan-nhung-nam-1890s-qua-cac-tam-buu-thiep-20170316211507276.htm">Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp </a></h5>
+<p>
+(Dân trí) - Những tấm bưu thiếp vào cuối những năm 1890 sẽ cho bạn biết cối xay gió, kênh rạch và các đặc trưng của đất nước Hà Lan trước đây trông như thế nào</p>
+</li>
+<li class="normal"><span></span><h6><a title="K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch" href="/du-lich/kinh-vien-vong-san-nguoi-ngoai-hanh-tinh-mo-cua-don-du-khach-20170316210551157.htm">K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch </a></h6></li><li class="normal"><span></span><h6><a title="10 thị trấn nhỏ xinh đẹp của nước &#221;" href="/du-lich/10-thi-tran-nho-xinh-dep-cua-nuoc-y-20170316162904948.htm">10 thị trấn nhỏ xinh đẹp của nước &#221; </a></h6></li>
+
+</ul>
+</div>
+<!--end video-->
+  
+
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+
+</div>
+
+</div>
+</div>
+
+<div class="fotter fl">
+<a rel="nofollow" href="#" class="sprite fl logo"></a>
+<div class="menubt fl">
+<ul>
+<li class="top"><a rel="nofollow" title="Du lịch" href="/">Du lịch</a></li>
+<li><a rel="nofollow" title="Vòng quay du lịch" href="/du-lich/vong-quay-du-lich.htm">Vòng quay Du lịch</a></li>
+<li><a rel="nofollow" title="Khám phá" href="/du-lich/kham-pha.htm">Khám phá</a></li>
+
+<li><a rel="nofollow" title="Lễ hội bốn phương" href="/du-lich/ky-thu-thai-lan.htm">Kỳ thú Thái Lan</a></li>
+<li><a rel="nofollow" title="Món ngon điểm đẹp" href="/du-lich/mon-ngon-diem-dep.htm">Món ngon - Điểm đẹp</a></li>
+<li><a rel="nofollow" title="Tư vấn chia sẻ" href="/du-lich/tu-van-chia-se.htm">Tư vấn - Chia sẻ</a></li>
+</ul>
+</div>
+<div class="footer2">
+Chuyên trang Du lịch - Báo Điện tử Dân trí 
+<br />
+Giấy phép hoạt động báo điện tử Dân trí trên Internet số 07/GP-PTTH&TTĐT, cấp ngày 19/11/2013.<br>
+Tòa soạn: số 02 ( nhà 48 ) Giảng Võ, Quận Đống Đa, Hà Nội, Việt Nam<br>
+Điện thoại: (04) 3736 6491 - Fax: (04) 3736 6490<br>
+<span><i>Mọi hành động sử dụng nội dung đăng tải trên Báo Điện tử Dân trí phải có sự
+đồng ý bằng văn bản của Báo Điện tử Dân trí.</i></span>
+</div>
+</div>
+<!--end fotter-->
+
+ 
+</div>
+
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div></form>
+</body>
+</html><!--u: 03/18/2017 08:22:00-->

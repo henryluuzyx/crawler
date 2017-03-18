@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Quyền Tổng thống Hàn Quốc tuyên bố không ra tranh cử - Hà Nội Mới
+</title><meta name="keywords" content="Moon Jae-in,Park Geun-hye,Hwang Kyo-ahn,hàn quốc,bầu cử,đảng dân chủ,tranh cử,Nhà Xanh,lãnh đạo,phát biểu,giám sát,bảo đảm,đình chỉ,phê chuẩn" /><meta name="description" content="(HNMO) - Ngày 15-3, Thủ tướng Hàn Quốc Hwang Kyo-ahn tuyên bố sẽ không tham gia cuộc tranh cử vào vị trí Tổng thống nước này." />
+<link rel="canonical" href="http://www.baomoi.com/quyen-tong-thong-han-quoc-tuyen-bo-khong-ra-tranh-cu/c/21773748.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21773748" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21773748" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://hanoimoi.com.vn/Tin-tuc/The-gioi/864437/quyen-tong-thong-han-quoc-tuyen-bo-khong-ra-tranh-cu");
+else
+window.location.replace("http://www.baomoi.com/quyen-tong-thong-han-quoc-tuyen-bo-khong-ra-tranh-cu/c/21773748.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

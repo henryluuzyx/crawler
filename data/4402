@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thanh Hóa: Hàng trăm ngư dân kêu cứu vì cửa biển bị bồi lấp - Công Lý
+</title><meta name="keywords" content="cửa Lạch Bạng,Lạch Bạng,UBND xã Hải Bình,cảng Lạch Bạng,Hải Bình,Hải Thanh,Tĩnh Gia,Liên Thịnh,Quảng Ngãi,tốn kém,Nguyễn Văn Lượng,giải cứu,Thanh Hóa,cải tạo,thời tiết,THANH PHƯƠNG,chế biến,Nghệ An,khai thác,phản ánh,Vĩnh Phúc" /><meta name="description" content="Tại cửa Lạch Bạng (Tĩnh Gia) hàng ngày có cả nghìn lượt tàu, thuyền trong và ngoài tỉnh ra vào neo đậu, tránh trú, buôn bán hải sản, các nhu yếu phẩm phục v..." />
+<link rel="canonical" href="http://www.baomoi.com/thanh-hoa-hang-tram-ngu-dan-keu-cuu-vi-cua-bien-bi-boi-lap/c/21791362.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791362" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791362" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://congly.com.vn/xa-hoi/doi-song/thanh-hoa-hang-tram-ngu-dan-keu-cuu-vi-cua-bien-bi-boi-lap-201462.html");
+else
+window.location.replace("http://www.baomoi.com/thanh-hoa-hang-tram-ngu-dan-keu-cuu-vi-cua-bien-bi-boi-lap/c/21791362.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thịt chiên cay ăn ngay kẻo hết - Eva
+</title><meta name="keywords" content="CÁCH LÀM THỊT CHIÊN CAY,Lâm Anh Đào" /><meta name="description" content="Thịt chiên có lớp vỏ hơi giòn lại có chút cay cay, ăn trong tiết trời se se lạnh thật thích." />
+<link rel="canonical" href="http://www.baomoi.com/thit-chien-cay-an-ngay-keo-het/c/21785811.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21785811" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21785811" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://eva.vn/bep-eva/thit-chien-cay-an-ngay-keo-het-c162a302975.html");
+else
+window.location.replace("http://www.baomoi.com/thit-chien-cay-an-ngay-keo-het/c/21785811.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

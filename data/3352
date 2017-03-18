@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Ảnh cưới lãng mạn trên biển của diễn viên Phương Hằng - Zing
+</title><meta name="keywords" content="Phương Hằng,Anh Tâm,vịnh Vĩnh Hy,studio,Bích Hằng,Ninh Thuận,hẹn hò,gắn bó,quảng cáo,đạo diễn,online" /><meta name="description" content="Diễn viên phim &quot;Thụy khúc&quot; cùng ông xã Anh Tâm thực hiện bộ ảnh cưới tại vịnh Vĩnh Hy ngay trong ngày cầu hôn." />
+<link rel="canonical" href="http://www.baomoi.com/anh-cuoi-lang-man-tren-bien-cua-dien-vien-phuong-hang/c/21793292.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793292" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793292" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/anh-cuoi-lang-man-cua-phuong-hang-tren-bien-post729341.html");
+else
+window.location.replace("http://www.baomoi.com/anh-cuoi-lang-man-tren-bien-cua-dien-vien-phuong-hang/c/21793292.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

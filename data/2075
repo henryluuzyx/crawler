@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Xuất hiện mưa đá tại khu vực giáp ranh Điện Biên và Sơn La - Doanh Nghiệp
+</title><meta name="keywords" content="Pú Hồng,Vừ A Bằng,Phì Nhừ,Pá Vạt,Mường Luân,Chiềng Lề,Điện Biên Đông,Tỉnh Điện Biên,Tỉnh Sơn La,Điện Biên,sông Mã,Sơn La,trên diện rộng,thông tấn xã việt nam,chỉ đạo,lãnh đạo" /><meta name="description" content="Ở địa bàn các xã giáp ranh giữa 2 huyện Điện Biên Đông (tỉnh Điện Biên) và Sông Mã (tỉnh Sơn La) vừa xảy ra giông lốc kèm theo mưa đá với cường độ lớn đã di..." />
+<link rel="canonical" href="http://www.baomoi.com/xuat-hien-mua-da-tai-khu-vuc-giap-ranh-dien-bien-va-son-la/c/21792973.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792973" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792973" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://doanhnghiepvn.vn/xuat-hien-mua-da-tai-khu-vuc-giap-ranh-dien-bien-va-son-la-d94706.html");
+else
+window.location.replace("http://www.baomoi.com/xuat-hien-mua-da-tai-khu-vuc-giap-ranh-dien-bien-va-son-la/c/21792973.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

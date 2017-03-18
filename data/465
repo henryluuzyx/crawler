@@ -1,0 +1,777 @@
+
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" __expr-val-dir="ltr" lang="en-us" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<head id="ctl00_Head1"><title>
+	Thanh Niên - Thế giới xe
+</title><meta id="ctl00_title" name="title" content="Thanh Niên - Thế giới xe" /><meta id="ctl00_keywords" name="keywords" content="Thanh Nien,ThanhNien,Thanh Nien Online,TNO,Thế giới xe,Ô tô, Xe máy, triển lãm, khám phá, công nghệ, tư vấn, yamaha, audi, toyota, misubishi, Chevrolet" /><meta id="ctl00_description" name="description" content="Chuyên trang về ô tô - xe máy, thử xe, tư vấn, triển lãm, khám phá ô tô - xe máy." />
+<!-- Meta -->
+<meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="robots" content="noarchive,noodp,index,follow" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Expires" content="0" /><meta name="google-site-verification" content="MdcE11-C95yfKEbtA7EMNwPkrXKQ8uWPU-AUSk4Y7zA" /><meta name="copyright" content="2003-2016, Báo Thanh Niên" /><meta name="distribution" content="global" /><meta name="geo.region" content="vi" /><meta name="googlebot" content="noarchive,index,follow" /><meta name="language" content="vi" /><meta name="alexaVerifyID" content="3b9c92ed-b510-41d0-a1c4-fe7a2f5f7998" /><meta name="abstract" content="Báo điện tử, tin tức, tin nhanh hàng đầu Việt Nam" /><meta name="REVISIT-AFTER" content="1 DAYS" /><link href="https://plus.google.com/+thanhnien" rel="publisher" /><link href="http://static.thanhnien.com.vn/favicon.ico" rel="shortcut icon" type="image/x-icon" /><link rel="alternate" href="/rss/home.rss" type="application/rss+xml" title="RSS" />
+<!-- CSS Global Compulsory -->
+<link rel="stylesheet" href="http://static.thanhnien.com.vn/xev2/App_Themes/css/bootstrap-3.3.7.css" />
+<!-- CSS Customization -->
+<link rel="stylesheet" href="http://static.thanhnien.com.vn/xev2/App_Themes/css/main.css?1.1" />
+<script type="text/javascript" src="http://static.thanhnien.com.vn/xev2/js/jquery.min-1.11.0.js"></script>
+<script src="http://static.thanhnien.com.vn/xev2/js/modernizr.custom.js"></script>
+<script type="text/javascript">var root_url = "http://xe.thanhnien.vn/"; var loghost = "http://log.tn.epi.vn"; var ismobile = $(window).width() < 1010; var istablet = ismobile && $(window).width() >= 768;</script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/JScripts/swfobject.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/v2/Jscripts/jwplayerads/jwplayer.js?1.1"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/v2/Jscripts/jwplayerads/jwplayer.html5.js"></script>
+<script type='text/javascript'>jwplayer.key = "N8zhkmYvvRwOhz4aTGkySoEri4x+9pQwR7GHIQ==";</script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/xev2/js/ui-start.js"></script> <script type="text/javascript">
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-5707772-1', 'auto');
+ga('create', 'UA-55186003-1', 'auto', { 'name': 'newTracker' });
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview'); // Send page view for new tracker.
+</script> <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function () {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>if(!ismobile){document.write("<scr"+"ipt src='http://quangcao.thanhnien.vn/js/adpartner.js'></scr"+"ipt>");
+document.write("<scr"+"ipt type=\"text\/javascript\"> var admicroAD = admicroAD || {}; admicroAD.unit = admicroAD.unit || []; (function () { var a = document.createElement(\"script\"); a.async = !0; a.type = \"text\/javascript\"; a.src = (\"https:\" == document.location.protocol ? \"https:\" : \"http:\") + \"\/\/media1.admicro.vn\/core\/admcore.js\"; var b = document.getElementsByTagName(\"script\")[0]; b.parentNode.insertBefore(a, b) })();<\/scr"+"ipt>");}</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function () {
+if(!ismobile){googletag.defineSlot('/23411214/TGX_Top_728_90', [728, 90], 'div-gpt-ad-1489023062803-0').addService(googletag.pubads());}
+if(!ismobile){googletag.defineSlot('/23411214/TGX_Home_Leaderboard_970_90', [970, 90], 'div-gpt-ad-1476236296180-0').addService(googletag.pubads());}
+if(!ismobile){googletag.defineSlot('/23411214/TGX_Medium_Rectangle_Ad1', [300, 250], 'div-gpt-ad-1479783966410-0').addService(googletag.pubads());}
+if(!ismobile){googletag.defineSlot('/23411214/TGX_Medium_Rectangle_Ad2', [300, 250], 'div-gpt-ad-1479784064535-0').addService(googletag.pubads());}
+if(!ismobile){googletag.defineSlot('/23411214/TGX_WideSkycraper_1', [160, 600], 'div-gpt-ad-1489026455217-0').addService(googletag.pubads());}
+if(!ismobile){googletag.defineSlot('/23411214/TGX_WideSkycraper_2', [160, 600], 'div-gpt-ad-1489026377297-0').addService(googletag.pubads());}
+if(!ismobile){googletag.defineSlot('/23411214/TGX_WideSkycraper_3', [160, 600], 'div-gpt-ad-1489026273549-0').addService(googletag.pubads());}
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<style type="text/css">
+.breadcrumb .sub.sub2nd { background: none;} .breadcrumb .sub.sub2nd a { color: #333;} .breadcrumbs li.active a {font-weight: bold;}.breadcrumbs .home a {width: 56px;background-position: -53px 0;}
+</style>
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://xe.thanhnien.vn" />
+<meta property="og:site_name" content="Thanh Niên" />
+<meta property="og:image" content="http://static.thanhnien.com.vn/v2/App_Themes/images/logo-tn-2.png" />
+<meta property="og:title" content="Thanh Niên - Thế giới xe" />
+<meta property="og:description" content="Chuyên trang về ô tô - xe máy, thử xe, tư vấn, triển lãm, khám phá ô tô - xe máy." />
+<meta property="article:published_time" content="2017-03-18T07:57:13T+07:00" />
+<meta property="article:section" content="Trang chủ" />
+<script type='text/javascript'>
+ga('set', 'TheGioiXe', 'TheGioiXe');
+</script>
+<!-- load and instantiate ScrollReveal first -->
+<script src="/js/scrollreveal.min.js"></script>
+<link href="http://static.thanhnien.com.vn/v2/App_Themes/css/mini/jquery-ui-1.10.3.custom.css" rel="stylesheet" type="text/css" />
+</head>
+<body><form method="post" action="/" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="XtIQ5HNC7O7C8uYOmTiNt8uRanSFpT3O1hUVwc5bOFL1YTJmBONvOo0+ETiA/l5PcZUiRld6vSXStTPGNFpq8dtMvZIyruyEWVhU9tMMkG+AS5fvaCP4NHcOkpswNluv" />
+</div>
+
+<!--=== Menu Tablet + Mobile ===-->
+<div id="header_menu" class="top_menu">
+<div id="header" class="clearfix">
+<div class="header-content-left">
+<a id="flip" class="on_menu_left" href="javascript:void(0);"><i class="icon-menu icons"></i></a>
+<a href="http://thanhnien.vn" class="logo">Thanh Niên</a>
+</div>
+<div class="m-new-articles">
+<a href="javascript:void(0);" class="on_menu_right" id="on_menu_right"></a>
+<div class="slidingDiv" id="slidingDiv" style="display: none;">
+<h3 class="label">tin mới</h3>
+<a href="javascript:void(0);" class="btn btnclose"><i class="fa fa-times-circle"></i></a>
+<div class="slidingDivContent" id="latestmobile">
+<div class="m-date" id="fulldate">18/03/2017</div>
+</div>
+</div>
+<div class="m-bg" id="m-bg"></div>
+</div>
+</div>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/xev2/js/mobilelatest.js?1"></script>
+
+
+<div class="m-breadcrumbs">
+<ul class="m-breadcrumbs-content">
+<li><a href="/" class="breadcrumbs-home">Xe</a></li>
+</ul>
+<div class="dropdown">
+<a class="dropdown-ic" href="javascript:void(0);"><i class="fa fa-angle-down"></i></a>
+<div class="dropdownlist">
+<ul>
+<li><a href="/tin-tuc/" title="Thị trường">Thị trường</a></li>
+<li><a href="/tu-van/" title="Tư vấn">Tư vấn</a></li>
+<li><a href="/dien-dan/" title="Diễn đàn">Diễn đàn</a></li>
+<li><a href="/danh-gia-xe/" title="Đánh giá xe">Đánh giá xe</a></li>
+<li><a href="/kham-pha/" title="Khám phá">Khám phá</a></li>
+<li><a href="/clip/" title="Video">Video</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="panel">
+<div class="search">
+<input type="text" placeholder="Tìm kiếm" class="txtsearch" id="txtsearchmenumobile" />
+<button type="button" class="btn btnsearch" rel="#txtsearchmenumobile"><i class="fa fa-search"></i></button>
+</div>
+<div class="navigationMenu" id="accordion">
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#thoi-su" aria-expanded="false" catehref="http://thanhnien.vn/thoi-su/" title="Thời sự" rel="4"><i class="fa fa-file-text-o"></i><span>Thời sự</span><i class="fa fa-chevron-down"></i></a><div id="thoi-su" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/thoi-su/quoc-phong/" title="Quốc phòng" rel="64"><i class="fa fa-chevron-circle-right"></i>Quốc phòng</a></li><li><a href="http://thanhnien.vn/thoi-su/phap-luat/" title="Pháp luật" rel="5"><i class="fa fa-chevron-circle-right"></i>Pháp luật</a></li><li><a href="http://thanhnien.vn/thoi-su/doc-quyen/" title="Độc quyền" rel="128"><i class="fa fa-chevron-circle-right"></i>Độc quyền</a></li><li><a href="http://thanhnien.vn/thoi-su/tinh-huong/" title="Tình huống" rel="150"><i class="fa fa-chevron-circle-right"></i>Tình huống</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#toi-viet" aria-expanded="false" catehref="http://thanhnien.vn/toi-viet/" title="Tôi viết" rel="89"><i class="fa fa-pencil-square-o"></i><span>Tôi viết</span><i class="fa fa-chevron-down"></i></a><div id="toi-viet" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/toi-viet/blog-phong-vien/" title="Blog phóng viên" rel="152"><i class="fa fa-chevron-circle-right"></i>Blog phóng viên</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#the-gioi" aria-expanded="false" catehref="http://thanhnien.vn/the-gioi/" title="Thế giới" rel="66"><i class="fa fa-globe"></i><span>Thế giới</span><i class="fa fa-chevron-down"></i></a><div id="the-gioi" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/the-gioi/quan-su/" title="Quân sự" rel="144"><i class="fa fa-chevron-circle-right"></i>Quân sự</a></li><li><a href="http://thanhnien.vn/the-gioi/goc-nhin/" title="Góc nhìn" rel="129"><i class="fa fa-chevron-circle-right"></i>Góc nhìn</a></li><li><a href="http://thanhnien.vn/the-gioi/ho-so/" title="Hồ sơ" rel="130"><i class="fa fa-chevron-circle-right"></i>Hồ sơ</a></li><li><a href="http://thanhnien.vn/the-gioi/hau-truong/" title="Hậu trường" rel="131"><i class="fa fa-chevron-circle-right"></i>Hậu trường</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#van-hoa" aria-expanded="false" catehref="http://thanhnien.vn/van-hoa/" title="Văn hóa" rel="93"><i class="fa fa-university"></i><span>Văn hóa</span><i class="fa fa-chevron-down"></i></a><div id="van-hoa" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/van-hoa/dien-anh/" title="Điện ảnh" rel="101"><i class="fa fa-chevron-circle-right"></i>Điện ảnh</a></li><li><a href="http://thanhnien.vn/van-hoa/truyen-hinh/" title="Truyền hình" rel="95"><i class="fa fa-chevron-circle-right"></i>Truyền hình</a></li><li><a href="http://thanhnien.vn/van-hoa/cau-chuyen/" title="Câu chuyện văn hóa" rel="149"><i class="fa fa-chevron-circle-right"></i>Câu chuyện văn hóa</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#the-thao" aria-expanded="false" catehref="http://thethao.thanhnien.vn/" title="Thể thao" rel="73"><i class="fa fa-futbol-o"></i><span>Thể thao</span><i class="fa fa-chevron-down"></i></a><div id="the-thao" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thethao.thanhnien.vn/euro-2016/" title="Euro 2016" rel="185"><i class="fa fa-chevron-circle-right"></i>Euro 2016</a></li><li><a href="http://thethao.thanhnien.vn/bong-da-viet-nam/" title="Bóng đá Việt Nam" rel="162"><i class="fa fa-chevron-circle-right"></i>Bóng đá Việt Nam</a></li><li><a href="http://thethao.thanhnien.vn/bong-da-quoc-te/" title="Bóng đá Quốc tế" rel="163"><i class="fa fa-chevron-circle-right"></i>Bóng đá Quốc tế</a></li><li><a href="http://thethao.thanhnien.vn/binh-luan/" title="Bình luận" rel="164"><i class="fa fa-chevron-circle-right"></i>Bình luận</a></li><li><a href="http://thethao.thanhnien.vn/quan-vot/" title="Quần vợt" rel="165"><i class="fa fa-chevron-circle-right"></i>Quần vợt</a></li><li><a href="http://thethao.thanhnien.vn/hau-truong/" title="Hậu trường" rel="166"><i class="fa fa-chevron-circle-right"></i>Hậu trường</a></li><li><a href="http://thethao.thanhnien.vn/toan-canh-the-thao/" title="Thể Thao khác" rel="169"><i class="fa fa-chevron-circle-right"></i>Thể Thao khác</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#doi-song" aria-expanded="false" catehref="http://thanhnien.vn/doi-song/" title="Đời sống" rel="17"><i class="fa fa-coffee"></i><span>Đời sống</span><i class="fa fa-chevron-down"></i></a><div id="doi-song" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/doi-song/dan-sinh/" title="Dân sinh" rel="176"><i class="fa fa-chevron-circle-right"></i>Dân sinh</a></li><li><a href="http://thanhnien.vn/doi-song/gia-dinh/" title="Gia đình" rel="177"><i class="fa fa-chevron-circle-right"></i>Gia đình</a></li><li><a href="http://thanhnien.vn/doi-song/giao-thong/" title="Giao thông" rel="178"><i class="fa fa-chevron-circle-right"></i>Giao thông</a></li><li><a href="http://thanhnien.vn/doi-song/quyen-duoc-biet/" title="Quyền được biết" rel="179"><i class="fa fa-chevron-circle-right"></i>Quyền được biết</a></li><li><a href="http://thanhnien.vn/doi-song/cong-dong/" title="Cộng đồng" rel="190"><i class="fa fa-chevron-circle-right"></i>Cộng đồng</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#kinh-doanh" aria-expanded="false" catehref="http://thanhnien.vn/kinh-doanh/" title="Kinh doanh" rel="49"><i class="fa fa-bar-chart"></i><span>Kinh doanh</span><i class="fa fa-chevron-down"></i></a><div id="kinh-doanh" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/kinh-doanh/tieu-dung/" title="Tiêu dùng" rel="132"><i class="fa fa-chevron-circle-right"></i>Tiêu dùng</a></li><li><a href="http://thanhnien.vn/kinh-doanh/lam-giau/" title="Làm giàu" rel="133"><i class="fa fa-chevron-circle-right"></i>Làm giàu</a></li><li><a href="http://thanhnien.vn/kinh-doanh/dia-oc/" title="Địa ốc" rel="54"><i class="fa fa-chevron-circle-right"></i>Địa ốc</a></li><li><a href="http://thanhnien.vn/kinh-doanh/chinh-sach/" title="Chính sách" rel="135"><i class="fa fa-chevron-circle-right"></i>Chính sách</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#gioi-tre" aria-expanded="false" catehref="http://thanhnien.vn/gioi-tre/" title="Giới trẻ" rel="69"><i class="fa fa-heart"></i><span>Giới trẻ</span><i class="fa fa-chevron-down"></i></a><div id="gioi-tre" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/gioi-tre/than-tuong/" title="Thần tượng" rel="180"><i class="fa fa-chevron-circle-right"></i>Thần tượng</a></li><li><a href="http://thanhnien.vn/gioi-tre/song-yeu-an-choi/" title="Sống - Yêu - Ăn - Chơi" rel="181"><i class="fa fa-chevron-circle-right"></i>Sống - Yêu - Ăn - Chơi</a></li><li><a href="http://thanhnien.vn/gioi-tre/the-gioi-mang/" title="Thế giới mạng" rel="182"><i class="fa fa-chevron-circle-right"></i>Thế giới mạng</a></li><li><a href="http://thanhnien.vn/gioi-tre/ket-noi/" title="Kết nối" rel="183"><i class="fa fa-chevron-circle-right"></i>Kết nối</a></li><li><a href="http://khoinghiep.thanhnien.vn/" title="Khởi nghiệp" rel="189"><i class="fa fa-chevron-circle-right"></i>Khởi nghiệp</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#giao-duc" aria-expanded="false" catehref="http://thanhnien.vn/giao-duc/" title="Giáo dục" rel="26"><i class="fa fa-graduation-cap"></i><span>Giáo dục</span><i class="fa fa-chevron-down"></i></a><div id="giao-duc" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/giao-duc/tuyen-sinh/2017/" title="Tuyển sinh 2017" rel="195"><i class="fa fa-chevron-circle-right"></i>Tuyển sinh 2017</a></li><li><a href="http://thanhnien.vn/giao-duc/hop-thu-tu-van-24-7/" title="Hộp thư Tư vấn 24/7" rel="204"><i class="fa fa-chevron-circle-right"></i>Hộp thư Tư vấn 24/7</a></li><li><a href="http://thanhnien.vn/giao-duc/du-hoc/" title="Du học" rel="28"><i class="fa fa-chevron-circle-right"></i>Du học</a></li><li><a href="http://thanhnien.vn/giao-duc/chon-nghe/" title="Chọn nghề" rel="136"><i class="fa fa-chevron-circle-right"></i>Chọn nghề</a></li><li><a href="http://thanhnien.vn/giao-duc/chon-truong/" title="Chọn trường" rel="184"><i class="fa fa-chevron-circle-right"></i>Chọn trường</a></li><li><a href="http://thanhnien.vn/giao-duc/nguoi-thay/" title="Người thầy" rel="138"><i class="fa fa-chevron-circle-right"></i>Người thầy</a></li><li><a href="http://thanhnien.vn/giao-duc/tuyen-sinh/" title="Tuyển sinh" rel="30"><i class="fa fa-chevron-circle-right"></i>Tuyển sinh</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#cong-nghe" aria-expanded="false" catehref="http://thanhnien.vn/cong-nghe/" title="Công nghệ" rel="12"><i class="fa fa-mobile"></i><span>Công nghệ</span><i class="fa fa-chevron-down"></i></a><div id="cong-nghe" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/cong-nghe/san-pham-moi/" title="Sản phẩm mới" rel="14"><i class="fa fa-chevron-circle-right"></i>Sản phẩm mới</a></li><li><a href="http://thanhnien.vn/cong-nghe/kinh-nghiem/" title="Kinh Nghiệm" rel="15"><i class="fa fa-chevron-circle-right"></i>Kinh Nghiệm</a></li><li><a href="http://thanhnien.vn/cong-nghe/y-tuong/" title="Ý tưởng" rel="139"><i class="fa fa-chevron-circle-right"></i>Ý tưởng</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#" aria-expanded="false" catehref="http://game.thanhnien.vn/" title="Game" rel="117"><i class="fa fa-gamepad"></i><span>Game</span></a>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#suc-khoe" aria-expanded="false" catehref="http://thanhnien.vn/suc-khoe/" title="Sức khỏe" rel="65"><i class="fa fa-medkit"></i><span>Sức khỏe</span><i class="fa fa-chevron-down"></i></a><div id="suc-khoe" class="panel-collapse collapse"><ul class="sub-list"><li><a href="http://thanhnien.vn/doi-song/lam-dep/" title="Làm đẹp" rel="21"><i class="fa fa-chevron-circle-right"></i>Làm đẹp</a></li><li><a href="http://thanhnien.vn/suc-khoe/gioi-tinh/" title="Giới tính" rel="147"><i class="fa fa-chevron-circle-right"></i>Giới tính</a></li><li><a href="http://thanhnien.vn/suc-khoe/khoanh-khac-nghe-y/" title="Khoảnh khắc nghề y" rel="188"><i class="fa fa-chevron-circle-right"></i>Khoảnh khắc nghề y</a></li></ul></div>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#" aria-expanded="false" catehref="http://xe.thanhnien.vn" title="Xe" rel="114"><i class="fa fa-car"></i><span>Xe</span></a>
+</div>
+<div class="panel">
+<a class="nav-heading" data-toggle="collapse" data-parent="#accordion" href="#" aria-expanded="false" catehref="http://media.thanhnien.com.vn/" title="Video" rel="115"><i class="fa fa-play-circle-o"></i><span>Video</span></a>
+</div>
+<a href="http://thanhnien.vn/pages/dat-bao.aspx" class="navi-nofollow">Đặt báo</a>
+<a href="http://quangcao.thanhnien.vn/banggia/" target="_blank" class="navi-nofollow">Quảng cáo</a>
+<a href="http://thanhnien.vn/pages/thong-tin-toa-soan.aspx" class="navi-nofollow">Thông tin tòa soạn</a>
+</div>
+</div><!--=== End Menu Tablet + Mobile ===-->
+<!--=== Header ===-->
+<header class="site-header">
+
+<div>
+<div class="masthead-meta">
+<div class="inner clearfix">
+<div class="left">
+<ul class="link">
+<li><a href="http://thanhnien.vn/pages/dat-bao.aspx">Đặt báo</a></li>
+<li><a href="http://quangcao.thanhnien.vn/banggia/" target="_blank">Quảng cáo</a></li>
+<li><a href="javascript:setHomepage();">Đặt làm trang chủ</a></li>
+<li><a href="/rss.html">RSS</a></li>
+<li><a href="http://www.thanhniennews.com/" target="_blank">Eng Edition</a></li>
+</ul>
+</div>
+<div class="right">
+<ul class="link">
+<li><a href="javascript:void(0);"><i class="fa fa-phone"></i><b>Hotline:</b> 0906 645 777</a></li>
+<li><a href="javascript:void(0);"><i class="fa fa-sign-in"></i>Đăng nhập</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="inner">
+
+<div class="hot-topic">
+<h3 class="label">Tiêu điểm</h3>
+<ul>
+<li><a href="http://thanhnien.vn/gianh-lai-via-he/tag.html"><i class="fa fa-circle"></i>Giải toả vỉa hè</a></li>
+<li><a href="http://thanhnien.vn/pvn/tag.html"><i class="fa fa-circle"></i>PVN</a></li>
+<li><a href="http://thanhnien.vn/kim-jong-nam/tag.html"><i class="fa fa-circle"></i>Kim Jong-nam</a></li>
+<li><a href="http://thanhnien.vn/doan-thi-huong/tag.html"><i class="fa fa-circle"></i>Đoàn Thị Hương</a></li>
+<li><a href="http://thanhnien.vn/donald-trump/tag.html"><i class="fa fa-circle"></i>Donald Trump</a></li>
+<li><a href="http://thanhnien.vn/xam-hai-tinh-duc-tre-em/tag.html"><i class="fa fa-circle"></i>Xâm hại tình dục trẻ em</a></li>
+<li><a href="http://thanhnien.vn/tuyen-sinh-2017/tag.html"><i class="fa fa-circle"></i>Tuyển sinh 2017</a></li>
+<li><a href="http://thanhnien.vn/v-league-2017/tag.html"><i class="fa fa-circle"></i>V-League 2017</a></li>
+<li><a href="http://thanhnien.vn/khoi-nghiep/tag.html"><i class="fa fa-circle"></i>Khởi nghiệp</a></li>
+</ul>
+</div>
+<div class="hdr-option2 branding clearfix">
+<h1><a href="http://thanhnien.vn" class="logo" title="Tin tức Thanh Niên Online">Thanh Niên</a></h1>
+<div class="banner">
+
+<div id="adsctl00_ctl22_AdsHome22" position="TopBanner" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:690px;height:90px"><div class='adsitem' rel='17' tag='TGX - Top Banner'><!-- /23411214/TGX_Top_728_90 -->
+<div id='div-gpt-ad-1489023062803-0' style='height:90px; width:728px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489023062803-0'); });
+</script>
+</div></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_ctl22_AdsHome22', -1, -1);</script>
+</div>
+</div>
+</div>
+</div>
+
+
+<nav class="navigation" data-spy="affix" data-offset-top="160" data-offset-bottom="200">
+<ul class="inner navbar clearfix" id="mainmenu">
+<li><a href="http://thanhnien.vn/" class="navparent"><i class="fa fa-home"></i></a></li>
+
+<li id='mainmenu4'><a href="http://thanhnien.vn/thoi-su/" title="Thời sự" rel="4" class="navparent ">Thời sự</a></li>
+<li id='mainmenu89'><a href="http://thanhnien.vn/toi-viet/" title="Tôi viết" rel="89" class="navparent ">Tôi viết</a></li>
+<li id='mainmenu66'><a href="http://thanhnien.vn/the-gioi/" title="Thế giới" rel="66" class="navparent ">Thế giới</a></li>
+<li id='mainmenu93'><a href="http://thanhnien.vn/van-hoa/" title="Văn hóa" rel="93" class="navparent ">Văn hóa</a></li>
+<li id='mainmenu73'><a href="http://thethao.thanhnien.vn/" title="Thể thao" rel="73" class="navparent ">Thể thao</a></li>
+<li id='mainmenu17'><a href="http://thanhnien.vn/doi-song/" title="Đời sống" rel="17" class="navparent ">Đời sống</a></li>
+<li id='mainmenu49'><a href="http://thanhnien.vn/kinh-doanh/" title="Kinh doanh" rel="49" class="navparent ">Kinh doanh</a></li>
+<li id='mainmenu69'><a href="http://thanhnien.vn/gioi-tre/" title="Giới trẻ" rel="69" class="navparent ">Giới trẻ</a></li>
+<li id='mainmenu26'><a href="http://thanhnien.vn/giao-duc/" title="Giáo dục" rel="26" class="navparent ">Giáo dục</a></li>
+<li id='mainmenu12'><a href="http://thanhnien.vn/cong-nghe/" title="Công nghệ" rel="12" class="navparent ">Công nghệ</a></li>
+<li id='mainmenu117'><a href="http://game.thanhnien.vn/" title="Game" rel="117" class="navparent ">Game</a></li>
+<li id='mainmenu65'><a href="http://thanhnien.vn/suc-khoe/" title="Sức khỏe" rel="65" class="navparent ">Sức khỏe</a></li>
+<li id='mainmenu114'><a href="http://xe.thanhnien.vn" title="Xe" rel="114" class="navparent selected">Xe</a></li>
+<li id='mainmenu115'><a href="http://media.thanhnien.com.vn/" title="Video" rel="115" class="navparent ">Video</a></li>
+<li class="search-form">
+<a href="javascript:void(0);" class="navparent search-area"><i class="fa fa-search"></i></a>
+<div class="mega-search clearfix"><input type="text" class="txtsearch" /></div>
+</li>
+</ul>
+</nav>
+
+<div class="subnav"><ul class="subnav-ctn clearfix" id="submenu">
+<li><a href="http://xe.thanhnien.vn" title="Xe" rel="192">Xe</a></li>
+<li><a href="http://xe.thanhnien.vn/tin-tuc/" title="Thị trường" rel="205">Thị trường</a></li>
+<li><a href="http://xe.thanhnien.vn/tu-van/" title="Tư vấn" rel="206">Tư vấn</a></li>
+<li><a href="http://xe.thanhnien.vn/dien-dan/" title="Diễn đàn" rel="211">Diễn đàn</a></li>
+<li><a href="http://xe.thanhnien.vn/danh-gia-xe/" title="Đánh giá xe" rel="207">Đánh giá xe</a></li>
+<li><a href="http://xe.thanhnien.vn/kham-pha/" title="Khám phá" rel="209">Khám phá</a></li>
+<li><a href="http://xe.thanhnien.vn/clip/" title="Video" rel="210">Video</a></li>
+</ul></div>
+</header><!--=== End Header ===-->
+<!--=== Content ===-->
+
+<!--=== Begin Content ===-->
+<div class="site-wrap">
+<div class="inner">
+<div class="simplebanner top-banner">
+<div id="adsctl00_main_AdsHome9" position="SuperLeaderboard" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:970px;height:90px"><div class='adsitem' rel='6' tag='TGX - Super Leaderboard'><!-- /23411214/TGX_Home_Leaderboard_970_90 -->
+<div id='div-gpt-ad-1476236296180-0' style='height:90px; width:970px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1476236296180-0'); });
+</script>
+</div></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome9', -1, -1);</script></div>
+<div id="topbanner-mobile">
+<div id="adsctl00_main_AdsHome12" position="TopBanner_Mobile" class="simplebanner banner" align='center' style="display:none;">
+
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome12', 0, -1);</script></div>
+
+<div class="breadcrumbs">
+<ul class="clearfix">
+<li class="home"><a href="/">Xe</a></li>
+<li class="sub"><a href="javascript:void(0);"></a></li>
+<li class=""><a href="/clip/" title="Video">Video</a></li>
+<li class=""><a href="/kham-pha/" title="Khám phá">Khám phá</a></li>
+<li class=""><a href="/danh-gia-xe/" title="Đánh giá xe">Đánh giá xe</a></li>
+<li class=""><a href="/dien-dan/" title="Diễn đàn">Diễn đàn</a></li>
+<li class=""><a href="/tu-van/" title="Tư vấn">Tư vấn</a></li>
+<li class=""><a href="/tin-tuc/" title="Thị trường">Thị trường</a></li>
+</ul>
+</div>
+<div class="highlight clearfix">
+
+<section class="focus clearfix" id="highlightbox">
+<article class="spotlight">
+<a href="/tin-tuc/honda-mo-them-trung-tam-dao-tao-lai-xe-an-toan-cho-nguoi-viet-11687.html" title="Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bqthai/ThaiNguyen-5/HondaVN/tt-honda-lai-xe-an-toan-thanhnien1_WQHR.jpg?w=660&h=350&crop=auto&scale=both&encoder=wic&subsampling=444" msrc="http://static.thanhnien.com.vn/Uploaded/bqthai/ThaiNguyen-5/HondaVN/tt-honda-lai-xe-an-toan-thanhnien1_WQHR.jpg?w=400&h=235&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt"/></a>
+<div class="metadata">
+<a href="/tin-tuc/honda-mo-them-trung-tam-dao-tao-lai-xe-an-toan-cho-nguoi-viet-11687.html" title="Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt" class="title">Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt</a>
+<div class="meta"><time class="timebox" rel="1489771560000">17:26, 17/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article><nav class="focus-keyword">
+<ul>
+<li>tiêu điểm</li>
+
+<li><a href="/honda-cr--v/tag.html" title="Honda CR-V">Honda CR-V</a></li>
+<li><a href="/mercedes-glc/tag.html" title="Mercedes GLC">Mercedes GLC</a></li>
+<li><a href="/yamaha-nvx/tag.html" title="Yamaha NVX">Yamaha NVX</a></li>
+<li><a href="/toyota-fortuner/tag.html" title="Toyota Fortuner">Toyota Fortuner</a></li>
+<li><a href="/sieu-xe/tag.html" title="siêu xe">siêu xe</a></li>
+<li><a href="/xe-gia-re/tag.html" title="xe giá rẻ">xe giá rẻ</a></li>
+<li><a href="/xe-nga/tag.html" title="xe Nga">xe Nga</a></li>
+</ul>
+</nav>
+<article class="spotlight">
+<a href="/kham-pha/toyota-xuyen-bien-gioi-len-tay-bac-giua-mua-hoa-ban-trang-11679.html" title="Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung11/Hanh-trinh-Toyota-Tay-Bac/hanh-trinh-toyota-tay-bac-thanhnien16_FEZY.jpg?w=248&h=140&crop=auto&scale=both&encoder=wic&subsampling=444" msrc="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung11/Hanh-trinh-Toyota-Tay-Bac/hanh-trinh-toyota-tay-bac-thanhnien16_FEZY.jpg?w=400&h=235&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng"/></a>
+<div class="metadata"><a href="/kham-pha/toyota-xuyen-bien-gioi-len-tay-bac-giua-mua-hoa-ban-trang-11679.html" title="Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng" class="title">Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng</a></div>
+</article>
+<article class="spotlight">
+<a href="/tin-tuc/kham-pha-mau-xe-trieu-nguoi-mo-bmw-3series-11681.html" title="Khám phá mẫu xe triệu người mơ - BMW 3-Series" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bqthai/ThaiNguyen-5/BMW-3-Series/bmw-3-series-thanhnien-2_SJZI.jpg?w=248&h=140&crop=auto&scale=both&encoder=wic&subsampling=444" msrc="http://static.thanhnien.com.vn/Uploaded/bqthai/ThaiNguyen-5/BMW-3-Series/bmw-3-series-thanhnien-2_SJZI.jpg?w=400&h=235&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Khám phá mẫu xe triệu người mơ - BMW 3-Series"/></a>
+<div class="metadata"><a href="/tin-tuc/kham-pha-mau-xe-trieu-nguoi-mo-bmw-3series-11681.html" title="Khám phá mẫu xe triệu người mơ - BMW 3-Series" class="title">Khám phá mẫu xe triệu người mơ - BMW 3-Series</a></div>
+</article>
+<article class="spotlight">
+<a href="/tin-tuc/khach-hang-mua-lamborghini-vi-khong-the-so-huu-ferrari-11677.html" title="‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/vietduc/2017_03_16/ferrari_JUAT.jpg?w=248&h=140&crop=auto&scale=both&encoder=wic&subsampling=444" msrc="http://static.thanhnien.com.vn/Uploaded/vietduc/2017_03_16/ferrari_JUAT.jpg?w=400&h=235&crop=auto&scale=both&encoder=wic&subsampling=444" alt="‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’"/></a>
+<div class="metadata"><a href="/tin-tuc/khach-hang-mua-lamborghini-vi-khong-the-so-huu-ferrari-11677.html" title="‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’" class="title">‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’</a></div>
+</article>
+<article class="spotlight">
+<a href="/tin-tuc/xe-sieu-sang-bentley-mulsanne-2017-dau-tien-ve-viet-nam-11675.html" title="Xe siêu sang Bentley Mulsanne 2017 đầu tiên về Việt Nam" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/chicuong/2017_03_16/bentley/17309441-617732415092950-6545346293669219807-n_YQKZ.jpg?w=248&h=140&crop=auto&scale=both&encoder=wic&subsampling=444" msrc="http://static.thanhnien.com.vn/Uploaded/chicuong/2017_03_16/bentley/17309441-617732415092950-6545346293669219807-n_YQKZ.jpg?w=400&h=235&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Xe siêu sang Bentley Mulsanne 2017 đầu tiên về Việt Nam"/></a>
+<div class="metadata"><a href="/tin-tuc/xe-sieu-sang-bentley-mulsanne-2017-dau-tien-ve-viet-nam-11675.html" title="Xe siêu sang Bentley Mulsanne 2017 đầu tiên về Việt Nam" class="title">Xe siêu sang Bentley Mulsanne 2017 đầu tiên về Việt Nam</a></div>
+</article>
+</section>	<!-- end .focus -->
+<div class="sidebar col300">
+
+<div id="adsctl00_main_AdsHome1" position="TheGioiXe_LargeBanner_Ad1_v2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:300px;"><div class='adsitem' rel='19' tag='TGX - Medium Rectangle 1'><!-- /23411214/TGX_Medium_Rectangle_Ad1 -->
+<div id='div-gpt-ad-1479783966410-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479783966410-0'); });
+</script>
+</div></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome1', 0, -1);</script>
+
+<div id="adsctl00_main_AdsHome2" position="TheGioiXe_LargeBanner_Ad2_v2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:300px;"><div class='adsitem' rel='18' tag='TGX - Medium Rectangle 2'><!-- /23411214/TGX_Medium_Rectangle_Ad2 -->
+<div id='div-gpt-ad-1479784064535-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479784064535-0'); });
+</script>
+</div></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome2', 0, -1);</script>
+
+<div id="adsctl00_main_AdsHome3" position="TheGioiXe_LargeBanner_Ad3_v2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:300px;"><span class='adsitem' rel='20' tag='TGX - Right Banner 1'><script type="text/javascript">document.write("<scr"+"ipt src='//media1.admicro.vn/ads_codes/ads_box_37133.ads'></scr"+"ipt>");</script></span></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome3', 0, -1);</script>
+</div>
+</div>	<!-- end .highlight -->
+</div>	<!-- end .inner -->
+<div class="region">
+<div class="inner clearfix">
+<div class="container">
+
+<section class="block clearfix">
+<header class="heading">
+<h3><a href="/tin-tuc/" title="Thị trường" class="label">Thị trường</a></h3>
+<ul class="cate-child"><li><a href="/tin-tuc/trong-nuoc/">Trong nước</a></li><li><a href="/tin-tuc/the-gioi/">Thế giới</a></li></ul>
+</header>
+<article class="top-story clearfix">
+<a href="/tin-tuc/honda-mo-them-trung-tam-dao-tao-lai-xe-an-toan-cho-nguoi-viet-11687.html" title="Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bqthai/ThaiNguyen-5/HondaVN/tt-honda-lai-xe-an-toan-thanhnien1_WQHR.jpg?w=390&h=260&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt"/></a>
+<div class="metadata">
+<h2><a href="/tin-tuc/honda-mo-them-trung-tam-dao-tao-lai-xe-an-toan-cho-nguoi-viet-11687.html" title="Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt" class="title">Honda mở thêm trung tâm đào tạo lái xe an toàn cho người Việt</a></h2>
+<div class="meta"><time class="timebox" rel="1489771560000">17:26, 17/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/tin-tuc/volkswagen-arteon-anh-em-cua-audi-a7-11673.html" title="Volkswagen Arteon - 'anh em' của Audi A7?" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/chicuong/2017_03_16/vw/vw-arteon-7_QXTZ.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Volkswagen Arteon - 'anh em' của Audi A7?"/></a>
+<div class="metadata">
+<h2><a href="/tin-tuc/volkswagen-arteon-anh-em-cua-audi-a7-11673.html" title="Volkswagen Arteon - 'anh em' của Audi A7?" class="title">Volkswagen Arteon - 'anh em' của Audi A7?</a></h2>
+<div class="meta"><time class="timebox" rel="1489758068420">13:41, 17/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/tin-tuc/khach-hang-mua-lamborghini-vi-khong-the-so-huu-ferrari-11677.html" title="‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/vietduc/2017_03_16/ferrari_JUAT.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’"/></a>
+<div class="metadata">
+<h2><a href="/tin-tuc/khach-hang-mua-lamborghini-vi-khong-the-so-huu-ferrari-11677.html" title="‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’" class="title">‘Khách hàng mua Lamborghini vì không thể sở hữu Ferrari’</a></h2>
+<div class="meta"><time class="timebox" rel="1489749147557">11:12, 17/03/2017</time><span><i class="fa fa-comments-o"></i>1</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/tin-tuc/acura-mdx-co-them-ban-hybrid-canh-tranh-lexus-rx-11671.html" title=" Acura MDX có thêm bản hybrid, cạnh tranh Lexus RX" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/chicuong/2017_03_16/acura/2017-acura-mdx-sport-hybrid-8_TGUW.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt=" Acura MDX có thêm bản hybrid, cạnh tranh Lexus RX"/></a>
+<div class="metadata">
+<h2><a href="/tin-tuc/acura-mdx-co-them-ban-hybrid-canh-tranh-lexus-rx-11671.html" title=" Acura MDX có thêm bản hybrid, cạnh tranh Lexus RX" class="title"> Acura MDX có thêm bản hybrid, cạnh tranh Lexus RX</a></h2>
+<div class="meta"><time class="timebox" rel="1489749000000">11:10, 17/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+</section>	<!-- Thi Truong -->
+<section class="block clearfix">
+
+<header class="heading">
+<h3><a href="/tu-van/" title="Tư vấn" class="label">Tư vấn</a></h3>
+<ul class="cate-child"><li><a href="/tu-van/ky-thuat/">Kỹ thuật</a></li><li><a href="/tu-van/kinh-nghiem/">Kinh nghiệm</a></li><li><a href="/tu-van/hoi-dap/">Hỏi - Đáp</a></li></ul>
+</header>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="panel">
+<div class="panel-heading" role="tab" id="heading0"><h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse0" aria-expanded="true" aria-controls="collapse0" link="/tu-van/nuoc-nho-giot-duoi-gam-o-to-nguyen-nhan-do-dau-9413.html">
+<span class="collapse-dd"></span>
+<span class="title">Nước nhỏ giọt dưới gầm ô tô, nguyên nhân do đâu?</span>
+<div class="meta"><time class="timebox" rel="1489568180787">08:56, 15/03/2017</time><span><i class="fa fa-comments-o"></i>11</span></div>
+</a></h4></div>
+<div id="collapse0" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading0"><div class="panel-body">
+<div class="user-faq">Gầm &ocirc; t&ocirc; li&ecirc;n tục xuất hiện những giọt nước r&ograve; rỉ mỗi khi dừng xe. Xin hỏi hiện tượng n&agrave;y do đ&acirc;u v&agrave; c&oacute; ảnh hưởng g&igrave; đến c&aacute;c hệ thống tr&ecirc;n xe?</div>
+<div class="newest-comment">
+<h4 class="name"><i class="icon-user icons"></i>Thông</h4>
+<time class="timebox" rel="1489699787463">21:29, 16/03/2017</time>
+<div class="user-faq">Xe mô cũng rứa mà, nước điều hoà mà.</div>
+</div>
+<a href="/tu-van/nuoc-nho-giot-duoi-gam-o-to-nguyen-nhan-do-dau-9413.html" title="Nước nhỏ giọt dưới gầm ô tô, nguyên nhân do đâu?" class="viewmore">Đã có ( 11 ) trả lời →</a>
+</div></div>
+</div>
+<div class="panel">
+<div class="panel-heading" role="tab" id="heading1"><h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1" link="/tu-van/6-thao-tac-co-ban-khi-su-dung-mo-to-phan-khoi-lon-10213.html">
+<span class="collapse-dd"></span>
+<span class="title">6 thao tác cơ bản khi sử dụng mô tô phân khối lớn</span>
+<div class="meta"><time class="timebox" rel="1488364837740">10:40, 01/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</a></h4></div>
+<div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1"><div class="panel-body"><div class="user-faq">Việc nắm vững c&aacute;c thao t&aacute;c cơ bản, sẽ g&oacute;p phần gi&uacute;p người l&aacute;i  cảm nhận được sự thoải m&aacute;i cũng như đảm bảo an to&agrave;n khi &ldquo;cầm cương&rdquo; một chiếc m&ocirc; t&ocirc; ph&acirc;n khối lớn.</div></div></div>
+</div>
+<div class="panel">
+<div class="panel-heading" role="tab" id="heading2"><h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2" link="/tu-van/do-xe-o-to-vi-sao-khong-nen-ve-p-truoc-khi-keo-phanh-tay-10179.html">
+<span class="collapse-dd"></span>
+<span class="title">Đỗ xe ô tô, vì sao không nên về P trước khi kéo phanh tay?</span>
+<div class="meta"><time class="timebox" rel="1487933640000">10:54, 24/02/2017</time><span><i class="fa fa-comments-o"></i>7</span></div>
+</a></h4></div>
+<div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2"><div class="panel-body"><div class="user-faq">Khi thực hiện c&aacute;c bước dừng, đỗ xe. Th&oacute;i quen đưa cần số về vị tr&iacute; P trước khi k&eacute;o phanh tay của c&aacute;c l&aacute;i xe, rất dễ g&acirc;y ra những hư hại, m&agrave;i m&ograve;n cho c&aacute;c chi tiết trong hộp số.</div></div></div>
+</div>
+
+
+</div>	<!-- end .panel-group -->
+
+</section><!-- Tu Van -->
+<section class="block clearfix">
+
+<header class="heading"><h3><a href="/dien-dan/" title="Diễn đàn" class="label">Diễn đàn</a></h3></header>
+<div class="faq-morestories">
+<article class="story clearfix">
+<a href="/dien-dan/nguoi-viet-do-xo-sam-xe-may-du-biet-chang-hay-nhung-vi-tien-10322.html" title="Người Việt đổ xô sắm xe máy, dù biết chẳng hay nhưng vì tiện" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bahung/Bahung7/Nguoi-Viet-sam-xe-may-ThanhNien/nguoi-viet-sam-xe-may-thanhnien1_UCCD.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Người Việt đổ xô sắm xe máy, dù biết chẳng hay nhưng vì tiện"/></a>
+<div class="metadata">
+<h2><a href="/dien-dan/nguoi-viet-do-xo-sam-xe-may-du-biet-chang-hay-nhung-vi-tien-10322.html" title="Người Việt đổ xô sắm xe máy, dù biết chẳng hay nhưng vì tiện" class="title">Người Việt đổ xô sắm xe máy, dù biết chẳng hay nhưng vì tiện</a></h2>
+<div class="meta"><time class="timebox" rel="1484391600000">11:00, 14/01/2017</time><span><i class="fa fa-comments-o"></i>11</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/dien-dan/xu-ly-tinh-huong-tren-duong-cao-toc-can-lam-nhung-ky-nang-10321.html" title="Xử lý tình huống trên đường cao tốc, cần lắm những kỹ năng" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/vietduc/2016_12_27/img_20161128_103432_IXQC.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Xử lý tình huống trên đường cao tốc, cần lắm những kỹ năng"/></a>
+<div class="metadata">
+<h2><a href="/dien-dan/xu-ly-tinh-huong-tren-duong-cao-toc-can-lam-nhung-ky-nang-10321.html" title="Xử lý tình huống trên đường cao tốc, cần lắm những kỹ năng" class="title">Xử lý tình huống trên đường cao tốc, cần lắm những kỹ năng</a></h2>
+<div class="meta"><time class="timebox" rel="1482833040000">10:04, 27/12/2016</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+</div>
+
+<div class="faq-poll votehome" id="votebox1052">
+<h3 class="title">1 tỉ đồng, nên mua Honda Civic mới hay Mazda 6 2.0L AT?</h3>
+<div class="radio-group">
+<div class="radio clearfix"><input type="radio" name="vote1052" id="idvote1052_0" value="0"/>Honda Civic mới</div>
+<div class="radio clearfix"><input type="radio" name="vote1052" id="idvote1052_1" value="1"/>Mazda 6 2.0L AT</div>
+<div class="radio clearfix">
+<a href="javascript:void(0);" class="btn votebutton" rel="1052">bình Chọn</a>
+<a href="javascript:void(0);" class="voteresult" rel="1052">Xem kết quả</a>
+</div>
+</div>
+</div>
+</section><!-- Dien dan -->
+
+<section class="block clearfix">
+<header class="heading">
+<h3><a href="/danh-gia-xe/" title="Đánh giá xe" class="label">Đánh giá xe</a></h3>
+<ul class="cate-child"><li><a href="/danh-gia-xe/o-to/">Ô tô</a></li><li><a href="/danh-gia-xe/xe-may/">Xe máy</a></li><li><a href="/danh-gia-xe/so-sanh/">So sánh xe</a></li></ul>
+</header>
+<article class="top-story clearfix">
+<a href="/danh-gia-xe/danh-gia-nissan-xtrail-suc-hut-den-tu-cong-nghe-10247.html" title="Đánh giá Nissan X-Trail: Sức hút đến từ công nghệ" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung10/Nissan-Xtrail-danh-gia-Thanhnien/nissan-xtrail-danh-gia-thanhnien45_KCDM.jpg?w=390&h=260&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Đánh giá Nissan X-Trail: Sức hút đến từ công nghệ"/></a>
+<div class="metadata">
+<h2><a href="/danh-gia-xe/danh-gia-nissan-xtrail-suc-hut-den-tu-cong-nghe-10247.html" title="Đánh giá Nissan X-Trail: Sức hút đến từ công nghệ" class="title">Đánh giá Nissan X-Trail: Sức hút đến từ công nghệ</a></h2>
+<div class="meta"><time class="timebox" rel="1488881982987">10:19, 07/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/danh-gia-xe/ghim-cuong-dan-chien-ma-mercedesbenz-tai-truong-dua-bira-10186.html" title="Ghìm cương ‘dàn chiến mã’ Mercedes-Benz tại trường đua Bira" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung10/Mercedes-Benz-AMG-Bira-ThanhNien/hyundai-genesis-g90-thanhnien-9_MFBE.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Ghìm cương ‘dàn chiến mã’ Mercedes-Benz tại trường đua Bira"/></a>
+<div class="metadata">
+<h2><a href="/danh-gia-xe/ghim-cuong-dan-chien-ma-mercedesbenz-tai-truong-dua-bira-10186.html" title="Ghìm cương ‘dàn chiến mã’ Mercedes-Benz tại trường đua Bira" class="title">Ghìm cương ‘dàn chiến mã’ Mercedes-Benz tại trường đua Bira</a></h2>
+<div class="meta"><time class="timebox" rel="1488188520000">09:42, 27/02/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/danh-gia-xe/danh-gia-honda-sh-150i-2017-dat-co-xat-ra-mieng-9984.html" title="Đánh giá Honda SH 150i 2017: Đắt có xắt ra miếng?" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bahung/Bahung8/Danhgia-Honda-SH2017-ThanhNien/honda-sh150-2017-danhgia-thanhnien12_WKIK.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Đánh giá Honda SH 150i 2017: Đắt có xắt ra miếng?"/></a>
+<div class="metadata">
+<h2><a href="/danh-gia-xe/danh-gia-honda-sh-150i-2017-dat-co-xat-ra-mieng-9984.html" title="Đánh giá Honda SH 150i 2017: Đắt có xắt ra miếng?" class="title">Đánh giá Honda SH 150i 2017: Đắt có xắt ra miếng?</a></h2>
+<div class="meta"><time class="timebox" rel="1485241200000">07:00, 24/01/2017</time><span><i class="fa fa-comments-o"></i>2</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/danh-gia-xe/vuot-song-cat-cung-chien-binh-sa-mac-volkswagen-touareg-9954.html" title="Vượt sóng, cát cùng 'chiến binh sa mạc' Volkswagen Touareg" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bahung/Bahung7/Volkswagen-Touareg-Trai-nghiem-ThanhNien/volkswagen-touareg-trai-nghiem-thanhnien51_IQHP.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Vượt sóng, cát cùng 'chiến binh sa mạc' Volkswagen Touareg"/></a>
+<div class="metadata">
+<h2><a href="/danh-gia-xe/vuot-song-cat-cung-chien-binh-sa-mac-volkswagen-touareg-9954.html" title="Vượt sóng, cát cùng 'chiến binh sa mạc' Volkswagen Touareg" class="title">Vượt sóng, cát cùng 'chiến binh sa mạc' Volkswagen Touareg</a></h2>
+<div class="meta"><time class="timebox" rel="1484902800000">09:00, 20/01/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+</section>	<!-- Kham Pha -->
+<section class="block clearfix">
+<header class="heading">
+<h3><a href="/kham-pha/" title="Khám phá" class="label">Khám phá</a></h3>
+<ul class="cate-child"><li><a href="/kham-pha/hanh-trinh/">Hành trình</a></li><li><a href="/kham-pha/van-hoa-xe/">Văn hóa xe</a></li><li><a href="/kham-pha/cong-nghe/">Công nghệ</a></li></ul>
+</header>
+<article class="top-story clearfix">
+<a href="/kham-pha/toyota-xuyen-bien-gioi-len-tay-bac-giua-mua-hoa-ban-trang-11679.html" title="Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung11/Hanh-trinh-Toyota-Tay-Bac/hanh-trinh-toyota-tay-bac-thanhnien16_FEZY.jpg?w=390&h=260&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng"/></a>
+<div class="metadata">
+<h2><a href="/kham-pha/toyota-xuyen-bien-gioi-len-tay-bac-giua-mua-hoa-ban-trang-11679.html" title="Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng" class="title">Toyota xuyên biên giới: Lên Tây Bắc giữa mùa hoa ban trắng</a></h2>
+<div class="meta"><time class="timebox" rel="1489748340000">10:59, 17/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/kham-pha/nha-thiet-ke-xe-infiniti-dai-su-cuba-tren-dat-my-9915.html" title="Nhà thiết kế xe Infiniti, đại sứ Cuba trên đất Mỹ" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/hoanghiep/2017_01_15/Alfonso%20Albaisa/avatar_OJYC.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Nhà thiết kế xe Infiniti, đại sứ Cuba trên đất Mỹ"/></a>
+<div class="metadata">
+<h2><a href="/kham-pha/nha-thiet-ke-xe-infiniti-dai-su-cuba-tren-dat-my-9915.html" title="Nhà thiết kế xe Infiniti, đại sứ Cuba trên đất Mỹ" class="title">Nhà thiết kế xe Infiniti, đại sứ Cuba trên đất Mỹ</a></h2>
+<div class="meta"><time class="timebox" rel="1489680729567">16:12, 16/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/kham-pha/crossover-la-gi-tai-sao-xe-crossover-la-xu-huong-mua-sam-moi-11653.html" title="Crossover là gì? Tại sao xe crossover là xu hướng mua sắm mới?" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/vietduc/2017_03_14/audi-q5-2017_04_RPOP.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Crossover là gì? Tại sao xe crossover là xu hướng mua sắm mới?"/></a>
+<div class="metadata">
+<h2><a href="/kham-pha/crossover-la-gi-tai-sao-xe-crossover-la-xu-huong-mua-sam-moi-11653.html" title="Crossover là gì? Tại sao xe crossover là xu hướng mua sắm mới?" class="title">Crossover là gì? Tại sao xe crossover là xu hướng mua sắm mới?</a></h2>
+<div class="meta"><time class="timebox" rel="1489574289990">10:38, 15/03/2017</time><span><i class="fa fa-comments-o"></i>2</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/kham-pha/xe-honda-dat-nhat-tai-viet-nam-sap-co-hop-so-10-cap-tu-dong-10268.html" title="Xe Honda đắt nhất tại Việt Nam sắp có hộp số 10 cấp tự động" class="thumb"><img src="http://static.thanhnien.com.vn/Uploaded/vietduc/2017_03_08/honda-odyssey-1_HALA.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Xe Honda đắt nhất tại Việt Nam sắp có hộp số 10 cấp tự động"/></a>
+<div class="metadata">
+<h2><a href="/kham-pha/xe-honda-dat-nhat-tai-viet-nam-sap-co-hop-so-10-cap-tu-dong-10268.html" title="Xe Honda đắt nhất tại Việt Nam sắp có hộp số 10 cấp tự động" class="title">Xe Honda đắt nhất tại Việt Nam sắp có hộp số 10 cấp tự động</a></h2>
+<div class="meta"><time class="timebox" rel="1489129200000">07:00, 10/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+</section>	<!-- Kham Pha -->
+
+<section class="block clearfix">
+<header class="heading">
+<h3><a href="/clip/" title="Video" class="label">Video</a></h3>
+
+</header>
+<article class="top-story clearfix">
+<a href="/clip/dap-nham-chan-ga-tai-xe-lui-xe-360-do-giua-duong-10294.html" title="Đạp nhầm chân ga, tài xế lùi xe 360 độ giữa đường" class="thumb"><span class="hi-icon"><i class="effect-icon"></i></span><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung11/SUV-7cho-giam-gia-Thanhnien/dap-nham-chan-ga_OSPY.jpg?w=390&h=260&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Đạp nhầm chân ga, tài xế lùi xe 360 độ giữa đường"/></a>
+<div class="metadata">
+<h2><a href="/clip/dap-nham-chan-ga-tai-xe-lui-xe-360-do-giua-duong-10294.html" title="Đạp nhầm chân ga, tài xế lùi xe 360 độ giữa đường" class="title">Đạp nhầm chân ga, tài xế lùi xe 360 độ giữa đường</a></h2>
+<div class="meta"><time class="timebox" rel="1489220760000">08:26, 11/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/clip/phanh-gap-xe-tay-ga-lat-ngua-giua-xa-lo-10218.html" title="Phanh gấp, xe tay ga lật ngửa giữa xa lộ" class="thumb"><span class="hi-icon"><i class="effect-icon"></i></span><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung10/Xe-dien-MINI-ThanhNien/hyundai-genesis-g90-thanhnien_RGBT.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Phanh gấp, xe tay ga lật ngửa giữa xa lộ"/></a>
+<div class="metadata">
+<h2><a href="/clip/phanh-gap-xe-tay-ga-lat-ngua-giua-xa-lo-10218.html" title="Phanh gấp, xe tay ga lật ngửa giữa xa lộ" class="title">Phanh gấp, xe tay ga lật ngửa giữa xa lộ</a></h2>
+<div class="meta"><time class="timebox" rel="1488366000000">11:00, 01/03/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/clip/tai-xe-bat-can-khi-do-xe-khien-o-to-troi-xuong-kenh-10164.html" title="Tài xế bất cẩn khi đỗ xe khiến ô tô trôi xuống kênh" class="thumb"><span class="hi-icon"><i class="effect-icon"></i></span><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung9/Yamaha-R3-thu-hoi-ThanhNien/oto-lao-xuong-kenh-thanhnien_MPKQ.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Tài xế bất cẩn khi đỗ xe khiến ô tô trôi xuống kênh"/></a>
+<div class="metadata">
+<h2><a href="/clip/tai-xe-bat-can-khi-do-xe-khien-o-to-troi-xuong-kenh-10164.html" title="Tài xế bất cẩn khi đỗ xe khiến ô tô trôi xuống kênh" class="title">Tài xế bất cẩn khi đỗ xe khiến ô tô trôi xuống kênh</a></h2>
+<div class="meta"><time class="timebox" rel="1487757152263">09:52, 22/02/2017</time><span><i class="fa fa-comments-o"></i>0</span></div>
+</div>
+</article>
+<article class="story clearfix">
+<a href="/clip/video-dan-xe-phan-khoi-lon-do-ve-ha-noi-du-ngay-hoi-mo-to-10154.html" title="[VIDEO] Dàn xe phân khối lớn đổ về Hà Nội dự ngày hội mô tô" class="thumb"><span class="hi-icon"><i class="effect-icon"></i></span><img src="http://static.thanhnien.com.vn/Uploaded/bahung/BaHung9/Yamaha-R3-thu-hoi-ThanhNien/ngay-hoi-mo-to-thanhnien_NHZV.jpg?w=185&h=105&crop=auto&scale=both&encoder=wic&subsampling=444" alt="[VIDEO] Dàn xe phân khối lớn đổ về Hà Nội dự ngày hội mô tô"/></a>
+<div class="metadata">
+<h2><a href="/clip/video-dan-xe-phan-khoi-lon-do-ve-ha-noi-du-ngay-hoi-mo-to-10154.html" title="[VIDEO] Dàn xe phân khối lớn đổ về Hà Nội dự ngày hội mô tô" class="title">[VIDEO] Dàn xe phân khối lớn đổ về Hà Nội dự ngày hội mô tô</a></h2>
+<div class="meta"><time class="timebox" rel="1487574000000">07:00, 20/02/2017</time><span><i class="fa fa-comments-o"></i>2</span></div>
+</div>
+</article>
+</section>	<!-- Kham Pha -->
+</div>	<!-- div .container -->
+<div class="sidebar col160">
+
+<div id="adsctl00_main_AdsHome5" position="TheGioiXe_LargeBanner_Ad4_v2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:160px;"><div class='adsitem' rel='23' tag='TGX - Wide Skycraper 1'><!-- /23411214/TGX_WideSkycraper_1 -->
+<div id='div-gpt-ad-1489026455217-0' style='height:600px; width:160px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489026455217-0'); });
+</script>
+</div></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome5', 0, -1);</script>
+
+<div id="adsctl00_main_AdsHome4" position="TheGioiXe_LargeBanner_Ad5_v2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style=""><div class='adsitem' rel='22' tag='TGX - Wide Skycraper 2'><!-- /23411214/TGX_WideSkycraper_2 -->
+<div id='div-gpt-ad-1489026377297-0' style='height:600px; width:160px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489026377297-0'); });
+</script>
+</div></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome4', 0, -1);</script>
+
+<div id="adsctl00_main_AdsHome6" position="TheGioiXe_LargeBanner_Ad6_v2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style=""><div class='adsitem' rel='21' tag='TGX - Wide Skycraper 3'><!-- /23411214/TGX_WideSkycraper_3 -->
+<div id='div-gpt-ad-1489026273549-0' style='height:600px; width:160px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489026273549-0'); });
+</script>
+</div></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome6', 0, -1);</script>
+
+<div id="adsctl00_main_AdsHome7" position="TheGioiXe_LargeBanner_Ad7_v2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style=""><span class='adsitem' rel='26' tag='TGX - Wide Skycraper 4'><script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_37066.ads"></script></span></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome7', 0, -1);</script>
+
+<div id="adsctl00_main_AdsHome8" position="TheGioiXe_LargeBanner_Ad8_v2" class="simplebanner banner" align='center' style="display:none;">
+
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_AdsHome8', 0, -1);</script>
+</div>
+</div>
+</div>	<!-- end .region -->
+</div>
+<!--=== End Content ===-->
+<!--=== Footer ===-->
+<footer class="site-footer">
+
+<section class="site-index clearfix">
+<div class="column">
+
+
+<a href="http://thanhnien.vn/thoi-su/" title="Thời sự" rel="4" class="column-heading">Thời sự</a>
+<a href="http://thanhnien.vn/thoi-su/quoc-phong/" title="Quốc phòng" rel="64">Quốc phòng</a><a href="http://thanhnien.vn/thoi-su/phap-luat/" title="Pháp luật" rel="5">Pháp luật</a><a href="http://thanhnien.vn/thoi-su/doc-quyen/" title="Độc quyền" rel="128">Độc quyền</a><a href="http://thanhnien.vn/thoi-su/tinh-huong/" title="Tình huống" rel="150">Tình huống</a>
+
+<a href="http://thanhnien.vn/the-gioi/" title="Thế giới" rel="66" class="column-heading">Thế giới</a>
+<a href="http://thanhnien.vn/the-gioi/quan-su/" title="Quân sự" rel="144">Quân sự</a><a href="http://thanhnien.vn/the-gioi/goc-nhin/" title="Góc nhìn" rel="129">Góc nhìn</a><a href="http://thanhnien.vn/the-gioi/ho-so/" title="Hồ sơ" rel="130">Hồ sơ</a><a href="http://thanhnien.vn/the-gioi/hau-truong/" title="Hậu trường" rel="131">Hậu trường</a>
+
+<a href="http://thanhnien.vn/van-hoa/" title="Văn hóa" rel="93" class="column-heading">Văn hóa</a>
+<a href="http://thanhnien.vn/van-hoa/dien-anh/" title="Điện ảnh" rel="101">Điện ảnh</a><a href="http://thanhnien.vn/van-hoa/cau-chuyen/" title="Câu chuyện văn hóa" rel="149">Câu chuyện văn hóa</a><a href="http://thanhnien.vn/van-hoa/truyen-hinh/" title="Truyền hình" rel="95">Truyền hình</a>
+</div><div class="column">
+<a href="http://thanhnien.vn/doi-song/" title="Đời sống" rel="17" class="column-heading">Đời sống</a>
+<a href="http://thanhnien.vn/doi-song/cong-dong/" title="Cộng đồng" rel="190">Cộng đồng</a>
+
+<a href="http://thanhnien.vn/suc-khoe/" title="Sức khỏe" rel="65" class="column-heading">Sức khỏe</a>
+<a href="http://thanhnien.vn/suc-khoe/gioi-tinh/" title="Giới tính" rel="147">Giới tính</a>
+
+<a href="http://thanhnien.vn/kinh-doanh/" title="Kinh doanh" rel="49" class="column-heading">Kinh doanh</a>
+<a href="http://thanhnien.vn/kinh-doanh/tieu-dung/" title="Tiêu dùng" rel="132">Tiêu dùng</a><a href="http://thanhnien.vn/kinh-doanh/lam-giau/" title="Làm giàu" rel="133">Làm giàu</a><a href="http://thanhnien.vn/kinh-doanh/dia-oc/" title="Địa ốc" rel="54">Địa ốc</a><a href="http://thanhnien.vn/kinh-doanh/chinh-sach/" title="Chính sách" rel="135">Chính sách</a>
+</div><div class="column">
+<a href="http://thanhnien.vn/gioi-tre/" title="Giới trẻ" rel="69" class="column-heading">Giới trẻ</a>
+<a href="http://thanhnien.vn/gioi-tre/than-tuong/" title="Thần tượng" rel="180">Thần tượng</a><a href="http://thanhnien.vn/gioi-tre/song-yeu-an-choi/" title="Sống - Yêu - Ăn - Chơi" rel="181">Sống - Yêu - Ăn - Chơi</a><a href="http://thanhnien.vn/gioi-tre/the-gioi-mang/" title="Thế giới mạng" rel="182">Thế giới mạng</a><a href="http://thanhnien.vn/gioi-tre/ket-noi/" title="Kết nối" rel="183">Kết nối</a>
+
+<a href="http://thanhnien.vn/cong-nghe/" title="Công nghệ" rel="12" class="column-heading">Công nghệ</a>
+<a href="http://thanhnien.vn/cong-nghe/san-pham-moi/" title="Sản phẩm mới" rel="14">Sản phẩm mới</a><a href="http://thanhnien.vn/cong-nghe/kinh-nghiem/" title="Kinh Nghiệm" rel="15">Kinh Nghiệm</a><a href="http://thanhnien.vn/cong-nghe/y-tuong/" title="Ý tưởng" rel="139">Ý tưởng</a>
+
+<a href="http://thanhnien.vn/giao-duc/" title="Giáo dục" rel="26" class="column-heading">Giáo dục</a>
+<a href="http://thanhnien.vn/giao-duc/tuyen-sinh/2016/" title="Tuyển sinh 2016" rel="186">Tuyển sinh 2016</a><a href="http://thanhnien.vn/giao-duc/du-hoc/" title="Du học" rel="28">Du học</a><a href="http://thanhnien.vn/giao-duc/chon-nghe/" title="Chọn nghề" rel="136">Chọn nghề</a><a href="http://thanhnien.vn/giao-duc/chon-truong/" title="Chọn trường" rel="184">Chọn trường</a><a href="http://thanhnien.vn/giao-duc/nguoi-thay/" title="Người thầy" rel="138">Người thầy</a>
+</div>
+<div class="column">
+
+<a href="http://thanhnien.vn/toi-viet/" title="Tôi viết" rel="89" class="column-heading">Tôi viết</a>
+<a href="http://thanhnien.vn/toi-viet/blog-phong-vien/" title="Blog phóng viên" rel="152">Blog phóng viên</a>
+
+<a href="http://thethao.thanhnien.vn/" title="Thể thao" rel="73" class="column-heading">Thể thao</a>
+
+
+<a href="http://xe.thanhnien.vn" title="Xe" rel="114" class="column-heading">Xe</a>
+
+
+<a href="http://media.thanhnien.com.vn/" title="Video" rel="115" class="column-heading">Video</a>
+
+
+<a href="http://game.thanhnien.vn/" title="Game" rel="117" class="column-heading">Game</a>
+
+
+</div>
+<div class="column">
+<a href="javascript:void(0);" class="column-heading">Liên kết</a>
+<a href="http://ihay.thanhnien.com.vn/" title="Chuyên trang iHay" target="blank"><img src="http://static.thanhnien.com.vn/v2/App_Themes/images/logo-ihay.png"></a>
+<a href="http://tinnong.thanhnien.com.vn/" title="Tin Nóng" target="blank"><img src="http://static.thanhnien.com.vn/v2/App_Themes/images/logo-tinnong.png"></a>
+<a href="http://saigonamthuc.thanhnien.com.vn/" title="Sài Gòn Ẩm Thực" target="blank"><img src="http://static.thanhnien.com.vn/v2/App_Themes/images/logo-sgat.png"></a>
+</div>
+</section>
+<div class="footer-info clearfix">
+<div class="pull-left">
+<a href="/" class="logo">Thanh Niên</a>
+<p><b>Giấy phép xuất bản số 298/GP - BTTTT cấp ngày 29.7.2013</b><br>© 2003-2013 Bản quyền thuộc về Báo Thanh Niên. Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản.<br>Phát triển bởi ePi Technologies, JSC.</p>
+</div>
+<div class="pull-right">
+<ul class="link">
+<li><a href="http://thanhnien.vn/pages/dat-bao.aspx"><i class="sport-sprite news-ic"></i>Đặt báo</a></li>
+<li><a href="http://quangcao.thanhnien.vn/banggia/" target="_blank"><i class="sport-sprite ads-ic"></i>Quảng cáo</a></li>
+<li><a href="javascript:setHomepage();"><i class="sport-sprite home-ic"></i>Đặt làm trang chủ</a></li>
+<li><a href="/rss.html"><i class="sport-sprite rss-ic"></i>RSS</a></li>
+<li><a href="http://thanhnien.vn/pages/thong-tin-toa-soan.aspx">Thông tin toà soạn</a></li>
+</ul>
+<p>
+Tổng biên tập : <b>NGUYỄN QUANG THÔNG</b><br>
+Phó tổng biên tập phụ trách Thanh Niên Online : <b>HẢI THÀNH</b><br>
+Phụ trách tòa soạn Thanh Niên Online : <br>
+Ủy viên Ban biên tập - Tổng Thư ký tòa soạn: <b>TRẦN VIỆT HƯNG</b>
+</p>
+</div>
+</div>
+<div class="m-footer">
+<div class="m-top clearfix">
+<a href="/" class="pull-left"><span class="icon-home icons"></span>Trang chủ</a>
+<a href="#top" class="pull-right"><span class="icon-arrow-up icons"></span>Lên đầu trang</a>
+</div>
+
+<nav class="m-footer-ctn clearfix"><a href="http://thanhnien.vn/thoi-su/" title="Thời sự" rel="4">Thời sự</a><a href="http://thanhnien.vn/toi-viet/" title="Tôi viết" rel="89">Tôi viết</a><a href="http://thanhnien.vn/the-gioi/" title="Thế giới" rel="66">Thế giới</a><a href="http://thanhnien.vn/van-hoa/" title="Văn hóa" rel="93">Văn hóa</a><a href="http://thethao.thanhnien.vn/" title="Thể thao" rel="73">Thể thao</a><a href="http://thanhnien.vn/doi-song/" title="Đời sống" rel="17">Đời sống</a><a href="http://thanhnien.vn/kinh-doanh/" title="Kinh doanh" rel="49">Kinh doanh</a><a href="http://thanhnien.vn/gioi-tre/" title="Giới trẻ" rel="69">Giới trẻ</a><a href="http://thanhnien.vn/giao-duc/" title="Giáo dục" rel="26">Giáo dục</a><a href="http://thanhnien.vn/cong-nghe/" title="Công nghệ" rel="12">Công nghệ</a><a href="http://game.thanhnien.vn/" title="Game" rel="117">Game</a><a href="http://xe.thanhnien.vn" title="Xe" rel="114">Xe</a><a href="http://media.thanhnien.com.vn/" title="Video" rel="115">Video</a></nav>
+
+<b>© Copyright 2003 Thanhnien.com.vn,</b> All rights reserved <br>® Thanhnien.com.vn giữ bản quyền nội dung trên website này.<br>Phát triển bởi ePi Technologies, JSC.
+</div>
+</footer><!--=== End Footer ===-->
+<a href="#top" class="cd-top">Top</a>
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<!-- JS Page -->
+<script src="http://static.thanhnien.com.vn/xev2/js/bootstrap.min.js"></script>
+<script src="http://static.thanhnien.com.vn/xev2/js/main.js?1.1"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/JScripts/jquery.bpopup-0.9.3.min.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/_layouts/tno.utilities/js/jquery-ui-1.10.3.custom.min.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/Jscripts/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/xev2/js/log.js"></script>
+<script type="text/javascript">logging('0', '0', 1); </script> <script type='text/javascript' src='http://static.thanhnien.com.vn/Jscripts/jquery.xdomainrequest.min.js'></script> <script src="http://static.thanhnien.com.vn/xev2/js/ui.js?1.1.3"></script>
+<script src="http://static.thanhnien.com.vn/xev2/js/master.js?1"></script>
+
+<script src="/js/home.js?1"></script>
+
+<script type="text/javascript"> $('a:not([href^="javascript"],[href^="/"],[href^="#"],[href*="thanhnien.vn/"])').attr('target', '_blank');</script>
+
+<div id="adsctl00_AdsHomeBalloon" position="BalloonAds" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style=""><div class='adsitem' rel='1' tag='TGX - Baloon Ads'><div id="admDFTAd_703229"></div><script>showAdDFPvsAdm([{"type":"admicro","src":"<div id=\"admzone36121\"><\/div>\x3Cscript>admicroAD.unit.push(function () { admicroAD.show('admzone36121') });\x3C\/script>"},{"type":"dfp","src":"\x3Cscript type=\"text\/javascript\" > (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.type = 'text\/javascript'; js.async=true; js.id = id; js.src = \"http:\/\/static.adtimaserver.vn\/resource\/js\/zads-base-mod.js\"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'z2-jssdk')); \x3C\/script><div z2-width=\"250\" z2-height=\"250\" z2-zoneid=\"720698255825388682\" class=\"z2-zads-zone\" ><\/div>"}],'<div id="admDFTAd_703229"></div>');</script></div></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_AdsHomeBalloon', -1, -1);</script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "DTkxf1a8Md00Ge", domain: "thanhnien.com.vn" }; atrk();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=DTkxf1a8Md00Ge" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "20293704" });
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=20293704&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+<script async src="https://cdn.onthe.io/io.js/7f2yBmvE3PwD"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div></form></body>
+</html>
+

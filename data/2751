@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thêm hai công ty đa cấp tạm ngừng hoạt động - Công Lý
+</title><meta name="keywords" content="bán hàng đa cấp,bộ công thương,cạnh tranh,Công ty TNHH My Fortuna,Thanh Xuân,ban hành,Tiến Thịnh Phát,Hà Nội,phường Khương Trung,phá sản,LAN TRẦN" /><meta name="description" content="Cục Quản lý cạnh tranh (Bộ Công Thương) ra thông báo về báo về việc tạm ngừng hoạt động bán hàng đa cấp của công ty cổ phần Nhượng quyền Thương mại Quốc tế ..." />
+<link rel="canonical" href="http://www.baomoi.com/them-hai-cong-ty-da-cap-tam-ngung-hoat-dong/c/21711443.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21711443" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21711443" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://congly.com.vn/kinh-doanh/doanh-nghiep/them-hai-cong-ty-da-cap-tam-ngung-hoat-dong-200052.html");
+else
+window.location.replace("http://www.baomoi.com/them-hai-cong-ty-da-cap-tam-ngung-hoat-dong/c/21711443.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

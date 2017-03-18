@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tên lửa Syria bắn hạ chiến đấu cơ Israel - VietTimes
+</title><meta name="keywords" content="Quân đội Israel,Không quân Israel,israel,phòng không,Syria,Quân đội Syria,lebanon,máy bay chiến đấu,không kích,Hezbollah,Lực lượng phòng không Syria,Damascus,Phòng không Syria,tổn thất,hệ thống phòng thủ tên lửa,xâm phạm,Jerusalem,Bộ Quốc Phòng Syria,Iron Dome,Nguyễn Thuận,tập kích" /><meta name="description" content="Ngày 17.03.2017, theo tuyên bố của Bộ quốc phòng Syria, lực lượng phòng không Syria bắn rơi một máy bay tiêm kích của Israel khi một phi đội máy bay chiến đ..." />
+<link rel="canonical" href="http://www.baomoi.com/ten-lua-syria-ban-ha-chien-dau-co-israel/c/21792266.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792266" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792266" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://viettimes.vn/syria-phong-ten-lua-ban-ha-may-bay-chien-dau-israel-113913.html");
+else
+window.location.replace("http://www.baomoi.com/ten-lua-syria-ban-ha-chien-dau-co-israel/c/21792266.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

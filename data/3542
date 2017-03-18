@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thủ tướng Singapore và Phu nhân sắp thăm chính thức Việt Nam - VOV
+</title><meta name="keywords" content="Lý Hiển Long,thủ tướng Singapore,Cộng hòa Singapore,Singapore Lý Hiển Long,Singapore,Nguyễn Xuân Phúc,APEC,asean,Việt Nam-Singapore,Trần Đại Quang,việt nam,liên hợp quốc,ASEM,phát triển bền vững,Nguyễn Thị Kim Ngân,Singapore Tiêu Chí Hiền,chủ tịch quốc hội,Nguyễn Phú Trọng,giáo dục,Vivian Balakrishnan,Hà Nguyễn" /><meta name="description" content="Thủ tướng Singapore Lý Hiển Long và Phu nhân sẽ thăm chính thức Việt Nam từ 21-24/3 theo lời mời của Thủ tướng Nguyễn Xuân Phúc" />
+<link rel="canonical" href="http://www.baomoi.com/thu-tuong-singapore-va-phu-nhan-sap-tham-chinh-thuc-viet-nam/c/21788922.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21788922" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21788922" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vov.vn/chinh-tri/thu-tuong-singapore-va-phu-nhan-sap-tham-chinh-thuc-viet-nam-603758.vov");
+else
+window.location.replace("http://www.baomoi.com/thu-tuong-singapore-va-phu-nhan-sap-tham-chinh-thuc-viet-nam/c/21788922.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

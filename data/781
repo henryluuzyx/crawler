@@ -1,0 +1,546 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Dân trí Online | Các kênh tin RSS Feeds | Dân trí</title><meta name="description" content="Danh sách các kênh tin RSS Feeds của Dân Trí" /><meta name="keywords" content="rss, rss feeds, dantri" /><meta name="news_keywords" content="rss, rss feeds, dantri" />
+<!--[if lt IE 7 ]>
+    <noscript><meta http-equiv="refresh" content="0; url='/static/old-browser.html'" /></noscript>
+    <script type="text/javascript">
+        window.location.href = '/static/old-browser.html';
+    </script>
+    <![endif]-->
+<meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" />
+
+        <meta name="robots" content="index,follow,all" />
+    
+<meta property="og:locale" content="vi_VN" />
+
+<meta property="fb:app_id" content="164035690775918" />
+<meta name="generator" content="VCCorp.vn" />
+<meta name="copyright" content="Công ty Cổ phần VCCorp" />
+<meta name="author" content="VCCorp.vn" />
+<meta http-equiv="audience" content="General" />
+<meta name="resource-type" content="Document" />
+<meta name="distribution" content="Global" />
+<meta name="revisit-after" content="1 days" />
+<meta http-equiv="REFRESH" content="1800" />
+<link rel="icon" href="http://static.dantricdn.com/App_Themes/Default/Images/favico.ico" />
+<meta property="fb:pages" content="345033318906366" />
+<meta property="article:author" content="https://www.facebook.com/baodantridientu" />
+<meta property="article:publisher" content="https://www.facebook.com/baodantridientu" />
+
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <link href="https://static.dantricdn.com/min/web/css-default-new.1.1.css" rel="stylesheet" />
+
+
+
+
+<noscript>
+    <style type="text/css">
+        img.lazy { display: none; }
+    </style>
+</noscript>
+<style>
+    .icon-game { background: url('http://dantricdn.com/web_images/khcn.jpg') 0 0 no-repeat; }
+    .subnav ul li { height: 21px; }
+    .subnav a.btn-euro.event { padding: 0; width: auto; height: auto; }
+    .subnav ul a { line-height: 21px; }
+</style>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-34575478-26', 'auto');
+    ga('send', 'pageview');
+
+    //ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+    //ga('totaldt.send', 'pageview');
+
+    //if (location.pathname === '/' || location.pathname === '/the-gioi.htm') {
+    //    ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt1' });
+    //    ga('totaldt1.send', 'pageview');
+    //}
+</script>
+
+
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript" async></script>
+    
+<script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "17793284" }), function () {
+        var c = document.createElement("script"), e = document.getElementsByTagName("script")[0];
+        c.async = !0, c.src = ("https:" == document.location.protocol ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js", e.parentNode.insertBefore(c, e);
+    }();
+</script>
+
+
+
+    <!--[if lt IE 9]>
+    <script src="http://static.dantricdn.com/scripts/lib/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">var appSettings = {domain:'http://dantri.com.vn',imageDomain:'https://dantricdn.com',videoImageDomain:'http://video-thumbs.mediacdn.vn',ajaxDomain:'http://wcm.dantri.com.vn',ajaxDomainOther:'http://wcm.dantri.com.vn',ajaxDomainCountListComment:'http://wcm.dantri.com.vn',allowVietId:false, allowFacebook:true,urlExtension:'.htm' };</script>
+
+    <script type="text/javascript">
+        var _jsCbArr = [];
+        var jsCallback = {
+            push: function (name, body) {
+                _jsCbArr[name] = body;
+            },
+            exec: function (name, args) {
+                if (typeof _jsCbArr[name] == "function") {
+                    try {
+                        _jsCbArr[name](args);
+                    } catch (e) {
+                        return;
+                    }
+                }
+            }
+        };
+
+        (function () {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            var setCookie = function (a, c, f) {
+                                var e = new Date();
+                                e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                                var b = "expires=" + e.toUTCString();
+                                document.cookie = a + "=" + c + "; " + b;
+                            };
+                            setCookie("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+        })();
+
+    </script>
+    
+   
+    
+    
+    <style type="text/css">
+        #listrss { margin-left: 235px; }
+        #listrss ul li { position: relative; margin-top: 10px; margin-bottom: 10px; background: transparent url('/App_Themes/Default/Images/nc-rss.png') 0 0 no-repeat; text-align: left; padding-left: 40px;font-weight: bold;}
+        #listrss ul li.child { padding-left: 80px;font-weight: normal;}
+        #listrss ul li:before { width: 3px; height: 3px; position: absolute; top: 5px; left: 0; background: #F5622C; content: "\0020"; }
+        #listrss ul li a { margin-left: 10px; }
+        #listrss ul li a:hover { color: #C92A2C; }
+    </style>
+
+    <link href="https://dantricdn.com/web_css/site.css" rel="stylesheet" />
+
+
+    <script type="text/javascript">//danh cho nhung kieu moi
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+        (function () { var a = document.createElement("script"); a.async = !0; a.type = "text/javascript"; a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+    </script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU1MTkwNjMzMGQYBAUgY3RsMDAkY3RsMDAkY3BoQm9keSRjdGwwMiRtdk1lbnUPD2RmZAUkY3RsMDAkY3RsMDAkY3BoQm9keSRjdGwwMSR2aWV3UGFyZW50Dw9kZmQFHmN0bDAwJGN0bDAwJGNwaEJvZHkkY3RsMDAkbXZIMQ8PZAIBZAUlY3RsMDAkY3RsMDAkSGVhZEluZm9ybWF0aW9uMSRtdlJvYm90cw8PZGZkesEAM2zvFX7FUGZ/GoJc6SYdjE8=" />
+</div>
+
+        
+        
+<style type="text/css">
+    /*.header{ margin-bottom: 0;} body{ background-position: 0 -2615px}
+    .header.tet{    background: transparent url(http://dantricdn.com/web_images/dantri_bg_tet.png) 0 0 no-repeat !important;
+    margin-top: 0;
+    height: 66px;}
+    .header.tet .logo{ background-image: none !important;}
+    .nav-wrap{background-image:url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav{background-image: url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav li,.nav li.menu-home{background-image:url(http://dantri4.vcmedia.vn/web_images/menu-saparator-tet.png)}
+    .nav li.menu-home{margin-top: 3px !important}
+    .nav a:hover span, .nav a.active span,.nav a:hover, .nav a.active{ background-image: none;background-color: rgba(255, 255, 255, 0.15);border-radius: 4px 4px 0 0}
+    .nav a b,.nav a:hover b, .nav a.active b{ background: url(http://dantri4.vcmedia.vn/web_images/home-tet-icon2.png) no-repeat top center;height: 25px;}
+    .ul2 li.active,.box4{background-image: url(http://dantri4.vcmedia.vn/web_images/tab_bg_tet.png) }*/
+</style>
+<div class="header">
+    <div class="clearfix relative">
+        
+                <a href="/" class="logo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"></a>
+               
+            
+
+        <div id="div_gdpda" class="div_gdpda">
+            <a href="/?removecookie=true" rel="nofollow">Giao diện PDA</a>
+        </div>
+        <div id="searchbox" class="searchbox hidden">
+            <div class="clearfix">
+                
+                <input type="text" name="q" id="txtData" data-elementtype="searchtextv2" />
+                <input type="button" value="Tìm kiếm" class="btn" data-elementtype="searchbuttonv2" />
+            </div>
+        </div>
+        <div class="links">
+            <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a> <a title="Blog" class="icon-ads"
+                href="/blog.htm">Blog</a> <a title="Du học" class="icon-duhoc" href="http://duhoc.dantri.com.vn"
+                    target="_blank">Du học</a> <a title="Tuyển sinh" class="icon-tuyensinh" href="http://tuyensinh.dantri.com.vn"
+                        target="_blank">Tuyển sinh</a> <a title="So sánh" class="icon-tuanbao2" href="http://websosanh.vn/dantri/"
+                            target="_blank">So sánh</a> <a title="Mua bán" target="_blank" class="icon-bussiness" href="http://enbac.com">Mua bán</a>  <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a><a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a>
+            <a title="Diễn đàn" class="icon-forum2" href="/dien-dan.htm">Diễn đàn</a> <a title="English" class="icon-tienganh"
+                href="http://www.dtinews.vn" target="_blank">English</a>
+        </div>
+    </div>
+</div>
+<script type="text/lazyscript">
+
+    $('[data-elementtype=searchbuttonv2]').click(function () {
+        var strSearch = $('[data-elementtype=searchtextv2]').val();
+        strSearch=convertHtmlToText(strSearch);
+        strSearch = encodeURIComponent(strSearch);
+        if (strSearch != '') {
+            var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+            if (document.all) {
+                window.location.href = url;
+            } else {
+                document.location.href = url;
+            }
+        } else {
+            $('[data-elementtype=searchtextv2]').focus();
+        }
+        return false;
+    });
+
+    $('[data-elementtype=searchtextv2]').keypress(function (event) {
+        var key;
+        if (window.event) {
+            key = window.event.keyCode;
+        } else {
+            key = event.which;
+        }
+        if (key == 13) {
+            $('[data-elementtype=searchbuttonv2]').click();
+            return false;
+        }
+    });
+    $("#searchbox").removeClass('hidden').show();    
+</script>
+
+        <div class="top-ads clearfix">
+            <div class=" mgauto wid980">
+                
+        
+        
+<div id="admzone221"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone221') });
+</script>
+    
+            </div>
+        </div>
+        
+<style>.subnav ul li{ padding-right: 8px;}</style>
+<div class="nav-wrap">
+    <div class="clearfix">
+        <div class="mgauto wid1004">
+            
+            
+                    <ul class="nav">
+                        <li class="menu-home"><a href="/" title="Trang chủ"><span><b></b></span></a></li>
+                        <li><a title="Video" href="/video-page.htm"><span>Video</span></a></li>
+                        <li><a title="Sự kiện" href="/su-kien.htm"><span>Sự kiện</span></a></li>
+                        <li><a title="Xã hội" href="/xa-hoi.htm"><span>Xã hội</span></a></li>
+                        <li><a title="Thế giới" href="/the-gioi.htm"><span>Thế giới</span></a></li>
+                        <li><a title="Thể thao" href="/the-thao.htm"><span>Thể thao</span></a></li>
+                        <li><a title="Giáo dục" href="/giao-duc-khuyen-hoc.htm"><span>Giáo dục</span></a> </li>
+                        <li><a title="Tấm lòng nhân ái" href="/tam-long-nhan-ai.htm"><span>Nhân ái</span></a></li>
+                        <li><a title="Kinh doanh" href="/kinh-doanh.htm"><span>Kinh doanh</span></a></li>
+                        <li><a title="Văn hóa" href="/van-hoa.htm"><span>Văn hóa</span></a></li>
+                        <li><a title="Giải trí" href="/giai-tri.htm"><span>Giải trí</span></a></li>
+                        <li><a title="Du lịch" target="_blank" href="http://dulich.dantri.com.vn"><span>Du lịch</span></a></li>
+                        <li><a title="Pháp luật" href="/phap-luat.htm"><span>Pháp luật</span></a></li>
+                        <li><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm"><span>Nhịp sống trẻ</span></a></li>
+                        <li><a title="Sức khỏe" href="/suc-khoe.htm"><span>Sức khỏe</span></a></li>
+                        <li><a title="Sức mạnh số" href="/suc-manh-so.htm"><span>Sức mạnh số</span></a></li>
+                        <li><a title="Ô tô - xe máy" href="/o-to-xe-may.htm"><span>Xe++</span></a></li>
+                        <li><a title="Tình yêu giới tính" href="/tinh-yeu-gioi-tinh.htm"><span>Tình yêu</span></a></li>
+                        <li><a title="Chuyện lạ" href="/chuyen-la.htm"><span>Chuyện lạ</span></a></li>
+                    </ul>
+                
+        </div>
+    </div>
+
+    <div class="subnav relative">
+        <ul class="clearfix" id="ul_submenu">
+            
+                <li class="active"><a href="/event.htm" class="event" title="Danh sách sự kiện"></a></li>
+            
+           
+            <li><a href="/event/xet-xu-vu-an-ha-van-tham-3193.htm" title="X&#233;t xử vụ &#225;n H&#224; Văn Thắm">Xét xử vụ án Hà Văn Thắm</a></li><li><a href="/event/nha-vua-nhat-ban-tham-viet-nam-3192.htm" title="Nh&#224; vua Nhật Bản thăm Việt Nam">Nhà vua Nhật Bản thăm Việt Nam</a></li><li><a href="/event/cuoc-chien-gianh-lai-via-he-o-tphcm-3188.htm" title="Cuộc chiến gi&#224;nh lại vỉa h&#232; ở TPHCM">Cuộc chiến giành lại vỉa hè ở TPHCM</a></li><li><a href="/event/phuong-thuc-tuyen-sinh-nam-2017-3176.htm" title="Phương thức tuyển sinh năm 2017">Phương thức tuyển sinh năm 2017</a></li><li><a href="/event/sac-lenh-di-tru-gay-nhieu-tranh-cai-cua-ong-trump-3175.htm" title="Sắc lệnh di tr&#250; g&#226;y nhiều tranh c&#227;i của &#244;ng Trump">Sắc lệnh di trú gây nhiều tranh cãi của ông Trump</a></li><li><a href="/event/tet-nguyen-dan-dinh-dau-3148.htm" title="Tết Nguy&#234;n đ&#225;n Đinh Dậu">Tết Nguyên đán Đinh Dậu</a></li><li><a href="/event/tong-bi-thu-tham-trung-quoc-3159.htm" title="Tổng B&#237; thư thăm Trung Quốc">Tổng Bí thư thăm Trung Quốc</a></li><li><a href="/event/ong-trump-nham-chuc-tong-thong-3158.htm" title="&#212;ng Trump nhậm chức tổng thống">Ông Trump nhậm chức tổng thống</a></li><li><a href="/event/xe-buyt-nhanh-xuong-duong-3143.htm" title="Xe bu&#253;t nhanh xuống đường">Xe buýt nhanh xuống đường</a></li><li><a href="/event/quy-hoach-bam-nat-ha-noi-3150.htm" title="Quy hoạch &quot;băm n&#225;t&quot; H&#224; Nội">Quy hoạch "băm nát" Hà Nội</a></li>
+
+        </ul>
+        <div class="hidden">
+            
+        </div>
+        <div class="subSideBtn">
+            <div class="submenu-btnside">
+                <a title="Bạn đọc" href="/ban-doc.htm">Bạn đọc</a>
+            </div>
+            <div class="submenu-btnside">
+                <a title="Việc làm" href="/viec-lam.htm">Việc làm</a>
+            </div>
+        </div>
+
+        <div class="top-rss-wrapper">
+
+            <a title="Rss" class="icon-rss2" ref="nofollow" href="/rss.htm"></a>
+        </div>
+    </div>
+
+
+
+</div>
+
+        
+        <div class="wrapper">
+            <div class="container">
+                
+    <div class="clearfix">
+        <center>
+            <div align="center" style="width: 980px">
+                <table border="0" width="980" cellpadding="2" bgcolor="white" align="left">
+                    <tbody><tr>
+                        <td>
+                            <h2 align="left" style="text-align: center"><br>
+                                <span style="color: darkslategray"><font size="3" face="Arial">Dantri.com.vn và&nbsp;các
+                                    kênh tin&nbsp;RSS Feeds</font></span></h2>
+                            <br>
+                            <p align="left">
+                                <span><b><span style="font-size: 10pt; font-family: Arial">RSS là gì?<br>
+                                </span></b></span><font face="Arial"><span style="font-size: 10pt">
+                                    <br>
+                                    RSS (Really Simple Syndication)&nbsp;Dịch vụ cung cấp thông tin cực kì đơn giản.
+                                    Dành cho việc phân tán và khai thác nội dung thông tin Web từ xa (ví dụ như các
+                                    tiêu đề, tin tức). Sử dụng RSS, các nhà cung cấp nội dung Web có thể dễ dàng tạo
+                                    và phổ biến các nguồn dữ liệu ví dụ như các link tin tức, tiêu đề, và tóm tắt.<br>
+                                </span></font>
+                                <br>
+                                <font face="Arial"><span style="font-size: 10pt"><font face="Arial" size="2">Một cách
+                                    sử dụng nguồn kênh tin RSS&nbsp;được nhiều người ưa thích là kết hợp nội dung vào
+                                    các nhật trình Web (weblogs, hay "blogs"). Blogs là những trang web mang tính các
+                                    nhân và bao gồm các mẩu tin và liên kết ngắn, thường xuyên cập nhật.</font></span></font></p><font face="Arial">
+                            <p align="left">
+                                <span>
+                                    <br>
+                                    <b><span style="font-size: 10pt; font-family: Arial">Danh mục tin RSS mà </span><span style="font-family: Arial"><font size="2">Dantri.com.vn cung cấp</font></span></b></span><span style="font-family: Arial"><font size="2"><br>
+                                                <br>
+                                                Dantri.com.vn hiện tại cung cấp các nguồn kênh dữ liệu dưới đây theo định dạng chuẩn
+                                                mới nhất RSS 2.0. Các nguồn kênh tin này là miễn phí cho việc sử dụng dưới mục đích
+                                                cá nhân và phi lợi nhuận. Bạn chỉ việc copy và dán các địa chỉ URL này vào những
+                                                trang web hoặc phần mềm hỗ trợ&nbsp;đọc tin từ RSS Feeds hoặc kéo thả biểu tượng
+                                                RSS dưới đây vào các phần mềm hỗ trợ RSS là được.</font></span></p>
+                            <br>
+                            <div align="center" id="rss">
+                                <div id="listrss">
+            <ul>
+                <li><a href="/trangchu.rss">Trang chủ (http://dantri.com.vn/trangchu.rss)</a></li>
+                <li><a href="/suc-khoe.rss">Sức khỏe (http://dantri.com.vn/suc-khoe.rss)</a></li><li class="child"><a href="/suc-khoe/lam-dep.rss"><b>Làm đẹp</b> (http://dantri.com.vn/suc-khoe/lam-dep.rss)</a></li><li class="child"><a href="/suc-khoe/tu-van.rss"><b>Tư vấn</b> (http://dantri.com.vn/suc-khoe/tu-van.rss)</a></li><li class="child"><a href="/suc-khoe/kien-thuc-gioi-tinh.rss"><b>Kiến thức giới tính</b> (http://dantri.com.vn/suc-khoe/kien-thuc-gioi-tinh.rss)</a></li><li><a href="/xa-hoi.rss">Xã hội (http://dantri.com.vn/xa-hoi.rss)</a></li><li class="child"><a href="/xa-hoi/phong-su-ky-su.rss"><b>Phóng sự-Ký sự</b> (http://dantri.com.vn/xa-hoi/phong-su-ky-su.rss)</a></li><li class="child"><a href="/xa-hoi/moi-truong.rss"><b>Môi trường</b> (http://dantri.com.vn/xa-hoi/moi-truong.rss)</a></li><li class="child"><a href="/xa-hoi/chinh-tri.rss"><b>Chính trị</b> (http://dantri.com.vn/xa-hoi/chinh-tri.rss)</a></li><li class="child"><a href="/xa-hoi/ho-so.rss"><b>Hồ sơ</b> (http://dantri.com.vn/xa-hoi/ho-so.rss)</a></li><li class="child"><a href="/xa-hoi/giao-thong.rss"><b>Giao thông</b> (http://dantri.com.vn/xa-hoi/giao-thong.rss)</a></li><li><a href="/giai-tri.rss">Giải trí (http://dantri.com.vn/giai-tri.rss)</a></li><li class="child"><a href="/giai-tri/thoi-trang.rss"><b>Thời trang</b> (http://dantri.com.vn/giai-tri/thoi-trang.rss)</a></li><li class="child"><a href="/giai-tri/xem-an-choi.rss"><b>Xem - Ăn - Chơi</b> (http://dantri.com.vn/giai-tri/xem-an-choi.rss)</a></li><li class="child"><a href="/giai-tri/sao-viet.rss"><b>Sao Việt</b> (http://dantri.com.vn/giai-tri/sao-viet.rss)</a></li><li class="child"><a href="/giai-tri/hollywood.rss"><b>Hollywood</b> (http://dantri.com.vn/giai-tri/hollywood.rss)</a></li><li class="child"><a href="/giai-tri/chau-a.rss"><b>Châu Á</b> (http://dantri.com.vn/giai-tri/chau-a.rss)</a></li><li><a href="/giao-duc-khuyen-hoc.rss">Giáo dục - Khuyến học  (http://dantri.com.vn/giao-duc-khuyen-hoc.rss)</a></li><li class="child"><a href="/giao-duc-khuyen-hoc/tin-tuyen-sinh.rss"><b>Tin tuyển sinh</b> (http://dantri.com.vn/giao-duc-khuyen-hoc/tin-tuyen-sinh.rss)</a></li><li class="child"><a href="/giao-duc-khuyen-hoc/guong-sang.rss"><b>Gương sáng</b> (http://dantri.com.vn/giao-duc-khuyen-hoc/guong-sang.rss)</a></li><li class="child"><a href="/giao-duc-khuyen-hoc/khuyen-hoc.rss"><b>Khuyến học</b> (http://dantri.com.vn/giao-duc-khuyen-hoc/khuyen-hoc.rss)</a></li><li class="child"><a href="/giao-duc-khuyen-hoc/apollo-vlog.rss"><b>Apollo Vlog</b> (http://dantri.com.vn/giao-duc-khuyen-hoc/apollo-vlog.rss)</a></li><li><a href="/the-thao.rss">Thể thao (http://dantri.com.vn/the-thao.rss)</a></li><li class="child"><a href="/the-thao/co-vua.rss"><b>Cờ vua</b> (http://dantri.com.vn/the-thao/co-vua.rss)</a></li><li class="child"><a href="/the-thao/bong-da-trong-nuoc.rss"><b>Bóng đá trong nước</b> (http://dantri.com.vn/the-thao/bong-da-trong-nuoc.rss)</a></li><li class="child"><a href="/the-thao/the-thao-quoc-te.rss"><b>Thể thao quốc tế</b> (http://dantri.com.vn/the-thao/the-thao-quoc-te.rss)</a></li><li class="child"><a href="/the-thao/bong-da-chau-au.rss"><b>Bóng đá châu Âu</b> (http://dantri.com.vn/the-thao/bong-da-chau-au.rss)</a></li><li class="child"><a href="/the-thao/bong-da-anh.rss"><b>Bóng đá Anh</b> (http://dantri.com.vn/the-thao/bong-da-anh.rss)</a></li><li class="child"><a href="/the-thao/bong-da-tbn.rss"><b>Bóng đá TBN</b> (http://dantri.com.vn/the-thao/bong-da-tbn.rss)</a></li><li class="child"><a href="/the-thao/tennis.rss"><b>Tennis</b> (http://dantri.com.vn/the-thao/tennis.rss)</a></li><li class="child"><a href="/the-thao/the-thao-trong-nuoc.rss"><b>Thể thao trong nước</b> (http://dantri.com.vn/the-thao/the-thao-trong-nuoc.rss)</a></li><li><a href="/the-gioi.rss">Thế giới (http://dantri.com.vn/the-gioi.rss)</a></li><li class="child"><a href="/the-gioi/kieu-bao.rss"><b>Kiều bào</b> (http://dantri.com.vn/the-gioi/kieu-bao.rss)</a></li><li class="child"><a href="/the-gioi/tu-lieu.rss"><b>Tư liệu</b> (http://dantri.com.vn/the-gioi/tu-lieu.rss)</a></li><li class="child"><a href="/the-gioi/eu-nga.rss"><b>EU & Nga</b> (http://dantri.com.vn/the-gioi/eu-nga.rss)</a></li><li class="child"><a href="/the-gioi/chau-a.rss"><b>Châu Á</b> (http://dantri.com.vn/the-gioi/chau-a.rss)</a></li><li class="child"><a href="/the-gioi/chau-my.rss"><b>Châu Mỹ</b> (http://dantri.com.vn/the-gioi/chau-my.rss)</a></li><li class="child"><a href="/the-gioi/diem-nong.rss"><b>Điểm nóng</b> (http://dantri.com.vn/the-gioi/diem-nong.rss)</a></li><li><a href="/kinh-doanh.rss">Kinh doanh (http://dantri.com.vn/kinh-doanh.rss)</a></li><li class="child"><a href="/kinh-doanh/doanh-nghiep.rss"><b>Doanh nghiệp</b> (http://dantri.com.vn/kinh-doanh/doanh-nghiep.rss)</a></li><li class="child"><a href="/kinh-doanh/thi-truong.rss"><b>Thị trường</b> (http://dantri.com.vn/kinh-doanh/thi-truong.rss)</a></li><li class="child"><a href="/kinh-doanh/quoc-te.rss"><b>Quốc tế</b> (http://dantri.com.vn/kinh-doanh/quoc-te.rss)</a></li><li class="child"><a href="/kinh-doanh/tai-chinh-dau-tu.rss"><b>Tài chính - Đầu tư</b> (http://dantri.com.vn/kinh-doanh/tai-chinh-dau-tu.rss)</a></li><li class="child"><a href="/kinh-doanh/bao-ve-ntd.rss"><b>Bảo vệ NTD</b> (http://dantri.com.vn/kinh-doanh/bao-ve-ntd.rss)</a></li><li class="child"><a href="/kinh-doanh/nha-dat.rss"><b>Nhà đất</b> (http://dantri.com.vn/kinh-doanh/nha-dat.rss)</a></li><li class="child"><a href="/kinh-doanh/khoi-nghiep.rss"><b>Khởi nghiệp</b> (http://dantri.com.vn/kinh-doanh/khoi-nghiep.rss)</a></li><li><a href="/o-to-xe-may.rss">Ô tô - Xe máy (http://dantri.com.vn/o-to-xe-may.rss)</a></li><li class="child"><a href="/o-to-xe-may/thi-truong-xe.rss"><b>Thị trường xe</b> (http://dantri.com.vn/o-to-xe-may/thi-truong-xe.rss)</a></li><li class="child"><a href="/o-to-xe-may/van-hoa-xe.rss"><b>Văn hoá xe</b> (http://dantri.com.vn/o-to-xe-may/van-hoa-xe.rss)</a></li><li class="child"><a href="/o-to-xe-may/tu-van-xe.rss"><b>Tư vấn xe</b> (http://dantri.com.vn/o-to-xe-may/tu-van-xe.rss)</a></li><li class="child"><a href="/o-to-xe-may/gia-xe.rss"><b>Giá xe</b> (http://dantri.com.vn/o-to-xe-may/gia-xe.rss)</a></li><li class="child"><a href="/o-to-xe-may/dua-xe.rss"><b>Đua xe</b> (http://dantri.com.vn/o-to-xe-may/dua-xe.rss)</a></li><li><a href="/suc-manh-so.rss">Sức mạnh số (http://dantri.com.vn/suc-manh-so.rss)</a></li><li class="child"><a href="/suc-manh-so/nghe-nhin.rss"><b>Nghe nhìn</b> (http://dantri.com.vn/suc-manh-so/nghe-nhin.rss)</a></li><li class="child"><a href="/suc-manh-so/dien-may.rss"><b>Điện tử tiêu dùng</b> (http://dantri.com.vn/suc-manh-so/dien-may.rss)</a></li><li class="child"><a href="/suc-manh-so/phan-mem-bao-mat.rss"><b>Phần mềm - Bảo mật</b> (http://dantri.com.vn/suc-manh-so/phan-mem-bao-mat.rss)</a></li><li class="child"><a href="/suc-manh-so/thi-truong-cong-nghe.rss"><b>Thị trường công nghệ</b> (http://dantri.com.vn/suc-manh-so/thi-truong-cong-nghe.rss)</a></li><li class="child"><a href="/suc-manh-so/thu-thuat.rss"><b>Thủ thuật - Mẹo vặt</b> (http://dantri.com.vn/suc-manh-so/thu-thuat.rss)</a></li><li class="child"><a href="/suc-manh-so/vi-tinh.rss"><b>Máy tính - Mạng</b> (http://dantri.com.vn/suc-manh-so/vi-tinh.rss)</a></li><li class="child"><a href="/suc-manh-so/dien-thoai.rss"><b>Di động - Viễn thông</b> (http://dantri.com.vn/suc-manh-so/dien-thoai.rss)</a></li><li><a href="/tinh-yeu-gioi-tinh.rss">Tình yêu - Giới tính (http://dantri.com.vn/tinh-yeu-gioi-tinh.rss)</a></li><li class="child"><a href="/tinh-yeu-gioi-tinh/gia-dinh.rss"><b>Gia đình</b> (http://dantri.com.vn/tinh-yeu-gioi-tinh/gia-dinh.rss)</a></li><li class="child"><a href="/tinh-yeu-gioi-tinh/goc-tam-hon.rss"><b>Góc tâm hồn</b> (http://dantri.com.vn/tinh-yeu-gioi-tinh/goc-tam-hon.rss)</a></li><li class="child"><a href="/tinh-yeu-gioi-tinh/tinh-yeu.rss"><b>Tình yêu</b> (http://dantri.com.vn/tinh-yeu-gioi-tinh/tinh-yeu.rss)</a></li><li><a href="/chuyen-la.rss">Chuyện lạ (http://dantri.com.vn/chuyen-la.rss)</a></li><li><a href="/viec-lam.rss">Việc làm (http://dantri.com.vn/viec-lam.rss)</a></li><li class="child"><a href="/viec-lam/chinh-sach.rss"><b>Chính sách</b> (http://dantri.com.vn/viec-lam/chinh-sach.rss)</a></li><li class="child"><a href="/viec-lam/thi-truong.rss"><b>Thị trường</b> (http://dantri.com.vn/viec-lam/thi-truong.rss)</a></li><li class="child"><a href="/viec-lam/dao-tao.rss"><b>Đào tạo</b> (http://dantri.com.vn/viec-lam/dao-tao.rss)</a></li><li class="child"><a href="/viec-lam/xkld.rss"><b>XKLĐ</b> (http://dantri.com.vn/viec-lam/xkld.rss)</a></li><li class="child"><a href="/viec-lam/chung-toi-noi.rss"><b>Chúng tôi nói</b> (http://dantri.com.vn/viec-lam/chung-toi-noi.rss)</a></li><li><a href="/nhip-song-tre.rss">Nhịp sống trẻ (http://dantri.com.vn/nhip-song-tre.rss)</a></li><li class="child"><a href="/nhip-song-tre/nguoi-viet-tre.rss"><b>Người Việt trẻ</b> (http://dantri.com.vn/nhip-song-tre/nguoi-viet-tre.rss)</a></li><li class="child"><a href="/nhip-song-tre/phong-su-tre.rss"><b>Phóng sự trẻ</b> (http://dantri.com.vn/nhip-song-tre/phong-su-tre.rss)</a></li><li><a href="/tam-long-nhan-ai.rss">Tấm lòng nhân ái (http://dantri.com.vn/tam-long-nhan-ai.rss)</a></li><li class="child"><a href="/tam-long-nhan-ai/danh-sach-ung-ho.rss"><b>Danh sách ủng hộ</b> (http://dantri.com.vn/tam-long-nhan-ai/danh-sach-ung-ho.rss)</a></li><li class="child"><a href="/tam-long-nhan-ai/danh-sach-ket-chuyen.rss"><b>Danh sách kết chuyển</b> (http://dantri.com.vn/tam-long-nhan-ai/danh-sach-ket-chuyen.rss)</a></li><li class="child"><a href="/tam-long-nhan-ai/hoan-canh.rss"><b>Hoàn cảnh</b> (http://dantri.com.vn/tam-long-nhan-ai/hoan-canh.rss)</a></li><li><a href="/phap-luat.rss">Pháp luật (http://dantri.com.vn/phap-luat.rss)</a></li><li><a href="/ban-doc.rss">Bạn đọc (http://dantri.com.vn/ban-doc.rss)</a></li><li class="child"><a href="/ban-doc/hoi-am.rss"><b>Hồi âm</b> (http://dantri.com.vn/ban-doc/hoi-am.rss)</a></li><li class="child"><a href="/ban-doc/tu-van-phap-luat.rss"><b>Tư vấn pháp luật</b> (http://dantri.com.vn/ban-doc/tu-van-phap-luat.rss)</a></li><li class="child"><a href="/ban-doc/dieu-tra.rss"><b>Điều tra</b> (http://dantri.com.vn/ban-doc/dieu-tra.rss)</a></li><li><a href="/dien-dan.rss">Diễn đàn (http://dantri.com.vn/dien-dan.rss)</a></li><li class="child"><a href="/dien-dan/xa-hoi.rss"><b>Xã hội</b> (http://dantri.com.vn/dien-dan/xa-hoi.rss)</a></li><li class="child"><a href="/dien-dan/giao-duc.rss"><b>Giáo dục</b> (http://dantri.com.vn/dien-dan/giao-duc.rss)</a></li><li class="child"><a href="/dien-dan/the-gioi.rss"><b>Thế giới</b> (http://dantri.com.vn/dien-dan/the-gioi.rss)</a></li><li><a href="/tuyen-sinh.rss">Tuyển sinh (http://dantri.com.vn/tuyen-sinh.rss)</a></li><li class="child"><a href="http://tuyensinh.dantri.com.vn/tuyen-sinh/de-thi-dap-an.rss"><b>Đề thi - Đáp án</b> (http://dantri.com.vnhttp://tuyensinh.dantri.com.vn/tuyen-sinh/de-thi-dap-an.rss)</a></li><li class="child"><a href="http://tuyensinh.dantri.com.vn/tuyen-sinh/chi-tieu.rss"><b>Chỉ tiêu</b> (http://dantri.com.vnhttp://tuyensinh.dantri.com.vn/tuyen-sinh/chi-tieu.rss)</a></li><li class="child"><a href="http://tuyensinh.dantri.com.vn/tuyen-sinh/khoanh-khac-mua-thi.rss"><b>Khoảnh khắc mùa thi</b> (http://dantri.com.vnhttp://tuyensinh.dantri.com.vn/tuyen-sinh/khoanh-khac-mua-thi.rss)</a></li><li class="child"><a href="http://tuyensinh.dantri.com.vn/tuyen-sinh/tu-van-toan-canh.rss"><b>Tư vấn toàn cảnh</b> (http://dantri.com.vnhttp://tuyensinh.dantri.com.vn/tuyen-sinh/tu-van-toan-canh.rss)</a></li><li class="child"><a href="http://tuyensinh.dantri.com.vn/tuyen-sinh/gap-go-cac-truong.rss"><b>Gặp gỡ các trường</b> (http://dantri.com.vnhttp://tuyensinh.dantri.com.vn/tuyen-sinh/gap-go-cac-truong.rss)</a></li><li><a href="/blog.rss">Blog (http://dantri.com.vn/blog.rss)</a></li><li><a href="/van-hoa.rss">Văn hóa (http://dantri.com.vn/van-hoa.rss)</a></li><li class="child"><a href="/van-hoa/van-hoc.rss"><b>Văn học</b> (http://dantri.com.vn/van-hoa/van-hoc.rss)</a></li><li class="child"><a href="/van-hoa/du-lich-kham-pha.rss"><b>Du lịch - Khám phá</b> (http://dantri.com.vn/van-hoa/du-lich-kham-pha.rss)</a></li><li class="child"><a href="/van-hoa/doi-song-van-hoa.rss"><b>Đời sống văn hóa</b> (http://dantri.com.vn/van-hoa/doi-song-van-hoa.rss)</a></li><li class="child"><a href="/van-hoa/dien-anh.rss"><b>Điện ảnh</b> (http://dantri.com.vn/van-hoa/dien-anh.rss)</a></li><li class="child"><a href="/van-hoa/san-khau-dan-gian.rss"><b>Sân khấu - Dân gian</b> (http://dantri.com.vn/van-hoa/san-khau-dan-gian.rss)</a></li><li class="child"><a href="/van-hoa/am-nhac.rss"><b>Âm nhạc</b> (http://dantri.com.vn/van-hoa/am-nhac.rss)</a></li><li><a href="/du-hoc.rss">Du học (http://dantri.com.vn/du-hoc.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/co-hoi-du-hoc.rss"><b>Cơ hội du học</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/co-hoi-du-hoc.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/talk-2-uni.rss"><b>Talk 2 uni</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/talk-2-uni.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/talk-to-paul.rss"><b>Talk to Paul</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/talk-to-paul.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/biet.rss"><b>Biết +</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/biet.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/the-gioi-du-hoc.rss"><b>Thế giới du học</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/the-gioi-du-hoc.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/tai-tri-viet.rss"><b>Tài trí Việt</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/tai-tri-viet.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/cam-nang-hoi-dap.rss"><b>Cẩm nang - Hỏi đáp</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/cam-nang-hoi-dap.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/cac-ngoi-truong-danh-tieng.rss"><b>Các ngôi trường danh tiếng</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/cac-ngoi-truong-danh-tieng.rss)</a></li><li class="child"><a href="http://duhoc.dantri.com.vn/du-hoc/talk-2-language-link.rss"><b>Talk 2 Language Link</b> (http://dantri.com.vnhttp://duhoc.dantri.com.vn/du-hoc/talk-2-language-link.rss)</a></li><li><a href="/du-lich.rss">Du Lịch (http://dantri.com.vn/du-lich.rss)</a></li><li class="child"><a href="http://dulich.dantri.com.vn/du-lich/vong-quay-du-lich.rss"><b>Vòng quay du lịch</b> (http://dantri.com.vnhttp://dulich.dantri.com.vn/du-lich/vong-quay-du-lich.rss)</a></li><li class="child"><a href="http://dulich.dantri.com.vn/du-lich/kham-pha.rss"><b>Khám phá</b> (http://dantri.com.vnhttp://dulich.dantri.com.vn/du-lich/kham-pha.rss)</a></li><li class="child"><a href="http://dulich.dantri.com.vn/du-lich/mon-ngon-diem-dep.rss"><b>Món ngon - Điểm đẹp</b> (http://dantri.com.vnhttp://dulich.dantri.com.vn/du-lich/mon-ngon-diem-dep.rss)</a></li><li class="child"><a href="http://dulich.dantri.com.vn/du-lich/tour-hay-khuyen-mai.rss"><b>Tour hay - Khuyến mại</b> (http://dantri.com.vnhttp://dulich.dantri.com.vn/du-lich/tour-hay-khuyen-mai.rss)</a></li><li class="child"><a href="http://dulich.dantri.com.vn/du-lich/video-anh.rss"><b>Video - Ảnh</b> (http://dantri.com.vnhttp://dulich.dantri.com.vn/du-lich/video-anh.rss)</a></li><li class="child"><a href="http://dulich.dantri.com.vn/du-lich/diem-den-moi-tuan.rss"><b>Điểm đến mỗi tuần</b> (http://dantri.com.vnhttp://dulich.dantri.com.vn/du-lich/diem-den-moi-tuan.rss)</a></li><li class="child"><a href="http://dulich.dantri.com.vn/du-lich/tours-ua-thich.rss"><b>Tours ưa thích</b> (http://dantri.com.vnhttp://dulich.dantri.com.vn/du-lich/tours-ua-thich.rss)</a></li><li><a href="/doi-song.rss">Đời sống (http://dantri.com.vn/doi-song.rss)</a></li><li class="child"><a href="/doi-song/cong-dong.rss"><b>Cộng đồng</b> (http://dantri.com.vn/doi-song/cong-dong.rss)</a></li><li class="child"><a href="/doi-song/nha-dep.rss"><b>Nhà đẹp</b> (http://dantri.com.vn/doi-song/nha-dep.rss)</a></li><li class="child"><a href="/doi-song/bep-ngon.rss"><b>Bếp ngon</b> (http://dantri.com.vn/doi-song/bep-ngon.rss)</a></li><li class="child"><a href="/doi-song/thuong-luu.rss"><b>Thượng lưu</b> (http://dantri.com.vn/doi-song/thuong-luu.rss)</a></li><li><a href="/khoa-hoc-cong-nghe.rss">Khoa học - Công nghệ (http://dantri.com.vn/khoa-hoc-cong-nghe.rss)</a></li><li class="child"><a href="/khoa-hoc-cong-nghe/khoa-hoc-do-day.rss"><b>Khoa học đó đây</b> (http://dantri.com.vn/khoa-hoc-cong-nghe/khoa-hoc-do-day.rss)</a></li><li class="child"><a href="/khoa-hoc-cong-nghe/tai-sao-lai-the.rss"><b>Tại sao lại thế?</b> (http://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-lai-the.rss)</a></li><li class="child"><a href="/khoa-hoc-cong-nghe/sang-tao-viet.rss"><b>Sáng tạo Việt</b> (http://dantri.com.vn/khoa-hoc-cong-nghe/sang-tao-viet.rss)</a></li><li class="child"><a href="/khoa-hoc-cong-nghe/khoa-hoc-doi-song.rss"><b>Khoa học & đời sống</b> (http://dantri.com.vn/khoa-hoc-cong-nghe/khoa-hoc-doi-song.rss)</a></li><li class="child"><a href="/khoa-hoc-cong-nghe/the-gioi-tu-nhien.rss"><b>Thế giới tự nhiên</b> (http://dantri.com.vn/khoa-hoc-cong-nghe/the-gioi-tu-nhien.rss)</a></li><li class="child"><a href="/khoa-hoc-cong-nghe/nhan-tai-dat-viet.rss"><b>Nhân tài Đất Việt</b> (http://dantri.com.vn/khoa-hoc-cong-nghe/nhan-tai-dat-viet.rss)</a></li><li><a href="/sea-games-28.rss">SEA Games 28 (http://dantri.com.vn/sea-games-28.rss)</a></li><li class="child"><a href="http://seagames.dantri.com.vn/sea-games-28/nhan-dinh-binh-luan.rss"><b>Nhận định - Bình luận</b> (http://dantri.com.vnhttp://seagames.dantri.com.vn/sea-games-28/nhan-dinh-binh-luan.rss)</a></li><li class="child"><a href="http://seagames.dantri.com.vn/sea-games-28/guong-mat-sea-games.rss"><b>Gương mặt SEA games</b> (http://dantri.com.vnhttp://seagames.dantri.com.vn/sea-games-28/guong-mat-sea-games.rss)</a></li><li class="child"><a href="http://seagames.dantri.com.vn/sea-games-28/chuyen-ben-le.rss"><b>Chuyện bên lề</b> (http://dantri.com.vnhttp://seagames.dantri.com.vn/sea-games-28/chuyen-ben-le.rss)</a></li><li class="child"><a href="http://seagames.dantri.com.vn/sea-games-28/thanh-tich-doan-viet-nam.rss"><b>Thành tích đoàn Việt Nam</b> (http://dantri.com.vnhttp://seagames.dantri.com.vn/sea-games-28/thanh-tich-doan-viet-nam.rss)</a></li><li class="child"><a href="http://seagames.dantri.com.vn/sea-games-28/lich-thi-dau.rss"><b>Lịch thi đấu</b> (http://dantri.com.vnhttp://seagames.dantri.com.vn/sea-games-28/lich-thi-dau.rss)</a></li>
+                
+            </ul>
+        </div>
+                            </div>
+                            <p align="left">
+                                <span style="font-size: 12pt; font-family: Times New Roman">
+                                    <br>
+                                </span>
+                            </p>
+                            <p align="left">
+                                <span><b><span style="font-size: 10pt; font-family: Arial"></span></b></span><b><span style="font-family: Arial"><font size="2">Sử </font><span class="storyheadline"><font size="2">dụng RSS như thế nào</font></span> </span></b>
+                            </p>
+                            <p align="left">
+                                <font face="Arial" size="2">Các ứng dụng phổ biến về việc cung cấp và sử dụng RSS bao
+                                    gồm: </font>
+                            </p>
+                            <br>
+                            <ul style="list-style-type: square !important; text-align: left">
+                                <li style="margin-left: 25px"><font face="Arial" size="2">Sử dụng một chương trình Khai
+                                    Thác Thông Tin (News Aggregator,News Spider) để thu thập, cập nhật và hiển thị các
+                                    nguồn kênh tin dạng RSS </font>
+                                    </li><li style="margin-left: 25px"><font face="Arial" size="2">Kết hợp nguồn kênh tin RSS
+                                        vào một nhật trình Web (weblogs)</font></li>
+                            </ul>
+                            <br>
+                            <p align="left">
+                                <font face="Arial" size="2">News Aggregators (hay trình Khai Thác Thông Tin) sẽ tải
+                                    xuống và hiển thị các nguồn kênh tin RSS cho bạn. Có một số các chương trình dạng
+                                    này cho phép bạn download miễn phí. Các chương trình phổ biến gồm có : AmphetaDesk,
+                                    NetNewsWire, và Radio Userland. </font>
+                            </p>
+                            <p style="margin-bottom: 12pt" align="left">
+                                <span class="storyheadline"><b><span style="font-size: 10pt; font-family: Arial"></span>
+                                    <span style="font-family: Arial"><font size="2">Các giới hạn sử dụng</font></span></b></span><span style="font-family: Arial"><font size="2"><br>
+                                            Các nguồn kênh tin được cung cấp miễn phí cho các cá nhân và các tổ chức phi lợi
+                                            nhuận. Chúng tôi yêu cầu bạn cung cấp rõ các thông tin cần thiết khi bạn sử dụng
+                                            các nguồn kênh tin này từ Dantri.com.vn</font></span></p>
+                            <p>
+                            </p>
+                            <p align="left">
+                                <span style="font-family: Arial"><font size="2">Nếu bạn định ghi dưới dạng văn bản,
+                                    hãy ghi: "Dantri.com.vn” Nếu bạn định ghi dưới dạng đồ họa, hãy sử dụng biểu tượng
+                                    của Dantri.com.vn đi kèm trong mỗi nguồn tin</font></span></p>
+                            <p align="left">
+                                <span style="font-family: Arial"><font size="2">Dantri.com.vn hoàn toàn có quyền yêu
+                                    cầu bạn ngừng cung cấp và phân tán thông tin dưới dạng này ở bất kỳ thời điểm nào
+                                    và với bất kỳ lý do nào.</font></span></p>
+                        </font></td>
+                    </tr>
+                </tbody></table>
+            </div>
+            
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+        </center>
+    </div>
+
+            </div>
+            <div id="adm_sticky_footer" style="height: 0px">
+            </div>
+            
+
+<div class="footer box19">
+    <div class="fr mb1 mt2">
+        <a href="javascript:void(0)" data-elementtype="button-sethomepage" rel="nofollow">Đặt Dân trí làm trang chủ </a>|  <a href="mailto:dantri@dantri.com.vn" title="Góp ý - Liên hệ" rel="nofollow">Góp ý
+            - Liên hệ</a> | &nbsp;&nbsp;&nbsp;<a
+                href="#" class="fon19" rel="nofollow">[ Trở về đầu trang ]</a>
+    </div>
+    <div class="clear line2">
+    </div>
+    <div class="clearfix">
+        <div class="fon17 mt1">
+            <a rel="nofollow" href="/su-kien.htm" title="Sự kiện">Sự kiện</a> | <a rel="nofollow" href="/xa-hoi.htm" title="Xã hội">Xã hội</a> | <a rel="nofollow" href="/the-gioi.htm" title="Thế giới">Thế giới</a> | <a rel="nofollow" href="/the-thao.htm" title="Thể thao">Thể thao</a> | <a rel="nofollow" href="/giao-duc-khuyen-hoc.htm" title="Giáo dục">Giáo dục</a> | <a rel="nofollow" href="/tam-long-nhan-ai.htm" title="Nhân ái">Nhân ái</a> | <a rel="nofollow" href="/kinh-doanh.htm" title="Kinh doanh">Kinh doanh</a> | <a rel="nofollow" href="/van-hoa.htm" title="Văn hóa">Văn hóa</a> | <a rel="nofollow" href="/giai-tri.htm" title="Giải trí">Giải trí</a> | <a rel="nofollow" href="http://dulich.dantri.com.vn" target="_blank" title="Du lịch">Du lịch</a> | <a rel="nofollow" href="/phap-luat.htm" title="Pháp luật">Pháp luật</a> | <a rel="nofollow" href="/nhip-song-tre.htm" title="Nhịp sống trẻ">Nhịp sống trẻ</a> | <a rel="nofollow" href="/suc-khoe.htm" title="Sức khỏe">Sức khỏe</a> |  <a rel="nofollow" href="/suc-manh-so.htm" title="Sức mạnh số">Sức mạnh số</a> | <a rel="nofollow" href="/o-to-xe-may.htm" title="Xe++">Xe++</a>
+            | <a rel="nofollow" href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu">Tình yêu</a> | <a rel="nofollow" href="/chuyen-la.htm" title="Chuyện lạ">Chuyện lạ</a>
+        </div>
+    </div>
+    <div class="footer-content box8 fon18 lh18">
+        <div class="footer-content-left">
+            Cơ quan của TW Hội Khuyến học Việt Nam<br />
+            Giấy phép hoạt động báo điện tử Dân trí trên Internet số  378/GP - BTTTT Hà Nội,
+            ngày 16-09-2013.<br />
+            Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br />
+            Điện thoại: 04-3736-6491. Fax: 04-3736-6490<br />
+            Email: <a href="mailto:info@dantri.com.vn" title="Gửi email tới Dân Trí" rel="nofollow">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" title="Xem trang Dân Trí"
+                rel="nofollow">http://www.dantri.com.vn</a>
+            <br />
+            <p>
+                <i>Mọi hành động sử dụng nội dung đăng tải trên Báo điện tử Dân trí tại địa chỉ www.dantri.com.vn
+                phải<br/> có sự đồng ý bằng văn bản của Báo điện tử Dân trí.
+                </i>
+            </p>
+        </div>
+        <div class="footer-content-right">
+            <p>
+                Đơn vị quảng cáo: &nbsp;<img src="https://static.dantricdn.com/App_Themes/Default/Images/adm_new_logo_small.png"
+                    style="display:inline-block; border: none;" />
+            </p>
+            <p>
+                Hotline: 0926.864.344
+            </p>
+            <p>
+                Email: <a href="mailto:quangcao@admicro.vn" rel="nofollow">quangcao@admicro.vn</a>
+            </p>
+            <p>
+                Website: <a href="http://www.admicro.vn" target="_blank"
+                    rel="nofollow">www.admicro.vn</a>
+            </p>
+            <p>
+                Hỗ trợ và CSKH: 01268 269 779 (Ms. Thơm)
+            </p>
+            <p>
+                Các mảng: <a href="http://afamily.vn" target="_blank" title="gia đình">gia đình
+                </a>-<a href="http://genk.vn" target="_blank" title="công nghệ"> công nghệ </a>-
+                <a href="http://gamek.vn" target="_blank" title="game">game </a>- <a href="http://kenh14.vn"
+                    target="_blank" title="giải trí">giải trí</a> , <a href="http://kenh14.vn/xa-hoi.chn"
+                        target="_blank" title="xã hội">xã hội.</a>
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    <script src="http://static.hosting.vcmedia.vn/code_redirect_player.js" type="text/javascript"></script>
+    <script type="text/lazyscript">
+        var icoNewsTypeVote = '<i class="ico-newstype-vote" title="Bài trắc nghiệm"></i>';
+        if ($("html").hasClass("homepage")) {
+            $("a[data-newstype=22]").prepend(icoNewsTypeVote);
+        } else {
+            $("a[data-newstype=22]").append(icoNewsTypeVote);
+        }
+    </script>
+
+        
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="023F657D" />
+</div></form>
+    
+    
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <script src="http://dantricdn.com/web_js/js-default-new.1.3.js" type="text/javascript" ></script>
+
+
+<script type="text/lazyscript">
+    var newZoneLink = $('.subnav ul a[href$="/doi-song/thuong-luu.htm"]');
+    if (newZoneLink.length > 0) {
+        newZoneLink.css({
+            "position": "relative",
+            "padding-right": "32px"
+        });
+        var icoNew = $('<i />').css({
+            background: 'transparent url("https://dantricdn.com/web_images/bd2aa9f1-5e63-4cc5-96b3-2d03e5fd9be7.png")  0 0 no-repeat',
+            width: '29px',
+            height: '16px',
+            display: 'inline-block',
+            position: 'absolute',
+            top: '-2px',
+            right: '0'
+        });
+        newZoneLink.append(icoNew);
+    }
+</script>
+
+
+</body>
+</html>
+
+<!--w-u: [09:43:44 17/03/2017-09:43:44 18/03/2017] -->

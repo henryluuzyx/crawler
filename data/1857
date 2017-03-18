@@ -1,0 +1,545 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Thống kê Báo điện tử - BAOMOI.COM
+</title><meta name="keywords" /><meta name="description" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/Statistics/Report.aspx" />
+<link rel="alternate" href="http://www.baomoi.com/Statistics/Report.aspx" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/Statistics/Report.aspx" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/Statistics/Report.aspx" />
+<meta property="og:title" content="Thống kê Báo điện tử - BAOMOI.COM" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Thống kê Báo điện tử - BAOMOI.COM",
+"alternateName" : "",
+"url" : "http://www.baomoi.com/Statistics/Report.aspx"
+}
+</script>
+<style>
+.panelHeader {
+background: #dcebf0;
+border-bottom: solid 1px #ddd;
+padding: 5px 10px;
+color: #333;
+}
+.statisticContents {
+width: 570px;
+margin: 0 auto;
+padding: 15px 0;
+text-align: center;
+}
+.statisticContents img {
+margin: 10px auto;
+}
+.statisticContents .note {
+color: #999;
+font-size: 0.8em;
+}
+.tblStats {
+margin: 10px auto;
+border-bottom: solid 2px #f1f8f8;
+}
+.tblStats th {
+padding: 5px 5px 5px 0;
+text-align: left;
+}
+.tblStats td, .tblStats th {
+border-bottom: solid 1px #ddd;
+}
+.charts-modal {
+display: block !important;
+}
+.charts-modal {
+background: white !important;
+padding: 30px 20px 20px !important;
+}
+.charts-modal > .header {
+margin-bottom: 10px;
+padding-bottom: 10px;
+border-bottom: 2px solid #E6E6E6;
+text-align: center;
+}
+.charts-modal > .header span {
+font-size: 18px;
+font-size: 1.8rem;
+}
+.charts-modal > .content {
+overflow: auto;
+}
+.charts-modal > .content image {
+width: 100%;
+border-color: #ccc !important;
+}
+</style>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content nocontent robots-nocontent">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<h3 class="panelHeader">Thống kê theo nguồn tin</h3>
+<div class="statisticContents">
+<p>
+<label>
+Xem top
+</label>
+<select name="selectTop" onchange="javascript:getImageReport();" id="selectTop" class="slt">
+<option value="5">5</option>
+<option selected="selected" value="10">10</option>
+<option value="15">15</option>
+<option value="20">20</option>
+</select>
+<label>
+Nguồn
+</label>
+<select name="selectField" onchange="javascript:getImageReport();" id="selectField" class="slt">
+<option selected="selected" value="0">Có số lượt đọc nhiều nhất</option>
+<option value="1">Có số tin nhiều nhất</option>
+<option value="2">Có số tin gốc nhiều nhất</option>
+<option value="3">Có số tin đăng lại nhiều nhất</option>
+<option value="4">Có số tin bị đăng lại nhiều nhất</option>
+</select>
+<label>
+Trong
+</label>
+<select name="selectDaysAgo" onchange="javascript:getImageReport();" id="selectDaysAgo" class="slt">
+<option selected="selected" value="7">7 ngày</option>
+<option value="30">1 tháng</option>
+<option value="90">3 tháng</option>
+</select>
+</p>
+<p>
+<img id="chartImageReport" style="border: 1px black solid;" style="display: none" usemap="chartImageMap" />
+<map name="chartImageMap" id="chartImageMap">
+</map>
+</p>
+<p class="note">
+Click vào nguồn để xem chi tiết theo ngày
+</p>
+</div>
+<h3 class="panelHeader">Thống kê tổng hợp</h3>
+<div class="statisticContents">
+<table cellspacing="0" class="tblStats">
+<tbody>
+<tr>
+<th width="300">Tổng số tin
+</th>
+<td><span id="main_lbTotalCount" style="font-weight: bold;">639682</span></td>
+</tr>
+<tr>
+<th>Tổng số tin đăng lại
+</th>
+<td><span id="main_lbCopiedCount" style="font-weight: bold;">164539</span></td>
+</tr>
+<tr>
+<th>Tổng số tin gốc bị đăng lại
+</th>
+<td><span id="main_lbBeCopiedCount" style="font-weight: bold;">125167</span></td>
+</tr>
+<tr>
+<th>Tổng số tin gốc không bị đăng lại
+</th>
+<td><span id="main_lbOriginalCount" style="font-weight: bold;">475143</span></td>
+</tr>
+</tbody>
+</table>
+<p class="note">
+Dữ liệu thống kê trong vòng 3 tháng trở lại đây
+</p>
+</div>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime"></p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script>
+//window.onload = function () {
+// getImageReport();
+//};
+getImageReport();
+function getImageReport() {
+var selectTop = document.getElementById("selectTop");
+var selectField = document.getElementById("selectField");
+var selectDaysAgo = document.getElementById("selectDaysAgo");
+if (selectTop != null && selectTop != undefined && selectField != null && selectField != undefined && selectDaysAgo != null && selectDaysAgo != undefined) {
+var valueTop = selectTop.value;
+var valueField = selectField.value;
+var valueDaysAgo = selectDaysAgo.value;
+var chartImageReport = document.getElementById("chartImageReport");
+if (chartImageReport != null && chartImageReport != undefined) {
+chartImageReport.src = "imagechart.aspx?top=" + valueTop + "&field=" + valueField + "&daysago=" + valueDaysAgo;
+var chartImageMap = document.getElementById("chartImageMap");
+if (chartImageMap != null && chartImageMap != undefined) {
+if (chartImageMap.areas.length > 0) {
+for (var i = chartImageMap.areas.length - 1; i >= 0; i--) {
+chartImageMap.areas[i].remove();
+}
+}
+var itemheight = 17;
+var itemclear = 12;
+var itemwidth = 502;
+for (var i = 0; i < valueTop; i++) {
+addArea(chartImageMap, 0, (i + 1) * itemclear + i * itemheight, itemwidth, (i + 1) * (itemclear + itemheight), "imagechart.aspx?top=" + valueTop + "&field=" + valueField + "&daysago=" + valueDaysAgo + "&item=" + i, "Xem chi tiết");
+}
+}
+chartImageReport.style.display = 'block';
+}
+}
+};
+function addArea(map, xstart, ystart, xende, yende, link, title) {
+area = document.createElement("area");
+area.shape = "rect";
+area.coords = "" + xstart + ", " + ystart + ", " + xende + ", " + yende + "";
+area.title = title;
+area.alt = title;
+//area.onmouseover = function () {
+// console.log(title + ": " + link);
+// return false;
+//};
+area.onclick = function () {
+viewPopup(link);
+return false;
+};
+map.appendChild(area);
+};
+</script>
+<script>
+function viewPopup(url) {
+var e = $("#dialog");
+0 == e.length && $("body").append($("<div></div>", {
+id: "dialog"
+}));
+$("#dialog").css("display", "block");
+if ($("#charts-modal").length > 0)
+$("#charts-modal").remove();
+$("#dialog").append('<div id="charts-modal" class="reveal-modal charts-modal large" style="width:542px; height:360px; margin-top:-200px !important; margin-left:-271px !important;"></div>');
+$("#charts-modal").append('<div class="header"><span>Dữ liệu thống kê chi tiết trong vòng 7 ngày gần nhất</span></div>');
+$(".header").append('<a class="close-reveal-modal" onclick="ClosePopup()">×</a>');
+$("#charts-modal").append('<div id="charts-content" class="content">');
+$("#charts-content").append('<img src="' + url + '" style="border: 1px black solid;" alt="Không có dữ liệu hiển thị" />');
+$('#dialog').click(function (e) {
+var offset_t = $("#charts-modal").offset().top - $(window).scrollTop();
+var offset_l = $("#charts-modal").offset().left - $(window).scrollLeft();
+var left = Math.round((e.clientX - offset_l));
+var top = Math.round((e.clientY - offset_t));
+if (left < 0 || left > 542 || top < 0 || top > 320)
+ClosePopup();
+});
+};
+ClosePopup = function () {
+if ($('#dialog').length > 0)
+$('#dialog').remove();
+};
+</script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

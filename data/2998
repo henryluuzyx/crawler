@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tình hình Syria mới nhất ngày 18/3 - Infonet
+</title><meta name="keywords" content="Quân đội Israel,Không quân Israel,israel,phòng không,Syria,Quân đội Syria,máy bay chiến đấu,không kích,Damascus,tổn thất,hệ thống phòng thủ tên lửa,reuters,ngăn chặn,xâm nhập,bộ tư lệnh,khủng bố,máy bay quân sự,giải phóng,IS,John Thomas,Trung tâm Mỹ" /><meta name="description" content="Quân đội Syria tuyên bố bắn hạ một máy bay của Không quân Israel; Mỹ kiểm tra các thông tin liên quan tới cái chết của 40 dân thường trong một vụ không kích..." />
+<link rel="canonical" href="http://www.baomoi.com/tinh-hinh-syria-moi-nhat-ngay-18-3/c/21792648.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792648" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792648" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://infonet.vn/tinh-hinh-syria-moi-nhat-ngay-183-post223335.info");
+else
+window.location.replace("http://www.baomoi.com/tinh-hinh-syria-moi-nhat-ngay-18-3/c/21792648.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

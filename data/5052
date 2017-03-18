@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Người quảng bá văn hóa đồng quê Việt ra thế giới - Tin Tức TTXVN
+</title><meta name="keywords" content="múa rối nước,Loong Beach,made in Phan Thanh Liêm,Nam Chấn,Phan Văn Ngải,Nam Trực,Khâm Thiên,Phan Văn Huyên,Hoàng Nhuận Cầm,Ba Lan,Phan Văn Hùng,california,Nam Định,quảng bá,trưng bày,canada,phá rối,Thanh Giang,Italia,malaysia,gắn bó" /><meta name="description" content="Múa rối nước là một môn nghệ thuật truyền thống đặc sắc, riêng có của người Việt Nam mà không một nơi nào khác trên thế giới có được." />
+<link rel="canonical" href="http://www.baomoi.com/nguoi-quang-ba-van-hoa-dong-que-viet-ra-the-gioi/c/21788248.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21788248" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21788248" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/van-hoa/nguoi-quang-ba-van-hoa-dong-que-viet-ra-the-gioi-20170317133849203.htm");
+else
+window.location.replace("http://www.baomoi.com/nguoi-quang-ba-van-hoa-dong-que-viet-ra-the-gioi/c/21788248.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

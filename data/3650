@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đâm vào máy xúc, chồng tử vong, vợ bị thương nặng - VOV
+</title><meta name="keywords" content="Đồng Thuận,Đồng Hợp,quốc lộ 48,Quỳ Hợp,CTV Nhật Minh/VOV,tử vong,Nghệ An,cấp cứu,việt nam" /><meta name="description" content="Người chồng lái xe máy do thiếu quan sát đã đâm thẳng vào chiếc máy xúc đang sang đường, vụ tai nạn khiến người chồng tử vong, vợ bị thương nặng." />
+<link rel="canonical" href="http://www.baomoi.com/dam-vao-may-xuc-chong-tu-vong-vo-bi-thuong-nang/c/21792613.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792613" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792613" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vov.vn/tin-24h/dam-vao-may-xuc-chong-tu-vong-vo-bi-thuong-nang-603932.vov");
+else
+window.location.replace("http://www.baomoi.com/dam-vao-may-xuc-chong-tu-vong-vo-bi-thuong-nang/c/21792613.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cienco 4 thu hồi văn bản đề nghị dân cam kết 'không đi đường BOT' - Dân Việt
+</title><meta name="keywords" content="Cienco 4,Ngô Trọng Nghĩa,bot,cầu bến thủy,Bến Thủy,Nghi Xuân,Trạm thu phí Bến Thủy,Hà Tĩnh,cam kết,Nghệ An,phản đối,chi trả,Bến Thủy II,Nam Bến Thủy,Xuân Hoa,thu hồi,Đoàn Loan,TP.Hà Tĩnh,Hưng Nguyên,ban hành,sơ suất" /><meta name="description" content="Cienco 4 thu hồi văn bản gửi các địa phương ở hai tỉnh Nghệ An và Hà Tĩnh, vì trong văn bản này có đề nghị người dân cam kết &quot;không tham gia giao thông trên..." />
+<link rel="canonical" href="http://www.baomoi.com/cienco-4-thu-hoi-van-ban-de-nghi-dan-cam-ket-khong-di-duong-bot/c/21792864.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792864" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792864" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/tin-tuc/cienco-4-thu-hoi-van-ban-de-nghi-dan-cam-ket-khong-di-duong-bot-754153.html");
+else
+window.location.replace("http://www.baomoi.com/cienco-4-thu-hoi-van-ban-de-nghi-dan-cam-ket-khong-di-duong-bot/c/21792864.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

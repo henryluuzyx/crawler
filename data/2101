@@ -1,0 +1,1935 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="tt_category_id" content="1001191" >
+<meta name="tt_article_id" content="1001191" >
+<meta name="description" content='Top người giàu trên sàn chứng khoán 2014 - VnExpress' property="og:description" />
+<meta content="Top người giàu trên sàn chứng khoán 2014 - VnExpress" name="title" itemprop="headline" property="og:title" />
+<meta content="article" property="og:type"/>
+<meta content="Tin nhanh VnExpress" property="og:site_name"/>
+<meta property="og:image" itemprop="thumbnailUrl" content="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Images/thum_share.jpg" />
+<!-- iPad icons -->
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/72x72.png" sizes="72x72">
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="144x144">
+<!-- iPhone and iPod touch icons -->
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="114x114">
+<!-- Nokia Symbian -->
+<link rel="nokia-touch-icon" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png">
+<!-- Android icon precomposed so it takes precedence -->
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="1x1">
+
+<title>VnExpress -
+Top 100 nguoi giàu nhất Việt Nam trên TTCK 2014
+</title>
+<link href="http://st.f2.vnecdn.net/responsive/j/v48/event/toprich/2014/Resouce/default.css" rel="stylesheet" type="text/css" />
+<link href="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Resouce/jquery.jscrollpane.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src='http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Js/jquery.jscrollpane.js'></script>
+<script>
+	//var PAGE_FOLDER = 1;
+
+	function tabProduct(nameTab) {
+        $('.' + nameTab + ' a').click(function() {
+            var $this = $(this);
+            var id = $this.attr("rel");
+            $('.' + nameTab).parent().removeClass('mtd-act');
+            $('.' + nameTab).parent().addClass('mtd-nor');
+            $('.' + id).children().removeClass('mtd-nor');
+            $('.' + id).children().addClass('mtd-act');
+            $('.tbl').css('display', 'none');
+            $('#' + id).css('display', 'block');
+			jQuery('.scroll_box').jScrollPane({ showArrows: true });// scroll rate table
+        });
+
+    }
+	$(function() {
+		//tabProduct('mmid');
+		jQuery('.scroll_box').jScrollPane({ showArrows: true });// scroll rate table
+	});
+    $(document).ready(function(){
+        $('#sort_bottom td a, #sort_top .sort_top_child a').each(function(key, val){
+            var col = $(this).parent().attr('data-sort');
+            if(col == 'education' || col == 'birthday')
+            {
+                $(this).append('<br /><span class="sxep '+col+'"></span>');
+            }
+            else
+            {
+                $(this).append('<span class="sxep '+col+'"></span>');
+            }
+        });
+        var sort =  '.level_present';
+                var sort_value =    'sortdow';
+                $(sort).addClass(sort_value);
+    });
+</script>
+
+
+<!--[if lte IE 6]>
+     <script type="text/JavaScript" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Js/Pngfix.js"></script>
+     <script type="text/javascript">
+   	 	$(document).ready(function() {
+     		DD_belatedPNG.fix('.png');
+    	});
+  	 </script>
+<![endif]-->
+<!-- Start GA -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-249346-13']);
+	_gaq.push(['_trackPageview']);
+_gaq.push(['f._setAccount', 'UA-249346-36']);
+		_gaq.push(['f._trackPageview']);
+	_gaq.push(['b._setAccount', 'UA-249346-22']);
+	_gaq.push(['b._trackPageview']);
+
+	_gaq.push(['c._setAccount', 'UA-249346-57']);
+	_gaq.push(['c._trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<!-- End GA -->
+</head>
+<body>
+    <div id="wrap">
+    	<div class="block_top_header">
+            <div id="trai">
+				<a href="http://vnexpress.net"><img alt="" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Images/bg/vne-logo.gif" /></a>
+			</div>
+			<div id="phai">
+                				<span class="tm">Cập nhật: 31/12/2014</span>
+                				<div class="social">
+					<a href="javascript:void(0);" class="fb_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Images/bg/img_fb.gif" /></a>
+					<a href="javascript:void(0);" class="tw_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Images/bg/img_fb_tweet.gif" /></a>
+					<a href="javascript:void(0);" class="g_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Images/bg/img_google.gif" /></a>
+				</div>
+			</div>
+        </div>
+    	<div id="header">
+             <div class="header-top">
+                <div class="menu">
+                    <div class="top100">
+                        <div class="mtd-act">
+                            <div class="mmid"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100" class="top100">Top 100 người giàu<!--<img class="article_live" src="http://st.f1.vnecdn.net/responsive/i/v41/icons/live.gif" alt="photo icon" style="padding-left:4px;">--></a></div>
+                        </div>
+                    </div>
+                    <div class="top500">
+                        <div class="mtd-nor">
+                            <div class="mmid"><a href="http://vnexpress.net/su-kien/top-rich-2014/top500" class="top500">Top 500 người giàu</a></div>
+                        </div>
+                    </div>
+                    <div class="top50">
+                        <div class="mtd-nor">
+                            <div class="mmid"><a href="http://vnexpress.net/su-kien/top-rich-2014/top50" class="top50">Top 50 phụ nữ</a></div>
+                        </div>
+                    </div>
+                    <div class="top30">
+                        <div class="mtd-nor">
+                            <div class="mmid"><a href="http://vnexpress.net/su-kien/top-rich-2014/top30" class="top30">Top 30 gia đình</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="content">
+            <div class="ct-tbl">
+        	    <div class="ct-mid">
+                    <table id="top50" class="tbl" cellpadding="0" cellspacing="0" style="display:block;">
+                        <tr>
+                            <td>
+                                <table class="tbl-title" cellpadding="0" cellspacing="0">
+                                    <tr id="sort_top">
+                                        <td width="10%" rowspan="1">
+                                            Vị trí
+                                        </td>
+                                        <td class="sort_top_child" data-sort="fullname" width="14%" rowspan="2">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=fullname&value=asc">Họ và tên</a>
+                                                                                    </td>
+                                        <td width="18%"  colspan="2">
+                                            Tài sản của VIP<br>
+                                            <span style="font-weight:normal; font-size:11px;">(Tỷ đồng)</span>
+                                        </td>
+                                        <td class="sort_top_child" data-sort="birthday" width="5%" rowspan="2">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=birthday&value=asc">Năm sinh</a>
+                                                                                    </td>
+                                        <td class="sort_top_child" data-sort="education" width="8%" rowspan="2">
+                                                                                                                                            <a href="/su-kien/top-rich-2014/top100/?sort=education&value=asc">Học vấn</a>
+                                                                                                                                    </td>
+                                        <td class="sort_top_child" data-sort="address" width="7%" rowspan="2">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=address&value=asc">Cư trú</a>
+                                                                                    </td>
+                                        <td colspan="4">
+                                            Doanh nghiệp
+                                        </td>
+                                    </tr>
+                                    <tr id="sort_bottom">
+                                        <td data-sort="level_present" width="9%" class="size12">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=level_present&value=desc">2014</a>
+                                                                                    </td>
+										<td data-sort="property_present" width="9%" class="size12">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=property_present&value=asc">2014<span style="font-weight:normal; font-size:11px;">***</span></a>
+                                                                                    </td>
+                                        <td data-sort="property_ago" width="9%" class="size12">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=property_ago&value=asc">2013<span style="font-weight:normal; font-size:11px;">***</span></span></i></a>
+                                                                                    </td>
+                                        <td data-sort="company_name" class="size12">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=company_name&value=asc">Tên công ty</a>
+                                                                                    </td>
+                                        <td data-sort="stock_symboy" width="8%" class="size12">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=stock_symboy&value=asc">Mã CK</a>
+                                                                                    </td>
+                                        <td data-sort="sector" width="11%" class="size12">
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=sector&value=asc">Ngành nghề</a>
+                                                                                    </td>
+                                        <td data-sort="p_e" width="7%" class="tbl-tlast size12" >
+                                                                                        <a href="/su-kien/top-rich-2014/top100/?sort=p_e&value=asc">P/E</a>
+                                                                                    </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td>
+                                <div class="scroll_box">
+                                    <table  class="tbl-ct" cellpadding="0px" cellspacing="1px">
+                                        <tbody>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    1                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    1                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/pham-nhat-vuong-3338"><b>Phạm Nhật Vượng</b></a><br/>Chủ tịch HĐQT VIC</td>
+                                                <td class="td8">20.188,252</td>
+                                                <td class="td9">19.923,582</td>
+                                                <td class="td10">1968</td>
+                                                <td class="td11">Kỹ sư</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn VinGroup</td>
+                                                <td class="td5">VIC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    2                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    2                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/doan-nguyen-duc-5317"><b>Đoàn Nguyên Đức</b></a><br/>Chủ tịch HĐQT HAG</td>
+                                                <td class="td8">7.575,118</td>
+                                                <td class="td9">6.387,903</td>
+                                                <td class="td10">1963</td>
+                                                <td class="td11">Hệ 12/12</td>
+                                                <td class="td12">Gia Lai</td>
+                                                <td class="td4" style="text-align:left;">Công ty Hoàng Anh Gia Lai</td>
+                                                <td class="td5">HAG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">7,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    3                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    3                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-dinh-long-3534"><b>Trần Đình Long</b></a><br/>Chủ tịch HĐQT HPG</td>
+                                                <td class="td8">6.159,040</td>
+                                                <td class="td9">4.153,184</td>
+                                                <td class="td10">1961</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                <td class="td5">HPG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    4                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    4                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/pham-thu-huong-11083"><b>Phạm Thu Hương</b></a><br/>Phó Chủ tịch HĐQT VIC; Vợ ông Phạm Nhật Vượng_Chủ tịch HĐQT VIC</td>
+                                                <td class="td8">3.481,230</td>
+                                                <td class="td9">3.435,590</td>
+                                                <td class="td10">1969</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn VinGroup</td>
+                                                <td class="td5">VIC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    5                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    5                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/pham-thuy-hang-3339"><b>Phạm Thúy Hằng</b></a><br/>Phó Chủ tịch HĐQT VIC; Em ông Phạm Nhật Vượng_Chủ tịch HĐQT VIC</td>
+                                                <td class="td8">2.324,898</td>
+                                                <td class="td9">2.294,419</td>
+                                                <td class="td10">1974</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn VinGroup</td>
+                                                <td class="td5">VIC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    6                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    6                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-hoang-yen-6508"><b>Nguyễn Hoàng Yến</b></a><br/>Ủy viên HĐQT MSN; Vợ ông Nguyễn Đăng Quang_Chủ tịch HĐQT MSN - Tổng giám đốc MSN</td>
+                                                <td class="td8">2.176,964</td>
+                                                <td class="td9">1.796,805</td>
+                                                <td class="td10">1963</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Ma San</td>
+                                                <td class="td5">MSN</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  </td>
+                                                <td class="td7">-</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    7                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    11                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/vu-thi-hien-13357"><b>Vũ Thị Hiền</b></a><br/>Vợ ông Trần Đình Long_Chủ tịch HĐQT HPG</td>
+                                                <td class="td8">1.886,327</td>
+                                                <td class="td9">1.271,994</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                <td class="td5">HPG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    8                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    29                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/chu-thi-binh-1923"><b>Chu Thị Bình</b></a><br/>Phó TGĐ MPC - Ủy viên HĐQT MPC - Ủy viên HĐQT MPC; Vợ ông Lê Văn Quang_Tổng giám đốc MPC - Chủ tịch HĐQT MPC</td>
+                                                <td class="td8">1.834,876</td>
+                                                <td class="td9">419,400</td>
+                                                <td class="td10">1964</td>
+                                                <td class="td11">hệ 10/10</td>
+                                                <td class="td12">Cà Mau</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Thủy hải sản Minh Phú</td>
+                                                <td class="td5">MPC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">10,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    9                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    18                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-duy-hung-697"><b>Nguyễn Duy Hưng</b></a><br/>Chủ tịch HĐQT PAN - Chủ tịch HĐQT SSI</td>
+                                                <td class="td8">1.799,407</td>
+                                                <td class="td9">679,543</td>
+                                                <td class="td10">1962</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">CTCK Sài Gòn<br />
+Công ty Thực phẩm Sao Ta<br />
+Công ty Xuyên Thái Bình<br />
+Công ty Viglacera Đông Anh</td>
+                                                <td class="td5">SSI<br />
+FMC<br />
+PAN<br />
+DAC</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ đầu tư                             <br />
+Nông sản và thủy hải sản                   <br />
+Dịch vụ tiêu dùng chuyên dụng              <br />
+Nguyên vật liệu xây dựng & Thiết bị lắp đặt</td>
+                                                <td class="td7">13,6</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    10                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    7                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/le-phuoc-vu-5261"><b>Lê Phước Vũ</b></a><br/>Chủ tịch HĐQT HSG</td>
+                                                <td class="td8">1.798,690</td>
+                                                <td class="td9">1.770,413</td>
+                                                <td class="td10">1963</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hoa Sen</td>
+                                                <td class="td5">HSG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">11,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    11                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    19                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/truong-thi-le-khanh-3828"><b>Trương Thị Lệ Khanh</b></a><br/>Tổng giám đốc VHC - Chủ tịch HĐQT VHC</td>
+                                                <td class="td8">1.727,298</td>
+                                                <td class="td9">549,239</td>
+                                                <td class="td10">1961</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Vĩnh Hoàn</td>
+                                                <td class="td5">VHC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">5,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    12                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    32                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/le-van-quang-1920"><b>Lê Văn Quang</b></a><br/>Tổng giám đốc MPC - Chủ tịch HĐQT MPC</td>
+                                                <td class="td8">1.675,905</td>
+                                                <td class="td9">383,064</td>
+                                                <td class="td10">1958</td>
+                                                <td class="td11">hệ 10/10</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Thủy hải sản Minh Phú</td>
+                                                <td class="td5">MPC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">10,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    13                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    13                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/duong-ngoc-minh-6598"><b>Dương Ngọc Minh</b></a><br/>Chủ tịch HĐQT VTF - Tổng giám đốc HVG - Chủ tịch HĐQT HVG - Phó Chủ tịch HĐQT AGF</td>
+                                                <td class="td8">1.350,313</td>
+                                                <td class="td9">1.065,111</td>
+                                                <td class="td10">1956</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Hùng Vương<br />
+Công ty Thức ăn Chăn nuôi Việt Thắng</td>
+                                                <td class="td5">HVG<br />
+VTF</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   <br />
+Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">10,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    14                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    9                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-van-dat-8790"><b>Nguyễn Văn Đạt</b></a><br/>Chủ tịch HĐQT PDR - Tổng giám đốc PDR</td>
+                                                <td class="td8">1.236,480</td>
+                                                <td class="td9">1.320,960</td>
+                                                <td class="td10">1970</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Phát triển Bất động sản Phát Đạt</td>
+                                                <td class="td5">PDR</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">213,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    15                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    12                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-thanh-tam-1386"><b>Đặng Thành Tâm</b></a><br/>Chủ tịch HĐQT KBC - Chủ tịch HĐQT SGT</td>
+                                                <td class="td8">1.213,908</td>
+                                                <td class="td9">1.195,200</td>
+                                                <td class="td10">1964</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Công nghệ Viễn thông Sài Gòn<br />
+Công ty Đầu tư và Công nghiệp Tân Tạo<br />
+Ngân hàng Nam Việt<br />
+Tổng công ty Phát triển Đô thị Kinh Bắc</td>
+                                                <td class="td5">SGT<br />
+ITA<br />
+NVB<br />
+KBC</td>
+                                                <td class="td6" style="text-align:left;">Phần mềm                                   <br />
+Đầu tư và phát triển bất động sản          <br />
+Ngân hàng                                  <br />
+Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">21,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    16                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    16                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-kim-thanh-125"><b>Trần Kim Thành</b></a><br/>Phó Chủ tịch HĐQT TLG - Chủ tịch HĐQT KDC</td>
+                                                <td class="td8">1.056,209</td>
+                                                <td class="td9">894,477</td>
+                                                <td class="td10">1960</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Kinh Đô<br />
+Tập đoàn Thiên Long</td>
+                                                <td class="td5">KDC<br />
+TLG</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  <br />
+Cửa hàng chuyên dụng                       </td>
+                                                <td class="td7">15,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    17                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    14                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tram-trong-ngan-17064"><b>Trầm Trọng Ngân</b></a><br/>Con ông Trầm Bê_Phó Chủ tịch HĐQT STB - Ủy viên HĐQT BCI</td>
+                                                <td class="td8">984,960</td>
+                                                <td class="td9">941,184</td>
+                                                <td class="td10">1981</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Sài Gòn Thương Tín</td>
+                                                <td class="td5">STB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">8,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    18                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    15                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/truong-gia-binh-1422"><b>Trương Gia Bình</b></a><br/>Chủ tịch HĐQT FPT</td>
+                                                <td class="td8">943,158</td>
+                                                <td class="td9">921,254</td>
+                                                <td class="td10">1956</td>
+                                                <td class="td11">Tiến sĩ</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty FPT</td>
+                                                <td class="td5">FPT</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ máy tính                           </td>
+                                                <td class="td7">8,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    19                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    170                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/trinh-van-quyet-12670"><b>Trịnh Văn Quyết</b></a><br/>Chủ tịch HĐQT FLC</td>
+                                                <td class="td8">890,997</td>
+                                                <td class="td9">48,400</td>
+                                                <td class="td10">1975</td>
+                                                <td class="td11">Tiến sĩ</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn FLC</td>
+                                                <td class="td5">FLC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">4,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    20                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    17                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-le-nguyen-226"><b>Trần Lệ Nguyên</b></a><br/>Ủy viên HĐQT TLG - Phó Chủ tịch HĐQT KDC - Tổng giám đốc KDC; Em ông Trần Kim Thành_Phó Chủ tịch HĐQT TLG - Chủ tịch HĐQT KDC</td>
+                                                <td class="td8">837,646</td>
+                                                <td class="td9">713,426</td>
+                                                <td class="td10">1968</td>
+                                                <td class="td11">Quản trị</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Kinh Đô<br />
+Tập đoàn Thiên Long</td>
+                                                <td class="td5">KDC<br />
+TLG</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  <br />
+Cửa hàng chuyên dụng                       </td>
+                                                <td class="td7">15,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    21                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    57                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-trong-thong-7158"><b>Nguyễn Trọng Thông</b></a><br/>Người CBTT HDG - Chủ tịch HĐQT HDG - Tổng giám đốc HDG</td>
+                                                <td class="td8">770,874</td>
+                                                <td class="td9">207,301</td>
+                                                <td class="td10">1953</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hà Đô</td>
+                                                <td class="td5">HDG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">19,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    22                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    41                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-hong-nam-1029"><b>Nguyễn Hồng Nam</b></a><br/>Phó TGĐ SSI - Ủy viên HĐQT SSI - Người CBTT SSI; Em ông Nguyễn Duy Hưng_Chủ tịch HĐQT PAN - Chủ tịch HĐQT SSI</td>
+                                                <td class="td8">694,320</td>
+                                                <td class="td9">283,895</td>
+                                                <td class="td10">1967</td>
+                                                <td class="td11">Thạc sĩ khoa học</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">CTCK Sài Gòn</td>
+                                                <td class="td5">SSI</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ đầu tư                             </td>
+                                                <td class="td7">13,6</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    23                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    25                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-tuan-duong-3535"><b>Trần Tuấn Dương</b></a><br/>Phó Chủ tịch HĐQT HPG - Tổng giám đốc HPG</td>
+                                                <td class="td8">687,516</td>
+                                                <td class="td9">463,608</td>
+                                                <td class="td10">1963</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                <td class="td5">HPG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    24                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    26                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-manh-tuan-3537"><b>Nguyễn Mạnh Tuấn</b></a><br/>Phó Chủ tịch HĐQT HPG</td>
+                                                <td class="td8">675,768</td>
+                                                <td class="td9">455,686</td>
+                                                <td class="td10">1962</td>
+                                                <td class="td11">Cử nhân kinh tế</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                <td class="td5">HPG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    25                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    31                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thi-nhu-loan-5549"><b>Nguyễn Thị Như Loan</b></a><br/>Tổng giám đốc QCG - Chủ tịch HĐQT QCG</td>
+                                                <td class="td8">587,653</td>
+                                                <td class="td9">393,788</td>
+                                                <td class="td10">1960</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">Gia Lai</td>
+                                                <td class="td4" style="text-align:left;">Công ty Quốc Cường Gia Lai</td>
+                                                <td class="td5">QCG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">160,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    26                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dinh-anh-huan-24283"><b>Đinh Anh Huân</b></a><br/>Cổ đông lớn MWG</td>
+                                                <td class="td8">575,935</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty đầu tư thế giới di động</td>
+                                                <td class="td5">MWG</td>
+                                                <td class="td6" style="text-align:left;">Cửa hàng chuyên dụng</td>
+                                                <td class="td7">45,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    27                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    23                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-phuoc-thanh-4897"><b>Đặng Phước Thành</b></a><br/>Chủ tịch HĐQT VNS</td>
+                                                <td class="td8">560,906</td>
+                                                <td class="td9">497,103</td>
+                                                <td class="td10">1957</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Ánh Dương Việt Nam</td>
+                                                <td class="td5">VNS</td>
+                                                <td class="td6" style="text-align:left;">Du lịch                                    </td>
+                                                <td class="td7">7,0</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    28                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    35                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-ngoc-quang-15550"><b>Nguyễn Ngọc Quang</b></a><br/>Cổ đông lớn HPG</td>
+                                                <td class="td8">506,698</td>
+                                                <td class="td9">341,678</td>
+                                                <td class="td10">1960</td>
+                                                <td class="td11">Trung cấp</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                <td class="td5">HPG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    29                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    34                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/doan-gia-cuong-3536"><b>Doãn Gia Cường</b></a><br/>Phó Chủ tịch HĐQT HPG</td>
+                                                <td class="td8">506,698</td>
+                                                <td class="td9">341,678</td>
+                                                <td class="td10">1963</td>
+                                                <td class="td11">Thạc sĩ</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                <td class="td5">HPG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    30                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    22                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/bui-quang-ngoc-1424"><b>Bùi Quang Ngọc</b></a><br/>Phó Chủ tịch HĐQT FPT - Tổng giám đốc FPT</td>
+                                                <td class="td8">490,728</td>
+                                                <td class="td9">536,244</td>
+                                                <td class="td10">1956</td>
+                                                <td class="td11">Tiến sĩ</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty FPT</td>
+                                                <td class="td5">FPT</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ máy tính                           </td>
+                                                <td class="td7">8,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    31                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-huy-hieu-23659"><b>Nguyễn Huy Hiếu</b></a><br/>Ủy viên HĐQT DRC</td>
+                                                <td class="td8">465,214</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Cao Su Đà Nẵng</td>
+                                                <td class="td5">DRC</td>
+                                                <td class="td6" style="text-align:left;">Lốp xe                                     </td>
+                                                <td class="td7">13,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    32                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    27                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-hung-huy-788"><b>Trần Hùng Huy</b></a><br/>Chủ tịch HĐQT ACB</td>
+                                                <td class="td8">443,090</td>
+                                                <td class="td9">448,844</td>
+                                                <td class="td10">1978</td>
+                                                <td class="td11">Tiến sĩ</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Á Châu</td>
+                                                <td class="td5">ACB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">26,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    33                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    33                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-thi-hoang-yen-1382"><b>Đặng Thị Hoàng Yến</b></a><br/>Chủ tịch HĐQT ITA; Chị ông Đặng Thành Tâm_Chủ tịch HĐQT KBC - Chủ tịch HĐQT SGT</td>
+                                                <td class="td8">434,797</td>
+                                                <td class="td9">358,708</td>
+                                                <td class="td10">1959</td>
+                                                <td class="td11">hệ 10/10</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư và Công nghiệp Tân Tạo</td>
+                                                <td class="td5">ITA</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">46,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    34                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    30                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tram-khai-hoa-16851"><b>Trầm Khải Hòa</b></a><br/>Ủy viên HĐQT STB; Con ông Trầm Bê_Phó Chủ tịch HĐQT STB - Ủy viên HĐQT BCI</td>
+                                                <td class="td8">432,626</td>
+                                                <td class="td9">408,239</td>
+                                                <td class="td10">1988</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Sài Gòn Thương Tín</td>
+                                                <td class="td5">STB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">8,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    35                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    28                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-ngoc-hai-579"><b>Nguyễn Ngọc Hải</b></a><br/>Chồng bà Nguyễn Thị Mai Thanh_Tổng giám đốc REE - Chủ tịch HĐQT REE</td>
+                                                <td class="td8">414,762</td>
+                                                <td class="td9">435,353</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Cơ điện lạnh</td>
+                                                <td class="td5">REE</td>
+                                                <td class="td6" style="text-align:left;">Máy công nghiệp                            </td>
+                                                <td class="td7">8,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    36                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    40                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/do-van-binh-16105"><b>Đỗ Văn Bình</b></a><br/>Phó Chủ tịch HĐQT SJS</td>
+                                                <td class="td8">396,580</td>
+                                                <td class="td9">292,300</td>
+                                                <td class="td10">1960</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư Phát triển Đô thị và Khu công nghiệp Sông Đà</td>
+                                                <td class="td5">SJS</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">38,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    37                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    38                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/vuong-ngoc-xiem-147"><b>Vương Ngọc Xiềm</b></a><br/>Ủy viên HĐQT KDC - Phó TGĐ KDC; Em ông Trần Kim Thành_Phó Chủ tịch HĐQT TLG - Chủ tịch HĐQT KDC</td>
+                                                <td class="td8">349,520</td>
+                                                <td class="td9">294,627</td>
+                                                <td class="td10">1962</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Kinh Đô</td>
+                                                <td class="td5">KDC</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  </td>
+                                                <td class="td7">15,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    38                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    114                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/le-thi-diu-minh-15519"><b>Lê Thị Dịu Minh</b></a><br/>Con ông Lê Văn Quang_Tổng giám đốc MPC - Chủ tịch HĐQT MPC</td>
+                                                <td class="td8">331,275</td>
+                                                <td class="td9">75,720</td>
+                                                <td class="td10">1986</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Thủy hải sản Minh Phú</td>
+                                                <td class="td5">MPC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">10,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    39                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thi-thanh-thuy-25402"><b>Nguyễn Thị Thanh Thủy</b></a><br/>Vợ ông Hồ Hùng Anh_Phó Chủ tịch HĐQT MSN</td>
+                                                <td class="td8">312,847</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Ma San</td>
+                                                <td class="td5">MSN</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  </td>
+                                                <td class="td7">-</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    40                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    36                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thi-dieu-hien-14963"><b>Nguyễn Thị Diệu Hiền</b></a><br/>Vợ ông Nguyễn Văn Đạt_Chủ tịch HĐQT PDR - Tổng giám đốc PDR</td>
+                                                <td class="td8">309,120</td>
+                                                <td class="td9">330,240</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Phát triển Bất động sản Phát Đạt</td>
+                                                <td class="td5">PDR</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">213,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2">
+                                                    41                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dao-huu-huyen-24583"><b>Đào Hữu Huyền</b></a><br/>Người CBTT DGC - Chủ tịch HĐQT DGC - Tổng giám đốc DGC</td>
+                                                <td class="td8">306,348</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10">1956</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Bột giặt và Hóa chất Đức Giang</td>
+                                                <td class="td5">DGC</td>
+                                                <td class="td6" style="text-align:left;">Hóa chất thông thường</td>
+                                                <td class="td7">6,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    42                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    52                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/cao-thi-ngoc-dung-5504"><b>Cao Thị Ngọc Dung</b></a><br/>Tổng giám đốc PNJ - Chủ tịch HĐQT PNJ</td>
+                                                <td class="td8">305,901</td>
+                                                <td class="td9">234,742</td>
+                                                <td class="td10">1957</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Vàng bạc đá quý Phú Nhuận</td>
+                                                <td class="td5">PNJ</td>
+                                                <td class="td6" style="text-align:left;">Đồ may mặc, trang sức, phụ kiện            </td>
+                                                <td class="td7">12,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    43                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    21                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/do-huu-ha-15890"><b>Đỗ Hữu Hạ</b></a><br/>Chủ tịch HĐQT HHS</td>
+                                                <td class="td8">303,833</td>
+                                                <td class="td9">543,105</td>
+                                                <td class="td10">1955</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư - Dịch vụ Hoàng Huy</td>
+                                                <td class="td5">HHS</td>
+                                                <td class="td6" style="text-align:left;">Ôtô                                        </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    44                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    83                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/bui-phap-7263"><b>Bùi Pháp</b></a><br/>Chủ tịch HĐQT DLG - Ủy viên HĐQT DL1</td>
+                                                <td class="td8">300,285</td>
+                                                <td class="td9">129,527</td>
+                                                <td class="td10">1962</td>
+                                                <td class="td11">Chuyên viên kinh tế</td>
+                                                <td class="td12">Gia Lai</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư phát triển dịch vụ công trình công cộng Đức Long Gia Lai<br />
+Tập đoàn Đức Long Gia Lai</td>
+                                                <td class="td5">DL1<br />
+DLG</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ vận tải                            <br />
+Đồ đạc, nội thất                           </td>
+                                                <td class="td7">7,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    45                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    39                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thi-mai-thanh-253"><b>Nguyễn Thị Mai Thanh</b></a><br/>Tổng giám đốc REE - Chủ tịch HĐQT REE</td>
+                                                <td class="td8">297,496</td>
+                                                <td class="td9">294,293</td>
+                                                <td class="td10">1952</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Cơ điện lạnh</td>
+                                                <td class="td5">REE</td>
+                                                <td class="td6" style="text-align:left;">Máy công nghiệp                            </td>
+                                                <td class="td7">8,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    46                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    48                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/doan-toi-3661"><b>Doãn Tới</b></a><br/>Tổng giám đốc ANV - Chủ tịch HĐQT ANV</td>
+                                                <td class="td8">293,510</td>
+                                                <td class="td9">254,575</td>
+                                                <td class="td10">1954</td>
+                                                <td class="td11">hệ 10/10</td>
+                                                <td class="td12">An Giang</td>
+                                                <td class="td4" style="text-align:left;">Công ty Nam Việt</td>
+                                                <td class="td5">ANV</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">28,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    47                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    45                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/phan-huy-khang-16852"><b>Phan Huy Khang</b></a><br/>Phó Chủ tịch HĐQT STB - Tổng giám đốc STB</td>
+                                                <td class="td8">286,637</td>
+                                                <td class="td9">273,898</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">Cử nhân Tài chính Tín dụng</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Sài Gòn Thương Tín</td>
+                                                <td class="td5">STB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">8,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    48                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    44                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/pham-hong-linh-3340"><b>Phạm Hồng Linh</b></a><br/>Chị bà Phạm Thúy Hằng_Phó Chủ tịch HĐQT VIC</td>
+                                                <td class="td8">279,573</td>
+                                                <td class="td9">275,906</td>
+                                                <td class="td10">1965</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn VinGroup</td>
+                                                <td class="td5">VIC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    49                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    46                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thanh-nghia-5368"><b>Nguyễn Thanh Nghĩa</b></a><br/>Tổng giám đốc DTL - Chủ tịch HĐQT DTL - Phó Chủ tịch HĐQT DHC</td>
+                                                <td class="td8">269,781</td>
+                                                <td class="td9">262,613</td>
+                                                <td class="td10">1963</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Thủy sản Mekong<br />
+Công ty Đại Thiên Lộc<br />
+Công ty Đông Hải Bến Tre</td>
+                                                <td class="td5">AAM<br />
+DTL<br />
+DHC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   <br />
+Thép                                       <br />
+Giấy                                       </td>
+                                                <td class="td7">11,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    50                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    49                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-xuan-quang-18615"><b>Nguyễn Xuân Quang</b></a><br/>Chủ tịch HĐQT NLG - Tổng giám đốc NLG</td>
+                                                <td class="td8">265,842</td>
+                                                <td class="td9">251,200</td>
+                                                <td class="td10">1960</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư Nam Long</td>
+                                                <td class="td5">NLG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">50,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    51                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    37                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/mai-kieu-lien-860"><b>Mai Kiều Liên</b></a><br/>Tổng giám đốc VNM - Chủ tịch HĐQT VNM</td>
+                                                <td class="td8">259,624</td>
+                                                <td class="td9">305,840</td>
+                                                <td class="td10">1953</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Sữa Việt Nam</td>
+                                                <td class="td5">VNM</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  </td>
+                                                <td class="td7">13,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    52                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    62                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-nhu-so-4217"><b>Nguyễn Như So</b></a><br/>Tổng giám đốc DBC - Chủ tịch HĐQT DBC</td>
+                                                <td class="td8">258,832</td>
+                                                <td class="td9">181,653</td>
+                                                <td class="td10">1957</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Bắc Ninh</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Dabaco Việt Nam</td>
+                                                <td class="td5">DBC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">9,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    53                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    47                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-mong-hung-772"><b>Trần Mộng Hùng</b></a><br/>Ủy viên HĐQT ACB; Bố ông Trần Hùng Huy_Chủ tịch HĐQT ACB</td>
+                                                <td class="td8">254,467</td>
+                                                <td class="td9">257,772</td>
+                                                <td class="td10">1953</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Á Châu</td>
+                                                <td class="td5">ACB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">26,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    54                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-duc-tai-24266"><b>Nguyễn Đức Tài</b></a><br/>Tổng giám đốc MWG - Chủ tịch HĐQT MWG</td>
+                                                <td class="td8">248,873</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10">1969</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty đầu tư thế giới di động</td>
+                                                <td class="td5">MWG</td>
+                                                <td class="td6" style="text-align:left;">Cửa hàng chuyên dụng</td>
+                                                <td class="td7">45,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    55                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    50                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-quoc-thanh-15701"><b>Nguyễn Quốc Thành</b></a><br/>Chồng bà Phạm Thúy Hằng_Phó Chủ tịch HĐQT VIC</td>
+                                                <td class="td8">247,536</td>
+                                                <td class="td9">244,289</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn VinGroup</td>
+                                                <td class="td5">VIC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    56                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    836                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/liu-cheng-min-1130"><b>Liu Cheng Min</b></a><br/>Chủ tịch HĐQT TKU</td>
+                                                <td class="td8">235,898</td>
+                                                <td class="td9">5,137</td>
+                                                <td class="td10">1947</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12">Đài Loan</td>
+                                                <td class="td4" style="text-align:left;">Công ty Công nghiệp Tung Kuang</td>
+                                                <td class="td5">TKU</td>
+                                                <td class="td6" style="text-align:left;">Nhôm                                       </td>
+                                                <td class="td7">4,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    57                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    72                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/ngo-thi-thong-7208"><b>Ngô Thị Thông</b></a><br/>Chủ tịch HĐQT NHW - Tổng giám đốc NHW</td>
+                                                <td class="td8">230,857</td>
+                                                <td class="td9">155,086</td>
+                                                <td class="td10">1952</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Ngô Han</td>
+                                                <td class="td5">NHW</td>
+                                                <td class="td6" style="text-align:left;">Thiết bị viễn thông                        </td>
+                                                <td class="td7">5,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    58                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thi-kim-xuan-15630"><b>Nguyễn Thị Kim Xuân</b></a><br/>Cổ đông lớn KBC</td>
+                                                <td class="td8">226,205</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10">1959</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Tổng công ty Phát triển Đô thị Kinh Bắc</td>
+                                                <td class="td5">KBC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    59                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    54                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/le-van-huong-11989"><b>Lê Văn Hướng</b></a><br/>Tổng giám đốc JVC - Chủ tịch HĐQT JVC</td>
+                                                <td class="td8">222,711</td>
+                                                <td class="td9">221,862</td>
+                                                <td class="td10">1976</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty Thiết bị Y tế Việt Nhật</td>
+                                                <td class="td5">JVC</td>
+                                                <td class="td6" style="text-align:left;">Thiết bị y tế                              </td>
+                                                <td class="td7">7,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    60                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    59                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/vuong-quoc-tru-15714"><b>Vương Quốc Trụ</b></a><br/>Em ông Trần Kim Thành_Phó Chủ tịch HĐQT TLG - Chủ tịch HĐQT KDC</td>
+                                                <td class="td8">222,369</td>
+                                                <td class="td9">185,822</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Kinh Đô</td>
+                                                <td class="td5">KDC</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  </td>
+                                                <td class="td7">15,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    61                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    60                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/do-quang-hien-4318"><b>Đỗ Quang Hiển</b></a><br/>Chủ tịch HĐQT SHS - Chủ tịch HĐQT SHB</td>
+                                                <td class="td8">216,439</td>
+                                                <td class="td9">184,298</td>
+                                                <td class="td10">1962</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Sài Gòn - Hà Nội<br />
+CTCK Sài Gòn Hà Nội</td>
+                                                <td class="td5">SHB<br />
+SHS</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  <br />
+Dịch vụ đầu tư                             </td>
+                                                <td class="td7">8,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    62                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/truong-thi-thanh-thanh-1427"><b>Trương Thị Thanh Thanh</b></a><br/>Chị ông Trương Gia Bình_Chủ tịch HĐQT FPT</td>
+                                                <td class="td8">214,583</td>
+                                                <td class="td9">(*)</td>
+                                                <td class="td10">1951</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty FPT</td>
+                                                <td class="td5">FPT</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ máy tính                           </td>
+                                                <td class="td7">8,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    63                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    2825                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/le-thi-thuy-hai-13670"><b>Lê Thị Thúy Hải</b></a><br/>Vợ ông Đặng Quốc Dũng_Ủy viên HĐQT NTP</td>
+                                                <td class="td8">214,369</td>
+                                                <td class="td9">0,474</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">Hải Phòng</td>
+                                                <td class="td4" style="text-align:left;">Công ty Nhựa Thiếu niên Tiền Phong</td>
+                                                <td class="td5">NTP</td>
+                                                <td class="td6" style="text-align:left;">Nguyên vật liệu xây dựng & Thiết bị lắp đặt</td>
+                                                <td class="td7">8,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    64                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    175                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/le-van-diep-1973"><b>Lê Văn Điệp</b></a><br/>Phó TGĐ MPC; Em ông Lê Văn Quang_Tổng giám đốc MPC - Chủ tịch HĐQT MPC</td>
+                                                <td class="td8">206,372</td>
+                                                <td class="td9">47,171</td>
+                                                <td class="td10">1972</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">Cà Mau</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Thủy hải sản Minh Phú</td>
+                                                <td class="td5">MPC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">10,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    65                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    42                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-thanh-duy-11878"><b>Đặng Thành Duy</b></a><br/>Phó TGĐ VNS; Con ông Đặng Phước Thành_Chủ tịch HĐQT VNS</td>
+                                                <td class="td8">201,496</td>
+                                                <td class="td9">281,576</td>
+                                                <td class="td10">1984</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Ánh Dương Việt Nam</td>
+                                                <td class="td5">VNS</td>
+                                                <td class="td6" style="text-align:left;">Du lịch                                    </td>
+                                                <td class="td7">7,0</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    66                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/puan-kwong-siing-23925"><b>Puan Kwong Siing</b></a><br/>Ủy viên HĐQT SKG - Tổng giám đốc SKG</td>
+                                                <td class="td8">197,796</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Tàu cao tốc Superdong – Kiên Giang</td>
+                                                <td class="td5">SKG</td>
+                                                <td class="td6" style="text-align:left;">Vận tải biển</td>
+                                                <td class="td7">9,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    67                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    125                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-huynh-uc-my-7295"><b>Đặng Huỳnh Ức My</b></a><br/>Ủy viên HĐQT BHS - Chủ tịch HĐQT SBT - Tổng giám đốc SBT; Em ông Đặng Hồng Anh_Tổng giám đốc SCR - Chủ tịch HĐQT SCR</td>
+                                                <td class="td8">194,371</td>
+                                                <td class="td9">67,304</td>
+                                                <td class="td10">1981</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đường Biên Hòa<br />
+Công ty Đường Ninh Hòa<br />
+Công ty Mía đường - Nhiệt điện Gia Lai<br />
+Công ty Địa ốc Sài Gòn Thương Tín</td>
+                                                <td class="td5">BHS<br />
+NHS<br />
+SEC<br />
+SCR</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  <br />
+Thực phẩm                                  <br />
+Thực phẩm                                  <br />
+Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">4,0</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    68                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    71                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/ha-hoai-nam-4075"><b>Hà Hoài Nam</b></a><br/>Chủ tịch HĐQT KLS</td>
+                                                <td class="td8">185,931</td>
+                                                <td class="td9">157,598</td>
+                                                <td class="td10">1972</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">CTCK Kim Long</td>
+                                                <td class="td5">KLS</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ đầu tư                             </td>
+                                                <td class="td7">11,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    69                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    64                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-minh-hoang-15882"><b>Trần Minh Hoàng</b></a><br/>Em ông Trần Hùng Huy_Chủ tịch HĐQT ACB</td>
+                                                <td class="td8">177,160</td>
+                                                <td class="td9">179,461</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Á Châu</td>
+                                                <td class="td5">ACB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">26,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    70                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    65                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thieu-nam-445"><b>Nguyễn Thiều Nam</b></a><br/>Phó TGĐ MSN - Ủy viên HĐQT MSN</td>
+                                                <td class="td8">175,163</td>
+                                                <td class="td9">174,108</td>
+                                                <td class="td10">1970</td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Ma San</td>
+                                                <td class="td5">MSN</td>
+                                                <td class="td6" style="text-align:left;">Thực phẩm                                  </td>
+                                                <td class="td7">-</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    71                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    98                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-hoang-minh-9529"><b>Nguyễn Hoàng Minh</b></a><br/>Tổng giám đốc KAC - Chủ tịch HĐQT KAC</td>
+                                                <td class="td8">175,161</td>
+                                                <td class="td9">98,682</td>
+                                                <td class="td10">1959</td>
+                                                <td class="td11">Hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư Địa ốc Khang An</td>
+                                                <td class="td5">KAC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">180,0</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    72                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    127                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-van-to-7159"><b>Nguyễn Văn Tô</b></a><br/>Phó Chủ tịch HĐQT HDG</td>
+                                                <td class="td8">174,614</td>
+                                                <td class="td9">66,825</td>
+                                                <td class="td10">1955</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hà Đô</td>
+                                                <td class="td5">HDG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">19,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    73                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    66                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-thu-thuy-13457"><b>Đặng Thu Thủy</b></a><br/>Ủy viên HĐQT ACB; Mẹ ông Trần Hùng Huy_Chủ tịch HĐQT ACB</td>
+                                                <td class="td8">169,071</td>
+                                                <td class="td9">171,267</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">Cử nhân</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Á Châu</td>
+                                                <td class="td5">ACB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">26,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    74                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    51                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/do-huu-hau-15894"><b>Đỗ Hữu Hậu</b></a><br/>Ủy viên HĐQT HHS; Con ông Đỗ Hữu Hạ_Chủ tịch HĐQT HHS</td>
+                                                <td class="td8">168,071</td>
+                                                <td class="td9">239,871</td>
+                                                <td class="td10">1984</td>
+                                                <td class="td11">Cử nhân Kinh Tế</td>
+                                                <td class="td12">Hải Phòng</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư - Dịch vụ Hoàng Huy</td>
+                                                <td class="td5">HHS</td>
+                                                <td class="td6" style="text-align:left;">Ôtô                                        </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    75                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    43                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/hoang-thi-xuan-huong-15746"><b>Hoàng Thị Xuân Hương</b></a><br/>Vợ ông Lê Phước Vũ_Chủ tịch HĐQT HSG</td>
+                                                <td class="td8">163,875</td>
+                                                <td class="td9">277,451</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hoa Sen</td>
+                                                <td class="td5">HSG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">11,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    76                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    68                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-dang-thu-thao-13458"><b>Trần Đặng Thu Thảo</b></a><br/>Chị ông Trần Hùng Huy_Chủ tịch HĐQT ACB</td>
+                                                <td class="td8">162,813</td>
+                                                <td class="td9">164,927</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Á Châu</td>
+                                                <td class="td5">ACB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">26,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    77                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    95                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/do-thi-thu-ha-10727"><b>Đỗ Thị Thu Hà</b></a><br/>Chị ông Đỗ Quang Hiển_Chủ tịch HĐQT SHS - Chủ tịch HĐQT SHB</td>
+                                                <td class="td8">161,949</td>
+                                                <td class="td9">102,541</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Sài Gòn - Hà Nội<br />
+CTCK Sài Gòn Hà Nội</td>
+                                                <td class="td5">SHB<br />
+SHS</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  <br />
+Dịch vụ đầu tư                             </td>
+                                                <td class="td7">8,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    78                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    3996                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-nguyen-quynh-anh-15409"><b>Đặng Nguyễn Quỳnh Anh</b></a><br/>Con ông Đặng Thành Tâm_Chủ tịch HĐQT KBC - Chủ tịch HĐQT SGT</td>
+                                                <td class="td8">159,000</td>
+                                                <td class="td9">0,165</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tổng công ty Phát triển Đô thị Kinh Bắc</td>
+                                                <td class="td5">KBC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    79                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    73                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thi-bich-ngoc-18644"><b>Nguyễn Thị Bích Ngọc</b></a><br/>Vợ ông Nguyễn Xuân Quang_Chủ tịch HĐQT NLG - Tổng giám đốc NLG</td>
+                                                <td class="td8">158,199</td>
+                                                <td class="td9">154,604</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư Nam Long</td>
+                                                <td class="td5">NLG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">50,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    80                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    101                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-thai-nga-16195"><b>Nguyễn Thái Nga</b></a><br/>Ủy viên HĐQT DQC</td>
+                                                <td class="td8">157,695</td>
+                                                <td class="td9">95,753</td>
+                                                <td class="td10">1984</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Bóng đèn Điện Quang</td>
+                                                <td class="td5">DQC</td>
+                                                <td class="td6" style="text-align:left;">Thiết bị điện                              </td>
+                                                <td class="td7">5,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    81                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    74                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/do-cao-bao-1428"><b>Đỗ Cao Bảo</b></a><br/>Ủy viên HĐQT FPT</td>
+                                                <td class="td8">155,627</td>
+                                                <td class="td9">151,175</td>
+                                                <td class="td10">1957</td>
+                                                <td class="td11">Cử nhân Toán</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty FPT</td>
+                                                <td class="td5">FPT</td>
+                                                <td class="td6" style="text-align:left;">Dịch vụ máy tính                           </td>
+                                                <td class="td7">8,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    82                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    169                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/lam-mau-diep-15429"><b>Lâm Mẫu Diệp</b></a><br/>Vợ ông Võ Phú Đức_Ủy viên HĐQT VHC</td>
+                                                <td class="td8">154,502</td>
+                                                <td class="td9">49,128</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Vĩnh Hoàn</td>
+                                                <td class="td5">VHC</td>
+                                                <td class="td6" style="text-align:left;">Nông sản và thủy hải sản                   </td>
+                                                <td class="td7">5,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    83                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    271                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/bui-van-huu-7119"><b>Bùi Văn Hữu</b></a><br/>Tổng giám đốc TMT - Chủ tịch HĐQT TMT</td>
+                                                <td class="td8">154,032</td>
+                                                <td class="td9">26,131</td>
+                                                <td class="td10">1960</td>
+                                                <td class="td11">Cử nhân kinh tế</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty Ô tô TMT</td>
+                                                <td class="td5">TMT</td>
+                                                <td class="td6" style="text-align:left;">Ôtô                                        </td>
+                                                <td class="td7">10,7</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    84                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    96                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/vu-thi-hiep-13987"><b>Vũ Thị Hiệp</b></a><br/>Vợ ông Trần Tuấn Dương_Phó Chủ tịch HĐQT HPG - Tổng giám đốc HPG</td>
+                                                <td class="td8">151,958</td>
+                                                <td class="td9">102,469</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                <td class="td5">HPG</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">7,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 uplv">
+                                                    85                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    90                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dao-huu-hoang-7959"><b>Đào Hữu Hoàng</b></a><br/>Chủ tịch HĐQT SPM</td>
+                                                <td class="td8">151,316</td>
+                                                <td class="td9">116,598</td>
+                                                <td class="td10">1963</td>
+                                                <td class="td11">Cử nhân Y khoa</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty S.P.M</td>
+                                                <td class="td5">SPM</td>
+                                                <td class="td6" style="text-align:left;">Dược phẩm                                  </td>
+                                                <td class="td7">12,0</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    86                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    78                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-thanh-phong-5497"><b>Trần Thanh Phong</b></a><br/>Phó Chủ tịch HĐQT NLG</td>
+                                                <td class="td8">149,092</td>
+                                                <td class="td9">145,704</td>
+                                                <td class="td10">1966</td>
+                                                <td class="td11">Kỹ sư</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư Nam Long</td>
+                                                <td class="td5">NLG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">50,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    87                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    70                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/ngo-thi-ngoc-lieu-18643"><b>Ngô Thị Ngọc Liễu</b></a><br/>Cổ đông lớn NLG</td>
+                                                <td class="td8">148,432</td>
+                                                <td class="td9">161,970</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Đầu tư Nam Long</td>
+                                                <td class="td5">NLG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">50,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    88                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-huy-thanh-tung-24276"><b>Trần Huy Thanh Tùng</b></a><br/>Trưởng BKS MWG</td>
+                                                <td class="td8">148,318</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10">1970</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty đầu tư thế giới di động</td>
+                                                <td class="td5">MWG</td>
+                                                <td class="td6" style="text-align:left;">Cửa hàng chuyên dụng</td>
+                                                <td class="td7">45,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    89                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    69                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/ha-trong-nam-13349"><b>Hà Trọng Nam</b></a><br/>Ủy viên HĐQT OGC - Chủ tịch HĐQT OCH</td>
+                                                <td class="td8">147,455</td>
+                                                <td class="td9">162,142</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty Khách sạn và Dịch vụ Đại Dương</td>
+                                                <td class="td5">OCH</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">54,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    90                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/tran-le-quan-24269"><b>Trần Lê Quân</b></a><br/>Ủy viên HĐQT MWG</td>
+                                                <td class="td8">145,650</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10">1960</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty đầu tư thế giới di động</td>
+                                                <td class="td5">MWG</td>
+                                                <td class="td6" style="text-align:left;">Cửa hàng chuyên dụng</td>
+                                                <td class="td7">45,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    91                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    76                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-thu-ha-17510"><b>Đặng Thu Hà</b></a><br/>Em bà Đặng Thu Thủy_Ủy viên HĐQT ACB</td>
+                                                <td class="td8">145,441</td>
+                                                <td class="td9">147,329</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Á Châu</td>
+                                                <td class="td5">ACB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">26,1</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    92                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    53                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dang-hong-anh-708"><b>Đặng Hồng Anh</b></a><br/>Tổng giám đốc SCR - Chủ tịch HĐQT SCR</td>
+                                                <td class="td8">143,594</td>
+                                                <td class="td9">233,373</td>
+                                                <td class="td10">1980</td>
+                                                <td class="td11">hệ 12/12</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Địa ốc Sài Gòn Thương Tín</td>
+                                                <td class="td5">SCR</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">42,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    93                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    87                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/doan-nguyen-thu-5320"><b>Đoàn Nguyên Thu</b></a><br/>Phó TGĐ HAG - Ủy viên HĐQT HAG; Em ông Đoàn Nguyên Đức_Chủ tịch HĐQT HAG</td>
+                                                <td class="td8">142,710</td>
+                                                <td class="td9">120,344</td>
+                                                <td class="td10">1977</td>
+                                                <td class="td11">MBA</td>
+                                                <td class="td12">Gia Lai</td>
+                                                <td class="td4" style="text-align:left;">Công ty Hoàng Anh Gia Lai</td>
+                                                <td class="td5">HAG</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">7,8</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2">
+                                                    94                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                                                                    </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/phan-thi-thu-thuy-24434"><b>Phan Thị Thu Thủy</b></a><br/>Vợ ông Trần Lê Quân_Ủy viên HĐQT MWG</td>
+                                                <td class="td8">141,342</td>
+                                                <td class="td9">-</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty đầu tư thế giới di động</td>
+                                                <td class="td5">MWG</td>
+                                                <td class="td6" style="text-align:left;">Cửa hàng chuyên dụng</td>
+                                                <td class="td7">45,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    95                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    92                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-manh-ha-1693"><b>Nguyễn Mạnh Hà</b></a><br/>Chủ tịch HĐQT TLH</td>
+                                                <td class="td8">132,898</td>
+                                                <td class="td9">111,992</td>
+                                                <td class="td10">1962</td>
+                                                <td class="td11">Quản trị</td>
+                                                <td class="td12">Đồng Nai</td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn thép Tiến Lên</td>
+                                                <td class="td5">TLH</td>
+                                                <td class="td6" style="text-align:left;">Thép                                       </td>
+                                                <td class="td7">24,4</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    96                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    89                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/le-viet-hai-2268"><b>Lê Viết Hải</b></a><br/>Chủ tịch HĐQT HBC - Tổng giám đốc HBC</td>
+                                                <td class="td8">131,077</td>
+                                                <td class="td9">117,550</td>
+                                                <td class="td10">1958</td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Công ty Xây Dựng và Kinh Doanh Địa ốc Hòa Bình</td>
+                                                <td class="td5">HBC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">20,5</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    97                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    93                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/nguyen-ba-duong-5585"><b>Nguyễn Bá Dương</b></a><br/>Chủ tịch HĐQT CTD - Tổng giám đốc CTD</td>
+                                                <td class="td8">126,236</td>
+                                                <td class="td9">111,841</td>
+                                                <td class="td10">1959</td>
+                                                <td class="td11">Kiến trúc sư</td>
+                                                <td class="td12">TP HCM</td>
+                                                <td class="td4" style="text-align:left;">Công ty Xây dựng Cotec</td>
+                                                <td class="td5">CTD</td>
+                                                <td class="td6" style="text-align:left;">Công trình xây dựng                        </td>
+                                                <td class="td7">7,9</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 dowlv">
+                                                    98                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    85                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/pham-thi-tuyet-mai-13961"><b>Phạm Thị Tuyết Mai</b></a><br/>Vợ ông Phạm Văn Khương_Phó TGĐ VIC</td>
+                                                <td class="td8">125,498</td>
+                                                <td class="td9">123,851</td>
+                                                <td class="td10"></td>
+                                                <td class="td11">-</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Tập đoàn VinGroup</td>
+                                                <td class="td5">VIC</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          </td>
+                                                <td class="td7">12,3</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr">
+                                                                                                <td class="td1_2 dowlv">
+                                                    99                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    88                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/duong-hoang-quynh-nhu-16856"><b>Dương Hoàng Quỳnh Như</b></a><br/>Ủy viên HĐQT STB</td>
+                                                <td class="td8">125,197</td>
+                                                <td class="td9">119,633</td>
+                                                <td class="td10">1982</td>
+                                                <td class="td11">MBA</td>
+                                                <td class="td12"></td>
+                                                <td class="td4" style="text-align:left;">Ngân hàng Sài Gòn Thương Tín</td>
+                                                <td class="td5">STB</td>
+                                                <td class="td6" style="text-align:left;">Ngân hàng                                  </td>
+                                                <td class="td7">8,2</td>
+                                            </tr>
+                                                                                        <tr class="bg_tr1">
+                                                                                                <td class="td1_2 uplv">
+                                                    100                                                </td>
+                                                <!--<td class="td1_2" style="width: 40px;">
+                                                    234                                                </td>-->
+                                                <td class="td3" style="text-align:left;"><a href="http://vnexpress.net/su-kien/top-rich-2014/top100/dinh-quang-chien-3822"><b>Đinh Quang Chiến</b></a><br/>Ủy viên HĐQT SEB - Ủy viên HĐQT NTL</td>
+                                                <td class="td8">124,785</td>
+                                                <td class="td9">30,905</td>
+                                                <td class="td10">1967</td>
+                                                <td class="td11">Đại học</td>
+                                                <td class="td12">Hà Nội</td>
+                                                <td class="td4" style="text-align:left;">Công ty Phát triển đô thị Từ Liêm<br />
+Công ty Đầu tư và Phát triển điện miền Trung</td>
+                                                <td class="td5">NTL<br />
+SEB</td>
+                                                <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản          <br />
+Điện                                       </td>
+                                                <td class="td7">11,1</td>
+                                            </tr>
+                                                                                    </tbody>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+        	    </div>
+            </div>
+            <div class="ct-note">
+            	<div class="left-note">
+                	<p>- Nguồn dữ liệu: Cáo bạch và thông tin doanh nghiệp niêm yết tại hai Sở Giao dịch Chứng khoán Hà Nội và TP HCM.</p>
+                	<p>- (*) : Thuộc doanh nghiệp mới lên sàn trong năm 2014, hoặc trong 2013 chưa có thông tin.</p>
+					<p>- (**) : Tổng giá trị cổ phiếu nắm giữ tính theo giá đóng cửa phiên giao dịch 31/12/2014.</p>
+					<p>- (***) : Tổng giá trị cổ phiếu nắm giữ tính theo giá đóng cửa phiên giao dịch 28/12/2013.</p>
+				</div>
+
+                <div class="ctn">
+                    <div class="ctnr-left">
+                        Đối tác cung cấp dữ liệu
+                    </div>
+                    <div class="ctnr-right">
+                        <a target="_blank" href="https://www.vndirect.com.vn/portal/home.shtml"><img alt="vndirect" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2014/Images/bg/vndirect.gif" /></a>
+                    </div>
+                </div>
+            </div>
+            <div id="mocthoi-gian">
+				<h2>Người giàu trên sàn chứng khoán Việt Nam</h2>
+				<ul>
+                    <li><a href="/su-kien/top-rich-2013/">2013</a></li>
+                    					<li><a href="/customize/chung-khoan/top/2012/top100/">2012</a></li>
+                    					<li><a href="/customize/chung-khoan/top/2011/top100/">2011</a></li>
+                    					<li><a href="/customize/chung-khoan/top/2010/top100/">2010</a></li>
+                    					<li><a href="/customize/chung-khoan/top/2009/top100/">2009</a></li>
+                    					<li><a href="/customize/chung-khoan/top/2008/top100/">2008</a></li>
+                    					<li><a href="/customize/chung-khoan/top/2007/top100/">2007</a></li>
+                    					<li><a href="/customize/chung-khoan/top/2006/top100/">2006</a></li>
+                    				</ul>
+			</div>
+        </div>
+        <div id="footer" class="ft-bot">
+            <div class="ft-botm">
+                <p>© Copyright 1997 VnExpress.net, All rights reserved</p>
+                <p>® VnExpress giữ bản quyền nội dung trên website này.</p>
+            </div>
+            <div class="ft-botr">
+                <p><a target="_blank" href="http://fptad.net/qc/V/vnexpress/2014/07/">VnExpress tuyển dụng</a>   <a target="_blank" href="http://polyad.net/Polyad/Lien-he.htm">Liên hệ quảng cáo</a>  / <a target="_blank" href="http://vnexpress.net/contactus">Tòa soạn</a></p>
+                <p><a style="font: 11px arial;padding: 0 4px;text-decoration: none;" target="_blank" href="http://vnexpress.net/contact.htm">Thông tin Tòa soạn.</a><span style="padding:0 5px;"><img style="margin-top: -4px;" alt="" src="http://st.f1.vnecdn.net/responsive/i/v41/icons/hotline.gif">:</span> 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)</p>
+            </div>
+        </div>
+    </div>
+<script type="text/javascript">
+//Tracking FOSP
+var _siteId="24";
+(function(){
+	var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";
+	var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)
+})();
+$('.fb_share').click(function(){
+  var data_url = "http://vnexpress.net/su-kien/top-rich-2014/top100";
+  var linkFB = "https://www.facebook.com/sharer/sharer.php?u=" + data_url;
+  window.open(linkFB,'_blank','height=450,width=700,resizable=no,status=no');
+  return false;
+ })
+$('.tw_share').click(function(){
+  var data_url = "http://vnexpress.net/su-kien/top-rich-2014/top100";
+  var linkTw = "https://twitter.com/intent/tweet?source=webclient&text=Top 100 người giàu nhất trên sàn chứng khoán 2014 - VnExpress http://vnexpress.net/su-kien/top-rich-2014/top100";
+  window.open(linkTw,'_blank','height=450,width=700,resizable=no,status=no');
+  return false;
+ })
+$('.g_share').click(function(){
+  var data_url = "http://vnexpress.net/su-kien/top-rich-2014/top100";
+  var linkTw = "https://plus.google.com/share?url=" + data_url;
+  window.open(linkTw,'_blank','height=450,width=700,resizable=no,status=no');
+  return false;
+ })
+
+</script>
+</body>
+</html>

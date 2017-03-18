@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Vnexpress.net" />
+<!-- iPad icons -->
+<link rel="apple-touch-icon-precomposed" href="https://pay.vnexpress.net/static/images/logos/72x72.png" sizes="72x72">
+<link rel="apple-touch-icon-precomposed" href="https://pay.vnexpress.net/static/images/logos/114x114.png" sizes="144x144">
+<!-- iPhone and iPod touch icons -->
+<link rel="apple-touch-icon-precomposed" href="https://pay.vnexpress.net/static/images/logos/57x57.png" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" href="https://pay.vnexpress.net/static/images/logos/114x114.png" sizes="114x114">
+<!-- Nokia Symbian -->
+<link rel="nokia-touch-icon" href="https://pay.vnexpress.net/static/images/logos/57x57.png">
+<!-- Android icon precomposed so it takes precedence -->
+<link rel="apple-touch-icon-precomposed" href="https://pay.vnexpress.net/static/images/logos/114x114.png" sizes="1x1">
+<link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700&subset=latin,vietnamese,latin-ext' rel='stylesheet' type='text/css'>
+<title>Pay VnExpress</title>
+<meta name="description" content="VnExpress Pay trang nạp tiền điện thoại, tài khoản game, mua thẻ điện thoại, thẻ game, thanh toán các loại hóa đơn...Tiện lợi - an toàn - đa dạng về dịch vụ - Ưu đãi hấp dẫn" />
+<meta name="keywords" content="Pay VnExpress, Nạp thẻ game, mua thẻ game, Nạp tiền điện thoại, mua mã thẻ điện thoại, Thanh toán hóa đơn, thanh toán online, Nạp tiền game, mua thẻ điện thoại" />
+<meta name="tt_category_id" content="1003159" />
+<meta name="tt_page_type" content="other" />
+<meta name="tt_site_id" content="1003159" />
+<!-- Twitter Card -->
+<meta name="twitter:card" value="summary">
+<meta name="twitter:url" content="https://pay.vnexpress.net">
+<meta name="twitter:title" content="Pay VnExpress">
+<meta name="twitter:description" content="VnExpress Pay trang nạp tiền điện thoại, tài khoản game, mua thẻ điện thoại, thẻ game, thanh toán các loại hóa đơn...Tiện lợi - an toàn - đa dạng về dịch vụ - Ưu đãi hấp dẫn">
+<meta name="twitter:image" content="https://pay.vnexpress.net/static/images/graphics/cover_pay.jpg"/>
+<meta name="twitter:site" content="@VnEnews">
+<meta name="twitter:creator" content="@VnEnews">
+<!-- End Twitter Card -->
+ <meta property="og:image" content="https://pay.vnexpress.net/static/images/graphics/cover_pay.jpg" itemprop="thumbnailUrl" />
+<meta property="og:url" content="https://pay.vnexpress.net" itemprop="url"/>
+<meta property="og:title" content="Pay VnExpress" itemprop="headline" />
+<meta property="og:description" content="VnExpress Pay trang nạp tiền điện thoại, tài khoản game, mua thẻ điện thoại, thẻ game, thanh toán các loại hóa đơn...Tiện lợi - an toàn - đa dạng về dịch vụ - Ưu đãi hấp dẫn" itemprop="description" name="description" />
+<meta property="og:site_name" content="PayVnexpress" />
+<link rel="stylesheet" href="https://stmy.vnexpress.net/myvne/c/v4/my_index.css" media="all" />
+<link rel="stylesheet" href="https://stmy.vnexpress.net/myvne/c/v4/general.css" media="all" />
+<link rel="stylesheet" href="https://pay.vnexpress.net/static/css/pay.css?v=1" media="all" />
+<script type="text/javascript" src="https://pay.vnexpress.net/static/js/jquery.js" ></script>
+	
+<script language="javascript" type="text/javascript">    
+    var base_url            = 'https://pay.vnexpress.net';
+    var css_url             = 'https://pay.vnexpress.net/static/css';
+	var jsurl             	= 'https://pay.vnexpress.net/static/js';	
+	var device_env          = 4;
+	var SITE_ID             = 1003159;
+	document.domain = 'pay.vnexpress.net';
+</script>
+<script type="text/javascript" src="https://core.polyad.net/ShowAds.js"></script>
+<script language="javascript" type="text/javascript">    
+var PageHot             =  0;    
+var PAGE_FOLDER         =  1000000;
+var PAGE_DETAIL         =  0;
+</script>
+
+<script type="text/javascript">   
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50285069-21', 'auto', {'name': 't0'});
+        ga('t0.send', 'pageview');
+              
+	(function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https://":"http://")+"stats.g.doubleclick.net/dc.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)})();
+		var _siteId = "37";(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://stla.eclick.vn/ea.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+		var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"19747654"}),function(){var c=document.createElement("script"),e=document.getElementsByTagName("script")[0];c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}();               	
+</script>
+</head>
+<body>
+	<div id="myvne_taskbar"></div>
+	<div id="box_col_left" class="block_more_info">
+		<div class="box_width_common">
+			<div class="btn_control_col_left">							
+				<img src="https://pay.vnexpress.net/static/images/graphics/img_left_panel.gif" /></div>
+				<div class="block_scoll_menu">
+	<div class="block_search">
+	  <input type="text" class="input_search">
+	  <input type="text" class="icon_menu_phone btn_search" value="">				 
+	  <div class="clear">&nbsp;</div>
+	</div>
+	<ul class="list_item_panel">
+		  <li><a href="https://pay.vnexpress.net"  class="bg_666"><span class="icon_menu_phone ico_menu_01">&nbsp;</span>Trang chủ</a></li>		  
+		  <li class="has_sub"><a href="javascript:void(0)" class=""><span class="icon_menu_phone ico_menu_02">&nbsp;</span>Giới thiệu</a><strong class="havecap2 ">&nbsp;</strong>
+			<div class="cap2">
+				<a href="https://pay.vnexpress.net/huong-dan/gioi-thieu">Giới thiệu chung</a>				
+				<a href="https://pay.vnexpress.net/huong-dan/doi-tac-dich-vu">Đối tác dịch vụ</a>
+			</div>
+		  </li>	
+		  <li class="has_sub"><a href="https://pay.vnexpress.net" class=""><span class="icon_menu_phone ico_menu_02">&nbsp;</span>Tiện ích</a><strong class="havecap2 ">&nbsp;</strong>
+			<div class="cap2">
+				<a href="">Mua mã thẻ/ nạp tiền điện thoại</a>
+				<a href="">Mua mã thẻ/ nạp tiền tài khoản Game</a>
+				<a href="">Thanh toán hóa đơn</a>				
+			</div>
+		  </li>			  
+		  <li class="has_sub"><a href="https://pay.vnexpress.net/huong-dan" data-transition="flip"  ><span class="icon_menu_phone ico_menu_10">&nbsp;</span>Trợ giúp</a><strong class="havecap2">&nbsp;</strong>
+			<div class="cap2">
+					<a href="https://pay.vnexpress.net/huong-dan/mua-nap-the-dien-thoai">Mua mã thẻ/Nạp tiền điện thoại</a>
+					<a href="https://pay.vnexpress.net/huong-dan/mua-nap-the-game">Mua mã thẻ/Nạp tài khoản game</a>
+					<a href="https://pay.vnexpress.net/huong-dan/faq">FAQ</a>
+					<a href="https://pay.vnexpress.net/huong-dan/thanh-toan-hoa-don">Thanh toán hóa đơn</a>
+					<a href="https://pay.vnexpress.net/huong-dan/thoa-thuan-su-dung">Thỏa thuận sử dụng</a>
+			</div>			  	  
+		  </li>
+		  <li><a href="https://pay.vnexpress.net/khuyen-mai" data-transition="flip"  ><span class="icon_menu_phone ico_menu_07">&nbsp;</span>Tin tức</a></li>			  
+		  <li><a href="https://pay.vnexpress.net/lien-he"  class="bg_666"><span class="icon_menu_phone ico_menu_21">&nbsp;</span>Liên hệ</a></li>
+	</ul>
+	<div class="coppy_right_left width_common">
+	  <div class="txt_coppy_right">
+		<p>© Copyright 1997- VnExpress.net, All rights reserved</p>
+		<p>® VnExpress giữ bản quyền nội dung trên website này.</p>
+	  </div>
+	  <div class="txt_lienhe"> Hotline:<br>
+		<a href="tel:012388801238">0123.888.0123 (Hà Nội)</a> <br>
+		<a href="tel:01292333555">0129.233.3555 (TP HCM) </a></div>
+	</div>         
+ </div>	
+				      
+		</div>
+		<div class="clear"></div>
+	</div>  
+	<div id="page">
+		<div id="wrapper_header">
+			<div id="header">
+			  <div class="width_common">
+				<div class="logovne">
+				   <a href="https://pay.vnexpress.net"><img src="https://pay.vnexpress.net/static/images/icons/pay.png" alt="" class="img_logo" /></a>
+				</div>
+				<div class="clear">&nbsp;</div>
+			  </div>
+			  <div class="clear">&nbsp;</div>
+			</div>
+		</div>	  
+		<div class="header">
+			<div class="container">				
+				<div class="logo">
+					<a href="https://pay.vnexpress.net"><img src="https://pay.vnexpress.net/static/images/icons/pay.png" alt="logo" /></a>
+				</div>
+				<div class="box_menu">
+					<div class="container">
+	<div class="nav">
+		<ul>
+			<li class="active"><a href="https://pay.vnexpress.net"></a></li>
+			<li class="tien_ich down"><a href="javascript:void(0)">Giới thiệu</a><span class="down"></span>
+				<ul class="lever2">
+					<li class=""><a href="https://pay.vnexpress.net/huong-dan/gioi-thieu">Giới thiệu chung</a></li>
+					<li class=""><a href="https://pay.vnexpress.net/huong-dan/doi-tac-dich-vu">Đối tác dịch vụ</a></li>									
+				</ul>
+			</li>
+			<li class="tien_ich down"><a href="https://pay.vnexpress.net">Tiện ích</a><span class="down"></span>
+				<ul class="lever2">
+					<li class=""><a href="https://pay.vnexpress.net?tab=dienthoai">Mua mã thẻ/ nạp tiền điện thoại</a></li>
+					<li class=""><a href="https://pay.vnexpress.net?tab=game">Mua mã thẻ/ nạp tiền tài khoản Game</a></li>
+					<li class=""><a href="https://pay.vnexpress.net?tab=hoadon">Thanh toán hóa đơn</a></li>
+					
+				</ul>											
+			</li>
+			<li class="tro_giup down"><a href="https://pay.vnexpress.net/huong-dan">Trợ giúp</a><span class="down"></span>
+				<ul class="lever2">
+					<li class=""><a href="https://pay.vnexpress.net/huong-dan/mua-nap-the-dien-thoai">Mua mã thẻ/Nạp tiền điện thoại</a></li>
+					<li class=""><a href="https://pay.vnexpress.net/huong-dan/mua-nap-the-game">Mua mã thẻ/Nạp tài khoản game</a></li>
+					<li class=""><a href="https://pay.vnexpress.net/huong-dan/thanh-toan-hoa-don">Thanh toán hóa đơn</a></li>
+					<li class=""><a href="https://pay.vnexpress.net/huong-dan/faq">FAQ</a></li>
+					<li class=""><a href="https://pay.vnexpress.net/huong-dan/thoa-thuan-su-dung">Thỏa thuận sử dụng</a></li>
+				</ul>												
+			</li>						
+			<li class="sale"><a href="https://pay.vnexpress.net/khuyen-mai">Tin tức</a></li>		
+			<li class=""><a href="https://pay.vnexpress.net/lien-he">Liên hệ</a></li>						
+		</ul>			
+	</div>
+</div>				</div>		
+			</div>
+		</div>			
+		<div class="box-conten width_common">	
+	<div class="box_hotnew">
+	<div class="container" id="hotnews">
+
+</div>			
+	</div>
+	<div class="container">
+		<div class="box_tab_home">
+			<h1>Phương thức thanh toán: Thẻ nội địa</h1>
+			<div class="box_left active">
+	<h4>Điện thoại</h4>
+	<div class="warp">
+		<ul class="nap_the">
+			<li class="active" rel="tab1"><a>Nạp tiền</a></li>
+			<li rel="tab2"><a>Mua mã thẻ</a></li>
+		</ul>
+		<div class="tab_napthe">
+			<div class="tab_content" id="tab1">
+				<div>					
+						<div class="so_dt">
+							<input name="txtMobile" type="tel" id="txtMobile" size="11" class="name form-control auto" data-a-sep="" data-a-dec=","  placeholder="Nhập số điện thoại">	
+						</div>	
+						<select class="form-control" id="ddlprepay" name="ddlprepay" style="display:none;">							
+							<option selected="selected" value="tratruoc">Thuê bao trả trước</option>
+						</select>											
+						<select class="form-control" id="ddlprice2" name="ddlprice2" onchange="payvne.payment.ddlchangeInput('ddlprice2','lblPrice_mobile2')">
+							<option  value="-1" selected="selected">Mệnh giá thẻ</option>
+							<option value="10000">10.000</option>
+							<option value="20000">20.000</option>
+							<option value="30000">30.000</option>
+							<option value="50000">50.000</option>
+							<option value="100000">100.000</option>
+							<option value="200000">200.000</option>
+							<option value="300000">300.000</option>
+							<option value="500000">500.000</option>
+						</select>
+						<select class="form-control" id="ddlNapas2" name="ddlNapas2" style="display:none;">						
+							<option value="napas">Napas</option>
+						</select>
+						<div class="ap_dung">
+							<p>Áp dụng đối với thuê bao trả trước</p>	
+						</div>
+						<div class="start">
+							<input type="hidden" id="lblPrice_mobile2" name="lblPrice_mobile2" value="">					
+							<input type="hidden" id="lblPrepay" name="lblPrepay" value="">
+							<input type="button" id="btn_chargemobile" name="btn_chargemobile" value="Thực hiện">
+						</div>					
+				</div>
+			</div>
+			<div class="tab_content" id="tab2" style="display:none;">
+				<div class="">					
+						<div class="so_dt">
+							<select id="txtCount" name="txtCount" class="form-control">								
+								<option  value="-1" selected="selected">Số lượng</option>
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="6">6</option>
+								<option value="7">7</option>
+								<option value="8">8</option>
+								<option value="9">9</option>
+								<option value="10">10</option>
+							</select>							
+						</div>	
+						<select id="ddlservice" name="ddlservice" class="form-control" onchange="payvne.payment.ddlchangeInput('ddlservice','lblService')">
+							<option  value="-1" selected="selected">Chọn nhà cung cấp</option>
+							<option value="MBC">Mobifone</option>
+							<option value="VPC">Vinaphone</option>
+							<option value="VTC">Viettel</option>
+						</select>
+						<select class="form-control" name="ddlprice" id="ddlprice" onchange="payvne.payment.ddlchangeInput('ddlprice','lblPrice')">
+							<option value="-1" selected="selected">Mệnh giá thẻ</option>
+							<option value="10000">10.000</option>
+							<option value="20000">20.000</option>
+							<option value="30000">30.000</option>
+							<option value="50000">50.000</option>
+							<option value="100000">100.000</option>
+							<option value="200000">200.000</option>
+							<option value="300000">300.000</option>
+							<option value="500000">500.000</option>
+						</select>
+						<select class="form-control" id="ddlpayment2" name="ddlpayment2" style="display:none;">						
+							<option value="vnpay">VnPay</option>
+						</select>
+						<div class="start">
+							<input type="hidden" id="lblService" name="lblService" value="">
+							<input type="hidden" id="lblPrice" name="lblPrice" value="">					
+							<input type="hidden" id="lblPrice2" name="lblPrice2" value="">
+							<input type="button" id="btn_buycard" name="btn_buycard" value="Thực hiện">
+						</div>					
+				</div>							
+			</div>		
+		</div>
+		<div class="slides_the owl-carousel">							
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/01_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/02_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/03_hover.jpg"  alt="" />								
+			</div>
+		  </div>	
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/04_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/17_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		   <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/18_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		</div>						
+	</div>	
+</div><div class="box_center ">
+	<h4>Game</h4>
+	<div class="warp">
+		<ul class="nap_the_game">
+			<li class="active" rel="tab3"><a>Nạp tài khoản</a></li>
+			<li rel="tab4"><a>Mua mã thẻ</a></li>
+		</ul>
+		<div class="tab_napthe_game">
+			<div class="tab_content_game" id="tab3">				
+					<div class="">
+						<div class="so_dt">
+							<input name="txtaccgame2" type="text" id="txtaccgame2" size="11" class="name form-control" placeholder="Nhập tài khoản game">	
+						</div>	
+						<select id="ddlservicegame2" name="ddlservicegame2" class="form-control" onchange="payvne.payment.ddlchangeInput('ddlservicegame2','lblServicegame2')">
+							<option value="-1" selected="selected">Chọn nhà cung cấp</option>
+								<option value="FPTOTOPUP">Oncash</option>
+								<option value="ZGXUTOPUP">Zing Xu</option>
+								<option value="VGGTOPUP">VGG</option>
+						</select>						
+						<select class="form-control" name="ddlpricegame2" id="ddlpricegame2" onchange="payvne.payment.ddlchangeInput('ddlpricegame2','lblPricegame2')">			
+							<option value="-1" selected="selected">Mệnh giá thẻ</option>							
+							<option value="50000">50.000</option>
+							<option value="100000">100.000</option>
+							<option value="200000">200.000</option>
+							<option value="300000">300.000</option>
+							<option value="500000">500.000</option>
+						</select>
+						<select class="form-control" id="ddlNapasgame2" name="ddlNapasgame2" style="display:none;">				
+							<option value="napas">Napas</option>
+						</select>
+						<div class="start">
+							<input type="hidden" id="lblServicegame2" name="lblServicegame2" value="">
+							<input type="hidden" id="lblPricegame2" name="lblPricegame2" value="">
+							<input type="button" id="btn_buycardgame" name="btn_buycardgame" value="Thực hiện">
+						</div>
+					</div>
+			</div>
+			<div class="tab_content_game" id="tab4" style="display:none;">				
+					<div class="">
+						<div class="so_dt">
+							<select id="txtCountbycardgame" name="txtCountbycardgame" class="form-control">								
+								<option value="-1" selected="selected">Số lượng</option>
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="6">6</option>
+								<option value="7">7</option>
+								<option value="8">8</option>
+								<option value="9">9</option>
+								<option value="10">10</option>								
+							</select>
+						</div>	
+						<select id="ddlserviceBycardGame" name="ddlserviceBycardGame" class="form-control" onchange="payvne.payment.ddlchangeInput('ddlserviceBycardGame','lblServiceBycardGame')">
+							<option value="-1" selected="selected">Chọn nhà cung cấp</option>				
+							<option value="VCC">Vcoin</option>
+							<option value="VGC">Zingcard</option>
+							<option value="GCC">Gatecard</option>
+							<option value="OCC">OnCash</option>
+							<option value="GAC">Garena</option>
+						</select>
+						<select class="form-control" name="ddlpricebycardgame" id="ddlpricebycardgame" onchange="payvne.payment.ddlchangeInput('ddlpricebycardgame','lblPricebycardgame')">			
+							<option value="-1" selected="selected">Mệnh giá thẻ</option>						
+							<option value="20000">20.000</option>							
+							<option value="50000">50.000</option>
+							<option value="100000">100.000</option>							
+						</select>					
+						<select class="form-control" id="ddlpaymentBycardGame" name="ddlpaymentBycardGame" style="display:none;">				
+							<option value="vnpay">VnPay</option>
+						</select>
+						<div class="start">
+							<input type="hidden" id="lblServiceBycardGame" name="lblServiceBycardGame" value="">			
+							<input type="hidden" id="lblPricebycardgame" name="lblPricebycardgame" value="">			
+							<input type="button" id="btn_buycardgame1" name="btn_buycardgame1" value="Thực hiện">
+						</div>
+					</div>
+				
+			</div>		
+		</div>
+		<div class="slides_the owl-carousel">
+			<div class ="Item">
+				<div class="avata">
+					<img src="https://pay.vnexpress.net/static/images/graphics/05_hover.jpg"  alt="" />									
+				</div>
+			</div>
+			<div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/06_hover.jpg"  alt="" />								
+			</div>
+		  </div>		  
+		  <div class ="Item">
+				<div class="avata">
+					<img src="https://pay.vnexpress.net/static/images/graphics/07_hover.jpg"  alt="" />									
+				</div>
+			</div>				
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/08_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/11_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/13_hover.jpg"  alt="" />									
+			</div>
+		  </div>					 				 
+		</div>						
+	</div>	
+</div><div class="box_right ">
+	<h4>Thanh toán hóa đơn</h4>
+	<div class="warp">
+		<ul class="thanh_toan">
+			<li class="active" rel="tab5"><a>Điện thoại</a></li>
+			<li rel="tab6"><a>Truyền hình-ADSL</a></li>
+		</ul>
+		<div class="tab_thanhtoan">
+			<div class="tab_content_thanhtoan" id="tab5">				
+				<div class="">
+					<select id="ddlservice_dt" name="ddlservice_dt" class="form-control">
+						<option value="-1" selected="selected">Chọn dịch vụ</option>
+						<option value="1">Điện thoại cố định</option>
+						<option value="2">Thuê bao trả sau</option>
+					</select>
+					<select class="form-control info_nhacc" id="ddlNhacc_dt" name="ddlNhacc_dt">
+						<option value="-1" selected="selected">Nhà cung cấp</option>
+						<option value="VTLHP">Viettel</option>
+						<option value="VNPT">VNPT HCM</option>							
+					</select>
+					<div class="info_thuebao">						
+						<input type="text" id="txtMobile_dt" name="txtMobile_dt" placeholder="Số thuê bao" class="name form-control" size="11">
+					</div>								
+					<div class="so_dt" id="pricetthoadon_dt" style="display:none;">						
+						<input name="txtpricetthoadon_dt" type="text" id="txtpricetthoadon_dt" size="30" class="name form-control auto" placeholder="Số tiền thanh toán">
+					</div>
+					<select class="form-control" id="ddlpayment_dt" name="ddlpayment_dt" style="display:none;">
+						<option value="napas" selected="selected">Napas</option>
+						<option value="vnpay">VnPay</option>
+					</select>	
+					<div class="start">
+						<input type="hidden" id="lblpayment_dt" name="lblpayment_dt">
+						<input type="hidden" id="lblNhacc_dt" name="lblNhacc_dt">
+						<input type="hidden" id="lblservice_dt" name="lblservice_dt">
+						<input type="button" id="btn_ttdienthoai" name="btn_ttdienthoai" value="Thực hiện">
+					</div>
+				</div>				
+			</div>
+			<div class="tab_content_thanhtoan" id="tab6" style="display:none;">				
+				<div class="">
+					<select id="ddlservicebills2" class="form-control" name="ddlservicebills2">
+						<option value="-1" selected="selected">Lựa chọn dịch vụ</option>							
+						<option value="1">ADSL</option>
+						<option value="2">Truyền hình</option>
+					</select>
+					<select id="ddlsupplierbills2" name="ddlsupplierbills2" class="form-control info_nhacc" onchange="payvne.payment.ddlchangeInput('ddlsupplierbills2','lblsupplierbills2')">
+						<option value="-1" selected="selected">Nhà cung cấp</option>
+						<option value="VTLADSL">Viettel</option>
+						<option value="VNPT">VNPT HCM</option>
+						<option value="FPT">FPT</option>
+					</select>
+					<div class="info_thuebao">
+						<input name="txtcustomercode" type="text" id="txtcustomercode" size="30" class="name form-control" placeholder="Mã khách hàng">	
+					</div>								
+					<div class="so_dt" id="so_tien" style="display:none;">
+						<input name="txtpricetthoadon" type="text" id="txtpricetthoadon" size="30" class="name form-control auto" placeholder="Số tiền thanh toán">
+					</div>
+					<select class="form-control" id="ddlpayment_adsl" name="ddlpayment_adsl" style="display:none;">
+						<option value="napas" selected="selected">Napas</option>
+						<option value="vnpay">VnPay</option>
+					</select>
+					<div class="start">
+						<input type="hidden" id="lblsupplierbills2" name="lblsupplierbills2" value="VTLHP">
+						<input type="button" id="btn_buy_bills" name="btn_buy_bills" value="Thực hiện">							
+					</div>
+				</div>					
+			</div>		
+		</div>
+		<div class="slides_the owl-carousel">
+			<div class ="Item">
+				<div class="avata">
+					<img src="https://pay.vnexpress.net/static/images/graphics/03_hover.jpg"  alt="" />									
+				</div>
+			</div>
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/17_hover.jpg"  alt="" />									
+			</div>
+		  </div>
+		  <div class ="Item">
+			<div class="avata">
+				<img src="https://pay.vnexpress.net/static/images/graphics/fpt_new.jpg"  alt="" />									
+			</div>
+		  </div>		  
+		</div>						
+	</div>				
+</div>				
+		</div>	
+	</div>
+</div>
+
+<div id="list_box2017" class="width_common">
+	<div class="container">
+		<div class="width_common">
+			<div id="box_dvtaichinh" class="full box_category_pay">
+				<h4>
+					<a href="#">Dịch vụ tài chính</a>
+					<strong>Mới</strong>
+				</h4>
+				<div class="wap">
+					<ul>
+						<li>
+							<a class="tooltip_img" href="https://pay.vnexpress.net/tien-ich/mua-the-visa-tra-truoc" title="">
+								<img src="https://pay.vnexpress.net/static/images/graphics/trustcare.jpg" alt="">
+								<p>Mua thẻ trả trước</p>
+								<img class="tooltipimg" src="https://pay.vnexpress.net/static/images/graphics/big_trustcare.jpg" alt="">
+							</a>
+						</li>
+						<li>
+							<a class="tooltip_img" href="https://pay.vnexpress.net/tien-ich/nap-the-visa-tra-truoc" title="">
+								<img src="https://pay.vnexpress.net/static/images/graphics/trustcare.jpg" alt="">
+								<p>Nạp thẻ trả trước</p>
+								<img class="tooltipimg" src="https://pay.vnexpress.net/static/images/graphics/big_trustcare.jpg" alt="">
+							</a>
+						</li>
+						<li>
+							<a class="tooltip_img" href="https://pay.vnexpress.net/tien-ich/bao-hiem" title="">
+								<img src="https://pay.vnexpress.net/static/images/graphics/PTI.jpg" alt="">
+								<p>Phí bảo hiểm</p>
+								<img class="tooltipimg" src="https://pay.vnexpress.net/static/images/graphics/PTIv2.jpg" alt="">
+							</a>
+						</li>
+					
+						<li>
+							<a class="tooltip_img" href="javascript:void(0)" title="">
+								<img src="https://pay.vnexpress.net/static/images/graphics/payvne.jpg" alt="">
+								<!--<p>Thanh toán thẻ tin dụng</p>
+								<img class="tooltipimg" src="https://pay.vnexpress.net/static/images/graphics/payvne.jpg" alt="">-->
+							</a>
+						</li>
+						<li>
+							<a class="tooltip_img" href="javascript:void(0)" title="">
+								<img src="https://pay.vnexpress.net/static/images/graphics/payvne.jpg" alt="">
+								<!--<p>Thanh toán trả góp/vay tiêu dùng</p>
+								<img class="tooltipimg" src="https://pay.vnexpress.net/static/images/graphics/payvne.jpg" alt="">-->
+							</a>
+						</li>
+						<li>
+							<a class="tooltip_img" href="javascript:void(0)" title="">
+								<img src="https://pay.vnexpress.net/static/images/graphics/payvne.jpg" alt="">
+								<!--<p>Thanh toán trả góp/vay tiêu dùng</p>
+								<img class="tooltipimg" src="https://pay.vnexpress.net/static/images/graphics/payvne.jpg" alt="">-->
+							</a>
+						</li>					
+					</ul>
+				</div>
+			</div>		
+			
+		</div>		
+	</div>	
+</div>
+
+<div class="box-video width_common">
+	<div class="container">
+		<div class="info_video">
+			
+			<ins class="adsbyeclick" data-zone="3856" data-ad-width="480" data-ad-height="270" data-ad-ivid="1"></ins>
+			<script> (adsbyeclick = window.adsbyeclick || []).push({}) </script>			
+			<div  style="display:none;" id="ads_reference_video">
+			<iframe width="480" height="270" src="https://www.youtube.com/embed/DrLTFPo0zMg?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=vi&enablejsapi=1&origin=https://pay.vnexpress.net&widgetid=1" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+		<div class="info_quangcao">
+			<div class="info_quangcao_one">
+				<script language="JavaScript">Poly_Article();</script>			</div>	
+			<div class="info_quangcao_tow">
+				<div id="ARTICLE_BANNER_2"></div>
+			</div>	
+		</div>
+		<div class="info_quangcao_full width_common">
+			<p>
+				<script language="JavaScript">Poly_Footer();</script> 				
+			</p>
+		</div>
+	</div>	
+</div>
+<script type="text/javascript">
+$(document).ready(function(){	
+	jQuery(function ($) {
+        $('.auto').autoNumeric('init');
+    });	
+	payvne.payment.init();
+	payvne.payment.profilemyvne();
+});	
+    
+</script>	
+	
+	
+	
+	
+				
+		<div class="box-suport width_common">
+	<div class="warp">
+		<div class="container">
+			<div class="doi_tac">
+				<h3>Đối tác dịch vụ</h3>
+				<div class="list_nganhang">
+					<ul>
+						<li><a><img src="https://pay.vnexpress.net/static/images/icons/doitac_napas.jpg" alt="" /></a></li>
+						<li><a><img src="https://pay.vnexpress.net/static/images/icons/doitac_vnpay.jpg" alt="" /></a></li>
+					</ul>
+				</div>	
+			</div>
+			<h3>Hỗ trợ thanh toán</h3>
+			<div class="list_nganhang">
+				<ul>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/vietcombank.jpg" /></a></li>							
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/viettinbank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/bidv.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/Agribank_2.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/techcombank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/vp.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/achau.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/tpbank.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/jmb.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/sacombank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/hdbank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/vib.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/martimebank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/eximbank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/hsb.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/sea.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/ocb.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/lienvietbank.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/ab.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/quocdan.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/baca.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/namabank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/baovietbank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/kienlongbank.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/vrb.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/donga.jpg" /></a></li>										
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/gp_2.jpg" /></a></li>
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/oceanbank.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/scb.jpg" /></a></li>					
+					<li><a href="javascript:;"><img src="https://pay.vnexpress.net/static/images/icons/vnmart.jpg" /></a></li>															
+				</ul>
+			</div>
+		</div>
+	</div>				
+</div>			
+		<div class="box_copy_right width_common">
+	<div class="container">
+		<div class="footer_top">
+			<div class="menu_footer">
+				<a href="https://pay.vnexpress.net/huong-dan/quy-che-hoat-dong">Quy chế hoạt động</a>
+				<a href="https://pay.vnexpress.net/huong-dan/chinh-sach-bao-mat">Chính sách bảo mật</a>
+				<a href="https://pay.vnexpress.net/huong-dan/chinh-sach-thanh-toan">Chính sách thanh toán</a>
+				<a href="https://pay.vnexpress.net/huong-dan/quy-trinh-giai-quyet-khieu-nai">Quy trình khiếu nại</a>
+			</div>
+			<div class="search">
+				<ul>
+					<li><a href="https://www.facebook.com/Pay-VnExpress-368626136859921" target="_blank"><img class="" src="https://pay.vnexpress.net/static/images/graphics/face.png" alt="" /></a></li>
+					<li><a href="https://twitter.com/VnEnews" target="_blank"><img class="" src="https://pay.vnexpress.net/static/images/graphics/twter.png" alt="" /></a></li>
+					<li><a href="https://www.youtube.com/channel/UCsB2760X9fiA5PXSN0dFh1g" target="_blank" ><img class="" src="https://pay.vnexpress.net/static/images/graphics/google.png" alt="" /></a></li>
+				</ul>	
+			</div>	
+		</div>
+		<div class="footer_bottom">
+			<div class="copy_right">
+				<a><img class="" src="https://pay.vnexpress.net/static/images/graphics/logo.png" alt="" /></a>
+				<p>Sản phẩm được cung cấp bởi Công ty Cổ phần Dịch vụ Trực tuyến FPT<br />
+				<strong>Tên đăng ký:</strong> Công ty Cổ phần Dịch vụ trực tuyến FPT<br />
+				<strong>Tên giao dịch:</strong> FPT Online JSC<br />
+				<strong>Địa chỉ trụ sở:</strong> Tầng 6, Tòa nhà Exchange Tower - số 1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Tp.HCM.<br />
+				<strong>Điện thoại/ Fax:</strong> 08 - 7300 9999<br />
+				<strong>Email:</strong> <span style="color:#1781e0;">vnexpresspay@fpt.com.vn</span><br />
+				Giấy chứng nhận đăng ký kinh doanh số 0305045911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 22/12/2015</p>					
+			</div>
+			<div class="bo_congthuong right">
+				<a href="javascript:void(0)"><img src="https://pay.vnexpress.net/static/images/graphics/bocongthuong.jpg" alt="" /></a>
+			</div>
+		</div>				
+	</div>	
+</div>		<div class="block_close_menu">&nbsp; </div>	
+	</div>	
+		<script type="text/javascript" src="https://pay.vnexpress.net/static/js/payvne.min.js?v=1"></script>		
+	<script type="text/javascript" src="https://stmy.vnexpress.net/myvne/j/v4/myvne_users_v2.js"></script>	
+	<script type="text/javascript">
+	$(document).ready(function() {
+		myvne_users.run();
+	});
+	</script>
+	<script language="javascript" type="text/javascript" src="https://s.eclick.vn/delivery/eclick.js" async></script>
+		<script type="text/javascript" src="https://core.polyad.net/AdsPay.js"></script>
+	<script type="text/javascript" src="https://st.polyad.net/Vals/68/0/1000/Val.js"></script>	
+	<script type="text/javascript">   
+	var cur_url = window.location.href;
+	if(typeof(cur_url) != 'undefined' && cur_url.indexOf('view=app') < 0)
+	{
+	Poly_showads();
+	}
+	</script>
+		<script type="text/javascript">
+	(function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/1/f/1f7363aded5fee30b9b42d2b63b36c92/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
+	</script>
+</body>
+</html>
+

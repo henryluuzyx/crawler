@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Video: Quên những con dao "tầm thường" đi, chiếc dao tròn này sẽ khiến chị em tròn mắt - Eva
+</title><meta name="keywords" content="Bored Panda,săn lùng,vi-đê-ô" /><meta name="description" content="Dụng cụ cắt rau củ trong bếp này đang được chị em săn lùng ráo riết vì độ tiện lợi và dễ sử dụng của nó. Chỉ cần một đường lăn đi, bạn có thể cắt mọi thứ vô..." />
+<link rel="canonical" href="http://www.baomoi.com/video-quen-nhung-con-dao-tam-thuong-di-chiec-dao-tron-nay-se-khien-chi-em-tron-mat/c/21792218.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792218" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792218" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://eva.vn/clip-eva/video-dung-cu-lam-bep-sieu-hot-duoc-hoi-chi-em-san-lung-rao-riet-c157a302984.html");
+else
+window.location.replace("http://www.baomoi.com/video-quen-nhung-con-dao-tam-thuong-di-chiec-dao-tron-nay-se-khien-chi-em-tron-mat/c/21792218.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

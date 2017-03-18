@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+TP.HCM: Hai bảo mẫu đánh đập trẻ chỉ vì biếng ăn, lười tắm... - Người Tiêu Dùng
+</title><meta name="keywords" content="Đường Nguyễn Oanh,Gò Vấp,Phạm Thị Mộng Thu,đình chỉ,Phạm Thị Dạ Lan,video clip,rà soát,chấn chỉnh,Trường mầm non Anh Đào,Anh Trâm,lãnh đạo" /><meta name="description" content="Tại cơ quan chức năng, bà Phạm Thị Mộng Thu (49 tuổi, chủ cơ sở giữ trẻ) và bà Phạm Thị Dạ Lan (47 tuổi, em bà Thu) thừa nhận đã có hành vi bạo hành trẻ tại..." />
+<link rel="canonical" href="http://www.baomoi.com/tp-hcm-hai-bao-mau-danh-dap-tre-chi-vi-bieng-an-luoi-tam/c/21790713.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790713" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790713" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nguoitieudung.com.vn/tphcm-hai-bao-mau-danh-dap-tre-chi-vi-bieng-an-luoi-tam-d55861.html");
+else
+window.location.replace("http://www.baomoi.com/tp-hcm-hai-bao-mau-danh-dap-tre-chi-vi-bieng-an-luoi-tam/c/21790713.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

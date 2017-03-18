@@ -1,0 +1,2464 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Tin bóng đá - BAOMOI.COM
+</title><meta name="keywords" content="bóng đá, tin bóng đá, video bóng đá, tin tức bóng đá, tường thuật, lịch thi đấu, kết quả, chuyển nhượng" /><meta name="description" content="Bóng đá, tin bóng đá 24h, video bóng đá 24h, tin tức bóng đá, tường thuật bóng đá, lịch thi đấu, kết quả" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/bong-da.epi" />
+<link rel="alternate" href="http://www.baomoi.com/bong-da.epi" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/bong-da.epi" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/bong-da.epi" />
+<meta property="og:title" content="Bóng đá" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Bóng đá",
+"alternateName" : "Bóng đá, tin bóng đá 24h, video bóng đá 24h, tin tức bóng đá, tường thuật bóng đá, lịch thi đấu, kết quả",
+"url" : "http://www.baomoi.com/bong-da.epi"
+}
+</script>
+<link rel="alternate" href="http://www.baomoi.com/bong-da.rss" type="application/rss+xml" title="RSS" />
+<script type="text/javascript">
+var cate_id = 87;
+var cate_path = "bong-da";</script>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content nocontent robots-nocontent">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<section class="main category-page">
+<section class="hot-news">
+<div class="focus" data-track="|hotnews">
+<div class="main">
+<article data-aid="21793229" class="feature">
+<figure>
+<a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w626/17/03/18/255/21793229/6_276363.jpg" alt="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:53:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/c/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả" class="spr spr-cache cache">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<figure>
+<a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/80/21793100/1_157232.jpg" alt="HLV Hữu Thắng nhận tin vui từ Xuân Trường" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793161" >
+<figure>
+<a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/r/21793161.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/7/21793161/3_93850.jpg" alt="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/r/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/c/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3" class="spr spr-cache cache">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792562" >
+<figure>
+<a target="_blank" href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/r/21792562.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/50/21792562/4_40091.jpg" alt="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/r/21792562.epi" title="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU">Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/c/21792562.epi" title="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU" class="spr spr-cache cache">Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792702" >
+<figure>
+<a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/88/21792702/4_67367.jpg" alt="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:10:00+07:00"></time>
+<span>
+<a href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/c/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" class="spr spr-cache cache">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</div>
+<div class="more-article" data-track="|news">
+<article data-aid="21793365">
+<header>
+<h2><a target="_blank" href="/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/r/21793365.epi" title="Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng">
+Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng
+</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T08:15:00+07:00"></time>
+<span>
+<a href="/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/c/21793365.epi" title="Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng" class="spr spr-cache cache">Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793350">
+<header>
+<h2><a target="_blank" href="/conte-da-vuot-qua-cai-bong-cua-mourinho-o-chelsea/r/21793350.epi" title="Conte đã vượt qua cái bóng của Mourinho ở Chelsea">
+Conte đã vượt qua cái bóng của Mourinho ở Chelsea
+</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T08:05:00+07:00"></time>
+<span>
+<a href="/conte-da-vuot-qua-cai-bong-cua-mourinho-o-chelsea/c/21793350.epi" title="Conte đã vượt qua cái bóng của Mourinho ở Chelsea" class="spr spr-cache cache">Conte đã vượt qua cái bóng của Mourinho ở Chelsea</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793346">
+<header>
+<h2><a target="_blank" href="/tin-hot-sang-18-3-vff-khien-nguoi-ham-mo-mung-tham/r/21793346.epi" title="Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm">
+Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm
+</a></h2>
+<p class="meta">
+<a href="/www.nguoiduatin.vn-bao-nguoi-dua-tin-nguoi-dua-tin/p/296.epi">Người Đưa Tin</a>
+<time class="friendly" datetime="2017-03-18T08:04:00+07:00"></time>
+<span>
+<a href="/tin-hot-sang-18-3-vff-khien-nguoi-ham-mo-mung-tham/c/21793346.epi" title="Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm" class="spr spr-cache cache">Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793328">
+<header>
+<h2><a target="_blank" href="/nguoi-trong-cuoc-noi-gi-ve-ket-qua-boc-tham-tu-ket-champions-league/r/21793328.epi" title="Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?">
+Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?
+</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T08:03:00+07:00"></time>
+<span>
+<a href="/nguoi-trong-cuoc-noi-gi-ve-ket-qua-boc-tham-tu-ket-champions-league/c/21793328.epi" title="Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?" class="spr spr-cache cache">Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793279">
+<header>
+<h2><a target="_blank" href="/da-world-cup-la-chuyen-danh-du-quoc-gia/r/21793279.epi" title="&#39;Đá World Cup là chuyện danh dự quốc gia&#39;">
+'Đá World Cup là chuyện danh dự quốc gia'
+</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-18T08:01:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/da-world-cup-la-chuyen-danh-du-quoc-gia/c/21793279.epi" title="&#39;Đá World Cup là chuyện danh dự quốc gia&#39;" class="spr spr-cache cache">'Đá World Cup là chuyện danh dự quốc gia'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793336">
+<header>
+<h2><a target="_blank" href="/19h30-ngay-18-03-west-brom-vs-arsenal-bau-troi-u-am/r/21793336.epi" title="19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám">
+19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám
+</a></h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-18T07:59:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/19h30-ngay-18-03-west-brom-vs-arsenal-bau-troi-u-am/c/21793336.epi" title="19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám" class="spr spr-cache cache">19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793101">
+<header>
+<h2><a target="_blank" href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup
+</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-cache cache">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793133">
+<header>
+<h2><a target="_blank" href="/zidane-e-ngai-khi-real-dung-bayern/r/21793133.epi" title="Zidane e ngại khi Real đụng Bayern">
+Zidane e ngại khi Real đụng Bayern
+</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:36:34+07:00"></time>
+<span>
+<a href="/zidane-e-ngai-khi-real-dung-bayern/c/21793133.epi" title="Zidane e ngại khi Real đụng Bayern" class="spr spr-cache cache">Zidane e ngại khi Real đụng Bayern</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793192">
+<header>
+<h2><a target="_blank" href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới
+</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-cache cache">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<script>
+var arr_baomoiprbongdanoibat = [
+];;
+if (arr_baomoiprbongdanoibat.length > 0) {
+var slots_baomoiprbongdanoibat = new Array;
+var prefix = "pr_baomoiprbongdanoibat_";
+for (var i = 1; i <= 10; i++) {
+var id = prefix + i;
+var obj = document.getElementById(id);
+if (obj == null) break;
+else slots_baomoiprbongdanoibat.push(obj);
+}
+var total = 100.0;
+var dist_baomoiprbongdanoibat = [];
+for (var index = 0; index < slots_baomoiprbongdanoibat.length; index++) {
+var t = Math.floor(Math.random() * total);
+var n = 0;
+for (var i = 0; i < arr_baomoiprbongdanoibat.length; i++) {
+n += arr_baomoiprbongdanoibat[i].share;
+if (n >= t) {
+total -= arr_baomoiprbongdanoibat[i].share;
+dist_baomoiprbongdanoibat.push(arr_baomoiprbongdanoibat[i].value);
+arr_baomoiprbongdanoibat.splice(i, 1);
+break;
+}
+}
+}
+for (var index = 0; index < Math.min(dist_baomoiprbongdanoibat.length, slots_baomoiprbongdanoibat.length) ; index++)
+slots_baomoiprbongdanoibat[index].outerHTML = dist_baomoiprbongdanoibat[index];
+}
+</script>
+<div class="cat-content">
+<section id="soccer-schedule" class="soccer-schedule">
+<header>
+<h1 class="title">LỊCH THI ĐẤU - KẾT QUẢ BÓNG ĐÁ</h1>
+</header>
+</section>
+<section class="content-list" data-track="|contentlist">
+<header>
+<h1 class="title">Bóng đá</h1>
+</header>
+<article data-aid="21793365" >
+<figure>
+<a target="_blank" href="/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/r/21793365.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/3/21793365/1_128980.jpg" alt="Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/r/21793365.epi" title="Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng">Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng</a>
+</h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T08:15:00+07:00"></time>
+<span>
+<a href="/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/c/21793365.epi" title="Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng" class="spr spr-cache cache">Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng</a>
+</span>
+</p>
+<p class="summary">
+Liên đoàn bóng đá Việt Nam (VFF) đã chính thức công bố giá vé trận đấu giao hữu giữa ĐT Việt Nam và ĐT Đài Bắc Trung Hoa trên sân Hàng Đẫy với 2 mệnh giá: 100 và 150 ngàn đồng.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_0" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_0" class="related-list collapse">
+<a href="/tin-lien-quan/t/2085955.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21778823">
+<figure>
+<a target="_blank" href="/vff-tiec-tien-dtvn-da-giao-huu-dai-bac-trung-hoa-o-hang-day/r/21778823.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/7/21778823/2_22483.jpg" alt="VFF tiếc tiền, ĐTVN đá giao hữu Đài Bắc Trung Hoa ở Hàng Đẫy"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vff-tiec-tien-dtvn-da-giao-huu-dai-bac-trung-hoa-o-hang-day/r/21778823.epi" title="VFF tiếc tiền, ĐTVN đá giao hữu Đài Bắc Trung Hoa ở Hàng Đẫy">VFF tiếc tiền, ĐTVN đá giao hữu Đài Bắc Trung Hoa ở Hàng Đẫy</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-16T12:30:00+07:00"></time>
+<span>
+<a href="/vff-tiec-tien-dtvn-da-giao-huu-dai-bac-trung-hoa-o-hang-day/c/21778823.epi" title="VFF tiếc tiền, ĐTVN đá giao hữu Đài Bắc Trung Hoa ở Hàng Đẫy" class="spr spr-cache cache">VFF tiếc tiền, ĐTVN đá giao hữu Đài Bắc Trung Hoa ở Hàng Đẫy</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21777025">
+<figure>
+<a target="_blank" href="/thay-tro-huu-thang-cong-phuong-gap-lai-tuyen-dai-loan/r/21777025.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/167/21777025/4_774598.jpg" alt="Thầy trò Hữu Thắng, Công Phượng gặp lại tuyển Đài Loan"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thay-tro-huu-thang-cong-phuong-gap-lai-tuyen-dai-loan/r/21777025.epi" title="Thầy trò Hữu Thắng, Công Phượng gặp lại tuyển Đài Loan">Thầy trò Hữu Thắng, Công Phượng gặp lại tuyển Đài Loan</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-16T09:39:57+07:00"></time>
+<span>
+<a href="/thay-tro-huu-thang-cong-phuong-gap-lai-tuyen-dai-loan/c/21777025.epi" title="Thầy trò Hữu Thắng, Công Phượng gặp lại tuyển Đài Loan" class="spr spr-cache cache">Thầy trò Hữu Thắng, Công Phượng gặp lại tuyển Đài Loan</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21774259">
+<figure>
+<a target="_blank" href="/dai-loan-lam-moi-doi-hinh-de-tai-dau-tuyen-viet-nam/r/21774259.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/61/21774259/2_120733.jpg" alt="Đài Loan làm mới đội hình để tái đấu tuyển Việt Nam"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dai-loan-lam-moi-doi-hinh-de-tai-dau-tuyen-viet-nam/r/21774259.epi" title="Đài Loan làm mới đội hình để tái đấu tuyển Việt Nam">Đài Loan làm mới đội hình để tái đấu tuyển Việt Nam</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T22:00:00+07:00"></time>
+<span>
+<a href="/dai-loan-lam-moi-doi-hinh-de-tai-dau-tuyen-viet-nam/c/21774259.epi" title="Đài Loan làm mới đội hình để tái đấu tuyển Việt Nam" class="spr spr-cache cache">Đài Loan làm mới đội hình để tái đấu tuyển Việt Nam</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21772933">
+<figure>
+<a target="_blank" href="/dai-bac-trung-hoa-thay-mau-luc-luong-cho-cuoc-tai-dau-tuyen-viet-nam/r/21772933.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/3/21772933/1_143309.jpg" alt="Đài Bắc Trung Hoa &#39;thay máu&#39; lực lượng cho cuộc tái đấu tuyển Việt Nam"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dai-bac-trung-hoa-thay-mau-luc-luong-cho-cuoc-tai-dau-tuyen-viet-nam/r/21772933.epi" title="Đài Bắc Trung Hoa &#39;thay máu&#39; lực lượng cho cuộc tái đấu tuyển Việt Nam">Đài Bắc Trung Hoa 'thay máu' lực lượng cho cuộc tái đấu tuyển Việt Nam</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-15T18:52:00+07:00"></time>
+<span>
+<a href="/dai-bac-trung-hoa-thay-mau-luc-luong-cho-cuoc-tai-dau-tuyen-viet-nam/c/21772933.epi" title="Đài Bắc Trung Hoa &#39;thay máu&#39; lực lượng cho cuộc tái đấu tuyển Việt Nam" class="spr spr-cache cache">Đài Bắc Trung Hoa 'thay máu' lực lượng cho cuộc tái đấu tuyển Việt Nam</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793350" >
+<figure>
+<a target="_blank" href="/conte-da-vuot-qua-cai-bong-cua-mourinho-o-chelsea/r/21793350.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/167/21793350/3_1374902.jpg" alt="Conte đã vượt qua cái bóng của Mourinho ở Chelsea">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/conte-da-vuot-qua-cai-bong-cua-mourinho-o-chelsea/r/21793350.epi" title="Conte đã vượt qua cái bóng của Mourinho ở Chelsea">Conte đã vượt qua cái bóng của Mourinho ở Chelsea</a>
+</h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T08:05:00+07:00"></time>
+<span>
+<a href="/conte-da-vuot-qua-cai-bong-cua-mourinho-o-chelsea/c/21793350.epi" title="Conte đã vượt qua cái bóng của Mourinho ở Chelsea" class="spr spr-cache cache">Conte đã vượt qua cái bóng của Mourinho ở Chelsea</a>
+</span>
+</p>
+<p class="summary">
+Những con số làm nên sự vĩ đại. Thành tích tạo ra một huyền thoại. Với Antonio Conte, ông đang đi trên con đường thoát khỏi cái bóng của Jose Mourinho ở sân Stamford Bridge ngay...
+</p>
+</header>
+</article>
+<article data-aid="21793346" >
+<figure>
+<a target="_blank" href="/tin-hot-sang-18-3-vff-khien-nguoi-ham-mo-mung-tham/r/21793346.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/202/21793346/1_33485.jpg" alt="Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/tin-hot-sang-18-3-vff-khien-nguoi-ham-mo-mung-tham/r/21793346.epi" title="Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm">Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm</a>
+</h2>
+<p class="meta">
+<a href="/www.nguoiduatin.vn-bao-nguoi-dua-tin-nguoi-dua-tin/p/296.epi">Người Đưa Tin</a>
+<time class="friendly" datetime="2017-03-18T08:04:00+07:00"></time>
+<span>
+<a href="/tin-hot-sang-18-3-vff-khien-nguoi-ham-mo-mung-tham/c/21793346.epi" title="Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm" class="spr spr-cache cache">Tin HOT sáng 18/3: VFF khiến người hâm mộ mừng thầm</a>
+</span>
+</p>
+<p class="summary">
+Bản tin bóng đá sáng nay – 18/3 bao gồm các tin hot: VFF khiến người hâm mộ mừng thầm, Mourinho lo sốt vó,…
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_2" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_2" class="related-list collapse">
+<a href="/tin-lien-quan/t/2085893.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21764945">
+<figure>
+<a target="_blank" href="/diem-tin-toi-14-03-man-utd-gap-kho-vu-verratti-diego-costa-lam-sang-to-tuong-lai/r/21764945.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/111/21764945/2_69214.jpg" alt="Điểm tin tối 14/03: Man Utd gặp khó vụ Verratti; Diego Costa làm sáng tỏ tương lai"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/diem-tin-toi-14-03-man-utd-gap-kho-vu-verratti-diego-costa-lam-sang-to-tuong-lai/r/21764945.epi" title="Điểm tin tối 14/03: Man Utd gặp khó vụ Verratti; Diego Costa làm sáng tỏ tương lai">Điểm tin tối 14/03: Man Utd gặp khó vụ Verratti; Diego Costa làm sáng tỏ tương lai</a></h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-14T20:47:00+07:00"></time>
+<span>
+<a href="/diem-tin-toi-14-03-man-utd-gap-kho-vu-verratti-diego-costa-lam-sang-to-tuong-lai/c/21764945.epi" title="Điểm tin tối 14/03: Man Utd gặp khó vụ Verratti; Diego Costa làm sáng tỏ tương lai" class="spr spr-cache cache">Điểm tin tối 14/03: Man Utd gặp khó vụ Verratti; Diego Costa làm sáng tỏ tương lai</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21763800">
+<figure>
+<a target="_blank" href="/costa-tuyen-bo-khien-real-madrid-mung-tham/r/21763800.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/14/111/21763800/2_58194.jpg" alt="Costa tuyên bố khiến Real Madrid mừng thầm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/costa-tuyen-bo-khien-real-madrid-mung-tham/r/21763800.epi" title="Costa tuyên bố khiến Real Madrid mừng thầm">Costa tuyên bố khiến Real Madrid mừng thầm</a></h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-14T18:09:00+07:00"></time>
+<span>
+<a href="/costa-tuyen-bo-khien-real-madrid-mung-tham/c/21763800.epi" title="Costa tuyên bố khiến Real Madrid mừng thầm" class="spr spr-cache cache">Costa tuyên bố khiến Real Madrid mừng thầm</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793328" >
+<figure>
+<a target="_blank" href="/nguoi-trong-cuoc-noi-gi-ve-ket-qua-boc-tham-tu-ket-champions-league/r/21793328.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/105/21793328/2_86685.jpg" alt="Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/nguoi-trong-cuoc-noi-gi-ve-ket-qua-boc-tham-tu-ket-champions-league/r/21793328.epi" title="Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?">Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?</a>
+</h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T08:03:00+07:00"></time>
+<span>
+<a href="/nguoi-trong-cuoc-noi-gi-ve-ket-qua-boc-tham-tu-ket-champions-league/c/21793328.epi" title="Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?" class="spr spr-cache cache">Người trong cuộc nói gì về kết quả bốc thăm tứ kết Champions League?</a>
+</span>
+</p>
+<p class="summary">
+Các HLV và đại diện của CLB đã có những phản ứng khác nhau, nhưng nhìn chung đều rất tự tin sau lễ bốc thăm tứ kết Champions League.
+</p>
+</header>
+</article>
+<article data-aid="21793279" >
+<figure>
+<a target="_blank" href="/da-world-cup-la-chuyen-danh-du-quoc-gia/r/21793279.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/70/21793279/1_132631.jpg" alt="&#39;Đá World Cup là chuyện danh dự quốc gia&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/da-world-cup-la-chuyen-danh-du-quoc-gia/r/21793279.epi" title="&#39;Đá World Cup là chuyện danh dự quốc gia&#39;">'Đá World Cup là chuyện danh dự quốc gia'</a>
+</h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-18T08:01:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/da-world-cup-la-chuyen-danh-du-quoc-gia/c/21793279.epi" title="&#39;Đá World Cup là chuyện danh dự quốc gia&#39;" class="spr spr-cache cache">'Đá World Cup là chuyện danh dự quốc gia'</a>
+</span>
+</p>
+<p class="summary">
+Đá World Cup bây giờ không chỉ đơn thuần là vấn đề chuyên môn, đó là chuyện hình ảnh, danh dự quốc gia...
+</p>
+</header>
+</article>
+<article data-aid="21793336" >
+<figure>
+<a target="_blank" href="/19h30-ngay-18-03-west-brom-vs-arsenal-bau-troi-u-am/r/21793336.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/111/21793336/5_205116.jpg" alt="19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/19h30-ngay-18-03-west-brom-vs-arsenal-bau-troi-u-am/r/21793336.epi" title="19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám">19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám</a>
+</h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-18T07:59:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/19h30-ngay-18-03-west-brom-vs-arsenal-bau-troi-u-am/c/21793336.epi" title="19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám" class="spr spr-cache cache">19h30 ngày 18/03, West Brom vs Arsenal: Bầu trời u ám</a>
+</span>
+</p>
+<p class="summary">
+Sau những thất bại nặng nề trước Liverpool rồi Bayern Munich, Arsenal đang ở trong một bầu trời u ám. Thầy trò HLV Arsene Wenger thừa hiểu họ cần một chiến thắng trước West Brom...
+</p>
+</header>
+</article>
+<article data-aid="21793311" >
+<figure>
+<a target="_blank" href="/mourinho-lai-noi-doa-khi-bi-fa-chen-ep/r/21793311.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/111/21793311/2_29438.jpg" alt="Mourinho lại &#39;nổi đóa&#39; khi bị FA chèn ép">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/mourinho-lai-noi-doa-khi-bi-fa-chen-ep/r/21793311.epi" title="Mourinho lại &#39;nổi đóa&#39; khi bị FA chèn ép">Mourinho lại 'nổi đóa' khi bị FA chèn ép</a>
+</h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-18T07:57:00+07:00"></time>
+<span>
+<a href="/mourinho-lai-noi-doa-khi-bi-fa-chen-ep/c/21793311.epi" title="Mourinho lại &#39;nổi đóa&#39; khi bị FA chèn ép" class="spr spr-cache cache">Mourinho lại 'nổi đóa' khi bị FA chèn ép</a>
+</span>
+</p>
+<p class="summary">
+HLV Jose Mourinho cho rằng BTC Ngoại hạng Anh đã không hề ưu ái cho những đội đang tham dự cúp châu Âu như Manchester United, dẫn đến việc các cầu thủ phải căng sức quá nhiều trong...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_6" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_6" class="related-list collapse">
+<a href="/tin-lien-quan/t/2086571.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21769498">
+<figure>
+<a target="_blank" href="/mourinho-noi-gian-vi-su-co-khong-dang-co-sau-tran-thua-chelsea/r/21769498.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/61/21769498/2_46440.jpg" alt="Mourinho nổi giận vì sự cố không đáng có sau trận thua Chelsea"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mourinho-noi-gian-vi-su-co-khong-dang-co-sau-tran-thua-chelsea/r/21769498.epi" title="Mourinho nổi giận vì sự cố không đáng có sau trận thua Chelsea">Mourinho nổi giận vì sự cố không đáng có sau trận thua Chelsea</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T11:34:00+07:00"></time>
+<span>
+<a href="/mourinho-noi-gian-vi-su-co-khong-dang-co-sau-tran-thua-chelsea/c/21769498.epi" title="Mourinho nổi giận vì sự cố không đáng có sau trận thua Chelsea" class="spr spr-cache cache">Mourinho nổi giận vì sự cố không đáng có sau trận thua Chelsea</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21768494">
+<figure>
+<a target="_blank" href="/dap-vao-bung-hazard-rojo-van-thoat-an-phat-cua-fa/r/21768494.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/15/61/21768494/3_241408.jpg" alt="Đạp vào bụng Hazard, Rojo vẫn thoát án phạt của FA"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dap-vao-bung-hazard-rojo-van-thoat-an-phat-cua-fa/r/21768494.epi" title="Đạp vào bụng Hazard, Rojo vẫn thoát án phạt của FA">Đạp vào bụng Hazard, Rojo vẫn thoát án phạt của FA</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-15T10:18:00+07:00"></time>
+<span>
+<a href="/dap-vao-bung-hazard-rojo-van-thoat-an-phat-cua-fa/c/21768494.epi" title="Đạp vào bụng Hazard, Rojo vẫn thoát án phạt của FA" class="spr spr-cache cache">Đạp vào bụng Hazard, Rojo vẫn thoát án phạt của FA</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21767944">
+<figure>
+<a target="_blank" href="/giam-len-nguoi-hazard-rojo-van-thoat-an-phat/r/21767944.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/3/21767944/1_58997.jpg" alt="Giẫm lên người Hazard, Rojo vẫn thoát án phạt"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/giam-len-nguoi-hazard-rojo-van-thoat-an-phat/r/21767944.epi" title="Giẫm lên người Hazard, Rojo vẫn thoát án phạt">Giẫm lên người Hazard, Rojo vẫn thoát án phạt</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-15T09:14:00+07:00"></time>
+<span>
+<a href="/giam-len-nguoi-hazard-rojo-van-thoat-an-phat/c/21767944.epi" title="Giẫm lên người Hazard, Rojo vẫn thoát án phạt" class="spr spr-cache cache">Giẫm lên người Hazard, Rojo vẫn thoát án phạt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21767806">
+<figure>
+<a target="_blank" href="/mu-thua-chelsea-rojo-thoat-toi-mourinho-bi-tro-cu-cong-kich/r/21767806.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/223/21767806/3_158962.jpg" alt="MU thua Chelsea: Rojo thoát tội, Mourinho bị trò cũ công kích"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mu-thua-chelsea-rojo-thoat-toi-mourinho-bi-tro-cu-cong-kich/r/21767806.epi" title="MU thua Chelsea: Rojo thoát tội, Mourinho bị trò cũ công kích">MU thua Chelsea: Rojo thoát tội, Mourinho bị trò cũ công kích</a></h2>
+<p class="meta">
+<a href="/khampha.vn-tap-chi-kham-pha-kham-pha/p/248.epi">Khám Phá</a>
+<time class="friendly" datetime="2017-03-15T09:02:00+07:00"></time>
+<span>
+<a href="/mu-thua-chelsea-rojo-thoat-toi-mourinho-bi-tro-cu-cong-kich/c/21767806.epi" title="MU thua Chelsea: Rojo thoát tội, Mourinho bị trò cũ công kích" class="spr spr-cache cache">MU thua Chelsea: Rojo thoát tội, Mourinho bị trò cũ công kích</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793229" >
+<figure>
+<a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/255/21793229/6_276363.jpg" alt="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a>
+</h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:53:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/c/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả" class="spr spr-cache cache">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a>
+</span>
+</p>
+<p class="summary">
+Không chỉ HAGL cần có ít nhất một trận hòa để lấy lại niềm tin nơi khán giả mà ngay cả chủ nhà SLNA cũng cần có chiến thắng để củng cố lòng tin nơi người hâm mộ.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_7" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_7" class="related-list collapse">
+<a href="/tin-lien-quan/t/2074663.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792871">
+<figure>
+<a target="_blank" href="/con-loc-canh-phai-slna-cam-than-vi-mat-co-hoi-dau-hagl/r/21792871.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/105/21792871/3_141486.jpg" alt="&#39;Cơn lốc cánh phải&#39; SLNA cảm thán vì mất cơ hội đấu HAGL"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/con-loc-canh-phai-slna-cam-than-vi-mat-co-hoi-dau-hagl/r/21792871.epi" title="&#39;Cơn lốc cánh phải&#39; SLNA cảm thán vì mất cơ hội đấu HAGL">'Cơn lốc cánh phải' SLNA cảm thán vì mất cơ hội đấu HAGL</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:03:00+07:00"></time>
+<span>
+<a href="/con-loc-canh-phai-slna-cam-than-vi-mat-co-hoi-dau-hagl/c/21792871.epi" title="&#39;Cơn lốc cánh phải&#39; SLNA cảm thán vì mất cơ hội đấu HAGL" class="spr spr-cache cache">'Cơn lốc cánh phải' SLNA cảm thán vì mất cơ hội đấu HAGL</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792756">
+<figure>
+<a target="_blank" href="/gap-hagl-slna-co-lo-bao/r/21792756.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/88/21792756/2_206129.jpg" alt="Gặp HAGL, SLNA có lo &#39;bão&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gap-hagl-slna-co-lo-bao/r/21792756.epi" title="Gặp HAGL, SLNA có lo &#39;bão&#39;">Gặp HAGL, SLNA có lo 'bão'</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:18:00+07:00"></time>
+<span>
+<a href="/gap-hagl-slna-co-lo-bao/c/21792756.epi" title="Gặp HAGL, SLNA có lo &#39;bão&#39;" class="spr spr-cache cache">Gặp HAGL, SLNA có lo 'bão'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792225">
+<figure>
+<a target="_blank" href="/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/r/21792225.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/61/21792225/11_174658.jpg" alt="Khán giả Nghệ An chào đón Công Phượng trở về"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/r/21792225.epi" title="Khán giả Nghệ An chào đón Công Phượng trở về">Khán giả Nghệ An chào đón Công Phượng trở về</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T00:09:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/c/21792225.epi" title="Khán giả Nghệ An chào đón Công Phượng trở về" class="spr spr-cache cache">Khán giả Nghệ An chào đón Công Phượng trở về</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792035">
+<figure>
+<a target="_blank" href="/noi-kho-cua-que-ngoc-hai/r/21792035.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/19/21792035/2_110388.jpg" alt="Nỗi khổ của Quế Ngọc Hải"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-kho-cua-que-ngoc-hai/r/21792035.epi" title="Nỗi khổ của Quế Ngọc Hải">Nỗi khổ của Quế Ngọc Hải</a></h2>
+<p class="meta">
+<a href="/nld.com.vn-bao-nguoi-lao-dong-nld/p/15.epi">NLĐ</a>
+<time class="friendly" datetime="2017-03-17T22:35:00+07:00"></time>
+<span>
+<a href="/noi-kho-cua-que-ngoc-hai/c/21792035.epi" title="Nỗi khổ của Quế Ngọc Hải" class="spr spr-cache cache">Nỗi khổ của Quế Ngọc Hải</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793198" >
+<figure>
+<a target="_blank" href="/chum-anh-mane-thi-trien-tai-nghe-klopp-dam-chieu-nhin-hoc-tro-luyen-cong/r/21793198.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/111/21793198/10_56767.jpg" alt="Chùm ảnh: Mane thi triển tài nghệ, Klopp đăm chiêu nhìn học trò &#39;luyện công&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/chum-anh-mane-thi-trien-tai-nghe-klopp-dam-chieu-nhin-hoc-tro-luyen-cong/r/21793198.epi" title="Chùm ảnh: Mane thi triển tài nghệ, Klopp đăm chiêu nhìn học trò &#39;luyện công&#39;">Chùm ảnh: Mane thi triển tài nghệ, Klopp đăm chiêu nhìn học trò 'luyện công'</a>
+</h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-18T07:42:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/chum-anh-mane-thi-trien-tai-nghe-klopp-dam-chieu-nhin-hoc-tro-luyen-cong/c/21793198.epi" title="Chùm ảnh: Mane thi triển tài nghệ, Klopp đăm chiêu nhìn học trò &#39;luyện công&#39;" class="spr spr-cache cache">Chùm ảnh: Mane thi triển tài nghệ, Klopp đăm chiêu nhìn học trò 'luyện công'</a>
+</span>
+</p>
+<p class="summary">
+Các cầu thủ Liverpool có buổi tập tại Melwood vào hôm qua để chuẩn bị cho chuyến làm khách đầy khó khăn trước Manchester City tại Etihad vào Chủ nhật này.
+</p>
+</header>
+</article>
+<article data-aid="21793101" >
+<figure>
+<a target="_blank" href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/139/21793101/1_37764.jpg" alt="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-cache cache">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+<p class="summary">
+Cùng chiêm ngưỡng lại những pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup còn in đậm trong tâm trí người xem.
+</p>
+</header>
+</article>
+<article data-aid="21793133" >
+<figure>
+<a target="_blank" href="/zidane-e-ngai-khi-real-dung-bayern/r/21793133.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/25/21793133/2_78000.jpg" alt="Zidane e ngại khi Real đụng Bayern">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/zidane-e-ngai-khi-real-dung-bayern/r/21793133.epi" title="Zidane e ngại khi Real đụng Bayern">Zidane e ngại khi Real đụng Bayern</a>
+</h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:36:34+07:00"></time>
+<span>
+<a href="/zidane-e-ngai-khi-real-dung-bayern/c/21793133.epi" title="Zidane e ngại khi Real đụng Bayern" class="spr spr-cache cache">Zidane e ngại khi Real đụng Bayern</a>
+</span>
+</p>
+<p class="summary">
+Nhà ĐKVĐ Champions League - Real Madrid sẽ gặp phải thách thức lớn ngay ở vòng tứ kết, khi gặp Hùm xám - Bayern Munich, ứng cử viên hàng đầu cho chức vô địch mùa này.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_10" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_10" class="related-list collapse">
+<a href="/tin-lien-quan/t/2101938.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792302">
+<figure>
+<a target="_blank" href="/tu-ket-kinh-dien-cup-c1-bayern-real-ai-so-ai/r/21792302.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/223/21792302/4_137385.jpg" alt="Tứ kết kinh điển cúp C1: Bayern - Real, ai sợ ai"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tu-ket-kinh-dien-cup-c1-bayern-real-ai-so-ai/r/21792302.epi" title="Tứ kết kinh điển cúp C1: Bayern - Real, ai sợ ai">Tứ kết kinh điển cúp C1: Bayern - Real, ai sợ ai</a></h2>
+<p class="meta">
+<a href="/khampha.vn-tap-chi-kham-pha-kham-pha/p/248.epi">Khám Phá</a>
+<time class="friendly" datetime="2017-03-17T23:56:00+07:00"></time>
+<span>
+<a href="/tu-ket-kinh-dien-cup-c1-bayern-real-ai-so-ai/c/21792302.epi" title="Tứ kết kinh điển cúp C1: Bayern - Real, ai sợ ai" class="spr spr-cache cache">Tứ kết kinh điển cúp C1: Bayern - Real, ai sợ ai</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791429">
+<figure>
+<a target="_blank" href="/boc-tham-tu-ket-cup-c1-ti-le-real-vo-dich-tut-the-tham/r/21791429.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/223/21791429/4_66478.jpg" alt="Bốc thăm tứ kết cúp C1: Tỉ lệ Real vô địch tụt thê thảm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/boc-tham-tu-ket-cup-c1-ti-le-real-vo-dich-tut-the-tham/r/21791429.epi" title="Bốc thăm tứ kết cúp C1: Tỉ lệ Real vô địch tụt thê thảm">Bốc thăm tứ kết cúp C1: Tỉ lệ Real vô địch tụt thê thảm</a></h2>
+<p class="meta">
+<a href="/khampha.vn-tap-chi-kham-pha-kham-pha/p/248.epi">Khám Phá</a>
+<time class="friendly" datetime="2017-03-17T20:11:00+07:00"></time>
+<span>
+<a href="/boc-tham-tu-ket-cup-c1-ti-le-real-vo-dich-tut-the-tham/c/21791429.epi" title="Bốc thăm tứ kết cúp C1: Tỉ lệ Real vô địch tụt thê thảm" class="spr spr-cache cache">Bốc thăm tứ kết cúp C1: Tỉ lệ Real vô địch tụt thê thảm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791218">
+<figure>
+<a target="_blank" href="/tu-ket-cup-c1-ancelotti-hao-huc-tai-ngo-real-ronaldo/r/21791218.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/223/21791218/8_117116.jpg" alt="Tứ kết cúp C1: Ancelotti háo hức tái ngộ Real, Ronaldo"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tu-ket-cup-c1-ancelotti-hao-huc-tai-ngo-real-ronaldo/r/21791218.epi" title="Tứ kết cúp C1: Ancelotti háo hức tái ngộ Real, Ronaldo">Tứ kết cúp C1: Ancelotti háo hức tái ngộ Real, Ronaldo</a></h2>
+<p class="meta">
+<a href="/khampha.vn-tap-chi-kham-pha-kham-pha/p/248.epi">Khám Phá</a>
+<time class="friendly" datetime="2017-03-17T19:19:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/tu-ket-cup-c1-ancelotti-hao-huc-tai-ngo-real-ronaldo/c/21791218.epi" title="Tứ kết cúp C1: Ancelotti háo hức tái ngộ Real, Ronaldo" class="spr spr-cache cache">Tứ kết cúp C1: Ancelotti háo hức tái ngộ Real, Ronaldo</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790186">
+<figure>
+<a target="_blank" href="/bayern-munich-doi-dau-real-madrid-o-tu-ket-champions-league/r/21790186.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/167/21790186/4_118898.jpg" alt="Bayern Munich đối đầu Real Madrid ở tứ kết Champions League"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bayern-munich-doi-dau-real-madrid-o-tu-ket-champions-league/r/21790186.epi" title="Bayern Munich đối đầu Real Madrid ở tứ kết Champions League">Bayern Munich đối đầu Real Madrid ở tứ kết Champions League</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-17T18:19:00+07:00"></time>
+<span>
+<a href="/bayern-munich-doi-dau-real-madrid-o-tu-ket-champions-league/c/21790186.epi" title="Bayern Munich đối đầu Real Madrid ở tứ kết Champions League" class="spr spr-cache cache">Bayern Munich đối đầu Real Madrid ở tứ kết Champions League</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793192" >
+<figure>
+<a target="_blank" href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-cache cache">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+<p class="summary">
+Mới đây nhất, sau lễ bốc thăm chia bảng của giải đấu U20 thế giới, báo chí Thái Lan đã có những nhận xét và phản ứng rất thú vị về đội tuyển U20 Việt Nam.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_11" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_11" class="related-list collapse">
+<a href="/tin-lien-quan/t/2094087.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21777671">
+<figure>
+<a target="_blank" href="/nhan-dinh-cua-fifa-ve-world-cup-u-20-cua-nao-cho-vn/r/21777671.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/50/21777671/6_138921.jpg" alt="Nhận định của FIFA về World Cup U-20: &#39;Cửa&#39; nào cho VN?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nhan-dinh-cua-fifa-ve-world-cup-u-20-cua-nao-cho-vn/r/21777671.epi" title="Nhận định của FIFA về World Cup U-20: &#39;Cửa&#39; nào cho VN?">Nhận định của FIFA về World Cup U-20: 'Cửa' nào cho VN?</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-16T10:43:26+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nhan-dinh-cua-fifa-ve-world-cup-u-20-cua-nao-cho-vn/c/21777671.epi" title="Nhận định của FIFA về World Cup U-20: &#39;Cửa&#39; nào cho VN?" class="spr spr-cache cache">Nhận định của FIFA về World Cup U-20: 'Cửa' nào cho VN?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21777122">
+<figure>
+<a target="_blank" href="/hoang-anh-tuan-va-gioi-chuyen-gia-noi-gi-ve-co-hoi-cua-u20-viet-nam/r/21777122.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/300/21777122/1_190070.jpg" alt="Hoàng Anh Tuấn và giới chuyên gia nói gì về cơ hội của U20 Việt Nam?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hoang-anh-tuan-va-gioi-chuyen-gia-noi-gi-ve-co-hoi-cua-u20-viet-nam/r/21777122.epi" title="Hoàng Anh Tuấn và giới chuyên gia nói gì về cơ hội của U20 Việt Nam?">Hoàng Anh Tuấn và giới chuyên gia nói gì về cơ hội của U20 Việt Nam?</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-16T09:49:28+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/hoang-anh-tuan-va-gioi-chuyen-gia-noi-gi-ve-co-hoi-cua-u20-viet-nam/c/21777122.epi" title="Hoàng Anh Tuấn và giới chuyên gia nói gì về cơ hội của U20 Việt Nam?" class="spr spr-cache cache">Hoàng Anh Tuấn và giới chuyên gia nói gì về cơ hội của U20 Việt Nam?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792990" >
+<figure>
+<a target="_blank" href="/hlv-ancelotti-phan-khich-khi-bayern-gap-real-madrid/r/21792990.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/167/21792990/3_151916.jpg" alt="HLV Ancelotti phấn khích khi Bayern gặp Real Madrid">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hlv-ancelotti-phan-khich-khi-bayern-gap-real-madrid/r/21792990.epi" title="HLV Ancelotti phấn khích khi Bayern gặp Real Madrid">HLV Ancelotti phấn khích khi Bayern gặp Real Madrid</a>
+</h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T07:25:15+07:00"></time>
+<span>
+<a href="/hlv-ancelotti-phan-khich-khi-bayern-gap-real-madrid/c/21792990.epi" title="HLV Ancelotti phấn khích khi Bayern gặp Real Madrid" class="spr spr-cache cache">HLV Ancelotti phấn khích khi Bayern gặp Real Madrid</a>
+</span>
+</p>
+<p class="summary">
+HLV Carlo Ancelotti của Bayern Munich tỏ ra phấn khích khi gặp lại đội bóng cũ Real Madrid ở vòng tứ kết Champions League.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_12" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_12" class="related-list collapse">
+<a href="/tin-lien-quan/t/2102340.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21791951">
+<figure>
+<a target="_blank" href="/tu-ket-champions-league-real-gap-bayern-barca-doi-dau-juve/r/21791951.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/19/21791951/4_124592.jpg" alt="Tứ kết Champions League: Real gặp Bayern, Barca đối đầu Juve"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tu-ket-champions-league-real-gap-bayern-barca-doi-dau-juve/r/21791951.epi" title="Tứ kết Champions League: Real gặp Bayern, Barca đối đầu Juve">Tứ kết Champions League: Real gặp Bayern, Barca đối đầu Juve</a></h2>
+<p class="meta">
+<a href="/nld.com.vn-bao-nguoi-lao-dong-nld/p/15.epi">NLĐ</a>
+<time class="friendly" datetime="2017-03-17T21:55:00+07:00"></time>
+<span>
+<a href="/tu-ket-champions-league-real-gap-bayern-barca-doi-dau-juve/c/21791951.epi" title="Tứ kết Champions League: Real gặp Bayern, Barca đối đầu Juve" class="spr spr-cache cache">Tứ kết Champions League: Real gặp Bayern, Barca đối đầu Juve</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791683">
+<figure>
+<a target="_blank" href="/zidane-hao-huc-tai-ngo-ancelotti/r/21791683.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/111/21791683/2_52876.jpg" alt="Zidane háo hức tái ngộ Ancelotti"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/zidane-hao-huc-tai-ngo-ancelotti/r/21791683.epi" title="Zidane háo hức tái ngộ Ancelotti">Zidane háo hức tái ngộ Ancelotti</a></h2>
+<p class="meta">
+<a href="/www.bongda.com.vn-bong-da/p/306.epi">Bóng Đá</a>
+<time class="friendly" datetime="2017-03-17T20:52:00+07:00"></time>
+<span>
+<a href="/zidane-hao-huc-tai-ngo-ancelotti/c/21791683.epi" title="Zidane háo hức tái ngộ Ancelotti" class="spr spr-cache cache">Zidane háo hức tái ngộ Ancelotti</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792979" >
+<figure>
+<a target="_blank" href="/zidane-toi-song-vi-nhung-tran-dau-nhu-real-bayern/r/21792979.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/210/21792979/2_94224.jpg" alt="Zidane: &#39;Tôi sống vì những trận đấu như Real - Bayern&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/zidane-toi-song-vi-nhung-tran-dau-nhu-real-bayern/r/21792979.epi" title="Zidane: &#39;Tôi sống vì những trận đấu như Real - Bayern&#39;">Zidane: 'Tôi sống vì những trận đấu như Real - Bayern'</a>
+</h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-18T07:20:00+07:00"></time>
+<span>
+<a href="/zidane-toi-song-vi-nhung-tran-dau-nhu-real-bayern/c/21792979.epi" title="Zidane: &#39;Tôi sống vì những trận đấu như Real - Bayern&#39;" class="spr spr-cache cache">Zidane: 'Tôi sống vì những trận đấu như Real - Bayern'</a>
+</span>
+</p>
+<p class="summary">
+Huyền thoại người Pháp tỏ ra háo hức trước cơ hội đối đầu Bayern và Carlo Ancelotti ở tứ kết Champions League.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_13" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_13" class="related-list collapse">
+<a href="/tin-lien-quan/t/2079824.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21757580">
+<figure>
+<a target="_blank" href="/mourinho-am-chi-trong-tai-tru-dap-man-utd/r/21757580.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/210/21757580/2_153394.jpg" alt="Mourinho ám chỉ trọng tài trù dập Man Utd"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mourinho-am-chi-trong-tai-tru-dap-man-utd/r/21757580.epi" title="Mourinho ám chỉ trọng tài trù dập Man Utd">Mourinho ám chỉ trọng tài trù dập Man Utd</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-14T07:27:00+07:00"></time>
+<span>
+<a href="/mourinho-am-chi-trong-tai-tru-dap-man-utd/c/21757580.epi" title="Mourinho ám chỉ trọng tài trù dập Man Utd" class="spr spr-cache cache">Mourinho ám chỉ trọng tài trù dập Man Utd</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21753630">
+<figure>
+<a target="_blank" href="/mu-mat-sach-tien-dao-khi-gap-chelsea/r/21753630.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/13/210/21753630/2_198665.jpg" alt="MU mất sạch tiền đạo khi gặp Chelsea"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mu-mat-sach-tien-dao-khi-gap-chelsea/r/21753630.epi" title="MU mất sạch tiền đạo khi gặp Chelsea">MU mất sạch tiền đạo khi gặp Chelsea</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-13T15:41:00+07:00"></time>
+<span>
+<a href="/mu-mat-sach-tien-dao-khi-gap-chelsea/c/21753630.epi" title="MU mất sạch tiền đạo khi gặp Chelsea" class="spr spr-cache cache">MU mất sạch tiền đạo khi gặp Chelsea</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793158" >
+<figure>
+<a target="_blank" href="/mu-dot-kich-con-trai-schmeichel-rooney-tiec-khong-sang-trung-quoc/r/21793158.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/7/21793158/1_96029.jpg" alt="MU &#39;đột kích&#39; con trai Schmeichel, Rooney tiếc không sang Trung Quốc">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/mu-dot-kich-con-trai-schmeichel-rooney-tiec-khong-sang-trung-quoc/r/21793158.epi" title="MU &#39;đột kích&#39; con trai Schmeichel, Rooney tiếc không sang Trung Quốc">MU 'đột kích' con trai Schmeichel, Rooney tiếc không sang Trung Quốc</a>
+</h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T07:17:00+07:00"></time>
+<span>
+<a href="/mu-dot-kich-con-trai-schmeichel-rooney-tiec-khong-sang-trung-quoc/c/21793158.epi" title="MU &#39;đột kích&#39; con trai Schmeichel, Rooney tiếc không sang Trung Quốc" class="spr spr-cache cache">MU 'đột kích' con trai Schmeichel, Rooney tiếc không sang Trung Quốc</a>
+</span>
+</p>
+<p class="summary">
+Wayne Rooney tiếc vì từ chối lời đề nghị khủng từ Trung Quốc. MU muốn đưa con trai huyền thoại Peter Schmeichel về Old Trafford. Chelsea tăng lương gần gấp đôi cho Thibaut Courtois...
+</p>
+</header>
+</article>
+<article data-aid="21793001" >
+<figure>
+<a target="_blank" href="/cap-nhat-sang-18-3-man-united-gap-ac-mong-ve-lich-thi-dau-zidane-hao-huc-doi-dau-voi-ancelotti/r/21793001.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/88/21793001/7_63695.jpg" alt="CẬP NHẬT sáng 18/3: Man United gặp ác mộng về lịch thi đấu. Zidane háo hức đối đầu với Ancelotti">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/cap-nhat-sang-18-3-man-united-gap-ac-mong-ve-lich-thi-dau-zidane-hao-huc-doi-dau-voi-ancelotti/r/21793001.epi" title="CẬP NHẬT sáng 18/3: Man United gặp ác mộng về lịch thi đấu. Zidane háo hức đối đầu với Ancelotti">CẬP NHẬT sáng 18/3: Man United gặp ác mộng về lịch thi đấu. Zidane háo hức đối đầu với Ancelotti</a>
+</h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/cap-nhat-sang-18-3-man-united-gap-ac-mong-ve-lich-thi-dau-zidane-hao-huc-doi-dau-voi-ancelotti/c/21793001.epi" title="CẬP NHẬT sáng 18/3: Man United gặp ác mộng về lịch thi đấu. Zidane háo hức đối đầu với Ancelotti" class="spr spr-cache cache">CẬP NHẬT sáng 18/3: Man United gặp ác mộng về lịch thi đấu. Zidane háo hức đối đầu với Ancelotti</a>
+</span>
+</p>
+<p class="summary">
+Dortmund giành chiến thắng trước Ingolstadt, Zlatan Ibrahimovic không sang Napoli, Man United gặp ác mộng về lịch thi đấu, Venus Williams bị loại ở Indian Wells là những tin tức...
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<figure>
+<a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/80/21793100/1_157232.jpg" alt="HLV Hữu Thắng nhận tin vui từ Xuân Trường">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+<p class="summary">
+Cầu thủ đang chơi cho CLB Gangwon (Hàn Quốc) đã bình phục hoàn toàn chấn thương, đủ sức dự trận giao hữu giữa tuyển Việt Nam và Đài Loan ngày 22/3.
+</p>
+</header>
+</article>
+<article data-aid="21793097" >
+<figure>
+<a target="_blank" href="/u23-viet-nam-o-dang-cap-khac-so-voi-dong-timor-va-macau/r/21793097.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/276/21793097/3_552813.jpg" alt="U23 Việt Nam ở đẳng cấp khác so với Đông Timor và Macau">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/u23-viet-nam-o-dang-cap-khac-so-voi-dong-timor-va-macau/r/21793097.epi" title="U23 Việt Nam ở đẳng cấp khác so với Đông Timor và Macau">U23 Việt Nam ở đẳng cấp khác so với Đông Timor và Macau</a>
+</h2>
+<p class="meta">
+<a href="/laodongthudo.vn-bao-lao-dong-thu-do-ldtd/p/310.epi">LĐTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/u23-viet-nam-o-dang-cap-khac-so-voi-dong-timor-va-macau/c/21793097.epi" title="U23 Việt Nam ở đẳng cấp khác so với Đông Timor và Macau" class="spr spr-cache cache">U23 Việt Nam ở đẳng cấp khác so với Đông Timor và Macau</a>
+</span>
+</p>
+<p class="summary">
+Ở vòng loại U23 châu Á, U23 Việt Nam sẽ chạm chán với Á quân Hàn Quốc, Đông Timor và Macau. Trong 3 đội bóng này, U23 Hàn Quốc ở một đẳng cấp khác so với các đội còn lại, trong khi...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_17" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_17" class="related-list collapse">
+<a href="/tin-lien-quan/t/2100037.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21790534">
+<figure>
+<a target="_blank" href="/u23-viet-nam-se-ha-u23-han-quoc-tai-vong-loai-u23-chau-a/r/21790534.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/105/21790534/2_118535.jpg" alt="U23 Việt Nam sẽ hạ U23 Hàn Quốc tại vòng loại U23 châu Á?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/u23-viet-nam-se-ha-u23-han-quoc-tai-vong-loai-u23-chau-a/r/21790534.epi" title="U23 Việt Nam sẽ hạ U23 Hàn Quốc tại vòng loại U23 châu Á?">U23 Việt Nam sẽ hạ U23 Hàn Quốc tại vòng loại U23 châu Á?</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-17T18:01:00+07:00"></time>
+<span>
+<a href="/u23-viet-nam-se-ha-u23-han-quoc-tai-vong-loai-u23-chau-a/c/21790534.epi" title="U23 Việt Nam sẽ hạ U23 Hàn Quốc tại vòng loại U23 châu Á?" class="spr spr-cache cache">U23 Việt Nam sẽ hạ U23 Hàn Quốc tại vòng loại U23 châu Á?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790572">
+<figure>
+<a target="_blank" href="/vong-loai-u23-chau-a-2018-thay-tro-hlv-huu-thang-cung-bang-voi-2-doi-thu-hang-long/r/21790572.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/3/21790572/1_113217.jpg" alt="Vòng loại U23 Châu Á 2018: Thầy trò HLV Hữu Thắng cùng bảng với 2 đối thủ &#39;hạng lông&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vong-loai-u23-chau-a-2018-thay-tro-hlv-huu-thang-cung-bang-voi-2-doi-thu-hang-long/r/21790572.epi" title="Vòng loại U23 Châu Á 2018: Thầy trò HLV Hữu Thắng cùng bảng với 2 đối thủ &#39;hạng lông&#39;">Vòng loại U23 Châu Á 2018: Thầy trò HLV Hữu Thắng cùng bảng với 2 đối thủ 'hạng lông'</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T17:59:00+07:00"></time>
+<span>
+<a href="/vong-loai-u23-chau-a-2018-thay-tro-hlv-huu-thang-cung-bang-voi-2-doi-thu-hang-long/c/21790572.epi" title="Vòng loại U23 Châu Á 2018: Thầy trò HLV Hữu Thắng cùng bảng với 2 đối thủ &#39;hạng lông&#39;" class="spr spr-cache cache">Vòng loại U23 Châu Á 2018: Thầy trò HLV Hữu Thắng cùng bảng với 2 đối thủ 'hạng lông'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789975">
+<figure>
+<a target="_blank" href="/xuan-truong-cong-phuong-sang-cua-vuot-qua-vong-loai-u23-chau-a/r/21789975.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/88/21789975/4_83289.jpg" alt="&#39;Xuân Trường, Công Phượng sáng cửa vượt qua vòng loại U23 châu Á&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/xuan-truong-cong-phuong-sang-cua-vuot-qua-vong-loai-u23-chau-a/r/21789975.epi" title="&#39;Xuân Trường, Công Phượng sáng cửa vượt qua vòng loại U23 châu Á&#39;">'Xuân Trường, Công Phượng sáng cửa vượt qua vòng loại U23 châu Á'</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-17T16:35:00+07:00"></time>
+<span>
+<a href="/xuan-truong-cong-phuong-sang-cua-vuot-qua-vong-loai-u23-chau-a/c/21789975.epi" title="&#39;Xuân Trường, Công Phượng sáng cửa vượt qua vòng loại U23 châu Á&#39;" class="spr spr-cache cache">'Xuân Trường, Công Phượng sáng cửa vượt qua vòng loại U23 châu Á'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790008">
+<figure>
+<a target="_blank" href="/vong-loai-u23-chau-a-u23-viet-nam-co-kha-nang-canh-tranh-tam-ve-di-tiep/r/21790008.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/43/21790008/3_84788.jpg" alt="Vòng loại U23 châu Á: U23 Việt Nam có khả năng cạnh tranh tấm vé đi tiếp"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vong-loai-u23-chau-a-u23-viet-nam-co-kha-nang-canh-tranh-tam-ve-di-tiep/r/21790008.epi" title="Vòng loại U23 châu Á: U23 Việt Nam có khả năng cạnh tranh tấm vé đi tiếp">Vòng loại U23 châu Á: U23 Việt Nam có khả năng cạnh tranh tấm vé đi tiếp</a></h2>
+<p class="meta">
+<a href="/toquoc.gov.vn-bao-to-quoc-to-quoc/p/101.epi">Tổ Quốc</a>
+<time class="friendly" datetime="2017-03-17T16:29:39+07:00"></time>
+<span>
+<a href="/vong-loai-u23-chau-a-u23-viet-nam-co-kha-nang-canh-tranh-tam-ve-di-tiep/c/21790008.epi" title="Vòng loại U23 châu Á: U23 Việt Nam có khả năng cạnh tranh tấm vé đi tiếp" class="spr spr-cache cache">Vòng loại U23 châu Á: U23 Việt Nam có khả năng cạnh tranh tấm vé đi tiếp</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793161" >
+<figure>
+<a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/r/21793161.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/7/21793161/3_93850.jpg" alt="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/r/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a>
+</h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/c/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3" class="spr spr-cache cache">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a>
+</span>
+</p>
+<p class="summary">
+- Vietnamnet cập nhật lịch thi đấu và phát sóng trực tiếp bóng đá hôm nay và rạng sáng mai.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_18" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_18" class="related-list collapse">
+<a href="/tin-lien-quan/t/2102769.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792842">
+<figure>
+<a target="_blank" href="/stoke-city-chelsea-co-hoi-nao-cho-chu-nha/r/21792842.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/94/21792842/3_64000.jpg" alt="Stoke City - Chelsea: Cơ hội nào cho chủ nhà?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/stoke-city-chelsea-co-hoi-nao-cho-chu-nha/r/21792842.epi" title="Stoke City - Chelsea: Cơ hội nào cho chủ nhà?">Stoke City - Chelsea: Cơ hội nào cho chủ nhà?</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:01:00+07:00"></time>
+<span>
+<a href="/stoke-city-chelsea-co-hoi-nao-cho-chu-nha/c/21792842.epi" title="Stoke City - Chelsea: Cơ hội nào cho chủ nhà?" class="spr spr-cache cache">Stoke City - Chelsea: Cơ hội nào cho chủ nhà?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792070">
+<figure>
+<a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-ngay-18-3-rang-sang-19-3/r/21792070.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/70/21792070/2_34163.jpg" alt="Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-ngay-18-3-rang-sang-19-3/r/21792070.epi" title="Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3">Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-17T23:15:00+07:00"></time>
+<span>
+<a href="/lich-thi-dau-truc-tiep-bong-da-ngay-18-3-rang-sang-19-3/c/21792070.epi" title="Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3" class="spr spr-cache cache">Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792888" >
+<figure>
+<a target="_blank" href="/vai-tro-cua-vff-o-dau-doi-voi-ban-trong-tai/r/21792888.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/80/21792888/1_444295.png" alt="Vai trò của VFF ở đâu đối với Ban trọng tài?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/vai-tro-cua-vff-o-dau-doi-voi-ban-trong-tai/r/21792888.epi" title="Vai trò của VFF ở đâu đối với Ban trọng tài?">Vai trò của VFF ở đâu đối với Ban trọng tài?</a>
+</h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:05:00+07:00"></time>
+<span>
+<a href="/vai-tro-cua-vff-o-dau-doi-voi-ban-trong-tai/c/21792888.epi" title="Vai trò của VFF ở đâu đối với Ban trọng tài?" class="spr spr-cache cache">Vai trò của VFF ở đâu đối với Ban trọng tài?</a>
+</span>
+</p>
+<p class="summary">
+Ban trọng tài, nhất là khâu điều hành yếu kém của trưởng ban Nguyễn Văn Mùi gây bất bình trong dư luận, nhưng người ta hầu như không thấy vai trò của VFF...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_19" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_19" class="related-list collapse">
+<a href="/tin-lien-quan/t/2098797.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792454">
+<header>
+<h2><a target="_blank" href="/ban-trong-tai-vuot-rao-vi-duoc-tro-giup/r/21792454.epi" title="Ban Trọng tài &#39;vượt rào&#39; vì được trợ giúp">Ban Trọng tài 'vượt rào' vì được trợ giúp</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T04:00:00+07:00"></time>
+<span>
+<a href="/ban-trong-tai-vuot-rao-vi-duoc-tro-giup/c/21792454.epi" title="Ban Trọng tài &#39;vượt rào&#39; vì được trợ giúp" class="spr spr-cache cache">Ban Trọng tài 'vượt rào' vì được trợ giúp</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788486">
+<figure>
+<a target="_blank" href="/phut-chot-trong-tai-thu-bi-cho-nghi-o-vong-10-v-league/r/21788486.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/43/21788486/2_82941.jpg" alt="Phút chót, trọng tài Thư bị cho nghỉ ở vòng 10 V-League"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/phut-chot-trong-tai-thu-bi-cho-nghi-o-vong-10-v-league/r/21788486.epi" title="Phút chót, trọng tài Thư bị cho nghỉ ở vòng 10 V-League">Phút chót, trọng tài Thư bị cho nghỉ ở vòng 10 V-League</a></h2>
+<p class="meta">
+<a href="/toquoc.gov.vn-bao-to-quoc-to-quoc/p/101.epi">Tổ Quốc</a>
+<time class="friendly" datetime="2017-03-17T13:58:59+07:00"></time>
+<span>
+<a href="/phut-chot-trong-tai-thu-bi-cho-nghi-o-vong-10-v-league/c/21788486.epi" title="Phút chót, trọng tài Thư bị cho nghỉ ở vòng 10 V-League" class="spr spr-cache cache">Phút chót, trọng tài Thư bị cho nghỉ ở vòng 10 V-League</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788198">
+<figure>
+<a target="_blank" href="/lat-keo-phut-chot-trong-tai-nguyen-trong-thu-lai-nghi-duong-coi/r/21788198.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/7/21788198/2_97604.jpg" alt="Lật kèo phút chót, trọng tài Nguyễn Trọng Thư lại nghỉ dưỡng còi"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lat-keo-phut-chot-trong-tai-nguyen-trong-thu-lai-nghi-duong-coi/r/21788198.epi" title="Lật kèo phút chót, trọng tài Nguyễn Trọng Thư lại nghỉ dưỡng còi">Lật kèo phút chót, trọng tài Nguyễn Trọng Thư lại nghỉ dưỡng còi</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-17T13:18:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/lat-keo-phut-chot-trong-tai-nguyen-trong-thu-lai-nghi-duong-coi/c/21788198.epi" title="Lật kèo phút chót, trọng tài Nguyễn Trọng Thư lại nghỉ dưỡng còi" class="spr spr-cache cache">Lật kèo phút chót, trọng tài Nguyễn Trọng Thư lại nghỉ dưỡng còi</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21787544">
+<figure>
+<a target="_blank" href="/trong-tai-nguyen-trong-thu-khong-duoc-lam-nhiem-vu-tai-vong-10-v-league/r/21787544.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/80/21787544/1_398136.png" alt="Trọng tài Nguyễn Trọng Thư không được làm nhiệm vụ tại vòng 10 V-League"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/trong-tai-nguyen-trong-thu-khong-duoc-lam-nhiem-vu-tai-vong-10-v-league/r/21787544.epi" title="Trọng tài Nguyễn Trọng Thư không được làm nhiệm vụ tại vòng 10 V-League">Trọng tài Nguyễn Trọng Thư không được làm nhiệm vụ tại vòng 10 V-League</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-17T11:43:00+07:00"></time>
+<span>
+<a href="/trong-tai-nguyen-trong-thu-khong-duoc-lam-nhiem-vu-tai-vong-10-v-league/c/21787544.epi" title="Trọng tài Nguyễn Trọng Thư không được làm nhiệm vụ tại vòng 10 V-League" class="spr spr-cache cache">Trọng tài Nguyễn Trọng Thư không được làm nhiệm vụ tại vòng 10 V-League</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792889" >
+<figure>
+<a target="_blank" href="/hlv-hoang-anh-tuan-va-su-menh-lich-su-voi-u20-viet-nam/r/21792889.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/80/21792889/1_40846.jpg" alt="HLV Hoàng Anh Tuấn và sứ mệnh lịch sử với U20 Việt Nam">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hlv-hoang-anh-tuan-va-su-menh-lich-su-voi-u20-viet-nam/r/21792889.epi" title="HLV Hoàng Anh Tuấn và sứ mệnh lịch sử với U20 Việt Nam">HLV Hoàng Anh Tuấn và sứ mệnh lịch sử với U20 Việt Nam</a>
+</h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:04:00+07:00"></time>
+<span>
+<a href="/hlv-hoang-anh-tuan-va-su-menh-lich-su-voi-u20-viet-nam/c/21792889.epi" title="HLV Hoàng Anh Tuấn và sứ mệnh lịch sử với U20 Việt Nam" class="spr spr-cache cache">HLV Hoàng Anh Tuấn và sứ mệnh lịch sử với U20 Việt Nam</a>
+</span>
+</p>
+<p class="summary">
+Chỉ với lối chơi phòng ngự phản công, chúng ta mới có thể hy vọng U20 Việt Nam cầm cự được với các đối thủ thuộc những nền bóng đá trên tài bóng đá Việt Nam.
+</p>
+</header>
+</article>
+<article data-aid="21792871" >
+<figure>
+<a target="_blank" href="/con-loc-canh-phai-slna-cam-than-vi-mat-co-hoi-dau-hagl/r/21792871.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/105/21792871/3_141486.jpg" alt="&#39;Cơn lốc cánh phải&#39; SLNA cảm thán vì mất cơ hội đấu HAGL">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/con-loc-canh-phai-slna-cam-than-vi-mat-co-hoi-dau-hagl/r/21792871.epi" title="&#39;Cơn lốc cánh phải&#39; SLNA cảm thán vì mất cơ hội đấu HAGL">'Cơn lốc cánh phải' SLNA cảm thán vì mất cơ hội đấu HAGL</a>
+</h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:03:00+07:00"></time>
+<span>
+<a href="/con-loc-canh-phai-slna-cam-than-vi-mat-co-hoi-dau-hagl/c/21792871.epi" title="&#39;Cơn lốc cánh phải&#39; SLNA cảm thán vì mất cơ hội đấu HAGL" class="spr spr-cache cache">'Cơn lốc cánh phải' SLNA cảm thán vì mất cơ hội đấu HAGL</a>
+</span>
+</p>
+<p class="summary">
+Chiều 18.3, SLNA sẽ tiếp HAGL ở vòng 10 V.League 10 V.League 2017. Đây là trận đấu được nhiều người chờ đợi nhưng hậu vệ cánh phải hay nhất Việt Nam thời điểm này lại không thể có...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_21" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_21" class="related-list collapse">
+<a href="/tin-lien-quan/t/2074663.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793229">
+<figure>
+<a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/255/21793229/6_276363.jpg" alt="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:53:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/c/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả" class="spr spr-cache cache">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792756">
+<figure>
+<a target="_blank" href="/gap-hagl-slna-co-lo-bao/r/21792756.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/88/21792756/2_206129.jpg" alt="Gặp HAGL, SLNA có lo &#39;bão&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gap-hagl-slna-co-lo-bao/r/21792756.epi" title="Gặp HAGL, SLNA có lo &#39;bão&#39;">Gặp HAGL, SLNA có lo 'bão'</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:18:00+07:00"></time>
+<span>
+<a href="/gap-hagl-slna-co-lo-bao/c/21792756.epi" title="Gặp HAGL, SLNA có lo &#39;bão&#39;" class="spr spr-cache cache">Gặp HAGL, SLNA có lo 'bão'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792225">
+<figure>
+<a target="_blank" href="/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/r/21792225.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/61/21792225/11_174658.jpg" alt="Khán giả Nghệ An chào đón Công Phượng trở về"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/r/21792225.epi" title="Khán giả Nghệ An chào đón Công Phượng trở về">Khán giả Nghệ An chào đón Công Phượng trở về</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T00:09:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/c/21792225.epi" title="Khán giả Nghệ An chào đón Công Phượng trở về" class="spr spr-cache cache">Khán giả Nghệ An chào đón Công Phượng trở về</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792035">
+<figure>
+<a target="_blank" href="/noi-kho-cua-que-ngoc-hai/r/21792035.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/19/21792035/2_110388.jpg" alt="Nỗi khổ của Quế Ngọc Hải"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-kho-cua-que-ngoc-hai/r/21792035.epi" title="Nỗi khổ của Quế Ngọc Hải">Nỗi khổ của Quế Ngọc Hải</a></h2>
+<p class="meta">
+<a href="/nld.com.vn-bao-nguoi-lao-dong-nld/p/15.epi">NLĐ</a>
+<time class="friendly" datetime="2017-03-17T22:35:00+07:00"></time>
+<span>
+<a href="/noi-kho-cua-que-ngoc-hai/c/21792035.epi" title="Nỗi khổ của Quế Ngọc Hải" class="spr spr-cache cache">Nỗi khổ của Quế Ngọc Hải</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792863" >
+<figure>
+<a target="_blank" href="/boc-tham-tu-ket-europa-league-man-united-lai-gap-may/r/21792863.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/107/21792863/2_24223.jpg" alt="Bốc thăm tứ kết Europa League: Man United lại gặp may">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/boc-tham-tu-ket-europa-league-man-united-lai-gap-may/r/21792863.epi" title="Bốc thăm tứ kết Europa League: Man United lại gặp may">Bốc thăm tứ kết Europa League: Man United lại gặp may</a>
+</h2>
+<p class="meta">
+<a href="/thethaovietnam.vn-bao-the-thao-viet-nam-the-thao-vn/p/63.epi">Thể Thao VN</a>
+<time class="friendly" datetime="2017-03-18T07:02:00+07:00"></time>
+<span>
+<a href="/boc-tham-tu-ket-europa-league-man-united-lai-gap-may/c/21792863.epi" title="Bốc thăm tứ kết Europa League: Man United lại gặp may" class="spr spr-cache cache">Bốc thăm tứ kết Europa League: Man United lại gặp may</a>
+</span>
+</p>
+<p class="summary">
+Sau khi dễ dàng vượt qua Saint-Etienne và Rostov, Man Utd tiếp tục gặp may ở Europa League khi họ chỉ phải gặp Anderlecht ở vòng tứ kết.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_22" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_22" class="related-list collapse">
+<a href="/tin-lien-quan/t/2099135.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792562">
+<figure>
+<a target="_blank" href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/r/21792562.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/50/21792562/4_40091.jpg" alt="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/r/21792562.epi" title="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU">Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/c/21792562.epi" title="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU" class="spr spr-cache cache">Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791410">
+<figure>
+<a target="_blank" href="/mu-boc-duoc-la-tham-may-man-o-tu-ket-europa-league/r/21791410.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/210/21791410/2_40544.jpg" alt="MU bốc được lá thăm may mắn ở tứ kết Europa League"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mu-boc-duoc-la-tham-may-man-o-tu-ket-europa-league/r/21791410.epi" title="MU bốc được lá thăm may mắn ở tứ kết Europa League">MU bốc được lá thăm may mắn ở tứ kết Europa League</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-17T20:29:00+07:00"></time>
+<span>
+<a href="/mu-boc-duoc-la-tham-may-man-o-tu-ket-europa-league/c/21791410.epi" title="MU bốc được lá thăm may mắn ở tứ kết Europa League" class="spr spr-cache cache">MU bốc được lá thăm may mắn ở tứ kết Europa League</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791343">
+<figure>
+<a target="_blank" href="/tu-ket-europa-league-man-united-gap-ong-ke/r/21791343.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/3/21791343/1_1685623.jpg" alt="Tứ kết Europa League: Man United gặp &#39;ông kẹ&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tu-ket-europa-league-man-united-gap-ong-ke/r/21791343.epi" title="Tứ kết Europa League: Man United gặp &#39;ông kẹ&#39;">Tứ kết Europa League: Man United gặp 'ông kẹ'</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T20:15:00+07:00"></time>
+<span>
+<a href="/tu-ket-europa-league-man-united-gap-ong-ke/c/21791343.epi" title="Tứ kết Europa League: Man United gặp &#39;ông kẹ&#39;" class="spr spr-cache cache">Tứ kết Europa League: Man United gặp 'ông kẹ'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791767">
+<figure>
+<a target="_blank" href="/tu-ket-europa-league-may-man-mim-cuoi-voi-m-u/r/21791767.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/16/21791767/1_37540.jpg" alt="Tứ kết Europa League: May mắn &#39;mỉm cười&#39; với M.U"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tu-ket-europa-league-may-man-mim-cuoi-voi-m-u/r/21791767.epi" title="Tứ kết Europa League: May mắn &#39;mỉm cười&#39; với M.U">Tứ kết Europa League: May mắn 'mỉm cười' với M.U</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-17T20:11:00+07:00"></time>
+<span>
+<a href="/tu-ket-europa-league-may-man-mim-cuoi-voi-m-u/c/21791767.epi" title="Tứ kết Europa League: May mắn &#39;mỉm cười&#39; với M.U" class="spr spr-cache cache">Tứ kết Europa League: May mắn 'mỉm cười' với M.U</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792842" >
+<figure>
+<a target="_blank" href="/stoke-city-chelsea-co-hoi-nao-cho-chu-nha/r/21792842.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/94/21792842/3_64000.jpg" alt="Stoke City - Chelsea: Cơ hội nào cho chủ nhà?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/stoke-city-chelsea-co-hoi-nao-cho-chu-nha/r/21792842.epi" title="Stoke City - Chelsea: Cơ hội nào cho chủ nhà?">Stoke City - Chelsea: Cơ hội nào cho chủ nhà?</a>
+</h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:01:00+07:00"></time>
+<span>
+<a href="/stoke-city-chelsea-co-hoi-nao-cho-chu-nha/c/21792842.epi" title="Stoke City - Chelsea: Cơ hội nào cho chủ nhà?" class="spr spr-cache cache">Stoke City - Chelsea: Cơ hội nào cho chủ nhà?</a>
+</span>
+</p>
+<p class="summary">
+Stoke City khó lòng gây bất ngờ trước Chelsea, khi thầy trò HLV Conte đang có phong độ cao và hừng hực khí thế, sau trận thắng MU ở FA Cup.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_23" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_23" class="related-list collapse">
+<a href="/tin-lien-quan/t/2102769.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793161">
+<figure>
+<a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/r/21793161.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/7/21793161/3_93850.jpg" alt="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/r/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/c/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3" class="spr spr-cache cache">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792070">
+<figure>
+<a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-ngay-18-3-rang-sang-19-3/r/21792070.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/70/21792070/2_34163.jpg" alt="Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-ngay-18-3-rang-sang-19-3/r/21792070.epi" title="Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3">Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-17T23:15:00+07:00"></time>
+<span>
+<a href="/lich-thi-dau-truc-tiep-bong-da-ngay-18-3-rang-sang-19-3/c/21792070.epi" title="Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3" class="spr spr-cache cache">Lịch thi đấu, trực tiếp bóng đá ngày 18/3, rạng sáng 19/3</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<div class="pagination pagination-centered">
+<span id="main_PagingList1_pager"><a class="active">1</a><a href="/bong-da/trang2.epi">2</a><a href="/bong-da/trang3.epi">3</a><a href="/bong-da/trang4.epi">4</a><a href="/bong-da/trang5.epi">5</a><a href="/bong-da/trang6.epi">6</a><a href="/bong-da/trang7.epi">...</a><a href="/bong-da/trang100.epi">100</a><a id="main_PagingList1_pager_nextControl" href="/bong-da/trang2.epi">»</a></span>
+</div>
+</section>
+<aside>
+<div class="topics" data-track="|clusters">
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_0" href="/chelsea/t/1883203.epi">#chelsea</a>
+</header>
+<article data-aid="21792051" >
+<figure>
+<a target="_blank" href="/n-golo-kante-tao-con-sot-cuong-nhiet-tu-gioi-mo-dieu/r/21792051.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/17/255/21792051/7_187408.jpg" alt="N&#39;Golo Kante tạo cơn sốt cuồng nhiệt từ giới mộ điệu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/n-golo-kante-tao-con-sot-cuong-nhiet-tu-gioi-mo-dieu/r/21792051.epi" title="N&#39;Golo Kante tạo cơn sốt cuồng nhiệt từ giới mộ điệu">N'Golo Kante tạo cơn sốt cuồng nhiệt từ giới mộ điệu</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-17T22:42:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/n-golo-kante-tao-con-sot-cuong-nhiet-tu-gioi-mo-dieu/c/21792051.epi" title="N&#39;Golo Kante tạo cơn sốt cuồng nhiệt từ giới mộ điệu" class="spr spr-cache cache">N'Golo Kante tạo cơn sốt cuồng nhiệt từ giới mộ điệu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21770131" >
+<figure>
+<a target="_blank" href="/nguoi-nhen-gigi-buffon-muon-tranh-leicester-city-o-tu-ket-champions-league-2016-17/r/21770131.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/255/21770131/5_190545.jpg" alt="Người nhện Gigi Buffon muốn tránh Leicester City ở tứ kết Champions League 2016/17"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguoi-nhen-gigi-buffon-muon-tranh-leicester-city-o-tu-ket-champions-league-2016-17/r/21770131.epi" title="Người nhện Gigi Buffon muốn tránh Leicester City ở tứ kết Champions League 2016/17">Người nhện Gigi Buffon muốn tránh Leicester City ở tứ kết Champions League 2016/17</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-15T13:16:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nguoi-nhen-gigi-buffon-muon-tranh-leicester-city-o-tu-ket-champions-league-2016-17/c/21770131.epi" title="Người nhện Gigi Buffon muốn tránh Leicester City ở tứ kết Champions League 2016/17" class="spr spr-cache cache">Người nhện Gigi Buffon muốn tránh Leicester City ở tứ kết Champions League 2016/17</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21763667" >
+<figure>
+<a target="_blank" href="/soc-mourinho-muon-dua-alexis-sanchez-va-mesut-ozil-ve-voi-m-u/r/21763667.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/255/21763667/6_179226.jpg" alt="Sốc: Mourinho muốn đưa Alexis Sanchez và Mesut Ozil về với M.U"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/soc-mourinho-muon-dua-alexis-sanchez-va-mesut-ozil-ve-voi-m-u/r/21763667.epi" title="Sốc: Mourinho muốn đưa Alexis Sanchez và Mesut Ozil về với M.U">Sốc: Mourinho muốn đưa Alexis Sanchez và Mesut Ozil về với M.U</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-14T18:29:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/soc-mourinho-muon-dua-alexis-sanchez-va-mesut-ozil-ve-voi-m-u/c/21763667.epi" title="Sốc: Mourinho muốn đưa Alexis Sanchez và Mesut Ozil về với M.U" class="spr spr-cache cache">Sốc: Mourinho muốn đưa Alexis Sanchez và Mesut Ozil về với M.U</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21760718" >
+<figure>
+<a target="_blank" href="/ong-vua-ao-den-micheal-oliver-ke-khac-tinh-mourinho/r/21760718.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/255/21760718/7_164103.jpg" alt="Ông vua áo đen Micheal Oliver, kẻ khắc tinh Mourinho"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ong-vua-ao-den-micheal-oliver-ke-khac-tinh-mourinho/r/21760718.epi" title="Ông vua áo đen Micheal Oliver, kẻ khắc tinh Mourinho">Ông vua áo đen Micheal Oliver, kẻ khắc tinh Mourinho</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-14T12:17:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ong-vua-ao-den-micheal-oliver-ke-khac-tinh-mourinho/c/21760718.epi" title="Ông vua áo đen Micheal Oliver, kẻ khắc tinh Mourinho" class="spr spr-cache cache">Ông vua áo đen Micheal Oliver, kẻ khắc tinh Mourinho</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_1" href="/vck-u20-world-cup-2017/gt/2042693.epi">VCK U20 World Cup 2017</a>
+</header>
+<article data-aid="21793192" >
+<figure>
+<a target="_blank" href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-cache cache">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792612" >
+<figure>
+<a target="_blank" href="/u20-viet-nam-nay-sinh-bat-dong-vi-chuyen-chay-cat-ganh-ta/r/21792612.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/88/21792612/4_132537.jpg" alt="U20 Việt Nam: Nảy sinh bất đồng vì chuyện chạy cát, gánh tạ?!"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/u20-viet-nam-nay-sinh-bat-dong-vi-chuyen-chay-cat-ganh-ta/r/21792612.epi" title="U20 Việt Nam: Nảy sinh bất đồng vì chuyện chạy cát, gánh tạ?!">U20 Việt Nam: Nảy sinh bất đồng vì chuyện chạy cát, gánh tạ?!</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:03:00+07:00"></time>
+<span>
+<a href="/u20-viet-nam-nay-sinh-bat-dong-vi-chuyen-chay-cat-ganh-ta/c/21792612.epi" title="U20 Việt Nam: Nảy sinh bất đồng vì chuyện chạy cát, gánh tạ?!" class="spr spr-cache cache">U20 Việt Nam: Nảy sinh bất đồng vì chuyện chạy cát, gánh tạ?!</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791170" >
+<figure>
+<a target="_blank" href="/han-quoc-cong-bo-gia-ve-xem-u20-world-cup/r/21791170.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/61/21791170/3_23670.jpg" alt="Hàn Quốc công bố giá vé xem U20 World Cup"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/han-quoc-cong-bo-gia-ve-xem-u20-world-cup/r/21791170.epi" title="Hàn Quốc công bố giá vé xem U20 World Cup">Hàn Quốc công bố giá vé xem U20 World Cup</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-17T19:45:00+07:00"></time>
+<span>
+<a href="/han-quoc-cong-bo-gia-ve-xem-u20-world-cup/c/21791170.epi" title="Hàn Quốc công bố giá vé xem U20 World Cup" class="spr spr-cache cache">Hàn Quốc công bố giá vé xem U20 World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790178" >
+<figure>
+<a target="_blank" href="/u20-viet-nam-duoc-thi-truong-cheonan-tiep-don-nong-nhiet/r/21790178.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/105/21790178/5_111254.jpg" alt="U20 Việt Nam được Thị trưởng Cheonan tiếp đón nồng nhiệt"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/u20-viet-nam-duoc-thi-truong-cheonan-tiep-don-nong-nhiet/r/21790178.epi" title="U20 Việt Nam được Thị trưởng Cheonan tiếp đón nồng nhiệt">U20 Việt Nam được Thị trưởng Cheonan tiếp đón nồng nhiệt</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-17T17:02:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/u20-viet-nam-duoc-thi-truong-cheonan-tiep-don-nong-nhiet/c/21790178.epi" title="U20 Việt Nam được Thị trưởng Cheonan tiếp đón nồng nhiệt" class="spr spr-cache cache">U20 Việt Nam được Thị trưởng Cheonan tiếp đón nồng nhiệt</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</div>
+<section class="zone" data-track="|popular">
+<header><a href="/tin-nong.epi">Tin nóng</a></header>
+<article data-aid="21792678" >
+<figure>
+<a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/100/21792678/1_138362.jpg" alt="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T06:15:00+07:00"></time>
+<span>
+<a href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/c/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La" class="spr spr-cache cache">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793191" >
+<header>
+<h2><a target="_blank" href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/r/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:44:08+07:00"></time>
+<span>
+<a href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/c/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017" class="spr spr-cache cache">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792503" >
+<header>
+<h2><a target="_blank" href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T05:04:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/c/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục" class="spr spr-cache cache">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792925" >
+<header>
+<h2><a target="_blank" href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/r/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:05:00+07:00"></time>
+<span>
+<a href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/c/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?" class="spr spr-cache cache">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792758" >
+<header>
+<h2><a target="_blank" href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T06:38:00+07:00"></time>
+<span>
+<a href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/c/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?" class="spr spr-cache cache">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792564" >
+<header>
+<h2><a target="_blank" href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/r/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/c/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột" class="spr spr-cache cache">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<header>
+<h2><a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792830" >
+<header>
+<h2><a target="_blank" href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/c/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt" class="spr spr-cache cache">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792702" >
+<header>
+<h2><a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:10:00+07:00"></time>
+<span>
+<a href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/c/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" class="spr spr-cache cache">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<header>
+<h2><a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-cache cache">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</aside>
+</div>
+</section>
+<section class="sidebar">
+<div class="fyi-300 nocontent robots-nocontent" style="display:none;" id="BaoMoi_HalfPage"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R1"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R2"></div>
+<section id="photo-box" data-track="|video">
+<header>
+<h6>
+<a href="/tin-video.epi">Video</a>
+</h6>
+</header>
+<div class="slider">
+<article data-aid="21793255" >
+<figure>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/293/21793255/4_366004.png" alt="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">
+</a>
+</figure>
+<header>
+<h2><a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-18T08:00:17+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/r/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?" class="spr spr-more" target="_blank">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">
+</a>
+</figure>
+<header>
+<h2><a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-more" target="_blank">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793200" >
+<figure>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/255/21793200/3_154934.jpg" alt="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">
+</a>
+</figure>
+<header>
+<h2><a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/r/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh" class="spr spr-more" target="_blank">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793119" >
+<figure>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/88/21793119/3_70096.jpg" alt="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">
+</a>
+</figure>
+<header>
+<h2><a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:40:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/r/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương" class="spr spr-more" target="_blank">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793101" >
+<figure>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/139/21793101/1_37764.jpg" alt="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+</a>
+</figure>
+<header>
+<h2><a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-more" target="_blank">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793240" >
+<figure>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/301/21793240/1_144150.jpg" alt="Một tháng trong quân ngũ của Á khôi áo dài">
+</a>
+</figure>
+<header>
+<h2><a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài">Một tháng trong quân ngũ của Á khôi áo dài</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/r/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài" class="spr spr-more" target="_blank">Một tháng trong quân ngũ của Á khôi áo dài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793205" >
+<figure>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/66/21793205/2_91393.jpg" alt="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">
+</a>
+</figure>
+<header>
+<h2><a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-18T07:31:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/r/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ" class="spr spr-more" target="_blank">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793074" >
+<figure>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/25/21793074/2_67136.jpg" alt="Mỹ công bố 750 video thử nghiệm bom hạt nhân">
+</a>
+</figure>
+<header>
+<h2><a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:29:52+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/r/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân" class="spr spr-more" target="_blank">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793192" >
+<figure>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+</a>
+</figure>
+<header>
+<h2><a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-more" target="_blank">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793140" >
+<figure>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">
+</a>
+</figure>
+<header>
+<h2><a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-more" target="_blank">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<section id="soccer-landing" class="soccer-landing">
+<header>
+<h6>
+<a href="javascript:;">Bảng xếp hạng bóng đá</a>
+</h6>
+</header>
+</section>
+<section class="top-story">
+<ul class=" tab-header">
+<li class="active"><a href="#most-read" data-toggle="tab">Nóng trong ngày</a></li>
+<li><a href="#most-read7" data-toggle="tab">Trong tuần</a></li>
+</ul>
+<div id="top-story" class="tab-content">
+<div class="tab-pane active" id="most-read" data-track="|mostread">
+</div>
+<div class="tab-pane fade" id="most-read7" data-track="|mostread7">
+</div>
+</div>
+</section>
+<section class="social-idx">
+<header>
+<h6><a href="javascript:;">Theo dõi Báo Mới</a></h6>
+</header>
+<div class="social">
+<a href="https://www.facebook.com/baomoi/" target="_blank" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Fanpage</span>
+</a>
+<a href="https://www.facebook.com/baomoigiaitri/" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Giải Trí</span>
+</a>
+<a href="https://noti.baomoi.com/" target="_blank" class="noti">
+<span><i class="spr social-noti"></i></span>
+<span>Gửi tin nóng<br>
+cho bạn</span>
+</a>
+<a href="https://plus.google.com/+baomoi/posts" target="_blank" class="gplus">
+<span><i class="spr social-gplus"></i></span>
+<span>Google<br>
+Plus</span>
+</a>
+</div>
+</section>
+<section id="trending-list" data-track="|trending">
+<header>
+<h6>
+<a href="javascript:;">Xu hướng</a>
+</h6>
+</header>
+<div class="trending">
+<span class=" w19"><a href="/tag/bayern.epi">Bayern</a></span>
+<span class="down w3"><a href="/tag/u23-châu-á-2018.epi">U23 châu Á 2018</a></span>
+<span class="down w2"><a href="/tag/europa-league.epi">Europa League</a></span>
+<span class="down w20"><a href="/tag/marcos-rojo.epi">Marcos Rojo</a></span>
+<span class=" w17"><a href="/tag/u23-macau.epi">U23 Macau</a></span>
+<span class="up w12"><a href="/tag/leicester.epi">Leicester</a></span>
+<span class=" w4"><a href="/tag/carlo-ancelotti.epi">Carlo Ancelotti</a></span>
+<span class=" w15"><a href="/tag/sông-lam-nghệ-an.epi">Sông Lam Nghệ An</a></span>
+<span class="down w5"><a href="/tag/besiktas.epi">Besiktas</a></span>
+<span class=" w16"><a href="/tag/u20-việt-nam.epi">U20 Việt Nam</a></span>
+<span class="down w9"><a href="/tag/josé-mourinho.epi">José Mourinho</a></span>
+<span class=" w14"><a href="/tag/đông-timor.epi">đông timor</a></span>
+<span class=" w18"><a href="/tag/champions-league.epi">champions league</a></span>
+<span class="up w11"><a href="/tag/u23-vn.epi">U23 VN</a></span>
+<span class="down w10"><a href="/tag/fc-rostov.epi">FC Rostov</a></span>
+<span class="up w7"><a href="/tag/juventus.epi">juventus</a></span>
+<span class="up w13"><a href="/tag/u23.epi">U23</a></span>
+<span class="up w8"><a href="/tag/uefa.epi">UEFA</a></span>
+<span class="up w6"><a href="/tag/monaco.epi">Monaco</a></span>
+<span class="down w1"><a href="/tag/anderlecht.epi">Anderlecht</a></span>
+</div>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_MiddleRight_1"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R3"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R4"></div>
+</section>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime">Cung cấp trong: 12.15 ms.</p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

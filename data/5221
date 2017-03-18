@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khám phá thế giới đồ ăn vặt bên bến Ninh Kiều - ĐTCK
+</title><meta name="keywords" content="Bến Ninh Kiều,Đường Phan Bội Châu,Người Chăm,tan tầm,Phan Chu Trinh,buffet,giải khát,đạo hồi,ẩm thực,Hậu Giang,Cần Thơ,tranh thủ,chế biến" /><meta name="description" content="Bến Ninh Kiều ở Cần Thơ nổi tiếng với những nhà hàng đặc sản miệt vườn san sát. Nhưng nếu muốn thưởng thức trọn vẹn thế giới ẩm thực đầy màu sắc, hãy đến dã..." />
+<link rel="canonical" href="http://www.baomoi.com/kham-pha-the-gioi-do-an-vat-ben-ben-ninh-kieu/c/21790485.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790485" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790485" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://tinnhanhchungkhoan.vn/xa-hoi/kham-pha-the-gioi-do-an-vat-ben-ben-ninh-kieu-181146.html");
+else
+window.location.replace("http://www.baomoi.com/kham-pha-the-gioi-do-an-vat-ben-ben-ninh-kieu/c/21790485.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

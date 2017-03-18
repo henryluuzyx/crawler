@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hoa gạo bung cánh cho mùa xuân chín đỏ - ĐTCK
+</title><meta name="keywords" content="Mộc Miên,Xuân Diệu,siêu thoát,nương tựa,việt nam" /><meta name="description" content="Tháng 3, hoa gạo rực lửa một góc trời, “đốt” mùa xuân chín đỏ. Giữa thời khắc giao mùa, người ta thường có một cảm xúc man mác khó gọi thành tên. Thân thươn..." />
+<link rel="canonical" href="http://www.baomoi.com/hoa-gao-bung-canh-cho-mua-xuan-chin-do/c/21793242.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793242" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793242" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://tinnhanhchungkhoan.vn/xa-hoi/hoa-gao-bung-canh-cho-mua-xuan-chin-do-181145.html");
+else
+window.location.replace("http://www.baomoi.com/hoa-gao-bung-canh-cho-mua-xuan-chin-do/c/21793242.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trên 1.300 xe bị đình chỉ khai thác tuyến, thu hồi phù hiệu - Thanh Tra
+</title><meta name="keywords" content="thu hồi,đình chỉ,vi phạm,vận tải,sở giao thông vận tải,giám sát,Lạng Sơn,Lai Châu,khai thác,Sơn La,Yên Bái,Phú Thọ,chấn chỉnh,Quảng Trị,Hòa Bình,Bình Định,Quảng Ngãi,cục đường bộ việt nam,Quảng Ninh,chỉ đạo" /><meta name="description" content="Theo kết quả phân tích dữ liệu giám sát hành trình (GSHT) vừa được Tổng cục Đường bộ Việt Nam (ĐBVN) công bố, trong 2 tháng đầu năm 2017, các sở giao thông ..." />
+<link rel="canonical" href="http://www.baomoi.com/tren-1-300-xe-bi-dinh-chi-khai-thac-tuyen-thu-hoi-phu-hieu/c/21792002.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792002" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792002" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhtra.com.vn/xa-hoi/an-toan-giao-thong/tren-1300-xe-bi-dinh-chi-khai-thac-tuyen-thu-hoi-phu-hieu_t114c1146n116432");
+else
+window.location.replace("http://www.baomoi.com/tren-1-300-xe-bi-dinh-chi-khai-thac-tuyen-thu-hoi-phu-hieu/c/21792002.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

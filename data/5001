@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trump: Triều Tiên hành xử tệ, Trung Quốc không giúp gì nhiều - VietTimes
+</title><meta name="keywords" content="Rex Tillerson,triều tiên,ngoại trưởng mỹ,vũ khí hạt nhân,hàn quốc,ngoại giao,Yun Byung-se,Trung Quốc,Mỹ,châu á,bắc kinh,seoul,Trump,Twitter,Donald Trump,Mỹ Trump,thực thi" /><meta name="description" content="Sáng nay, 17/3, Tổng thống Mỹ Trump đã viết trên trang Twitter: “Triều Tiên hành xử rất tệ. Họ “chơi khăm” nước Mỹ suốt nhiều năm. Trung Quốc thì chẳng làm ..." />
+<link rel="canonical" href="http://www.baomoi.com/trump-trieu-tien-hanh-xu-te-trung-quoc-khong-giup-gi-nhieu/c/21791906.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791906" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791906" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://viettimes.vn/trump-trieu-tien-hanh-xu-te-trung-quoc-khong-giup-gi-nhieu-113922.html");
+else
+window.location.replace("http://www.baomoi.com/trump-trieu-tien-hanh-xu-te-trung-quoc-khong-giup-gi-nhieu/c/21791906.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

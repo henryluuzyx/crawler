@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tạo chuyển biến về công khai thông tin của cơ quan hành chính nhà nước - Nhân Dân
+</title><meta name="keywords" content="chỉ thị,bãi bỏ,quán triệt,sửa đổi,nhận thức,rà soát,bảo đảm,đề xuất,giáo dục,chỉ đạo" /><meta name="description" content="Thủ tướng Chính phủ vừa có Chỉ thị 08/CT-TTg về việc triển khai thi hành Luật Tiếp cận thông tin (TCTT). Chỉ thị nêu rõ, Luật TCTT số 104/2016/QH13 có hiệu ..." />
+<link rel="canonical" href="http://www.baomoi.com/tao-chuyen-bien-ve-cong-khai-thong-tin-cua-co-quan-hanh-chinh-nha-nuoc/c/21792422.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792422" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792422" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/chinhtri/item/32341802-tao-chuyen-bien-ve-cong-khai-thong-tin-cua-co-quan-hanh-chinh-nha-nuoc.html");
+else
+window.location.replace("http://www.baomoi.com/tao-chuyen-bien-ve-cong-khai-thong-tin-cua-co-quan-hanh-chinh-nha-nuoc/c/21792422.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

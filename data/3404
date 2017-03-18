@@ -1,0 +1,323 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, target-densitydpi=device-dpi" />
+    <title>Báo VietNamNet</title>
+    <link rel="stylesheet" href="css/idangerous.swiper.css" />
+    <link rel="stylesheet" href="css/idangerous.swiper.scrollbar.css" />
+    <link rel="stylesheet" href="css/index.css" />
+    <script type="text/javascript" src="phonegap.js"></script>
+    <script type="text/javascript" src="Connection.js"></script>
+    <script type="text/javascript" src="network.js"></script>
+    <script type="text/javascript" src="notification.js"></script>
+    <script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="js/idangerous.swiper-2.4.min.js"></script>
+    <script type="text/javascript" src="js/idangerous.swiper.scrollbar-2.4.js"></script>
+    <script type="text/javascript" src="js/jquery.lazyload.min.js"></script>
+    <script type="text/javascript" src="js/mobile.initization.js"></script>
+    <script type="text/javascript" src="js/mobile.page.js"></script>
+    <script type="text/javascript" src="js/mobile.panel.js"></script>
+    <script type="text/javascript" src="js/mobile.page.homepage.js"></script>
+    <script type="text/javascript" src="js/mobile.panel.hotnews.js"></script>
+    <script type="text/javascript" src="js/mobile.panel.categories.js"></script>
+    <script type="text/javascript" src="js/mobile.page.detail.js"></script>
+    <script type="text/javascript" src="js/mobile.page.comments.js"></script>
+    <script type="text/javascript" src="js/mobile.page.gallery.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            mobile.init();
+
+            setInterval(function () {
+                if (Math.floor(Math.random() * 10) <= 3) {
+                    $('#btn-gift').show();
+                    setTimeout(function () {
+                        $('#btn-gift').hide();
+                    }, 5000)
+                } else {
+                    $('#btn-gift').hide();
+                }
+            }, 10000)
+        });
+    </script>
+</head>
+<body>
+    <div class="vnn-header">
+        <span id="btn-homepage"><img alt="Trang chủ" title="Trang chủ" src="img/logo.png" /></span>
+        <img id="btn-refresh" class="btn-nav" alt="Quay lại" title="Quay lại" src="img/refresh.png" />
+        <img id="btn-help" class="btn-nav" alt="Thông tin" title="Thông tin" src="img/questionmark.png" />
+        <span id="btn-comments" style="display:none;">0</span>
+        <a id="btn-gift" href="index2.html" style="display:none;"><img class="btn-nav" alt="Đặc biệt" title="Đặc biệt" src="img/gift.png" /></a>
+        <br class="clear" />
+    </div>
+
+    <div id="homepage" class="mobile-page mobile-page-default">
+        <div id="homepage-panel" class="mobile-panel">
+            <div id="homepage-panel-swiper" class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div id="hotnews" class="mobile-panel swiper-slide">
+                        <div id="hotnews-header">
+                            Tiêu điểm
+                        </div>
+                        <div id="hotnews-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="hotnews-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="chinh-tri" class="mobile-panel swiper-slide panel">
+                        <div id="chinh-tri-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Chính trị
+                            </div>
+                        </div>
+                        <div id="chinh-tri-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="chinh-tri-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="xa-hoi" class="mobile-panel swiper-slide panel">
+                        <div id="xa-hoi-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Xã hội
+                            </div>
+                        </div>
+                        <div id="xa-hoi-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="xa-hoi-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="quoc-te" class="mobile-panel swiper-slide panel">
+                        <div id="quoc-te-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Quốc tế
+                            </div>
+                        </div>
+                        <div id="quoc-te-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="quoc-te-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="giao-duc" class="mobile-panel swiper-slide panel">
+                        <div id="giao-duc-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Giáo dục
+                            </div>
+                        </div>
+                        <div id="giao-duc-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="giao-duc-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="kinh-te" class="mobile-panel swiper-slide panel">
+                        <div id="kinh-te-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Kinh tế
+                            </div>
+                        </div>
+                        <div id="kinh-te-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="kinh-te-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="van-hoa" class="mobile-panel swiper-slide panel">
+                        <div id="van-hoa-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Văn hóa
+                            </div>
+                        </div>
+                        <div id="van-hoa-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="van-hoa-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="doi-song" class="mobile-panel swiper-slide panel">
+                        <div id="doi-song-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Đời sống
+                            </div>
+                        </div>
+                        <div id="doi-song-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="doi-song-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="cong-nghe-thong-tin-vien-thong" class="mobile-panel swiper-slide panel">
+                        <div id="cong-nghe-thong-tin-vien-thong-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                CNTT - Viễn thông
+                            </div>
+                        </div>
+                        <div id="cong-nghe-thong-tin-vien-thong-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="cong-nghe-thong-tin-vien-thong-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="khoa-hoc" class="mobile-panel swiper-slide panel">
+                        <div id="khoa-hoc-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Khoa học
+                            </div>
+                        </div>
+                        <div id="khoa-hoc-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="khoa-hoc-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="ban-doc-phap-luat" class="mobile-panel swiper-slide panel">
+                        <div id="ban-doc-phap-luat-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Bạn đọc
+                            </div>
+                        </div>
+                        <div id="ban-doc-phap-luat-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="ban-doc-phap-luat-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="chuyen-trang-oto-xemay" class="mobile-panel swiper-slide panel">
+                        <div id="chuyen-trang-oto-xemay-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Ô tô - Xe máy
+                            </div>
+                        </div>
+                        <div id="chuyen-trang-oto-xemay-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="chuyen-trang-oto-xemay-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="xa-hoi-an-toan-giao-thong" class="mobile-panel swiper-slide panel">
+                        <div id="xa-hoi-an-toan-giao-thong-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                An toàn giao thông
+                            </div>
+                        </div>
+                        <div id="xa-hoi-an-toan-giao-thong-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="xa-hoi-an-toan-giao-thong-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="bao-ve-nguoi-tieu-dung" class="mobile-panel swiper-slide panel">
+                        <div id="bao-ve-nguoi-tieu-dung-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Bảo vệ người tiêu dùng
+                            </div>
+                        </div>
+                        <div id="bao-ve-nguoi-tieu-dung-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="bao-ve-nguoi-tieu-dung-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="ban-doc-phap-luat-chia-se" class="mobile-panel swiper-slide panel">
+                        <div id="ban-doc-phap-luat-chia-se-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Chia sẻ
+                            </div>
+                        </div>
+                        <div id="ban-doc-phap-luat-chia-se-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="ban-doc-phap-luat-chia-se-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="doi-song-du-lich" class="mobile-panel swiper-slide panel">
+                        <div id="doi-song-du-lich-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Du lịch
+                            </div>
+                        </div>
+                        <div id="doi-song-du-lich-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="doi-song-du-lich-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                    <div id="the-gioi-anh" class="mobile-panel swiper-slide panel">
+                        <div id="the-gioi-anh-header" class="pnl-title">
+                            <div class="pnl-title-name">
+                                Thế giới ảnh
+                            </div>
+                        </div>
+                        <div id="the-gioi-anh-swiper" class="articles swiper-container">
+                            <div class="swiper-wrapper">
+                            </div>
+                        </div>
+                        <div id="the-gioi-anh-scrollbar" class="articles-scrollbar swiper-scrollbar"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="detail" class="mobile-page">
+        <div id="detail-panel" class="mobile-panel">
+            <div id="detail-panel-swiper" class="swiper-container">
+                <div class="swiper-wrapper">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="comments" class="mobile-page vnn-comments">
+        <div class="cmt-top">&nbsp;</div>
+        <div id="comments-panel" class="mobile-panel">
+            <div id="comments-panel-swiper" class="swiper-container">
+                <div class="swiper-wrapper">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="gallery" class="mobile-page vnn-gallery">
+        <div id="btn-gallery-close" class="gallery-close"><img alt="Đóng" title="Đóng" src="img/cancel.png" /></div>
+        <div id="gallery-content" class="mobile-panel">
+            <div id="gallery-content-swiper" class="swiper-container swiper-content">
+                <div class="swiper-wrapper">
+                </div>
+            </div>
+        </div>
+        <div id="gallery-nav" class="mobile-panel">
+            <div id="gallery-nav-swiper" class="swiper-container swiper-nav">
+                <div class="swiper-wrapper">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mobile-page vnn-copyright" style="display:none;">
+        <p>&copy; 1997-2014 Báo VietNamNet. All rights reserved.</p>
+        <p>&reg; Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý bằng văn bản của báo VietNamNet.</p>
+    </div>
+
+    <div class="mobile-page vnn-menu" style="display:none;">
+    </div>
+
+    <div id="btn-back" class="btn-control" style="display:none;"><img alt="Quay lại" title="Quay lại" src="img/back.png" /></div>
+    <div id="btn-next" class="btn-control" style="display:none;"><img alt="Tin tiếp theo" title="Tin tiếp theo" src="img/next.png" /></div>
+    <div id="btn-gallery" class="btn-control" style="display:none;"><img alt="Xem chùm ảnh" title="Xem chùm ảnh" src="img/camera.png" /></div>
+    <div id="btn-top" class="btn-control" style="display:none;"><img alt="Lên đầu trang" title="Lên đầu trang" src="img/upload.png" /></div>
+
+    <div class="mobile-loading" style="display:none;" queue="0">
+        &nbsp;
+    </div>
+
+    <div class="mobile-splash">
+        &nbsp;
+    </div>
+</body>
+</html>
+

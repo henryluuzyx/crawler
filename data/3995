@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tin thời tiết ngày 18/3: Mưa dông bao phủ trên cả nước - Gia Đình VN
+</title><meta name="keywords" content="32oC Tây Nguyên,34oC Nam Bộ,bắc bộ,Bình Thuận,Thừa Thiên-Huế,thời tiết,24oC An Nguyên,nam bộ,nắng nóng,Thanh Hóa,Trung Bộ,Đà Nẵng,35oC Hà Nội,miền đông" /><meta name="description" content="Tin thời tiết ngày 18/3 theo TTKTTV, thời tiết mưa vừa và dông phổ biến nhiều nơi trên cả nước." />
+<link rel="canonical" href="http://www.baomoi.com/tin-thoi-tiet-ngay-18-3-mua-dong-bao-phu-tren-ca-nuoc/c/21792531.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792531" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792531" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.giadinhvietnam.com/thoi-tiet/tin-thoi-tiet-ngay-183-mua-dong-bao-phu-tren-ca-nuoc-d109365.html");
+else
+window.location.replace("http://www.baomoi.com/tin-thoi-tiet-ngay-18-3-mua-dong-bao-phu-tren-ca-nuoc/c/21792531.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

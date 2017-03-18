@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tin buồn - ANTĐ
+</title><meta name="keywords" content="Nguyễn Trúc,Thụy Văn,bệnh viện việt xô,quyết tử,Lê Nghĩa,Thụy Anh,đài hóa thân hoàn vũ,Trần Thánh Tông,Văn Điển,Thái Thụy,công an thành phố hà nội,Đinh Dậu,Thanh Trì,Thái Bình,bộ quốc phòng,Hà Nội,Mỹ" /><meta name="description" content="Ban Thường vụ Đảng ủy - Ban Giám đốc Công an thành phố Hà Nội và gia đình vô cùng thương tiếc báo tin:" />
+<link rel="canonical" href="http://www.baomoi.com/tin-buon/c/21792217.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792217" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792217" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://anninhthudo.vn/doi-song/tin-buon/721631.antd");
+else
+window.location.replace("http://www.baomoi.com/tin-buon/c/21792217.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

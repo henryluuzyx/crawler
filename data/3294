@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Costa tuyên bố khiến Real Madrid mừng thầm - Bóng Đá
+</title><meta name="keywords" content="real madrid,Diego Costa,Manchester United,chelsea,đàm phán,thi đấu,tây ban nha,Báo Thể thao Việt Nam,Thibaut Courtois,barcelona,Giải bóng đá ngoại hạng Anh,Eden Hazard,Cúp FA,Atletico Madrid,người Tây Ban Nha,primera,Daily Mail,Trung Quốc,chuyển nhượng,trình diễn,vi-đê-ô" /><meta name="description" content="Real Madrid có lẽ sẽ rất vui khi biết được thông tin mà Diego Costa vừa tiết lộ mới đây." />
+<link rel="canonical" href="http://www.baomoi.com/costa-tuyen-bo-khien-real-madrid-mung-tham/c/21763800.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21763800" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21763800" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.bongda.com.vn/costa-tuyen-bo-khien-real-madrid-mung-tham-d384382.html");
+else
+window.location.replace("http://www.baomoi.com/costa-tuyen-bo-khien-real-madrid-mung-tham/c/21763800.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

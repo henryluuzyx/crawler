@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Các mức xử lý vi phạm kết cấu giao thông đường bộ - Hà Nội Mới
+</title><meta name="keywords" content="xử phạt,vi phạm,Nguyễn Thế Hưng,Bắc Từ Liêm,cải tạo,trái phép,bảo vệ" /><meta name="description" content="Người dù đang không điều khiển phương tiện giao thông, song có hành vi vi phạm kết cấu giao thông đường bộ có bị xử phạt hành chính trong lĩnh vực đường bộ,..." />
+<link rel="canonical" href="http://www.baomoi.com/cac-muc-xu-ly-vi-pham-ket-cau-giao-thong-duong-bo/c/21758138.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21758138" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21758138" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://hanoimoi.com.vn/Tin-tuc/LS-bandoc/864319/cac-muc-xu-ly-vi-pham-ket-cau-giao-thong-duong-bo-");
+else
+window.location.replace("http://www.baomoi.com/cac-muc-xu-ly-vi-pham-ket-cau-giao-thong-duong-bo/c/21758138.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

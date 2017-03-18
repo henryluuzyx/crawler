@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cảnh vỉa hè Hà Nội như 'bãi chiến trường' sau khi đập bậc tam cấp - Kiến Thức
+</title><meta name="keywords" content="Đường Xã Đàn,Nguyễn Thu Trang,Xã Đàn,Chùa Bộc,Nguyễn Lương Bằng,hoàng hoa thám,mỹ quan đô thị,tôn đức thắng,lấn chiếm,chấn chỉnh,an toàn giao thông,vi phạm,Hà Nội" /><meta name="description" content="Nhiều vỉa hè Hà Nội ngổn ngang gạch vữa như &quot;bãi chiến trường&quot; sau khi cơ quan chức năng đập bỏ bậc tam cấp, giành lại vỉa hè cho người đi bộ." />
+<link rel="canonical" href="http://www.baomoi.com/canh-via-he-ha-noi-nhu-bai-chien-truong-sau-khi-dap-bac-tam-cap/c/21793049.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793049" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793049" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kienthuc.net.vn/xa-hoi/canh-via-he-ha-noi-nhu-bai-chien-truong-sau-khi-dap-bac-tam-cap-840948.html");
+else
+window.location.replace("http://www.baomoi.com/canh-via-he-ha-noi-nhu-bai-chien-truong-sau-khi-dap-bac-tam-cap/c/21793049.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

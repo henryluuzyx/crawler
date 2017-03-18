@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Vụ xe đi đám cưới gặp nạn: các nạn nhân giờ ra sao? - PLO
+</title><meta name="keywords" content="Kim Bảng,Hà Nam,Thanh Sơn,Phủ Lý,cấp cứu,Hòa Bình,Hà Nội,Thái Bình,xuất viện,Đỗ Trung Đông,quốc lộ 1a,bệnh viện việt đức" /><meta name="description" content="Trong số bốn nạn nhân bị thương nặng nhất, có hai người được chuyển lên bệnh viện Hữu Nghị Việt Đức (Hà Nội) để tiếp tục điều trị." />
+<link rel="canonical" href="http://www.baomoi.com/vu-xe-di-dam-cuoi-gap-nan-cac-nan-nhan-gio-ra-sao/c/21789264.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789264" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789264" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/an-ninh-trat-tu/vu-xe-di-dam-cuoi-gap-nan-cac-nan-nhan-gio-ra-sao-689408.html");
+else
+window.location.replace("http://www.baomoi.com/vu-xe-di-dam-cuoi-gap-nan-cac-nan-nhan-gio-ra-sao/c/21789264.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

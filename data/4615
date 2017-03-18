@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta property="fb:app_id" content="1547540628876392" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Vnexpress.net" />
+<meta name="tt_category_id" content="1001006" />
+<meta name="tt_article_id" content="3490410" />
+<meta name="tt_site_id" content="1000000" />
+<meta name="tt_page_type" content="article" />
+<!-- iPad icons -->
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/72x72.png" sizes="72x72">
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="144x144">
+<!-- iPhone and iPod touch icons -->
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/57x57.png" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="114x114">
+<!-- Nokia Symbian -->
+<link rel="nokia-touch-icon" href="http://st.f1.vnexpress.net/images/logos/57x57.png">
+<!-- Android icon precomposed so it takes precedence -->
+<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="1x1">
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,vietnamese,latin-ext' rel='stylesheet' type='text/css'>
+<title>Chọn màu ôtô theo phong thủy</title>
+<link media="all" href="http://st.f3.vnecdn.net/responsive/c/v41/general.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&subset=latin-ext,vietnamese" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+<link href="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/css/animate.min.css" rel="stylesheet" />
+<link href="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/css/jquery.fancybox.css" rel="stylesheet" />
+<link href="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/css/phong_thuyxe.css" rel="stylesheet" type="text/css" />
+
+<meta content="Vào mùa mua xe cuối năm, VnExpress xin giới thiệu lại cách chọn màu theo tuổi để độc giả dễ lựa chọn." itemprop="keywords" name="keywords"/> 
+<meta property="og:url" itemprop="url" content="http://vnexpress.net/interactive/2016/phong-thuy" />
+<meta property="og:image" itemprop="thumbnailUrl" content="http://img.f31.vnecdn.net/2016/10/28/Auto-Porsche-Green-Porsche-Macan-058308-1477620646.jpg" />
+<meta content="Chọn màu ôtô theo phong thủy - VnExpress" itemprop="headline" property="og:title" /> 
+<meta content="Vào mùa mua xe cuối năm, VnExpress xin giới thiệu lại cách chọn màu theo tuổi để độc giả dễ lựa chọn." itemprop="description" property="og:description"/> 
+<meta content="article" property="og:type"/>  
+<script language="javascript" type="text/javascript">
+     var interactions_url    = "http://usi.saas.vnexpress.net";
+     var base_url            = "http://vnexpress.net";
+     var css_url             = "http://st.f3.vnecdn.net/responsive/c/v23";
+     var js_url              = "http://st.f2.vnecdn.net/responsive/j/v16";
+     var flash_url           = "http://st.f1.vnecdn.net/responsive/f/v24";
+     var img_url             = "http://st.f1.vnecdn.net/responsive/i/v41";
+     var image_cloud         = "http://l.f29.img.vnecdn.net";
+     var PageHot             =  0;
+     var device_env          =  4;
+     var site_id             =  1000000;
+     var SITE_ID             =  1000000;
+     var PAGE_FOLDER         =  1001006;
+     var PAGE_DETAIL         =  1     //setTypingMode(1);
+     document.domain = "vnexpress.net";
+</script>
+<!-- TRACKING GOOGLE -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-29374284-8', 'auto', {'name': 't3'});ga('t3.send', 'pageview');  
+	  ga('create', 'UA-50285069-16', 'auto', {'name': 'te'});
+	</script>
+	<!-- END TRACKING GOOGLE -->
+	<!-- TRACKING ECLICK -->
+	<script type="text/javascript">
+	if(PAGE_FOLDER==1000000)
+	{
+		var _siteId = "6";
+		/// track cu trang chu//
+		   (function(){
+			var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";
+			var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+	 }
+	 else
+	 {
+				var _siteId = "5";
+		// track cu trang con //  
+		(function(){
+		var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";
+		var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+	 }
+	</script>
+	<!-- END TRACKING ECLICK -->
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PD4X6"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5PD4X6');</script>
+	<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N3FNJF');</script>
+    <!-- End Google Tag Manager -->
+	<!-- Begin comScore Tag -->
+	<script type="text/javascript">
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "19747654" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=19747654&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+
+</head>
+<body>
+<div class="logo"><a href="/"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/logo.png" /></a></div>
+<div id="fullpage">
+<!------------------- Section Page 1 ----------------------->
+	<div class="section" id="section0">
+		<div class="intro">
+			<h1>Ngũ hành và màu sắc</h1>
+			<div>
+				<div class="tab_faq">
+					<div class="tab_content" id="tab1">
+						<div class="ngu_hanh">
+							<div class="xe_nguhanh"><a><img class="wow bounceInRight animated"  data-wow-delay="1.0s" style="visibility: visible; animation-delay: 1.5s; animation-name: bounceInRight;" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/xe_nguhanh.png" /></a></div>
+						</div>					
+					</div>
+					<div class="tab_content" id="tab2">
+						<div class="tuong_sinh">
+							<div class="warp">
+								<div class="Item menh_moc">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xemoc.png" /></div>
+										<div class="banh_xe1">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Mộc</span>
+								</div>																
+								<div class="Item menh_hoa">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xehoa.png" /></div>
+										<div class="banh_xe2">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Hỏa</span>
+								</div>									
+								<div class="Item menh_tho">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xetho.png" /></div>
+										<div class="banh_xe3">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Thổ</span>
+								</div>							
+								<div class="Item menh_kim">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xekim.png" /></div>
+										<div class="banh_xe4">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Kim</span>
+								</div>								
+								<div class="Item menh_thuy">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xethuy.png" /></div>
+										<div class="banh_xe5">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Thủy</span>
+								</div>	
+								<div class="vec_to">
+									<div class="vec_to1"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TS_1_Moc_Hoa.png" /></div>
+									<div class="vec_to2"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TS_2_Hoa_Tho.png" /></div>
+									<div class="vec_to3"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TS_3_Tho_Kim.png" /></div>
+									<div class="vec_to4"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TS_4_Kim_Thuy.png" /></div>
+									<div class="vec_to5"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TS_5_Thuy_Moc.png" /></div>								
+								</div>
+							</div>
+						</div>
+					</div>	
+					<div class="tab_content" id="tab3">
+						<div class="tuong_khac">
+							<div class="warp">
+								<div class="Item menh_moc">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xemoc.png" /></div>
+										<div class="banh_xe1">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Mộc</span>
+								</div>																
+								<div class="Item menh_hoa">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xehoa.png" /></div>
+										<div class="banh_xe2">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Hỏa</span>
+								</div>									
+								<div class="Item menh_tho">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xetho.png" /></div>
+										<div class="banh_xe3">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Thổ</span>
+								</div>							
+								<div class="Item menh_kim">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xekim.png" /></div>
+										<div class="banh_xe4">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Kim</span>
+								</div>								
+								<div class="Item menh_thuy">
+									<div class="warp_scoll">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xethuy.png" /></div>
+										<div class="banh_xe5">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>
+									</div>
+									<span>Mệnh Thủy</span>
+								</div>
+								<div class="vec_to">
+									<div class="vec_to1"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TK_1_Moc_Tho.png" /></div>
+									<div class="vec_to2"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TK_2_Tho_Thuy.png" /></div>
+									<div class="vec_to3"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TK_3_Thuy_Hoa.png" /></div>
+									<div class="vec_to4"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TK_4_Hoa_Kim.png" /></div>
+									<div class="vec_to5"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/TK_5_Kim_Moc.png" /></div>								
+								</div>								
+							</div>						
+						</div>					
+					</div>						
+				</div>		
+				<ul class="tab">
+					<li class="ngu_hanh active" rel="tab1"><a>Ngũ hành</a></li>
+					<li rel="tab2"><a class="wow fadeInDown animated animated" data-wow-duration="1000ms" data-wow-delay="2000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 2000ms; animation-name: fadeInDown;">Tương sinh</a></li>
+					<li rel="tab3"><a class="wow fadeInDown animated animated" data-wow-duration="1000ms" data-wow-delay="3000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 3000ms; animation-name: fadeInDown;">Tương khắc</a></li>
+				</ul>				
+			</div>			
+		</div>
+	</div>
+<!------------------- End Section Page 1 ----------------------->	
+
+<!------------------- Section Page 2 --------------------------->		
+	<div class="section" id="section1">
+		<div class="intro">
+			<h1>Chọn màu xe theo ngũ hành</h1>
+			<div class="box_2col">
+				<div class="Item xe_kim">
+					<a class="item-quick-view" data-fancybox-type="iframe" href="/interactive/2016/phong-thuy/xekim.html">
+						<div class="warp_scoll">
+							<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xekim.png" /></div>
+							<div class="banh_xe1">
+								<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+								<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+							</div>
+						</div>	
+					   <div class="gia_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/menh_kim.png" /></div>
+                    </a>
+				</div>
+				<div class="Item xe_moc">
+					<a class="item-quick-view" data-fancybox-type="iframe" href="/interactive/2016/phong-thuy/xemoc.html">
+						<div class="warp_scoll">
+							<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xemoc.png" /></div>
+							<div class="banh_xe2">
+								<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+								<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+							</div>
+						</div>
+					   <div class="gia_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/menh_moc.png" /></div>
+                    </a>
+				</div>				
+			</div>
+			
+			<div class="box_3col">
+				<div class="Item xe_thuy">
+					<a class="item-quick-view" data-fancybox-type="iframe" href="/interactive/2016/phong-thuy/xethuy.html">
+						<div class="warp_scoll">
+							<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xethuy.png" /></div>
+							<div class="banh_xe1">
+								<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+								<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+							</div>
+						</div>		
+					   <div class="gia_xe"><a title=""><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/menh_thuy.png" /></div>
+                    </a>
+				</div>
+				<div class="Item xe_hoa">
+					<a class="item-quick-view" data-fancybox-type="iframe" href="/interactive/2016/phong-thuy/xehoa.html">
+						<div class="warp_scoll">
+							<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xehoa.png" /></div>
+							<div class="banh_xe2">
+								<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+								<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+							</div>
+						</div>		
+					   <div class="gia_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/menh_hoa.png" /></div>
+                    </a>
+				</div>	
+				<div class="Item xe_tho">
+					<a class="item-quick-view" data-fancybox-type="iframe" href="/interactive/2016/phong-thuy/xetho.html">
+						<div class="warp_scoll">
+							<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/khung_xetho.png" /></div>
+							<div class="banh_xe3">
+								<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+								<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+							</div>
+						</div>		
+					   <div class="gia_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/menh_tho.png" /></div>
+                    </a>
+				</div>				
+			</div>			
+		</div>					
+	</div>	
+<!------------------- End Section Page 2 --------------------------->	
+
+<!------------------- Section Page 3 ------------------------------->
+	<div class="section" id="section2">
+		<div class="intro">
+			<h1>Chọn màu xe theo mệnh và tuổi</h1>
+			<div>
+				<ul class="tab">
+					<li class="kim active" rel="tab4"><i></i><a>Mệnh Kim</a></li>
+					<li class="moc" rel="tab5"><i></i><a>Mệnh Mộc</a></li>
+					<li class="thuy" rel="tab6"><i></i><a>Mệnh Thủy</a></li>
+					<li class="hoa" rel="tab7"><i></i><a>Mệnh Hỏa</a></li>
+					<li class="tho" rel="tab8"><i></i><a>Mệnh Thổ</a></li>			
+				</ul>
+				<div class="tab_faq">
+					<div class="tab_content" id="tab4">
+						<div class="width_common">
+							<div class="box_menhkim width_common">
+								<div class="warp">
+									<div class="avata">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/Xe_Kim_big.png" /></div>
+										<div class="banh_xe">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>																				
+									</div>
+									<div class="description">
+										<p>Người mệnh Kim nên chọn xe màu nâu, vàng đậm. Bạn cũng có thể mua xe màu trắng, vàng nhạt, xanh nước biển. Cần cân nhắc khi mua xe màu xanh lá cây và thận trọng với màu đỏ, da cam, hồng.</p>
+									</div>
+									<div class="slides_banner owl-carousel">
+										<div class ="Item">
+											<div class="">											
+												<div class="top_year">
+													<p>Nhâm Thân</p>
+													<p class="year">1932</p>
+												</div>
+												<div class="bottom_year">
+													<p>Quý Dậu</p>
+													<p class="year">1933</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Canh Thìn</p>
+													<p class="year">1940</p>
+												</div>
+												<div class="bottom_year">
+													<p>Tân Tỵ</p>
+													<p class="year">1941</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Giáp Ngọ</p>
+													<p class="year">1954</p>
+												</div>
+												<div class="bottom_year">
+													<p>Ất Mùi</p>
+													<p class="year">1955</p>
+												</div>											
+											</div>
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Nhâm Dần</p>
+													<p class="year">1962</p>
+												</div>
+												<div class="bottom_year">
+													<p>Quý Mão</p>
+													<p class="year">1963</p>
+												</div>											
+											</div>
+										</div>	
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Canh Tuất</p>
+													<p class="year">1970</p>
+												</div>
+												<div class="bottom_year">
+													<p>Tân Hợi</p>
+													<p class="year">1971</p>
+												</div>											
+											</div>
+										</div>		
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Giáp Tý</p>
+													<p class="year">1984</p>
+												</div>
+												<div class="bottom_year">
+													<p>Ất Sửu</p>
+													<p class="year">1985</p>
+												</div>											
+											</div>
+										</div>										
+									</div>	
+								</div>
+							</div>        
+						</div>
+					</div>
+					<div class="tab_content" id="tab5">
+						<div class="width_common">
+							<div class="box_menhkim menh_moc width_common">
+								<div class="warp">
+									<div class="avata">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/Xe_Moc_big.png" /></div>
+										<div class="banh_xe">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>																				
+									</div>
+									<div class="description">
+										<p>Người mệnh Mộc nên sử dụng xe có màu xanh nước biển, đen, tím. Có thể sử dụng màu xanh lá cây, nâu, đỏ, hồng, da cam và cần tránh các màu kim như bạc, trắng, vàng ánh kim.</p>
+									</div>
+									<div class="slides_banner owl-carousel">
+										<div class ="Item">
+											<div class="">											
+												<div class="top_year">
+													<p>Nhâm Ngọ</p>
+													<p class="year">1942</p>
+												</div>
+												<div class="bottom_year">
+													<p>Quý Mùi</p>
+													<p class="year">1943</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Canh Dần</p>
+													<p class="year">1950</p>
+												</div>
+												<div class="bottom_year">
+													<p>Tân Mão</p>
+													<p class="year">1951</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Mậu Tuất</p>
+													<p class="year">1958</p>
+												</div>
+												<div class="bottom_year">
+													<p>Kỷ Hợi</p>
+													<p class="year">1959</p>
+												</div>											
+											</div>
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Nhâm Tý</p>
+													<p class="year">1972</p>
+												</div>
+												<div class="bottom_year">
+													<p>Quý Sửu</p>
+													<p class="year">1973</p>
+												</div>											
+											</div>
+										</div>	
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Canh Thân</p>
+													<p class="year">1980</p>
+												</div>
+												<div class="bottom_year">
+													<p>Tân Dậu</p>
+													<p class="year">1981</p>
+												</div>											
+											</div>
+										</div>		
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Mậu Thìn</p>
+													<p class="year">1988</p>
+												</div>
+												<div class="bottom_year">
+													<p>Kỷ Tỵ</p>
+													<p class="year">1989</p>
+												</div>											
+											</div>
+										</div>										
+									</div>	
+								</div>
+							</div>        
+						</div>					
+					</div>
+					<div class="tab_content" id="tab6">
+						<div class="width_common">
+							<div class="box_menhkim menh_thuy width_common">
+								<div class="warp">
+									<div class="avata">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/Xe_Thuy_big.png" /></div>
+										<div class="banh_xe">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>																				
+									</div>
+									<div class="description">
+										<p>Người mệnh Thủy nên chọn xe màu trắng, vàng nhạt. Có thể sử dụng màu cùng mệnh như xanh nước biển, đen hay màu xanh lá cây. Bạn cần tránh những màu như nâu, vàng sẫm. Màu đỏ, da cam là màu khắc xuất cũng nên thận trọng khi lựa chọn.</p>
+									</div>
+									<div class="slides_banner owl-carousel">
+										<div class ="Item">
+											<div class="">											
+												<div class="top_year">
+													<p>Bính Tý</p>
+													<p class="year">1936</p>
+												</div>
+												<div class="bottom_year">
+													<p>Đinh Sửu</p>
+													<p class="year">1937</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Giáp Thân</p>
+													<p class="year">1944</p>
+												</div>
+												<div class="bottom_year">
+													<p>Ất Dậu</p>
+													<p class="year">1945</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Nhâm Thìn</p>
+													<p class="year">1952</p>
+												</div>
+												<div class="bottom_year">
+													<p>Quý Tỵ</p>
+													<p class="year">1953</p>
+												</div>											
+											</div>
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Bính Ngọ</p>
+													<p class="year">1966</p>
+												</div>
+												<div class="bottom_year">
+													<p>Đinh Mùi</p>
+													<p class="year">1967</p>
+												</div>											
+											</div>
+										</div>	
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Giáp Dần</p>
+													<p class="year">1974</p>
+												</div>
+												<div class="bottom_year">
+													<p>Ất Mão</p>
+													<p class="year">1975</p>
+												</div>											
+											</div>
+										</div>		
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Nhâm Tuất</p>
+													<p class="year">1982</p>
+												</div>
+												<div class="bottom_year">
+													<p>Quý Hợi</p>
+													<p class="year">1983</p>
+												</div>											
+											</div>
+										</div>										
+									</div>	
+								</div>
+							</div>        
+						</div>					
+					</div>
+					<div class="tab_content" id="tab7">
+						<div class="width_common">
+							<div class="box_menhkim menh_hoa width_common">
+								<div class="warp">
+									<div class="avata">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/Xe_Hoa_big.png" /></div>
+										<div class="banh_xe">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>																				
+									</div>
+									<div class="description">
+										<p>Người mệnh Hỏa nên chọn xe màu xanh lá cây. Có thể chọn xe màu da cam, đỏ, hồng cùng mệnh. Nếu bạn cảm thấy một chiếc xe màu xanh lá cây đôi khi quá nổi bật và không phù hợp, hãy chọn các màu như nâu, vàng đậm, trắng, bạc, vàng sáng. Cần tránh xe màu xanh nước biển, đen.</p>
+									</div>
+									<div class="slides_banner owl-carousel">
+										<div class ="Item">
+											<div class="">											
+												<div class="top_year">
+													<p>Giáp Tuất</p>
+													<p class="year">1934</p>
+												</div>
+												<div class="bottom_year">
+													<p>Ất Hợi</p>
+													<p class="year">1935</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Mậu Tý</p>
+													<p class="year">1948</p>
+												</div>
+												<div class="bottom_year">
+													<p>Ký Sửu</p>
+													<p class="year">1949</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Bính Thân</p>
+													<p class="year">1956</p>
+												</div>
+												<div class="bottom_year">
+													<p>Đinh Dậu</p>
+													<p class="year">1957</p>
+												</div>											
+											</div>
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Giáp Thìn</p>
+													<p class="year">1964</p>
+												</div>
+												<div class="bottom_year">
+													<p>Ất Tỵ</p>
+													<p class="year">1965</p>
+												</div>											
+											</div>
+										</div>	
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Mậu Ngọ</p>
+													<p class="year">1978</p>
+												</div>
+												<div class="bottom_year">
+													<p>Kỷ Mùi</p>
+													<p class="year">1979</p>
+												</div>											
+											</div>
+										</div>		
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Bính Dần</p>
+													<p class="year">1986</p>
+												</div>
+												<div class="bottom_year">
+													<p>Đinh Mão</p>
+													<p class="year">1987</p>
+												</div>											
+											</div>
+										</div>										
+									</div>	
+								</div>
+							</div>        
+						</div>					
+					</div>
+					<div class="tab_content" id="tab8">
+						<div class="width_common">
+							<div class="box_menhkim menh_tho width_common">
+								<div class="warp">
+									<div class="avata">
+										<div class="khung_xe"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/Xe_Tho_big.png" /></div>
+										<div class="banh_xe">
+											<div class="banh_trai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>
+											<div class="banh_phai"><img class="image" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/banh_xe.png" /></div>					
+										</div>																				
+									</div>
+									<div class="description">
+										<p>Người mệnh Thổ nên chọn xe màu đỏ, da cam, hồng. Có thể chọn màu nâu, vàng đậm, vàng nhạt, bạc, trắng. Nên tránh màu xanh lá cây và nhớ đừng lạm dụng màu xanh da trời, đen.</p>
+									</div>
+									<div class="slides_banner owl-carousel">
+										<div class ="Item">
+											<div class="">											
+												<div class="top_year">
+													<p>Mậu Dần</p>
+													<p class="year">1938</p>
+												</div>
+												<div class="bottom_year">
+													<p>Kỷ Mão</p>
+													<p class="year">1939</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Bính Tuất</p>
+													<p class="year">1946</p>
+												</div>
+												<div class="bottom_year">
+													<p>Đinh Hợi</p>
+													<p class="year">1947</p>
+												</div>											
+											</div>	
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Canh Tý</p>
+													<p class="year">1960</p>
+												</div>
+												<div class="bottom_year">
+													<p>Tân Sửu</p>
+													<p class="year">1961</p>
+												</div>											
+											</div>
+										</div>
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Mậu Thân</p>
+													<p class="year">1968</p>
+												</div>
+												<div class="bottom_year">
+													<p>Kỷ Dậu</p>
+													<p class="year">1969</p>
+												</div>											
+											</div>
+										</div>	
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Bính Thìn</p>
+													<p class="year">1976</p>
+												</div>
+												<div class="bottom_year">
+													<p>Đinh Tỵ</p>
+													<p class="year">1977</p>
+												</div>											
+											</div>
+										</div>		
+										<div class ="Item">
+											<div class="">
+												<div class="top_year">
+													<p>Canh Ngọ</p>
+													<p class="year">1990</p>
+												</div>
+												<div class="bottom_year">
+													<p>Tân Mùi</p>
+													<p class="year">1991</p>
+												</div>											
+											</div>
+										</div>										
+									</div>	
+								</div>
+							</div>        
+						</div>					
+					</div>					
+				</div>
+			</div>			
+		</div>
+	</div>
+<!-------------------End Section Page 2 ---------------------------> 
+</div>
+<div class="footer">
+	<div class="copyright">
+		<p>Thông tin chỉ có tính tham khảo</p>
+	</div>
+	<div class="mang_xahoi">
+		<ul>
+			<li><a class="fb_share"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/face.png" /></a></li>
+			<li><a class="tw_share"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/twiter.png" /></a></li>
+			<li><a href="mailto:?subject=Chọn màu ôtô theo phong thủy&body=http://vnexpress.net/interactive/2016/phong-thuy"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/email.png" /></a></li>
+			<li><a class="item-quick-view comment-button" data-fancybox-type="iframe" href="/interactive/2016/phong-thuy/comment.html"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/comment.png" /></a></li>
+            <li><a><img class="box_author" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/isgam.png" /></a></li>				
+		</ul>
+	</div>
+</div>
+<div class="author">
+	<div class="warp">
+		<h4>THỰC HIỆN</h4>
+		<div class="box_item">
+			<span>Biên tập nội dung</span>
+			<p>Ngọc Điệp</p>
+		</div>
+		<div class="box_item">
+			<span>Thiết kế</span>
+			<p>Tiến Thành</p>
+		</div>
+		<div class="box_item">
+			<span>Kỹ thuật</span>
+			<p>Vũ Đình Hiệp</p>
+			<p>Nguyễn Như Hùng</p>
+		</div>
+		<a class="close"><img src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/images/graphics/close.png" /></a>
+	</div>
+</div>
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/js/jquery.fullPage.js"></script>
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/js/jquery.smoove.js"></script>
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/js/owl.carousel.min.js"></script>  
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/js/jquery.fancybox.js"></script>  
+<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v5/event/xephongthuy/js/function.js"></script>
+<!----------------------------- End Page ---------------->
+<script>
+ var data_url = 'http://vnexpress.net/interactive/2016/phong-thuy';
+$('.fb_share').click(function(){
+    var linkFB = "https://www.facebook.com/sharer/sharer.php?u=" + data_url;  
+    window.open(linkFB,'_blank','height=450,width=700,resizable=no,status=no');
+    return false;
+});
+$('.tw_share').click(function(){
+    var linkTw = "https://twitter.com/intent/tweet?source=webclient&text=Chọn màu ôtô theo phong thủy - VnExpress http://bit.ly/2dVdfjz";   
+    window.open(linkTw,'_blank','height=450,width=700,resizable=no,status=no');
+    return false;
+});
+</script>
+</body>
+</html>

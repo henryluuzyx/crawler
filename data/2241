@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Vnexpress.net" />
+    <!-- iPad icons -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="144x144">
+    <!-- iPhone and iPod touch icons -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="114x114">
+    <!-- Nokia Symbian -->
+    <link rel="nokia-touch-icon" href="http://st.f1.vnexpress.net/images/logos/57x57.png">
+    <!-- Android icon precomposed so it takes precedence -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnexpress.net/images/logos/114x114.png" sizes="1x1">
+    <title>Hỗ trợ</title>        <!-- meta:dc -->
+    <meta name="dc.subject" content="Raovat - VnExpress" />
+    <meta name="dc.publisher" content="VnExpress" />
+    <meta name="dc.rights.copyright" content="VnExpress" />
+    <meta name="dc.creator.name" content="VnExpress" />
+    <meta name="dc.creator.email" content="webmaster@vnexpress.net" />
+    <meta name="dc.identifier" content="http://vnexpress.net" />
+    <!-- meta:og -->
+    <meta property="og:site_name" content="Raovat - VnExpress" />
+    <meta property="og:url" content="http://raovat.vnexpress.net/ho-tro?tab=1" />
+    <meta property="og:type" content="article" />
+    <meta property="fb:app_id" content="283547481836738" />
+	<meta http-equiv="X-UA-Compatible" content="IE=100" />
+    <link rel="canonical" href="http://raovat.vnexpress.net/ho-tro?tab=1"/>
+    <meta property="al:web:url" content="http://raovat.vnexpress.net/ho-tro?tab=1" />
+		<meta name="tt_site_id" content="61" />
+	<meta name="tt_category_id" content="-9999" />
+	<meta name="tt_article_id" content="-9999" />
+	        <!-- tt_pape_type -->
+    <meta name="tt_page_type" content="other">
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-29374284-11', 'auto', {'name': 't0'});
+                ga('t0.send', 'pageview');
+         
+    </script>
+	<!-- Eclick -->
+    <script>
+        (function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https://":"http://")+"stats.g.doubleclick.net/dc.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)})();
+        var _siteId = "61";(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.l.a.eclick.vn/ea.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+        var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"19747654"}),function(){var c=document.createElement("script"),e=document.getElementsByTagName("script")[0];c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}();
+    </script>
+	<!-- end Eclick -->
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N3FNJF');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PD4X6"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5PD4X6');</script>
+	<!-- End Google Tag Manager -->
+    <!--[if lte IE 8]>
+    <script src="http://st.f2.raovat.vnecdn.net/j/v32/html5.js"></script>
+    <![endif]-->
+        <link rel="stylesheet" href="http://st.f3.raovat.vnecdn.net/c/v33/general.css" media="all" />
+        <script type="text/javascript" src="http://st.f2.raovat.vnecdn.net/j/v32/jquery.min.js"></script>    <script type="text/javascript">
+    var BASE_URL            =   'http://raovat.vnexpress.net';
+    var UPLOAD_URL          =   'http://upload.raovat.vnexpress.net';
+    var IMAGE_STATIC        =   'http://img.f2.raovat.vnecdn.net';
+    var interactions_url    =   'http://usi.saas.vnexpress.net';
+    var device_env          =   4;
+	var PageHot = 0;
+    var SITE_ID = 61;
+    var PAGE_FOLDER = 61;
+    var PAGE_DETAIL = 0;
+        document.domain         =   'vnexpress.net';
+        </script>
+	<script type="text/javascript" src="http://st.core.polyad.net/RaovatShowAds.js"></script>
+</head>
+<body>
+    <div id="myvne_taskbar_raovat">
+        <div class="myvne_container">
+                        <h1>
+                        <a class="logo_vne" href="http://vnexpress.net" target="_blank"><img alt="Mua bán rao vặt" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/logo.png"></a>
+                        </h1>
+                        <div class="like_facetop left">
+                <div class="fb-like left" data-href="https://www.facebook.com/raovat.vne.net" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+                <div class="tw-button left"><a href="https://twitter.com/VnEnews" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow</a></div>
+            </div>
+            <div class="block_search_web left">
+                <form class="seach" action="/search" method="get">
+                    <input type="text" name="q" class="txt_input" placeholder="Tìm kiếm...">
+                    <input type="submit" value="Search" class="icon_seach_web">
+                </form>
+            </div>
+            <div class="txt_dangtin right"><a class="myvne_submit" href="/dang-tin">Đăng tin</a></div>
+            <ul class="myvne_form_log right" id="myvne_profile">
+                <li class="myvne_user">
+                    <a href="javascript:void(0);" id="myvne_login" class="myvne_link myvne_login_button">
+                        <i class="fa fa-lock"></i>Đăng nhập
+                    </a>
+                    <a href="javascript:void(0);" id="myvne_login" class="myvne_icon myvne_login_button">
+                        <i class="ico ico_user_myvne"></i>
+                    </a>
+                </li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div id="box_col_left" class="block_more_info">
+        <div class="width_common">
+            <div class="btn_control_col_left"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/img_left_panel.gif" alt="Danh mục" /></div>
+            <div class="block_scoll_menu width_common">
+                <div id="search-bt">
+                    <div class="div-search">
+                        <form action="/search" method="GET">
+                            <div class="div-bgSearch">
+                                <input type="text" class="txt-search" placeholder="Tìm kiếm..." name="q">
+                                <input type="submit" class="btt-search" value="">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="dt_btn_m">
+                        <a class="myvne_submit" href="/dang-tin">Đăng tin</a>
+                    </div>
+                </div>
+                                <ul class="list_item_panel width_common">
+                    <li class="first">
+                        <h2><a href="/"><i class="fa fa-home"></i>Trang chủ</a></h2>
+                    </li>
+                                                                                                                    <li>
+                                <h2>
+                                                                        <a class="" href="/mua-ban-nha-dat">
+                                                                                                                                    <i class="fa fa-building"></i>
+                                                                                                                            Mua bán nhà đất                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/thue-nha-dat">
+                                                                                                                                    <i class="fa fa-building-o"></i>
+                                                                                                                            Thuê nhà đất                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/oto">
+                                                                                                                                    <i class="fa fa-car"></i>
+                                                                                                                            Ôtô                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/xe-may-xe-dap">
+                                                                                                                                    <i class="fa fa-motorcycle"></i>
+                                                                                                                            Xe máy - Xe đạp                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/tuyen-sinh-tuyen-dung">
+                                                                                                                                    <i class="fa fa-mortar-board"></i>
+                                                                                                                            Tuyển sinh - Tuyển dụng                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/dien-thoai-sim">
+                                                                                                                                    <i class="fa fa-mobile"></i>
+                                                                                                                            Điện thoại - Sim                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/pc-laptop">
+                                                                                                                                    <i class="fa fa-laptop"></i>
+                                                                                                                            PC - Laptop                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/dien-tu-ky-thuat-so">
+                                                                                                                                    <i class="fa fa-desktop"></i>
+                                                                                                                            Điện tử - Kỹ thuật số                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/thoi-trang-lam-dep">
+                                                                                                                                                                                    <i aria-hidden="true" data-icon="" class="icon-fashion"></i>
+                                                                                                                            Thời trang - Làm đẹp                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/am-thuc-du-lich">
+                                                                                                                                                                                    <i aria-hidden="true" data-icon="" class="icon-Restaurant"></i>
+                                                                                                                            Ẩm thực - Du lịch                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/dich-vu">
+                                                                                                                                                                                    <i aria-hidden="true" data-icon="" class="icon-service"></i>
+                                                                                                                            Dịch vụ                                    </a>
+                                </h2>
+                            </li>
+                                                                                                                        <li>
+                                <h2>
+                                                                        <a class="" href="/khac">
+                                                                                                                                    <i class="fa fa-asterisk"></i>
+                                                                                                                            Khác                                    </a>
+                                </h2>
+                            </li>
+                                                                <li class="last">
+                                                <h2><a class="active" href="/ho-tro"><i class="fa fa-life-ring"></i>&nbsp;Hỗ trợ</a></h2>
+                    </li>
+                </ul>
+                <!-- Hotline + Quy dinh -->
+                <div id="hotline" class="width_common box_category">
+                    <div class="hotline_rv width_common">
+                        <h2>Hotline hỗ trợ</h2>
+                        <ul>
+                            <li class="first"><span>Miền Bắc</span> <p> 0915658015</p></li>
+                            <li><span>Miền Nam</span> <p> 0904604493</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="page">
+        <!--HEADER FOR MOBILE-->
+        <div class="wrap_header_mobile width_common">
+            <a href="http://vnexpress.net" target="_blank"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/logo.png" alt="Rao vặt VnExpress" class="left logo_mobile"/></a>
+        </div>
+        <!--END HEADER FOR MOBILE-->
+	<div class="wrapper_container">
+        <div id="container" >
+			<div class="banner_pc width_common box_category">
+				<script type="text/javascript">
+					 Poly_Top(); 
+				</script>
+			</div>
+			<!-- start::navbar -->
+			<div id="col_50" class="left">
+				<ul class="list_item_panel list_item_panel_icon width_common box_category">
+        <li class="first">
+        <a href="http://raovat.vnexpress.net"><i class="fa fa-home">&nbsp;</i></a>
+    </li>
+            <li>
+						<a class="" href="/mua-ban-nha-dat">
+															<i class="fa fa-building"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Mua bán nhà đất            </div>
+        </li>
+            <li>
+						<a class="" href="/thue-nha-dat">
+															<i class="fa fa-building-o"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Thuê nhà đất            </div>
+        </li>
+            <li>
+						<a class="" href="/oto">
+															<i class="fa fa-car"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Ôtô            </div>
+        </li>
+            <li>
+						<a class="" href="/xe-may-xe-dap">
+															<i class="fa fa-motorcycle"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Xe máy - Xe đạp            </div>
+        </li>
+            <li>
+						<a class="" href="/tuyen-sinh-tuyen-dung">
+															<i class="fa fa-mortar-board"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Tuyển sinh - Tuyển dụng            </div>
+        </li>
+            <li>
+						<a class="" href="/dien-thoai-sim">
+															<i class="fa fa-mobile"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Điện thoại - Sim            </div>
+        </li>
+            <li>
+						<a class="" href="/pc-laptop">
+															<i class="fa fa-laptop"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> PC - Laptop            </div>
+        </li>
+            <li>
+						<a class="" href="/dien-tu-ky-thuat-so">
+															<i class="fa fa-desktop"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Điện tử - Kỹ thuật số            </div>
+        </li>
+            <li>
+						<a class="" href="/thoi-trang-lam-dep">
+																					<i aria-hidden="true" data-icon="" class="icon-fashion"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Thời trang - Làm đẹp            </div>
+        </li>
+            <li>
+						<a class="" href="/am-thuc-du-lich">
+																					<i aria-hidden="true" data-icon="" class="icon-Restaurant"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Ẩm thực - Du lịch            </div>
+        </li>
+            <li>
+						<a class="" href="/dich-vu">
+																					<i aria-hidden="true" data-icon="" class="icon-service"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Dịch vụ            </div>
+        </li>
+            <li>
+						<a class="" href="/khac">
+															<i class="fa fa-asterisk"></i>
+												</a>
+             <div class="tip_menu">
+                <span class="arrow_tip"></span> Khác            </div>
+        </li>
+        <li>
+                <h2><a class="" href="/ho-tro"><i class="fa fa-life-ring"></i></a></h2>
+        <div class="tip_menu">
+            <span class="arrow_tip"></span> Hỗ trợ
+        </div>
+    </li>
+</ul>			</div>
+			<!-- end::navbar -->
+            <!-- start::content -->
+            <div id="col_920" class="right">
+                <title>Hỗ trợ</title><div class="head_forder width_common">
+	<div class="title_boxdetail left">
+		<h2>
+			<a href="">
+				<i class="fa fa-life-ring"></i>
+				Hỗ trợ			</a>
+		</h2>
+	</div>
+	<div class="weather right">
+		<div data-component-type="weather"></div>
+	</div>
+</div><div id="col_320" class="left">
+	<div class="menu_hotro width_common box_category">
+		<h1>Chọn nội dung</h1>
+		<ul>
+			<li>
+				<a class="have_sub active" href="javascript:;">1. Quy chế hoạt động</a>
+				<div class="sub_menuhotro" style="display:block;">
+					<span><a class="menu_hotro_item" style="text-decoration:underline;" data-hotro="1" href="javascript:;">Quy định chung</a></span>
+					<span><a class="menu_hotro_item" data-hotro="2" href="javascript:;">Tin đăng không hợp lệ</a></span>
+					<span><a class="menu_hotro_item" data-hotro="3" href="javascript:;">Quy trình giao dịch</a></span>
+					<span><a class="menu_hotro_item" data-hotro="4" href="javascript:;">Chính sách bảo mật</a></span>
+				</div>
+			</li>
+			<li>
+				<a class="have_sub" href="javascript:void(0)">2. Hướng dẫn đăng tin</a>
+				<div class="sub_menuhotro" style="display:none;">
+					<span><a class="menu_hotro_item" data-hotro="5" href="javascript:;">Đăng tin rao vặt</a></span>
+					<span><a class="menu_hotro_item" data-hotro="6" href="javascript:;">Hình ảnh và video</a></span>
+					<span><a class="menu_hotro_item" data-hotro="7" href="javascript:;">Đẩy tin</a></span>
+					<span><a class="menu_hotro_item" data-hotro="8" href="javascript:;">Xóa tin</a></span>
+					<span><a class="menu_hotro_item" data-hotro="9" href="javascript:;">Nâng cấp tin</a></span>
+					<span><a class="menu_hotro_item" data-hotro="10" href="javascript:;">Nâng cấp tài khoản</a></span>
+					<span><a class="menu_hotro_item" data-hotro="11" href="javascript:;">Bảng giá</a></span>
+				</div>
+			</li>
+			<li>
+				<a class="have_sub" href="javascript:;">3. Hướng dẫn thanh toán</a>
+				<div class="sub_menuhotro" style="display:none;">
+					<span><a class="menu_hotro_item" data-hotro="12" href="javascript:;">Thanh toán bằng SMS</a></span>
+					<span><a class="menu_hotro_item" data-hotro="13" href="javascript:;">Chuyển khoản ngân hàng</a></span>
+					<span><a class="menu_hotro_item" data-hotro="14" href="javascript:;">Cổng thanh toán điện tử</a></span>
+					<!-- <span><a class="menu_hotro_item" data-hotro="11" href="javascript:;">Thanh toán bằng Momo</a></span> -->
+				</div>
+			</li>
+			<li>
+				<a class="have_sub" href="javascript:;">4. Tính năng nổi bật</a>
+				<div class="sub_menuhotro" style="display:none;">
+					<span><a class="menu_hotro_item" data-hotro="15" href="javascript:;">Tin trang chủ VnExpress</a></span>
+					<span><a class="menu_hotro_item" data-hotro="16" href="javascript:;">Tin loại 1</a></span>
+					<span><a class="menu_hotro_item" data-hotro="17" href="javascript:;">Tin loại 2</a></span>
+					<span><a class="menu_hotro_item" data-hotro="18" href="javascript:;">Tin Vip chuyên mục</a></span>
+					<span><a class="menu_hotro_item" data-hotro="19" href="javascript:;">Tin Hot</a></span>
+				</div>
+			</li>
+			<li>
+				<a class="have_sub" href="javascript:;">5. FAQ</a>
+				<div class="sub_menuhotro" style="display:none;">
+					<span><a class="menu_hotro_item" data-hotro="20" href="javascript:;">An toàn khi giao dịch</a></span>
+					<span><a class="menu_hotro_item" data-hotro="21" href="javascript:;">Bạn có biết</a></span>
+					<span><a class="menu_hotro_item" data-hotro="22" href="javascript:;">Đăng ký thành viên</a></span>
+					<span><a class="menu_hotro_item" data-hotro="23" href="javascript:;">Đăng tin và thanh toán</a></span>
+				</div>
+			</li>
+			<li><a class="menu_hotro_item" target="_blank" href="/lien-he">6. Liên hệ</a></li>
+			<li>
+			<a class="have_sub menu_hotro_item" data-hotro="24" href="javascript:;">7. Quy trình giải quyết khiếu nại</a>
+			
+			</li>
+			<li>
+				<a class="have_sub menu_hotro_item" data-hotro="25" href="javascript:;">8. Quy chế đồng rao </a>
+			</li>
+		</ul>
+	</div>
+	<div class="box_hotro_tem2 width_common box_category">
+		<div class="width_common thongtin_hotro">
+			<div class="content_support">
+				<span class="tongdai_phone"><i class="fa fa-phone"></i> Hotline hỗ trợ</span>
+				<div class="hotline_300">
+					<ul>
+						<li class="first"><span>Miền Bắc</span> <p> 01276606303</p></li>
+						<li><span>Miền Nam</span> <p>0904604493</p></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="col_565" class="right">
+	<div class="content_hotro width_common content_hotro_1">
+		<h1>Quy định chung</h1>
+		<div class="iterm_htro">
+			<p><strong>a. Đối tượng đăng tin:</strong></p>
+			<p style="padding-left: 15px;"> - Cá nhân có quyền hợp pháp tham gia các thỏa thuận/hợp đồng mua bán ở Việt Nam, và bán hàng không vì mục đích kinh doanh. Người sử dụng phải trên 18t, nếu dưới thì phải có sự giám sát của cha mẹ hoặc người giám hộ hợp pháp.</p>
+			<p style="padding-left: 15px;"> - Cá nhân/tổ chức bao gồm cửa hàng, doanh nghiệp, môi giới, hộ gia đình có quyền hợp pháp tham gia các thỏa thuận/hợp đồng mua bán ở Việt Nam.</p>
+			<br>
+			<p><strong>b. Quy định cơ bản:</strong></p>
+			<p style="padding-left: 15px;"> - Đăng tin đúng chuyên mục với sản phẩm muốn bán và phải chịu trách nhiệm về nội dung và thông tin đăng trên raovat.vnexpress.net.</p>
+			<p style="padding-left: 15px;"> - Khách hàng không được đăng tin bán các mặt hàng cấm kinh doanh theo quy định của nhà nước Việt Nam.</p>
+			<p style="padding-left: 15px;"> - Phí đăng tin tùy thuộc vào các chuyên mục khác nhau theo quy định của Rao Vặt VnExpress.</p>
+			<p style="padding-left: 15px;"> - Nội dung tin đăng cần có đầy đủ thông tin để người mua có thể quyết định mua hàng.</p>
+			<p style="padding-left: 15px;"> - Người mua và người bán tự chịu trách nhiệm về giao dịch, nếu bạn thắc mắc về quy định giao dịch an toàn thì có thể tìm hiểu thêm <a data-hotro="20" href="/ho-tro?tab=20">tại đây</a>.</p>
+			<br>
+			<p><strong>c. Thông tin liên hệ:</strong></p>
+			<p style="padding-left: 15px;"> - Người đăng tin phải bắt buộc cung cấp đầy đủ, chính xác thông tin về tên thật của người bán, số điện thoại, địa chỉ email, địa chỉ. Người bán phải có chịu mọi trách nhiệm nếu như đưa thông tin liên hệ sai.</p>
+			<br>
+			<p><strong>d. Tiêu đề tin đăng:</strong></p>
+			<p style="padding-left: 15px;"> - Tiêu đề bao gồm tối đa 50 ký tự miêu tả về sản phẩm và dịch vụ muốn bán bao gồm tên, model, tình trạng. Đối với tin đăng về bất động sản cần bổ sung thêm loại nhà đất, địa chỉ, số phòng ngủ.</p>
+			<br>
+			<p><strong>e. Hình ảnh:</strong></p>
+			<p style="padding-left: 15px;"> - Mỗi tin đăng được tối đa 6 hình ảnh thể hiện chân thực về sản phẩm hoặc dịch vụ. Chúng tôi có quyền loại bỏ những tin đăng sai quy định về hình ảnh.</p>
+			<br>
+			<p><strong>f. Nội dung:</strong></p>
+			<p style="padding-left: 15px;"><strong> - Bất động sản:</strong> loại nhà đất, tên đường, diện tích, số phòng ngủ, hướng nhà.</p>
+			<p style="padding-left: 15px;"><strong> - Ôtô:</strong> hãng xe, mẫu xe, loại xe, số km đã đi, xuất xứ, tình trạng.</p>
+			<p style="padding-left: 15px;"><strong> - Các mục khác:</strong> tên sản phẩm, model, tình trạng.</p>
+			<p style="padding-left: 15px;"> - Nghiêm cấm nội dung thông tin liên quan đến sex, chính trị, tôn giáo; các thông tin vi phạm pháp luật, thuần phong, mỹ tục nói chung, bao gồm nhưng không giới hạn, các thông tin quảng cáo, rao vặt về rượu, thuốc lá, thịt thú rừng, vũ khí các loại, các sản phẩm nhái hoặc các sản phẩm giả của các hàng hoá khác, các mặt hàng không được quảng cáo, hoặc các sản phẩm quốc cấm khác. Nếu có tồn tại bất kỳ thông tin nào như vậy trên website, Ban quản trị và ban biên tập Website sẽ sàng lọc và loại bỏ, xóa khỏi hệ thống các thông tin như vậy mà không cần thông báo trước. </p>
+			<br>
+			<p><strong>g. Giá:</strong></p>
+			<p style="padding-left: 15px;"> - Giá trên trang VnExpress Rao Vặt được niêm yết bằng Việt Nam Đồng (VNĐ). Mọi sản phẩm/dịch vụ đều phải cung cấp giá. Theo pháp lệnh của nhà nước, mọi tin đăng có giá là ngoại tệ đều bị từ chối và xóa bỏ.</p>
+			<br>
+			<p><strong>h. Ngôn ngữ:</strong></p>
+			<p style="padding-left: 15px;"> - Raovat.vnexpress.net chấp nhận sử dụng tiếng Việt có dấu và tiếng Anh.</p>
+			<br>
+			<p><strong>Theo điều 8 mục 11 của Luật Quảng cáo, không được sử dụng các từ ngữ "nhất", "duy nhất", "tốt nhất", "số một" hoặc từ ngữ có ý nghĩa tương tự trong nội dung tin đăng (nếu sử dụng phải có tài liệu chứng minh). </strong></p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_2" style="display:none;">
+		<h1>Tin đăng không hợp lệ</h1>
+		<div class="iterm_htro">
+			<h2>Các tin sẽ bị từ chối đăng nếu vi phạm một trong các quy định sau:</h2>
+			<p style="padding-left: 15px;"><strong>a.</strong> Các tin đăng có nội dung, hình ảnh mang tính xúc phạm liên quan đến tôn giáo, các nhóm sắc tộc, cá nhân hoặc người nổi tiếng bị cấm.</p>
+			<p style="padding-left: 15px;"><strong>b.</strong> Gây rối trật tự xã hội, phá hoại an ninh quốc gia, ảnh hưởng thuần phong mỹ tục và kinh doanh bất hợp pháp.</p>
+			<p style="padding-left: 15px;"><strong>c.</strong> Tiêu đề không dấu, có ký tự đặc biệt hoặc viết hoa tất cả các ký tự.</p>
+			<p style="padding-left: 15px;"><strong>d.</strong> Tin viết bằng tiếng nước ngoài (ngoại trừ tên riêng), không dấu, viết hoa, sai lỗi chính tả, không viết bằng font Unicode.</p>
+			<p style="padding-left: 15px;"><strong>e.</strong> Tin đăng sai mục. (ví dụ: rao bán điện thoại trong mục Du lịch).</p>
+			<p style="padding-left: 15px;"><strong>f.</strong> Tin rao spam (rao quá 03 tin giống nhau trong cùng chuyên mục).</p>
+			<p style="padding-left: 15px;"><strong>g.</strong> Thiếu thông tin liên lạc (địa chỉ, số điện thoại, người liên lạc) hoặc đưa các thông tin liên lạc không chính xác.</p>
+			<p style="padding-left: 15px;"><strong>h.</strong> Hình ảnh sai qui định:</p>
+			<p style="padding-left: 30px;"> - Không đủ số lượng hình ảnh:</p>
+			<p style="padding-left: 45px;"> + Tin đăng cate 1 yêu cầu tối thiểu 5 hình ảnh</p>
+			<p style="padding-left: 45px;"> + Tin đăng cate 2 yêu cầu tối thiểu 3 hình ảnh</p>
+			<p style="padding-left: 45px;"> + Tin đăng cate 3 yêu cầu tối thiểu 1 hình ảnh</p>
+			<p style="padding-left: 30px;"> - Hình ảnh mờ, không rõ nét, chỉnh sửa quá nhiều</p>
+			<p style="padding-left: 30px;"> - Hình ảnh sao chép từ website khác.</p>
+			<p style="padding-left: 30px;"> - HÌnh ảnh mang nội dung nhạy cảm, phản cảm.</p>
+			<p style="padding-left: 30px;"> - Hình ảnh bị lỗi không hiển thị</p><br>
+			<p style="padding-left: 15px;"><strong>j.</strong> Tin đăng quảng cáo đơn thuần (quảng cáo tiếp thị)</p>
+			<p style="padding-left: 30px;"> - Các tin không bán sản phẩm, dịch vụ cụ thể mà chỉ quảng cáo về công ty đều bị từ chối.</p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_3" style="display:none;">
+		<h1>Quy trình giao dịch</h1>
+		<div class="iterm_htro">
+			<h2>Quy trình mua hàng dành cho Người Mua</h2>
+			<p style="padding-left: 15px;"><strong>Bước 1:</strong> Truy cập vào website <a href="http://raovat.vnexpress.net">raovat.vnexpress.net</a></p>
+			<p style="padding-left: 15px;"><strong>Bước 2:</strong> Xem thông tin bằng cách click vào các hạng mục liên quan trên website.</p>
+			<p style="padding-left: 15px;"><strong>Bước 3:</strong> Gọi điện, email, và trao đổi với người có nhu cầu bán Sản Phẩm.</p>
+			<p style="padding-left: 15px;"><strong>Bước 4:</strong> Đến tận nơi trao đổi với Người Bán, hoặc theo cách thức khác do các bên thỏa thuận.</p>
+		</div>
+		<div class="iterm_htro">
+			<h2>Quy trình dành cho Người bán, Bên bán</h2>
+			<p style="padding-left: 15px;"><strong>Bước 1:</strong> Người Bán, người đăng tin đăng ký Thành Viên theo quy trình trên raovat.vnexpress.net</p>
+			<p style="padding-left: 15px;"><strong>Bước 2:</strong> Đăng tin rao vặt theo quy trình (xem <a data-hotro="5" href="/ho-tro?tab=5">tại đây</a>)</p>
+			<p style="padding-left: 15px;"><strong>Bước 3:</strong> Tin đăng tải của Người Bán, bên bán đã được duyệt sau khi thanh toán bằng sms chi phí tùy thuộc vào case, hoặc mua đã thanh toán xong các dịch vụ mua thêm sẽ được hiển thị trong đúng chuyên mục đã chọn trên Raovat.Vnepxress.net.</p>
+			<p style="padding-left: 15px;"><strong>Bước 4:</strong> Người có nhu cầu về Sản Phầm tìm hiểu thông tin thông qua các tin đăng và trao đổi với Người Bán, hoặc bên bán.</p>
+			<p style="padding-left: 15px;"><strong>Bước 5:</strong> Các Bên thực hiện trao đổi và giao dịch trực tiếp với nhau.</p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_4" style="display:none;">
+		<h1>Chính sách bảo mật</h1>
+		<div class="iterm_htro">
+			<p>Chính sách bảo mật này nhằm đảm bảo an toàn thông tin liên quan đến các tổ chức, cá nhân tham gia truy cập, giao dịch trên website Raovat.VnExpress.net (thuộc quyền sở hữu của Công ty Cổ phần Dịch vụ trực tuyến FPT), sau đây gọi tắt là Rao vặt VnExpress. Chính sách bao gồm mô tả cách mà Rao vặt VnExpress tiếp nhận, lưu trữ, sử dụng và bảo vệ các thông tin này.</p>
+			<h2>1. Bảo mật thông tin người dùng:</h2>
+			<p style="padding-left: 15px;"> - Khi khách hàng thực hiện giao dịch và/hoặc đăng ký, đăng nhập trên raovat.vnexpress.net, tùy từng trường hợp, khách hàng cần cung cấp một số thông tin cần thiết cho các việc trên. Khách hàng cần đảm bảo các thông tin cung cấp là chính xác. Trong mọi trường hợp phát sinh tranh chấp và/hoặc khiếu nại, Rao vặt VnExpress sẽ không chịu trách nhiệm giải quyết nếu các thông tin khách hàng cung cấp là không chính xác hoặc giả mạo.</p>
+			<p style="padding-left: 15px;"> - Mọi thông tin khách hàng cũng như các thông tin trao đổi giữa khách hàng và Rao vặt VnExpress đều được Rao vặt VnExpress lưu giữ, bảo mật và cung cấp không tiết lộ các thông tin này cho bất kỳ bên thứ ba nào, trừ trường hợp cung cấp với mục đích phân tích dữ liệu, tiếp thị và hỗ trợ dịch vụ khách hàng.</p>
+			<h2>2. Bảo mật thanh toán:</h2>
+			<p style="padding-left: 15px;"> - Rao vặt VnExpress có các tiêu chuẩn bảo mật thanh toán riêng đảm bảo thông tin thanh toán của khách hàng được lưu giữ tuyệt đối an toàn. Ngoài ra, hệ thống thanh toán trên Raovat.vnexpress.net được kết nối với các đối tác thứ ba như SenPay, theo đó, tuân theo toàn bộ các tiêu chuẩn bảo mật của cổng thanh toán này.</p>
+			<p style="padding-left: 15px;"> - Các tiêu chuẩn bảo mật thanh toán trực tuyến bằng thẻ nội địa và thẻ quốc tế được thực hiện thông qua kết nối SenPay đảm bảo tuân thủ các tiêu chuẩn bảo mật của SenPay gồm:</p>
+			<p style="padding-left: 30px;"> + Tiêu chuẩn bảo mật dữ liệu trên internet SSL (Secure Sockets Layer) do GlobalSign cấp.</p>
+			<p style="padding-left: 30px;"> + Chứng nhận tiêu chuẩn bảo mật dữ liệu thông tin thanh toán PCI do Control Case cấp.</p>
+			<p style="padding-left: 15px;"> - Thông tin thẻ ngân hàng của khách hàng không được lưu trên hệ thống của Rao vặt VnExpress. Khi khách hàng sử dụng thẻ ngân hàng để thanh toán đơn hàng trên Rao vặt VnExpress, thông tin thẻ sẽ được nhập trên website Cổng thanh toán SenPay.</p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_5" style="display:none;">
+		<h1>Đăng tin rao vặt</h1>
+		<div class="iterm_htro">
+			<span>1</span>
+			<h2>Chọn nút "Đăng tin" tại góc phải trên cùng của trang</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/dang_tin_b1.png">
+		</div>
+		<div class="iterm_htro">
+			<span>2</span>
+			<h2>Hoàn thành đăng tin bước 1 "Soạn tin"</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/dang_tin_b2.png">
+			<ul>
+				<li>Cung cấp đầy đủ thông tin về sản phẩm muốn đăng bán bao gồm: chuyên mục, tiêu đề, nội dung, thông tin bổ sung, hình ảnh, giá,...</li>
+				<li>Những thông tin có dấu "*" là thông tin bắt buộc</li>
+			</ul>
+		</div>
+		<div class="iterm_htro">
+			<span>3</span>
+			<h2>Hoàn thành đăng tin bước 2 "liên hệ"</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/dang_tin_b3.png">
+			<ul>
+				<li>Cung cấp chính xác thông tin liên hệ của người bán</li>
+				<li>Trường hợp đã có tài khoản MyVNE, hệ thống sẽ tự động điền thông tinliên hệ.</li>
+			</ul>
+		</div>
+		<div class="iterm_htro">
+			<span>4</span>
+			<h2>Hoàn thành đăng tin bước 3 "Thanh toán"</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/dang_tin_b_4.png">
+			<ul>
+				<li>Tin đăng sẽ tự dộng lưu vào hệ thống sau khi hoàn thành bước 2</li>
+				<li>Sau khi bạn người đăng thanh toán các chi phí, tin đăng sẽ được hiện thị trên trang.</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_6" style="display:none;">
+		<h1>Chèn ảnh và video</h1>
+		<div class="iterm_htro">
+			<span>1</span>
+			<h2>Tại đăng tin bước 1 "Soạn tin", lựa chọn "chọn file" ở mục hình ảnh.</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/chen_anh.png">
+		</div>
+		<div class="iterm_htro">
+			<span>2</span>
+			<h2>Lựa chọn hình ảnh bạn muốn hiển thị trong tin đăng.</h2>
+			<ul>
+				<li>Lựa chọn ảnh đại diện để hiển thị ngoài trang chuyên mục</li>
+				<li>Mỗi tin rao vặt được đăng tối đa 6 hình ảnh</li>
+				<li>Hình ảnh phải đúng quy định của trang raovat.vnexpress.net</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_7" style="display:none;">
+		<h1>Đẩy tin</h1>
+		<div class="iterm_htro">
+			<span>1</span>
+			<h2>Truy cập mục "tin đã đăng"</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/day_tin_b1.png">
+		</div>
+		<div class="iterm_htro">
+			<span>2</span>
+			<h2>Lựa chọn "đẩy tin"</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/day_tin_b2.png">
+			<ul>
+				<li>Lựa chọn chế độ đẩy tin theo số lần hoặc theo thời gian.</li>
+				<li>Xem bảng giá đăng tin <a data-hotro="11" href="/ho-tro?tab=11">tại đây</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_8" style="display:none;">
+		<h1>Xóa tin</h1>
+		<div class="iterm_htro">
+			<span>1</span>
+			<h2>Truy cập mục "tin đã đăng" trong quản lý tài khoản</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/xoa_tin.png">
+		</div>
+		<div class="iterm_htro">
+			<span>2</span>
+			<h2>Lựa chọn tin đăng muốn xóa và chọn "xóa"</h2>
+			<ul>
+				<li>Hệ thống sẽ hiện cú pháp để bạn gửi tin nhắn về tổng đài</li>
+				<li>Sau khi hoàn tất thanh toán tin đăng của bạn sẽ được xóa khỏi hệ thống.</li>
+				<li>Giá: 5,000 đ</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common  content_hotro_9" style="display:none;">
+		<h1>Nâng cấp tin đăng</h1>
+		<div class="iterm_htro">
+			<span>1</span>
+			<h2>Truy cập mục "tin đã đăng"</h2>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/nang_cap_tin.png">
+		</div>
+		<div class="iterm_htro">
+			<span>2</span>
+			<h2>Chọn "nâng cấp" tại tin mà bạn muốn nâng cấp</h2>
+			<p style="padding-left: 15px;">Những tin được nâng cấp sẽ được hiển thị tại nhiều vị trí hơn dẫn đến dễ dàng tiếp cận với người mua hàng. Hiện nay Raovat.vnexpress.net đang cung cấp 4 hình thức nâng cấp tin:</p>
+			<ul>
+				<li style="background:none;margin-top:10px;">
+					<img style="max-width:120px;" src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/icon_trang_chu_vne.png">
+					<strong>Trang chủ VnExpress</strong> tin đăng sẽ xuất hiện tại trang chủ VnExpress có khả năng tiếp cận hơn 10 triệu độc giả mỗi ngày.
+				</li>
+				<li style="background:none;">
+					<img style="max-width:120px;" src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/icon_tin_loai_1.png">
+					<strong>Tin trang chủ loại 1</strong> tin đăng xuất hiện tất cả các trang (trang chủ, trang chuyên mục, chi tiết).
+				</li>
+				<li style="background:none;">
+					<img style="max-width:120px;" src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/icon_tin_loai_2.png">
+					<strong>Tin trang chủ loại 2</strong> tin đăng xuất hiện trên trang chủ Rao vặt và trang chuyên mục.
+				</li>
+				<li style="background:none;">
+					<img style="max-width:120px;" src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/icon_vip_chuyen_muc.png">
+					<strong>Tin Vip chuyên mục</strong> tin của bạn sẽ luôn xuất hiện cố định tại vị trí top trang chuyên mục.
+				</li>
+				<li style="background:none;">
+					<img style="max-width:120px;" src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/icon_tin_hot.png">
+					<strong>Tin hot</strong> tin đăng rao vặt của bạn nổi bật hơn.
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_10" style="display:none;">
+		<h1>Nâng cấp tài khoản</h1>
+		<div class="iterm_htro">
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/nang_cap_tai_khoan.jpg">
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_11" style="display:none;">
+		<h1>Bảng giá</h1>
+		<div class="iterm_htro">
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/bang_gia.png">
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_12" style="display:none;">
+		<h1>Thanh toán bằng SMS</h1>
+		<div class="iterm_htro">
+			<p><strong>a.	Phí dưới 15,000/giao dịch </strong></p>
+			<p><strong>Đăng tin Cate 1</strong> (Bất Động Sản, Ôtô) (15,000đ)</p>
+			<p>-	Cú pháp: <strong>DTA</strong> &lt;dấu cách&gt; <strong>&lt;Mã số tin&gt;</strong> gửi tới <strong>8700</strong></p>
+			<br>
+			<p><strong>Đăng tin Cate 2</strong> (Xe máy - Xe đạp, PC – Laptop, Điện thoại – Sim, Tuyển dụng – Tuyển sinh, Thời trang - Làm đẹp) (10,000đ)</p>
+			<p>-	Cú pháp: <strong>DTB</strong> &lt;dấu cách&gt; <strong>&lt;Mã số tin&gt;</strong> gửi tới <strong>8600</strong></p>
+			<br>
+			<p><strong>Đăng tin Cate 3</strong> (còn lại) (5,000đ)</p>
+			<p>-	Cú pháp: <strong>DTC</strong> &lt;dấu cách&gt; <strong>&lt;Mã số tin&gt;</strong> gửi tới <strong>8500</strong></p>
+			<br>
+			<p><strong>Đẩy tin</strong></p>
+			<p>-	Cú pháp: <strong>DTU</strong> &lt;dấu cách&gt; <strong>&lt;Mã số tin&gt;</strong> gửi tới <strong>8700</strong> (15,000đ / 5 lần)</p>
+			<br>
+			<p><strong>Xóa tin</strong></p>
+			<p>-	Cú pháp: <strong>DTD</strong> &lt;dấu cách&gt; <strong>&lt;Mã số tin&gt;</strong> gửi tới <strong>8500</strong> (5,000đ)</p>
+			<br>
+			<p><strong>Sửa tin</strong></p>
+			<p>-	Cú pháp: <strong>DTE</strong> &lt;dấu cách&gt; <strong>&lt;Mã số tin&gt;</strong> gửi tới <strong>8600</strong> (10,000đ)</p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_13" style="display:none;">
+		<h1>Chuyển khoản ngân hàng</h1>
+		<div class="iterm_htro">
+			<p><strong>Hoàn thành bước "Soạn tin", khách hàng chọn hình thức thanh toán trực tiếp qua chuyển khoản ngân hàng như sau:</strong></p><br>
+			<p><strong>Bước 1: </strong>Lựa chọn hình thức chuyển khoản qua ngân hàng.</p>
+			<p><strong>Bước 2: </strong>"Thanh toán" với nội dung chuyển khoản cần ghi đúng: <strong>Raovatvnexpress_[mã giao dịch]</strong></p>
+			<p><strong>Bước 3: </strong> "Thanh toán".</p>
+			<p style="text-align:center;">(Khi thanh toán thành công hệ thống sẽ gửi mail thông báo thành công về email của bạn)</p>
+			<p style="text-align:center;"><strong>Mọi thắc mắc hay liên hệ có thể gọi tới số hotline: Miền Bắc: 01276606303</strong></p>
+			<p style="text-align:center;"><strong>Miền Trung và Nam: 0904604493</strong></p>
+			<br>
+			<p><strong>Bạn có thể chuyển khoản qua các chi nhánh ngân hàng trên cả nước.</strong></p>
+			<br>
+			<p><strong>Bước 1: </strong>Lấy thông tin tk Ngân hàng và Người hưởng thụ.</p>
+			<p><strong>Bước 2: </strong> Tới các địa điểm chi nhánh ngân hàng giao dịch, chuyển khoản với nội dung chuyển khoản cần ghi đúng: <strong>Raovatvnexpress_[mã giao dịch]</strong></p>
+			<p><strong>Bước 3: </strong> Hoàn thành "Thanh toán".</p>
+			<p style="text-align:center;">(Khi thanh toán thành công hệ thống sẽ gửi mail thông báo thành công về email của bạn)</p>
+			<p style="text-align:center;"><strong>Mọi thắc mắc hay liên hệ có thể gọi tới số hotline: Miền Bắc: 01276606303</strong></p>
+			<p style="text-align:center;"><strong>Miền Trung và Nam: 0904604493</strong></p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_14" style="display:none;">
+		<h1>Thanh toán qua Senpay (Internet banking)</h1>
+		<div class="iterm_htro">
+			<p><strong>1. Điều kiện thanh toán:</strong></p>
+			<p style="padding-left: 15px;">Để thanh toán trực tuyến bạn cần đăng ký dịch vụ ngân hàng điện tử tại ngân hàng bạn đang sử dụng.</p>
+			<br>
+			<p><strong>2. Các bước thanh toán:</strong></p>
+			<p><strong>Bước 1: </strong> : Hoàn thành bước "liên hệ", lựa chọn Thanh toán trực tuyến qua cổng thanh toán điện tử.</p>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/thoanh_toan_dien_tu.png">
+			<p><strong>Bước 2: </strong> Thực hiện các bước theo Senpay.</p>
+			<p><strong>Bước 3: </strong> Hoàn thành "Thanh toán".</p>
+			<p style="text-align:center;">(Khi thanh toán thành công hệ thống sẽ gửi mail thông báo thành công về email của bạn)</p>
+			<p style="text-align:center;"><strong>Mọi thắc mắc hay liên hệ có thể gọi tới số hotline: Miền Bắc: 01276606303</strong></p>
+			<p style="text-align:center;"><strong>Miền Trung và Nam: 0904604493</strong></p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_15" style="display:none;">
+		<h1>Tin trang chủ VnExpress</h1>
+		<div class="iterm_htro">
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/trang_chu_vne.png">
+			<ul>
+				<li>Tiếp cận hơn 10 Triệu độc giả mỗi ngày.</li>
+				<li>Vị trí hiển thị ngay mặt trang báo VnExpress.net tại box Rao vặt</li>
+				<li>Tin đăng được hiển thị với hình ảnh, cùng với 3 dòng tin hiển thị nổi bật.</li>
+				<li>Vị trí tin box VnExpress, phù hợp cho những tin cần quảng cáo dự án, quảng cáo thương hiệu, một cách tốt nhất để tiếp cận người tiêu dùng.</li>
+				<li>Tin được hiển thị tại chuyên mục tin thường.</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_16" style="display:none;">
+		<h1>Tin trang chủ Rao vặt loại 1</h1>
+		<div class="iterm_htro">
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/tin_loai_1.png">
+			<ul>
+				<li>Tiếp cận hơn 50.000 độc giả mỗi ngày.</li>
+				<li>Vị trí hiển thị ngay mặt trang chủ Raovat.VnExpress.net</li>
+				<li>Tin đăng được hiển thị với hình ảnh to hơn tin loại 2, hiển thị nổi bật.</li>
+				<li>Được hiển thị trong box Tin được quan tâm ở tất cả chuyên mục.</li>
+				<li>Vị trí tin Vip loại 1 với giá 200.000 VNĐ/ ngày, phù hợp cho những tin cần được bán ngay và mua ngay.</li>
+				<li>Tin được hiển thị tại chuyên mục tin thường.</li>
+			</ul>
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/tin_loai_12.png">
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_17" style="display:none;">
+		<h1>Tin trang chủ Rao vặt loại 2</h1>
+		<div class="iterm_htro">
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/tin_loai_2.png">
+			<ul>
+				<li>Tiếp cận hơn 25.000 độc giả mỗi ngày.</li>
+				<li>Vị trí hiển thị ngay mặt trang chủ Raovat.VnExpress.net</li>
+				<li>Tin đăng được hiển thị với hình ảnh to hơn, hiển thị nổi bật.</li>
+				<li>Vị trí tin Vip loại 2, phù hợp cho những tin cần được bán ngay và mua ngay.</li>
+				<li>Tin được hiển thị tại chuyên mục tin thường.</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_18" style="display:none;">
+		<h1>Tin Vip chuyên mục</h1>
+		<div class="iterm_htro">
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/tin_vip_chuyen_muc.png">
+			<ul>
+				<li>Tiếp cận được đúng khách hàng tiềm năng lựa chọn chuyên mục cần để xem tin.</li>
+				<li>Lượng tiếp cận hơn 22.000 độc giả mỗi ngày.</li>
+				<li>Vị trí Top đầu chuyên mục với hình ảnh tiêu đề nổi bật hơn.</li>
+				<li>Hiển thị với hình ảnh to, tiêu đề nổi bật "in đậm".</li>
+				<li>Hiển thị theo cơ chế slide chuyển động liên tục và đổi mới.</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_19" style="display:none;">
+		<h1>Tin Hot</h1>
+		<div class="iterm_htro">
+			<img src="http://st.f3.raovat.vnecdn.net/i/v10/graphics/tin_hot.png">
+			<ul>
+				<li>Tick Hot được gắn vào cuối mỗi tin.</li>
+				<li>Giúp KH có thể chú ý và đọc tin thông tin "nhanh hơn".</li>
+				<li>Kết hợp cùng Đẩy tin để đạt kết quả tốt nhất cho Tick Hot tin của bạn.</li>
+			</ul>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_20" style="display:none;">
+		<h1>An toàn khi giao dịch</h1>
+		<div class="iterm_htro">
+			<p>HƯỚNG DẪN AN TOÀN KHI GIAO DỊCH TRÊN Raovat.vnexpress.net</p>
+			<br>
+			<p><strong>1. Raovat.vnexpress.net khuyến cáo với các độc giả khi thực hiện giao dịch mua và bán hàng hóa: </strong></p>
+			<p style="padding-left: 15px;">- Để đảm bảo an ninh, an toàn khi giao dịch, Người Mua và Người Bán cần hẹn gặp ở nơi công cộng.</p>
+			<p style="padding-left: 15px;">- Không thanh toán tiền trước khi nhận được hàng.</p>
+			<p style="padding-left: 15px;">- Không gửi hàng trước khi hoàn tất thoả thuận thanh toán.</p>
+			<p style="padding-left: 15px;">- Không thanh toán tiền cho người bán mà Bạn không biết rõ về nhân thân của họ.</p>
+			<p style="padding-left: 15px;">- Không nên đặt niềm tin ngay với những người bán hàng khi chỉ cung cấp họ tên, số chứng minh nhân dân, và số tài khoản của họ qua điện thoại, email…</p>
+			<p style="padding-left: 15px;">- Khi mua hàng, tốt nhất, Bạn nên yêu cầu người bán chuẩn bị các giấy tờ, các biên nhận gốc, rõ ràng, hợp pháp liên quan đến giao dịch mua bán này.</p>
+			<p style="padding-left: 15px;">- Kiểm tra hàng hóa cẩn thận, đặc biệt khi mua hàng cũ, đã qua sử dụng.</p>
+			<p style="padding-left: 15px;">- Khi mua hàng mới, đặc biệt là hàng hiệu, giá trị cao, cần mua tại cửa hàng, có địa chỉ, biển hiệu rõ ràng. Bạn có thể nhờ các chuyên gia xác minh về món hàng để tránh mua phải hàng giả.</p>
+			<br>
+			<p><strong>2. Raovat.vnexpress.net khuyến cáo với các độc giả là Người tìm việc:</strong></p>
+			<p style="padding-left: 15px;">- Raovat.vnexpress.net có trách nhiệm kiểm tra và lưu giữ thông tin tài khoản đăng tin, số điện thoại gửi tin đăng,… của các nhà tuyển dụng. Việc lựa chọn đơn vị tuyển dụng nào, là hoàn toàn do Người tìm việc quyết định.</p>
+			<p style="padding-left: 15px;">- Thận trọng trước những thông tin giới thiệu việc làm, có đề xuất những mức thù lao quá cao, so với vị trí công việc bạn ứng tuyển.</p>
+			<p style="padding-left: 15px;">- Thận trọng khi tìm hiểu thông tin Nhà Tuyển Dụng trước khi đến phỏng vấn xin việc. Cảnh giác khi có yêu cầu nộp nhiều loại phí từ nhà tuyển dụng.</p>
+			<p style="padding-left: 15px;">- Cảnh giác những nội dung tuyển dụng không rõ ràng: địa chỉ công ty, cửa hàng, văn phòng…</p>
+			<p style="padding-left: 15px;">- Raovat.vnexpress.net không chịu trách nhiệm và không bảo đảm về tính chính xác của thông tin được đăng. Đồng thời, không chịu bất cứ trách nhiệm pháp lý, bồi thường thiệt hại nào về việc mất mát, hư hỏng đối với những hàng hóa được đề cập đến trong tất cả các giao dịch trên Raovat.Vnexpress.net. </strong></p>
+			<p style="padding-left: 15px;">- Nếu bạn bị lừa đảo, hoặc biết về một thông tin có dấu hiệu lừa đảo, xin phản ánh trực tiếp với chúng tôi tại:</strong></p>
+			<br>
+			<p style="text-align:center;">Tổng đài chăm sóc khách hàng toàn quốc của hệ thống báo Raovat.Vnexpress.net</p>
+			<p style="text-align:center;"><strong>Điện thoại: Miền Bắc: 01276606303 Miền Trung và Nam: 0904604493</strong></p>
+			<p style="text-align:center;"><strong>Link Email hỗ trợ: <a href="http://raovat.vnexpress.net/lien-he">http://raovat.vnexpress.net/lien-he</a></strong></p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_21" style="display:none;">
+		<h1>Bạn có biết</h1>
+		<div class="iterm_htro">
+			<p><strong>1. Khi đăng tin lên Raovat.VnExpress.net</strong></p>
+			<p style="padding-left: 15px;">- Đăng tin có hình sẽ tăng hiệu quả rao vặt hơn 60%. Người mua luôn được "mắt thấy" trước khi "tay sờ". Và hình ảnh này cũng đập vào mắt người lướt web Raovat.Vnexpress.net  trước khi họ nhìn tin kế tiếp.</p>
+			<p style="padding-left: 15px;">- Bạn nhắn tin SMS để đăng tin, tài khoản của Bạn bị trừ tiền nhưng không thấy phản hồi từ tổng đài 6x89. Hãy liên lạc với tổng đài điện thoại để được hướng dẫn: <strong>MobiFone: 1800 1090, VinaPhone: 1800 1091, Viettel: 1800 8198.</p></strong></p>
+			<p style="padding-left: 15px;">- Khi đăng tin mục "Bất động sản" Bạn cần xác định Quận/Huyện và Tỉnh/Thành. Để chúng tôi xếp tin của Bạn vào đúng hạng mục  thông tin và giúp cho người đọc tin dễ dàng tìm thấy tin đăng của Bạn.</p>
+			<p style="padding-left: 15px;">- Bạn có thể đăng lại tin cũ, bằng cách sử dụng chức năng "Đẩy tin" với chi phí 15.000VNĐ cho 5 lần. </p>
+			<p style="padding-left: 15px;">- Bạn không lạm dụng đăng nhiều tin cùng một nội dung, vì chúng tôi sẽ coi đó là các tin spam. Nhiều tin có nội dung trùng lặp hoặc tương tự như nhau sẽ gây ấn tượng không tốt với Bạn đọc  website, và phần nào làm ảnh hưởng tới tốc độ truy cập của toàn hệ thống.</p>
+			<p style="padding-left: 15px;">- Khi thanh toán hóa đơn bằng hình thức nhắn tin SMS, cú pháp <strong>DTA , DTB, DTC, DTU, DTE, DTD<khoảng cách> Mã tin gửi 6x89</strong>. Bạn nên chú ý cú pháp được website hiển thị. Điều này giúp bạn tránh khỏi tình trạng bị trừ tiền nhiều hơn giá trị của hóa đơn.</p>
+			<p style="padding-left: 15px;">- Với những tin đã mua dịch vụ, vào thời điểm hết hạn dịch vụ, sẽ được hiển thị trở lại ví trí thời gian đăng ban đầu trong mục tin thường.</p>
+			<p style="padding-left: 15px;">- Khi đăng tin, bạn cần soạn nội dung có dấu tiếng Việt. Các tin gửi đăng nếu không bỏ dấu tiếng Việt sẽ được bộ phận admin của báo chỉnh sửa lại cho hoàn chính và đúng với thuần phong mỹ tục của báo.</p>
+			<p style="padding-left: 15px;">- Bạn có thể xóa tin, đẩy tin, sửa tin ngay tại trên website Raovat.Vnexpress.net. Khi gặp phải trường hợp khó khăn về lỗi hệ thống bạn có thể cần liên lạc với bộ phận CSKH của chúng tôi để được hướng dẫn và hỗ trợ.</p>
+			<br>
+			<p><strong>2. Khi đọc tin trên Raovat.Vnexpress.net</strong></p>
+			<p style="padding-left: 15px;">- 99% tin đăng trên Raovat.Vnexpress.net đều qua kiểm duyệt. Đội ngũ duyệt tin chúng tôi phải liên tục sửa tin mỗi ngày. Vì vậy hãy yên tâm về chất lượng tin của chúng tôi. Tuy nhiên, hãy cẩn thận nếu bạn thấy ai đó bán một món hàng quá rẻ so với thị trường. Hãy so sánh giá món hàng bạn định mua với các món hàng tương tự được rao bán trên Raovat.Vnexpress.net để xem chênh lệch giá bao xa. Xin tham khảo "Hướng dẫn An toàn giao dịch" chúng tôi luôn cảnh báo trên tất cả trang tin, chi tiết <a class="menu_hotro_item" data-hotro="20" href="/ho-tro?tab=20">tại đây</a>.</p>
+			<p style="padding-left: 15px;">- <strong>Chức năng tìm kiếm:</strong> Tùy lĩnh vực quan tâm, bạn đọc có thể tìm thông tin chính xác theo Chuyên mục, chuyên mục con, tỉnh thành ….với từ khóa mà mình quan tâm.</p>
+			<p style="padding-left: 15px;">- <strong>Chức năng đọc tin:</strong> Thông tin cần đọc được sắp xếp theo: thời gian tin mới gửi sẽ được xếp lên vị trí đầu của mục tin thường và sẽ bị đẩy xuống vị trí thứ 2 khi có một tin mới khác được đăng lên, số km đã đi (với tin thị trường Ô tô)...</p>
+			<p style="padding-left: 15px;">Hi vọng sẽ giúp đỡ, hỗ trợ tốt hơn cho Bạn đọc khi tìm kiếm, tra cứu thông tin trên website Raovat.Vnexpress.net</p>
+			<br>
+			<p><strong>Mọi góp ý, phản ánh, xin mời Bạn liên lạc về:</strong></p>
+			<p style="text-align:center;">Tổng đài chăm sóc khách hàng toàn quốc của hệ thống báo Raovat.Vnexpress.net</p>
+			<p style="text-align:center;"><strong>Điện thoại: Miền Bắc: 01276606303 Miền Trung và Nam: 0904604493</strong></p>
+			<p style="text-align:center;"><strong>Link Email hỗ trợ: <a href="http://raovat.vnexpress.net/lien-he">http://raovat.vnexpress.net/lien-he</a></strong></p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_22" style="display:none;">
+		<h1>Đăng ký thành viên</h1>
+		<div class="iterm_htro">
+			<p><strong>1. Tôi đã đăng ký thành viên nhưng chưa nhận được Email xác nhận của Raovat.Vnexpress.net?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;"> - Nếu bạn gặp phải trường hợp trên, do các nguyên nhân sau:</p>
+			<p style="padding-left: 30px;"> + Bạn nhập không đúng email khi đăng ký thành viên.</p>
+			<p style="padding-left: 30px;"> + Nếu bạn đã sử dụng email Yahoo, Gmail... Xin vui lòng kiểm tra Bulk hay Spam Mail.</p>
+			<p style="padding-left: 15px;"> - Nếu sau 48h kể từ khi gửi Đăng ký thành viên và Bạn chưa kích hoạt tài khoản thông qua Email xác nhận của Raovat.Vnexpress.net gửi đến, hãy gọi tới số hotline: Miền Bắc: 01276606303, Miền Trung và Nam: 0904604493 để được hỗ trợ.</p>
+			<p style="padding-left: 15px;"> - Với hệ thống MyVnExpress tối ưu của báo VnExpress, bạn hãy xem thật kỹ trong các hòm thư của mình nhé.</p>
+			<br>
+			<p><strong>2. Tôi đã quên mật khẩu không thể login vào Raovat.Vnexpress.net?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Mời bạn nhấp vào Quên mật khẩu, bạn hãy điền địa chỉ Email đã đăng ký vào box Email, sau đó mở email xác nhận của Raovat.Vnexpress.net gửi đến để Tạo mật khẩu mới.</p>
+			<br>
+			<p><strong>3. Tôi muốn sửa đổi thông tin Thành viên của mình thì phải làm thế nào?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Sau khi đăng ký thành công làm thành viên Raovat.Vnexpress.net. Muốn sửa đổi thông tin thành viên, bạn vào Trang cá nhân bằng cách nhấp vào email của mình sau khi đăng nhập, tại đó có chức năng cho phép thay đổi Thông tin cá nhân.</p>
+			<br>
+			<p><strong>4. Tại sao tôi đăng nhập vào tài khoản của mình trên Raovat.Vnexpress.net không được, hệ thống nói tài khoản không tồn tại.</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Bạn có thể xem lại địa chỉ mail, mật khẩu xem đã nhập đúng chưa nếu bạn chắc chắn rằng bạn đã nhập đúng bạn có thể thực hiện theo câu số 2 “quên mật khẩu”, nếu vẫn báo tài khoản không có trong hệ thống bạn có thể click vào link Đăng ký để đăng kí lại tài khoản.</p>
+			<br>
+			<p><strong>5. Một số điện thoại, một mail được xác thực mấy tài khoản? Tôi có thể thay đổi số điện thoại này được không?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Mỗi số điện thoại, mail chỉ có thể xác thực được cho một địa chỉ email. Bạn có thể thay đổi số điện thoại khác vào tài khoản, thỏa điều kiện số điện thoại này chưa được dùng cho một tài khoản nào trước đó.</p>
+			<br>
+			<p><strong>6. Tôi đã đăng ký tài khoản trên Raovat.Vnexpress.net với email cũ. Giờ tôi không thể dùng lại email cũ. Vậy tôi có thể đổi email cũ sang email mới được không? </strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Bạn không thể thay đổi email cũ sang email mới. Bạn cần tạo một tài khoản mới để sử dụng tiếp.</p>
+			<br>
+			<p><strong>7. Tôi không tạo tài khoản đăng nhập trên Raovat.Vnexpress.net có được không? Tạo tài khoản trên website các bạn có những lợi ích nào?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Bạn có thể sử dụng một tài khoản thứ 3 thay thế đăng ký trên Raovat.vnexpress.net như là : Facebook, google, vitalk. Tuy nhiên, nếu bạn tạo tài khoản và điền đầy đủ thông tin, bạn có thể dễ dàng quản lý tin đăng của mình, có thể tra cứu, tìm kiếm, chỉnh sửa tin đăng, và có cơ hội nhận được nhiều thông tin chăm sóc.</p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_23" style="display:none;">
+		<h1>Đăng tin và thanh toán</h1>
+		<div class="iterm_htro">
+			<p><strong>1. Tôi nhắn tin SMS gửi 6x89 thì sẽ bị trừ tiền trong tài khoản ra sao?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Khi đăng tin thanh toán bằng SMS tới các đầu số 6789 phí là 15.000VNĐ, đầu số 6689 phí là 10.000VNĐ, Đầu số 6589 phí là 5000 VNĐ. Nếu bạn kiểm tra tài khoản thấy bị trừ nhiều hơn hãy gọi đến tổng đài Miễn phí của mạng viễn thông mà bạn đang sử dụng để được giải đáp: MobiFone: 1800 1090, VinaPhone: 1800 1091, Viettel: 1800 8198.</p>
+			<br>
+			<p><strong>2. Tôi nhắn tin nhưng không nhận được thông tin phản hồi?</strong>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Bạn gửi tin nhắn SMS để thanh toán, tài khoản của Bạn bị trừ tiền nhưng không thấy phản hồi. Hãy xem lại tin nhắn đã đúng cú pháp chưa? Nếu đúng hãy liên lạc với tổng đài điện thoại để được hướng dẫn: MobiFone: 1800 1090, VinaPhone: 1800 1091, Viettel: 1800 8198. Nếu tổng đài xác nhận bạn đã nhắn thành công, hãy gọi ĐT hỗ trợ của nhà cung cấp dịch vụ đầu số 6x89 : 04.37833688 ext 419.</p>
+			<br>
+			<p><strong>4. Tôi đã đăng tin tới bước thanh toán, giờ tôi muốn thanh toán bằng SMS nhưng không thấy hiển thị hình thức thanh toán qua SMS, xin vui lòng giải thích?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;">Hình thức thanh toán hóa đơn đăng tin trên website Raovat.Vnexpress.net, sử dụng tin nhắn SMS, chỉ thanh toán được cho các hóa đơn có giá trị từ 15.000đ trở xuống. Trường hợp này chứng tỏ hóa đơn của bạn có giá trị trên 15.000đ. Mời bạn chọn các hình thức khác để thanh toán cho hóa đơn này.</p>
+			<br>
+			<p><strong>5. Tôi dùng thuê bao trả trước của Viettel/Mobile/Vina nhắn tin đến đầu số 6x89 được khoảng hơn 10 tin thì không nhắn được nữa và nhận được tin nhắn: “Bạn đã nhắn tin vượt quá mức cho phép trên ngày theo quy định của Viettel”. Tôi không hiểu tại sao và giờ làm thế nào để tôi tiếp tục đăng tin?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;"> - Để đảm bảo an toàn tài khoản điện thoại di động cho các chủ thuê bao, các nhà mạng đã hạn chế thuê bao khi sử dụng dịch vụ tin nhắn gửi tới đầu số, với số tiền sử dụng trong ngày chỉ khoảng từ 150.000đ-210.000đ. Bạn đang ở trong trường hợp này. Ngày hôm sau, bạn lại được gửi tin nhắn như bình thường.</p>
+			<p style="padding-left: 15px;"> - Tuy nhiên, chúng tôi khuyến khích Bạn nên sử dụng cách dịch vụ thêm của chúng tôi thanh toán thông qua hình thức hóa đơn bằng ví điện tử SenPay, một sản phẩm của tập đoàn FPT, rất thuận tiện, an toàn, dễ quản lý hóa đơn và tài khoản trong ví.</p>
+			<br>
+			<p><strong>6. Tôi là thuê bao điện thoại trả sau, vậy tôi có thể sử dụng hình thức thanh toán qua SMS?</strong></p>
+			<p style="text-decoration:underline;">Trả lời:</p>
+			<p style="padding-left: 15px;"> - Có một số nguyên nhân dẫn đến tình trạng này. Bạn cần kiểm tra:</p>
+			<p style="padding-left: 30px;"> + Tài khoản điện thoại còn đủ để thanh toán hóa đơn?</p>
+			<p style="padding-left: 30px;"> + Đã sử dụng đúng đầu số 6x89 chưa?</p>
+			<p style="padding-left: 30px;"> + Điện thoại của bạn có bị khóa dịch vụ giá trị gia tăng, không thể sử dụng các dịch vụ cung cấp nội dung qua nhắn tin đến đầu số. Bạn liên lạc với tổng đài CSKH của mạng di động bạn đang dùng để hỏi rõ việc này.</p>
+			<p style="padding-left: 30px;"> + Có thể do trục trặc đường truyền mạng di động, bạn có thể để sau một thời gian rồi làm lại việc nhắn tin.</p>
+			<p style="padding-left: 15px;"> - Bạn cũng có thể dùng một số điện thoại khác, của nhà mạng khác, để gửi lại tin nhắn trên.  </p>
+			<br>
+			<p style="padding-left: 15px;"><strong>Chú ý:</strong> Những đầu số mới như : 086, 088, 089… đều chưa thể gửi tin nhắn dịch vụ</p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_24" style="display:none;">
+		<h1>Quy trình giải quyết khiếu nại</h1>
+		<div class="iterm_htro">
+			<p>Mọi tranh chấp, khiếu nại liên quan đến các giao dịch trên Sàn giao dịch TMĐT giữa người mua và người bán sẽ được hai bên phải tự giải quyết với nhau. Trướ c hết bên bi ̣vi phạm sẽ liên lạc bên kia để khiếu nại, trao đổi và tìm ra phương pháp tự giải quyết trên cơ sở thương lươṇg, hòa giải.<br />
+			- Các khiếu nại của khách hàng liên quan đến dịch vụ tại Raovat.vnexpress.net xin gửi về trụ sở: 
+			</p>
+			<p><strong>CÔNG TY CỔ PHẦN TRỰC TUYẾN FPT</strong>
+			<p>Địa chỉ: Số 1 Nam Kỳ Khởi Nghĩa, P. Nguyễn Thái Bình, Q. 1, TP.Hồ Chí Minh </p>
+			<p>Điện thoại: 0904604493</p>
+			<p>Email: Raovat@vnexpress.net</p>
+			<p>Mọi tranh chấp phát sinh liên quan đến các dịch vụ trên website Raovat.vnexpress.net trước hết sẽ được giải quyết trên cơ sở thương lượng và hòa giải giữa các bên.</p>
+			<p>+ Trường hợp không đạt được thỏa thuận như mong muốn thì một trong các Bên có quyền đưa tranh chấp ra Tòa án nhân dân có thẩm quyền tại Thành Phố Hồ Chí Minh để giải quyết và áp dụng pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam.</p>
+		</div>
+	</div>
+	<div class="content_hotro width_common content_hotro_25" style="display: none;">
+		<h1>Quy chế đồng rao</h1>
+		<div class="iterm_htro">
+			<p><strong style="text-decoration:underline;"> Điều 1: Giải thích từ ngữ</strong></p>
+			<p style="padding-left: 15px;"><strong>1. Đồng Rao (DR):</strong> Là đơn vị quy đổi của trang Raovat.vnexpress.net (RVE) để sử dụng các dịch vụ tính phí được cung cấp bởi RVE như đăng tin, đẩy tin, nâng cấp tin, nâng cấp tài khoản,...</p>
+			<br>
+			<p style="padding-left: 15px;"><strong>2. Tài khoản Đồng Rao:</strong> Là nơi lưu giữ các thông tin liên quan đên việc nạp và sử dụng Đồng Rao mỗi người dung chỉ có duy nhất 1 tài khoản Đồng Rao.</p>
+			<p style="padding-left: 15px;"><strong>3. Gói Đồng Rao:</strong> là các gói Đồng Rao có mệnh giá nhất định do RVE cung cấp.</p>
+			<br>
+			<p style="padding-left: 15px;"><strong>4. Internet banking:</strong> là dịch vụ ngân hàng điện tử dùng để truy vấn thông tin tài khoản và thực hiện các giao dịch chuyển khoản, thanh toán qua mạng <strong>Internet</strong>. Dịch vụ này cho phép khách hàng thực hiện giao dịch trực tuyến mà không cần đến Ngân hàng.</p>
+			<br>
+			<p style="padding-left: 15px;"><strong>5. Thẻ tín dụng: </strong> là một hình thức thay thế cho việc thanh toán trực tiếp. Hình thức thanh toán này được thực hiện dựa trên uy tín. Chủ thẻ không cần phải trả tiền mặt ngay khi mua hàng. Thay vào đó, Ngân hàng sẽ ứng trước tiền cho người bán và Chủ thẻ sẽ thanh toán lại sau cho ngân hàng khoản giao dịch.</p>
+			<br>
+			<p style="padding-left: 15px;"><strong>6. Sự kiện bất khả kháng: </strong> Là sự kiện khách quan không thể lường trước và không thể khác phục dù đã áp dụng mọi biện pháp cần thiết</p>
+			<p style="padding-left: 15px;"><strong>7. DR: Đồng Rao </strong></p>
+			<p style="padding-left: 15px;"><strong>8. RVE: Raovat.vnexpress.net</strong></p>
+			<br>
+			<!--================================= -->
+			<p><strong style="text-decoration:underline;">Điều 2: Đối tượng áp dụng</strong></p>
+			<p style="padding-left: 15px;">Quy chế này áp dụng cho tất cả người dung có đăng ký tài khoản của RVE và tham gia việc nạp DR và sử dụng các dịch vụ hợp lệ cung cấp bởi RVE.</p>
+			<br>
+			<!-- ======================= -->
+			<p><strong style="text-decoration:underline;">Điều 3: Cách thức nạp DR</strong></p>
+			<p style="padding-left: 15px;"><strong>1.	Người dùng có thể nạp DR theo các hình thức sau: </strong></p>
+			<p style="padding-left: 30px;"><strong>a.	Chuyển khoản ngân hàng </strong></p>
+			<p style="padding-left: 30px;"><strong>b.	Internet banking </strong></p>
+			<p style="padding-left: 30px;"><strong>c.	Thẻ ATM nội địa </strong></p>
+			<p style="padding-left: 30px;"><strong>d.	Thẻ tín dụng quốc tế (Visa/Master/JBC) </strong></p>
+			<br>
+			<p style="padding-left: 15px;"><strong>2.	Các bước nạp DR</strong></p>
+			<p style="padding-left: 30px;">Bước 1: Đăng nhập tài khoản Raovat VnExpress và chọn “nạp tiền tài khoản như trong hình”</p>
+			<p style="padding-left: 30px;"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/naptien-dr1.png"></p>
+			<p style="padding-left: 30px;">Bước 2: Chọn gói nạp Đồng Rao phù hợp với nhu cầu của bạn</p>
+			<p style="padding-left: 30px;"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/naptien-dr2.png"></p>
+			<p style="padding-left: 30px;">Bước 3: Chọn hình thức thanh toán <strong> Thanh toán online hoặc chuyển khoản ngân hàng</strong></p>
+			<p style="padding-left: 30px;"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/naptien-dr3.png"></p>
+			<p style="padding-left: 30px; text-align: center;font-style: italic;">Chuyển khoản ngân hàng</p>
+				<p style="padding-left: 30px;"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/naptien-dr4.png"></p>
+				<p style="padding-left: 30px; text-align: center;font-style: italic;">Thanhtoán online (ATM nội địa / Visa)</p>
+				<br>
+				<!-- ========================== -->
+			<p><strong style="text-decoration:underline;">Điều 4: Nguyên tắc sử dụng DR</strong></p>
+			<p style="padding-left: 15px;">1.	Trong mọi trường hợp, người dùng đã nạp DR và tài khoản DR bằng cách hình thức theo điều khoản 3.1 (Quy chế Đồng Rao) đều không được hoàn trả lại.</p>
+			<br>
+			<p style="padding-left: 15px;">2.	DR không phải là tài sản có giá trị như tiền, bất động sản hay các loại tiền tệ khác.</p>
+			<br>
+			<p style="padding-left: 15px;">3.	DR chỉ được dùng để trao đổi sang các đơn vị dịch vụ, sản phẩm khác do RVE cung cấp.</p>
+			<br>
+			<p style="padding-left: 15px;">4.	Trường họp người dùng sử dụng DR cho mục đích khác ngoài dịch vụ do RVE cung cấp thì VNE được loại trừ toàn bộ trách nhiệm có liên quan.</p>
+			<br>
+			<p style="padding-left: 15px;">5.	DR tồn tại cùng tài khoản RVE, trường hợp tài khoản RVE bị xóa/khóa vì bất kỳ lý do gì thì DR trong tài khoản RVE cũng sẽ bị xóa/khóa.</p>
+			<br>
+			<p style="padding-left: 15px;">6.	Khi người dùng đã quy đổi DR cho các dịch vụ/sản phẩm cung cấp bởi RVE thì được coi như đã sử dụng DR và dịch vụ/sản phẩm đó sẽ không được quy đổi thành DR dưới bất kỳ hình thức nào.</p>
+			<p style="padding-left: 15px;">7.	Tùy từng loại dịch vụ/sản phẩm sẽ có giá trị quy đổi DR khác nhau và được công khai trên website: <a href="https://stportal.eclick.vn/v20/files/BG_Raovat_new.pdf"> https://stportal.eclick.vn/v20/files/BG_Raovat_new.pdf</a> </p>
+			<br>
+			<!-- ================================= -->
+			<p><strong style="text-decoration:underline;">Điều 5: Trách nhiệm của RVE</strong></p>
+			<p style="padding-left: 15px;">1.	Đảm bảo vận hành ổn định hệ thống quy đổi DR và duy trì giá quy đổi DR cũng như tạo điều kiện tốt nhất cho người dùng sử dụng DR hiệu quả.</p>
+			<br>
+			<p style="padding-left: 15px;">2.	Hỗ trợ người dùng quá trình quy đổi DR thành các dịch vụ/ sản phẩm của RVE.</p>
+			<br>
+			<p style="padding-left: 15px;">3.	Thông tin công khai kịp thời tới người dùng nếu có sự thay đổi về chính sách và giá trị quy đổi DR.</p>
+			<br>
+			<p style="padding-left: 15px;">4.	Bảo mật thông tin cá nhân, thông tin DR của chủ tài khoản DR, không bán hoặc trao đổi thông tin với bên thứ 3 trừ trường hợp bất khả kháng.</p>
+			<br>
+			<p style="padding-left: 15px;">5.	Nhận và giải quyết khiếu nại của người dùng với các trường hợp phát sinh trong quá trình sử dụng, quy đổi DR theo quy chế này. Có giải pháp hỗ trợ cho người dùng trong trường hợp ngừng hoạt động, chính sách hỗ trợ phải được công khai trên website. </p>
+			<br>
+			<p style="padding-left: 15px;">6.	Trường hợp các sự kiện bất khả kháng như lỗi hệ thống, thiên tai,.. RVE sẽ tạo điều kiện để hỗ trợ người dùng hết sức có thể. </p>
+			<br>
+			<!-- ================================== -->
+			<p><strong style="text-decoration:underline;">Điều 6: Trách nhiệm của người dùng khi nạp và sử dụng DR</strong></p>
+			<p style="padding-left: 15px;">1.	Thực hiện nghiêm chỉnh các quy định của quy chế này và các quy định quản lý liên quan.</p>
+			<br>
+			<p style="padding-left: 15px;">2.	Cam kết đã đọc và hiểu rõ cách thức nạp và sử dụng DR được đăng tại công khai trên website: raovat.vnexpress.net/quy-che-dong-rao. </p>
+			<br>
+			<p style="padding-left: 15px;">3.	Do chủ quan và khách quan mà RVE phải ngừng / tạm ngừng dịch vụ thì tùy từng trường hợp mà RVE sẽ áp dụng chính sách xử lý bảo vệ quyền lợi người dùng. Người dùng đồng ý và chấp nhận chính sách do RVE để ra </p>
+			<br>
+			<p style="padding-left: 15px;">4.	Chịu trách nhiệm quản lý và sử dụng đối với việc sử dụng DR trong tài khoản của mình. </p>
+			<br>
+			<p style="padding-left: 15px;">5.	Trường hợp có sự kiện bất khả kháng (lỗi hệ thống, thiên tai,..) người dùng đồng ý và hoàn toàn chấp nhận rủi ro liên quan tới DR  </p>
+			<br>
+			<p style="padding-left: 15px;">6.	RVE loại trừ khỏi nghĩa vụ pháp lý phát dinh do vi phạm của người dùng trong quá trình sử dụng sản phẩm/dịch vụ của RVE</p>
+			<br>
+			<!-- ========================= -->
+			<p><strong style="text-decoration:underline;">Điều 7: Giải quyết tranh chấp khiếu nại</strong></p>
+			<p style="padding-left: 15px;">1.	Bất kỳ tranh chấp phát sinh trong quá trình sử dụng sản phẩm dịch vụ mà RVE cho phép sẽ được ưu tiên giải quyết theo các quy định sử dụng của sản phẩm, dịch vụ đó, trường hợp không giải quyết được thì thực hiện theo pháp luật hiện hành của nước Cộng hòa xã hội chủ nghĩa Việt Nam.</p>
+			<br>
+			<p style="padding-left: 15px;">2.	Bất kỳ khiếu nại nào phát sinh trong quá trình nạp và sử dụng DR phải được gửi đến Phòng Hỗ Trợ khách hàng của VRE ngay sau khi xảy ra sự kiện phát sinh khiếu nại. RVE sẽ căn cứ từng trường hợp cụ thể để có phương án giải quyết cho phù hợp.  </p>
+			<br>
+			<p style="padding-left: 15px;">3.	Đối với tranh chấp giữa người sử dụng với nhau hoặc giữa người sử dụng với RVE, RVE tôn trọng sự thỏa thuận của các bên. Trường hợp thỏa thuận không thành,RVE căn cứ lịch sử hệ thống để giải quyết. Quyết định của RVE là quyết định cuối cùng.</p>
+			<br>
+			<!-- ========================== -->
+			<p><strong style="text-decoration:underline;">Điều 8: Hiệu lực Quy chế.</strong></p>
+			<p style="padding-left: 15px;">1.	Trong quá trình hoạt động, Quy chế Đồng Rao có thể được cập nhật, chỉnh sửa bất cứ lúc nào mà không cần phải thông báo trước tới người sử dụng. Nội dung cập nhật, chỉnh sửa sẽ được công bố rõ trên Website, diễn đàn về những thay đổi, bổ sung đó.</p>
+			<br>
+			<p style="padding-left: 15px;">2.	Quy chế này được áp dụng cho khách hàng sử dụng các hình thức nạp, và sử dụng Đồng Rao.</p>
+			<br>
+			<p style="padding-left: 15px;">3.	Trong trường hợp một hoặc một số điều khoản Quy chế Đồng Rao phát sinh mâu thuẫn với các quy định luật pháp, điều khoản đó sẽ được chỉnh sửa cho phù hợp với quy định pháp luật hiện hành, và phần còn lại của Quy chế sử dụng vẫn giữ nguyên giá trị.</p>
+			<br>
+			<p style="padding-left: 15px;">4.	Quy chế Đồng Rao có giá trị từ ngày …. tháng 12 năm 2016</p>
+			<br>
+		</div>
+	</div>
+</div>
+<script>
+	$('a.have_sub').on('click', function() {
+		$('.sub_menuhotro').hide();
+		$('a.have_sub').removeClass('active');
+		$(this).addClass('active');
+	  	$(this).next('.sub_menuhotro').show();
+	});
+	$('.menu_hotro_item').on('click', function() {
+		$('.menu_hotro_item').removeAttr('style');
+		$(this).css('text-decoration', 'underline');
+		$('.content_hotro').hide();
+		$('.content_hotro_' + $(this).data('hotro')).show();
+		$('.have_sub').removeAttr('style');
+	});
+	var url = window.location.href;
+	var tab = url.substring(url.lastIndexOf('?tab=') + 5);
+	if (parseInt(tab) > 0) {
+		$('.content_hotro').hide();
+		$('.content_hotro_'+ tab).show();
+		$('.menu_hotro_item').css('text-decoration', 'none');
+		$('.sub_menuhotro').css('display', 'none');
+		$('.menu_hotro_item[data-hotro="'+ tab +'"]').css('text-decoration', 'underline');
+		$('.menu_hotro_item[data-hotro="'+ tab +'"]').parents('.sub_menuhotro').css('display', 'block');
+		$('.have_sub').removeClass('active');
+		$('.menu_hotro_item[data-hotro="'+ tab +'"]').parents('.sub_menuhotro').prev('.have_sub').addClass('active');
+	}
+</script>            </div> 
+          <!-- end::content -->
+        </div>
+    </div>
+    <!-- start::footer -->
+ <div id="wrapper_footer">
+	  <div class="content_footer width_common">
+			<div id="footer">
+				<div class="ft-bot width_common">
+					<div class="ft-bot-top">
+						<div class="ft-block ft-block-1">
+							<div class="ft_intro">
+								<p><strong>Tên đăng ký: </strong>Công ty Cổ phần Dịch vụ trực tuyến FPT</p>
+								<p><strong>Tên giao dịch: </strong>FPT Online JSC</p>
+								<p><strong>Địa chỉ trụ sở: </strong>Tầng 6, Tòa nhà Exchange Tower - số 1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Tp.HCM.</p>
+								<p><strong>Điện thoại/ Fax: </strong>08 - 7300 9999</p>
+								<p><strong>Email: </strong><a href="mailto:raovat@vnexpress.net">raovat@vnexpress.net</a></p>
+								<p><strong>Giấy chứng nhận đăng ký kinh doanh số 0305045911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 22/12/2015</strong></p>
+							</div>
+							<div class="ft_group">
+								<form class="form-horizontal" autocomplete="false" role="form" method="post" action="https://emarketing.eclick.vn/form/submit?formId=12" data-mautic-form="nhanbantinraovat">
+									<input type="hidden" name="mauticform[formId]" value="12" />
+									<input type="hidden" name="mauticform[return]" value="" />
+									<input type="hidden" name="mauticform[formName]" value="nhanbantinraovat" />
+									<div class="form-group">
+										<label for="email" class="text-1 control-label">Đăng ký để nhận bản tin </label>
+										<div class="input-group">
+											<input name="mauticform[email]" value="" class="form-control mauticform-input" type="email" placeholder="Nhập email của bạn" required="true">
+											<button type="submit" class="btn red-btn mauticform-button" name="mauticform[hoan_thanh]" name="mauticform[hoan_thanh]" value="1">Đăng ký</button>
+										</div>
+										<p class="txt_error mauticform_error"></p>
+									</div>
+								</form>
+								<script type="text/javascript">
+									$(document).ready(function() {
+										$('form[data-mautic-form="nhanbantinraovat"]').on('submit', function() {
+											if ($('.mauticform-input').val().length > 0) {
+												return true;
+											} else {
+												$('.mauticform_error').text('Bạn chưa nhập địa chỉ email');
+											}
+											return false;
+										});
+									});
+								</script>
+								<ul class="ft_social_list">
+									<li>
+										<a href="https://www.facebook.com/raovat.vne.net" target="_blank" class="wi-icon wi-icon-facebook-1"></a>
+									</li>
+									<li>
+										<a href="https://www.youtube.com/channel/UCsB2760X9fiA5PXSN0dFh1g" target="_blank" class="wi-icon wi-icon-youtube"></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="ft-block ft-block-2">
+							<div class="ft-support-block">
+								<h2 class="ft_title"><a href="javascript:;">Quy chế hoạt động</a></h2>
+								<ul class="ft_list support_list">
+									<li><a href="/ho-tro?tab=1" title="Quy chế đăng tin">Quy chế đăng tin</a></li>
+									<li><a href="/ho-tro?tab=4" title="Chính sách bảo mật">Chính sách bảo mật</a></li>
+									<li><a href="/ho-tro?tab=24">Quy trình giải quyết khiếu nại</a></li>
+									<li><a href="/ho-tro?tab=12">Quy trình thanh toán</a></li>
+								</ul>
+								<figure>
+									<a href="http://www.online.gov.vn/WebsiteDisplay.aspx?DocId=28077" target="_blank"><img src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/dadangky.png" alt="dadangky"></a>
+								</figure>
+							</div>
+							<div class="ft-support-block">
+								<h2 class="ft_title"><a href="javascript:;">Raovat.vnexpress.net</a></h2>
+								<ul class="ft_list support_list">
+									<li><a href="http://fptad.com/PTKD/Raovat/mediakit.pdf" target="_blank" title="Giới thiệu">Giới thiệu</a></li>
+									<li><a href="/ho-tro" title="Hỗ trợ">Hỗ trợ</a></li>
+									<li><a href="/ho-tro?tab=11">Bảng giá đăng tin</a></li>
+									<li><a href="https://stportal.eclick.vn/v14/files/bao-gia-quang-cao-rao-vat.pdf" target="_blank" title="Bảng giá quảng cáo">Bảng giá quảng cáo</a></li>
+									<li><a href="/ho-tro?tab=20" title="FAQ">FAQ</a></li>
+									<li><a href="/lien-he" title="Liên hệ">Liên hệ</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="ft-bot-bottom">
+						<div class="ft-block ft-block-1">
+							<span class="text-1">Trải nghiệm phiên bản di động</span>
+							<div class="app-list">
+								<a href="https://itunes.apple.com/us/app/rao-vat-vnexpress/id1070436963&mt=8" title="App Store" class="app-img">
+									<img alt="" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/app-1.png">
+								</a>
+								<a href="https://play.google.com/store/apps/details?id=raovat.vnexpress.fpt.raovat" title="Google play" class="app-img">
+									<img alt="" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/app-2.png">
+								</a>
+							</div>
+						</div>
+						<div class="coppy_right_tracuu_left">
+							<div class="footer_logo"> <a href="http://vnexpress.net" title="VnExpress"><img class="logo_footer" alt="" src="http://st.f1.raovat.vnecdn.net/i/v7/graphics/logo.png"></a></div>
+							<div class="cpy_footer">
+								<p>© Copyright 1997 VnExpress.net, All rights reserved</p>
+								<p>® VnExpress giữ bản quyền nội dung trên website này.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	  </div>
+</div>
+<!-- end::footer -->
+    <div class="icon_pin">
+        <ul>
+            <li class="">
+                <a href="/dang-tin" class="myvne_submit pin_icon pin_2"></a>
+                <div class="tip_menu">
+                    <span class="arrow_tip"></span>Đăng tin
+                </div>
+            </li>
+            <li class="">
+                <a href="/lien-he" class="pin_icon pin_3"></a>
+                <div class="tip_menu">
+                    <span class="arrow_tip"></span>Liên hệ
+                </div>
+            </li>
+            <li class="">
+                <a href="javascript:void(0);" id="scroll_top_top" class="pin_icon pin_1"></a>
+                <div class="tip_menu">
+                    <span class="arrow_tip"></span>Lên đầu trang
+                </div>
+            </li>
+        </ul>
+    </div>
+<script type="text/javascript" src="http://stmy.vnexpress.net/myvne/j/v3/myvne_users.js"></script>
+<script type="text/javascript" src="http://st.f2.raovat.vnecdn.net/j/v32/utils.js"></script><script type="text/javascript">
+$(document).ready(function(){
+    if(typeof raovat != 'undefined')
+    {
+        raovat.init();
+    }
+});
+</script>
+<script type="text/javascript" src="http://st.core.polyad.net/Ads.js"></script>
+    <script type="text/javascript" src="http://st.polyad.net/Vals/65/0/61/Val.js"></script>
+<script type="text/javascript">
+	Poly_BackGround();
+    Poly_showads();
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=422517127843373";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</body>
+</html>
+

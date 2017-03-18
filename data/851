@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+HLV Hữu Thắng nhận tin vui từ Xuân Trường - Nông Nghiệp
+</title><meta name="keywords" content="đoàn bóng đá HAGL,Nguyễn Tấn Anh,SVĐ Hàng Đẫy,Republican Central,Dushanbe,Hoàng Anh Gia Lai,Asian Cup 2019,Choi Yun-kyum,Pohang Steelers,K-League Classic,tuyển việt nam,Tấn Anh,Xuân Trường,Hoàng Cầu,jordan,Hữu Thắng,Nguyễn Hữu Thắng,đấu giao hữu,đài loan,thi đấu,liên đoàn bóng đá việt nam" /><meta name="description" content="Cầu thủ đang chơi cho CLB Gangwon (Hàn Quốc) đã bình phục hoàn toàn chấn thương, đủ sức dự trận giao hữu giữa tuyển Việt Nam và Đài Loan ngày 22/3." />
+<link rel="canonical" href="http://www.baomoi.com/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793100" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793100" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://nongnghiep.vn/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong-post189387.html");
+else
+window.location.replace("http://www.baomoi.com/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

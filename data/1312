@@ -1,0 +1,442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" lang="vi"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>T&#224;i tr&#237; Việt</title><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><title>
+Du Học - Dân trí
+</title><meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" /><link href="https://dantri4.vcmedia.vn/web_css/duhoc.main.1.0.css" rel="stylesheet" type="text/css" />
+
+<script src="https://dantri3.vcmedia.vn/Scripts/duhoc.main.1.0.js"></script>
+<script>
+function setCookieForMobile(cname, cvalue, exdays) {
+var d = new Date();
+d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+var expires = "expires=" + d.toUTCString();
+document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function CheckMobileRedirect() {
+try {
+//check session on client
+if (typeof (Storage) !== "undefined") {
+var session = sessionStorage.getItem("VisitSession");
+if (session == null) {
+//phien lam viec moi
+sessionStorage.setItem("VisitSession", "1");
+
+var hash = window.location.hash;
+if (hash == "#first") {
+//link được redirect từ bản mobile sang thì không làm gì.
+window.history.replaceState("", "", window.location.href.split('#')[0]);
+} else {
+//nếu không phải link đá từ mobile thì remove cookie ở đây.
+setCookieForMobile("browser", "", -1);
+//reload lại trang để hệ thống chuyển về bản mobile.
+window.location = window.location.href;
+}
+} else {
+//van dang o phien lam viec cu thi khong lam gi.  
+}
+}
+} catch (e) { }
+}
+CheckMobileRedirect();
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+//ga('create', 'UA-12366027-9', 'auto');
+//ga('send', 'pageview');
+
+ga('create', 'UA-4263013-51', 'auto', { 'name': 'dh_vcc' });
+ga('dh_vcc.send', 'pageview');
+
+ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+ga('dtonly.send', 'pageview');
+
+//ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+//ga('dtboo.send', 'pageview');
+
+//ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+//ga('totaldt.send', 'pageview');
+
+</script>
+ <script type="text/javascript">var _ADM_Channel='%2Fdu-hoc%2Ftai-tri-viet%2F';</script>
+<script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+
+  
+
+ <!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17793284" });
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link href="http://m.dantri.com.vn/du-hoc/tai-tri-viet.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/du-hoc/tai-tri-viet.htm" rel="alternate" media="handheld" /><link href="http://duhoc.dantri.com.vn/du-hoc/tai-tri-viet.htm" rel="canonical" /></head>
+<body>
+<form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="tai-tri-viet" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="750" />
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="750" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="750" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="T&#224;i tr&#237; Việt" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ1MTAyMDIyMWRkJvKIKgEnTgtCUpEWDzKmNGupiiij27t/koof+4UvVMY=" />
+</div>
+
+<div id="wrap">
+
+<div id="header">
+<div class="logo "><a class="sprite" href="/" title="Du học"></a></div>
+<div class="box-search" style="visibility: hidden;">
+<div class="container">
+<input type="text" id="txtSearch" class="txt-search" onkeypress="return SearchKeyPress(event)" />
+<img onclick="return OnSearchClick()" src="/Images/blank.gif"/>
+</div>
+</div>
+</div>
+
+<div class="adv-header">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_221.ads"></script>
+</div>
+
+<div id="menu">
+<ul>
+<li><a target="_blank" href="http://dantri.com.vn" title="Trang chủ Dân Trí"><span>Trang chủ</span></a></li>
+<li class="home">
+<a class="sprite" title="Du Học" href="/"><span>Du Học</span></a>
+</li>
+<li>
+<a title="Cơ hội du học" href="/du-hoc/co-hoi-du-hoc.htm"><span>Cơ hội du học</span></a>
+</li>
+<li>
+<a title="Thế giới du học" href="/du-hoc/the-gioi-du-hoc.htm"><span>Thế giới du học</span></a>
+</li>
+<li>
+<a title="Tài trí Việt" href="/du-hoc/tai-tri-viet.htm"><span>Tài trí Việt</span></a> 
+</li>
+<li>
+<a title="Cẩm nang - Hỏi đáp" href="/du-hoc/cam-nang-hoi-dap.htm"><span>Cẩm nang - Hỏi đáp</span></a> 
+</li>
+<li>
+<a title="Các ngôi trường danh tiếng" href="/du-hoc/cac-ngoi-truong-danh-tieng.htm"><span>Các ngôi trường danh tiếng</span></a>  
+
+</li>
+<li>
+<a title="Góc chia sẻ" href="/du-hoc/goc-chia-se.htm"><span>Góc chia sẻ</span></a>  
+ 
+</li>
+</ul>
+</div>
+<style type="text/css">#menu ul .home a{ height: auto !important;}</style>
+
+
+<div id="container" class="clearfix">
+
+<div id="container" class="clearfix">
+<div id="column-left-list">
+
+
+<div class="list">
+
+<div class="item">
+<a href="/giao-duc-khuyen-hoc/than-dong-do-nhat-nam-gianh-giai-tiem-nang-quan-tri-kinh-doanh-tai-my-20170301080940992.htm" alt="Anh" title="“Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ"><img alt="“Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ" width="193px" src="https://dantri.vcmedia.vn/zoom/327_245/2017/nhatnam1-1488418508271-crop-1488418644790.jpg"/></a>
+<h3>
+<a title="“Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ" href="/giao-duc-khuyen-hoc/than-dong-do-nhat-nam-gianh-giai-tiem-nang-quan-tri-kinh-doanh-tai-my-20170301080940992.htm">“Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ </a></h3>
+<p>
+(Dân trí) - Cậu bé “thần đồng” Việt vừa xuất sắc chinh phục giải 3 cấp bang, hạng mục Nguyên tắc quản trị kinh doanh trong một cuộc thi có tới 4500 thí sinh tham gia tại Mỹ.</p>
+</div>
+
+
+<div class="item">
+<a href="/du-hoc/8x-viet-nghien-cuu-tri-tue-nhan-tao-gianh-hoc-bong-tien-si-my-7-ty-dong-20170315152628379.htm" alt="Anh" title="8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng"><img alt="8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/mautuan1-1489621052545.jpg"/></a>
+
+<h3>
+<a title="8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng" href="/du-hoc/8x-viet-nghien-cuu-tri-tue-nhan-tao-gianh-hoc-bong-tien-si-my-7-ty-dong-20170315152628379.htm">8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng </a></h3>
+<p>
+(Dân trí) - Vừa nghiên cứu về não và trí tuệ nhân tạo, vừa dạy học tại Viện Công nghệ số 1 thế giới Massachusetts (Boston, Mỹ), Lê Mậu Tuấn vẫn dành nhiều thời gian để hướng dẫn các bạn trẻ có đam mê tạo ra những dự án ý nghĩa cho xã hội.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/co-gai-viet-chien-thang-tai-cuoc-thi-y-tuong-khoi-nghiep-tren-dat-phap-2017031109395823.htm" alt="Anh" title="C&#244; g&#225;i Việt chiến thắng tại cuộc thi &#253; tưởng khởi nghiệp tr&#234;n đất Ph&#225;p"><img alt="C&#244; g&#225;i Việt chiến thắng tại cuộc thi &#253; tưởng khởi nghiệp tr&#234;n đất Ph&#225;p" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/doanthihanh1-1489199445267-crop-1489199692649.jpg"/></a>
+
+<h3>
+<a title="C&#244; g&#225;i Việt chiến thắng tại cuộc thi &#253; tưởng khởi nghiệp tr&#234;n đất Ph&#225;p" href="/du-hoc/co-gai-viet-chien-thang-tai-cuoc-thi-y-tuong-khoi-nghiep-tren-dat-phap-2017031109395823.htm">C&#244; g&#225;i Việt chiến thắng tại cuộc thi &#253; tưởng khởi nghiệp tr&#234;n đất Ph&#225;p </a></h3>
+<p>
+(Dân trí) - Cô gái Đoàn Thị Hạnh vừa qua đã chiến thắng trong cuộc thi “Ý tưởng khởi nghiệp” và giành giải “Doanh nhân trẻ tiềm năng” dành cho người lao động trẻ tuổi từ 18 đến 32 tại Pháp.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/nu-sinh-viet-dat-giai-thuong-danh-gia-nhat-danh-cho-hoc-sinh-o-new-zealand-20170304132419949.htm" alt="Anh" title="Nữ sinh Việt đạt giải thưởng danh gi&#225; nhất d&#224;nh cho học sinh ở New Zealand"><img alt="Nữ sinh Việt đạt giải thưởng danh gi&#225; nhất d&#224;nh cho học sinh ở New Zealand" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/50f875d98f/2017/03/02/giang-1488419895126.png"/></a>
+
+<h3>
+<a title="Nữ sinh Việt đạt giải thưởng danh gi&#225; nhất d&#224;nh cho học sinh ở New Zealand" href="/du-hoc/nu-sinh-viet-dat-giai-thuong-danh-gia-nhat-danh-cho-hoc-sinh-o-new-zealand-20170304132419949.htm">Nữ sinh Việt đạt giải thưởng danh gi&#225; nhất d&#224;nh cho học sinh ở New Zealand </a></h3>
+<p>
+(Dân trí) - Vương Ngân Giang, du học sinh Việt Nam tại New Zealand được trao giải Dux Award 2016 - là giải thưởng thường niên về học thuật danh giá nhất của toàn khối trường trung học đất nước này.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/nam-sinh-viet-do-dai-hoc-new-york-20170226085706836.htm" alt="Anh" title="Nam sinh Việt đỗ Đại học New York"><img alt="Nam sinh Việt đỗ Đại học New York" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/vutrung6-1488074002259.jpg"/></a>
+
+<h3>
+<a title="Nam sinh Việt đỗ Đại học New York" href="/du-hoc/nam-sinh-viet-do-dai-hoc-new-york-20170226085706836.htm">Nam sinh Việt đỗ Đại học New York </a></h3>
+<p>
+(Dân trí) - Luôn muốn thử thách bản thân, không cần hơn người khác, chỉ cần vượt qua chính mình là phương châm sống của Vũ Lê Trung, chàng trai 18 tuổi trúng tuyển ngôi trường đại học hàng đầu Mỹ ngay ở đợt nộp hồ sơ sớm (Early Decision).</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/4-ban-tre-tuoi-ga-noi-bat-trong-cong-dong-du-hoc-sinh-20170130215945133.htm" alt="Anh" title="4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh"><img alt="4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/tuoiga5-1485788259079.jpg"/></a>
+
+<h3>
+<a title="4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh" href="/du-hoc/4-ban-tre-tuoi-ga-noi-bat-trong-cong-dong-du-hoc-sinh-20170130215945133.htm">4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh </a></h3>
+<p>
+(Dân trí) - Chào năm mới Đinh Dậu, cùng điểm qua một số gương mặt du học sinh sinh năm 1993 có thành tích học tập “khủng”, nhiều hoạt động ấn tượng và tấm lòng hướng về quê hương.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/8-guong-mat-du-hoc-sinh-viet-dinh-dam-nam-2016-20170130000006267.htm" alt="Anh" title="8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016"><img alt="8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/tieubieu1-1485709068157.jpg"/></a>
+
+<h3>
+<a title="8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016" href="/du-hoc/8-guong-mat-du-hoc-sinh-viet-dinh-dam-nam-2016-20170130000006267.htm">8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016 </a></h3>
+<p>
+(Dân trí) - Sở hữu thành tích học tập xuất sắc, khả năng Anh ngữ tốt, kỹ năng mềm vượt trội và tinh thần vì cộng đồng, những bạn trẻ này đã mang trí tuệ Việt vươn ra thế giới, được các trường đại học hàng đầu quốc tế “trải thảm” đón chào.</p>
+</div>
+
+<div class="item">
+<a href="/giao-duc-khuyen-hoc/co-gai-8x-voi-uoc-mo-la-truong-dai-dien-nguoi-viet-dau-tien-cua-unicef-viet-nam-20170111063848197.htm" alt="Anh" title="C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam"><img alt="C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/minhchau4-1484091039867-crop-1484091434958.jpg"/></a>
+
+<h3>
+<a title="C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam" href="/giao-duc-khuyen-hoc/co-gai-8x-voi-uoc-mo-la-truong-dai-dien-nguoi-viet-dau-tien-cua-unicef-viet-nam-20170111063848197.htm">C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam </a></h3>
+<p>
+(Dân trí) - Từng là thủ khoa tốt nghiệp THPT tỉnh Ninh Thuận và giành suất học bổng thạc sĩ toàn phần của Chính phủ Đức (DAAD), Bùi Thị Minh Châu đang cháy hết mình với các hoạt động phục vụ cộng đồng và ước mơ trở thành trưởng đại diện người Việt đầu tiên của Quỹ Nhi đồng Liên hiệp quốc UNICEF tại Việt Nam.</p>
+</div>
+
+<div class="item">
+<a href="/giao-duc-khuyen-hoc/chang-trai-viet-tuoi-18-trung-tuyen-truong-top-10-dh-tot-nhat-nuoc-my-20170109131342548.htm" alt="Anh" title="Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ"><img alt="Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/duybao1-1483942213804-crop-1483942290076.jpg"/></a>
+
+<h3>
+<a title="Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ" href="/giao-duc-khuyen-hoc/chang-trai-viet-tuoi-18-trung-tuyen-truong-top-10-dh-tot-nhat-nuoc-my-20170109131342548.htm">Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ </a></h3>
+<p>
+(Dân trí) - Xuất sắc ở các môn khoa học tự nhiên, học tốt tiếng Anh, sáng chế robot ấn tượng, Văn Duy Bảo bộc lộ bản thân là một cậu học trò thông minh, năng động và có tố chất lãnh đạo.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/diem-danh-nhung-9x-mien-trung-gianh-hoc-bong-tien-ty-nam-2016-20170107112049025.htm" alt="Anh" title="Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016"><img alt="Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/mientrung4-1483762358390.jpg"/></a>
+
+<h3>
+<a title="Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016" href="/du-hoc/diem-danh-nhung-9x-mien-trung-gianh-hoc-bong-tien-ty-nam-2016-20170107112049025.htm">Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016 </a></h3>
+<p>
+(Dân trí) - Miền Trung, mảnh đất của tinh thần hiếu học, nơi sinh ra nhiều bạn trẻ tài năng, giàu nội lực. Cùng Dân trí điểm qua 5 gương mặt 9X xuất sắc giành học bổng quốc tế giá trị năm qua.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/3-chang-trai-9x-viet-go-cua-thanh-cong-dh-harvard-nam-2016-20170103074231262.htm" alt="Anh" title="3 ch&#224;ng trai 9X Việt “g&#245; cửa” th&#224;nh c&#244;ng ĐH Harvard năm 2016"><img alt="3 ch&#224;ng trai 9X Việt “g&#245; cửa” th&#224;nh c&#244;ng ĐH Harvard năm 2016" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/thanhtung2-1483403990154.jpg"/></a>
+
+<h3>
+<a title="3 ch&#224;ng trai 9X Việt “g&#245; cửa” th&#224;nh c&#244;ng ĐH Harvard năm 2016" href="/du-hoc/3-chang-trai-9x-viet-go-cua-thanh-cong-dh-harvard-nam-2016-20170103074231262.htm">3 ch&#224;ng trai 9X Việt “g&#245; cửa” th&#224;nh c&#244;ng ĐH Harvard năm 2016 </a></h3>
+<p>
+(Dân trí) - Mỗi người một cá tính nhưng Nguyễn Hoàng Khánh, Phạm Thanh Tùng và Vũ Đỗ Khanh đều sở hữu điểm chung là thuộc thế hệ 9X, thành tích học tập ngoại khóa ấn tượng, có đam mê riêng và xuất sắc chinh phục học bổng sau đại học (thạc sĩ, tiến sĩ) tại ĐH Harvard danh tiếng năm 2016.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/tien-si-thuc-pham-8x-va-nhung-de-xuat-cho-suc-khoe-nguoi-viet-20161228081522447.htm" alt="Anh" title="Tiến sĩ thực phẩm 8X v&#224; những đề xuất cho sức khỏe người Việt"><img alt="Tiến sĩ thực phẩm 8X v&#224; những đề xuất cho sức khỏe người Việt" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/lamle1-1482887481446-crop-1482887628333.jpg"/></a>
+
+<h3>
+<a title="Tiến sĩ thực phẩm 8X v&#224; những đề xuất cho sức khỏe người Việt" href="/du-hoc/tien-si-thuc-pham-8x-va-nhung-de-xuat-cho-suc-khoe-nguoi-viet-20161228081522447.htm">Tiến sĩ thực phẩm 8X v&#224; những đề xuất cho sức khỏe người Việt </a></h3>
+<p>
+(Dân trí) - Cách đây 6 năm, khi bắt đầu làm nghiên cứu sinh tại Pháp Lê Đoàn Thanh Lâm tự mang một lời hứa trở về. Và giờ đây, khi đã có trong tay bằng tiến sĩ Sinh học - Thực phẩm tại đất nước hình lục lăng, anh quay về quê hương với ước muốn nâng cao nhận thức dinh dưỡng cho người Việt.</p>
+</div>
+
+<div class="item">
+<a href="/nhip-song-tre/nu-chu-tich-9x-viet-tai-nang-cua-hoi-hoc-sinh-quoc-te-va-nguoi-my-da-chung-toc-20161218231635235.htm" alt="Anh" title="Nữ chủ tịch 9X Việt t&#224;i năng của Hội học sinh quốc tế v&#224; người Mỹ đa chủng tộc"><img alt="Nữ chủ tịch 9X Việt t&#224;i năng của Hội học sinh quốc tế v&#224; người Mỹ đa chủng tộc" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/cici1-1482077441302-crop-1482077577457.jpg"/></a>
+
+<h3>
+<a title="Nữ chủ tịch 9X Việt t&#224;i năng của Hội học sinh quốc tế v&#224; người Mỹ đa chủng tộc" href="/nhip-song-tre/nu-chu-tich-9x-viet-tai-nang-cua-hoi-hoc-sinh-quoc-te-va-nguoi-my-da-chung-toc-20161218231635235.htm">Nữ chủ tịch 9X Việt t&#224;i năng của Hội học sinh quốc tế v&#224; người Mỹ đa chủng tộc </a></h3>
+<p>
+(Dân trí) - Xuất sắc giành học bổng Davis UWC Scholarship tài trợ trong 7 năm du học Mỹ (3 năm cấp ba và 4 năm đại học), cô gái Việt Ngọc Nguyễn hiện là Chủ tịch Hội học sinh quốc tế kiêm Đại sứ quốc tế của Đại học Simmons, Hoa Kỳ.</p>
+</div>
+
+</div>
+<script type="text/javascript" language="javascript">
+$('.list .item:last').addClass("last");
+</script>
+<div class="cat-trangsau">
+&nbsp;[ <a href="/du-hoc/tai-tri-viet/trang-2.htm" title"sau">Trang sau</a> ]
+</div>
+<div id="ContentPlaceHolder1_ContentPlaceHolder1_List1_divBaiDaDang">
+
+<div class="oldernew">  
+<p>Các bài đã đăng</p>
+<ul>
+
+<li><a href="/giao-duc-khuyen-hoc/nam-sinh-goc-viet-duoc-10-dh-hang-dau-the-gioi-nganh-toan-moi-hoc-20161214063335301.htm" title="Nam sinh gốc Việt được 10 ĐH h&#224;ng đầu thế giới ng&#224;nh To&#225;n mời học">Nam sinh gốc Việt được 10 ĐH h&#224;ng đầu thế giới ng&#224;nh To&#225;n mời học (14/12)</a></li>
+
+<li><a href="/du-hoc/9x-ha-thanh-dien-trai-duoc-3-truong-dh-my-cap-hoc-bong-20161202125137909.htm" title="9X H&#224; th&#224;nh điển trai được 3 trường ĐH Mỹ cấp học bổng">9X H&#224; th&#224;nh điển trai được 3 trường ĐH Mỹ cấp học bổng (2/12)</a></li>
+
+<li><a href="/du-hoc/cong-dan-toan-cau-xinh-dep-song-tai-7-quoc-gia-o-4-chau-luc-20161130072430352.htm" title="&quot;C&#244;ng d&#226;n to&#224;n cầu&quot; xinh đẹp sống tại 7 quốc gia ở 4 ch&#226;u lục">&quot;C&#244;ng d&#226;n to&#224;n cầu&quot; xinh đẹp sống tại 7 quốc gia ở 4 ch&#226;u lục (30/11)</a></li>
+
+<li><a href="/giao-duc-khuyen-hoc/vi-giao-su-vat-ly-bac-nhip-cau-khoa-hoc-viet-my-20161121073429095.htm" title="Vị gi&#225;o sư vật l&#253; bắc nhịp cầu khoa học Việt - Mỹ">Vị gi&#225;o sư vật l&#253; bắc nhịp cầu khoa học Việt - Mỹ (21/11)</a></li>
+
+<li><a href="/du-hoc/chuyen-chua-ke-ve-co-gai-viet-chien-thang-cuoc-thi-thoi-trang-danh-gia-nhat-ban-20161029084835847.htm" title="Chuyện chưa kể về c&#244; g&#225;i Việt chiến thắng cuộc thi thời trang danh gi&#225; Nhật Bản">Chuyện chưa kể về c&#244; g&#225;i Việt chiến thắng cuộc thi thời trang danh gi&#225; Nhật Bản (30/10)</a></li>
+
+<li><a href="/du-hoc/co-gai-viet-dau-tien-chien-thang-cuoc-thi-thiet-ke-thoi-trang-lon-nhat-nhat-ban-20161027141406723.htm" title="C&#244; g&#225;i Việt đầu ti&#234;n chiến thắng cuộc thi thiết kế thời trang lớn nhất Nhật Bản">C&#244; g&#225;i Việt đầu ti&#234;n chiến thắng cuộc thi thiết kế thời trang lớn nhất Nhật Bản (27/10)</a></li>
+
+<li><a href="/du-hoc/9x-tung-gat-6-hoc-bong-thac-si-quoc-te-gianh-giai-nhi-guitar-tai-duc-2016102507380687.htm" title="9X từng gặt 6 học bổng thạc sĩ quốc tế gi&#224;nh giải Nh&#236; guitar tại Đức">9X từng gặt 6 học bổng thạc sĩ quốc tế gi&#224;nh giải Nh&#236; guitar tại Đức (25/10)</a></li>
+
+<li><a href="/giao-duc-khuyen-hoc/co-gai-tuoi-18-gianh-hoc-bong-47-ty-dong-truong-nu-sinh-hang-dau-my-20161020065042205.htm" title="C&#244; g&#225;i tuổi 18 gi&#224;nh học bổng 4,7 tỷ đồng trường nữ sinh h&#224;ng đầu Mỹ">C&#244; g&#225;i tuổi 18 gi&#224;nh học bổng 4,7 tỷ đồng trường nữ sinh h&#224;ng đầu Mỹ (20/10)</a></li>
+
+<li><a href="/giao-duc-khuyen-hoc/tien-si-8x-viet-ghi-ten-minh-o-linh-vuc-vat-ly-giua-troi-au-20161011063336406.htm" title="Tiến sĩ 8X Việt ghi t&#234;n m&#236;nh ở lĩnh vực vật l&#253; giữa trời &#194;u">Tiến sĩ 8X Việt ghi t&#234;n m&#236;nh ở lĩnh vực vật l&#253; giữa trời &#194;u (11/10)</a></li>
+
+<li><a href="/giao-duc-khuyen-hoc/tu-truong-pho-huyen-toi-dai-ban-doanh-google-20161008085528263.htm" title="Từ trường phố huyện tới đại bản doanh Google">Từ trường phố huyện tới đại bản doanh Google (8/10)</a></li>
+
+<li><a href="/nhip-song-tre/nu-sinh-ngoai-thuong-dat-hoc-bong-thac-si-co-vay-tri-gia-nua-ty-dong-20160926083717266.htm" title="Nữ sinh Ngoại thương đạt học bổng Thạc sĩ Cờ v&#226;y trị gi&#225; nửa tỷ đồng">Nữ sinh Ngoại thương đạt học bổng Thạc sĩ Cờ v&#226;y trị gi&#225; nửa tỷ đồng (26/9)</a></li>
+
+<li><a href="/du-hoc/tu-choi-microsoft-9x-ve-viet-nam-khoi-nghiep-20160924073542326.htm" title="Từ chối Microsoft, 9x về Việt Nam khởi nghiệp">Từ chối Microsoft, 9x về Việt Nam khởi nghiệp (24/9)</a></li>
+
+<li><a href="/giao-duc-khuyen-hoc/nha-khoa-hoc-8x-viet-duoc-dac-cach-lam-giang-vien-cua-vien-cong-nghe-so-1-the-gioi-20160920195953639.htm" title="Nh&#224; khoa học 8X Việt được đặc c&#225;ch l&#224;m giảng vi&#234;n của Viện c&#244;ng nghệ số 1 thế giới">Nh&#224; khoa học 8X Việt được đặc c&#225;ch l&#224;m giảng vi&#234;n của Viện c&#244;ng nghệ số 1 thế giới (21/9)</a></li>
+
+</ul>
+<input type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="" class="sprite xembaitheongaythang" id="viewbdate" />
+</div>
+</div>
+
+</div>
+<div id="column-right">
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+</div>
+
+<div class="boxrightcontent2 block">
+ 
+<p class="sprite header">
+<a href="/du-hoc/cam-nang-hoi-dap.htm" title="Cẩm nang - Hỏi đáp">Cẩm nang - Hỏi đáp</a></p>
+<div class="brc-container">
+<div class="brc-img"><div class="brc-img-top"><span></span></div><div class="brc-img-center"><a href="/du-hoc/sinh-vien-viet-bat-dau-tim-viec-o-nhat-kha-muon-do-thieu-thong-tin-20170110090633741.htm" title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin"><img alt="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" src="https://dantri.vcmedia.vn/zoom/273_204/2017/nhatban1-1484013830959.jpg" border="0px" width="273px" title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" /></a></div><div class="brc-img-bottom"><span></span></div></div>
+
+<h4>
+<a title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" href="/du-hoc/sinh-vien-viet-bat-dau-tim-viec-o-nhat-kha-muon-do-thieu-thong-tin-20170110090633741.htm">Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin</a></h4>
+<p class="sapo">
+
+</p>
+<ul>
+<li><i class="dotted sprite"></i><h4><a title="10 lời khuy&#234;n gi&#250;p bản CV của bạn th&#234;m &quot;long lanh&quot; trong mắt nh&#224; tuyển dụng" href="/du-hoc/10-loi-khuyen-giup-ban-cv-cua-ban-them-long-lanh-trong-mat-nha-tuyen-dung-2016110108305491.htm">10 lời khuy&#234;n gi&#250;p bản CV của bạn th&#234;m &quot;long lanh&quot; trong mắt nh&#224; tuyển dụng</a></h4></li><li><i class="dotted sprite"></i><h4><a title="Du học H&#224;n Quốc kh&#225;c biệt thế n&#224;o so với c&#225;c nước ch&#226;u &#194;u?" href="/du-hoc/du-hoc-han-quoc-khac-biet-the-nao-so-voi-cac-nuoc-chau-au-20161004073306704.htm">Du học H&#224;n Quốc kh&#225;c biệt thế n&#224;o so với c&#225;c nước ch&#226;u &#194;u?</a></h4></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+<div class="boxrightcontent5 block">
+<p class="sprite header"><a href="/du-hoc/goc-multimedia.htm" title="Góc Multimedia"><img src="/Images/blank.gif" border="0"/></a></p>
+<div class="brc-container">
+<div class="brc-img"><a href="/du-hoc/khoe-anh-cuoi-ngot-ngao-o-3-nuoc-tu-linh-mo-ve-mot-gia-dinh-nho-20170303124506059.htm" title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ"><img alt="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ" src="https://dantri.vcmedia.vn/zoom/273_204/2017/tulinh1-1488519632407-crop-1488551221194.png" border="0px" width="193px" title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ"/></a></div>
+
+<h4><a title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ" href="/du-hoc/khoe-anh-cuoi-ngot-ngao-o-3-nuoc-tu-linh-mo-ve-mot-gia-dinh-nho-20170303124506059.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ</a></h4>
+<ul>
+<li><i class="dotted sprite"></i><h4><a title="Nữ thạc sĩ 9X xinh đẹp trong t&#224; &#225;o d&#224;i đi lễ ch&#249;a đầu năm" href="/du-hoc/nu-thac-si-9x-xinh-dep-trong-ta-ao-dai-di-le-chua-dau-nam-20170211084500757.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Nữ thạc sĩ 9X xinh đẹp trong t&#224; &#225;o d&#224;i đi lễ ch&#249;a đầu năm</a></h4></li><li><i class="dotted sprite"></i><h4><a title="Hot girl c&#243; nụ cười “trẻ thơ” kể chuyện du học Mỹ" href="/nhip-song-tre/hot-girl-co-nu-cuoi-tre-tho-ke-chuyen-du-hoc-my-20170209000016635.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Hot girl c&#243; nụ cười “trẻ thơ” kể chuyện du học Mỹ</a></h4></li>
+</ul>
+</div>
+</div>
+
+<div class="tiemdiem2 block">
+<p class="sprite header"><img src="https://dantri3.vcmedia.vn/Images/duhoc/blank.gif" class="headerAvatar"/></p>
+<div class="container">
+
+<div class="item">
+<a href="/du-hoc/8x-viet-nghien-cuu-tri-tue-nhan-tao-gianh-hoc-bong-tien-si-my-7-ty-dong-20170315152628379.htm" title="8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/mautuan1-1489621052545.jpg"/ alt="8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng"></a>
+<h4><a href="/du-hoc/8x-viet-nghien-cuu-tri-tue-nhan-tao-gianh-hoc-bong-tien-si-my-7-ty-dong-20170315152628379.htm" title="8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng"> 8X Việt nghi&#234;n cứu tr&#237; tuệ nh&#226;n tạo, gi&#224;nh học bổng tiến sĩ Mỹ 7 tỷ đồng</a></h4>
+</div>
+
+<div class="item">
+<a href="/giao-duc-khuyen-hoc/than-dong-do-nhat-nam-gianh-giai-tiem-nang-quan-tri-kinh-doanh-tai-my-20170301080940992.htm" title="“Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/nhatnam1-1488418508271-crop-1488418644790.jpg"/ alt="“Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ"></a>
+<h4><a href="/giao-duc-khuyen-hoc/than-dong-do-nhat-nam-gianh-giai-tiem-nang-quan-tri-kinh-doanh-tai-my-20170301080940992.htm" title="“Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ"> “Thần đồng” Đỗ Nhật Nam gi&#224;nh giải tiềm năng quản trị kinh doanh tại Mỹ</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/nam-sinh-viet-do-dai-hoc-new-york-20170226085706836.htm" title="Nam sinh Việt đỗ Đại học New York"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/vutrung6-1488074002259.jpg"/ alt="Nam sinh Việt đỗ Đại học New York"></a>
+<h4><a href="/du-hoc/nam-sinh-viet-do-dai-hoc-new-york-20170226085706836.htm" title="Nam sinh Việt đỗ Đại học New York"> Nam sinh Việt đỗ Đại học New York</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/4-ban-tre-tuoi-ga-noi-bat-trong-cong-dong-du-hoc-sinh-20170130215945133.htm" title="4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/tuoiga5-1485788259079.jpg"/ alt="4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh"></a>
+<h4><a href="/du-hoc/4-ban-tre-tuoi-ga-noi-bat-trong-cong-dong-du-hoc-sinh-20170130215945133.htm" title="4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh"> 4 bạn trẻ tuổi G&#224; nổi bật trong cộng đồng du học sinh</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/8-guong-mat-du-hoc-sinh-viet-dinh-dam-nam-2016-20170130000006267.htm" title="8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/tieubieu1-1485709068157.jpg"/ alt="8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016"></a>
+<h4><a href="/du-hoc/8-guong-mat-du-hoc-sinh-viet-dinh-dam-nam-2016-20170130000006267.htm" title="8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016"> 8 gương mặt du học sinh Việt “đ&#236;nh đ&#225;m” năm 2016</a></h4>
+</div>
+
+<div class="item">
+<a href="/giao-duc-khuyen-hoc/co-gai-8x-voi-uoc-mo-la-truong-dai-dien-nguoi-viet-dau-tien-cua-unicef-viet-nam-20170111063848197.htm" title="C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/minhchau4-1484091039867-crop-1484091434958.jpg"/ alt="C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam"></a>
+<h4><a href="/giao-duc-khuyen-hoc/co-gai-8x-voi-uoc-mo-la-truong-dai-dien-nguoi-viet-dau-tien-cua-unicef-viet-nam-20170111063848197.htm" title="C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam"> C&#244; g&#225;i 8X với ước mơ l&#224; trưởng đại diện người Việt đầu ti&#234;n của UNICEF Việt Nam</a></h4>
+</div>
+
+<div class="item">
+<a href="/giao-duc-khuyen-hoc/chang-trai-viet-tuoi-18-trung-tuyen-truong-top-10-dh-tot-nhat-nuoc-my-20170109131342548.htm" title="Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/duybao1-1483942213804-crop-1483942290076.jpg"/ alt="Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ"></a>
+<h4><a href="/giao-duc-khuyen-hoc/chang-trai-viet-tuoi-18-trung-tuyen-truong-top-10-dh-tot-nhat-nuoc-my-20170109131342548.htm" title="Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ"> Ch&#224;ng trai Việt tuổi 18 tr&#250;ng tuyển trường top 10 ĐH tốt nhất nước Mỹ</a></h4>
+</div>
+
+<div class="item">
+<a href="/du-hoc/diem-danh-nhung-9x-mien-trung-gianh-hoc-bong-tien-ty-nam-2016-20170107112049025.htm" title="Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/mientrung4-1483762358390.jpg"/ alt="Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016"></a>
+<h4><a href="/du-hoc/diem-danh-nhung-9x-mien-trung-gianh-hoc-bong-tien-ty-nam-2016-20170107112049025.htm" title="Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016"> Điểm danh những 9X miền Trung gi&#224;nh học bổng tiền tỷ năm 2016</a></h4>
+</div>
+
+</div>
+</div>
+
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_366.ads"></script>
+</div>
+</div>
+<div id="column-right-list">
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_228.ads"></script>
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="footer">
+<div class="footer-logo"><a class="sprite" rel="nofollow" title="Du học" href="/"></a></div>
+<div class="footer-menu">
+<ul>
+<li><a rel="nofollow" title="Du học" href="/"><span>Du Học</span></a></li>
+<li><a rel="nofollow" title="Cơ hội du học" href="/du-hoc/co-hoi-du-hoc.htm"><span>Cơ hội du học</span></a></li>
+<li><a rel="nofollow" title="Thế giới du học" href="/du-hoc/the-gioi-du-hoc.htm"><span>Thế giới du học</span></a></li>
+<li><a rel="nofollow" title="Tài trí việt" href="/du-hoc/tai-tri-viet.htm"><span>Tài trí Việt</span></a></li>
+<li><a rel="nofollow" title="Cẩm nang hỏi đáp" href="/du-hoc/cam-nang-hoi-dap.htm"><span>Cẩm nang - Hỏi đáp</span></a></li>
+<li><a rel="nofollow" title="Các ngôi trường danh tiếng" href="/du-hoc/cac-ngoi-truong-danh-tieng.htm"><span>Các ngôi trường danh tiếng</span></a></li>
+<li class="last"><a rel="nofollow" title="Góc chia sẻ" href="/du-hoc/goc-chia-se.htm"><span>Góc chia sẻ</span></a></li>
+</ul>
+<p>Chuyên mục của báo Điện tử Dân trí</p>
+</div>
+</div>
+
+
+</div>
+</form>
+</body>
+</html><!--u: 03/18/2017 01:27:33-->

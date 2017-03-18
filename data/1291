@@ -1,0 +1,225 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1" lang="vi"><meta name="google-site-verification" content="bmqrm3PnDa_o67l350-ha5w2RXwkPYS9WYwrUJU5rIA" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Khoảng khắc mùa thi | Chuyên trang tuyển sinh | Dân trí</title><meta id="ctl00_metakeywords" name="keywords" content="Tuyển sinh,du học, họp cập" /><meta id="ctl00_newskeywords" name="news_keywords" content="Tuyển sinh,du học, họp cập" /><meta id="ctl00_metaDes" name="description" content="Tờ báo cập nhật 24/24 tin tức tuyển sinh mới" /><meta http-equiv="Content-Language" content="vi" /><meta name="Language" content="vi" /><meta property="og:locale" content="vi_VN" /><meta property="fb:app_id" content="830263217081389" /><meta name="author" content="BAO DIEN TU DAN TRI" /><meta property="article:author" content="https://www.facebook.com/baodantridientu" /><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><link href="https://dantri4.vcmedia.vn/web_css/tuyensinhdantri.min.1.4.css" rel="stylesheet" type="text/css" />
+    <script src="https://dantri3.vcmedia.vn/tuyensinh/scripts/tuyensinhdantri.min.1.3.js"
+        type="text/javascript" language="javascript"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-4263013-49', 'auto', { 'name': 'ts_vcc' });
+        ga('ts_vcc.send', 'pageview');
+
+        ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+        ga('dtonly.send', 'pageview');
+
+//        ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+//        ga('dtboo.send', 'pageview');
+
+//        ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+//        ga('totaldt.send', 'pageview');
+    </script>
+    
+    <script type="text/javascript">var  _ADM_Channel='%2Ftuyen-sinh%2Fkhoanh-khac-mua-thi%2F';</script>
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+    <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "17793284" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+    
+    <script type="text/javascript">
+        /*mobile*/
+        function setCookieMobileRedirect(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+
+        function CheckMobileRedirect() {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            setCookieMobileRedirect("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    } else {
+                        //van dang o phien lam viec cu thi khong lam gi.   
+                    }
+                }
+            } catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+
+        }
+        //check mobile
+        CheckMobileRedirect();
+        /*end mobile*/
+    </script>
+<link rel="canonical" href="http://tuyensinh.dantri.com.vn/tuyen-sinh/khoanh-khac-mua-thi.htm" /><link rel="alternate" type="application/rss+xml" href="http://tuyensinh.dantri.com.vn/khoanh-khac-mua-thi.rss" title="Khoảng khắc mùa thi | Chuyên trang tuyển sinh | Dân trí" /><link href="http://m.dantri.com.vn/tuyen-sinh/khoanh-khac-mua-thi.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link rel="next" href="http://tuyensinh.dantri.com.vn/tuyen-sinh/khoanh-khac-mua-thi/trang-2.htm" /><meta property="og:type" content="article" /><meta property="article:tag" content="Tuyển sinh,du học, họp cập" /><meta itemprop="headline" property="og:title" content="Khoảng khắc mùa thi | Chuyên trang tuyển sinh | Dân trí" /><meta itemprop="description" property="og:description" content="Tờ báo cập nhật 24/24 tin tức tuyển sinh mới" /><meta itemprop="keywords" content="Tuyển sinh,du học, họp cập" /><meta itemprop="thumbnailUrl" property="og:image" /><meta itemprop="url" property="og:url" content="http://tuyensinh.dantri.com.vn/tuyen-sinh/khoanh-khac-mua-thi.htm" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="./List.aspx?parentCatUrl=tuyen-sinh&amp;catUrl=khoanh-khac-mua-thi&amp;url=tuyen-sinh%2fkhoanh-khac-mua-thi%2f&amp;pageIndex=1&amp;PageType=7777" id="aspnetForm">
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="704" />
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="khoanh-khac-mua-thi" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="709" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="709" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="Khoảnh khắc m&#249;a thi" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4MTUyODM5MGRkXbmw8mBcoW1EtMrTzifKBg3EwA1BFHjCGn2SS5u1KNo=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB3BDE6C" />
+    <div id="wrap">
+        
+<div id="header">
+    <a class="sprite logo" href="/" title="Tuyển sinh Dân trí"></a>
+
+</div>
+
+<div class="fullbanner">
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_1122.ads"></script>
+</div>
+
+        
+<div id="menu">
+    <ul>
+ <li><a href="http://dantri.com.vn" target="_blank" title="Dân trí">Trang chủ</a></li>
+ <li><a href="/" title="Tuyển sinh" class="normal" id="home">Tuyển sinh</a></li>
+
+ <li><a href="/tuyen-sinh/gap-go-cac-truong.htm" title="Gặp gỡ các trường" id="gap-go-cac-truong" class="normal active">Gặp gỡ các trường</a></li>
+
+ <li><a href="/tuyen-sinh/bi-quyet-hoc-va-thi.htm" title="Bí quyết học và thi" id="bi-quyet-hoc-va-thi" class="normal">Bí quyết học và thi</a></li>
+
+ <li><a href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu - Điểm chuẩn" id="chi-tieu" class="normal">Chỉ tiêu - Điểm chuẩn</a></li>
+
+ <li><a href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án" id="de-thi-dap-an" class="normal">Đề thi - Đáp án</a></li>
+
+ <li><a href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi" id="khoanh-khac-mua-thi" class="normal">Khoảnh khắc mùa thi</a></li>
+ </ul>
+    
+</div>
+<script type="text/javascript">
+    MenuTop();
+</script>
+
+        <div id="container" class="clearfix">
+            <div id="column-left">
+                
+   
+    <div id="ctl00_ContentPlaceHolder1_divNormal" class="list">
+         <h1 class="item"><a href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi" class="titlelist">Khoảnh khắc mùa thi</a></h1>
+        <div class="item"><a title="Muốn tr&#225;nh thất nghiệp: H&#227;y hiểu đ&#250;ng m&#236;nh, chọn đ&#250;ng nghề"  href="/tuyen-sinh/muon-tranh-that-nghiep-hay-hieu-dung-minh-chon-dung-nghe-20170303103128858.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/huong-nghiep-2-1488505127678.jpg" alt="Muốn tr&#225;nh thất nghiệp: H&#227;y hiểu đ&#250;ng m&#236;nh, chọn đ&#250;ng nghề" class="avatar"></a> <h3><a title="Muốn tr&#225;nh thất nghiệp: H&#227;y hiểu đ&#250;ng m&#236;nh, chọn đ&#250;ng nghề" href="/tuyen-sinh/muon-tranh-that-nghiep-hay-hieu-dung-minh-chon-dung-nghe-20170303103128858.htm">Muốn tr&#225;nh thất nghiệp: H&#227;y hiểu đ&#250;ng m&#236;nh, chọn đ&#250;ng nghề</a></h3><p>(Dân trí) - Chuyên gia Nguyễn Lâm Thúy cho rằng, lâu nay các em học sinh thường chọn ngành, chọn nghề chủ yếu theo cảm tính, theo trào lưu xã hội hoặc theo ý của các bậc tiền bối, dẫn đến làm việc không hiệu quả cũng như gia tăng tình trạng thất nghiệp.</p></div><div class="item"><a title="Đề thi THPT quốc gia 2017: Tập trung “xo&#225;y” v&#224;o chương tr&#236;nh lớp 12"  href="/giao-duc-khuyen-hoc/de-thi-thpt-quoc-gia-2017-tap-trung-xoay-vao-chuong-trinh-lop-12-2017031116410801.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/mg-2959-1489215506007.jpg" alt="Đề thi THPT quốc gia 2017: Tập trung “xo&#225;y” v&#224;o chương tr&#236;nh lớp 12" class="avatar"></a> <h3><a title="Đề thi THPT quốc gia 2017: Tập trung “xo&#225;y” v&#224;o chương tr&#236;nh lớp 12" href="/giao-duc-khuyen-hoc/de-thi-thpt-quoc-gia-2017-tap-trung-xoay-vao-chuong-trinh-lop-12-2017031116410801.htm">Đề thi THPT quốc gia 2017: Tập trung “xo&#225;y” v&#224;o chương tr&#236;nh lớp 12</a></h3><p>(Dân trí) - Giải đáp câu hỏi về “nội dung của đề thi sẽ nằm trọng tâm ở đâu”. TS Sái Công Hồng - Phó Cục trưởng Cục Khảo thí và Kiểm định chất lượng giáo dục Bộ GD-ĐT trả lời: “Đề thi chủ yếu thuộc ngân hàng đề, các nội dung kiến thức trong đề thi sẽ xoáy vào nội dung của sách giáo khoa lớp 12”.</p></div><div class="item"><a title="Một số băn khoăn trước kỳ thi THPT quốc gia 2017"  href="/giao-duc-khuyen-hoc/mot-so-ban-khoan-truoc-ky-thi-thpt-quoc-gia-2017-20170302072642092.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-0-1488415572318.jpg" alt="Một số băn khoăn trước kỳ thi THPT quốc gia 2017" class="avatar"></a> <h3><a title="Một số băn khoăn trước kỳ thi THPT quốc gia 2017" href="/giao-duc-khuyen-hoc/mot-so-ban-khoan-truoc-ky-thi-thpt-quoc-gia-2017-20170302072642092.htm">Một số băn khoăn trước kỳ thi THPT quốc gia 2017</a></h3><p>(Dân trí) - Đến thời điểm này, các trường THPT bắt đầu “lên dây cót” chuẩn bị các điều kiện, tâm lý cho cán bộ, giáo viên, phụ huynh và học sinh nắm bắt và thích nghi về những đổi mới của kỳ thi THPT quốc gia năm 2017. Bên cạnh những điểm tích cực từ sự đổi mới của kỳ thi năm nay thì giáo viên và học sinh vẫn còn một số điều băn khoăn.</p></div><div class="item"><a title="Hơn 4.000 học sinh Huế tham gia chương tr&#236;nh tư vấn tuyển sinh - hướng nghiệp"  href="/tuyen-sinh/hon-4000-hoc-sinh-hue-tham-gia-chuong-trinh-tu-van-tuyen-sinh-huong-nghiep-20170226230248952.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/tu-van-tuyen-sinh-huong-nghiep-2017-tai-hue-3-1488096595851.jpg" alt="Hơn 4.000 học sinh Huế tham gia chương tr&#236;nh tư vấn tuyển sinh - hướng nghiệp" class="avatar"></a> <h3><a title="Hơn 4.000 học sinh Huế tham gia chương tr&#236;nh tư vấn tuyển sinh - hướng nghiệp" href="/tuyen-sinh/hon-4000-hoc-sinh-hue-tham-gia-chuong-trinh-tu-van-tuyen-sinh-huong-nghiep-20170226230248952.htm">Hơn 4.000 học sinh Huế tham gia chương tr&#236;nh tư vấn tuyển sinh - hướng nghiệp</a></h3><p>(Dân trí) - Chiều 25/2 tại trường THPT chuyên Quốc Học Huế, hơn 4.000 học sinh THPT của tỉnh Thừa Thiên Huế đã tham gia chương trình tư vấn tuyển sinh - hướng nghiệp 2017.</p></div><div class="item"><a title="H&#224;ng trăm học tr&#242; ngồi bệt thi học kỳ giữa s&#226;n trường"  href="/giao-duc-khuyen-hoc/hang-tram-hoc-tro-ngoi-bet-thi-hoc-ky-giua-san-truong-20161229113719929.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/photo-0-1482986457554.jpg" alt="H&#224;ng trăm học tr&#242; ngồi bệt thi học kỳ giữa s&#226;n trường" class="avatar"></a> <h3><a title="H&#224;ng trăm học tr&#242; ngồi bệt thi học kỳ giữa s&#226;n trường" href="/giao-duc-khuyen-hoc/hang-tram-hoc-tro-ngoi-bet-thi-hoc-ky-giua-san-truong-20161229113719929.htm">H&#224;ng trăm học tr&#242; ngồi bệt thi học kỳ giữa s&#226;n trường</a></h3><p>(Dân trí) - Học sinh Trường THCS Trần Quốc Toản, Tuy Hòa, Phú Yên tỏ ra vô cùng thích thú với việc ngồi bệt thi học kỳ. Kỳ thi được tổ chức giữa sân trường với hàng trăm học sinh tham dự.</p></div><div class="item"><a title="Muốn thi Sử điểm cao, đọc kỹ s&#225;ch gi&#225;o khoa"  href="/tuyen-sinh/muon-thi-su-diem-cao-doc-ky-sach-giao-khoa-2016121407393338.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/1-6a-sdsx-1481675927945.jpg" alt="Muốn thi Sử điểm cao, đọc kỹ s&#225;ch gi&#225;o khoa" class="avatar"></a> <h3><a title="Muốn thi Sử điểm cao, đọc kỹ s&#225;ch gi&#225;o khoa" href="/tuyen-sinh/muon-thi-su-diem-cao-doc-ky-sach-giao-khoa-2016121407393338.htm">Muốn thi Sử điểm cao, đọc kỹ s&#225;ch gi&#225;o khoa</a></h3><p>Thi THPT quốc gia năm nay, Lịch sử là một trong những môn lần đầu thi trắc nghiệm. Để đạt điểm cao, thí sinh cần đọc kỹ sách giáo khoa, nắm vững khái niệm, bản chất của các sự kiện lịch sử.</p></div><div class="item"><a title="Mỏi mắt “săn” t&#224;i liệu luyện thi THPT Quốc gia"  href="/tuyen-sinh/moi-mat-san-tai-lieu-luyen-thi-thpt-quoc-gia-20161212223033225.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/861f8f1ef9/2016/12/12/hinh-1-8-1481553557499.jpg" alt="Mỏi mắt “săn” t&#224;i liệu luyện thi THPT Quốc gia" class="avatar"></a> <h3><a title="Mỏi mắt “săn” t&#224;i liệu luyện thi THPT Quốc gia" href="/tuyen-sinh/moi-mat-san-tai-lieu-luyen-thi-thpt-quoc-gia-20161212223033225.htm">Mỏi mắt “săn” t&#224;i liệu luyện thi THPT Quốc gia</a></h3><p>(Dân trí) - Học kỳ 1 năm học 2016-2017 sắp kết thúc, thị trường sách tham khảo, tài liệu luyện thi tốt nghiệp tại Đắk Nông vẫn vắng vẻ, ảm đạm. Để tìm mua một cuốn sách phục vụ kỳ thi THPT Quốc gia năm 2017, cả phụ huynh lẫn học sinh phải chạy ngược chạy xuôi nhưng vẫn khó “săn” được tài liệu vừa ý.</p></div><div class="item"><a title="Nhiều trường thi thử đ&#225;nh gi&#225; học sinh"  href="/tuyen-sinh/nhieu-truong-thi-thu-danh-gia-hoc-sinh-20161208075229822.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/photo-0-1481158196032.jpg" alt="Nhiều trường thi thử đ&#225;nh gi&#225; học sinh" class="avatar"></a> <h3><a title="Nhiều trường thi thử đ&#225;nh gi&#225; học sinh" href="/tuyen-sinh/nhieu-truong-thi-thu-danh-gia-hoc-sinh-20161208075229822.htm">Nhiều trường thi thử đ&#225;nh gi&#225; học sinh</a></h3><p>Sau khi Bộ GD&ĐT công bố dự thảo quy chế thi THPT quốc gia, nhiều trường đã rục rịch cho học sinh chuẩn bị thi trắc nghiệm 8 môn và 1 môn tự luận để từ đó có đánh giá chất lượng, định hướng cho học sinh…</p></div><div class="item"><a title="H&#224; Nội kiểm tra học kỳ I lớp 12 như kỳ thi THPT Quốc gia"  href="/giao-duc-khuyen-hoc/ha-noi-kiem-tra-hoc-ky-i-lop-12-nhu-ky-thi-thpt-quoc-gia-20161114072835433.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/thi-thpt-quoc-gia-vov-jyks-1479083203328.jpg" alt="H&#224; Nội kiểm tra học kỳ I lớp 12 như kỳ thi THPT Quốc gia" class="avatar"></a> <h3><a title="H&#224; Nội kiểm tra học kỳ I lớp 12 như kỳ thi THPT Quốc gia" href="/giao-duc-khuyen-hoc/ha-noi-kiem-tra-hoc-ky-i-lop-12-nhu-ky-thi-thpt-quoc-gia-20161114072835433.htm">H&#224; Nội kiểm tra học kỳ I lớp 12 như kỳ thi THPT Quốc gia</a></h3><p>Hà Nội kiểm tra học kỳ I lớp 12 và chấm thi như kỳ thi THPT Quốc gia. Học sinh được phát số báo danh, có đề thi riêng.</p></div><div class="item"><a title="Trường học “chạy”… theo kỳ thi THPT Quốc gia"  href="/giao-duc-khuyen-hoc/truong-hoc-chay-theo-ky-thi-thpt-quoc-gia-20161029081320521.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/50f875d98f/2016/10/29/onthi1-1477701375616.jpg" alt="Trường học “chạy”… theo kỳ thi THPT Quốc gia" class="avatar"></a> <h3><a title="Trường học “chạy”… theo kỳ thi THPT Quốc gia" href="/giao-duc-khuyen-hoc/truong-hoc-chay-theo-ky-thi-thpt-quoc-gia-20161029081320521.htm">Trường học “chạy”… theo kỳ thi THPT Quốc gia</a></h3><p>(Dân trí) - Vội vã xếp lại lớp học theo nguyện vọng; tổ chuyên môn dốc sức tập thành ra đề trắc nghiệm rồi rút kinh nghiệm; miệt mài tổ chức khảo sát, thi thử, tăng tiết theo phương thức thi mới…</p></div><div class="item"><a title="Thầy tr&#242; v&#224;o cuộc chạy tăng tiết"  href="/tuyen-sinh/thay-tro-vao-cuoc-chay-tang-tiet-20161029063234059.htm"><img width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2016/13-chot-bxow-1477697775441.jpg" alt="Thầy tr&#242; v&#224;o cuộc chạy tăng tiết" class="avatar"></a> <h3><a title="Thầy tr&#242; v&#224;o cuộc chạy tăng tiết" href="/tuyen-sinh/thay-tro-vao-cuoc-chay-tang-tiet-20161029063234059.htm">Thầy tr&#242; v&#224;o cuộc chạy tăng tiết</a></h3><p>Nhiều trường đã chủ động tăng tiết ở buổi hai cho khối 12 để các em được ôn luyện nhiều hơn trước những đổi mới của kỳ thi năm nay.</p></div>
+    </div>
+    
+    <div class="cat-trangsau">
+        &nbsp;[ <a href="/tuyen-sinh/khoanh-khac-mua-thi/trang-2.htm">Trang sau</a> ]
+    </div>
+    <div id="ctl00_ContentPlaceHolder1_divBaiDaDang">
+        
+<div class="oldernew">       
+	<p>Các bài đã đăng</p>
+    <ul>
+       <li><i class="dotted sprite"></i><a title="Tăng tốc với m&#244;n gi&#225;o dục c&#244;ng d&#226;n" href="/tuyen-sinh/tang-toc-voi-mon-giao-duc-cong-dan-20161025072126013.htm">Tăng tốc với m&#244;n gi&#225;o dục c&#244;ng d&#226;n (25/10)</a></li><li><i class="dotted sprite"></i><a title="Nở rộ c&#225;c trung t&#226;m luyện thi trắc nghiệm cho học sinh" href="/giao-duc-khuyen-hoc/no-ro-cac-trung-tam-luyen-thi-trac-nghiem-cho-hoc-sinh-20161018071854203.htm">Nở rộ c&#225;c trung t&#226;m luyện thi trắc nghiệm cho học sinh (18/10)</a></li><li><i class="dotted sprite"></i><a title="Hơn 2.500 t&#226;n sinh vi&#234;n ĐH Quy Nhơn đ&#243;n năm học mới" href="/khuyen-hoc/hon-2500-tan-sinh-vien-dh-quy-nhon-don-nam-hoc-moi-20160914220423698.htm">Hơn 2.500 t&#226;n sinh vi&#234;n ĐH Quy Nhơn đ&#243;n năm học mới (14/09)</a></li><li><i class="dotted sprite"></i><a title="Hiệu trưởng ĐH B&#225;ch khoa: “Đừng qu&#234;n tr&#250;ng tuyển đại học mới l&#224; khởi đầu”" href="/giao-duc-khuyen-hoc/hieu-truong-dh-bach-khoa-dung-quen-trung-tuyen-dai-hoc-moi-la-khoi-dau-20160908143330188.htm">Hiệu trưởng ĐH B&#225;ch khoa: “Đừng qu&#234;n tr&#250;ng tuyển đại học mới l&#224; khởi đầu” (08/09)</a></li><li><i class="dotted sprite"></i><a title="Tưng bừng ng&#224;y hội ch&#224;o đ&#243;n gần 2.000 t&#226;n sinh vi&#234;n" href="/khuyen-hoc/tung-bung-ngay-hoi-chao-don-gan-2000-tan-sinh-vien-20160905142834401.htm">Tưng bừng ng&#224;y hội ch&#224;o đ&#243;n gần 2.000 t&#226;n sinh vi&#234;n (05/09) <img class="iconshow" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_video_text2.png" />&nbsp;</a></li><li><i class="dotted sprite"></i><a title="Nhiều trường “n&#237;n thở” chờ th&#237; sinh đến x&#225;c nhận nhập học" href="/giao-duc-khuyen-hoc/nhieu-truong-nin-tho-cho-thi-sinh-den-xac-nhan-nhap-hoc-20160816171213934.htm">Nhiều trường “n&#237;n thở” chờ th&#237; sinh đến x&#225;c nhận nhập học (16/08)</a></li><li><i class="dotted sprite"></i><a title="L&#225;c đ&#225;c th&#237; sinh đăng k&#253; trong ng&#224;y cuối x&#233;t tuyển" href="/tuyen-sinh/lac-dac-thi-sinh-dang-ky-trong-ngay-cuoi-xet-tuyen-20160812223625848.htm">L&#225;c đ&#225;c th&#237; sinh đăng k&#253; trong ng&#224;y cuối x&#233;t tuyển (12/08)</a></li><li><i class="dotted sprite"></i><a title="Phụ huynh, sỹ tử &quot;chạy đua nước r&#250;t&quot; x&#233;t tuyển ĐH, CĐ" href="/giao-duc-khuyen-hoc/phu-huynh-sy-tu-chay-dua-nuoc-rut-xet-tuyen-dh-cd-2016081114261035.htm">Phụ huynh, sỹ tử &quot;chạy đua nước r&#250;t&quot; x&#233;t tuyển ĐH, CĐ (11/08) <img class="iconshow"  border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp;</a></li><li><i class="dotted sprite"></i><a title="Hơn 2.000 th&#237; sinh thi năng lực tranh suất v&#224;o trường ĐH Luật TPHCM" href="/giao-duc-khuyen-hoc/hon-2000-thi-sinh-thi-nang-luc-tranh-suat-vao-truong-dh-luat-tphcm-20160803163822371.htm">Hơn 2.000 th&#237; sinh thi năng lực tranh suất v&#224;o trường ĐH Luật TPHCM (03/08)</a></li><li><i class="dotted sprite"></i><a title="ĐH Đ&#224; Nẵng: Kh&#244;ng thu hồ sơ trực tiếp, th&#237; sinh vẫn đến tận trường nộp hồ sơ" href="/giao-duc-khuyen-hoc/dh-da-nang-khong-thu-ho-so-truc-tiep-thi-sinh-van-den-tan-truong-nop-ho-so-20160801215748598.htm">ĐH Đ&#224; Nẵng: Kh&#244;ng thu hồ sơ trực tiếp, th&#237; sinh vẫn đến tận trường nộp hồ sơ (02/08)</a></li>	
+    </ul>
+    <input type="button" onclick="displayCalendar(this,'dd-mm-yyyy',this);" value="" class="sprite xembaitheongaythang" id="viewbdate" />
+</div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            FixList();
+        });
+    </script>
+
+            </div>
+            <div id="column-right">
+                
+<div class="block" style="padding:0 5px">
+    
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+</div>
+                
+                
+<div class="tuvantoancanh block">
+    <div class="tvtc-container">
+       <a class="sprite header" href="/tuyen-sinh/tu-van-toan-canh/trang-1.htm"><img src="https://dantri3.vcmedia.vn/Images/tuyensinh/blank.gif" alt="tuvantoancanh" /></a>
+	    <ul>
+		    <li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/cong-bo-diem-thi-thptqg-2016-toan-bo-120-cum-thi-da-co-diem-2016071816583279.htm">Công bố điểm thi THPTQG 2016: Toàn bộ 120 cụm thi đã có điểm</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/bi-quyet-on-luyen-mon-ngu-van-chi-tiet-cach-lam-bai-nghi-luan-van-hoc-phan-2-20160420094714672.htm">Bí quyết ôn luyện môn Ngữ văn: Chi tiết cách làm bài Nghị luận văn học (phần 2)</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/o-truong-sa-su-dung-loai-song-nao-de-xem-truyen-hinh-2016032813455991.htm">Ở Trường Sa sử dụng loại sóng nào để xem truyền hình?</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/cach-ghi-19-muc-trong-phieu-dang-ky-du-thi-thpt-quoc-gia-2016-20160324224005302.htm">Cách ghi 19 mục trong Phiếu đăng ký dự thi THPT quốc gia 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/2-truong-hop-duoc-mien-thi-mon-ngoai-ngu-thpt-quoc-gia-2016-20160324211938503.htm">2 trường hợp được miễn thi môn ngoại ngữ THPT quốc gia 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/ca-nuoc-co-70-cum-thi-thpt-quoc-gia-do-truong-dai-hoc-chu-tri-20160316160253795.htm">Cả nước có 70 cụm thi THPT quốc gia do trường đại học chủ trì</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/video-bai-giang-phuong-phap-su-dung-may-tinh-bo-tui-trong-giai-toan-trac-nghiem-20160309110201025.htm">Video bài giảng: Phương pháp sử dụng máy tính bỏ túi trong giải toán trắc nghiệm</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/moi-thu-suc-voi-15-cau-hoi-sinh-hoc-thi-thpt-quoc-gia-20160308152024754.htm">Mời thử sức với 15 câu hỏi Sinh học thi THPT quốc gia</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/du-kien-bo-quy-dinh-thi-sinh-nop-phieu-dkxt-tai-truong-khong-can-thiet-phai-bo-20160306094304476.htm">Dự kiến bỏ quy định thí sinh nộp phiếu ĐKXT tại trường: Không cần thiết phải bỏ!</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/giao-duc-khuyen-hoc/toan-canh-chi-tieu-khoi-truong-cong-an-nhan-dan-nam-2016-20160223145712607.htm">Toàn cảnh chỉ tiêu khối trường công an  nhân dân năm 2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/4-quyet-dinh-quan-trong-doi-voi-giao-vien-hs-sv-co-hieu-luc-tu-1-1-2016-20160101082532836.htm">4 quyết định quan trọng đối với giáo viên, HS,SV có hiệu lực từ 1/1/2016</a></h4></li><li><i class="dotted sprite"></i><h4><a href="/tuyen-sinh/hoc-vien-chinh-sach-va-phat-trien-tuyen-sinh-dh-he-chinh-quy-2015-20150818105528141.htm">Học viện Chính sách và Phát triển tuyển sinh ĐH hệ chính quy 2015</a></h4></li>
+	    </ul>
+	</div>
+    <div class="sprite tvtc-footer"></div>
+</div>
+                
+<div class="tiemdiem block">
+    <p class="sprite header">
+        <img src="https://dantri3.vcmedia.vn/Images/tuyensinh/blank.gif" class="tieudiemhome" />
+    </p>
+    <div class="container">
+         <div class="item"><a title="Tăng tốc với môn giáo dục công dân" href="/tuyen-sinh/tang-toc-voi-mon-giao-duc-cong-dan-20161025072126013.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/2016/12-chot-1477320906887-1477354841345.jpg" alt="Tăng tốc với môn giáo dục công dân" title="Tăng tốc với môn giáo dục công dân"></a><h4><a href="/tuyen-sinh/tang-toc-voi-mon-giao-duc-cong-dan-20161025072126013.htm" title="Tăng tốc với môn giáo dục công dân"> Tăng tốc với môn giáo dục công dân</a></h4></div> <div class="item"><a title="Phụ huynh, sỹ tử "chạy đua nước rút" xét tuyển ĐH, CĐ" href="/giao-duc-khuyen-hoc/phu-huynh-sy-tu-chay-dua-nuoc-rut-xet-tuyen-dh-cd-2016081114261035.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/39a4446f16/2016/08/11/dsc-0049-1470894977066.JPG" alt="Phụ huynh, sỹ tử 'chạy đua nước rút' xét tuyển ĐH, CĐ" title="Phụ huynh, sỹ tử 'chạy đua nước rút' xét tuyển ĐH, CĐ"></a><h4><a href="/giao-duc-khuyen-hoc/phu-huynh-sy-tu-chay-dua-nuoc-rut-xet-tuyen-dh-cd-2016081114261035.htm" title="Phụ huynh, sỹ tử "chạy đua nước rút" xét tuyển ĐH, CĐ"> Phụ huynh, sỹ tử "chạy đua nước rút" xét tuyển ĐH, CĐ <img class="iconshow" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_slide2.png" />&nbsp;</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Cảm phục tấm gương những thí sinh giàu nghị lực trong kỳ thi THPT quốc gia" href="/giao-duc-khuyen-hoc/cam-phuc-tam-guong-nhung-thi-sinh-giau-nghi-luc-trong-ky-thi-thpt-quoc-gia-2016070507594069.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/2016/1-nusinhkhiemthinhtutindithi-1467681057458.jpg" alt="Cảm phục tấm gương những thí sinh giàu nghị lực trong kỳ thi THPT quốc gia" title="Cảm phục tấm gương những thí sinh giàu nghị lực trong kỳ thi THPT quốc gia"></a><h4><a href="/giao-duc-khuyen-hoc/cam-phuc-tam-guong-nhung-thi-sinh-giau-nghi-luc-trong-ky-thi-thpt-quoc-gia-2016070507594069.htm" title="Cảm phục tấm gương những thí sinh giàu nghị lực trong kỳ thi THPT quốc gia"> Cảm phục tấm gương những thí sinh giàu nghị lực trong kỳ thi THPT quốc gia</a></h4></div> <div class="item"><a title="Nét xinh tươi, trong sáng của nữ sinh trong kỳ thi THPTQG" href="/giao-duc-khuyen-hoc/net-xinh-tuoi-trong-sang-cua-nu-sinh-trong-ky-thi-thptqg-20160704083954985.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/72b62a2872/2016/07/03/a-1467521737610.jpg" alt="Nét xinh tươi, trong sáng của nữ sinh trong kỳ thi THPTQG" title="Nét xinh tươi, trong sáng của nữ sinh trong kỳ thi THPTQG"></a><h4><a href="/giao-duc-khuyen-hoc/net-xinh-tuoi-trong-sang-cua-nu-sinh-trong-ky-thi-thptqg-20160704083954985.htm" title="Nét xinh tươi, trong sáng của nữ sinh trong kỳ thi THPTQG"> Nét xinh tươi, trong sáng của nữ sinh trong kỳ thi THPTQG <img class="iconshow" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_slide2.png" />&nbsp;</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Nụ cười áo xanh tình nguyện xua tan mệt nhọc mùa thi cử" href="/giao-duc-khuyen-hoc/nu-cuoi-ao-xanh-tinh-nguyen-xua-tan-met-nhoc-mua-thi-cu-20160703074920031.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/72b62a2872/2016/07/01/img-2442-1467358398903.JPG" alt="Nụ cười áo xanh tình nguyện xua tan mệt nhọc mùa thi cử" title="Nụ cười áo xanh tình nguyện xua tan mệt nhọc mùa thi cử"></a><h4><a href="/giao-duc-khuyen-hoc/nu-cuoi-ao-xanh-tinh-nguyen-xua-tan-met-nhoc-mua-thi-cu-20160703074920031.htm" title="Nụ cười áo xanh tình nguyện xua tan mệt nhọc mùa thi cử"> Nụ cười áo xanh tình nguyện xua tan mệt nhọc mùa thi cử <img class="iconshow" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_slide2.png" />&nbsp;</a></h4></div> <div class="item"><a title="Công an, cán bộ Hải quan nấu cơm phục vụ thí sinh" href="/giao-duc-khuyen-hoc/cong-an-can-bo-hai-quan-nau-com-phuc-vu-thi-sinh-20160701144813776.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/22e1684e4a/2016/07/01/com-tiep-suc-mua-thi-172016-1467352579309.jpg" alt="Công an, cán bộ Hải quan nấu cơm phục vụ thí sinh" title="Công an, cán bộ Hải quan nấu cơm phục vụ thí sinh"></a><h4><a href="/giao-duc-khuyen-hoc/cong-an-can-bo-hai-quan-nau-com-phuc-vu-thi-sinh-20160701144813776.htm" title="Công an, cán bộ Hải quan nấu cơm phục vụ thí sinh"> Công an, cán bộ Hải quan nấu cơm phục vụ thí sinh <img class="iconshow" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_slide2.png" />&nbsp;</a></h4></div><div class="td-saparator"></div> <div class="item"><a title="Thí sinh khiếm thị nuôi giấc mơ giảng đường đại học" href="/giao-duc-khuyen-hoc/thi-sinh-khiem-thi-nuoi-giac-mo-giang-duong-dai-hoc-20160701090620494.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6fce29f197/2016/07/01/7-1467337220416.jpg" alt="Thí sinh khiếm thị nuôi giấc mơ giảng đường đại học" title="Thí sinh khiếm thị nuôi giấc mơ giảng đường đại học"></a><h4><a href="/giao-duc-khuyen-hoc/thi-sinh-khiem-thi-nuoi-giac-mo-giang-duong-dai-hoc-20160701090620494.htm" title="Thí sinh khiếm thị nuôi giấc mơ giảng đường đại học"> Thí sinh khiếm thị nuôi giấc mơ giảng đường đại học <img class="iconshow" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_slide2.png" />&nbsp;</a></h4></div> <div class="item"><a title="Cô giáo giúp đỡ trò nghèo ăn ở trong suốt kỳ thi" href="/giao-duc-khuyen-hoc/co-giao-giup-do-tro-ngheo-an-o-trong-suot-ky-thi-20160701063558316.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/72b62a2872/2016/06/30/1img-6267-1467302950217.jpg" alt="Cô giáo giúp đỡ trò nghèo ăn ở trong suốt kỳ thi" title="Cô giáo giúp đỡ trò nghèo ăn ở trong suốt kỳ thi"></a><h4><a href="/giao-duc-khuyen-hoc/co-giao-giup-do-tro-ngheo-an-o-trong-suot-ky-thi-20160701063558316.htm" title="Cô giáo giúp đỡ trò nghèo ăn ở trong suốt kỳ thi"> Cô giáo giúp đỡ trò nghèo ăn ở trong suốt kỳ thi <img class="iconshow" border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_slide2.png" />&nbsp;</a></h4></div><div class="td-saparator"></div> <div class="item"><a title=""Vật vã" ngóng đợi vì website xem điểm thi của Bộ GD&ĐT liên tục lỗi" href="/giao-duc-khuyen-hoc/vat-va-ngong-doi-vi-website-xem-diem-thi-cua-bo-gddt-lien-tuc-loi-1438253994.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/xyBCccccccccccccmEeWt12a5GNDTc/Image/2015/07/Screen-Shot-2015-07-22-at-2.39.15-PM-copy-d138c.png" alt="'Vật vã' ngóng đợi vì website xem điểm thi của Bộ GD&ĐT liên tục lỗi" title="'Vật vã' ngóng đợi vì website xem điểm thi của Bộ GD&ĐT liên tục lỗi"></a><h4><a href="/giao-duc-khuyen-hoc/vat-va-ngong-doi-vi-website-xem-diem-thi-cua-bo-gddt-lien-tuc-loi-1438253994.htm" title=""Vật vã" ngóng đợi vì website xem điểm thi của Bộ GD&ĐT liên tục lỗi"> "Vật vã" ngóng đợi vì website xem điểm thi của Bộ GD&ĐT liên tục lỗi</a></h4></div> <div class="item"><a title="Vẻ đẹp hút ánh nhìn của nữ sinh dự thi ĐH Sân khấu - Điện ảnh" href="/tuyen-sinh/ve-dep-hut-anh-nhin-cua-nu-sinh-du-thi-dh-san-khau-dien-anh-1438194178.htm"><img src="https://dantri.vcmedia.vn/zoom/45_33/6VOh9eWv7NwpdOIZcZsWgl3o3kKvcU/Image/2015/07/thule210715b-3d1c6.jpg" alt="Vẻ đẹp hút ánh nhìn của nữ sinh dự thi ĐH Sân khấu - Điện ảnh" title="Vẻ đẹp hút ánh nhìn của nữ sinh dự thi ĐH Sân khấu - Điện ảnh"></a><h4><a href="/tuyen-sinh/ve-dep-hut-anh-nhin-cua-nu-sinh-du-thi-dh-san-khau-dien-anh-1438194178.htm" title="Vẻ đẹp hút ánh nhìn của nữ sinh dự thi ĐH Sân khấu - Điện ảnh"> Vẻ đẹp hút ánh nhìn của nữ sinh dự thi ĐH Sân khấu - Điện ảnh <img class="iconshow"  border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp;</a></h4></div><div class="td-saparator"></div>
+ 
+  
+ </div>
+</div>
+
+                
+                
+<div class="block" style="padding:0 5px">
+    
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+                
+
+<div class="block" style="padding:0 5px">
+    <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_486.ads"></script>
+</div>
+            </div>
+        </div>
+        
+<div id="footer">
+    <div class="footer-logo"><a rel="nofollow" class="sprite" href="/" title="Tuyển sinh Dân trí"></a></div>
+    <div class="footer-menu">
+        <ul>
+            <li><a rel="nofollow" href="http://dantri.com.vn" title="Dân trí">Trang chủ</a></li>
+            <li><a rel="nofollow" href="/" title="Tuyển sinh 2015">Tuyển sinh 2015</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/gap-go-cac-truong.htm" title="Gặp gỡ các trường">Gặp gỡ các trường</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/bi-quyet-hoc-va-thi.htm" title="Bí quyết học và thi">Bí quyết học và thi</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/chi-tieu.htm" title="Chỉ tiêu - Điểm thi">Chỉ tiêu - Điểm thi</a></li>
+            <li><a rel="nofollow" href="/tuyen-sinh/de-thi-dap-an.htm" title="Đề thi - Đáp án">Đề thi - Đáp án</a></li>
+            <li class="last"><a rel="nofollow" href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Khoảnh khắc mùa thi">Khoảnh khắc mùa thi</a></li>
+        </ul>
+        <p>Chuyên mục của báo Điện tử Dân trí</p>
+    </div>
+</div>
+    </div>
+    </form>
+</body>
+</html>
+

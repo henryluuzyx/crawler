@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Biến tấu của bún cá 'ngon phát hờn' dọc 3 miền đất nước - Dân Việt
+</title><meta name="keywords" content="Vị Thanh,bún cá Châu Đốc,Nha Trang,chế biến,Châu Đốc,bún chả,Hưng Yên,Hà Nội,Hải Phòng" /><meta name="description" content="Canh cá Quỳnh Côi, bún cá châu Đốc, canh cá rô Hưng Yên... là những món ăn nhất định bạn phải thử một lần trong đời, bởi những biến tấu khác lạ, mang lại nh..." />
+<link rel="canonical" href="http://www.baomoi.com/bien-tau-cua-bun-ca-ngon-phat-hon-doc-3-mien-dat-nuoc/c/21791328.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791328" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791328" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/du-lich/bien-tau-cua-bun-ca-ngon-phat-hon-doc-3-mien-dat-nuoc-754051.html");
+else
+window.location.replace("http://www.baomoi.com/bien-tau-cua-bun-ca-ngon-phat-hon-doc-3-mien-dat-nuoc/c/21791328.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

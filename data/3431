@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thể lệ Giải báo chí toàn quốc Tự hào Nông dân Việt Nam - Dân Việt
+</title><meta name="keywords" content="Hồ Quang Lợi,hội nhà báo việt nam,Trần Bá Dung,Hội Nông dân Việt Nam,Tam Nông,Báo NTNN,phát động,Hội Nông dân,Lê Ngọc Hân,Trần Quang,Đường Dương Đình Nghệ,thông tin đại chúng,Lý Thái Tổ,sáng tạo,phản ánh,khai thác,hội nhập kinh tế,hiệu quả kinh tế,sáng chế,canh tác,Hoàn Kiếm" /><meta name="description" content="Trong 3 năm qua, Báo NTNN đã tổ chức Cuộc thi viết Tự hào NDVN trên Báo NTNN và đã đạt được kết quả tốt. Trên nền cuộc thi này của Báo NTNN và từ đề xuất củ..." />
+<link rel="canonical" href="http://www.baomoi.com/the-le-giai-bao-chi-toan-quoc-tu-hao-nong-dan-viet-nam/c/21754880.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21754880" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21754880" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/nha-nong/the-le-giai-bao-chi-toan-quoc-tu-hao-nong-dan-viet-nam-752801.html");
+else
+window.location.replace("http://www.baomoi.com/the-le-giai-bao-chi-toan-quoc-tu-hao-nong-dan-viet-nam/c/21754880.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

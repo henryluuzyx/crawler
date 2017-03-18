@@ -1,0 +1,2384 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Thông tin quy hoạch quản lý - BAOMOI.COM
+</title><meta name="keywords" content="quy hoạch quản lý, quy hoach quan ly, quản lý đất đai, dự án, quy hoạch, quản lý" /><meta name="description" content="Thông tin quy hoạch, quản lý các dự án đang được người dân quan tâm" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/quan-ly-quy-hoach.epi" />
+<link rel="alternate" href="http://www.baomoi.com/quan-ly-quy-hoach.epi" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/quan-ly-quy-hoach.epi" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/quan-ly-quy-hoach.epi" />
+<meta property="og:title" content="Quản lý - Quy hoạch" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Quản lý - Quy hoạch",
+"alternateName" : "Thông tin quy hoạch, quản lý các dự án đang được người dân quan tâm",
+"url" : "http://www.baomoi.com/quan-ly-quy-hoach.epi"
+}
+</script>
+<link rel="alternate" href="http://www.baomoi.com/quan-ly-quy-hoach.rss" type="application/rss+xml" title="RSS" />
+<script type="text/javascript">
+var cate_id = 148;
+var cate_path = "quan-ly-quy-hoach";</script>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content nocontent robots-nocontent">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<section class="main category-page">
+<section class="hot-news">
+<div class="focus" data-track="|hotnews">
+<div class="main">
+<article data-aid="21793048" class="feature">
+<figure>
+<a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w626/17/03/18/214/21793048/1_139720.jpg" alt="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:26:00+07:00"></time>
+<span>
+<a href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/c/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà" class="spr spr-cache cache">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-cache cache">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792778" >
+<figure>
+<a target="_blank" href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/r/21792778.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/94/21792778/4_94209.jpg" alt="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/r/21792778.epi" title="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM">Gửi xe giá 'bèo', doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T06:50:00+07:00"></time>
+<span>
+<a href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/c/21792778.epi" title="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM" class="spr spr-cache cache">Gửi xe giá 'bèo', doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792907" >
+<figure>
+<a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/210/21792907/2_41618.jpg" alt="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/c/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ" class="spr spr-cache cache">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792653" >
+<figure>
+<a target="_blank" href="/chung-cu-cu-nat-o-sai-gon-se-nhanh-duoc-thay-the/r/21792653.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/283/21792653/2_140240.jpg" alt="Chung cư cũ nát ở Sài Gòn sẽ nhanh được thay thế" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-cu-cu-nat-o-sai-gon-se-nhanh-duoc-thay-the/r/21792653.epi" title="Chung cư cũ nát ở Sài Gòn sẽ nhanh được thay thế">Chung cư cũ nát ở Sài Gòn sẽ nhanh được thay thế</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T06:23:00+07:00"></time>
+<span>
+<a href="/chung-cu-cu-nat-o-sai-gon-se-nhanh-duoc-thay-the/c/21792653.epi" title="Chung cư cũ nát ở Sài Gòn sẽ nhanh được thay thế" class="spr spr-cache cache">Chung cư cũ nát ở Sài Gòn sẽ nhanh được thay thế</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</div>
+<div class="more-article" data-track="|news">
+<article data-aid="21793398">
+<header>
+<h2><a target="_blank" href="/hai-hung-be-nuoc-chung-cu-bi-nuoc-be-phot-tran-vao-boc-mui-nong-nac/r/21793398.epi" title="Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc">
+Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc
+</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T08:12:00+07:00"></time>
+<span>
+<a href="/hai-hung-be-nuoc-chung-cu-bi-nuoc-be-phot-tran-vao-boc-mui-nong-nac/c/21793398.epi" title="Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc" class="spr spr-cache cache">Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793290">
+<header>
+<h2><a target="_blank" href="/thanh-hoa-khong-bao-cao-theo-quy-dinh-giam-doc-so-cong-thuong-bi-phe-binh/r/21793290.epi" title="Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình">
+Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình
+</a></h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-18T07:52:00+07:00"></time>
+<span>
+<a href="/thanh-hoa-khong-bao-cao-theo-quy-dinh-giam-doc-so-cong-thuong-bi-phe-binh/c/21793290.epi" title="Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình" class="spr spr-cache cache">Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793393">
+<header>
+<h2><a target="_blank" href="/ha-noi-mot-gia-dinh-ngheo-them-kho-khan-vi-chinh-quyen-tac-trach/r/21793393.epi" title="Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách">
+Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách
+</a></h2>
+<p class="meta">
+<a href="/www,phapluatvn.vn-bao-phap-luat-viet-nam-phap-luat-vn/p/207.epi">Pháp Luật VN</a>
+<time class="friendly" datetime="2017-03-18T07:49:00+07:00"></time>
+<span>
+<a href="/ha-noi-mot-gia-dinh-ngheo-them-kho-khan-vi-chinh-quyen-tac-trach/c/21793393.epi" title="Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách" class="spr spr-cache cache">Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793164">
+<header>
+<h2><a target="_blank" href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/r/21793164.epi" title="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;">
+Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố 'cày nát rừng'
+</a></h2>
+<p class="meta">
+<a href="/giaoduc.net.vn-bao-giao-duc-viet-nam-giao-duc-vn/p/231.epi">Giáo Dục VN</a>
+<time class="friendly" datetime="2017-03-18T07:32:00+07:00"></time>
+<span>
+<a href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/c/21793164.epi" title="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;" class="spr spr-cache cache">Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố 'cày nát rừng'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793169">
+<header>
+<h2><a target="_blank" href="/bo-xay-dung-tiep-tuc-khong-dong-tinh-voi-du-luat-quy-hoach/r/21793169.epi" title="Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch">
+Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch
+</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T07:28:27+07:00"></time>
+<span>
+<a href="/bo-xay-dung-tiep-tuc-khong-dong-tinh-voi-du-luat-quy-hoach/c/21793169.epi" title="Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch" class="spr spr-cache cache">Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793140">
+<header>
+<h2><a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">
+Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát
+</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-cache cache">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793256">
+<header>
+<h2><a target="_blank" href="/bao-chi-tham-gia-hoat-dong-cua-doan-kiem-tra-cong-vu/r/21793256.epi" title="Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ">
+Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ
+</a></h2>
+<p class="meta">
+<a href="/baotintuc.vn-bao-tin-tuc-ttxvn-tin-tuc-ttxvn/p/294.epi">Tin Tức TTXVN</a>
+<time class="friendly" datetime="2017-03-18T07:23:00+07:00"></time>
+<span>
+<a href="/bao-chi-tham-gia-hoat-dong-cua-doan-kiem-tra-cong-vu/c/21793256.epi" title="Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ" class="spr spr-cache cache">Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793120">
+<header>
+<h2><a target="_blank" href="/bac-giang-doi-lot-nao-hut-luong-lach-de-an-cap-cat/r/21793120.epi" title="Bắc Giang: Đội lốt nạo hút luồng lạch để &#39;ăn cắp&#39; cát?">
+Bắc Giang: Đội lốt nạo hút luồng lạch để 'ăn cắp' cát?
+</a></h2>
+<p class="meta">
+<a href="/vnmedia.vn-vnmedia/p/22.epi">VnMedia</a>
+<time class="friendly" datetime="2017-03-18T07:17:00+07:00"></time>
+<span>
+<a href="/bac-giang-doi-lot-nao-hut-luong-lach-de-an-cap-cat/c/21793120.epi" title="Bắc Giang: Đội lốt nạo hút luồng lạch để &#39;ăn cắp&#39; cát?" class="spr spr-cache cache">Bắc Giang: Đội lốt nạo hút luồng lạch để 'ăn cắp' cát?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792948">
+<header>
+<h2><a target="_blank" href="/vung-tau-phat-hien-ho-cong-trinh-xay-dung-khung-tren-dinh-nui/r/21792948.epi" title="Vũng Tàu: Phát hiện hố công trình xây dựng &#39;khủng&#39; trên đỉnh núi">
+Vũng Tàu: Phát hiện hố công trình xây dựng 'khủng' trên đỉnh núi
+</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/vung-tau-phat-hien-ho-cong-trinh-xay-dung-khung-tren-dinh-nui/c/21792948.epi" title="Vũng Tàu: Phát hiện hố công trình xây dựng &#39;khủng&#39; trên đỉnh núi" class="spr spr-cache cache">Vũng Tàu: Phát hiện hố công trình xây dựng 'khủng' trên đỉnh núi</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<script>
+var arr_baomoiprquanlyquyhoachnoibat = [
+];;
+if (arr_baomoiprquanlyquyhoachnoibat.length > 0) {
+var slots_baomoiprquanlyquyhoachnoibat = new Array;
+var prefix = "pr_baomoiprquanlyquyhoachnoibat_";
+for (var i = 1; i <= 10; i++) {
+var id = prefix + i;
+var obj = document.getElementById(id);
+if (obj == null) break;
+else slots_baomoiprquanlyquyhoachnoibat.push(obj);
+}
+var total = 100.0;
+var dist_baomoiprquanlyquyhoachnoibat = [];
+for (var index = 0; index < slots_baomoiprquanlyquyhoachnoibat.length; index++) {
+var t = Math.floor(Math.random() * total);
+var n = 0;
+for (var i = 0; i < arr_baomoiprquanlyquyhoachnoibat.length; i++) {
+n += arr_baomoiprquanlyquyhoachnoibat[i].share;
+if (n >= t) {
+total -= arr_baomoiprquanlyquyhoachnoibat[i].share;
+dist_baomoiprquanlyquyhoachnoibat.push(arr_baomoiprquanlyquyhoachnoibat[i].value);
+arr_baomoiprquanlyquyhoachnoibat.splice(i, 1);
+break;
+}
+}
+}
+for (var index = 0; index < Math.min(dist_baomoiprquanlyquyhoachnoibat.length, slots_baomoiprquanlyquyhoachnoibat.length) ; index++)
+slots_baomoiprquanlyquyhoachnoibat[index].outerHTML = dist_baomoiprquanlyquyhoachnoibat[index];
+}
+</script>
+<div class="cat-content">
+<section class="content-list" data-track="|contentlist">
+<header>
+<h1 class="title">Quản lý - Quy hoạch</h1>
+</header>
+<article data-aid="21793398" >
+<figure>
+<a target="_blank" href="/hai-hung-be-nuoc-chung-cu-bi-nuoc-be-phot-tran-vao-boc-mui-nong-nac/r/21793398.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/214/21793398/1_147559.jpg" alt="Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hai-hung-be-nuoc-chung-cu-bi-nuoc-be-phot-tran-vao-boc-mui-nong-nac/r/21793398.epi" title="Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc">Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc</a>
+</h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T08:12:00+07:00"></time>
+<span>
+<a href="/hai-hung-be-nuoc-chung-cu-bi-nuoc-be-phot-tran-vao-boc-mui-nong-nac/c/21793398.epi" title="Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc" class="spr spr-cache cache">Hãi hùng bể nước chung cư bị nước bể phốt tràn vào, bốc mùi nồng nặc</a>
+</span>
+</p>
+<p class="summary">
+Cả trăm hộ dân NƠ 7B bán đảo Linh đàm (Hoàng Mai, Hà Nội) chưa hết bàng hoàng khi phát hiện nước sinh hoạt hàng ngày họ dùng lại bốc lên mùi hôi thối kinh khủng…
+</p>
+</header>
+</article>
+<article data-aid="21793290" >
+<figure>
+<a target="_blank" href="/thanh-hoa-khong-bao-cao-theo-quy-dinh-giam-doc-so-cong-thuong-bi-phe-binh/r/21793290.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/227/21793290/2_194873.jpg" alt="Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/thanh-hoa-khong-bao-cao-theo-quy-dinh-giam-doc-so-cong-thuong-bi-phe-binh/r/21793290.epi" title="Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình">Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình</a>
+</h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-18T07:52:00+07:00"></time>
+<span>
+<a href="/thanh-hoa-khong-bao-cao-theo-quy-dinh-giam-doc-so-cong-thuong-bi-phe-binh/c/21793290.epi" title="Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình" class="spr spr-cache cache">Thanh Hóa: Không báo cáo theo quy định, Giám đốc sở Công thương bị phê bình</a>
+</span>
+</p>
+<p class="summary">
+UBND tỉnh Thanh Hóa vừa phê bình Giám đốc sở Công Thương do không thực hiện nghiêm túc chế độ báo cáo theo quy định.
+</p>
+</header>
+</article>
+<article data-aid="21793393" >
+<figure>
+<a target="_blank" href="/ha-noi-mot-gia-dinh-ngheo-them-kho-khan-vi-chinh-quyen-tac-trach/r/21793393.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/192/21793393/1_250891.jpg" alt="Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ha-noi-mot-gia-dinh-ngheo-them-kho-khan-vi-chinh-quyen-tac-trach/r/21793393.epi" title="Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách">Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách</a>
+</h2>
+<p class="meta">
+<a href="/www,phapluatvn.vn-bao-phap-luat-viet-nam-phap-luat-vn/p/207.epi">Pháp Luật VN</a>
+<time class="friendly" datetime="2017-03-18T07:49:00+07:00"></time>
+<span>
+<a href="/ha-noi-mot-gia-dinh-ngheo-them-kho-khan-vi-chinh-quyen-tac-trach/c/21793393.epi" title="Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách" class="spr spr-cache cache">Hà Nội: Một gia đình nghèo thêm khó khăn vì chính quyền tắc trách</a>
+</span>
+</p>
+<p class="summary">
+Một quyết định ban hành trái pháp luật bị khiếu nại hơn 14 năm không được UBND huyện Gia Lâm (Hà Nội) giải quyết. Không những thế, chính quyền xã Ninh Hiệp (huyện Gia Lâm) còn lạm...
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-cache cache">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+<p class="summary">
+"Đáng lẽ Hà Nội nên cho người dân khoảng 2 tuần đến 1 tháng để tự xử lý bậc tam cấp của mình trước khi phá dỡ", tiến sĩ Phạm Sỹ Liêm chia sẻ.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_3" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_3" class="related-list collapse">
+<a href="/tin-lien-quan/t/2094048.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793088">
+<figure>
+<a target="_blank" href="/tuyen-truyen-van-dong-la-giai-phap-can-co/r/21793088.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/16/21793088/1_193038.jpg" alt="Tuyên truyền, vận động là giải pháp căn cơ"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tuyen-truyen-van-dong-la-giai-phap-can-co/r/21793088.epi" title="Tuyên truyền, vận động là giải pháp căn cơ">Tuyên truyền, vận động là giải pháp căn cơ</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-18T07:11:00+07:00"></time>
+<span>
+<a href="/tuyen-truyen-van-dong-la-giai-phap-can-co/c/21793088.epi" title="Tuyên truyền, vận động là giải pháp căn cơ" class="spr spr-cache cache">Tuyên truyền, vận động là giải pháp căn cơ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791714">
+<figure>
+<a target="_blank" href="/xu-phat-lan-chiem-via-he-nguoi-dan-bac-ghe-ke-thang-vao-nha/r/21791714.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/271/21791714/4_66514.jpg" alt="Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/xu-phat-lan-chiem-via-he-nguoi-dan-bac-ghe-ke-thang-vao-nha/r/21791714.epi" title="Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà">Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-17T21:22:00+07:00"></time>
+<span>
+<a href="/xu-phat-lan-chiem-via-he-nguoi-dan-bac-ghe-ke-thang-vao-nha/c/21791714.epi" title="Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà" class="spr spr-cache cache">Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791258">
+<figure>
+<a target="_blank" href="/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/r/21791258.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/293/21791258/4_465995.png" alt="Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/r/21791258.epi" title="Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè">Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-17T20:00:39+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/c/21791258.epi" title="Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè" class="spr spr-cache cache">Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790523">
+<figure>
+<a target="_blank" href="/quan-dong-da-xu-ly-lan-chiem-via-he-khong-the-xu-ly-nua-voi/r/21790523.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/25/21790523/4_265691.jpg" alt="Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/quan-dong-da-xu-ly-lan-chiem-via-he-khong-the-xu-ly-nua-voi/r/21790523.epi" title="Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời">Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-17T18:03:16+07:00"></time>
+<span>
+<a href="/quan-dong-da-xu-ly-lan-chiem-via-he-khong-the-xu-ly-nua-voi/c/21790523.epi" title="Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời" class="spr spr-cache cache">Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793164" >
+<figure>
+<a target="_blank" href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/r/21793164.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/205/21793164/1_284436.jpg" alt="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/r/21793164.epi" title="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;">Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố 'cày nát rừng'</a>
+</h2>
+<p class="meta">
+<a href="/giaoduc.net.vn-bao-giao-duc-viet-nam-giao-duc-vn/p/231.epi">Giáo Dục VN</a>
+<time class="friendly" datetime="2017-03-18T07:32:00+07:00"></time>
+<span>
+<a href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/c/21793164.epi" title="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;" class="spr spr-cache cache">Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố 'cày nát rừng'</a>
+</span>
+</p>
+<p class="summary">
+Công trình này đã được cấp phép theo quy định nhưng dư luận vẫn bức xúc vì từng mảng rừng bị cày xới, lộ ra phần đất đỏ trơ trọi.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_4" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_4" class="related-list collapse">
+<a href="/tin-lien-quan/t/2096602.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793048">
+<figure>
+<a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/214/21793048/1_139720.jpg" alt="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:26:00+07:00"></time>
+<span>
+<a href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/c/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà" class="spr spr-cache cache">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792767">
+<figure>
+<a target="_blank" href="/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/r/21792767.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/283/21792767/3_79207.jpg" alt="Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/r/21792767.epi" title="Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà">Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T06:25:00+07:00"></time>
+<span>
+<a href="/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/c/21792767.epi" title="Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà" class="spr spr-cache cache">Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790745">
+<figure>
+<a target="_blank" href="/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/r/21790745.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/7/21790745/5_27834.jpg" alt="Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/r/21790745.epi" title="Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch">Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-17T18:32:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/c/21790745.epi" title="Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch" class="spr spr-cache cache">Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790763">
+<figure>
+<a target="_blank" href="/nui-son-tra-bi-dao-pha-nham-nho-de-xay-dung-khu-nghi-mat-khach-san/r/21790763.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/3/21790763/1_192652.jpg" alt="Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nui-son-tra-bi-dao-pha-nham-nho-de-xay-dung-khu-nghi-mat-khach-san/r/21790763.epi" title="Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn">Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T18:30:00+07:00"></time>
+<span>
+<a href="/nui-son-tra-bi-dao-pha-nham-nho-de-xay-dung-khu-nghi-mat-khach-san/c/21790763.epi" title="Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn" class="spr spr-cache cache">Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793169" >
+<figure>
+<a target="_blank" href="/bo-xay-dung-tiep-tuc-khong-dong-tinh-voi-du-luat-quy-hoach/r/21793169.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/4/21793169/1_94559.jpg" alt="Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bo-xay-dung-tiep-tuc-khong-dong-tinh-voi-du-luat-quy-hoach/r/21793169.epi" title="Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch">Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch</a>
+</h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T07:28:27+07:00"></time>
+<span>
+<a href="/bo-xay-dung-tiep-tuc-khong-dong-tinh-voi-du-luat-quy-hoach/c/21793169.epi" title="Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch" class="spr spr-cache cache">Bộ Xây dựng tiếp tục không đồng tình với dự luật Quy hoạch</a>
+</span>
+</p>
+<p class="summary">
+Cho ý kiến vào dự thảo luật Quy hoạch tại phiên họp thứ 8 của Ủy ban Thường vụ Quốc hội chiều 17.3, Bộ Xây dựng tiếp tục không đồng tình với những quy định liên quan đến lĩnh vực...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_5" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_5" class="related-list collapse">
+<a href="/tin-lien-quan/t/2101588.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792402">
+<figure>
+<a target="_blank" href="/lai-tranh-cai-khi-ban-luat-quy-hoach/r/21792402.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/50/21792402/2_42734.jpg" alt="Lại tranh cãi khi bàn Luật Quy hoạch"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lai-tranh-cai-khi-ban-luat-quy-hoach/r/21792402.epi" title="Lại tranh cãi khi bàn Luật Quy hoạch">Lại tranh cãi khi bàn Luật Quy hoạch</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T02:40:00+07:00"></time>
+<span>
+<a href="/lai-tranh-cai-khi-ban-luat-quy-hoach/c/21792402.epi" title="Lại tranh cãi khi bàn Luật Quy hoạch" class="spr spr-cache cache">Lại tranh cãi khi bàn Luật Quy hoạch</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791858">
+<figure>
+<a target="_blank" href="/cho-y-kien-ve-du-thao-luat-quy-hoach-nghien-cuu-ky-su-can-thiet-sua-32-luat/r/21791858.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/239/21791858/1_62668.jpg" alt="Cho ý kiến về dự thảo Luật Quy hoạch: Nghiên cứu kỹ sự cần thiết sửa 32 Luật"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cho-y-kien-ve-du-thao-luat-quy-hoach-nghien-cuu-ky-su-can-thiet-sua-32-luat/r/21791858.epi" title="Cho ý kiến về dự thảo Luật Quy hoạch: Nghiên cứu kỹ sự cần thiết sửa 32 Luật">Cho ý kiến về dự thảo Luật Quy hoạch: Nghiên cứu kỹ sự cần thiết sửa 32 Luật</a></h2>
+<p class="meta">
+<a href="/www.baohaiquan.vn-bao-hai-quan-hai-quan/p/259.epi">Hải Quan</a>
+<time class="friendly" datetime="2017-03-17T22:00:00+07:00"></time>
+<span>
+<a href="/cho-y-kien-ve-du-thao-luat-quy-hoach-nghien-cuu-ky-su-can-thiet-sua-32-luat/c/21791858.epi" title="Cho ý kiến về dự thảo Luật Quy hoạch: Nghiên cứu kỹ sự cần thiết sửa 32 Luật" class="spr spr-cache cache">Cho ý kiến về dự thảo Luật Quy hoạch: Nghiên cứu kỹ sự cần thiết sửa 32 Luật</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791466">
+<figure>
+<a target="_blank" href="/khong-de-loi-ich-nhom-can-tro-luat-quy-hoach/r/21791466.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/50/21791466/2_56741.jpg" alt="Không để lợi ích nhóm cản trở Luật Quy hoạch"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khong-de-loi-ich-nhom-can-tro-luat-quy-hoach/r/21791466.epi" title="Không để lợi ích nhóm cản trở Luật Quy hoạch">Không để lợi ích nhóm cản trở Luật Quy hoạch</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-17T20:30:19+07:00"></time>
+<span>
+<a href="/khong-de-loi-ich-nhom-can-tro-luat-quy-hoach/c/21791466.epi" title="Không để lợi ích nhóm cản trở Luật Quy hoạch" class="spr spr-cache cache">Không để lợi ích nhóm cản trở Luật Quy hoạch</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791161">
+<figure>
+<a target="_blank" href="/bo-truong-nguyen-chi-dung-noi-ve-du-luat-quy-hoach-khong-the-vi-so-it-ma-di-nguoc-le-phai/r/21791161.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/289/21791161/2_621313.jpg" alt="Bộ trưởng Nguyễn Chí Dũng nói về dự Luật Quy hoạch: Không thể vì số ít mà đi ngược lẽ phải"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bo-truong-nguyen-chi-dung-noi-ve-du-luat-quy-hoach-khong-the-vi-so-it-ma-di-nguoc-le-phai/r/21791161.epi" title="Bộ trưởng Nguyễn Chí Dũng nói về dự Luật Quy hoạch: Không thể vì số ít mà đi ngược lẽ phải">Bộ trưởng Nguyễn Chí Dũng nói về dự Luật Quy hoạch: Không thể vì số ít mà đi ngược lẽ phải</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-17T19:25:00+07:00"></time>
+<span>
+<a href="/bo-truong-nguyen-chi-dung-noi-ve-du-luat-quy-hoach-khong-the-vi-so-it-ma-di-nguoc-le-phai/c/21791161.epi" title="Bộ trưởng Nguyễn Chí Dũng nói về dự Luật Quy hoạch: Không thể vì số ít mà đi ngược lẽ phải" class="spr spr-cache cache">Bộ trưởng Nguyễn Chí Dũng nói về dự Luật Quy hoạch: Không thể vì số ít mà đi ngược lẽ phải</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793048" >
+<figure>
+<a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/214/21793048/1_139720.jpg" alt="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a>
+</h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:26:00+07:00"></time>
+<span>
+<a href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/c/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà" class="spr spr-cache cache">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a>
+</span>
+</p>
+<p class="summary">
+Ông Huỳnh Văn Hùng, Chánh Văn phòng UBND quận Sơn Trà (Đà Nẵng) cho hay, hôm nay 18/3, Sở Xây dựng Đà Nẵng phối hợp với UBND quận Sơn Trà và các cơ quan hữu quan sẽ kiểm tra vụ băm...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_6" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_6" class="related-list collapse">
+<a href="/tin-lien-quan/t/2096602.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793164">
+<figure>
+<a target="_blank" href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/r/21793164.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/205/21793164/1_284436.jpg" alt="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/r/21793164.epi" title="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;">Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố 'cày nát rừng'</a></h2>
+<p class="meta">
+<a href="/giaoduc.net.vn-bao-giao-duc-viet-nam-giao-duc-vn/p/231.epi">Giáo Dục VN</a>
+<time class="friendly" datetime="2017-03-18T07:32:00+07:00"></time>
+<span>
+<a href="/da-nang-kiem-tra-du-an-nghi-duong-bi-to-cay-nat-rung/c/21793164.epi" title="Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố &#39;cày nát rừng&#39;" class="spr spr-cache cache">Đà Nẵng kiểm tra dự án nghỉ dưỡng bị tố 'cày nát rừng'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792767">
+<figure>
+<a target="_blank" href="/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/r/21792767.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/18/283/21792767/3_79207.jpg" alt="Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/r/21792767.epi" title="Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà">Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T06:25:00+07:00"></time>
+<span>
+<a href="/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/c/21792767.epi" title="Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà" class="spr spr-cache cache">Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790745">
+<figure>
+<a target="_blank" href="/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/r/21790745.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/7/21790745/5_27834.jpg" alt="Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/r/21790745.epi" title="Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch">Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-17T18:32:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/c/21790745.epi" title="Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch" class="spr spr-cache cache">Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790763">
+<figure>
+<a target="_blank" href="/nui-son-tra-bi-dao-pha-nham-nho-de-xay-dung-khu-nghi-mat-khach-san/r/21790763.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/3/21790763/1_192652.jpg" alt="Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nui-son-tra-bi-dao-pha-nham-nho-de-xay-dung-khu-nghi-mat-khach-san/r/21790763.epi" title="Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn">Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T18:30:00+07:00"></time>
+<span>
+<a href="/nui-son-tra-bi-dao-pha-nham-nho-de-xay-dung-khu-nghi-mat-khach-san/c/21790763.epi" title="Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn" class="spr spr-cache cache">Núi Sơn Trà bị đào phá nham nhở để xây dựng khu nghỉ mát khách sạn</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793140" >
+<figure>
+<a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-cache cache">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+<p class="summary">
+Cục đường thủy nội địa cho rằng có 3 vị trí trên sông Cầu chưa đạt chuẩn theo thiết kế, trong khi đó tỉnh Bắc Ninh khẳng định "toàn tuyến sông Cầu không có đoạn cạn".
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_7" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_7" class="related-list collapse">
+<a href="/tin-lien-quan/t/2088537.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21792907">
+<figure>
+<a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/210/21792907/2_41618.jpg" alt="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/c/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ" class="spr spr-cache cache">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792657">
+<figure>
+<a target="_blank" href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/r/21792657.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/105/21792657/3_153511.jpg" alt="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/r/21792657.epi" title="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án">'Chủ tịch tỉnh Bắc Ninh bị đe dọa': Báo NTNN từng cảnh báo về dự án</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:20:00+07:00"></time>
+<span>
+<a href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/c/21792657.epi" title="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án" class="spr spr-cache cache">'Chủ tịch tỉnh Bắc Ninh bị đe dọa': Báo NTNN từng cảnh báo về dự án</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791924">
+<figure>
+<a target="_blank" href="/cat-tac-long-hanh-o-bac-ninh-dinh-chi-3-thanh-tra/r/21791924.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/103/21791924/3_117067.jpg" alt="Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cat-tac-long-hanh-o-bac-ninh-dinh-chi-3-thanh-tra/r/21791924.epi" title="Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra">Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra</a></h2>
+<p class="meta">
+<a href="/baodatviet.vn-bao-dat-viet-dat-viet/p/132.epi">Đất Việt</a>
+<time class="friendly" datetime="2017-03-17T21:58:00+07:00"></time>
+<span>
+<a href="/cat-tac-long-hanh-o-bac-ninh-dinh-chi-3-thanh-tra/c/21791924.epi" title="Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra" class="spr spr-cache cache">Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791387">
+<figure>
+<a target="_blank" href="/nan-cat-tac-o-bac-ninh-dinh-chi-3-can-bo-thanh-tra/r/21791387.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/80/21791387/1_143278.png" alt="Nạn &#39;cát tặc&#39; ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nan-cat-tac-o-bac-ninh-dinh-chi-3-can-bo-thanh-tra/r/21791387.epi" title="Nạn &#39;cát tặc&#39; ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra">Nạn 'cát tặc' ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-17T20:12:00+07:00"></time>
+<span>
+<a href="/nan-cat-tac-o-bac-ninh-dinh-chi-3-can-bo-thanh-tra/c/21791387.epi" title="Nạn &#39;cát tặc&#39; ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra" class="spr spr-cache cache">Nạn 'cát tặc' ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793256" >
+<figure>
+<a target="_blank" href="/bao-chi-tham-gia-hoat-dong-cua-doan-kiem-tra-cong-vu/r/21793256.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/198/21793256/1_35120.jpg" alt="Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bao-chi-tham-gia-hoat-dong-cua-doan-kiem-tra-cong-vu/r/21793256.epi" title="Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ">Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ</a>
+</h2>
+<p class="meta">
+<a href="/baotintuc.vn-bao-tin-tuc-ttxvn-tin-tuc-ttxvn/p/294.epi">Tin Tức TTXVN</a>
+<time class="friendly" datetime="2017-03-18T07:23:00+07:00"></time>
+<span>
+<a href="/bao-chi-tham-gia-hoat-dong-cua-doan-kiem-tra-cong-vu/c/21793256.epi" title="Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ" class="spr spr-cache cache">Báo chí tham gia hoạt động của Đoàn kiểm tra công vụ</a>
+</span>
+</p>
+<p class="summary">
+Căn cứ điều kiện cụ thể và nội dung kiểm tra công vụ, Đoàn kiểm tra công vụ Thành phố có thể mời các cơ quan thông tấn, báo chí trên địa bàn Thành phố tham gia hoạt động của Đoàn...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_8" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_8" class="related-list collapse">
+<a href="/tin-lien-quan/t/2054833.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21755475">
+<figure>
+<a target="_blank" href="/thong-nhat-dau-moi-chu-tri-kiem-soat-thu-tuc-hanh-chinh-la-van-phong-bo-ubnd/r/21755475.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/13/144/21755475/1_93437.jpg" alt="Thống nhất đầu mối chủ trì kiểm soát thủ tục hành chính là Văn phòng Bộ, UBND"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thong-nhat-dau-moi-chu-tri-kiem-soat-thu-tuc-hanh-chinh-la-van-phong-bo-ubnd/r/21755475.epi" title="Thống nhất đầu mối chủ trì kiểm soát thủ tục hành chính là Văn phòng Bộ, UBND">Thống nhất đầu mối chủ trì kiểm soát thủ tục hành chính là Văn phòng Bộ, UBND</a></h2>
+<p class="meta">
+<a href="/www.giaoducthoidai.vn-bao-giao-duc-thoi-dai-gd-td/p/181.epi">GD&TĐ</a>
+<time class="friendly" datetime="2017-03-13T19:51:20+07:00"></time>
+<span>
+<a href="/thong-nhat-dau-moi-chu-tri-kiem-soat-thu-tuc-hanh-chinh-la-van-phong-bo-ubnd/c/21755475.epi" title="Thống nhất đầu mối chủ trì kiểm soát thủ tục hành chính là Văn phòng Bộ, UBND" class="spr spr-cache cache">Thống nhất đầu mối chủ trì kiểm soát thủ tục hành chính là Văn phòng Bộ, UBND</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21736695">
+<figure>
+<a target="_blank" href="/long-an-chan-chinh-cong-tac-dich-vu-hanh-chinh-cong/r/21736695.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/11/105/21736695/2_146539.jpg" alt="Long An chấn chỉnh công tác dịch vụ hành chính công"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/long-an-chan-chinh-cong-tac-dich-vu-hanh-chinh-cong/r/21736695.epi" title="Long An chấn chỉnh công tác dịch vụ hành chính công">Long An chấn chỉnh công tác dịch vụ hành chính công</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-11T08:12:00+07:00"></time>
+<span>
+<a href="/long-an-chan-chinh-cong-tac-dich-vu-hanh-chinh-cong/c/21736695.epi" title="Long An chấn chỉnh công tác dịch vụ hành chính công" class="spr spr-cache cache">Long An chấn chỉnh công tác dịch vụ hành chính công</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793120" >
+<figure>
+<a target="_blank" href="/bac-giang-doi-lot-nao-hut-luong-lach-de-an-cap-cat/r/21793120.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/14/21793120/1_43256.jpg" alt="Bắc Giang: Đội lốt nạo hút luồng lạch để &#39;ăn cắp&#39; cát?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bac-giang-doi-lot-nao-hut-luong-lach-de-an-cap-cat/r/21793120.epi" title="Bắc Giang: Đội lốt nạo hút luồng lạch để &#39;ăn cắp&#39; cát?">Bắc Giang: Đội lốt nạo hút luồng lạch để 'ăn cắp' cát?</a>
+</h2>
+<p class="meta">
+<a href="/vnmedia.vn-vnmedia/p/22.epi">VnMedia</a>
+<time class="friendly" datetime="2017-03-18T07:17:00+07:00"></time>
+<span>
+<a href="/bac-giang-doi-lot-nao-hut-luong-lach-de-an-cap-cat/c/21793120.epi" title="Bắc Giang: Đội lốt nạo hút luồng lạch để &#39;ăn cắp&#39; cát?" class="spr spr-cache cache">Bắc Giang: Đội lốt nạo hút luồng lạch để 'ăn cắp' cát?</a>
+</span>
+</p>
+<p class="summary">
+Từ nhiều tháng nay, người dân tại thôn Thắng Lợi Hạ, xã Thắng Cương, huyện Yên Dũng, tỉnh Bắc Giang bức xúc về nạn khai thác cát tràn lan trên đoạn sông Cầu.
+</p>
+</header>
+</article>
+<article data-aid="21792948" >
+<figure>
+<a target="_blank" href="/vung-tau-phat-hien-ho-cong-trinh-xay-dung-khung-tren-dinh-nui/r/21792948.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/94/21792948/2_74357.jpg" alt="Vũng Tàu: Phát hiện hố công trình xây dựng &#39;khủng&#39; trên đỉnh núi">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/vung-tau-phat-hien-ho-cong-trinh-xay-dung-khung-tren-dinh-nui/r/21792948.epi" title="Vũng Tàu: Phát hiện hố công trình xây dựng &#39;khủng&#39; trên đỉnh núi">Vũng Tàu: Phát hiện hố công trình xây dựng 'khủng' trên đỉnh núi</a>
+</h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/vung-tau-phat-hien-ho-cong-trinh-xay-dung-khung-tren-dinh-nui/c/21792948.epi" title="Vũng Tàu: Phát hiện hố công trình xây dựng &#39;khủng&#39; trên đỉnh núi" class="spr spr-cache cache">Vũng Tàu: Phát hiện hố công trình xây dựng 'khủng' trên đỉnh núi</a>
+</span>
+</p>
+<p class="summary">
+Công ty cổ phần dịch vụ cáp treo Vũng Tàu đã thi công đào hồ chứa nước tại khu vực Núi Lớn với chiều rộng từ 20-30m, chiều dài khoảng 80m.
+</p>
+</header>
+</article>
+<article data-aid="21793113" >
+<figure>
+<a target="_blank" href="/mo-da-thua-luu-no-min-lam-nut-nha-dan/r/21793113.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/274/21793113/1_780779.jpg" alt="Mỏ đá Thừa Lưu nổ mìn làm nứt nhà dân">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/mo-da-thua-luu-no-min-lam-nut-nha-dan/r/21793113.epi" title="Mỏ đá Thừa Lưu nổ mìn làm nứt nhà dân">Mỏ đá Thừa Lưu nổ mìn làm nứt nhà dân</a>
+</h2>
+<p class="meta">
+<a href="/thanhtra.com.vn-bao-thanh-tra-thanh-tra/p/308.epi">Thanh Tra</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/mo-da-thua-luu-no-min-lam-nut-nha-dan/c/21793113.epi" title="Mỏ đá Thừa Lưu nổ mìn làm nứt nhà dân" class="spr spr-cache cache">Mỏ đá Thừa Lưu nổ mìn làm nứt nhà dân</a>
+</span>
+</p>
+<p class="summary">
+Gần đây, hàng chục ngôi nhà của người dân thôn Trung Tiến, xã Lộc Tiến (huyện Phú Lộc, Thừa Thiên Huế) xuất hiện nhiều vết nứt tường, nền nhà... đe dọa đến sự an toàn tính mạng con...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_11" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_11" class="related-list collapse">
+<a href="/tin-lien-quan/t/1988656.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21737568">
+<figure>
+<a target="_blank" href="/dinh-chi-hoat-dong-kho-vat-lieu-no-sau-khi-mat-hon-4-700-kip-no/r/21737568.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/11/4/21737568/1_52337.jpg" alt="Đình chỉ hoạt động kho vật liệu nổ sau khi mất hơn 4.700 kíp nổ"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dinh-chi-hoat-dong-kho-vat-lieu-no-sau-khi-mat-hon-4-700-kip-no/r/21737568.epi" title="Đình chỉ hoạt động kho vật liệu nổ sau khi mất hơn 4.700 kíp nổ">Đình chỉ hoạt động kho vật liệu nổ sau khi mất hơn 4.700 kíp nổ</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-11T09:46:54+07:00"></time>
+<span>
+<a href="/dinh-chi-hoat-dong-kho-vat-lieu-no-sau-khi-mat-hon-4-700-kip-no/c/21737568.epi" title="Đình chỉ hoạt động kho vật liệu nổ sau khi mất hơn 4.700 kíp nổ" class="spr spr-cache cache">Đình chỉ hoạt động kho vật liệu nổ sau khi mất hơn 4.700 kíp nổ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21711249">
+<figure>
+<a target="_blank" href="/co-duoc-dang-ky-dich-vu-no-min/r/21711249.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/08/284/21711249/2_140771.jpg" alt="Có được đăng ký dịch vụ nổ mìn?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-duoc-dang-ky-dich-vu-no-min/r/21711249.epi" title="Có được đăng ký dịch vụ nổ mìn?">Có được đăng ký dịch vụ nổ mìn?</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-08T08:20:00+07:00"></time>
+<span>
+<a href="/co-duoc-dang-ky-dich-vu-no-min/c/21711249.epi" title="Có được đăng ký dịch vụ nổ mìn?" class="spr spr-cache cache">Có được đăng ký dịch vụ nổ mìn?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21677835">
+<figure>
+<a target="_blank" href="/doanh-nghiep-no-min-de-doa-cuoc-song-nguoi-dan/r/21677835.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/03/91/21677835/2_141988.jpg" alt="Doanh nghiệp nổ mìn đe dọa cuộc sống người dân"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/doanh-nghiep-no-min-de-doa-cuoc-song-nguoi-dan/r/21677835.epi" title="Doanh nghiệp nổ mìn đe dọa cuộc sống người dân">Doanh nghiệp nổ mìn đe dọa cuộc sống người dân</a></h2>
+<p class="meta">
+<a href="/phunuonline.com.vn-bao-phu-nu-tp-hcm-phu-nu-tp-hcm/p/133.epi">Phụ Nữ TP.HCM</a>
+<time class="friendly" datetime="2017-03-03T17:29:00+07:00"></time>
+<span>
+<a href="/doanh-nghiep-no-min-de-doa-cuoc-song-nguoi-dan/c/21677835.epi" title="Doanh nghiệp nổ mìn đe dọa cuộc sống người dân" class="spr spr-cache cache">Doanh nghiệp nổ mìn đe dọa cuộc sống người dân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21606439">
+<figure>
+<a target="_blank" href="/tt-hue-dan-o-gan-mo-da-cua-nha-may-xi-mang-song-trong-so-hai/r/21606439.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/02/23/105/21606439/3_80869.jpg" alt="TT-Huế: Dân ở gần mỏ đá của nhà máy xi măng sống trong sợ hãi"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tt-hue-dan-o-gan-mo-da-cua-nha-may-xi-mang-song-trong-so-hai/r/21606439.epi" title="TT-Huế: Dân ở gần mỏ đá của nhà máy xi măng sống trong sợ hãi">TT-Huế: Dân ở gần mỏ đá của nhà máy xi măng sống trong sợ hãi</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-02-23T06:35:00+07:00"></time>
+<span>
+<a href="/tt-hue-dan-o-gan-mo-da-cua-nha-may-xi-mang-song-trong-so-hai/c/21606439.epi" title="TT-Huế: Dân ở gần mỏ đá của nhà máy xi măng sống trong sợ hãi" class="spr spr-cache cache">TT-Huế: Dân ở gần mỏ đá của nhà máy xi măng sống trong sợ hãi</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792969" >
+<figure>
+<a target="_blank" href="/khuyen-cao-cac-ho-dan-ra-khoi-chung-cu-de-dam-bao-an-toan/r/21792969.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/274/21792969/1_89369.jpg" alt="Khuyến cáo các hộ dân ra khỏi chung cư để đảm bảo an toàn">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/khuyen-cao-cac-ho-dan-ra-khoi-chung-cu-de-dam-bao-an-toan/r/21792969.epi" title="Khuyến cáo các hộ dân ra khỏi chung cư để đảm bảo an toàn">Khuyến cáo các hộ dân ra khỏi chung cư để đảm bảo an toàn</a>
+</h2>
+<p class="meta">
+<a href="/thanhtra.com.vn-bao-thanh-tra-thanh-tra/p/308.epi">Thanh Tra</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/khuyen-cao-cac-ho-dan-ra-khoi-chung-cu-de-dam-bao-an-toan/c/21792969.epi" title="Khuyến cáo các hộ dân ra khỏi chung cư để đảm bảo an toàn" class="spr spr-cache cache">Khuyến cáo các hộ dân ra khỏi chung cư để đảm bảo an toàn</a>
+</span>
+</p>
+<p class="summary">
+Sở Xây dựng TP Hồ Chí Minh khuyến cáo các hộ dân không tiếp tục sinh hoạt và cư trú tại chung cư Viên Ngọc Phương Nam do công trình chưa xây dựng hoàn thiện và chưa được cơ quan...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_12" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_12" class="related-list collapse">
+<a href="/tin-lien-quan/t/2094268.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21785697">
+<figure>
+<a target="_blank" href="/chung-cu-vien-ngoc-phuong-nam-chua-xay-xong-da-cho-cu-dan-vao-o/r/21785697.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/16/285/21785697/2_25961.jpg" alt="Chung cư Viên Ngọc Phương Nam chưa xây xong đã cho cư dân vào ở"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-cu-vien-ngoc-phuong-nam-chua-xay-xong-da-cho-cu-dan-vao-o/r/21785697.epi" title="Chung cư Viên Ngọc Phương Nam chưa xây xong đã cho cư dân vào ở">Chung cư Viên Ngọc Phương Nam chưa xây xong đã cho cư dân vào ở</a></h2>
+<p class="meta">
+<a href="/bnews.vn-bnews/p/324.epi">Bnews</a>
+<time class="friendly" datetime="2017-03-16T11:53:00+07:00"></time>
+<span>
+<a href="/chung-cu-vien-ngoc-phuong-nam-chua-xay-xong-da-cho-cu-dan-vao-o/c/21785697.epi" title="Chung cư Viên Ngọc Phương Nam chưa xây xong đã cho cư dân vào ở" class="spr spr-cache cache">Chung cư Viên Ngọc Phương Nam chưa xây xong đã cho cư dân vào ở</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21776864">
+<figure>
+<a target="_blank" href="/thanh-tra-so-gay-chung-cu-gay-nguy-hiem-tinh-mang-cu-dan/r/21776864.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/7/21776864/1_101642.jpg" alt="Thanh tra &#39;sờ gáy&#39; chung cư gây nguy hiểm tính mạng cư dân"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thanh-tra-so-gay-chung-cu-gay-nguy-hiem-tinh-mang-cu-dan/r/21776864.epi" title="Thanh tra &#39;sờ gáy&#39; chung cư gây nguy hiểm tính mạng cư dân">Thanh tra 'sờ gáy' chung cư gây nguy hiểm tính mạng cư dân</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-16T09:30:00+07:00"></time>
+<span>
+<a href="/thanh-tra-so-gay-chung-cu-gay-nguy-hiem-tinh-mang-cu-dan/c/21776864.epi" title="Thanh tra &#39;sờ gáy&#39; chung cư gây nguy hiểm tính mạng cư dân" class="spr spr-cache cache">Thanh tra 'sờ gáy' chung cư gây nguy hiểm tính mạng cư dân</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793071" >
+<figure>
+<a target="_blank" href="/tiep-tuc-dinh-chi-cac-hoat-dong-tu-cot-600-den-800/r/21793071.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/16/21793071/1_60688.jpeg" alt="Tiếp tục đình chỉ các hoạt động từ cốt 600 đến 800">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/tiep-tuc-dinh-chi-cac-hoat-dong-tu-cot-600-den-800/r/21793071.epi" title="Tiếp tục đình chỉ các hoạt động từ cốt 600 đến 800">Tiếp tục đình chỉ các hoạt động từ cốt 600 đến 800</a>
+</h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-18T07:14:00+07:00"></time>
+<span>
+<a href="/tiep-tuc-dinh-chi-cac-hoat-dong-tu-cot-600-den-800/c/21793071.epi" title="Tiếp tục đình chỉ các hoạt động từ cốt 600 đến 800" class="spr spr-cache cache">Tiếp tục đình chỉ các hoạt động từ cốt 600 đến 800</a>
+</span>
+</p>
+<p class="summary">
+Ngày 15-3, Tổng cục Lâm nghiệp (Bộ NN&PTNT) đã ban hành Kết luận thanh tra về việc thanh tra hoạt động liên kết tổ chức du lịch sinh thái trên địa bàn Vườn quốc gia (VQG) Ba Vì.
+</p>
+</header>
+</article>
+<article data-aid="21793066" class="no-fig">
+<header>
+<h2>
+<a target="_blank" href="/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/r/21793066.epi" title="Tạm dừng thi công dự án nạo vét trên sông Cầu">Tạm dừng thi công dự án nạo vét trên sông Cầu</a>
+</h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-18T07:12:00+07:00"></time>
+<span>
+<a href="/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/c/21793066.epi" title="Tạm dừng thi công dự án nạo vét trên sông Cầu" class="spr spr-cache cache">Tạm dừng thi công dự án nạo vét trên sông Cầu</a>
+</span>
+</p>
+<p class="summary">
+Ngày 17-3, Bộ GT-VT đã có thông báo về việc tạm dừng thi công Dự án nạo vét, khơi thông luồng đường thủy nội địa, kết hợp tận thu sản phẩm trên tuyến sông Cầu.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_14" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_14" class="related-list collapse">
+<a href="/tin-lien-quan/t/2063275.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21790342">
+<figure>
+<a target="_blank" href="/bo-gtvt-khang-dinh-khong-de-ra-du-an-nao-vet-song-cau/r/21790342.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/50/21790342/2_32513.jpg" alt="Bộ GTVT khẳng định không &#39;đẻ&#39; ra dự án nạo vét sông Cầu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bo-gtvt-khang-dinh-khong-de-ra-du-an-nao-vet-song-cau/r/21790342.epi" title="Bộ GTVT khẳng định không &#39;đẻ&#39; ra dự án nạo vét sông Cầu">Bộ GTVT khẳng định không 'đẻ' ra dự án nạo vét sông Cầu</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-17T17:23:00+07:00"></time>
+<span>
+<a href="/bo-gtvt-khang-dinh-khong-de-ra-du-an-nao-vet-song-cau/c/21790342.epi" title="Bộ GTVT khẳng định không &#39;đẻ&#39; ra dự án nạo vét sông Cầu" class="spr spr-cache cache">Bộ GTVT khẳng định không 'đẻ' ra dự án nạo vét sông Cầu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790016">
+<figure>
+<a target="_blank" href="/cat-tac-long-hanh-song-cau/r/21790016.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/74/21790016/2_44115.jpg" alt="Cát tặc lộng hành sông Cầu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cat-tac-long-hanh-song-cau/r/21790016.epi" title="Cát tặc lộng hành sông Cầu">Cát tặc lộng hành sông Cầu</a></h2>
+<p class="meta">
+<a href="/baodautu.vn-bao-dau-tu-dau-tu/p/72.epi">Đầu Tư</a>
+<time class="friendly" datetime="2017-03-17T16:34:00+07:00"></time>
+<span>
+<a href="/cat-tac-long-hanh-song-cau/c/21790016.epi" title="Cát tặc lộng hành sông Cầu" class="spr spr-cache cache">Cát tặc lộng hành sông Cầu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21786682">
+<figure>
+<a target="_blank" href="/bo-giao-thong-van-tai-noi-gi-ve-vu-chu-tich-bac-ninh-bi-de-doa/r/21786682.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/43/21786682/2_141890.jpg" alt="Bộ Giao thông, vận tải nói gì về vụ &#39;Chủ tịch Bắc Ninh bị đe dọa&#39;?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bo-giao-thong-van-tai-noi-gi-ve-vu-chu-tich-bac-ninh-bi-de-doa/r/21786682.epi" title="Bộ Giao thông, vận tải nói gì về vụ &#39;Chủ tịch Bắc Ninh bị đe dọa&#39;?">Bộ Giao thông, vận tải nói gì về vụ 'Chủ tịch Bắc Ninh bị đe dọa'?</a></h2>
+<p class="meta">
+<a href="/toquoc.gov.vn-bao-to-quoc-to-quoc/p/101.epi">Tổ Quốc</a>
+<time class="friendly" datetime="2017-03-17T10:09:34+07:00"></time>
+<span>
+<a href="/bo-giao-thong-van-tai-noi-gi-ve-vu-chu-tich-bac-ninh-bi-de-doa/c/21786682.epi" title="Bộ Giao thông, vận tải nói gì về vụ &#39;Chủ tịch Bắc Ninh bị đe dọa&#39;?" class="spr spr-cache cache">Bộ Giao thông, vận tải nói gì về vụ 'Chủ tịch Bắc Ninh bị đe dọa'?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21785557">
+<figure>
+<a target="_blank" href="/vi-sao-dung-du-an-xa-hoi-hoa-nao-vet-luong-song-cau/r/21785557.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/70/21785557/1_115935.jpg" alt="Vì sao dừng dự án xã hội hóa nạo vét luồng sông Cầu?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vi-sao-dung-du-an-xa-hoi-hoa-nao-vet-luong-song-cau/r/21785557.epi" title="Vì sao dừng dự án xã hội hóa nạo vét luồng sông Cầu?">Vì sao dừng dự án xã hội hóa nạo vét luồng sông Cầu?</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-17T08:45:00+07:00"></time>
+<span>
+<a href="/vi-sao-dung-du-an-xa-hoi-hoa-nao-vet-luong-song-cau/c/21785557.epi" title="Vì sao dừng dự án xã hội hóa nạo vét luồng sông Cầu?" class="spr spr-cache cache">Vì sao dừng dự án xã hội hóa nạo vét luồng sông Cầu?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793088" >
+<figure>
+<a target="_blank" href="/tuyen-truyen-van-dong-la-giai-phap-can-co/r/21793088.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/16/21793088/1_193038.jpg" alt="Tuyên truyền, vận động là giải pháp căn cơ">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/tuyen-truyen-van-dong-la-giai-phap-can-co/r/21793088.epi" title="Tuyên truyền, vận động là giải pháp căn cơ">Tuyên truyền, vận động là giải pháp căn cơ</a>
+</h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-18T07:11:00+07:00"></time>
+<span>
+<a href="/tuyen-truyen-van-dong-la-giai-phap-can-co/c/21793088.epi" title="Tuyên truyền, vận động là giải pháp căn cơ" class="spr spr-cache cache">Tuyên truyền, vận động là giải pháp căn cơ</a>
+</span>
+</p>
+<p class="summary">
+Nằm trong nội đô có mật độ dân cư cao, những ngày qua, quận Đống Đa đã quyết liệt thực hiện các biện pháp lập lại trật tự vỉa hè, lòng đường. Tuy nhiên, trong quá trình phá dỡ các...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_15" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_15" class="related-list collapse">
+<a href="/tin-lien-quan/t/2094048.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793206">
+<figure>
+<a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-cache cache">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791714">
+<figure>
+<a target="_blank" href="/xu-phat-lan-chiem-via-he-nguoi-dan-bac-ghe-ke-thang-vao-nha/r/21791714.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/271/21791714/4_66514.jpg" alt="Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/xu-phat-lan-chiem-via-he-nguoi-dan-bac-ghe-ke-thang-vao-nha/r/21791714.epi" title="Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà">Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-17T21:22:00+07:00"></time>
+<span>
+<a href="/xu-phat-lan-chiem-via-he-nguoi-dan-bac-ghe-ke-thang-vao-nha/c/21791714.epi" title="Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà" class="spr spr-cache cache">Xử phạt lấn chiếm vỉa hè: Người dân bắc ghế, kê thang vào nhà</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791258">
+<figure>
+<a target="_blank" href="/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/r/21791258.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/293/21791258/4_465995.png" alt="Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/r/21791258.epi" title="Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè">Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-17T20:00:39+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/c/21791258.epi" title="Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè" class="spr spr-cache cache">Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790523">
+<figure>
+<a target="_blank" href="/quan-dong-da-xu-ly-lan-chiem-via-he-khong-the-xu-ly-nua-voi/r/21790523.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/25/21790523/4_265691.jpg" alt="Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/quan-dong-da-xu-ly-lan-chiem-via-he-khong-the-xu-ly-nua-voi/r/21790523.epi" title="Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời">Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-17T18:03:16+07:00"></time>
+<span>
+<a href="/quan-dong-da-xu-ly-lan-chiem-via-he-khong-the-xu-ly-nua-voi/c/21790523.epi" title="Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời" class="spr spr-cache cache">Quận Đống Đa xử lý lấn chiếm vỉa hè: Không thể xử lý nửa vời</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792907" >
+<figure>
+<a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/210/21792907/2_41618.jpg" alt="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a>
+</h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/c/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ" class="spr spr-cache cache">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a>
+</span>
+</p>
+<p class="summary">
+Ngày 17/3, Chi cục Đường thủy nội địa phía Bắc cho biết, đã tạm đình chỉ công tác 3 thanh tra giao thông đường thủy để làm rõ trách nhiệm trong việc xảy ra tình trạng khai thác cát...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_16" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_16" class="related-list collapse">
+<a href="/tin-lien-quan/t/2088537.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793140">
+<figure>
+<a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-cache cache">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792657">
+<figure>
+<a target="_blank" href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/r/21792657.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/105/21792657/3_153511.jpg" alt="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/r/21792657.epi" title="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án">'Chủ tịch tỉnh Bắc Ninh bị đe dọa': Báo NTNN từng cảnh báo về dự án</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:20:00+07:00"></time>
+<span>
+<a href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/c/21792657.epi" title="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án" class="spr spr-cache cache">'Chủ tịch tỉnh Bắc Ninh bị đe dọa': Báo NTNN từng cảnh báo về dự án</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791924">
+<figure>
+<a target="_blank" href="/cat-tac-long-hanh-o-bac-ninh-dinh-chi-3-thanh-tra/r/21791924.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/103/21791924/3_117067.jpg" alt="Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cat-tac-long-hanh-o-bac-ninh-dinh-chi-3-thanh-tra/r/21791924.epi" title="Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra">Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra</a></h2>
+<p class="meta">
+<a href="/baodatviet.vn-bao-dat-viet-dat-viet/p/132.epi">Đất Việt</a>
+<time class="friendly" datetime="2017-03-17T21:58:00+07:00"></time>
+<span>
+<a href="/cat-tac-long-hanh-o-bac-ninh-dinh-chi-3-thanh-tra/c/21791924.epi" title="Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra" class="spr spr-cache cache">Cát tặc lộng hành ở Bắc Ninh: Đình chỉ 3 thanh tra</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791387">
+<figure>
+<a target="_blank" href="/nan-cat-tac-o-bac-ninh-dinh-chi-3-can-bo-thanh-tra/r/21791387.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/80/21791387/1_143278.png" alt="Nạn &#39;cát tặc&#39; ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nan-cat-tac-o-bac-ninh-dinh-chi-3-can-bo-thanh-tra/r/21791387.epi" title="Nạn &#39;cát tặc&#39; ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra">Nạn 'cát tặc' ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-17T20:12:00+07:00"></time>
+<span>
+<a href="/nan-cat-tac-o-bac-ninh-dinh-chi-3-can-bo-thanh-tra/c/21791387.epi" title="Nạn &#39;cát tặc&#39; ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra" class="spr spr-cache cache">Nạn 'cát tặc' ở Bắc Ninh: Đình chỉ 3 cán bộ thanh tra</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792944" >
+<figure>
+<a target="_blank" href="/truoc-31-3-phai-bao-cao-tinh-hinh-giai-quyet-phan-anh-ve-sai-pham-dat-dai/r/21792944.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/3/21792944/1_50328.jpg" alt="Trước 31.3 phải báo cáo tình hình giải quyết phản ánh về sai phạm đất đai">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/truoc-31-3-phai-bao-cao-tinh-hinh-giai-quyet-phan-anh-ve-sai-pham-dat-dai/r/21792944.epi" title="Trước 31.3 phải báo cáo tình hình giải quyết phản ánh về sai phạm đất đai">Trước 31.3 phải báo cáo tình hình giải quyết phản ánh về sai phạm đất đai</a>
+</h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T07:07:00+07:00"></time>
+<span>
+<a href="/truoc-31-3-phai-bao-cao-tinh-hinh-giai-quyet-phan-anh-ve-sai-pham-dat-dai/c/21792944.epi" title="Trước 31.3 phải báo cáo tình hình giải quyết phản ánh về sai phạm đất đai" class="spr spr-cache cache">Trước 31.3 phải báo cáo tình hình giải quyết phản ánh về sai phạm đất đai</a>
+</span>
+</p>
+<p class="summary">
+Bộ TNMT vừa có văn bản gửi UBND các tỉnh, thành phố trực thuộc Trung ương về báo cáo kết quả giải quyết các trường hợp phản ánh về sai phạm trong quản lý, sử dụng đất đai. Theo đó,...
+</p>
+</header>
+</article>
+<article data-aid="21792866" >
+<figure>
+<a target="_blank" href="/cay-xanh-tan-tanh-vi-tia-tan-sai-cach/r/21792866.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/50/21792866/3_67009.jpg" alt="Cây xanh tan tành vì tỉa tán sai cách">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/cay-xanh-tan-tanh-vi-tia-tan-sai-cach/r/21792866.epi" title="Cây xanh tan tành vì tỉa tán sai cách">Cây xanh tan tành vì tỉa tán sai cách</a>
+</h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T07:05:00+07:00"></time>
+<span>
+<a href="/cay-xanh-tan-tanh-vi-tia-tan-sai-cach/c/21792866.epi" title="Cây xanh tan tành vì tỉa tán sai cách" class="spr spr-cache cache">Cây xanh tan tành vì tỉa tán sai cách</a>
+</span>
+</p>
+<p class="summary">
+Ngọn cây bị cắt trụi vì lưới điện, còn rễ cây bị các công trình hạ tầng làm đứt tứ tung. Nguy cơ cây ngã tăng cao.
+</p>
+</header>
+</article>
+<article data-aid="21792900" >
+<figure>
+<a target="_blank" href="/bo-cong-thuong-thong-tin-xin-giay-phep-xuat-khau-gao-ton-khong-duoi-20-000-usd-la-bia-dat/r/21792900.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/256/21792900/1_47094.jpg" alt="Bộ Công Thương: Thông tin xin giấy phép xuất khẩu gạo tốn không dưới 20.000 USD là &#39;bịa đặt&#39;">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/bo-cong-thuong-thong-tin-xin-giay-phep-xuat-khau-gao-ton-khong-duoi-20-000-usd-la-bia-dat/r/21792900.epi" title="Bộ Công Thương: Thông tin xin giấy phép xuất khẩu gạo tốn không dưới 20.000 USD là &#39;bịa đặt&#39;">Bộ Công Thương: Thông tin xin giấy phép xuất khẩu gạo tốn không dưới 20.000 USD là 'bịa đặt'</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/bo-cong-thuong-thong-tin-xin-giay-phep-xuat-khau-gao-ton-khong-duoi-20-000-usd-la-bia-dat/c/21792900.epi" title="Bộ Công Thương: Thông tin xin giấy phép xuất khẩu gạo tốn không dưới 20.000 USD là &#39;bịa đặt&#39;" class="spr spr-cache cache">Bộ Công Thương: Thông tin xin giấy phép xuất khẩu gạo tốn không dưới 20.000 USD là 'bịa đặt'</a>
+</span>
+</p>
+<p class="summary">
+Sau gần 1 tháng xác minh đoàn xác minh do Thanh tra Bộ Công Thương khẳng định, thông tin xin giấy phép xuất khẩu gạo phải tốn không dưới 20.000 USD là bịa đặt, đã gây ảnh hưởng...
+</p>
+</header>
+</article>
+<article data-aid="21792778" >
+<figure>
+<a target="_blank" href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/r/21792778.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/94/21792778/4_94209.jpg" alt="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/r/21792778.epi" title="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM">Gửi xe giá 'bèo', doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM</a>
+</h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T06:50:00+07:00"></time>
+<span>
+<a href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/c/21792778.epi" title="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM" class="spr spr-cache cache">Gửi xe giá 'bèo', doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM</a>
+</span>
+</p>
+<p class="summary">
+Với mức thu phí 5.000 đồng/lượt không hạn chế giờ như hiện nay thì nếu bãi đầu xe ngầm hoạt động sẽ không thể cạnh tranh nổi.
+</p>
+</header>
+</article>
+<article data-aid="21792861" >
+<figure>
+<a target="_blank" href="/lam-luat-quy-hoach-bo-nao-cung-muon-minh-quan-trong-nhat/r/21792861.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/24/21792861/1_6008.jpg" alt="Làm luật quy hoạch: Bộ nào cũng muốn mình quan trọng nhất">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/lam-luat-quy-hoach-bo-nao-cung-muon-minh-quan-trong-nhat/r/21792861.epi" title="Làm luật quy hoạch: Bộ nào cũng muốn mình quan trọng nhất">Làm luật quy hoạch: Bộ nào cũng muốn mình quan trọng nhất</a>
+</h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-18T06:38:40+07:00"></time>
+<span>
+<a href="/lam-luat-quy-hoach-bo-nao-cung-muon-minh-quan-trong-nhat/c/21792861.epi" title="Làm luật quy hoạch: Bộ nào cũng muốn mình quan trọng nhất" class="spr spr-cache cache">Làm luật quy hoạch: Bộ nào cũng muốn mình quan trọng nhất</a>
+</span>
+</p>
+<p class="summary">
+Bộ trưởng Bộ KH&ĐT Nguyễn Chí Dũng nhấn mạnh những khó khăn, bất cập trong việc làm Luật Quy hoạch khi bộ nào cũng muốn mình quan trọng nhất.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_21" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_21" class="related-list collapse">
+<a href="/tin-lien-quan/t/2093267.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21776180">
+<header>
+<h2><a target="_blank" href="/phai-ro-trach-nhiem-chinh-quyen-dia-phuong-noi-co-duong-sat-di-qua/r/21776180.epi" title="Phải rõ trách nhiệm chính quyền địa phương nơi có đường sắt đi qua">Phải rõ trách nhiệm chính quyền địa phương nơi có đường sắt đi qua</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-16T06:38:00+07:00"></time>
+<span>
+<a href="/phai-ro-trach-nhiem-chinh-quyen-dia-phuong-noi-co-duong-sat-di-qua/c/21776180.epi" title="Phải rõ trách nhiệm chính quyền địa phương nơi có đường sắt đi qua" class="spr spr-cache cache">Phải rõ trách nhiệm chính quyền địa phương nơi có đường sắt đi qua</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21775135">
+<header>
+<h2><a target="_blank" href="/gia-tri-nhung-viec-dan-ban-duoc-thi-hanh/r/21775135.epi" title="Giá trị những việc dân bàn được thi hành">Giá trị những việc dân bàn được thi hành</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-16T06:30:00+07:00"></time>
+<span>
+<a href="/gia-tri-nhung-viec-dan-ban-duoc-thi-hanh/c/21775135.epi" title="Giá trị những việc dân bàn được thi hành" class="spr spr-cache cache">Giá trị những việc dân bàn được thi hành</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792743" >
+<figure>
+<a target="_blank" href="/ngay-18-3-nhieu-khu-vuc-tai-ha-noi-bi-cat-nuoc/r/21792743.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/284/21792743/2_110745.jpg" alt="Ngày 18/3, nhiều khu vực tại Hà Nội bị cắt nước">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ngay-18-3-nhieu-khu-vuc-tai-ha-noi-bi-cat-nuoc/r/21792743.epi" title="Ngày 18/3, nhiều khu vực tại Hà Nội bị cắt nước">Ngày 18/3, nhiều khu vực tại Hà Nội bị cắt nước</a>
+</h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:33:00+07:00"></time>
+<span>
+<a href="/ngay-18-3-nhieu-khu-vuc-tai-ha-noi-bi-cat-nuoc/c/21792743.epi" title="Ngày 18/3, nhiều khu vực tại Hà Nội bị cắt nước" class="spr spr-cache cache">Ngày 18/3, nhiều khu vực tại Hà Nội bị cắt nước</a>
+</span>
+</p>
+<p class="summary">
+Theo Công ty TNHH MTV nước sạch Hà Nội, do điện lực Long Biên sửa chữa hệ thống điện nên việc cấp nước sẽ bị ảnh hưởng tại một số khu vực.
+</p>
+</header>
+</article>
+<article data-aid="21792697" >
+<figure>
+<a target="_blank" href="/lich-cat-dien-ngay-18-3-tai-ha-noi/r/21792697.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/284/21792697/1_126039.jpg" alt="Lịch cắt điện ngày 18/3 tại Hà Nội">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/lich-cat-dien-ngay-18-3-tai-ha-noi/r/21792697.epi" title="Lịch cắt điện ngày 18/3 tại Hà Nội">Lịch cắt điện ngày 18/3 tại Hà Nội</a>
+</h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:32:00+07:00"></time>
+<span>
+<a href="/lich-cat-dien-ngay-18-3-tai-ha-noi/c/21792697.epi" title="Lịch cắt điện ngày 18/3 tại Hà Nội" class="spr spr-cache cache">Lịch cắt điện ngày 18/3 tại Hà Nội</a>
+</span>
+</p>
+<p class="summary">
+Tổng công ty Điện lực Hà Nội cho biết, ngày 18/3 sẽ cắt điện tại 38 điểm trên toàn thành phố Hà Nội.
+</p>
+</header>
+</article>
+<div class="pagination pagination-centered">
+<span id="main_PagingList1_pager"><a class="active">1</a><a href="/quan-ly-quy-hoach/trang2.epi">2</a><a href="/quan-ly-quy-hoach/trang3.epi">3</a><a href="/quan-ly-quy-hoach/trang4.epi">4</a><a href="/quan-ly-quy-hoach/trang5.epi">5</a><a href="/quan-ly-quy-hoach/trang6.epi">6</a><a href="/quan-ly-quy-hoach/trang7.epi">...</a><a href="/quan-ly-quy-hoach/trang100.epi">100</a><a id="main_PagingList1_pager_nextControl" href="/quan-ly-quy-hoach/trang2.epi">»</a></span>
+</div>
+</section>
+<aside>
+<div class="topics" data-track="|clusters">
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_0" href="/chu-tich-bac-ninh-bi-de-doa/gt/2063275.epi">Chủ tịch Bắc Ninh bị đe dọa</a>
+</header>
+<article data-aid="21793140" >
+<figure>
+<a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-cache cache">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793066" class="no-fig">
+<header>
+<h2><a target="_blank" href="/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/r/21793066.epi" title="Tạm dừng thi công dự án nạo vét trên sông Cầu">Tạm dừng thi công dự án nạo vét trên sông Cầu</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-18T07:12:00+07:00"></time>
+<span>
+<a href="/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/c/21793066.epi" title="Tạm dừng thi công dự án nạo vét trên sông Cầu" class="spr spr-cache cache">Tạm dừng thi công dự án nạo vét trên sông Cầu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792907" >
+<figure>
+<a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/18/210/21792907/2_41618.jpg" alt="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/c/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ" class="spr spr-cache cache">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792657" >
+<figure>
+<a target="_blank" href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/r/21792657.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/105/21792657/3_153511.jpg" alt="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/r/21792657.epi" title="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án">'Chủ tịch tỉnh Bắc Ninh bị đe dọa': Báo NTNN từng cảnh báo về dự án</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:20:00+07:00"></time>
+<span>
+<a href="/chu-tich-tinh-bac-ninh-bi-de-doa-bao-ntnn-tung-canh-bao-ve-du-an/c/21792657.epi" title="&#39;Chủ tịch tỉnh Bắc Ninh bị đe dọa&#39;: Báo NTNN từng cảnh báo về dự án" class="spr spr-cache cache">'Chủ tịch tỉnh Bắc Ninh bị đe dọa': Báo NTNN từng cảnh báo về dự án</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_1" href="/cuc-thue-ha-noi/t/2008349.epi">#Cục-thuế-Hà-Nội</a>
+</header>
+<article data-aid="21793090" >
+<figure>
+<a target="_blank" href="/ha-noi-yeu-cau-day-nhanh-tien-do-xay-dung-cac-bai-xe-ngam/r/21793090.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/16/21793090/1_48182.jpg" alt="Hà Nội yêu cầu đẩy nhanh tiến độ xây dựng các bãi xe ngầm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ha-noi-yeu-cau-day-nhanh-tien-do-xay-dung-cac-bai-xe-ngam/r/21793090.epi" title="Hà Nội yêu cầu đẩy nhanh tiến độ xây dựng các bãi xe ngầm">Hà Nội yêu cầu đẩy nhanh tiến độ xây dựng các bãi xe ngầm</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-18T06:25:00+07:00"></time>
+<span>
+<a href="/ha-noi-yeu-cau-day-nhanh-tien-do-xay-dung-cac-bai-xe-ngam/c/21793090.epi" title="Hà Nội yêu cầu đẩy nhanh tiến độ xây dựng các bãi xe ngầm" class="spr spr-cache cache">Hà Nội yêu cầu đẩy nhanh tiến độ xây dựng các bãi xe ngầm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21785014" >
+<figure>
+<a target="_blank" href="/giai-bai-toan-giao-thong-tinh/r/21785014.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/16/21785014/1_77949.jpg" alt="Giải &#39;bài toán&#39; giao thông tĩnh"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/giai-bai-toan-giao-thong-tinh/r/21785014.epi" title="Giải &#39;bài toán&#39; giao thông tĩnh">Giải 'bài toán' giao thông tĩnh</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-17T06:24:00+07:00"></time>
+<span>
+<a href="/giai-bai-toan-giao-thong-tinh/c/21785014.epi" title="Giải &#39;bài toán&#39; giao thông tĩnh" class="spr spr-cache cache">Giải 'bài toán' giao thông tĩnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21759140" >
+<figure>
+<a target="_blank" href="/ha-noi-se-lay-y-kien-cua-cac-nganh-va-dan-cu-ve-bai-do-xe-ngam/r/21759140.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/285/21759140/1_42709.jpg" alt="Hà Nội sẽ lấy ý kiến của các ngành và dân cư về bãi đỗ xe ngầm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ha-noi-se-lay-y-kien-cua-cac-nganh-va-dan-cu-ve-bai-do-xe-ngam/r/21759140.epi" title="Hà Nội sẽ lấy ý kiến của các ngành và dân cư về bãi đỗ xe ngầm">Hà Nội sẽ lấy ý kiến của các ngành và dân cư về bãi đỗ xe ngầm</a></h2>
+<p class="meta">
+<a href="/bnews.vn-bnews/p/324.epi">Bnews</a>
+<time class="friendly" datetime="2017-03-14T10:01:00+07:00"></time>
+<span>
+<a href="/ha-noi-se-lay-y-kien-cua-cac-nganh-va-dan-cu-ve-bai-do-xe-ngam/c/21759140.epi" title="Hà Nội sẽ lấy ý kiến của các ngành và dân cư về bãi đỗ xe ngầm" class="spr spr-cache cache">Hà Nội sẽ lấy ý kiến của các ngành và dân cư về bãi đỗ xe ngầm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21731475" >
+<figure>
+<a target="_blank" href="/vi-sao-xa-hoi-hoa-dau-tu-bai-do-xe-ngam-con-cham/r/21731475.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/10/289/21731475/2_1141102.jpg" alt="Vì sao xã hội hóa đầu tư bãi đỗ xe ngầm còn chậm?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vi-sao-xa-hoi-hoa-dau-tu-bai-do-xe-ngam-con-cham/r/21731475.epi" title="Vì sao xã hội hóa đầu tư bãi đỗ xe ngầm còn chậm?">Vì sao xã hội hóa đầu tư bãi đỗ xe ngầm còn chậm?</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-10T14:00:00+07:00"></time>
+<span>
+<a href="/vi-sao-xa-hoi-hoa-dau-tu-bai-do-xe-ngam-con-cham/c/21731475.epi" title="Vì sao xã hội hóa đầu tư bãi đỗ xe ngầm còn chậm?" class="spr spr-cache cache">Vì sao xã hội hóa đầu tư bãi đỗ xe ngầm còn chậm?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</div>
+<section class="zone" data-track="|popular">
+<header><a href="/tin-nong.epi">Tin nóng</a></header>
+<article data-aid="21793378" >
+<figure>
+<a target="_blank" href="/dinh-chi-cong-tac-co-giao-dung-thuoc-danh-hang-chuc-hoc-sinh/r/21793378.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/105/21793378/2_133590.jpg" alt="Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dinh-chi-cong-tac-co-giao-dung-thuoc-danh-hang-chuc-hoc-sinh/r/21793378.epi" title="Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh">Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:55:00+07:00"></time>
+<span>
+<a href="/dinh-chi-cong-tac-co-giao-dung-thuoc-danh-hang-chuc-hoc-sinh/c/21793378.epi" title="Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh" class="spr spr-cache cache">Đình chỉ công tác cô giáo dùng thước đánh hàng chục học sinh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792678" >
+<header>
+<h2><a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T06:15:00+07:00"></time>
+<span>
+<a href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/c/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La" class="spr spr-cache cache">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792503" >
+<header>
+<h2><a target="_blank" href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T05:04:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/c/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục" class="spr spr-cache cache">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793227" >
+<header>
+<h2><a target="_blank" href="/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/r/21793227.epi" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:54:00+07:00"></time>
+<span>
+<a href="/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/c/21793227.epi" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân" class="spr spr-cache cache">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792758" >
+<header>
+<h2><a target="_blank" href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T06:38:00+07:00"></time>
+<span>
+<a href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/c/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?" class="spr spr-cache cache">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793109" >
+<header>
+<h2><a target="_blank" href="/merkel-de-nghi-bat-tay-trump-khong-dap/r/21793109.epi" title="Merkel đề nghị bắt tay, Trump không đáp">Merkel đề nghị bắt tay, Trump không đáp</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-18T07:11:00+07:00"></time>
+<span>
+<a href="/merkel-de-nghi-bat-tay-trump-khong-dap/c/21793109.epi" title="Merkel đề nghị bắt tay, Trump không đáp" class="spr spr-cache cache">Merkel đề nghị bắt tay, Trump không đáp</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792564" >
+<header>
+<h2><a target="_blank" href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/r/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/c/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột" class="spr spr-cache cache">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<header>
+<h2><a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792702" >
+<header>
+<h2><a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:10:00+07:00"></time>
+<span>
+<a href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/c/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" class="spr spr-cache cache">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792830" >
+<header>
+<h2><a target="_blank" href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/c/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt" class="spr spr-cache cache">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</aside>
+</div>
+</section>
+<section class="sidebar">
+<div class="fyi-300 nocontent robots-nocontent" style="display:none;" id="BaoMoi_HalfPage"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R1"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R2"></div>
+<section id="photo-box" data-track="|video">
+<header>
+<h6>
+<a href="/tin-video.epi">Video</a>
+</h6>
+</header>
+<div class="slider">
+<article data-aid="21793352" >
+<figure>
+<a href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/c/21793352.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/139/21793352/1_38393.jpg" alt="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm">
+</a>
+</figure>
+<header>
+<h2><a href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/c/21793352.epi" title="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm">Mẹo hút hơi nước trong nhà cực nhanh ngày nồm</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T08:15:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/r/21793352.epi" title="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm" class="spr spr-more" target="_blank">Mẹo hút hơi nước trong nhà cực nhanh ngày nồm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793255" >
+<figure>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/293/21793255/4_366004.png" alt="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">
+</a>
+</figure>
+<header>
+<h2><a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-18T08:00:17+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/r/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?" class="spr spr-more" target="_blank">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">
+</a>
+</figure>
+<header>
+<h2><a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-more" target="_blank">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793200" >
+<figure>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/255/21793200/3_154934.jpg" alt="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">
+</a>
+</figure>
+<header>
+<h2><a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/r/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh" class="spr spr-more" target="_blank">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793119" >
+<figure>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/88/21793119/3_70096.jpg" alt="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">
+</a>
+</figure>
+<header>
+<h2><a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:40:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/r/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương" class="spr spr-more" target="_blank">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793101" >
+<figure>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/139/21793101/1_37764.jpg" alt="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+</a>
+</figure>
+<header>
+<h2><a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-more" target="_blank">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793240" >
+<figure>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/301/21793240/1_144150.jpg" alt="Một tháng trong quân ngũ của Á khôi áo dài">
+</a>
+</figure>
+<header>
+<h2><a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài">Một tháng trong quân ngũ của Á khôi áo dài</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/r/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài" class="spr spr-more" target="_blank">Một tháng trong quân ngũ của Á khôi áo dài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793205" >
+<figure>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/66/21793205/2_91393.jpg" alt="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">
+</a>
+</figure>
+<header>
+<h2><a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-18T07:31:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/r/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ" class="spr spr-more" target="_blank">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793074" >
+<figure>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/25/21793074/2_67136.jpg" alt="Mỹ công bố 750 video thử nghiệm bom hạt nhân">
+</a>
+</figure>
+<header>
+<h2><a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:29:52+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/r/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân" class="spr spr-more" target="_blank">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793192" >
+<figure>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+</a>
+</figure>
+<header>
+<h2><a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-more" target="_blank">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<section class="top-story">
+<ul class=" tab-header">
+<li class="active"><a href="#most-read" data-toggle="tab">Nóng trong ngày</a></li>
+<li><a href="#most-read7" data-toggle="tab">Trong tuần</a></li>
+</ul>
+<div id="top-story" class="tab-content">
+<div class="tab-pane active" id="most-read" data-track="|mostread">
+</div>
+<div class="tab-pane fade" id="most-read7" data-track="|mostread7">
+</div>
+</div>
+</section>
+<section class="social-idx">
+<header>
+<h6><a href="javascript:;">Theo dõi Báo Mới</a></h6>
+</header>
+<div class="social">
+<a href="https://www.facebook.com/baomoi/" target="_blank" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Fanpage</span>
+</a>
+<a href="https://www.facebook.com/baomoigiaitri/" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Giải Trí</span>
+</a>
+<a href="https://noti.baomoi.com/" target="_blank" class="noti">
+<span><i class="spr social-noti"></i></span>
+<span>Gửi tin nóng<br>
+cho bạn</span>
+</a>
+<a href="https://plus.google.com/+baomoi/posts" target="_blank" class="gplus">
+<span><i class="spr social-gplus"></i></span>
+<span>Google<br>
+Plus</span>
+</a>
+</div>
+</section>
+<section id="trending-list" data-track="|trending">
+<header>
+<h6>
+<a href="javascript:;">Xu hướng</a>
+</h6>
+</header>
+<div class="trending">
+<span class="up w10"><a href="/tag/trần-văn-dũng.epi">Trần Văn Dũng</a></span>
+<span class=" w6"><a href="/tag/central-coast.epi">Central Coast</a></span>
+<span class="up w3"><a href="/tag/sở-xây-dựng-đà-nẵng.epi">Sở Xây dựng Đà Nẵng</a></span>
+<span class=" w7"><a href="/tag/công-ty-minh-đông.epi">Công ty Minh Đông</a></span>
+<span class=" w15"><a href="/tag/nguyễn-chí-dũng.epi">Nguyễn Chí Dũng</a></span>
+<span class=" w16"><a href="/tag/kiến-trúc-sư-việt-nam.epi">Kiến trúc sư Việt Nam</a></span>
+<span class="down w14"><a href="/tag/đặng-quyết-tiến.epi">Đặng Quyết Tiến</a></span>
+<span class="down w12"><a href="/tag/bộ-giao-thông-vận-tải.epi">bộ giao thông vận tải</a></span>
+<span class="up w4"><a href="/tag/huỳnh-văn-hùng.epi">Huỳnh Văn Hùng</a></span>
+<span class=" w20"><a href="/tag/du-lịch-sinh-thái.epi">du lịch sinh thái</a></span>
+<span class=" w17"><a href="/tag/trần-hữu-tước.epi">Trần Hữu Tước</a></span>
+<span class=" w19"><a href="/tag/luật-đất-đai.epi">luật đất đai</a></span>
+<span class="down w5"><a href="/tag/đường-thủy.epi">đường thủy</a></span>
+<span class="down w9"><a href="/tag/quy-hoạch-xây-dựng.epi">quy hoạch xây dựng</a></span>
+<span class="up w1"><a href="/tag/ubnd-quận-sơn-trà.epi">UBND quận Sơn Trà</a></span>
+<span class="down w13"><a href="/tag/ubnd-tỉnh-bắc-giang.epi">UBND tỉnh Bắc Giang</a></span>
+<span class=" w11"><a href="/tag/núi-sơn-trà.epi">Núi Sơn Trà</a></span>
+<span class="down w2"><a href="/tag/ubnd-tỉnh-bắc-ninh.epi">UBND tỉnh Bắc Ninh</a></span>
+<span class=" w18"><a href="/tag/ubnd-phường-phước-mỹ.epi">UBND phường Phước Mỹ</a></span>
+<span class=" w8"><a href="/tag/phước-mỹ.epi">Phước Mỹ</a></span>
+</div>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_MiddleRight_1"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R3"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R4"></div>
+</section>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime">Cung cấp trong: 11.62 ms.</p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

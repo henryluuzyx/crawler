@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tạm đình chỉ ba thanh tra vụ khai thác cát ở Bắc Ninh - PLO
+</title><meta name="keywords" content="sông Cầu,đường thủy,đình chỉ,thanh tra,Bắc Ninh,khai thác,trái phép,phản ánh,vi phạm,chỉ đạo,lãnh đạo" /><meta name="description" content="Ba người bị tạm đình chỉ công tác gồm đội trưởng, đội phó và thanh tra viên của Đội thanh tra an toàn số 2." />
+<link rel="canonical" href="http://www.baomoi.com/tam-dinh-chi-ba-thanh-tra-vu-khai-thac-cat-o-bac-ninh/c/21791627.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791627" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791627" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/thoi-su/tam-dinh-chi-ba-thanh-tra-vu-khai-thac-cat-o-bac-ninh-689483.html");
+else
+window.location.replace("http://www.baomoi.com/tam-dinh-chi-ba-thanh-tra-vu-khai-thac-cat-o-bac-ninh/c/21791627.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

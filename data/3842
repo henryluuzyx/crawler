@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nghệ An: Đâm vào người đi bộ, người đi xe máy bất tỉnh - Giao Thông
+</title><meta name="keywords" content="đường Mai Hắc Đế,Mai Hắc Đế,Vinh,tiến hành điều tra,Nghệ An,cấp cứu,hàn quốc" /><meta name="description" content="Sau khi xảy ra tai nạn với xe máy, người đi bộ vội vã rời khỏi hiện trường mặc nạn nhân bất tỉnh nằm trên vũng máu." />
+<link rel="canonical" href="http://www.baomoi.com/nghe-an-dam-vao-nguoi-di-bo-nguoi-di-xe-may-bat-tinh/c/21791730.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791730" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791730" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.atgt.vn/nghe-an-dam-vao-nguoi-di-bo-nguoi-dieu-khien-xe-may-bat-tinh-d192657.html");
+else
+window.location.replace("http://www.baomoi.com/nghe-an-dam-vao-nguoi-di-bo-nguoi-di-xe-may-bat-tinh/c/21791730.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

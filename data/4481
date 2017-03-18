@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những hình ảnh về Hội Báo toàn quốc 2017 - Hải Quan
+</title><meta name="keywords" content="trưng bày,khai mạc,Võ Văn Thưởng,Vũ Đức Đam,Hội Báo toàn quốc 2017,tuyên giáo,đổi mới,Hà Nội,phát biểu,tham quan,trung ương đảng,việt nam,chỉ đạo,đại hội đại biểu toàn quốc,Hữu Linh" /><meta name="description" content="Sáng nay ngày 17/3, tại Hà Nội, Hội Nhà báo Việt Nam đã tổ chức lễ khai mạc Hội Báo toàn quốc 2017 với chủ đề “Báo chí Việt Nam đồng hành cùng đất nước đổi ..." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-hinh-anh-ve-hoi-bao-toan-quoc-2017/c/21791009.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791009" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791009" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baohaiquan.vn/pages/tuong-bung-hoi-bao-toan-quoc-2017.aspx");
+else
+window.location.replace("http://www.baomoi.com/nhung-hinh-anh-ve-hoi-bao-toan-quoc-2017/c/21791009.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

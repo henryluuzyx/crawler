@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Chuỗi hoạt động văn hóa 'Quảng Bình trong lòng Hà Nội' - CAND
+</title><meta name="keywords" content="Chinh phục Sơn Đoòng,Quảng Bình,hồ Hoàn Kiếm,Lý Thái Tổ,xúc tiến,truyền hình trực tiếp,quảng bá,trưng bày,châu á,mạng xã hội,khai thác,facebook,Hà Nội,UBND tỉnh Quảng Bình,Tân Nhàn,Thành Lê,Trọng Tấn,Sơn Đoòng,Bạch Trà,Phương Thảo,chinh phục" /><meta name="description" content="Chương trình “Quảng Bình trong lòng Hà Nội” gồm một chuỗi các hoạt động văn hóa, nghệ thuật đặc sắc, trong đó lễ khai mạc được tổ chức vào hồi 19h ngày 25/3..." />
+<link rel="canonical" href="http://www.baomoi.com/chuoi-hoat-dong-van-hoa-quang-binh-trong-long-ha-noi/c/21783279.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21783279" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21783279" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://cand.com.vn/chuyen-dong-van-hoa/nhieu-hoat-dong-van-hoa-nghe-thuat-dac-sac-tai-quang-binh-trong-long-ha-noi-432697/");
+else
+window.location.replace("http://www.baomoi.com/chuoi-hoat-dong-van-hoa-quang-binh-trong-long-ha-noi/c/21783279.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

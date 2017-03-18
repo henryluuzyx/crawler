@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cây vú sữa miền Tây vào mùa thu hoạch - Lao Động
+</title><meta name="keywords" content="NPK 20-20-15,vú sữa lò rèn vĩnh kim,Nhơn Ái,Nhơn Nghĩa,Giai Xuân,bón lót,Mỹ Khánh,Kế Sách,Nguyễn Hoàng Tuấn,Hoàng Huy,Vị Thanh,chuyên canh,Phong Điền,Tp Cần Thơ,Châu Thành,ka-li,bộ nông nghiệp và phát triển nông thôn,Sóc Trăng,Vĩnh Long,quốc lộ 1a,miền tây" /><meta name="description" content="Một mùa vú sữa lại về. Hai bên đường QL 1A ở các tỉnh Sóc Trăng, Cần Thơ, Vĩnh Long... bày bán khá nhiều loại vú sữa (trái sữa). Cây vú sữa mùa này thơm, ng..." />
+<link rel="canonical" href="http://www.baomoi.com/cay-vu-sua-mien-tay-vao-mua-thu-hoach/c/21793213.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793213" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793213" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://laodong.com.vn/lao-dong-doi-song/cay-vu-sua-mien-tay-vao-mua-thu-hoach-647082.bld");
+else
+window.location.replace("http://www.baomoi.com/cay-vu-sua-mien-tay-vao-mua-thu-hoach/c/21793213.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

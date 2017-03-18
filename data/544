@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phim 'Chuyện ngày hôm qua' về Trần Lập đã bán hết vé hôm nay - TT&VH
+</title><meta name="keywords" content="Chuyện ngày hôm qua,Trần Lập,Đặng Linh,The Wall,trung tâm chiếu phim quốc gia,phim tài liệu,hoàng hoa thám,đạo diễn,Hà Nội,ra mắt,Khoa học Trung ương,sản xuất,Đinh Ngọc Diệp,Nguyễn Như Vũ,biên kịch,fan,Bùi Linh,Báo Thể Thao,Trương Anh Ngọc,Tuấn Hùng,Hòa Nguyễn" /><meta name="description" content="Chuyện ngày hôm qua , bộ phim tài liệu về ban nhạc Bức Tường đã chính thức ra mắt tối 17/3, cũng là ngày giỗ đầu của thủ lĩnh ban nhạc là nhạc sĩ Trần Lập." />
+<link rel="canonical" href="http://www.baomoi.com/phim-chuyen-ngay-hom-qua-ve-tran-lap-da-ban-het-ve-hom-nay/c/21793122.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793122" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793122" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thethaovanhoa.vn/van-hoa-giai-tri/phim-chuyen-ngay-hom-qua-ve-tran-lap-da-ban-het-ve-hom-nay-n20170317232451185.htm");
+else
+window.location.replace("http://www.baomoi.com/phim-chuyen-ngay-hom-qua-ve-tran-lap-da-ban-het-ve-hom-nay/c/21793122.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

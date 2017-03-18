@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bắc Bộ tiếp tục mưa phùn, nồm ẩm kéo dài - Người Đưa Tin
+</title><meta name="keywords" content="trung tâm dự báo khí tượng thủy văn,nam bộ,Tây Bắc Bộ,bắc bộ,tây nguyên,thời tiết,nắng nóng,Bình Thuận,Thừa Thiên-Huế,miền đông,Thanh Hóa,Đà Nẵng,Hà Nội,miền bắc,24oC Thời tiết Thanh Hóa,Mai Anh" /><meta name="description" content="Dự báo thời tiết ngày 17/3: Khu vực miền Bắc tiếp tục có mưa phùn rải rác, thời tiết nồm ẩm kéo dài; trong khí đó, các tỉnh Nam Bộ ngày nắng, đêm có mưa vài..." />
+<link rel="canonical" href="http://www.baomoi.com/bac-bo-tiep-tuc-mua-phun-nom-am-keo-dai/c/21784121.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21784121" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21784121" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nguoiduatin.vn/du-bao-thoi-tiet-ngay-173-bac-bo-tiep-tuc-mua-phun-nom-am-keo-dai-a318844.html");
+else
+window.location.replace("http://www.baomoi.com/bac-bo-tiep-tuc-mua-phun-nom-am-keo-dai/c/21784121.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

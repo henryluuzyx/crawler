@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tăng Thanh Hà bất ngờ chia sẻ đã sinh em bé thứ hai - Phụ Nữ News
+</title><meta name="keywords" content="Tăng Thanh Hà,Thân Thúy Hà,Thanh Hằng" /><meta name="description" content="Tăng Thanh Hà vừa chia sẻ niềm hạnh phúc cùng sự bận rộn khi phải một lúc chăm sóc con trai đầu lòng và em bé mới sinh." />
+<link rel="canonical" href="http://www.baomoi.com/tang-thanh-ha-bat-ngo-chia-se-da-sinh-em-be-thu-hai/c/21793354.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793354" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793354" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/giai-tri/ngoi-sao/tang-thanh-ha-bat-ngo-chia-se-da-sinh-em-be-thu-hai-145567/");
+else
+window.location.replace("http://www.baomoi.com/tang-thanh-ha-bat-ngo-chia-se-da-sinh-em-be-thu-hai/c/21793354.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Triển lãm tư liệu về chủ quyền Hoàng Sa, Trường Sa tại tỉnh Đồng Tháp - Infonet
+</title><meta name="keywords" content="công viên Văn Miếu,Trường Sa,Hoàng Sa,quần đảo hoàng sa,Cao Lãnh,Trần Đức Anh Sơn,Hải đội Hoàng Sa,trưng bày,khai phá,Đồng Tháp,Phạm Hồng Hải,khai mạc,tham quan,biển Đông,lý thường kiệt,bộ tư lệnh,Đỗ Mạnh Hà,yêu sách,chiếm đóng,nhận thức,Quần đảo Trường Sa" /><meta name="description" content="Tối ngày 10/3/2017, tại Công viên Văn Miếu, TP. Cao Lãnh, Đồng Tháp, Bộ TT&amp;TT phối hợp với UBND tỉnh Đồng Tháp khai mạc Triển lãm bản đồ và trưng bày tư liệ..." />
+<link rel="canonical" href="http://www.baomoi.com/trien-lam-tu-lieu-ve-chu-quyen-hoang-sa-truong-sa-tai-tinh-dong-thap/c/21737869.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21737869" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21737869" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://infonet.vn/trien-lam-tu-lieu-ve-chu-quyen-hoang-sa-truong-sa-tai-tinh-dong-thap-post222839.info");
+else
+window.location.replace("http://www.baomoi.com/trien-lam-tu-lieu-ve-chu-quyen-hoang-sa-truong-sa-tai-tinh-dong-thap/c/21737869.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

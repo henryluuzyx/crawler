@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thái Nguyên đề xuất giảm phí cho người dân gần trạm thu phí QL3 - Giao Thông
+</title><meta name="keywords" content="Cienco 4,Ngô Trọng Nghĩa,bot,quốc lộ 3,BOT Thái Nguyên,UBND huyện Phú Lương,bộ giao thông vận tải,UBND tỉnh Thái Nguyên,Chợ Mới,Phú Lương,Thái Nguyên,đường Thái Nguyên,Bắc Kạn,Trường Lộc,Tuấn Lộc,Vũ Hồng Bắc,nâng cấp,Cao Bằng,đề xuất,chỉ đạo,nghiên cứu" /><meta name="description" content="UBND tỉnh Thái Nguyên vừa kiến nghị Bộ GTVT miễn giảm phí cho người dân sinh sống gần trạm thu phí QL3 cũ." />
+<link rel="canonical" href="http://www.baomoi.com/thai-nguyen-de-xuat-giam-phi-cho-nguoi-dan-gan-tram-thu-phi-ql3/c/21762913.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21762913" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21762913" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/thai-nguyen-de-xuat-giam-phi-cho-nguoi-dan-gan-tram-thu-phi-ql3-d192135.html");
+else
+window.location.replace("http://www.baomoi.com/thai-nguyen-de-xuat-giam-phi-cho-nguoi-dan-gan-tram-thu-phi-ql3/c/21762913.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

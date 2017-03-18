@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bộ Công Thương khẳng định thông tin xuất khẩu gạo tốn không dưới 20.000 USD là bịa đặt - NDH
+</title><meta name="keywords" content="Công ty ADC,Công ty TNHH ADC,Ngô Văn Nam,bộ công thương,giấy chứng nhận đăng ký kinh doanh,bịa đặt,xuất khẩu,phát ngôn,sửa đổi,phản ảnh,báo điện tử,thanh tra,đơn vị chức năng,lãng phí,phản ánh,đề xuất,dự thảo,rà soát,phát biểu,chỉ đạo,tiến hành điều tra" /><meta name="description" content="Trước thông tin báo chí phản ánh việc xin giấy phép xuất khẩu gạo phải tốn không dưới 20.000 USD, Bộ Công Thương đã tiến hành điều tra xác minh và khẳng địn..." />
+<link rel="canonical" href="http://www.baomoi.com/bo-cong-thuong-khang-dinh-thong-tin-xuat-khau-gao-ton-khong-duoi-20-000-usd-la-bia-dat/c/21791614.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791614" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791614" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://ndh.vn/bo-cong-thuong-khang-dinh-thong-tin-xuat-khau-gao-ton-khong-duoi-20-000-usd-la-bia-dat-20170317081452186p4c145.news");
+else
+window.location.replace("http://www.baomoi.com/bo-cong-thuong-khang-dinh-thong-tin-xuat-khau-gao-ton-khong-duoi-20-000-usd-la-bia-dat/c/21791614.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

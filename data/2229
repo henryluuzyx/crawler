@@ -1,0 +1,1728 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=100" />
+        <link type="image/x-icon" href="http://st.f1.kinhdoanh.vnecdn.net/i/v4/favicon.ico" rel="shortcut icon" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+        <link rel="dns-prefetch" href="http://st.f2.kinhdoanh.vnecdn.net"/>
+        <link rel="dns-prefetch" href="http://st.f3.kinhdoanh.vnecdn.net"/>
+        <link rel="dns-prefetch" href="http://la.eclick.vn"/>
+        <link rel="dns-prefetch" href="http://usi.saas.vnexpress.net"/>
+        <link rel="dns-prefetch" href="//s.eclick.vn"/>
+        <link rel="dns-prefetch" href="//st.core.polyad.net"/>
+        <link rel="dns-prefetch" href="//www.google-analytics.com"/>
+        <link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+        <link rel="dns-prefetch" href="http://b.scorecardresearch.com"/>
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-title" content="VnExpress.net" />
+        <meta name="dc.description" content="Tin tức kinh doanh, doanh nhân & doanh nghiệp, kinh nghiệm, phân tích kinh doanh, chứng khoán, bất động sản, lãi suất ngân hàng." />
+        <meta name="dc.subject" content="Kinhdoanh - VnExpress" />
+        <meta name="dc.created" content="2001-03-03" />
+        <meta name="dc.publisher" content="VnExpress" />
+        <meta name="dc.rights.copyright" content="VnExpress" />
+        <meta name="dc.creator.name" content="VnExpress" />
+        <meta name="dc.creator.email" content="webmaster@vnexpress.net" />
+        <meta name="dc.identifier" content="http://vnexpress.net" />
+        <meta name="copyright" content="VnExpress" />
+        <meta name="author" content="VnExpress" />
+        <meta name="dc.language" content="vi-VN">
+        <meta name="robots" content="index,follow" />
+        <meta http-equiv="content-language" content="vi"/>
+        <meta name="geo.placename" content="Ha Noi, Viet Nam" />
+        <meta name="geo.region" content="VN-HN" />
+        <meta name="geo.position" content="21.030624;105.782431" />
+        <meta name="ICBM" content="21.030624, 105.782431" />
+        <meta name="revisit-after" content="days" />
+        <meta property="fb:app_id" content="1547540628876392" />
+        <link rel="canonical" href="http://kinhdoanh.vnexpress.net" />
+                <!-- Twitter Card -->
+        <meta name="twitter:card" value="summary">
+        <meta name="twitter:url" content="http://kinhdoanh.vnexpress.net">
+        <meta name="twitter:title" content="Tin kinh doanh: Thị trường, tài chính, kinh tế, doanh nghiệp - VnExpress Kinh doanh">
+        <meta name="twitter:description" content="Tin tức kinh doanh, doanh nhân &amp; doanh nghiệp, kinh nghiệm, phân tích kinh doanh, chứng khoán, bất động sản, lãi suất ngân hàng.">
+        <meta name="twitter:image" content="http://st.f1.vnecdn.net/responsive/i/v28/logo_default.jpg"/>
+        <meta name="twitter:site" content="@VnEnews">
+        <meta name="twitter:creator" content="@VnEnews">
+        <!-- End Twitter Card -->
+        <!-- iPad icons -->
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/72x72.png" sizes="72x72">
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="144x144">
+        <!-- iPhone and iPod touch icons -->
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png" sizes="57x57">
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="114x114">
+        <!-- Nokia Symbian -->
+        <link rel="nokia-touch-icon" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png">
+        <!-- Android icon precomposed so it takes precedence -->
+        <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="1x1">
+        <meta http-equiv="REFRESH" content="1800" />        <!--Title-->
+        <title>Tin kinh doanh: Thị trường, tài chính, kinh tế, doanh nghiệp - VnExpress Kinh doanh</title>        <!--Meta Tag-->
+        <meta name="description" content="Tin tức kinh doanh, doanh nhân &amp; doanh nghiệp, kinh nghiệm, phân tích kinh doanh, chứng khoán, bất động sản, lãi suất ngân hàng." >
+<meta name="keywords" content="" >                <meta content="VnExpress" property="og:site_name" />
+        <meta content="website" property="og:type" />
+        <meta content="Tin kinh doanh: Thị trường, tài chính, kinh tế, doanh nghiệp - VnExpress Kinh doanh" itemprop="headline" property="og:title" />
+        <meta content="http://kinhdoanh.vnexpress.net" itemprop="url" property="og:url" />
+        <meta content="http://st.f1.vnecdn.net/responsive/i/v28/logo_default.jpg" itemprop="thumbnailUrl" property="og:image" />
+        <meta content="Tin tức kinh doanh, doanh nhân &amp; doanh nghiệp, kinh nghiệm, phân tích kinh doanh, chứng khoán, bất động sản, lãi suất ngân hàng." itemprop="description" property="og:description" />
+        <link rel="alternate" href="http://kinhdoanh.vnexpress.net" hreflang="vi-vn" />
+        <meta name="tt_site_id" content="1003159" />
+        <meta name="tt_category_id" content="1003159" />
+        <meta name="tt_article_id" content="1003159" />
+        <meta name="tt_page_type" content="site" />
+        <script type="text/javascript">
+            (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
+            ga("create", "UA-249346-57", "auto", {"name": "t0"});
+            ga("t0.send", "pageview");
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+            new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+            "//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,"script","dataLayer","GTM-N3FNJF");
+            var _siteId = "24";
+            (function() {
+                var a = document.createElement("script");
+                a.type = "text/javascript";
+                a.async = !0;
+                a.src = "http://st.l.a.eclick.vn/ea.js";
+                var b = document.getElementsByTagName("script")[0];
+                b.parentNode.insertBefore(a, b);
+            })();
+            var _eaq = _eaq || [];
+            _eaq.push({ cid: "1" });
+            (function(){
+            var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="http://st.f2.vnecdn.net/responsive/j/v17/ea2.js";
+            var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+            
+            (function() {
+                var csid = "F09828";
+                var bpid = "fpt_vn";
+                var e = document.createElement("script");
+                var s = document.getElementsByTagName("script")[0];
+                e.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid;
+                e.async = true;
+                s.parentNode.insertBefore(e, s);
+            })();
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "19747654" });
+            (function() {
+              var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+              s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+              el.parentNode.insertBefore(s, el);
+            })();
+        </script>
+        <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&c2=19747654&cv=2.0&cj=1" />
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+                <link rel="stylesheet" href="http://st.f3.vnecdn.net/responsive/c/v23/general_v2_min.css" media="all" />
+        <link rel="stylesheet" href="http://st.f2.kinhdoanh.vnecdn.net/c/v26/kinhdoanh.css" media="all" />
+                <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/libs/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript">
+            var interactions_url = 'http://usi.saas.vnexpress.net';
+            var domain_image = 'http://st.f1.kinhdoanh.vnecdn.net/i/v4';
+            var base_url = 'http://kinhdoanh.vnexpress.net';
+            var css_url = 'http://st.f2.kinhdoanh.vnecdn.net/c/v26';
+            var img_url = 'http://st.f1.kinhdoanh.vnecdn.net/i/v4';
+            var js_url = 'http://st.f3.kinhdoanh.vnecdn.net/j/v1';
+            var SITE_ID = 1003159;
+            var device_env = 4;
+            document.domain = 'vnexpress.net';
+            var domain_giaitri = 'http://giaitri.vnexpress.net';
+            var vnexpress_url = 'http://vnexpress.net';
+                    </script>
+        <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/utils/utils.js"></script>
+        <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/interactions/parser_v3.js"></script>
+                    <script type="text/javascript" src="http://st.core.polyad.net/KinhDoanhShowAds.js"></script>
+            </head>
+    <body>
+        <div class="block_more_info" id="box_col_left">
+            <div class="box_width_common">
+                <div class="btn_control_col_left"><i class="ic ic-menu"></i></div>
+                <div class="block_scoll_menu">
+                    <div class="block_search">
+                        <form action="http://timkiem.vnexpress.net/kinhdoanh" method="get" id="search">
+                            <input type="text" name="q" maxlength="80" class="input_search" value="Tìm kiếm" onfocus="if (this.value == this.defaultValue) this.value = '';" onblur="if (this.value == '') this.value = this.defaultValue;" />
+                            <button type="submit" class="icon_menu_phone btn_search" value=""><i class="ic ic-search"></i></button>
+                        </form>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="block_swich_en_mobile">
+                        Phiên bản: <a href="http://e.vnexpress.net" title="VnExpress International – Vietnam and ASEAN news" target="_blank">VnExpress International – Vietnam and ASEAN news</a>
+                    </div>
+                    <ul class="list_item_panel">
+                        <li><a href="http://vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Trang chủ');" class="bg_666"><i class="ic ic-m-home"></i>Trang chủ</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/thoi-su" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thời sự');"><i class="ic ic-m-news"></i>Thời sự</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/goc-nhin" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Góc nhìn');"><i class="ic ic-m-opinion"></i>Góc nhìn</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/the-gioi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thế giới');"><i class="ic ic-m-world"></i>Thế giới</a></li>
+						<li><a style="background: #e2e2e2 url(http://st.f1.vnecdn.net/responsive/i/v33/graphics/kimjongnam_menu.jpg) no-repeat right 0; background-size: contain; text-indent: -9000px;" data-transition="flip" href="http://vnexpress.net/anh-trai-cua-kim-jong-un-chet-o-malaysia/topic-21717.html">Vụ án anh trai của Kim Jong-un</a></li>
+                        <li class="active"><a href="/" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Kinh doanh');"><i class="ic ic-m-business"></i>Kinh doanh</a></li>
+                        <li><a href="http://giaitri.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giải trí');"><i class="ic ic-m-entertainment"></i>Giải trí</a></li>
+                        <li><a href="http://thethao.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thể thao');"><i class="ic ic-m-sport"></i>Thể thao</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/phap-luat" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Pháp luật');"><i class="ic ic-m-law"></i>Pháp luật</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/giao-duc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giáo dục');"><i class="ic ic-m-education"></i>Giáo dục</a></li>
+                        <li><a href="http://suckhoe.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Sức khỏe');"><i class="ic ic-m-health"></i>Sức khỏe</a></li>
+                        <li><a href="http://giadinh.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Đời sống');"><i class="ic ic-m-family"></i>Gia đình</a></li>
+                        <li><a href="http://dulich.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Du lịch');"><i class="ic ic-m-travel"></i>Du lịch</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/khoa-hoc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Khoa học');"><i class="ic ic-m-science"></i>Khoa học</a></li>
+                        <li><a href="http://sohoa.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Số hóa');"><i class="ic ic-m-technology"></i>Số hóa</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/oto-xe-may" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Xe');"><i class="ic ic-m-car"></i>Xe</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cong-dong" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cộng đồng');"><i class="ic ic-m-social"></i>Cộng đồng</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/tam-su" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Tâm sự');"><i class="ic ic-m-talk"></i>Tâm sự</a></li>
+                        <li><a href="" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Video');"><i class="ic ic-m-video"></i>Video</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/anh" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Ảnh');"><i class="ic ic-m-photo"></i>Ảnh</a></li>
+                        <li><a href="http://vnexpress.net/infographics" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Infographics');"><i class="ic ic-m-infographic"></i>Infographics</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cuoi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cười');"><i class="ic ic-m-fun"></i>Cười</a></li>
+                        <li><a href="http://raovat.vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Rao vặt');"><i class="ic ic-m-ecom"></i>Rao vặt</a></li>
+                        <li><a class="bg_e8e8" href="http://vnexpress.net/24h-qua"><i class="ic ic-m-24h"></i>24h qua</a></li>
+                        <li><a class="bg_e8e8" href="http://vnexpress.net/lien-he-toa-soan/?p=kinhdoanh"><i class="ic ic-m-contact"></i>Liên hệ Tòa soạn</a></li>
+                        <li class="end"><a class="bg_e8e8" href="http://vnexpress.net/contact.htm"><i class="ic ic-m-mail"></i>Thông tin Tòa soạn</a></li>
+                    </ul>
+                    <div class="coppy_right_left width_common">
+                        <div class="txt_coppy_right">
+                            <p>&copy; Copyright 1997 - VnExpress.net, All rights reserved.</p>
+                            <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+                        </div>
+                        <div class="txt_lienhe"> Hotline:<br>
+                            <a href="tel:012388801238">0123.888.0123 (Hà Nội)</a><br />
+                            <a href="tel:01292333555">0129.233.3555 (TP HCM) </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+        <div id="page"> 
+            <div id="wrapper_header">
+                <div id="header">
+                    <div class="width_common">
+                        <div class="logovne">
+                            <a href="http://vnexpress.net" title="VnExpress logo"><img src="http://st.f1.vnecdn.net/responsive/i/v41/graphics/logo.png" alt="VnExpress logo" class="img_logo" /></a>
+                            <div class="right ipad_header">
+                                <div class="block_icon_menu_header right">
+                                    <div class="left block_location_tt" data-component-type="weather" data-component-click=""></div>
+                                    <a href="http://video.vnexpress.net"><img src="http://st.f1.kinhdoanh.vnecdn.net/i/v4/icons/icon_videomenu.gif" alt="" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="clear">&nbsp;</div>
+                </div>
+            </div>
+            <div id="header_web" class="width_common">
+                <div id="header_main">
+                    <div class="header_logo width_common">
+                        <a href="http://vnexpress.net"><img src="http://st.f1.vnecdn.net/responsive/i/v41/graphics/img_logo_vne_web.gif" alt="vnexpress logo"  class="left logo_web"/></a>
+                            <div class="banner_728x90 banner_top right">
+        <script type="text/javascript">try {Poly_Top();}catch(ex){};</script>    </div>
+                    </div>
+                    <ul id="menu_web" class="width_common">
+                        <li><a href="http://vnexpress.net" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Trang chủ');"><i class="ic ic-m-home"></i></a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/thoi-su" class="mnu_thoisu" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thời sự');">Thời sự</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/the-gioi" class="mnu_thegioi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thế giới');">Thế giới</a></li>
+                        <li class="active"><a href="http://kinhdoanh.vnexpress.net" class="mnu_kinhdoanh" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Kinh doanh');">Kinh doanh</a></li>
+                        <li><a href="http://giaitri.vnexpress.net" class="mnu_giaitri" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giải trí');">Giải trí</a></li>
+                        <li><a href="http://thethao.vnexpress.net" class="mnu_thethao" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Thể thao');">Thể thao</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/phap-luat" class="mnu_phapluat" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Pháp luật');">Pháp luật</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/giao-duc" class="mnu_giaoduc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Giáo dục');">Giáo dục</a></li>
+                        <li><a href="http://suckhoe.vnexpress.net" class="mnu_suckhoe" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Sức khỏe');">Sức khỏe</a></li>
+                        <li><a href="http://giadinh.vnexpress.net" class="mnu_doisong" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Đời sống');">Gia đình</a></li>
+                        <li><a href="http://dulich.vnexpress.net" class="mnu_dulich" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Du lịch');">Du lịch</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/khoa-hoc" class="mnu_khoahoc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Khoa học');">Khoa học</a></li>
+                        <li><a href="http://sohoa.vnexpress.net" class="mnu_sohoa" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Số hóa');">Số hóa</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/oto-xe-may" class="mnu_xe" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Xe');">Xe</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cong-dong" class="mnu_bandoc" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cộng đồng');">Cộng đồng</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/tam-su" class="mnu_tamsu" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Tâm sự');">Tâm sự</a></li>
+                        <li><a href="http://video.vnexpress.net" class="mnu_video" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Video');">Video</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cuoi" class="mnu_cuoi" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Cười');">Cười</a></li>
+                        <li class="end"><a href="http://raovat.vnexpress.net" class="mnu_raovat end" onclick="ga('t0.send', 'event', 'Menu', 'Click', 'Rao vặt');">Rao vặt</a></li>
+                    </ul>
+                    <div class="mid_header width_common">
+                        <ul id="breakumb_web">
+                            <li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep" target="_self">Doanh nghiệp</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san" target="_self">Bất động sản</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank" target="_self">Ebank</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu" target="_self">Thương mại điện tử</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa" target="_self">Hàng hóa</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep" target="_self">Khởi nghiệp</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi" target="_self">Tiền của tôi</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/chung-khoan" target="_self">Chứng khoán</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te" target="_self">Quốc tế</a></h3></li><li  class=""><h3><a href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo" target="_self">Vĩ mô</a></h3></li><li  class=""><h3><a href="http://startup.vnexpress.net" target="_self">Startup Việt</a></h3></li>                        </ul>
+                        <div class="right">
+                            <a class="btn_swich_en" href="http://e.vnexpress.net" title="VnExpress International – Vietnam and ASEAN news">
+                                <img alt="VnExpress International – Vietnam and ASEAN news" src="http://st.f1.kinhdoanh.vnecdn.net/i/v4/icons/icon_swich_en.gif">
+                            </a>
+                                                            <div class="txt_timer" id="clockPC"></div>
+                                                                                                <a href="http://vnexpress.net/24h-qua" class="txt_24h">24h qua</a>
+                                                                    <a href="http://vnexpress.net/rss" class="img_rss left">RSS&nbsp;<i class="ic ic-rss"></i></a>
+                                                        </div>
+                                                    <div class="block_breakumb_left">
+                                <ul class="list_arrow_breakumb">
+                                    <li class="start"><h4><a href="http://kinhdoanh.vnexpress.net">Kinh doanh</a><span class="arrow_breakumb">&nbsp;</span></h4></li>
+                                </ul>
+                            </div>
+                                                </div>
+                </div>
+            </div>
+            <div id="wrapper_container" class="container_common">
+                <div id="container">
+                    <div class="width_common">
+                        <div class="breakumb_timer width_common">
+                            <div class="timer_header">
+                                <ul>
+                                                                        <li class="start"><a href="http://kinhdoanh.vnexpress.net">Kinh doanh</a><span class="arrow_breakumb">&nbsp;</span></li>
+                                                                    </ul>
+                            </div>
+                            <div class="rss right">
+                                                                    <div class="block_timer left" id="clockTablet"></div>
+                                                                    <a href="javascript:;" class="img_arrow_timer">&nbsp;</a>
+                            </div>
+                            <div class="block_show_breakumb" style="display: none;">
+                                <ul>
+                                                                            <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep" target="_self">Doanh nghiệp</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san" target="_self">Bất động sản</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank" target="_self">Ebank</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu" target="_self">Thương mại điện tử</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa" target="_self">Hàng hóa</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep" target="_self">Khởi nghiệp</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi" target="_self">Tiền của tôi</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/chung-khoan" target="_self">Chứng khoán</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te" target="_self">Quốc tế</a></li>
+                                                                                <li><a href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo" target="_self">Vĩ mô</a></li>
+                                                                                <li><a href="http://startup.vnexpress.net" target="_self">Startup Việt</a></li>
+                                                                        </ul>
+                           </div>
+                        </div>
+                        <div class="width_common line_col">
+    <div id="col_1">    <div class="block_mid_new">
+        <ul class="list_news make_class_end" id="news_home">
+                            <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nhung-diem-du-lich-lam-giau-nho-duoc-chon-lam-boi-canh-phim-3554093.html" title="Những điểm du lịch làm giàu nhờ được chọn làm bối cảnh phim" class="txt_link">Những điểm du lịch làm giàu nhờ được chọn làm bối cảnh phim</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nhung-diem-du-lich-lam-giau-nho-duoc-chon-lam-boi-canh-phim-3554093.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3554093"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nhung-diem-du-lich-lam-giau-nho-duoc-chon-lam-boi-canh-phim-3554093.html" title="Những điểm du lịch làm giàu nhờ được chọn làm bối cảnh phim" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/12/ex134hobbitonmatamatawaikatosa-4707-9888-1489317929_180x108.jpg" alt="Những điểm du lịch làm giàu nhờ được chọn làm bối cảnh phim">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Trở thành bối cảnh cho các bộ phim điện ảnh tầm cỡ quốc tế đã giúp nhiều điểm du lịch trên thế giới từ chỗ ít người biết đến trở thành địa chỉ nổi tiếng, giàu có nhờ lượng khách tham quan tăng vọt.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/cac-hang-lu-hanh-mo-tour-toi-viet-nam-an-theo-phim-kong-3553440.html" title="Các hãng lữ hành mở tour tới Việt Nam 'ăn theo' phim Kong">Các hãng lữ hành mở tour tới Việt Nam 'ăn theo' phim Kong</a> / <a href="http://dulich.vnexpress.net/tin-tuc/viet-nam/cac-diem-den-viet-nam-noi-nhu-con-sau-khi-len-man-anh-3551562.html" title="Các điểm đến Việt Nam nổi như cồn sau khi lên màn ảnh">Các điểm đến Việt Nam nổi như cồn sau khi lên màn ảnh</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://vnexpress.net/projects/uber-tu-dam-chan-nguoi-khac-den-dam-chan-chinh-minh-3553210/index.html" title="Uber - Từ dẫm chân người khác đến dẫm chân chính mình" class="txt_link">Uber - Từ dẫm chân người khác đến dẫm chân chính mình</a>
+                        <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://vnexpress.net/projects/uber-tu-dam-chan-nguoi-khac-den-dam-chan-chinh-minh-3553210/index.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553210"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://vnexpress.net/projects/uber-tu-dam-chan-nguoi-khac-den-dam-chan-chinh-minh-3553210/index.html" title="Uber - Từ dẫm chân người khác đến dẫm chân chính mình" class="txt_link">
+                                    <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/10/TRAVISset-1489139774_180x108.jpg" alt="Uber - Từ dẫm chân người khác đến dẫm chân chính mình">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Với CEO Uber - Travis Kalanick, “dẫm lên chân người khác” là điều tốt.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/hang-loat-nhan-vien-uber-sap-bo-viec-3551186.html" title="Hàng loạt nhân viên Uber sắp bỏ việc">Hàng loạt nhân viên Uber sắp bỏ việc</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/ong-chu-uber-tranh-cai-voi-tai-xe-ngay-tren-xe-ve-gia-cuoc-3548622.html" title="Ông chủ Uber tranh cãi với tài xế ngay trên xe về giá cước">Ông chủ Uber tranh cãi với tài xế ngay trên xe về giá cước</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/bo-cong-thuong-kiem-tra-vu-vo-dap-chua-bun-thai-o-nghe-an-3554127.html" title="Bộ Công Thương kiểm tra vụ vỡ đập chứa bùn thải ở Nghệ An" class="txt_link">Bộ Công Thương kiểm tra vụ vỡ đập chứa bùn thải ở Nghệ An</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/bo-cong-thuong-kiem-tra-vu-vo-dap-chua-bun-thai-o-nghe-an-3554127.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3554127"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/bo-cong-thuong-kiem-tra-vu-vo-dap-chua-bun-thai-o-nghe-an-3554127.html" title="Bộ Công Thương kiểm tra vụ vỡ đập chứa bùn thải ở Nghệ An" class="txt_link">
+                                    <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/12/vodapchuaoNgheAn-1489316718-5744-1489316889_180x108.jpg" alt="Bộ Công Thương kiểm tra vụ vỡ đập chứa bùn thải ở Nghệ An">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Đoàn kiểm tra có trách nhiệm làm rõ nguyên nhân cũng như có biện pháp khắc phục sự cố tại Xí nghiệp Khai thác quặng thiếc Suối Bắc (Quỳ Hợp, Nghệ An) ngày 9/3.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://vnexpress.net/tin-tuc/thoi-su/be-chua-bi-vo-100-met-khoi-bun-thai-quang-tran-ra-song-3553941.html" title="Bể chứa bị vỡ, 100 mét khối bùn thải quặng tràn ra sông">Bể chứa bị vỡ, 100 mét khối bùn thải quặng tràn ra sông</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/nguoi-viet-chi-gan-2-trieu-usd-moi-ngay-nhap-rau-qua-tu-thai-lan-trung-quoc-3554092.html" title="Người Việt chi gần 2 triệu USD mỗi ngày nhập rau quả từ Thái Lan, Trung Quốc" class="txt_link">Người Việt chi gần 2 triệu USD mỗi ngày nhập rau quả từ Thái Lan, Trung Quốc</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/nguoi-viet-chi-gan-2-trieu-usd-moi-ngay-nhap-rau-qua-tu-thai-lan-trung-quoc-3554092.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3554092"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/nguoi-viet-chi-gan-2-trieu-usd-moi-ngay-nhap-rau-qua-tu-thai-lan-trung-quoc-3554092.html" title="Người Việt chi gần 2 triệu USD mỗi ngày nhập rau quả từ Thái Lan, Trung Quốc" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/12/raucuquaThaiLan-1489303854-9779-1489304130_180x108.jpg" alt="Người Việt chi gần 2 triệu USD mỗi ngày nhập rau quả từ Thái Lan, Trung Quốc">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Hai tháng đầu năm, Việt Nam chi hơn 164 triệu USD nhập rau quả từ các thị trường, trong đó 70% từ Thái Lan, Trung Quốc, theo dữ liệu của Tổng cục Hải quan. </div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/rau-qua-thai-lan-vuot-trung-quoc-dan-dau-thi-truong-viet-3404431.html" title="Rau quả Thái Lan vượt Trung Quốc dẫn đầu thị trường Việt">Rau quả Thái Lan vượt Trung Quốc dẫn đầu thị trường Việt</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ban-biet-gi-ve-ngan-hang-0-dong-tai-viet-nam-3552348.html" title="Bạn biết gì về ngân hàng 0 đồng tại Việt Nam?" class="txt_link">Bạn biết gì về ngân hàng 0 đồng tại Việt Nam?</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ban-biet-gi-ve-ngan-hang-0-dong-tai-viet-nam-3552348.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3552348"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ban-biet-gi-ve-ngan-hang-0-dong-tai-viet-nam-3552348.html" title="Bạn biết gì về ngân hàng 0 đồng tại Việt Nam?" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/12/banganhang1a40d1475658920553-1-9024-8963-1489284636_180x108.jpg" alt="Bạn biết gì về ngân hàng 0 đồng tại Việt Nam?">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Trắc nghiệm sau đây sẽ giúp bạn hiểu vì sao lại xuất hiện ngân hàng 0 đồng, chúng hoạt động theo cơ chế gì và đảm bảo quyền lợi cho người giao dịch như thế nào... </div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/viet-nam-philippines-thanh-noi-phat-dat-cua-cac-benh-vien-tu-3553969.html" title="Việt Nam, Philippines... thành nơi phát đạt của các bệnh viện tư" class="txt_link">Việt Nam, Philippines... thành nơi phát đạt của các bệnh viện tư</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/viet-nam-philippines-thanh-noi-phat-dat-cua-cac-benh-vien-tu-3553969.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553969"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/viet-nam-philippines-thanh-noi-phat-dat-cua-cac-benh-vien-tu-3553969.html" title="Việt Nam, Philippines... thành nơi phát đạt của các bệnh viện tư" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/12/siloam-1489258836-6338-1489259550_180x108.jpg" alt="Việt Nam, Philippines... thành nơi phát đạt của các bệnh viện tư">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Tầng lớp trung lưu gia tăng và khả năng cân đối giá dịch vụ tốt hơn đang giúp các bệnh viên tư nhân tại khu vực Đông Nam Á ngày càng ăn nên làm ra.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/benh-vien-cong-dau-tien-hoan-tat-ipo-3299645.html" title="Bệnh viện công đầu tiên hoàn tất IPO">Bệnh viện công đầu tiên hoàn tất IPO</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/benh-vien-giao-thong-van-tai-se-niem-yet-tren-san-chung-khoan-3253350.html" title="Bệnh viện Giao thông vận tải sẽ niêm yết trên sàn chứng khoán">Bệnh viện Giao thông vận tải sẽ niêm yết trên sàn chứng khoán</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/5-bieu-tuong-bi-mat-tren-to-dola-my-3553971.html" title="5 biểu tượng bí mật trên tờ đôla Mỹ" class="txt_link">5 biểu tượng bí mật trên tờ đôla Mỹ</a>
+                        <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/5-bieu-tuong-bi-mat-tren-to-dola-my-3553971.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553971"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/5-bieu-tuong-bi-mat-tren-to-dola-my-3553971.html" title="5 biểu tượng bí mật trên tờ đôla Mỹ" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/12/3420888grossesiegeldervereinig-8916-9832-1489279865_180x108.jpg" alt="5 biểu tượng bí mật trên tờ đôla Mỹ">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Các tờ tiền đôla Mỹ luôn gây tò mò với nhiều người bởi các hình tượng khó hiểu và một số trong các thông điệp vẫn còn chưa có lời giải thích thống nhất.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/my-cong-bo-dong-xu-100-dola-bang-vang-rong-3529346.html" title="Mỹ công bố đồng xu 100 đôla bằng vàng ròng">Mỹ công bố đồng xu 100 đôla bằng vàng ròng</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/the-gioi-bat-dau-tieu-tien-100-usd-moi-2891911.html" title="Thế giới bắt đầu tiêu tiền 100 USD mới">Thế giới bắt đầu tiêu tiền 100 USD mới</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/aeon-mall-mo-them-trung-tam-thuong-mai-200-trieu-usd-o-ha-noi-3554041.html" title="Aeon Mall mở thêm trung tâm thương mại 200 triệu USD ở Hà Nội" class="txt_link">Aeon Mall mở thêm trung tâm thương mại 200 triệu USD ở Hà Nội</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/aeon-mall-mo-them-trung-tam-thuong-mai-200-trieu-usd-o-ha-noi-3554041.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3554041"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/aeon-mall-mo-them-trung-tam-thuong-mai-200-trieu-usd-o-ha-noi-3554041.html" title="Aeon Mall mở thêm trung tâm thương mại 200 triệu USD ở Hà Nội" class="txt_link">
+                                    <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/12/aeonmalllongbien-1489289189-8324-1489289297_180x108.jpg" alt="Aeon Mall mở thêm trung tâm thương mại 200 triệu USD ở Hà Nội">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Sau trung tâm thương mại đầu tiên tại quận Long Biên (Hà Nội), đại gia Nhật Bản sẽ xây dựng trung tâm thứ 2 tại quận Hà Đông.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/dai-gia-ban-le-nhat-gop-von-vao-hai-sieu-thi-viet-nam-3140161.html" title="Đại gia bán lẻ Nhật góp vốn vào hai siêu thị Việt Nam">Đại gia bán lẻ Nhật góp vốn vào hai siêu thị Việt Nam</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/hang-loat-du-an-ty-dola-tang-toc-don-song-casino-tai-viet-nam-3551533.html" title="Hàng loạt dự án tỷ đôla tăng tốc đón sóng casino tại Việt Nam" class="txt_link">Hàng loạt dự án tỷ đôla tăng tốc đón sóng casino tại Việt Nam</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/hang-loat-du-an-ty-dola-tang-toc-don-song-casino-tai-viet-nam-3551533.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3551533"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/hang-loat-du-an-ty-dola-tang-toc-don-song-casino-tai-viet-nam-3551533.html" title="Hàng loạt dự án tỷ đôla tăng tốc đón sóng casino tại Việt Nam" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/12/casino-JPG-6438-1489287077_180x108.jpg" alt="Hàng loạt dự án tỷ đôla tăng tốc đón sóng casino tại Việt Nam">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Có ít nhất 4 đơn vị nước ngoài đã và đang lên kế hoạch đầu tư những dự án casino và các loại hình cá cược khác có quy mô hàng tỷ USD vào Việt Nam.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/nguoi-viet-thu-nhap-duoi-10-trieu-dong-khong-duoc-choi-casino-3528324.html" title="Người Việt thu nhập dưới 10 triệu đồng không được chơi casino">Người Việt thu nhập dưới 10 triệu đồng không được chơi casino</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/casino-gap-kho-truoc-ngay-mo-cua-cho-nguoi-viet-3532562.html" title="Casino gặp khó trước ngày mở cửa cho người Việt">Casino gặp khó trước ngày mở cửa cho người Việt</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-thuong-hieu-vuvuzela-kichi-kichi-thu-nghin-ty-tu-ban-lau-thit-nuong-bia-tuoi-3553515.html" title="Chủ thương hiệu Vuvuzela, Kichi-Kichi thu nghìn tỷ từ bán lẩu, thịt nướng, bia tươi..." class="txt_link">Chủ thương hiệu Vuvuzela, Kichi-Kichi thu nghìn tỷ từ bán lẩu, thịt nướng, bia tươi...</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-thuong-hieu-vuvuzela-kichi-kichi-thu-nghin-ty-tu-ban-lau-thit-nuong-bia-tuoi-3553515.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553515"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/chu-thuong-hieu-vuvuzela-kichi-kichi-thu-nghin-ty-tu-ban-lau-thit-nuong-bia-tuoi-3553515.html" title="Chủ thương hiệu Vuvuzela, Kichi-Kichi thu nghìn tỷ từ bán lẩu, thịt nướng, bia tươi..." class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/10/4-1489138188-5736-1489138241_180x108.jpg" alt="Chủ thương hiệu Vuvuzela, Kichi-Kichi thu nghìn tỷ từ bán lẩu, thịt nướng, bia tươi...">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Golden Gate, đơn vị quản lý 20 chuỗi các nhà hàng với nhiều thương hiệu khác nhau như Ashima, Kichi-Kichi, Sumo BBQ, Gogi House, Daruma, Vuvuzela, Cowboy Jack's... đạt doanh thu hàng nghìn tỷ đồng mỗi năm nhờ liên tục mở rộng hệ thống.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thieu-bao-cao-moi-truong-du-an-280-trieu-usd-cua-trung-quoc-van-duoc-xay-3553727.html" title="Thiếu báo cáo môi trường, dự án 280 triệu USD của Trung Quốc vẫn được xây" class="txt_link">Thiếu báo cáo môi trường, dự án 280 triệu USD của Trung Quốc vẫn được xây</a>
+                        <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thieu-bao-cao-moi-truong-du-an-280-trieu-usd-cua-trung-quoc-van-duoc-xay-3553727.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553727"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thieu-bao-cao-moi-truong-du-an-280-trieu-usd-cua-trung-quoc-van-duoc-xay-3553727.html" title="Thiếu báo cáo môi trường, dự án 280 triệu USD của Trung Quốc vẫn được xây" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/11/IMG-6749-1-9241-1489201871_180x108.jpg" alt="Thiếu báo cáo môi trường, dự án 280 triệu USD của Trung Quốc vẫn được xây">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Dự án của doanh nghiệp Trung Quốc tại Bắc Giang chưa có báo cáo đánh giá tác động môi trường đã khởi công và xây dựng rầm rộ, được lãnh đạo tỉnh giải thích là để tạo điều kiện cho doanh nghiệp khởi công lấy ngày. </div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/du-an-pin-mat-troi-trung-quoc-o-bac-giang-tang-von-len-gan-nua-ty-usd-3468910.html" title="Dự án pin mặt trời Trung Quốc ở Bắc Giang tăng vốn lên gần nửa tỷ USD">Dự án pin mặt trời Trung Quốc ở Bắc Giang tăng vốn lên gần nửa tỷ USD</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/dai-gia-trung-quoc-thue-88ha-dat-bac-giang-lam-pin-mat-troi-3436377.html" title="Đại gia Trung Quốc thuê 88ha đất Bắc Giang làm pin mặt trời">Đại gia Trung Quốc thuê 88ha đất Bắc Giang làm pin mặt trời</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/hon-100-000-ty-dong-cam-ket-dau-tu-vao-tay-nguyen-3553932.html" title="Hơn 100.000 tỷ đồng cam kết đầu tư vào Tây Nguyên" class="txt_link">Hơn 100.000 tỷ đồng cam kết đầu tư vào Tây Nguyên</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/hon-100-000-ty-dong-cam-ket-dau-tu-vao-tay-nguyen-3553932.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553932"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/hon-100-000-ty-dong-cam-ket-dau-tu-vao-tay-nguyen-3553932.html" title="Hơn 100.000 tỷ đồng cam kết đầu tư vào Tây Nguyên" class="txt_link">
+                                    <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/11/TT2-1489245763-1322-1489246344_180x108.jpg" alt="Hơn 100.000 tỷ đồng cam kết đầu tư vào Tây Nguyên">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Tây Nguyên đón dòng vốn kỷ lục lên đến hơn 100.000 tỷ đồng từ cam kết tín dụng và đầu tư của các ngân hàng, doanh nghiệp.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/xe-rolls-royce-son-bang-bui-cua-1-000-vien-kim-cuong-3553822.html" title="Xe Rolls-Royce sơn bằng bụi của 1.000 viên kim cương" class="txt_link">Xe Rolls-Royce sơn bằng bụi của 1.000 viên kim cương</a>
+                        <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/xe-rolls-royce-son-bang-bui-cua-1-000-vien-kim-cuong-3553822.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553822"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/xe-rolls-royce-son-bang-bui-cua-1-000-vien-kim-cuong-3553822.html" title="Xe Rolls-Royce sơn bằng bụi của 1.000 viên kim cương" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/11/xerr-1489211553-9007-1489211650_180x108.jpg" alt="Xe Rolls-Royce sơn bằng bụi của 1.000 viên kim cương">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Hãng xe sang Rolls-Royce vừa giới thiệu một phiên bản độc đáo mang tên Ghost Elegance với lớp vỏ được sơn bằng bụi kim cương thật của 1.000 viên kim cương.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://video.vnexpress.net/tin-tuc/kinh-doanh/chu-tich-bac-giang-xuc-tien-hoanh-trang-khong-bang-nha-dau-tu-ngoai-gioi-thieu-cho-nhau-3553809.html" title="Chủ tịch Bắc Giang: Xúc tiến hoành tráng không bằng nhà đầu tư ngoại giới thiệu cho nhau" class="txt_link">Chủ tịch Bắc Giang: Xúc tiến hoành tráng không bằng nhà đầu tư ngoại giới thiệu cho nhau</a>
+                        <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://video.vnexpress.net/tin-tuc/kinh-doanh/chu-tich-bac-giang-xuc-tien-hoanh-trang-khong-bang-nha-dau-tu-ngoai-gioi-thieu-cho-nhau-3553809.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553809"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://video.vnexpress.net/tin-tuc/kinh-doanh/chu-tich-bac-giang-xuc-tien-hoanh-trang-khong-bang-nha-dau-tu-ngoai-gioi-thieu-cho-nhau-3553809.html" title="Chủ tịch Bắc Giang: Xúc tiến hoành tráng không bằng nhà đầu tư ngoại giới thiệu cho nhau" class="txt_link">
+                                    <img src="http://img.f32.vnecdn.net/2017/03/11/ScreenShot20170311at115217AM-1-4723-6383-1489208371_180x108.png" alt="Chủ tịch Bắc Giang: Xúc tiến hoành tráng không bằng nhà đầu tư ngoại giới thiệu cho nhau">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Chia sẻ về gánh nặng thu hút FDI của địa phương, Chủ tịch Bắc Giang - Nguyễn Văn Linh cho rằng mọi việc tỉnh làm để đẩy nhanh tiến độ các dự án cũng chỉ với mong muốn tạo điều kiện thuận lợi cho nhà đầu tư.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thieu-bao-cao-moi-truong-du-an-280-trieu-usd-cua-trung-quoc-van-duoc-xay-3553727.html" title="Thiếu báo cáo môi trường, dự án 280 triệu USD của Trung Quốc vẫn được xây">Thiếu báo cáo môi trường, dự án 280 triệu USD của Trung Quốc vẫn được xây</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/cong-ty-lo-nghin-ty-sep-lon-gan-co-phieu-ban-nha-dat-bu-thiet-hai-3553260.html" title="Công ty lỗ nghìn tỷ, sếp lớn gán cổ phiếu, bán nhà đất bù thiệt hại" class="txt_link">Công ty lỗ nghìn tỷ, sếp lớn gán cổ phiếu, bán nhà đất bù thiệt hại</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/cong-ty-lo-nghin-ty-sep-lon-gan-co-phieu-ban-nha-dat-bu-thiet-hai-3553260.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553260"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/cong-ty-lo-nghin-ty-sep-lon-gan-co-phieu-ban-nha-dat-bu-thiet-hai-3553260.html" title="Công ty lỗ nghìn tỷ, sếp lớn gán cổ phiếu, bán nhà đất bù thiệt hại" class="txt_link">
+                                    <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/10/tt-7337-1489134651_180x108.jpg" alt="Công ty lỗ nghìn tỷ, sếp lớn gán cổ phiếu, bán nhà đất bù thiệt hại">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Công ty lỗ nặng, nhiều lãnh đạo doanh nghiệp đã chọn cách xin gán tài sản cá nhân để khắc phục hậu quả với mong muốn được miễn giảm trách nhiệm.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nhung-thach-thuc-hien-tai-cua-kinh-te-han-quoc-3553824.html" title="Những thách thức hiện tại của kinh tế Hàn Quốc" class="txt_link">Những thách thức hiện tại của kinh tế Hàn Quốc</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nhung-thach-thuc-hien-tai-cua-kinh-te-han-quoc-3553824.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553824"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nhung-thach-thuc-hien-tai-cua-kinh-te-han-quoc-3553824.html" title="Những thách thức hiện tại của kinh tế Hàn Quốc" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/11/han-quoc-jpeg-5148-1489212207_180x108.jpg" alt="Những thách thức hiện tại của kinh tế Hàn Quốc">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Việc phế truất Tổng thống Park Geun-hye đã gỡ bỏ yếu tố gây bất ổn lớn với nền kinh tế này suốt nhiều tháng qua, nhưng các vấn đề mới lại đang nảy sinh.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/chung-khoan-han-quoc-tang-sau-tin-phe-truat-tong-thong-3553582.html" title="Chứng khoán Hàn Quốc tăng sau tin phế truất Tổng thống">Chứng khoán Hàn Quốc tăng sau tin phế truất Tổng thống</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/dai-gia-van-tai-bien-han-quoc-pha-san-3543032.html" title="Đại gia vận tải biển Hàn Quốc phá sản">Đại gia vận tải biển Hàn Quốc phá sản</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/photo/quoc-te/ceo-uber-choi-bong-ban-cung-ceo-facebook-3553635.html" title="CEO Uber chơi bóng bàn cùng CEO Facebook" class="txt_link">CEO Uber chơi bóng bàn cùng CEO Facebook</a>
+                        <i class="ic ic-photo"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/photo/quoc-te/ceo-uber-choi-bong-ban-cung-ceo-facebook-3553635.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="3553635"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/photo/quoc-te/ceo-uber-choi-bong-ban-cung-ceo-facebook-3553635.html" title="CEO Uber chơi bóng bàn cùng CEO Facebook" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/10/spin-5-1489162339_180x108.png" alt="CEO Uber chơi bóng bàn cùng CEO Facebook">
+                                    <span class="icon_thumb_videophoto"><i class="ic ic-photo"></i></span>                                </a>
+                            </div>
+                                                    <div class="news_lead">Travis Kalanick và Mark Zuckerberg đã góp mặt trong tiệc sinh nhật vừa qua của CEO Dropbox - Drew Houston.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/uber-song-khoe-o-paris-nho-nguoi-that-nghiep-dong-3534272.html" title="Uber sống khỏe ở Paris nhờ người thất nghiệp đông">Uber sống khỏe ở Paris nhờ người thất nghiệp đông</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/ceo-uber-roi-ban-co-van-cua-donald-trump-3535656.html" title="CEO Uber rời ban cố vấn của Donald Trump">CEO Uber rời ban cố vấn của Donald Trump</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/gia-vang-sjc-tang-theo-the-gioi-3553720.html" title="Giá vàng SJC tăng theo thế giới" class="txt_link">Giá vàng SJC tăng theo thế giới</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/gia-vang-sjc-tang-theo-the-gioi-3553720.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553720"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/gia-vang-sjc-tang-theo-the-gioi-3553720.html" title="Giá vàng SJC tăng theo thế giới" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/11/pnj-1-5601-1489198777_180x108.jpg" alt="Giá vàng SJC tăng theo thế giới">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Giá mua bán vàng miếng trong nước sáng nay tăng khoảng 100.000 đồng mỗi lượng, dù xu hướng chung trong tuần vẫn là đi xuống.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/gia-vang-the-gioi-nhich-nhe-phien-cuoi-tuan-3553669.html" title="Giá vàng thế giới nhích nhẹ phiên cuối tuần">Giá vàng thế giới nhích nhẹ phiên cuối tuần</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/usd-giam-manh-vang-trong-nuoc-de-dat-di-xuong-3553175.html" title="USD giảm mạnh, vàng trong nước dè dặt đi xuống">USD giảm mạnh, vàng trong nước dè dặt đi xuống</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/gia-vang-the-gioi-nhich-nhe-phien-cuoi-tuan-3553669.html" title="Giá vàng thế giới nhích nhẹ phiên cuối tuần" class="txt_link">Giá vàng thế giới nhích nhẹ phiên cuối tuần</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/gia-vang-the-gioi-nhich-nhe-phien-cuoi-tuan-3553669.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553669"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/gia-vang-the-gioi-nhich-nhe-phien-cuoi-tuan-3553669.html" title="Giá vàng thế giới nhích nhẹ phiên cuối tuần" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/11/chinagold-1489193871-2601-1489193897_180x108.jpg" alt="Giá vàng thế giới nhích nhẹ phiên cuối tuần">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Mỗi ounce chốt phiên Mỹ hôm qua tăng gần 4 USD lên 1.204 USD, do báo cáo việc làm Mỹ không được như kỳ vọng.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/usd-giam-manh-vang-trong-nuoc-de-dat-di-xuong-3553175.html" title="USD giảm mạnh, vàng trong nước dè dặt đi xuống">USD giảm mạnh, vàng trong nước dè dặt đi xuống</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/gia-vang-giam-manh-3553112.html" title="Giá vàng giảm mạnh">Giá vàng giảm mạnh</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/giac-mo-kinh-doanh-thoi-trang-cua-doi-ban-nganh-luat-3551122.html" title="Giấc mơ kinh doanh thời trang của đôi bạn ngành luật" class="txt_link">Giấc mơ kinh doanh thời trang của đôi bạn ngành luật</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/giac-mo-kinh-doanh-thoi-trang-cua-doi-ban-nganh-luat-3551122.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3551122"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/giac-mo-kinh-doanh-thoi-trang-cua-doi-ban-nganh-luat-3551122.html" title="Giấc mơ kinh doanh thời trang của đôi bạn ngành luật" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/09/duong-lananh-4109-1489032788_180x108.jpg" alt="Giấc mơ kinh doanh thời trang của đôi bạn ngành luật">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Thùy Dương và Lan Anh từng được Ban tổ chức Hoa hậu Việt Nam 2016 đặt làm 100 chiếc bông tai tua rua cho các người đẹp tham gia cuộc thi.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-phien-ban-dong-ho-speake-marin-limited-edition-dang-cap-3551836.html" title="Những phiên bản đồng hồ Speake-Marin Limited Edition đẳng cấp" class="txt_link">Những phiên bản đồng hồ Speake-Marin Limited Edition đẳng cấp</a>
+                                            </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-phien-ban-dong-ho-speake-marin-limited-edition-dang-cap-3551836.html" title="Những phiên bản đồng hồ Speake-Marin Limited Edition đẳng cấp" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/08/dongho-1488934977_180x108.jpg" alt="Những phiên bản đồng hồ Speake-Marin Limited Edition đẳng cấp">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Mỗi năm, Speake-Marin chỉ sản xuất khoảng 300 chiếc đồng hồ, đều là phiên bản giới hạn, được chế tác thủ công tinh xảo với độ hoàn thiện và chất lượng chuẩn xác.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/nguoi-nhat-giau-vi-lam-cong-nghiep-viet-nam-giau-nho-bat-dong-san-3553530.html" title="Người Nhật giàu vì làm công nghiệp, Việt Nam giàu nhờ bất động sản" class="txt_link">Người Nhật giàu vì làm công nghiệp, Việt Nam giàu nhờ bất động sản</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/nguoi-nhat-giau-vi-lam-cong-nghiep-viet-nam-giau-nho-bat-dong-san-3553530.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553530"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/nguoi-nhat-giau-vi-lam-cong-nghiep-viet-nam-giau-nho-bat-dong-san-3553530.html" title="Người Nhật giàu vì làm công nghiệp, Việt Nam giàu nhờ bất động sản" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/10/viet-nam-0-5727-1489145137_180x108.jpg" alt="Người Nhật giàu vì làm công nghiệp, Việt Nam giàu nhờ bất động sản">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Thực tế này lý giải một phần nguyên nhân khiến công nghiệp Việt Nam "mãi không lớn", còn nền kinh tế nguy cơ vào thời kỳ "hậu công nghiệp" dù GDP mới bằng 1/10 những nước như Hàn Quốc, Nhật Bản.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet-van-kho-tro-thanh-nha-thau-cho-samsung-3469284.html" title="Doanh nghiệp Việt vẫn khó trở thành nhà thầu cho Samsung">Doanh nghiệp Việt vẫn khó trở thành nhà thầu cho Samsung</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://vnexpress.net/projects/4-du-an-thua-lo-nghin-ty-cua-vinachem-chat-vat-phuc-hoi-3549895/index.html" title="4 dự án thua lỗ nghìn tỷ của Vinachem chật vật phục hồi" class="txt_link">4 dự án thua lỗ nghìn tỷ của Vinachem chật vật phục hồi</a>
+                        <a class="icon_commend" href="http://vnexpress.net/projects/4-du-an-thua-lo-nghin-ty-cua-vinachem-chat-vat-phuc-hoi-3549895/index.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3549895"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://vnexpress.net/projects/4-du-an-thua-lo-nghin-ty-cua-vinachem-chat-vat-phuc-hoi-3549895/index.html" title="4 dự án thua lỗ nghìn tỷ của Vinachem chật vật phục hồi" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/10/VNC1-1489128518_180x108.jpg" alt="4 dự án thua lỗ nghìn tỷ của Vinachem chật vật phục hồi">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Thuộc lớp cán bộ trẻ đầu tiên làm việc tại Đạm Ninh Bình từ năm 2011, anh kỹ sư Trịnh Văn Trường nay lại cùng những đồng nghiệp ở lại vực dậy nhà máy có vốn đầu tư khoảng 12.000 tỷ đồng đang chìm trong thua lỗ.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/photo/doanh-nghiep/dam-ninh-binh-hoat-dong-lai-giua-vong-thua-lo-3-100-ty-dong-3550281.html" title="Đạm Ninh Bình hoạt động lại giữa vòng thua lỗ 3.100 tỷ đồng">Đạm Ninh Bình hoạt động lại giữa vòng thua lỗ 3.100 tỷ đồng</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/vi-mo/pho-thu-tuong-nha-nuoc-khong-bo-them-tien-cho-cac-du-an-nghin-ty-thua-lo-3545399.html" title="Phó thủ tướng: Nhà nước không bỏ thêm tiền cho các dự án nghìn tỷ thua lỗ">Phó thủ tướng: Nhà nước không bỏ thêm tiền cho các dự án nghìn tỷ thua lỗ</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/oto-indonesia-ve-viet-nam-tang-dot-bien-3553269.html" title="Ôtô Indonesia về Việt Nam tăng đột biến" class="txt_link">Ôtô Indonesia về Việt Nam tăng đột biến</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/oto-indonesia-ve-viet-nam-tang-dot-bien-3553269.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553269"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/oto-indonesia-ve-viet-nam-tang-dot-bien-3553269.html" title="Ôtô Indonesia về Việt Nam tăng đột biến" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/10/GMindonesiacar60751471232683-1-3490-8455-1489118591_180x108.jpg" alt="Ôtô Indonesia về Việt Nam tăng đột biến">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Trong 2 tháng đầu năm 2017, lượng xe ôtô nhập khẩu từ Indonesia về Việt Nam đạt hơn 3.100 chiếc, gần tương đương con số của cả năm 2016.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/nguoi-viet-mua-xe-thai-lan-nhap-khau-nhieu-nhat-trong-nam-2016-3530588.html" title="Người Việt mua xe Thái Lan nhập khẩu nhiều nhất trong năm 2016">Người Việt mua xe Thái Lan nhập khẩu nhiều nhất trong năm 2016</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/oto-con-nhap-khau-tang-gap-3-lan-ngay-khi-thue-giam-3536720.html" title="Ôtô con nhập khẩu tăng gấp 3 lần ngay khi thuế giảm">Ôtô con nhập khẩu tăng gấp 3 lần ngay khi thuế giảm</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/chung-khoan-han-quoc-tang-sau-tin-phe-truat-tong-thong-3553582.html" title="Chứng khoán Hàn Quốc tăng sau tin phế truất Tổng thống" class="txt_link">Chứng khoán Hàn Quốc tăng sau tin phế truất Tổng thống</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/chung-khoan-han-quoc-tang-sau-tin-phe-truat-tong-thong-3553582.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553582"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/chung-khoan-han-quoc-tang-sau-tin-phe-truat-tong-thong-3553582.html" title="Chứng khoán Hàn Quốc tăng sau tin phế truất Tổng thống" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/10/Park-1489143188-8657-1489143238_180x108.jpg" alt="Chứng khoán Hàn Quốc tăng sau tin phế truất Tổng thống">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Chỉ số Kospi tăng nhẹ 0,3% phiên hôm nay, đóng cửa tại 2.097 điểm, sau khi Tòa án Hiến pháp ủng hộ việc luận tội Tổng thống Park Geun-hye.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/han-quoc-tiep-tuc-la-nen-kinh-te-sang-tao-nhat-the-gioi-3529692.html" title="Hàn Quốc tiếp tục là nền kinh tế sáng tạo nhất thế giới">Hàn Quốc tiếp tục là nền kinh tế sáng tạo nhất thế giới</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nganh-cong-nghiep-thit-cho-han-quoc-suy-giam-3526961.html" title="Ngành công nghiệp thịt chó Hàn Quốc suy giảm">Ngành công nghiệp thịt chó Hàn Quốc suy giảm</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ban-suat-an-tren-may-bay-thu-hon-500-ty-dong-3553352.html" title="Bán suất ăn trên máy bay thu hơn 500 tỷ đồng" class="txt_link">Bán suất ăn trên máy bay thu hơn 500 tỷ đồng</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ban-suat-an-tren-may-bay-thu-hon-500-ty-dong-3553352.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553352"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ban-suat-an-tren-may-bay-thu-hon-500-ty-dong-3553352.html" title="Bán suất ăn trên máy bay thu hơn 500 tỷ đồng" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/10/SuatanhangkhongNoiBai-14891277-2021-6016-1489127842_180x108.jpg" alt="Bán suất ăn trên máy bay thu hơn 500 tỷ đồng">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Công ty CP Suất ăn hàng không Nội Bài ước lãi khoảng 8.300 đồng với mỗi suất ăn cung cấp cho các hãng hàng không.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ban-biet-gi-ve-5-ai-nu-co-tai-san-tram-ty-tren-san-chung-khoan-3552893.html" title="Bạn biết gì về 5 'ái nữ' có tài sản trăm tỷ trên sàn chứng khoán?" class="txt_link">Bạn biết gì về 5 'ái nữ' có tài sản trăm tỷ trên sàn chứng khoán?</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ban-biet-gi-ve-5-ai-nu-co-tai-san-tram-ty-tren-san-chung-khoan-3552893.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3552893"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ban-biet-gi-ve-5-ai-nu-co-tai-san-tram-ty-tren-san-chung-khoan-3552893.html" title="Bạn biết gì về 5 'ái nữ' có tài sản trăm tỷ trên sàn chứng khoán?" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/09/aaa-3871-1489054598_180x108.jpg" alt="Bạn biết gì về 5 'ái nữ' có tài sản trăm tỷ trên sàn chứng khoán?">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">5 "ái nữ" dưới đây đều là con của những doanh nhân nổi tiếng, sở hữu khối tài sản lớn ở Việt Nam. Bạn đã biết gì về họ?</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/2-khach-hang-nhan-giai-jackpot-hon-20-ty-dong-3553469.html" title="2 khách hàng nhận giải Jackpot hơn 20 tỷ đồng" class="txt_link">2 khách hàng nhận giải Jackpot hơn 20 tỷ đồng</a>
+                        <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/2-khach-hang-nhan-giai-jackpot-hon-20-ty-dong-3553469.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553469"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/2-khach-hang-nhan-giai-jackpot-hon-20-ty-dong-3553469.html" title="2 khách hàng nhận giải Jackpot hơn 20 tỷ đồng" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/10/Vietlott-1489133940-1433-1489135591_180x108.jpg" alt="2 khách hàng nhận giải Jackpot hơn 20 tỷ đồng">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Chiều 9/3 và 10/3, Công ty xổ số điện toán Việt Nam (Vietlott) đã tổ chức buổi lễ trao giải Jackpot Mega 6/45 cho 2 khách hàng cùng trúng giải độc đắc trong kỳ quay thưởng 98 đến từ Quảng Ninh và Đồng Nai.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nu-khach-hang-nhan-giai-doc-dac-hon-41-ty-dong-ngay-8-3-3552209.html" title="Nữ khách hàng nhận giải độc đắc hơn 41 tỷ đồng ngày 8/3">Nữ khách hàng nhận giải độc đắc hơn 41 tỷ đồng ngày 8/3</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-de-xuat-so-hoa-xe-rac-ho-tich-benh-an-cho-tp-hcm-3553443.html" title="Doanh nghiệp đề xuất số hóa xe rác, hộ tịch, bệnh án… cho TP HCM" class="txt_link">Doanh nghiệp đề xuất số hóa xe rác, hộ tịch, bệnh án… cho TP HCM</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-de-xuat-so-hoa-xe-rac-ho-tich-benh-an-cho-tp-hcm-3553443.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553443"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-de-xuat-so-hoa-xe-rac-ho-tich-benh-an-cho-tp-hcm-3553443.html" title="Doanh nghiệp đề xuất số hóa xe rác, hộ tịch, bệnh án… cho TP HCM" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/10/tphcm-1489135293_180x108.jpg" alt="Doanh nghiệp đề xuất số hóa xe rác, hộ tịch, bệnh án… cho TP HCM">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Ngay sau kêu gọi hiến kế xây dựng thành phố thông minh của lãnh đạo TP HCM, hàng loạt doanh nghiệp đã thi nhau đề xuất giải pháp và cho biết có đủ năng lực triển khai.</div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/hoa-phat-dat-muc-tieu-doanh-thu-100-000-ty-vao-nam-2020-3553301.html" title="Hòa Phát đạt mục tiêu doanh thu 100.000 tỷ vào năm 2020" class="txt_link">Hòa Phát đạt mục tiêu doanh thu 100.000 tỷ vào năm 2020</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/hoa-phat-dat-muc-tieu-doanh-thu-100-000-ty-vao-nam-2020-3553301.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553301"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/hoa-phat-dat-muc-tieu-doanh-thu-100-000-ty-vao-nam-2020-3553301.html" title="Hòa Phát đạt mục tiêu doanh thu 100.000 tỷ vào năm 2020" class="txt_link">
+                                    <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/10/thepxaydunghoaphat-1489130964-8905-1489131491_180x108.jpg" alt="Hòa Phát đạt mục tiêu doanh thu 100.000 tỷ vào năm 2020">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Với việc triển khai dự án Dung Quất, ông Trần Đình Long - Chủ tịch Tập đoàn Hòa Phát cho biết đang hướng tới mục tiêu doanh thu 100.000 tỷ đồng vào năm 2020.  </div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/hoa-phat-lap-cong-ty-10-000-ty-dong-lam-du-an-thep-dung-quat-3537200.html" title="Hòa Phát lập công ty 10.000 tỷ đồng làm dự án thép Dung Quất">Hòa Phát lập công ty 10.000 tỷ đồng làm dự án thép Dung Quất</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thu-ngan-sach-2-thang-dau-nam-vuot-163-000-ty-dong-3553349.html" title="Thu ngân sách 2 tháng đầu năm vượt 163.000 tỷ đồng" class="txt_link">Thu ngân sách 2 tháng đầu năm vượt 163.000 tỷ đồng</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thu-ngan-sach-2-thang-dau-nam-vuot-163-000-ty-dong-3553349.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553349"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thu-ngan-sach-2-thang-dau-nam-vuot-163-000-ty-dong-3553349.html" title="Thu ngân sách 2 tháng đầu năm vượt 163.000 tỷ đồng" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/10/nganhang1tl4604400155871368002-7783-7888-1489130554_180x108.jpg" alt="Thu ngân sách 2 tháng đầu năm vượt 163.000 tỷ đồng">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Số thu này theo Tổng cục Thuế tính ra đạt 16,8% dự toán và vượt 8,8% so với cùng kỳ năm 2016, bình quân mỗi ngày thu được trên 2.700 tỷ đồng. </div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/truy-thu-12-nghe-si-gan-7-ty-dong-tien-thue-3552273.html" title="Truy thu 12 nghệ sĩ gần 7 tỷ đồng tiền thuế">Truy thu 12 nghệ sĩ gần 7 tỷ đồng tiền thuế</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/usd-giam-manh-vang-trong-nuoc-de-dat-di-xuong-3553175.html" title="USD giảm mạnh, vàng trong nước dè dặt đi xuống" class="txt_link">USD giảm mạnh, vàng trong nước dè dặt đi xuống</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/usd-giam-manh-vang-trong-nuoc-de-dat-di-xuong-3553175.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553175"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/usd-giam-manh-vang-trong-nuoc-de-dat-di-xuong-3553175.html" title="USD giảm mạnh, vàng trong nước dè dặt đi xuống" class="txt_link">
+                                    <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/10/doji2-2475-1489114763_180x108.jpg" alt="USD giảm mạnh, vàng trong nước dè dặt đi xuống">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Vàng quốc tế mất hơn 300.000 đồng mỗi lượng nhưng giá trong nước sáng nay chỉ sụt trên dưới 40.000-70.000 đồng, trong khi đó USD ngân hàng giảm 25 đồng. </div>
+                                                                    </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/doanh-nghiep-trung-quoc-bi-my-phat-1-2-ty-usd-3552986.html" title="Doanh nghiệp Trung Quốc bị Mỹ phạt 1,2 tỷ USD" class="txt_link">Doanh nghiệp Trung Quốc bị Mỹ phạt 1,2 tỷ USD</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/doanh-nghiep-trung-quoc-bi-my-phat-1-2-ty-usd-3552986.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3552986"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/doanh-nghiep-trung-quoc-bi-my-phat-1-2-ty-usd-3552986.html" title="Doanh nghiệp Trung Quốc bị Mỹ phạt 1,2 tỷ USD" class="txt_link">
+                                    <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/09/abc-3274-1489057815_180x108.jpg" alt="Doanh nghiệp Trung Quốc bị Mỹ phạt 1,2 tỷ USD">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Hãng công nghệ ZTE vừa đồng ý chịu phạt 1,2 tỷ USD vì vi phạm các biện pháp trừng phạt của Mỹ đối với Iran và Triều Tiên.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/samsung-co-the-mo-rong-san-xuat-tai-my-3552720.html" title="Samsung có thể mở rộng sản xuất tại Mỹ">Samsung có thể mở rộng sản xuất tại Mỹ</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/cac-hang-smartphone-trung-quoc-muon-lat-do-samsung-apple-3551521.html" title="Các hãng smartphone Trung Quốc muốn lật đổ Samsung, Apple">Các hãng smartphone Trung Quốc muốn lật đổ Samsung, Apple</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thu-tuong-yeu-cau-lam-ro-thong-tin-vicem-sai-pham-thua-lo-lon-3553618.html" title="Thủ tướng yêu cầu làm rõ thông tin Vicem sai phạm, thua lỗ lớn" class="txt_link">Thủ tướng yêu cầu làm rõ thông tin Vicem sai phạm, thua lỗ lớn</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thu-tuong-yeu-cau-lam-ro-thong-tin-vicem-sai-pham-thua-lo-lon-3553618.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553618"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thu-tuong-yeu-cau-lam-ro-thong-tin-vicem-sai-pham-thua-lo-lon-3553618.html" title="Thủ tướng yêu cầu làm rõ thông tin Vicem sai phạm, thua lỗ lớn" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/10/vicem-1489156674-2873-1489156898_180x108.jpg" alt="Thủ tướng yêu cầu làm rõ thông tin Vicem sai phạm, thua lỗ lớn">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Người đứng đầu Chính phủ yêu cầu Bộ Xây dựng kiểm tra, làm rõ thông tin Tổng công ty Xi măng Việt Nam (Vicem) đầu tư sai phạm, thua lỗ... </div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ban-xi-mang-cam-pha-cho-vicem-vinaconex-co-thoat-no-2732489.html" title="Bán xi măng Cẩm Phả cho Vicem, Vinaconex có thoát nợ?">Bán xi măng Cẩm Phả cho Vicem, Vinaconex có thoát nợ?</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thuong-hieu-vien-thong-viet-duoc-dinh-gia-cao-ngan-hang-o-muc-thap-3553162.html" title="Thương hiệu viễn thông Việt được định giá cao, ngân hàng ở mức thấp" class="txt_link">Thương hiệu viễn thông Việt được định giá cao, ngân hàng ở mức thấp</a>
+                        <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thuong-hieu-vien-thong-viet-duoc-dinh-gia-cao-ngan-hang-o-muc-thap-3553162.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3553162"></span></a>                    </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/thuong-hieu-vien-thong-viet-duoc-dinh-gia-cao-ngan-hang-o-muc-thap-3553162.html" title="Thương hiệu viễn thông Việt được định giá cao, ngân hàng ở mức thấp" class="txt_link">
+                                    <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/10/thuonghieu-1489111753-6512-1489111904_180x108.png" alt="Thương hiệu viễn thông Việt được định giá cao, ngân hàng ở mức thấp">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">3 thương hiệu viễn thông lớn của Việt Nam đều nằm trong top 20 khu vực, với tổng giá trị được tính toán đạt hơn 4 tỷ USD, trong khi các ngân hàng lại không có vị trí tương ứng.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/cuoc-dua-4g-va-tham-vong-lat-nguoc-the-co-cua-cac-nha-mang-3534355.html" title="Cuộc đua 4G và tham vọng lật ngược thế cờ của các nhà mạng">Cuộc đua 4G và tham vọng lật ngược thế cờ của các nhà mạng</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/chi-voi-slogan-ban-doan-duoc-bao-nhieu-thuong-hieu-noi-tieng-3546849.html" title="Chỉ với slogan, bạn đoán được bao nhiêu thương hiệu nổi tiếng?">Chỉ với slogan, bạn đoán được bao nhiêu thương hiệu nổi tiếng?</a></strong></li></ul>                                            </div>
+                </li>
+                                <li>
+                    <h3 class="title_news">
+                        <a  href="http://vnexpress.net/interactive/2017/phu-my-hung" title="Điểm đặc biệt ở căn hộ bán chạy nhất của Phú Mỹ Hưng" class="txt_link">Điểm đặc biệt ở căn hộ bán chạy nhất của Phú Mỹ Hưng</a>
+                                            </h3>
+                    <div class="block_image_news width_common">
+                                                    <div class="thumb">
+                                <a  href="http://vnexpress.net/interactive/2017/phu-my-hung" title="Điểm đặc biệt ở căn hộ bán chạy nhất của Phú Mỹ Hưng" class="txt_link">
+                                    <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/10/hinhvitri25461475034469-1489138647_180x108.jpg" alt="Điểm đặc biệt ở căn hộ bán chạy nhất của Phú Mỹ Hưng">
+                                                                    </a>
+                            </div>
+                                                    <div class="news_lead">Căn hộ ở Saigon South Residences có giá từ 2 tỷ đồng, quy tụ nhiều tiện ích chưa từng xuất hiện ở những dự án hạng sang của Phú Mỹ Hưng và là dòng sản phẩm bán chạy nhất từ trước đến nay của đại gia khu Nam Sài Gòn.</div>
+                        <ul class="list_news_dot_3x3"><li><strong><a href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/phu-my-hung-lan-dau-ban-can-ho-gia-2-ty-dong-3475332.html" title="Phú Mỹ Hưng lần đầu bán căn hộ giá 2 tỷ đồng">Phú Mỹ Hưng lần đầu bán căn hộ giá 2 tỷ đồng</a> / <a href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/du-an-hut-khach-nhat-2016-cua-phu-my-hung-da-ban-tren-1-000-can-3529019.html" title="Dự án hút khách nhất 2016 của Phú Mỹ Hưng đã bán trên 1.000 căn">Dự án hút khách nhất 2016 của Phú Mỹ Hưng đã bán trên 1.000 căn</a></strong></li></ul>                                            </div>
+                </li>
+                        </ul>
+        <div class="bottom_pagination width_common">
+                            <div class="view_date_time" id="calendar"></div>
+                <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (typeof(CalendarParser) != 'undefined') {
+                            CalendarParser.calendar_parser_id = 'calendar';
+                            CalendarParser.calendar_parser_parent = 1003159;
+                            CalendarParser.calendar_parser_child = 0;
+                            CalendarParser.calendar_parser_child_recursive = 0;
+                            CalendarParser.parse();
+                        }
+                    });
+                </script>
+                            <div class="pagination_news right"><div id="pagination"><a class="pagination_btn pa_prev" href="http://kinhdoanh.vnexpress.net/page/3.html"><i class="ic ic-caret-left"></i></a><a href="http://kinhdoanh.vnexpress.net/page/2.html">2</a><a href="http://kinhdoanh.vnexpress.net/page/3.html">3</a><a class="active" href="javascript:void(0)">4</a><a href="http://kinhdoanh.vnexpress.net/page/5.html">5</a><a href="http://kinhdoanh.vnexpress.net/page/6.html">6</a><a class="pagination_btn pa_next" href="http://kinhdoanh.vnexpress.net/page/5.html"><i class="ic ic-caret-right"></i></a></div></div>
+        </div>
+    </div>
+    </div>
+    <div id="col_2">
+            <div class="box_category width_common hidden320">
+        <div class="banner_300x250">
+            <script type="text/javascript">try {Poly_Large(1);}catch(ex){};</script>        </div>
+    </div>
+    <div class="box_category width_common hidden320">
+        <div class="banner_300x120">
+            <script type="text/javascript">try {Poly_Large(2);}catch(ex){};</script>        </div>
+    </div>
+    <div class="box_category width_common" id="thitruong_new">
+        <div id="giavang">
+            <div class="title_box_category width_common">
+                <h2 class="txt_main_category"><a>Giá vàng</a></h2>
+            </div>
+            <div class="content_box_category width_common">
+                <div class="block_giavang width_common">
+                    <div class="width_common txt_giavang">
+                        <p>
+                            <span class="right txt_10">ĐVT: tr.đ/lượng</span>
+                        </p>
+                    </div>
+                    <div id="calc_giavang" class="width_common">
+                        <table cellspacing="0" cellpadding="0" border="0" class="tb_giavang" id="box_gold">
+                            <tbody>
+                                <tr>
+                                    <td>Loại</td>
+                                    <td>Mua</td>
+                                    <td>Bán</td>
+                                </tr>
+                                                                    <tr>
+                                        <td>SJC</td>
+                                        <td class="txt_right">36,600</td>
+                                        <td class="txt_right">36,700</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td>Nhẫn tròn H.T.V</td>
+                                        <td class="txt_right">33,960</td>
+                                        <td class="txt_right">34,310</td>
+                                    </tr>
+                                                                </tbody>
+                        </table>
+                    </div>
+                    <div class="block_nguon">
+                        <p>
+                            <a rel="nofollow" class="left" href="http://www.doji.vn/" target="_blank" title="www.doji.vn"><img src="http://st.f1.kinhdoanh.vnecdn.net/i/v4/graphics/img_doji.png" alt="www.doji.vn" /></a>
+                            <a rel="nofollow" class="left" href="https://tpb.vn/" target="_blank" title="vn"><img src="http://st.f1.kinhdoanh.vnecdn.net/i/v4/graphics/img_tienphongbank.png" alt="tpb.vn" /></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tigia">
+            <div class="title_box_category width_common">
+                <h2 class="txt_main_category"><a>Tỷ giá</a></h2>
+            </div>
+            <div class="content_box_category width_common">
+                <div class="block_tygia width_common">
+                    <div class="width_common txt_giavang">
+                        <p>
+                            <span class="right txt_10">ĐVT:đồng</span>
+                        </p>
+                    </div>
+                    <div id="calc_tygia" class="width_common scroll-pane">
+                        <div class="content_scoller width_common">
+                            <table cellpadding="0" cellspacing="0" border="0" class="tb_giavang" id="box_exchange">
+                                <tbody>
+                                    <tr>
+                                        <td width="50">Loại</td>
+                                        <td width="60">Mua</td>
+                                        <td width="60">Bán</td>
+                                    </tr>
+                                                                            <tr>
+                                            <td>USD</td>
+                                            <td>22,750</td>
+                                            <td>22,820</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>EUR</td>
+                                            <td>24,405</td>
+                                            <td>24,667</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>GBP</td>
+                                            <td>28,073</td>
+                                            <td>28,372</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>CNY</td>
+                                            <td>3,271</td>
+                                            <td>3,327</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>JPY</td>
+                                            <td>200</td>
+                                            <td>202</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>NOK</td>
+                                            <td>2,682</td>
+                                            <td>2,717</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>DKK</td>
+                                            <td>3,282</td>
+                                            <td>3,324</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>AUD</td>
+                                            <td>17,441</td>
+                                            <td>17,632</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>HKD</td>
+                                            <td>2,918</td>
+                                            <td>2,956</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>SGD</td>
+                                            <td>16,170</td>
+                                            <td>16,380</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>KRW</td>
+                                            <td>19</td>
+                                            <td>21</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>MYR</td>
+                                            <td>5,109</td>
+                                            <td>5,177</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>LAK</td>
+                                            <td>2</td>
+                                            <td>2</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>THB</td>
+                                            <td>646</td>
+                                            <td>662</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>NZD</td>
+                                            <td>15,877</td>
+                                            <td>16,084</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>CHF</td>
+                                            <td>22,771</td>
+                                            <td>23,067</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>CAD</td>
+                                            <td>17,002</td>
+                                            <td>17,222</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>SEK</td>
+                                            <td>2,577</td>
+                                            <td>2,611</td>
+                                        </tr>
+                                                                        </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            /* Scroll table ty gia in box thitruong_new */
+            if ($("#calc_giavang").height() > 30) {
+                $("#calc_tygia").css('height', $("#calc_giavang").css('height'));
+            }
+            if ($('#thitruong_new .block_tygia .scroll-pane').size() > 0) {
+                $('#thitruong_new .block_tygia .scroll-pane').niceScroll('#thitruong_new .block_tygia .content_scoller', { touchbehavior: false, autohidemode: false });
+            }
+            $(window).resize(function(){
+                if ($("#calc_giavang").height() > 30) {
+                    $("#calc_tygia").css('height', $("#calc_giavang").css('height'));
+                }
+                $('#thitruong_new .block_tygia .scroll-pane').getNiceScroll().resize();
+            });
+        });
+    </script>
+    <!--
+Box 300: Các tin chỉ hiển thị title
+//-->
+    <div id="xemnhieunhat" class="box_category width_common">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a href="javascript:;">Xem nhiều nhất</a></h2>
+        </div>
+        <div class="content_box_category width_common">
+            <ul class="list_dot_3x3_xem_nhieu">
+                                    <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_1', 'KD');" class="txt_link" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/mit-khong-hat-gia-cao-hut-khach-cua-lao-nong-mien-tay-3555936.html" title="Mít không hạt giá cao hút khách của lão nông miền Tây">Mít không hạt giá cao hút khách của lão nông miền Tây</a>
+                            <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/mit-khong-hat-gia-cao-hut-khach-cua-lao-nong-mien-tay-3555936.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555936"></span></a>                        </h2>
+                    </li>
+                                        <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_2', 'KD');" class="txt_link" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ong-chu-vinasun-ban-buoi-tren-taxi-3556324.html" title="Ông chủ Vinasun bán bưởi trên taxi">Ông chủ Vinasun bán bưởi trên taxi</a>
+                            <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ong-chu-vinasun-ban-buoi-tren-taxi-3556324.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556324"></span></a>                        </h2>
+                    </li>
+                                        <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_3', 'KD');" class="txt_link" href="http://vnexpress.net/projects/nguoi-viet-chi-hang-ty-dola-cho-my-pham-nhap-khau-3556278/index.html" title="Người Việt chi hàng tỷ đôla cho mỹ phẩm nhập khẩu">Người Việt chi hàng tỷ đôla cho mỹ phẩm nhập khẩu</a>
+                            <a class="icon_commend" href="http://vnexpress.net/projects/nguoi-viet-chi-hang-ty-dola-cho-my-pham-nhap-khau-3556278/index.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556278"></span></a>                        </h2>
+                    </li>
+                                        <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_4', 'KD');" class="txt_link" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/mot-khach-hang-trung-jackpot-xo-so-43-ty-dong-3557036.html" title="Một khách hàng trúng Jackpot xổ số 43 tỷ đồng">Một khách hàng trúng Jackpot xổ số 43 tỷ đồng</a>
+                            <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/mot-khach-hang-trung-jackpot-xo-so-43-ty-dong-3557036.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3557036"></span></a>                        </h2>
+                    </li>
+                                        <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_5', 'KD');" class="txt_link" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/dai-gia-van-tai-ban-xe-cam-co-resort-bu-lo-bat-dong-san-3555706.html" title="Đại gia vận tải bán xe, cầm cố resort bù lỗ bất động sản">Đại gia vận tải bán xe, cầm cố resort bù lỗ bất động sản</a>
+                            <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/dai-gia-van-tai-ban-xe-cam-co-resort-bu-lo-bat-dong-san-3555706.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555706"></span></a>                        </h2>
+                    </li>
+                                        <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_6', 'KD');" class="txt_link" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/ban-co-biet-nhung-nham-lan-lam-mat-oan-tien-ty-khi-dau-tu-dia-oc-3556090.html" title="Bạn có biết những nhầm lẫn làm mất oan tiền tỷ khi đầu tư địa ốc?">Bạn có biết những nhầm lẫn làm mất oan tiền tỷ khi đầu tư địa ốc?</a>
+                            <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/ban-co-biet-nhung-nham-lan-lam-mat-oan-tien-ty-khi-dau-tu-dia-oc-3556090.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556090"></span></a>                        </h2>
+                    </li>
+                                        <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_7', 'KD');" class="txt_link" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/gia-dinh-ba-ho-thi-kim-thoa-tung-mua-co-phan-dien-quang-theo-co-che-thoa-thuan-3556413.html" title="Gia đình bà Hồ Thị Kim Thoa từng mua cổ phần Điện Quang theo cơ chế thỏa thuận">Gia đình bà Hồ Thị Kim Thoa từng mua cổ phần Điện Quang theo cơ chế thỏa thuận</a>
+                            <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/gia-dinh-ba-ho-thi-kim-thoa-tung-mua-co-phan-dien-quang-theo-co-che-thoa-thuan-3556413.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556413"></span></a>                        </h2>
+                    </li>
+                                        <li>
+                        <h2 class="title_news">
+                            <a onclick="ga('t0.send', 'event', 'Box_XemNhieuNhat', 'Clk_Item_8', 'KD');" class="txt_link" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan-3556922.html" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a>
+                            <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan-3556922.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556922"></span></a>                        </h2>
+                    </li>
+                                </ul>
+        </div>
+    </div>
+    <div class="box_category width_common hidden320">
+    <div class="banner_300x250">
+        <script type="text/javascript">try {Poly_Large(3);}catch(ex){};</script>    </div>
+</div><div class="box_category width_common hidden320"><div class="width_common" id="box_wrv">
+	<div data-cate-id="1003159" data-component="box-widget-raovat" data-mobile="true">
+		&nbsp;</div>
+</div>
+<script type="text/javascript">$('#box_wrv').show().parent().show();</script></div><!--
+Box 300: Tin top có ảnh thumb title, các tin còn lại hiển thị title
+//-->
+    <div id="doanhnghiep" class="box_category width_common ">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a onclick="ga('t0.send', 'event', 'Box_DoanhNghiep', 'Clk_Title_Box', 'KD');" href="/tin-tuc/doanh-nghiep">Doanh nghiệp</a></h2>
+                            <div class="block_category_child">
+                                            <a onclick="ga('t0.send', 'event', 'Box_DoanhNghiep', 'Sub_Title_Box_1', 'KD');" href="/tin-tuc/doanh-nghiep/doanh-nghiep-viet/">Doanh nghiệp viết</a>
+                                        </div>
+                            <a href="/tin-tuc/doanh-nghiep/" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+        </div>
+        <div class="content_box_category width_common">
+                        <h2 class="title_news">
+                <a onclick="ga('t0.send', 'event', 'Box_DoanhNghiep', 'Clk_F_Item', 'KD');" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan-3556922.html" class="txt_link">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan-3556922.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556922"></span></a>            </h2>
+            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a onclick="ga('t0.send', 'event', 'Box_DoanhNghiep', 'Clk_F_Item', 'KD');" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan-3556922.html" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân">
+                                <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/17/veso-1489739708-6713-1489739720_180x108.jpg" alt="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân" />
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan-3556922.html">Trước giải độc đắc 43 tỷ đồng được tìm ra ngày 17/3, đã có 11 tấm vé khác mang về giải thưởng từ 10 tỷ đến gần 76 tỷ đồng cho các chủ nhân.</div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_DoanhNghiep', 'Clk_Item_1', 'KD');" title="Một khách hàng trúng Jackpot xổ số 43 tỷ đồng" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/mot-khach-hang-trung-jackpot-xo-so-43-ty-dong-3557036.html">Một khách hàng trúng Jackpot xổ số 43 tỷ đồng</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/mot-khach-hang-trung-jackpot-xo-so-43-ty-dong-3557036.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3557036"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_DoanhNghiep', 'Clk_Item_2', 'KD');" title="Đại gia thủy sản Seaprodex lao vào bất động sản" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san-3556911.html">Đại gia thủy sản Seaprodex lao vào bất động sản</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san-3556911.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556911"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_DoanhNghiep', 'Clk_Item_3', 'KD');" title="Ông chủ Vinasun bán bưởi trên taxi" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ong-chu-vinasun-ban-buoi-tren-taxi-3556324.html">Ông chủ Vinasun bán bưởi trên taxi</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/ong-chu-vinasun-ban-buoi-tren-taxi-3556324.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556324"></span></a>                                </h2>
+                            </li>
+                                                </ul>
+                                </div>
+                    </div>
+    </div>
+    <div class="box_category width_common hidden320"><div class="ad_wrapper_protection"><iframe class="ad_frame_protection" allowtransparency="true" frameborder="0" height="300px" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="http://kinhdoanh.vnexpress.net/widget/startup?type=1" vspace="0" width="300px"></iframe></div></div><!--
+Box 300: Tin top có ảnh thumb title, các tin còn lại hiển thị title
+//-->
+    <div id="batdongsan" class="box_category width_common ">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a onclick="ga('t0.send', 'event', 'Box_BatDongSan', 'Clk_Title_Box', 'KD');" href="/tin-tuc/bat-dong-san">Bất động sản</a></h2>
+                            <div class="block_category_child">
+                                            <a onclick="ga('t0.send', 'event', 'Box_BatDongSan', 'Sub_Title_Box_1', 'KD');" href="/tin-tuc/bat-dong-san/du-an/">Dự án</a>
+                                        </div>
+                            <a href="/tin-tuc/bat-dong-san/" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+        </div>
+        <div class="content_box_category width_common">
+                        <h2 class="title_news">
+                <a onclick="ga('t0.send', 'event', 'Box_BatDongSan', 'Clk_F_Item', 'KD');" title="Nhà ở xã hội mở bán gần chục lần vẫn ế" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/nha-o-xa-hoi-mo-ban-gan-chuc-lan-van-e-3556858.html" class="txt_link">Nhà ở xã hội mở bán gần chục lần vẫn ế</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/nha-o-xa-hoi-mo-ban-gan-chuc-lan-van-e-3556858.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556858"></span></a>            </h2>
+            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a onclick="ga('t0.send', 'event', 'Box_BatDongSan', 'Clk_F_Item', 'KD');" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/nha-o-xa-hoi-mo-ban-gan-chuc-lan-van-e-3556858.html" title="Nhà ở xã hội mở bán gần chục lần vẫn ế">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/17/nha-xa-hoi-4401-1489736775_180x108.jpg" alt="Nhà ở xã hội mở bán gần chục lần vẫn ế" />
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/nha-o-xa-hoi-mo-ban-gan-chuc-lan-van-e-3556858.html">Nhiều dự án nhà ở xã hội có vị trí xa trung tâm nên dù mở bán suốt 3 năm nay, chỉ một phần ba số căn hộ được giao dịch.</div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_BatDongSan', 'Clk_Item_1', 'KD');" title="Đề xuất cho sở hữu officetel lâu dài thay vì 50 năm" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/de-xuat-cho-so-huu-officetel-lau-dai-thay-vi-50-nam-3557040.html">Đề xuất cho sở hữu officetel lâu dài thay vì 50 năm</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/de-xuat-cho-so-huu-officetel-lau-dai-thay-vi-50-nam-3557040.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3557040"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_BatDongSan', 'Clk_Item_2', 'KD');" title="Bạn có biết những nhầm lẫn làm mất oan tiền tỷ khi đầu tư địa ốc?" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/ban-co-biet-nhung-nham-lan-lam-mat-oan-tien-ty-khi-dau-tu-dia-oc-3556090.html">Bạn có biết những nhầm lẫn làm mất oan tiền tỷ khi đầu tư địa ốc?</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/ban-co-biet-nhung-nham-lan-lam-mat-oan-tien-ty-khi-dau-tu-dia-oc-3556090.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556090"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_BatDongSan', 'Clk_Item_3', 'KD');" title="Dự án 1.000 tỷ đồng Gold Field Mỹ Đình ưu đãi cho khách hàng" href="http://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/du-an-1-000-ty-dong-gold-field-my-dinh-uu-dai-cho-khach-hang-3556604.html">Dự án 1.000 tỷ đồng Gold Field Mỹ Đình ưu đãi cho khách hàng</a>
+                                                                    </h2>
+                            </li>
+                                                </ul>
+                                </div>
+                    </div>
+    </div>
+    <!--
+Box 300: Tin top có ảnh thumb title, các tin còn lại hiển thị title
+//-->
+    <div id="ebank" class="box_category width_common ">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Clk_Title_Box', 'KD');" href="/tin-tuc/ebank">Ebank</a></h2>
+                            <div class="block_category_child">
+                                            <a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Sub_Title_Box_1', 'KD');" href="/tin-tuc/ebank/ngan-hang/">Ngân hàng</a>
+                                                <a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Sub_Title_Box_2', 'KD');" href="/tin-tuc/ebank/thanh-toan-dien-tu/">Thanh toán điện tử</a>
+                                        </div>
+                            <a href="/tin-tuc/ebank/" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+        </div>
+        <div class="content_box_category width_common">
+                        <h2 class="title_news">
+                <a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Clk_F_Item', 'KD');" title="Tỷ giá USD giảm mạnh sau khi Fed tăng lãi suất" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ty-gia-usd-giam-manh-sau-khi-fed-tang-lai-suat-3556452.html" class="txt_link">Tỷ giá USD giảm mạnh sau khi Fed tăng lãi suất</a>
+                <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ty-gia-usd-giam-manh-sau-khi-fed-tang-lai-suat-3556452.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556452"></span></a>            </h2>
+            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Clk_F_Item', 'KD');" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ty-gia-usd-giam-manh-sau-khi-fed-tang-lai-suat-3556452.html" title="Tỷ giá USD giảm mạnh sau khi Fed tăng lãi suất">
+                                <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/16/dolar-2-final-9515-1419497346-3360-1839-1489661216_180x108.jpg" alt="Tỷ giá USD giảm mạnh sau khi Fed tăng lãi suất" />
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ty-gia-usd-giam-manh-sau-khi-fed-tang-lai-suat-3556452.html">Mỗi USD tại các ngân hàng thương mại đã mất 50-60 đồng trong ngày 16/3 sau khi Fed có quyết định nâng lãi suất 0,25%.</div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Clk_Item_1', 'KD');" title="Bạn đã sử dụng thẻ tín dụng đúng cách?" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/thanh-toan-dien-tu/ban-da-su-dung-the-tin-dung-dung-cach-3555056.html">Bạn đã sử dụng thẻ tín dụng đúng cách?</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/thanh-toan-dien-tu/ban-da-su-dung-the-tin-dung-dung-cach-3555056.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555056"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Clk_Item_2', 'KD');" title="Nợ xấu ACB thấp nhất 5 năm" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/no-xau-acb-thap-nhat-5-nam-3556151.html">Nợ xấu ACB thấp nhất 5 năm</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/no-xau-acb-thap-nhat-5-nam-3556151.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556151"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_Ebank', 'Clk_Item_3', 'KD');" title="Hàng trăm chuyến du lịch châu Á dành cho chủ thẻ tín dụng SCB" href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/hang-tram-chuyen-du-lich-chau-a-danh-cho-chu-the-tin-dung-scb-3555030.html">Hàng trăm chuyến du lịch châu Á dành cho chủ thẻ tín dụng SCB</a>
+                                                                    </h2>
+                            </li>
+                                                </ul>
+                                </div>
+                    </div>
+    </div>
+    <div class="box_category width_common hidden320">
+    <div class="banner_300x250">
+        <script type="text/javascript">try {Poly_Large(4);}catch(ex){};</script>    </div>
+</div><!--
+Box 300: Tin top có ảnh thumb title, các tin còn lại hiển thị title
+//-->
+    <div id="thuongmaidientu" class="box_category width_common ">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a onclick="ga('t0.send', 'event', 'Box_ThuongMaiDienTu', 'Clk_Title_Box', 'KD');" href="/tin-tuc/thuong-mai-dien-tu">Thương mại điện tử</a></h2>
+                            <div class="block_category_child">
+                                    </div>
+                            <a href="/tin-tuc/thuong-mai-dien-tu/" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+        </div>
+        <div class="content_box_category width_common">
+                        <h2 class="title_news">
+                <a onclick="ga('t0.send', 'event', 'Box_ThuongMaiDienTu', 'Clk_F_Item', 'KD');" title="Khiếu nại về giao dịch trực tuyến ở Trung Quốc gia tăng" href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/tin-quoc-te/khieu-nai-ve-giao-dich-truc-tuyen-o-trung-quoc-gia-tang-3555699.html" class="txt_link">Khiếu nại về giao dịch trực tuyến ở Trung Quốc gia tăng</a>
+                            </h2>
+            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a onclick="ga('t0.send', 'event', 'Box_ThuongMaiDienTu', 'Clk_F_Item', 'KD');" href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/tin-quoc-te/khieu-nai-ve-giao-dich-truc-tuyen-o-trung-quoc-gia-tang-3555699.html" title="Khiếu nại về giao dịch trực tuyến ở Trung Quốc gia tăng">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/15/complaint-2-3401-1489563444_180x108.jpg" alt="Khiếu nại về giao dịch trực tuyến ở Trung Quốc gia tăng" />
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/tin-quoc-te/khieu-nai-ve-giao-dich-truc-tuyen-o-trung-quoc-gia-tang-3555699.html">Số vụ khiếu nại liên quan đến thương mại điện tử trong năm 2016 tăng gần 15% so với năm trước, theo báo cáo của Trung tâm Nghiên cứu Thương mại điện tử Trung Quốc - CECRC.</div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_ThuongMaiDienTu', 'Clk_Item_1', 'KD');" title="Thương hiệu châu Âu chậm thích ứng xu hướng trực tuyến ở Trung Quốc" href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/tin-quoc-te/thuong-hieu-chau-au-cham-thich-ung-xu-huong-truc-tuyen-o-trung-quoc-3555760.html">Thương hiệu châu Âu chậm thích ứng xu hướng trực tuyến ở Trung Quốc</a>
+                                                                    </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_ThuongMaiDienTu', 'Clk_Item_2', 'KD');" title="Bizweb: 'Doanh thu một số shop thời trang trực tuyến tăng trưởng chậm'" href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/bizweb-doanh-thu-mot-so-shop-thoi-trang-truc-tuyen-tang-truong-cham-3554368.html">Bizweb: 'Doanh thu một số shop thời trang trực tuyến tăng trưởng chậm'</a>
+                                                                    </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a onclick="ga('t0.send', 'event', 'Box_ThuongMaiDienTu', 'Clk_Item_3', 'KD');" title="Giấc mơ kinh doanh thời trang của đôi bạn ngành luật" href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/giac-mo-kinh-doanh-thoi-trang-cua-doi-ban-nganh-luat-3551122.html">Giấc mơ kinh doanh thời trang của đôi bạn ngành luật</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/thuong-mai-dien-tu/giac-mo-kinh-doanh-thoi-trang-cua-doi-ban-nganh-luat-3551122.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3551122"></span></a>                                </h2>
+                            </li>
+                                                </ul>
+                                </div>
+                    </div>
+    </div>
+    <!--
+Box 300: Tin top có ảnh thumb title, các tin còn lại hiển thị title
+//-->
+    <div id="khoinghiep" class="box_category width_common ">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a  href="/tin-tuc/khoi-nghiep">Khởi nghiệp</a></h2>
+                            <div class="block_category_child">
+                                    </div>
+                            <a href="/tin-tuc/khoi-nghiep/" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+        </div>
+        <div class="content_box_category width_common">
+                        <h2 class="title_news">
+                <a  title="6 xu hướng FinTech trong năm 2017" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/6-xu-huong-fintech-trong-nam-2017-3555248.html" class="txt_link">6 xu hướng FinTech trong năm 2017</a>
+                <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/6-xu-huong-fintech-trong-nam-2017-3555248.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3555248"></span></a>            </h2>
+            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/6-xu-huong-fintech-trong-nam-2017-3555248.html" title="6 xu hướng FinTech trong năm 2017">
+                                <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/14/fintech-1489481554-8054-1489482178_180x108.jpg" alt="6 xu hướng FinTech trong năm 2017" />
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/6-xu-huong-fintech-trong-nam-2017-3555248.html">Không chỉ riêng Việt Nam, sự phát triển của FinTech trên thế giới cũng mới trong giai đoạn đầu và đang tiếp tục định hình với 6 xu hướng chính trong năm 2017.</div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a  title="Thạc sĩ Stanford bỏ tập đoàn nước ngoài để tự khởi nghiệp" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/thac-si-stanford-bo-tap-doan-nuoc-ngoai-de-tu-khoi-nghiep-3550525.html">Thạc sĩ Stanford bỏ tập đoàn nước ngoài để tự khởi nghiệp</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/thac-si-stanford-bo-tap-doan-nuoc-ngoai-de-tu-khoi-nghiep-3550525.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3550525"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a  title="Doanh nghiệp lo ngại hình sự hóa sai phạm cung cấp dịch vụ trung gian thanh toán" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/doanh-nghiep-lo-ngai-hinh-su-hoa-sai-pham-cung-cap-dich-vu-trung-gian-thanh-toan-3550200.html">Doanh nghiệp lo ngại hình sự hóa sai phạm cung cấp dịch vụ trung gian thanh toán</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/doanh-nghiep-lo-ngai-hinh-su-hoa-sai-pham-cung-cap-dich-vu-trung-gian-thanh-toan-3550200.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3550200"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a  title="5 xu hướng khởi nghiệp đang thịnh hành" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/5-xu-huong-khoi-nghiep-dang-thinh-hanh-3549922.html">5 xu hướng khởi nghiệp đang thịnh hành</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/5-xu-huong-khoi-nghiep-dang-thinh-hanh-3549922.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3549922"></span></a>                                </h2>
+                            </li>
+                                                </ul>
+                                </div>
+                    </div>
+    </div>
+    <div class="box_category width_common hidden320">
+    <div class="banner_300x250">
+        <script type="text/javascript">try {Poly_Large(5);}catch(ex){};</script>    </div>
+</div><!--
+Box 300: Tin top có ảnh thumb title, các tin còn lại hiển thị title
+//-->
+    <div id="tiencuatoi" class="box_category width_common ">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a  href="/tin-tuc/tien-cua-toi">Tiền của tôi</a></h2>
+                            <div class="block_category_child">
+                                    </div>
+                            <a href="/tin-tuc/tien-cua-toi/" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+        </div>
+        <div class="content_box_category width_common">
+                        <h2 class="title_news">
+                <a  title="10 bước thực tế để trở nên giàu có" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/10-buoc-thuc-te-de-tro-nen-giau-co-3554572.html" class="txt_link">10 bước thực tế để trở nên giàu có</a>
+                <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/10-buoc-thuc-te-de-tro-nen-giau-co-3554572.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3554572"></span></a>            </h2>
+            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/10-buoc-thuc-te-de-tro-nen-giau-co-3554572.html" title="10 bước thực tế để trở nên giàu có">
+                                <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/13/giau-1489402588_180x108.jpeg" alt="10 bước thực tế để trở nên giàu có" />
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/10-buoc-thuc-te-de-tro-nen-giau-co-3554572.html">Hãy mua nhà riêng, hạn chế các thói quen xấu và chỉ đổ tiền vào những gì mình nắm rõ.</div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a  title="Kinh nghiệm mở shop quần áo nam?" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/kinh-nghiem-mo-shop-quan-ao-nam-3547188.html">Kinh nghiệm mở shop quần áo nam?</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/kinh-nghiem-mo-shop-quan-ao-nam-3547188.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3547188"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a  title="Người Việt trẻ kiếm bạc tỷ qua Internet" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/nguoi-viet-tre-kiem-bac-ty-qua-internet-3549253.html">Người Việt trẻ kiếm bạc tỷ qua Internet</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/nguoi-viet-tre-kiem-bac-ty-qua-internet-3549253.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3549253"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a  title="Tôi đã gấp đôi thu nhập trong 2 tháng như thế nào?" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/toi-da-gap-doi-thu-nhap-trong-2-thang-nhu-the-nao-3548224.html">Tôi đã gấp đôi thu nhập trong 2 tháng như thế nào?</a>
+                                    <a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/toi-da-gap-doi-thu-nhap-trong-2-thang-nhu-the-nao-3548224.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3548224"></span></a>                                </h2>
+                            </li>
+                                                </ul>
+                                </div>
+                    </div>
+    </div>
+    <!--
+Box 300: Tin top có ảnh thumb title, các tin còn lại hiển thị title
+//-->
+    <div id="quocte" class="box_category width_common ">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a  href="/tin-tuc/quoc-te">Quốc tế</a></h2>
+                            <div class="block_category_child">
+                                    </div>
+                            <a href="/tin-tuc/quoc-te/" class="block_arrow_title"><i class="ic ic-caret-right"></i></a>
+        </div>
+        <div class="content_box_category width_common">
+                        <h2 class="title_news">
+                <a  title="Chợ vàng bán theo ký ở Dubai" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/cho-vang-ban-theo-ky-o-dubai-3557007.html" class="txt_link">Chợ vàng bán theo ký ở Dubai</a>
+                <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/cho-vang-ban-theo-ky-o-dubai-3557007.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3557007"></span></a>            </h2>
+            <div class="block_image_news width_common">
+                                        <div class="thumb">
+                            <a  href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/cho-vang-ban-theo-ky-o-dubai-3557007.html" title="Chợ vàng bán theo ký ở Dubai">
+                                <img src="http://img.f26.kinhdoanh.vnecdn.net/2017/03/17/vangJPG-1489746358-8690-1489746409_180x108.jpg" alt="Chợ vàng bán theo ký ở Dubai" />
+                                                            </a>
+                        </div>
+                                        <div class="news_lead" data-mobile-href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/cho-vang-ban-theo-ky-o-dubai-3557007.html">Chỉ rộng khoảng nửa kilomet vuông nhưng Dubai Gold Souk là một trong những chợ vàng lớn nhất thế giới, bày bán ngập tràn các loại trang sức bằng vàng, bạc, bạch kim… được bán theo ký.</div>
+                                    <ul class="list_news_dot_3x3_300">
+                                                    <li>
+                                <h2>
+                                    <a  title="Dọn tuyết kiếm triệu USD ở Mỹ" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/don-tuyet-kiem-trieu-usd-o-my-3556475.html">Dọn tuyết kiếm triệu USD ở Mỹ</a>
+                                    <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/don-tuyet-kiem-trieu-usd-o-my-3556475.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556475"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a  title="Bánh burger 10.000 USD ở Dubai" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/banh-burger-10-000-usd-o-dubai-3556658.html">Bánh burger 10.000 USD ở Dubai</a>
+                                    <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/banh-burger-10-000-usd-o-dubai-3556658.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556658"></span></a>                                </h2>
+                            </li>
+                                                        <li>
+                                <h2>
+                                    <a  title="Bàn làm việc bừa bộn thì năng suất cao hơn" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/ban-lam-viec-bua-bon-thi-nang-suat-cao-hon-3556377.html">Bàn làm việc bừa bộn thì năng suất cao hơn</a>
+                                    <i class="ic ic-video"></i>&nbsp;<a class="icon_commend" href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/ban-lam-viec-bua-bon-thi-nang-suat-cao-hon-3556377.html#box_comment" style="white-space: nowrap; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3556377"></span></a>                                </h2>
+                            </li>
+                                                </ul>
+                                </div>
+                    </div>
+    </div>
+    <div class="box_category width_common hidden320"><div class="width_common" id="nguoigiau">
+	<div class="title">
+		<img align="absmiddle" src="http://img.f25.kinhdoanh.vnecdn.net/2016/01/03/a551e9727b3c801a84fcf739f7436a4d.jpg"></div>
+	<div class="content">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="tieude"><td>
+						Top 100</td>
+					<td>
+						Top 50 ph&#7909; n&#7919;</td>
+					<td>
+						Top 30 gia &#273;&igrave;nh</td>
+				</tr></tbody></table><div class="scroll-pane">
+			<div class="content_scoller width_common">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr class="topnew"><td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2015/top100" target="_blank">N&#259;m 2015</a></td>
+							<td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2015/top50" target="_blank">N&#259;m 2015</a></td>
+							<td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2015/top30" target="_blank">N&#259;m 2015</a></td>
+						</tr><tr><td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2014/top100" target="_blank">N&#259;m 2014</a></td>
+							<td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2014/top50" target="_blank">N&#259;m 2014</a></td>
+							<td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2014/top30" target="_blank">N&#259;m 2014</a></td>
+						</tr><tr><td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2013/top100/" target="_blank">N&#259;m 2013</a></td>
+							<td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2013/top50/" target="_blank">N&#259;m 2013</a></td>
+							<td>
+								<a href="http://vnexpress.net/su-kien/top-rich-2013/top30/" target="_blank">N&#259;m 2013</a></td>
+						</tr><tr><td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2012/top100/" target="_blank">N&#259;m 2012</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2012/top50/" target="_blank">N&#259;m 2012</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2012/top30/" target="_blank">N&#259;m 2012</a></td>
+						</tr><tr><td class="first">
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2011/top100/" target="_blank">N&#259;m 2011</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2011/top100/" target="_blank">N&#259;m 2001</a></td>
+							<td class="last">
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2011/top100/" target="_blank">N&#259;m 2011</a></td>
+						</tr><tr><td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2010/top100/" target="_blank">N&#259;m 2010</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2010/top100/" target="_blank">N&#259;m 2010</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2010/top100/" target="_blank">N&#259;m 2010</a></td>
+						</tr><tr><td class="first">
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2009/top100/" target="_blank">N&#259;m 2009</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2009/top100/" target="_blank">N&#259;m 2009</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2009/top100/" target="_blank">N&#259;m 2009</a></td>
+						</tr><tr><td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2008/top100/" target="_blank">N&#259;m 2008</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2008/top100/" target="_blank">N&#259;m 2008</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2008/top100/" target="_blank">N&#259;m 2008</a></td>
+						</tr><tr><td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2007/top100/" target="_blank">N&#259;m 2007</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2007/top100/" target="_blank">N&#259;m 2007</a></td>
+							<td>
+								&nbsp;</td>
+						</tr><tr><td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2006/top100/" target="_blank">N&#259;m 2006</a></td>
+							<td>
+								<a href="http://vnexpress.net/customize/chung-khoan/top/2006/top100/" target="_blank">N&#259;m 2006</a></td>
+							<td>
+								&nbsp;</td>
+						</tr></tbody></table></div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+//$.each($('#nguoigiau tr:gt(1)'),function(i, o) {if (i % 2 == 0) {$(o).addClass('bg_blue ');}});
+$('#nguoigiau .scroll-pane').niceScroll('#nguoigiau .content_scoller', { touchbehavior: false, autohidemode: false });
+</script></div><div class="box_category width_common hidden320"><div class="ad_wrapper_protection"><iframe class="ad_frame_protection" allowtransparency="true" frameborder="0" height="250px" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="http://sohoa.vnexpress.net/widget/index/type/1" vspace="0" width="300px"></iframe></div></div>    </div>
+    <div id="col_3"><div class="box_category width_common hidden320">
+    <div class="banner_160x600 left">
+        <script type="text/javascript">try {Poly_Big(1);}catch(ex){};</script>    </div>
+</div><!--
+Box 160: Các tin chỉ hiển thị title
+//-->
+    <div id="khuyenmai" class="box_category width_common">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a href="/tin-tuc/hang-hoa/khuyen-mai">Khuyến mãi</a></h2>
+        </div>
+        <div class="content_box_category width_common">
+            <ul class="list_new_160 make_class_end">
+                                    <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/co-hoi-mua-dem-nhat-ban-voi-gia-149-000-dong-tai-dem-vn-3556474.html" title="Cơ hội mua đệm Nhật Bản với giá 149.000 đồng tại Dem.vn">Cơ hội mua đệm Nhật Bản với giá 149.000 đồng tại Dem.vn</a>
+                                                    </h2>
+                    </li>
+                                        <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/thien-hoa-uu-dai-lon-cac-san-pham-dien-may-3556178.html" title="Thiên Hòa ưu đãi lớn các sản phẩm điện máy">Thiên Hòa ưu đãi lớn các sản phẩm điện máy</a>
+                                                    </h2>
+                    </li>
+                                        <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/dien-may-hc-dong-loat-giam-gia-den-50-3554364.html" title="Điện máy HC đồng loạt giảm giá đến 50%">Điện máy HC đồng loạt giảm giá đến 50%</a>
+                                                    </h2>
+                    </li>
+                                        <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/fpt-shop-tang-combo-bao-ve-toan-dien-cho-khach-mua-laptop-3552407.html" title="FPT Shop tặng combo 'bảo vệ toàn diện' cho khách mua laptop">FPT Shop tặng combo 'bảo vệ toàn diện' cho khách mua laptop</a>
+                                                    </h2>
+                    </li>
+                                        <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/so-huu-iphone-7-tu-3-trieu-dong-voi-chinh-sach-thu-cu-doi-moi-3551853.html" title="Sở hữu iPhone 7 từ 3 triệu đồng với chính sách 'thu cũ đổi mới'">Sở hữu iPhone 7 từ 3 triệu đồng với chính sách 'thu cũ đổi mới'</a>
+                                                    </h2>
+                    </li>
+                                        <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/techone-giam-gia-nhieu-dong-dien-thoai-samsung-dip-8-3-3551852.html" title="TechOne giảm giá nhiều dòng điện thoại Samsung dịp 8/3">TechOne giảm giá nhiều dòng điện thoại Samsung dịp 8/3</a>
+                                                    </h2>
+                    </li>
+                                        <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/mua-tra-gop-khong-lai-suat-va-nhan-them-qua-tai-fpt-shop-3551740.html" title="Mua trả góp không lãi suất và nhận thêm quà tại FPT Shop">Mua trả góp không lãi suất và nhận thêm quà tại FPT Shop</a>
+                                                    </h2>
+                    </li>
+                                        <li>
+                        <h2>
+                            <a class="txt_16" href="http://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/khuyen-mai/queen-watch-tang-qua-den-30-trieu-dong-dip-8-3-3549225.html" title="Queen Watch tặng quà đến 30 triệu đồng dịp 8/3">Queen Watch tặng quà đến 30 triệu đồng dịp 8/3</a>
+                                                    </h2>
+                    </li>
+                                </ul>
+        </div>
+    </div>
+    <!--
+Box 160: Các tin hiển thị ảnh vuông và lead
+//-->
+    <div id="doanhnghiepviet" class="box_category width_common box_style_doanhnghiepviet">
+        <div class="title_box_category width_common">
+            <h2 class="txt_main_category"><a href="/tin-tuc/doanh-nghiep/doanh-nghiep-viet">Doanh nghiệp viết</a></h2>
+        </div>
+        <div class="content_box_category width_common">
+            <div class="block_image_news width_common">
+                <ul class="list_news make_class_end">
+                                            <li>
+                                                            <div class="thumb_image">
+                                    <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/giam-dau-man-tinh-bang-may-dieu-tri-scrambler-therapy-3556865.html" title="Giảm đau mãn tính bằng máy điều trị Scrambler Therapy">
+                                        <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/17/Image-ExtractWord-4-Out-7272-1489737320_90x90.jpeg" alt="Giảm đau mãn tính bằng máy điều trị Scrambler Therapy" />
+                                    </a>
+                                </div>
+                                                            <h2 class="title_news">
+                                <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/giam-dau-man-tinh-bang-may-dieu-tri-scrambler-therapy-3556865.html" title="Giảm đau mãn tính bằng máy điều trị Scrambler Therapy" class="txt_link">Giảm đau mãn tính bằng máy điều trị Scrambler Therapy</a>
+                                                            </h2>
+                        </li>
+                                                <li>
+                                                            <div class="thumb_image">
+                                    <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/dag-tham-gia-trien-lam-vietbuild-ha-noi-3556781.html" title="DAG tham gia triển lãm Vietbuild Hà Nội">
+                                        <img src="http://img.f25.kinhdoanh.vnecdn.net/2017/03/17/Image-ExtractWord-0-Out-9638-1489725409_90x90.jpeg" alt="DAG tham gia triển lãm Vietbuild Hà Nội" />
+                                    </a>
+                                </div>
+                                                            <h2 class="title_news">
+                                <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/dag-tham-gia-trien-lam-vietbuild-ha-noi-3556781.html" title="DAG tham gia triển lãm Vietbuild Hà Nội" class="txt_link">DAG tham gia triển lãm Vietbuild Hà Nội</a>
+                                                            </h2>
+                        </li>
+                                                <li>
+                                                            <div class="thumb_image">
+                                    <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mua-sam-san-pham-me-va-be-tai-zaca-3556238.html" title="Mua sắm sản phẩm mẹ và bé tại Zaca">
+                                        <img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/17/Image-ExtractWord-0-Out-9500-1489744554_90x90.jpeg" alt="Mua sắm sản phẩm mẹ và bé tại Zaca" />
+                                    </a>
+                                </div>
+                                                            <h2 class="title_news">
+                                <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/mua-sam-san-pham-me-va-be-tai-zaca-3556238.html" title="Mua sắm sản phẩm mẹ và bé tại Zaca" class="txt_link">Mua sắm sản phẩm mẹ và bé tại Zaca</a>
+                                                            </h2>
+                        </li>
+                                                <li>
+                                                            <div class="thumb_image">
+                                    <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/maserati-dong-xe-mang-dam-chat-italy-3555837.html" title="Maserati - Dòng xe mang đậm chất Italy">
+                                        <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/15/15-3-201716-739376060-4985-1489583631_90x90.jpeg" alt="Maserati - Dòng xe mang đậm chất Italy" />
+                                    </a>
+                                </div>
+                                                            <h2 class="title_news">
+                                <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/maserati-dong-xe-mang-dam-chat-italy-3555837.html" title="Maserati - Dòng xe mang đậm chất Italy" class="txt_link">Maserati - Dòng xe mang đậm chất Italy</a>
+                                                            </h2>
+                        </li>
+                                                <li>
+                                                            <div class="thumb_image">
+                                    <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/big-c-thuc-hien-chuong-trinh-giai-cuu-chuoi-dong-nai-3555136.html" title="Big C thực hiện chương trình 'Giải cứu chuối Đồng Nai'">
+                                        <img src="http://img.f28.kinhdoanh.vnecdn.net/2017/03/14/14-3-201758-376129438-5141-1489478741_90x90.jpeg" alt="Big C thực hiện chương trình 'Giải cứu chuối Đồng Nai'" />
+                                    </a>
+                                </div>
+                                                            <h2 class="title_news">
+                                <a href="http://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/doanh-nghiep-viet/big-c-thuc-hien-chuong-trinh-giai-cuu-chuoi-dong-nai-3555136.html" title="Big C thực hiện chương trình 'Giải cứu chuối Đồng Nai'" class="txt_link">Big C thực hiện chương trình 'Giải cứu chuối Đồng Nai'</a>
+                                                            </h2>
+                        </li>
+                                        </ul>
+            </div>
+        </div>
+    </div>
+    <div class="box_category width_common hidden320">
+    <div class="banner_160x600 left">
+        <script type="text/javascript">try {Poly_Big(2);}catch(ex){};</script>    </div>
+</div></div>
+</div>    <div class="banner_980x60">
+        <div class="box_category width_common hidden320">
+            <script type="text/javascript">try {Poly_Footer();}catch(ex){};</script>        </div>
+    </div>
+                    </div>
+                    <div class="clear">&nbsp;</div>
+                </div>
+            </div>
+            <div id="wrapper_footer">
+                <div class="go_head">
+                    <a href="http://vnexpress.net" style="border-right: medium none navy;">Trang chủ</a>
+                    <div class="right">
+                        <a href="javascript:;" id="aSetHomePage" class="sethomepage" style="display: none;"><span class="icon_responsive ico_respone_01"><i class="ic ic-m-home"></i></span>Đặt VnExpress làm trang chủ</a>
+                        <a href="javascript:;" id="aSetHomePageIE" onclick="kinhdoanh.setHomepage();"><span class="icon_responsive ico_respone_01"><i class="ic ic-m-home"></i></span>Đặt VnExpress làm trang chủ</a>
+                        <a onclick="return common.scrollToTop();" href="#"><span class="icon_responsive ico_respone_02"><i class="ic ic-arrow-up"></i></span>Về đầu trang</a>
+                    </div>
+                    <div class="clear">&nbsp;</div>   	 
+                </div>
+                <div id="footer">
+                    <div class="footerMenu">
+                        <div class="lineFmenu">
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/tin-tuc/thoi-su" class="mnu_thoisu">Thời sự</a></h2></li>
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/tin-tuc/goc-nhin" class="mnu_gocnhin">Góc nhìn</a></h2></li>
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/tin-tuc/phap-luat" class="mnu_phapluat">Pháp luật</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/tin-tuc/giao-duc" class="mnu_giaoduc">Giáo dục</a></h2></li>
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/tin-tuc/the-gioi" class="mnu_thegioi">Thế giới</a></h2></li>
+                                <li class="liFirst family"><h2><a href="http://giadinh.vnexpress.net" class="mnu_doisong">Gia đình</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst business"><h2><a href="/" class="mnu_kinhdoanh">Kinh doanh</a></h2></li>
+                                <li class="liFollow"><h2><a href="/tin-tuc/hang-hoa">Hàng hóa</a></h2></li>
+                                <li class="liFollow"><h2><a href="/tin-tuc/doanh-nghiep">Doanh nghiệp</a></h2></li>
+                                <li class="liFollow"><h2><a href="/tin-tuc/ebank">Ebank</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst entertainment"><h2><a href="http://giaitri.vnexpress.net" class="mnu_giaitri">Giải trí</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://giaitri.vnexpress.net/tin-tuc/gioi-sao">Giới sao</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://giaitri.vnexpress.net/tin-tuc/thoi-trang">Thời trang</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://giaitri.vnexpress.net/tin-tuc/phim">Phim</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst sporting"><h2><a href="http://thethao.vnexpress.net" class="mnu_thethao">Thể thao</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://thethao.vnexpress.net/tin-tuc/bong-da">Bóng đá</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://thethao.vnexpress.net/tin-tuc/tennis">Tennis</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://thethao.vnexpress.net/tin-tuc/cac-mon-khac">Các môn khác</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a href="" class="mnu_video">Video</a></h2></li>
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/tin-tuc/anh" class="mnu_anh">Ảnh</a></h2></li>
+                                <li class="liFirst"><h2><a href="http://vnexpress.net/infographics" class="mnu_info">Infographics</a></h2></li>
+                            </ul>
+                        </div>
+                        <div class="lineFmenu">
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst suckhoe"><h2><a class="mnu_suckhoe" href="http://suckhoe.vnexpress.net">Sức khỏe</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://suckhoe.vnexpress.net/tin-tuc/cac-benh">Các bệnh</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://suckhoe.vnexpress.net/tin-tuc/khoe-dep">Khỏe đẹp</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://suckhoe.vnexpress.net/tin-tuc/dinh-duong">Dinh dưỡng</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst dulich"><h2><a class="mnu_dulich" href="http://dulich.vnexpress.net">Du lịch</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://dulich.vnexpress.net/tin-tuc/viet-nam">Việt Nam</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://dulich.vnexpress.net/tin-tuc/quoc-te">Quốc tế</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://dulich.vnexpress.net/tin-tuc/cong-dong">Cộng đồng</a></h2></li>  
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst digitizing"><h2><a class="mnu_sohoa" href="http://sohoa.vnexpress.net">Số hóa</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://sohoa.vnexpress.net/tin-tuc/san-pham">Sản phẩm</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://sohoa.vnexpress.net/danh-gia">Đánh giá</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://sohoa.vnexpress.net/tin-tuc/doi-song-so">Đời sống số</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a class="mnu_xe" href="http://vnexpress.net/tin-tuc/oto-xe-may">Xe</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://vnexpress.net/tin-tuc/oto-xe-may/tu-van">Tư vấn</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://vnexpress.net/tin-tuc/oto-xe-may/thi-truong">Thị trường</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://vnexpress.net/tin-tuc/oto-xe-may/dien-dan">Diễn đàn</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu">
+                                <li class="liFirst"><h2><a class="mnu_raovat" href="http://raovat.vnexpress.net" target="_blank">Rao vặt</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://raovat.vnexpress.net/mua-ban-nha-dat" target="_blank">Mua bán nhà đất</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://raovat.vnexpress.net/thue-nha-dat" target="_blank">Cho thuê nhà đất</a></h2></li>
+                                <li class="liFollow"><h2><a href="http://raovat.vnexpress.net/oto" target="_blank">Mua bán ô tô</a></h2></li>
+                            </ul>
+                            <ul class="ulBlockMenu ulMainMenu">
+                                <li class="liFirst"><h2><a class="mnu_khoahoc" href="http://vnexpress.net/tin-tuc/khoa-hoc">Khoa học</a></h2></li>
+                                <li class="liFirst"><h2><a class="mnu_congdong" href="http://vnexpress.net/tin-tuc/cong-dong">Cộng đồng</a></h2></li>
+                                <li class="liFirst"><h2><a class="mnu_tamsu" href="http://vnexpress.net/tin-tuc/tam-su">Tâm sự</a></h2></li>
+                                <li class="liFirst"><h2><a class="mnu_cuoi" href="http://vnexpress.net/tin-tuc/cuoi">Cười</a></h2></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <ul class="list_menu_small">
+                        <li><a href="http://vnexpress.net" class="mnu_thoisu">Trang chủ</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/thoi-su" class="mnu_thoisu">Thời sự</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/goc-nhin" class="mnu_gocnhin">Góc nhìn</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/the-gioi" class="mnu_thegioi">Thế giới</a></li>
+                        <li><a href="/" class="mnu_kinhdoanh">Kinh doanh</a></li>
+                        <li><a href="http://giaitri.vnexpress.net" class="mnu_giaitri">Giải trí</a></li>
+                        <li><a href="http://thethao.vnexpress.net" class="mnu_thethao">Thể thao</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/phap-luat" class="mnu_phapluat">Pháp luật</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/giao-duc" class="mnu_giaoduc">Giáo dục</a></li>
+                        <li><a href="http://suckhoe.vnexpress.net" class="mnu_suckhoe">Sức khỏe</a></li>
+                        <li><a href="http://giadinh.vnexpress.net" class="mnu_doisong">Gia đình</a></li>
+                        <li><a href="http://dulich.vnexpress.net" class="mnu_dulich">Du lịch</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/khoa-hoc" class="mnu_khoahoc">Khoa học</a></li>
+                        <li><a href="http://sohoa.vnexpress.net" class="mnu_sohoa">Số hóa</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/oto-xe-may" class="mnu_xe">Xe</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cong-dong" class="mnu_bandoc">Cộng đồng</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/tam-su" class="mnu_tamsu">Tâm sự</a></li>
+                        <li><a href="http://video.vnexpress.net" class="mnu_video">Video</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/anh" class="mnu_cuoi">Ảnh</a></li>
+                        <li><a href="http://vnexpress.net/infographics" class="mnu_info">Infographics</a></li>
+                        <li><a href="http://vnexpress.net/tin-tuc/cuoi" class="mnu_cuoi">Cười</a></li>
+                        <li><a href="http://raovat.vnexpress.net" class="mnu_raovat">Rao vặt</a></li>
+                    </ul>
+                    <div class="ft-bot">
+                        <div class="ft-botl"><a href="http://vnexpress.net/" title="VnExpress logo"><img src="http://st.f1.vnecdn.net/responsive/i/v41/graphics/img_logo_vne.jpg" alt="VnExpress logo" /></a></div>
+                        <div class="ft-botm txt_666">
+                            <p>&copy; <span>Copyright 1997 VnExpress.net,</span>  All rights reserved.</p>
+                            <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+                        </div>
+                        <div class="ft-botr">
+                            <p><a href="http://vnexpress.net/tuyen-dung.html">VnExpress tuyển dụng</a>&nbsp;<a href="http://vnexpress.net/lien-he-quang-cao/">Liên hệ quảng cáo</a> / <a href="http://vnexpress.net/lien-he-toa-soan/?p=kinhdoanh">Liên hệ Tòa soạn</a></p>
+                            <p><a href="http://vnexpress.net/contact.htm" target="_blank" style="color: #686E7A;font: 11px arial;padding: 0 4px;text-decoration: none;">Thông tin Tòa soạn: </a><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP HCM)</p>
+                        </div>
+                        <div class="coppy_right_small">
+                            <div class="tttoasoan">
+                                <div class="txt_up width_common">
+                                    <div class="width_50"><a href="http://vnexpress.net/lien-he-toa-soan/?p=kinhdoanh"><img class="icon_total_vne icon_hotline" alt="Liên hệ Tòa soạn" src="http://st.f1.kinhdoanh.vnecdn.net/i/v4/graphics/img_blank.gif" />Liên hệ Tòa soạn</a></div>
+                                    <div class="width_50"><a href="http://vnexpress.net/contact.htm" target="_blank"><img class="icon_total_vne icon_thongtintx" alt="Thông tin Tòa soạn" src="http://st.f1.kinhdoanh.vnecdn.net/i/v4/graphics/img_blank.gif" />Thông tin Tòa soạn</a></div>
+                                </div>
+                                <div class="txt_down width_common">
+                                    <div class="width_50"><b>0123.888.0123</b> (HN) </div>
+                                    <div class="width_50"><b>0129.233.3555</b> (TP HCM)</div>
+                                </div>
+                            </div>
+                            <div class="coppy_right">
+                                <p>&copy; <span>Copyright 1997 VnExpress.net,</span>  All rights reserved.</p>
+                                <p>&reg; VnExpress giữ bản quyền nội dung trên website này.</p>
+                            </div>
+                        </div>
+                    </div>       	 
+                </div>
+            </div>
+            <div class="block_close_menu">&nbsp;</div>
+        </div>
+        <a href="javascript:;" id="to_top"><i class="ic ic-arrow-up"></i></a>
+        <div class="clear">&nbsp;</div>
+        <script type="text/javascript" src="http://st.f3.kinhdoanh.vnecdn.net/j/v1/kd.utils.js"></script>
+        <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/interactions/cmt.widget.js" async></script>
+        <script type="text/javascript" src="https://stmy.vnexpress.net/myvne/j/v4/myvne_users.js"></script>
+        <script type="text/javascript" src="https://stmy.vnexpress.net/myvne/j/v4/plugins/vne.js"></script>
+        <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/utils/calendar/calendar.js"></script>        <script type="text/javascript">
+            var PAGE_FOLDER = 1003159;
+            var PAGE_DETAIL = 0;
+            var PageHot = 0;
+        </script>
+        <script type="text/javascript">
+            //Call clock
+            if (PAGE_DETAIL != 1) {
+                common.clock();
+            }//end if
+
+            $(document).ready(function() {
+                //Parser Vote
+                if (typeof(Parser) != 'undefined') {
+                    Parser.SITE_URL = 'http://vnexpress.net';
+                    Parser.URL = 'http://st.f2.vnecdn.net/responsive/j/v16';
+                    Parser.FLASH_URL = 'http://st.f1.vnecdn.net/responsive/f/v24';
+                    Parser.AUTO_PLAY = 1;
+                    Parser.SITE_ID = 1003159;
+                    Parser.parseAll();
+                }
+                //Song init
+                if (typeof(Song ) != 'undefined') {
+                    Song.init();
+                }
+            });
+        </script>
+                    <script type="text/javascript" src="http://st.core.polyad.net/Ads.js"></script>
+                            <script type="text/javascript" src="http://st.polyad.net/Vals/49/0/1003159/Val.js"></script>
+                            <script type="text/javascript">
+                    try {Poly_showads();} catch(e) {}
+                </script>
+        				<!--loadtest ban cong nghe-->
+        <script type="text/javascript">
+            (function() {
+                window._klDmp = window._klDmp || [];
+                window._klDmp.push(["_siteId:VNE2103"]);
+                window._klCookies = window._klCookies || [];
+                window._klCookies.push("fosp_aid");
+                window._klCookies.push("myvne_user_id");
+                var el = document.createElement('script');
+                el.type = 'text/javascript'; el.async = true;
+                el.src = 'http://js.knowlead.io/dmpcollector.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(el, s);
+            })();
+        </script>
+		            </body>
+</html>

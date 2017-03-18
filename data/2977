@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Quân Assad ồ ạt dội hỏa lực, trút giận vào láng giềng - VnMedia
+</title><meta name="keywords" content="Quân đội Israel,Không quân Israel,israel,phòng không,Syria,Quân đội Syria,máy bay chiến đấu,Hezbollah,thung lũng Jordan,Damascus,thương vong,tổn thất,nổi dậy,Iran,định cư,lực lượng Không quân Israel,ngăn chặn,Jerusalem,chiếm đóng,Quân Assad,Kiệt Linh" /><meta name="description" content="Quân đội Israel tuyên bố họ vừa bắn hạ một trong nhiều tên lửa phòng không mà quân đội Syria phóng đi ồ ạt nhằm vào Lực lượng Không quân Israel đang hoạt độ..." />
+<link rel="canonical" href="http://www.baomoi.com/quan-assad-o-at-doi-hoa-luc-trut-gian-vao-lang-gieng/c/21793313.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793313" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793313" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vnmedia.vn/quoc-te/201703/quan-assad-o-at-doi-hoa-luc-trut-gian-vao-lang-gieng-560562/");
+else
+window.location.replace("http://www.baomoi.com/quan-assad-o-at-doi-hoa-luc-trut-gian-vao-lang-gieng/c/21793313.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

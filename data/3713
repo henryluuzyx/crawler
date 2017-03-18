@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhà báo phải tiên phong trong chống tiêu cực - PLO
+</title><meta name="keywords" content="Vũ Đức Đam,Võ Văn Thưởng,tuyên giáo,khai mạc,đổi mới,đấu tranh,Hà Nội,việt nam,lãnh đạo,tham nhũng" /><meta name="description" content="Sáng 17-3, tại Hà Nội, Hội báo toàn quốc năm 2017 đã khai mạc với chủ đề “Báo chí Việt Nam đồng hành cùng đất nước đổi mới”." />
+<link rel="canonical" href="http://www.baomoi.com/nha-bao-phai-tien-phong-trong-chong-tieu-cuc/c/21793034.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793034" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793034" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/thoi-su/nha-bao-phai-tien-phong-trong-chong-tieu-cuc-689527.html");
+else
+window.location.replace("http://www.baomoi.com/nha-bao-phai-tien-phong-trong-chong-tieu-cuc/c/21793034.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

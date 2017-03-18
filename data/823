@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hưng Yên: Nông dân đắng cay với... rau, quả - Dân Việt
+</title><meta name="keywords" content="Đào Đặng,Tp.Hưng Yên,Phạm Ngọc Tiến,Hưng Yên,thu mua,vốn đầu tư,thu hoạch,quy hoạch" /><meta name="description" content="“Năm nay xã tôi được mùa cà chua. Cà không sâu bệnh, không tưới tắm gì nhiều, chín đều, chất lượng quả miễn chê, đảm bảo sạch. Nhưng thương lái đến trả 1.00..." />
+<link rel="canonical" href="http://www.baomoi.com/hung-yen-nong-dan-dang-cay-voi-rau-qua/c/21792708.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792708" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792708" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/tin-tuc/hung-yen-nong-dan-dang-cay-voi-rau-qua-754052.html");
+else
+window.location.replace("http://www.baomoi.com/hung-yen-nong-dan-dang-cay-voi-rau-qua/c/21792708.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

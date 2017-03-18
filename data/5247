@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đẹp mê hồn hoa cà phê nở trắng Buôn Mê - Phụ Nữ News
+</title><meta name="keywords" content="Rolsy Nguyễn,tây nguyên,Buôn Mê,Buôn Ma Thuột,mê đắm,mê mẩn,Đăk Lăk" /><meta name="description" content="Hoa cà phê từ lâu đã được xem là biểu tượng của Buôn Ma Thuột. Thế nhưng, ít ai biết được rằng tháng 3 này vẫn còn những mùa hoa nở trắng rực trời Tây Nguyên." />
+<link rel="canonical" href="http://www.baomoi.com/dep-me-hon-hoa-ca-phe-no-trang-buon-me/c/21783395.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21783395" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21783395" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/doi-song/dep-me-hon-hoa-ca-phe-no-trang-buon-me-144529/");
+else
+window.location.replace("http://www.baomoi.com/dep-me-hon-hoa-ca-phe-no-trang-buon-me/c/21783395.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

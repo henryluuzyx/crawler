@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Người dân bức xúc vì rác thải ngập bờ sông Bùng - Công Lý
+</title><meta name="keywords" content="sông Bùng,Lê Thi Hoàn,TNMT huyện Diễn Châu,UBND xã Diễn Ngọc,Diễn Ngọc,Diễn Vạn,Lê Thị Sáu,Nghi Yên,Biển Tình,tập kết,Nguyễn Văn Dũng,Nghi Lộc,quốc lộ 1a,bùng phát,ô nhiễm,ô nhiễm môi trường,thời tiết,Nghệ An,phản ánh,ghi nhận,chỉ đạo" /><meta name="description" content="Bãi rác cũ đã trở nên quá tải, trong khi mỗi ngày một lượng lớn rác vẫn được thu gom từ trong dân, bất đắc dĩ những chiếc xe ô tô tập kết rác thải đã phải “..." />
+<link rel="canonical" href="http://www.baomoi.com/nguoi-dan-buc-xuc-vi-rac-thai-ngap-bo-song-bung/c/21784341.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21784341" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21784341" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://congly.com.vn/xa-hoi/doi-song/nguoi-dan-buc-xuc-vi-rac-thai-ngap-bo-song-bung-201086.html");
+else
+window.location.replace("http://www.baomoi.com/nguoi-dan-buc-xuc-vi-rac-thai-ngap-bo-song-bung/c/21784341.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những địa điểm du lịch gây sốt nhờ cánh đồng hoa - Phụ Nữ News
+</title><meta name="keywords" content="Đà Lạt,Xuân Hương,Đường Nguyễn Thị Minh Khai,Suối Nghệ,Châu Đức,Nha Trang,Mê Linh,săn lùng,Bà Rịa,Đường Bùi Thị Xuân,Vũng Tàu,êkíp,tham quan,australia,Nghệ An,phát hiện,việt nam" /><meta name="description" content="Mùa xuân là mùa của trăm hoa đua nở, bởi vậy, rất nhiều địa điểm đang rực rỡ sắc hoa, chờ bạn tới khám phá." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-dia-diem-du-lich-gay-sot-nho-canh-dong-hoa/c/21751941.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21751941" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21751941" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/doi-song/nhung-dia-diem-du-lich-gay-sot-nho-canh-dong-hoa-143330/");
+else
+window.location.replace("http://www.baomoi.com/nhung-dia-diem-du-lich-gay-sot-nho-canh-dong-hoa/c/21751941.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

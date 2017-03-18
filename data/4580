@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhật điều tàu sân bay tới Biển Đông, Trung Quốc đe 'mạnh tay' nếu can thiệp - VietTimes
+</title><meta name="keywords" content="Hải quân Ấn Độ,Vịnh Subic,Sri Lanka,ấn độ dương,biển Đông,tàu chiến,Biển Hoa Đông,Nhật Bản,tập trận,tokyo,philippines,indonesia,Singapore,tranh chấp,Philippines Duterte,reuters,bắc kinh,Trung Quốc,Hoa Xuân Oánh,quan ngại,Bộ Ngoại Giao Trung Quốc" /><meta name="description" content="Phát ngôn viên của Bộ Ngoại giao Trung Quốc Hoa Xuân Oánh tuyên bố: “Nếu Nhật vẫn tiếp tục hành động sai trái và thậm chí nghĩ đến chuyện can thiệp quân sự,..." />
+<link rel="canonical" href="http://www.baomoi.com/nhat-dieu-tau-san-bay-toi-bien-dong-trung-quoc-de-manh-tay-neu-can-thiep/c/21792464.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792464" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792464" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://viettimes.vn/bien-dong-nhat-dieu-tau-san-bay-trung-quoc-de-manh-tay-neu-can-thiep-113891.html");
+else
+window.location.replace("http://www.baomoi.com/nhat-dieu-tau-san-bay-toi-bien-dong-trung-quoc-de-manh-tay-neu-can-thiep/c/21792464.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

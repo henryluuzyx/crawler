@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đà Nẵng kiểm tra việc cày xới bán đảo Sơn Trà làm du lịch - VietnamNet
+</title><meta name="keywords" content="Bán Đảo Sơn Trà,UBND quận Sơn Trà,Huỳnh Văn Hùng,đường Yết Kiêu,Sơn Trà,Đà Nẵng,Sở Xây dựng Đà Nẵng,du lịch sinh thái,nam trung bộ,phê duyệt,barie,định hướng,bảo vệ,Thọ Quang,ghi nhận,Cao Thái,vietnamnet,mạng xã hội" /><meta name="description" content="Cả sườn núi nhô ra biển thuộc bán đảo Sơn Trà đang bị đào bới nham nhở để thi công khu nghỉ dưỡng khiến người dân bất an." />
+<link rel="canonical" href="http://www.baomoi.com/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/c/21790745.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790745" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790745" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/thoi-su/clip-nong/tin-moi-da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich-361901.html");
+else
+window.location.replace("http://www.baomoi.com/da-nang-kiem-tra-viec-cay-xoi-ban-dao-son-tra-lam-du-lich/c/21790745.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

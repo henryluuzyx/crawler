@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mách bạn những mẹo hay với món đồ công nghệ - Kiến Thức
+</title><meta name="keywords" content="vi-đê-ô,5-minute Crafts,smartphone,máy tính xách tay" /><meta name="description" content="Video hướng dẫn bạn cách sử dụng những món đồ công nghệ một cách thông minh khiến mọi người xung quanh không khỏi ngỡ ngàng." />
+<link rel="canonical" href="http://www.baomoi.com/mach-ban-nhung-meo-hay-voi-mon-do-cong-nghe/c/21779304.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21779304" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21779304" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kienthuc.net.vn/truyen-hinh/mach-ban-nhung-meo-hay-voi-mon-do-cong-nghe-833491.html");
+else
+window.location.replace("http://www.baomoi.com/mach-ban-nhung-meo-hay-voi-mon-do-cong-nghe/c/21779304.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

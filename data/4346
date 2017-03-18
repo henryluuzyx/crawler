@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Miền Bắc mưa dông kéo dài - BizLIVE
+</title><meta name="keywords" content="32oC Tây Nguyên,bắc bộ,Bình Thuận,Thừa Thiên-Huế,24oC Thanh Hóa,nam bộ,nắng nóng,Đà Nẵng,trung tâm dự báo khí tượng thủy văn,35oC Hà Nội,miền bắc,miền đông" /><meta name="description" content="Trung tâm Dự báo khí tượng thủy văn trung ương cho biết, khu vực Bắc Bộ trời nhiều mây, có mưa, riêng vùng núi phía bắc từ chiều tối và đêm có mưa rào và có..." />
+<link rel="canonical" href="http://www.baomoi.com/mien-bac-mua-dong-keo-dai/c/21785576.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21785576" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21785576" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://bizlive.vn/thoi-su/mien-bac-mua-dong-keo-dai-2567892.html");
+else
+window.location.replace("http://www.baomoi.com/mien-bac-mua-dong-keo-dai/c/21785576.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

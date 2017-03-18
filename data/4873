@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thắp lửa ca Huế - Nhân Dân
+</title><meta name="keywords" content="Lê Minh Vũ,Lê Văn Cần,Bảo tàng Văn hóa Huế,CLB Huế,Huế Thương,Diệu Liên,Châu Thới,Vĩ Dạ,đàn tỳ bà,Diệu Bình,Nam Xuân,Thái Hùng,Trần Văn Khê,khai khẩn,thính phòng,Nguyễn Văn Tân,Chúa Nguyễn,sông Hương,đàn tranh,Quỳnh Hoa,phố huế" /><meta name="description" content="Đến Huế, mọi người thường dành thời gian để thưởng thức những làn điệu ca Huế trên sông Hương. Cùng với đền đài, lăng tẩm, ca Huế là một đặc trưng của mảnh ..." />
+<link rel="canonical" href="http://www.baomoi.com/thap-lua-ca-hue/c/21792419.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792419" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792419" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/vanhoa/dong-chay/item/32342002-thap-lua-ca-hue.html");
+else
+window.location.replace("http://www.baomoi.com/thap-lua-ca-hue/c/21792419.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

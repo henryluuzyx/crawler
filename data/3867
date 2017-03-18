@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Chủ đầu tư cầu Bến Thủy 1 và 2: Làm sai còn ép dân - KTĐT
+</title><meta name="keywords" content="Cienco 4,Ngô Trọng Nghĩa,bot,trạm Bến Thủy 1,Bến Thủy 2,cầu bến thủy,UBND huyện Hưng Nguyên,Bến Thủy,cầu Bến Thủy 1,Nghi Xuân,UBND thị xã Hồng Lĩnh,bộ giao thông vận tải,UBND tỉnh Hà Tĩnh,Hà Tĩnh,Đặng Quốc Khánh,cam kết,Nghệ An,Vinh,ủy ban nhân dân thành phố,bộ tài chính,văn phòng chính phủ" /><meta name="description" content="Thay vì giảm giá phí, chủ đầu tư các trạm thu phí tại đầu cầu Bến Thủy 1 và Bến Thủy 2 lại ép người dân ký cam kết không di chuyển trên các tuyến đường BOT." />
+<link rel="canonical" href="http://www.baomoi.com/chu-dau-tu-cau-ben-thuy-1-va-2-lam-sai-con-ep-dan/c/21761168.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21761168" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21761168" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kinhtedothi.vn/chu-dau-tu-cau-ben-thuy-1-va-2-lam-sai-con-ep-dan-282801.html");
+else
+window.location.replace("http://www.baomoi.com/chu-dau-tu-cau-ben-thuy-1-va-2-lam-sai-con-ep-dan/c/21761168.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

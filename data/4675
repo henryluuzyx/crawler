@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thông điệp của Nhật khi điều tàu tuần tra qua Biển Đông? - KTĐT
+</title><meta name="keywords" content="Hải quân Ấn Độ,Vịnh Subic,Sri Lanka,ấn độ dương,biển Đông,Biển Hoa Đông,Nhật Bản,tập trận,tokyo,philippines,indonesia,Singapore,tranh chấp,Philippines Duterte,reuters,bắc kinh,Trung Quốc,manila,quan ngại,tuần tra,Mỹ" /><meta name="description" content="Vừa qua, truyền thông quốc tế đã đưa tin, Nhật Bản sẽ điều tàu tuần tra lớn nhất qua Biển Đông." />
+<link rel="canonical" href="http://www.baomoi.com/thong-diep-cua-nhat-khi-dieu-tau-tuan-tra-qua-bien-dong/c/21773430.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21773430" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21773430" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kinhtedothi.vn/thong-diep-cua-nhat-khi-dieu-tau-tuan-tra-qua-bien-dong-282944.html");
+else
+window.location.replace("http://www.baomoi.com/thong-diep-cua-nhat-khi-dieu-tau-tuan-tra-qua-bien-dong/c/21773430.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

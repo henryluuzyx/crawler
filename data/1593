@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ - KH&PT
+</title><meta name="keywords" content="châu phi,Quốc Bảo,vi-đê-ô,xâm nhập,lợi dụng,video clip,bảo vệ" /><meta name="description" content="Bằng cách dùng chân có tẩm máu gà thò vào hang để nhử mồi, những người thổ dân châu Phi trong clip dưới đây đã bắt được một chú trăn đá khổng lồ." />
+<link rel="canonical" href="http://www.baomoi.com/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793205" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793205" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/anh-clip/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/2017031805233071p1c936.htm");
+else
+window.location.replace("http://www.baomoi.com/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

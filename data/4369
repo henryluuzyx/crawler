@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đông Bắc Mỹ trắng một màu tuyết - NLĐ
+</title><meta name="keywords" content="Đông Bắc Mỹ,New Jersey,Connecticut,Thành phố New York,chicago,đổ bộ,đóng cửa,Manhattan,thời tiết,Mỹ,ban bố,virginia,Phủ Dầy,AP Tuyết,Associated Press,Bill de Blasio,TP Boston,TP Philadelphia,Twitter,Maryland,cnn" /><meta name="description" content="Một số khu vực Đông Bắc Mỹ hôm 14-3 nhanh chóng bị tuyết bao phủ sau khi cơn bão tuyết mang tên Stella đổ bộ khiến hàng ngàn chuyến bay bị hủy, nhiều trường..." />
+<link rel="canonical" href="http://www.baomoi.com/dong-bac-my-trang-mot-mau-tuyet/c/21770204.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21770204" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21770204" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://nld.com.vn/thoi-su-quoc-te/dong-bac-my-trang-mot-mau-tuyet-20170315113235481.htm");
+else
+window.location.replace("http://www.baomoi.com/dong-bac-my-trang-mot-mau-tuyet/c/21770204.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

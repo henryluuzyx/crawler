@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Clip: Lái xe bay lên mái nhà vì… đạp nhầm chân ga - KH&PT
+</title><meta name="keywords" content="honda crv,giang tô,vi-đê-ô,giải cứu,vtv,video clip,Trung Quốc" /><meta name="description" content="Do đạp nhầm chân ga nên một người đàn ông ở tỉnh Giang Tô, Trung Quốc đã khiến chiếc xe Honda CR-V lao lên mái nhà ven đường." />
+<link rel="canonical" href="http://www.baomoi.com/clip-lai-xe-bay-len-mai-nha-vi-dap-nham-chan-ga/c/21749889.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21749889" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21749889" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/anh-clip/clip-lai-xe-bay-len-mai-nha-vi-dap-nham-chan-ga/20170313072745420p1c936.htm");
+else
+window.location.replace("http://www.baomoi.com/clip-lai-xe-bay-len-mai-nha-vi-dap-nham-chan-ga/c/21749889.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

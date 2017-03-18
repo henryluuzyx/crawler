@@ -1,0 +1,429 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" lang="vi"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Tours ưa th&#237;ch - Du Lịch</title><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><title>
+Du Lịch - Dân trí
+</title><link href="https://dantri4.vcmedia.vn/web_css/dulich.main.1.1.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="https://dantri3.vcmedia.vn/Scripts/dulich/dulich.main.1.0.js"></script>
+<script type="text/javascript">
+function setCookieForMobile(cname, cvalue, exdays) {
+var d = new Date();
+d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+var expires = "expires=" + d.toUTCString();
+document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function CheckMobileRedirect() {
+try {
+//check session on client
+if (typeof (Storage) !== "undefined") {
+var session = sessionStorage.getItem("VisitSession");
+if (session == null) {
+//phien lam viec moi
+sessionStorage.setItem("VisitSession", "1");
+
+var hash = window.location.hash;
+if (hash == "#first") {
+//link được redirect từ bản mobile sang thì không làm gì.
+window.history.replaceState("", "", window.location.href.split('#')[0]);
+} else {
+//nếu không phải link đá từ mobile thì remove cookie ở đây.
+setCookieForMobile("browser", "", -1);
+//reload lại trang để hệ thống chuyển về bản mobile.
+window.location = window.location.href;
+}
+} else {
+//van dang o phien lam viec cu thi khong lam gi.  
+}
+}
+} catch (e) { }
+}
+CheckMobileRedirect();
+
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-12366027-8', 'auto');
+ga('send', 'pageview');
+
+ga('create', 'UA-4263013-50', 'auto', { 'name': 'dl_vcc' });
+ga('dl_vcc.send', 'pageview');
+
+ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+ga('dtonly.send', 'pageview');
+
+ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+ga('dtboo.send', 'pageview');
+
+ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+ga('totaldt.send', 'pageview');
+
+</script>
+ <script type="text/javascript">var _ADM_Channel='%2Fdu-lich%2Ftours-ua-thich%2F';</script>
+<script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+
+  
+ <!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17793284" });
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link href="http://m.dantri.com.vn/du-lich/tours-ua-thich.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/du-lich/tours-ua-thich.htm" rel="alternate" media="handheld" /><link href="http://dulich.dantri.com.vn/du-lich/tours-ua-thich.htm" rel="canonical" /></head>
+<body class="bg1">
+<form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="default" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="877" />
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="877" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="877" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="Tours ưa th&#237;ch" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ1MTAyMDIyMWRkqBTyFca8O3b6Ff4Ax5I5ZPyUI8BzPtYgby2nT12ymH0=" />
+</div>
+
+<style>
+.emailprint .dt-print {background: url(https://dantri3.vcmedia.vn/Images/tuyensinh/print.png) no-repeat scroll 0 6px transparent;}
+</style>
+<div class="main" id="wrap">
+
+<div class="header fl">
+<a class="sprite logo" href="/" title="Dân Trí Du Lịch"></a>
+</div>
+<div class="ads_headertop">
+  
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_221.ads"></script>
+
+</div>
+
+<div class="menu fl" id="menu">
+<ul>
+<li class="normal"><a target="_blank" title="Dân Trí" href="http://dantri.com.vn">DÂN TRÍ</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="DU LỊCH" href="/">DU LỊCH</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="VÒNG QUAY DU LỊCH" href="/du-lich/vong-quay-du-lich.htm">VÒNG QUAY DU LỊCH</a></li>
+<li class="border fl"></li>
+<li class="normal"><a title="KHÁM PHÁ" href="/du-lich/kham-pha.htm">KHÁM PHÁ</a></li>
+
+<li class="border fl"></li>
+<li class="normal"><a title="MÓN NGON - ĐIỂM ĐẸP" href="/du-lich/mon-ngon-diem-dep.htm">MÓN NGON - ĐIỂM ĐẸP</a></li>
+  
+
+<li class="border fl"></li>
+<li class="normal active"><h1><a title="TOURS ƯA THÍCH" href="/du-lich/tours-ua-thich.htm">TOURS ƯA THÍCH</a></h1></li>
+<li class="border fl"></li>
+<li class="normal"><a title="ĐIỂM ĐẾN MỖI TUẦN" href="/du-lich/diem-den-moi-tuan.htm">ĐIỂM ĐẾN MỖI TUẦN</a></li>
+
+</ul>
+</div>
+
+<div id="container" class="content fl">
+
+<div class="leftcontent fl">
+
+<div class="list">
+<ul class="listcate fl">
+<li class="top">
+<a href="/tours-ua-thich/ky-uc-truy-tim-manh-thu-tren-dong-co-20170309092038638.htm" title="K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ"><img alt="K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ" class="avatar" src="https://dantri.vcmedia.vn/zoom/327_245/2017/photo-1-1489025663884.jpg"/></a>
+<h2>
+<a title="K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ" href="/tours-ua-thich/ky-uc-truy-tim-manh-thu-tren-dong-co-20170309092038638.htm">K&#253; ức truy t&#236;m m&#227;nh th&#250; tr&#234;n đồng cỏ </a></h2>
+<p class="datetime">
+
+</p>
+<p class="sapo">
+Nam Phi những ngày đầu tháng 3 trong tâm trí tôi là những hàng cây rợp bóng mát, là trăm loài hoa khoe sắc trong tiết trời dịu nhẹ của mùa thu nam bán cầu. Đó cũng là ký ức của cuộc hành trình truy tìm những mãnh thú trên đồng cỏ, một ấn tượng khó phai khi tận mắt chiêm ngưỡng các kỳ quan của lục địa đen trong chuyến du lịch cùng công ty Vietrantour.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tours-ua-thich/du-lich-nuoc-ngoai-de-dang-hon-qua-vietrantour-20170306085448143.htm" alt="Anh" title="Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour"><img alt="Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-3-1488764935093.jpg"/></a>
+<h3>
+<a title="Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour" href="/tours-ua-thich/du-lich-nuoc-ngoai-de-dang-hon-qua-vietrantour-20170306085448143.htm">Du lịch nước ngo&#224;i dễ d&#224;ng hơn qua Vietrantour </a></h3>
+<p class="datetime">
+06.03,2017 | 08:00
+</p>
+<p class="sapo">
+Theo thống kê của công ty du lịch Vietrantour thì mức tăng trưởng lượng khách du lịch nước ngoài qua mỗi năm luôn duy trì ở mức 15%, đặc biệt những năm gần đây con số này đang gia tăng mạnh mẽ nhờ chính sách nới lỏng visa, các sản phẩm tour được thiết kế với lịch trình hợp lý, giá thành phải chăng, hội tụ nhiều trải nghiệm hấp dẫn hơn.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tours-ua-thich/4-noi-nen-den-vao-mua-anh-dao-nhat-ban-20170227093738874.htm" alt="Anh" title="4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản"><img alt="4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-2-1488162760431.jpg"/></a>
+<h3>
+<a title="4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản" href="/tours-ua-thich/4-noi-nen-den-vao-mua-anh-dao-nhat-ban-20170227093738874.htm">4 nơi n&#234;n đến v&#224;o m&#249;a anh đ&#224;o Nhật Bản </a></h3>
+<p class="datetime">
+27.02,2017 | 08:30
+</p>
+<p class="sapo">
+Theo hành trình Tokyo – Núi Phú Sĩ – Nagoya – Kyoto – Osaka 6 ngày, khởi hành vào mùa hoa anh đào đẹp nhất năm, giá trọn gói 38,9 triệu đồng của Vietrantour, du khách sẽ được đặt chân đến 4 nơi hấp dẫn hàng đầu Nhật Bản từ công viên Ueno lớn nhất Tokyo, công viên “ánh sáng” Nabana no Sato, thung lũng “trứng trường thọ” Owakudani đến Kim Các tự linh thiêng của cố đô Kyoto.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tours-ua-thich/diem-den-cau-duyen-tai-loc-nong-nhat-xuan-nay-20170213081343968.htm" alt="Anh" title="Điểm đến cầu duy&#234;n - t&#224;i - lộc &quot;n&#243;ng&quot; nhất xu&#226;n n&#224;y"><img alt="Điểm đến cầu duy&#234;n - t&#224;i - lộc &quot;n&#243;ng&quot; nhất xu&#226;n n&#224;y" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-3-1486948164732.jpg"/></a>
+<h3>
+<a title="Điểm đến cầu duy&#234;n - t&#224;i - lộc &quot;n&#243;ng&quot; nhất xu&#226;n n&#224;y" href="/tours-ua-thich/diem-den-cau-duyen-tai-loc-nong-nhat-xuan-nay-20170213081343968.htm">Điểm đến cầu duy&#234;n - t&#224;i - lộc &quot;n&#243;ng&quot; nhất xu&#226;n n&#224;y </a></h3>
+<p class="datetime">
+13.02,2017 | 08:13
+</p>
+<p class="sapo">
+Bạn đã tìm được điểm đến du xuân cầu duyên, tài, lộc chưa? Công ty du lịch Vietrantour gợi ý bạn một số đền, chùa nổi tiếng linh thiêng bậc nhất Việt Nam gắn với nhiều truyền thuyết huyền bí giữa cảnh quan thiên nhiên hùng vĩ, hữu tình sẽ giúp bạn có một năm vạn sự như ý.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tour-hay-khuyen-mai/ngam-hoa-anh-dao-dep-nhat-the-gioi-chi-tu-112-trieu-dong-20170127221811614.htm" alt="Anh" title="Ngắm hoa Anh Đ&#224;o đẹp nhất thế giới chỉ từ 11,2 triệu đồng"><img alt="Ngắm hoa Anh Đ&#224;o đẹp nhất thế giới chỉ từ 11,2 triệu đồng" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-2-1485530005632.jpg"/></a>
+<h3>
+<a title="Ngắm hoa Anh Đ&#224;o đẹp nhất thế giới chỉ từ 11,2 triệu đồng" href="/tour-hay-khuyen-mai/ngam-hoa-anh-dao-dep-nhat-the-gioi-chi-tu-112-trieu-dong-20170127221811614.htm">Ngắm hoa Anh Đ&#224;o đẹp nhất thế giới chỉ từ 11,2 triệu đồng </a></h3>
+<p class="datetime">
+08.02,2017 | 09:00
+</p>
+<p class="sapo">
+Cứ từ giữa tháng 2 kéo dài đến hết tháng 4 hàng năm, cây anh đào - “sứ giả mùa xuân” khoe sắc tỏa hương thu hút hàng triệu du khách đến Nhật Bản, Hàn Quốc, Mỹ,… thưởng lãm. Đón đầu nhu cầu này, Vietrantour đã lựa ra những hành trình ngắm hoa anh đào đẹp nhất thế giới và mở bán với giá khuyến mại chỉ từ 11,2 triệu đồng.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tours-ua-thich/xin-visa-di-nhat-de-dang-hon-qua-vietrantour-2017012722114543.htm" alt="Anh" title="Xin visa đi Nhật dễ d&#224;ng hơn qua Vietrantour"><img alt="Xin visa đi Nhật dễ d&#224;ng hơn qua Vietrantour" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1485529651038.jpg"/></a>
+<h3>
+<a title="Xin visa đi Nhật dễ d&#224;ng hơn qua Vietrantour" href="/tours-ua-thich/xin-visa-di-nhat-de-dang-hon-qua-vietrantour-2017012722114543.htm">Xin visa đi Nhật dễ d&#224;ng hơn qua Vietrantour </a></h3>
+<p class="datetime">
+31.01,2017 | 09:00
+</p>
+<p class="sapo">
+Từ ngày 15/12/2016, Vietrantour vinh dự là một trong những đơn vị lữ hành đầu tiên được nhận sự ủy thác của Đại sứ quán Nhật Bản tại Việt Nam hỗ trợ dịch vụ xin visa nhập cảnh cho tất cả các khách có nhu cầu đi du lịch, thăm thân, du học, làm việc,… với phí dịch vụ hợp lý.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tour-hay-khuyen-mai/vietrantour-dat-doanh-so-cao-cua-cac-hang-hang-khong-2017012722061355.htm" alt="Anh" title="Vietrantour đạt doanh số cao của c&#225;c h&#227;ng h&#224;ng kh&#244;ng"><img alt="Vietrantour đạt doanh số cao của c&#225;c h&#227;ng h&#224;ng kh&#244;ng" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-2-1485529468007.jpg"/></a>
+<h3>
+<a title="Vietrantour đạt doanh số cao của c&#225;c h&#227;ng h&#224;ng kh&#244;ng" href="/tour-hay-khuyen-mai/vietrantour-dat-doanh-so-cao-cua-cac-hang-hang-khong-2017012722061355.htm">Vietrantour đạt doanh số cao của c&#225;c h&#227;ng h&#224;ng kh&#244;ng </a></h3>
+<p class="datetime">
+25.01,2017 | 09:00
+</p>
+<p class="sapo">
+Không phụ lòng mong mỏi của khách hàng, trong năm qua, Vietrantour đã tiên phong khai thác nhiều tuyến tour độc quyền và trở thành đơn vị đạt doanh số cao với nhiều hãng hàng không uy tín trong và ngoài nước.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tour-hay-khuyen-mai/nhung-tour-du-lich-du-doan-nong-nhat-nam-2017-20170118100907286.htm" alt="Anh" title="Những tour du lịch dự đo&#225;n “n&#243;ng” nhất năm 2017"><img alt="Những tour du lịch dự đo&#225;n “n&#243;ng” nhất năm 2017" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-3-1484708696699.jpg"/></a>
+<h3>
+<a title="Những tour du lịch dự đo&#225;n “n&#243;ng” nhất năm 2017" href="/tour-hay-khuyen-mai/nhung-tour-du-lich-du-doan-nong-nhat-nam-2017-20170118100907286.htm">Những tour du lịch dự đo&#225;n “n&#243;ng” nhất năm 2017 </a></h3>
+<p class="datetime">
+18.01,2017 | 09:08
+</p>
+<p class="sapo">
+Năm 2016 đã khép lại với cột mốc đón 10 triệu lượt khách quốc tế đến Việt Nam theo các tuyến tour du lịch biển nổi bật như Nha Trang, Đà Nẵng – Hội An… Các tuyến tour biển vẫn tiếp tục được khách nước ngoài lựa chọn nhiều năm 2017 bên cạnh tour du thuyền quốc tế mang đến trải nghiệm du lịch tiện lợi thu hút du khách Việt.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tours-ua-thich/ve-noi-trai-tim-the-gioi-20170109095438328.htm" alt="Anh" title="Về nơi Tr&#225;i tim thế giới"><img alt="Về nơi Tr&#225;i tim thế giới" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-5-1483930222295.jpg"/></a>
+<h3>
+<a title="Về nơi Tr&#225;i tim thế giới" href="/tours-ua-thich/ve-noi-trai-tim-the-gioi-20170109095438328.htm">Về nơi Tr&#225;i tim thế giới </a></h3>
+<p class="datetime">
+09.01,2017 | 08:01
+</p>
+<p class="sapo">
+Hành trình tour khám phá vùng đất thiêng Israel đã để lại cho tôi dấu ấn đậm sâu về nơi được ví như “trái tim của thế giới” không chỉ bởi vị trí địa lý mà còn bởi những thánh tích linh thiêng của 3 tôn giáo lớn đều hiện hữu và những điều huyền diệu như nuôi cá trên hoang mạc, xử lý nước thải thành nước uống an toàn tạo ra bởi 22% bộ óc lỗi lạc nhất hành tinh và 1/3 triệu phú nhân loại đang cư ngụ.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tours-ua-thich/soi-dong-du-lich-dau-xuan-2017010109141033.htm" alt="Anh" title="S&#244;i động du lịch đầu xu&#226;n"><img alt="S&#244;i động du lịch đầu xu&#226;n" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2017/anh-hoa-anh-dao-my-1483410787202.png"/></a>
+<h3>
+<a title="S&#244;i động du lịch đầu xu&#226;n" href="/tours-ua-thich/soi-dong-du-lich-dau-xuan-2017010109141033.htm">S&#244;i động du lịch đầu xu&#226;n </a></h3>
+<p class="datetime">
+01.01,2017 | 09:00
+</p>
+<p class="sapo">
+Đón đầu nhu cầu xuất hành đầu xuân đi lễ đền, chùa cầu bình an, tài lộc kết hợp ngắm cảnh, nhiều công ty du lịch đã tung ra các gói tour du xuân giá hấp dẫn. Đáng kể là chùm tour “Du xuân đầu năm – Cầu lộc may mắn” hội tụ các điểm đến trong và ngoài nước giảm đến 9 triệu đồng của công ty du lịch Vietrantour.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tours-ua-thich/dat-chan-den-dat-nuoc-cua-cac-vi-than-cung-vietrantour-20161227095011198.htm" alt="Anh" title="Đặt ch&#226;n đến &quot;Đất nước của c&#225;c vị thần&quot; c&#249;ng Vietrantour"><img alt="Đặt ch&#226;n đến &quot;Đất nước của c&#225;c vị thần&quot; c&#249;ng Vietrantour" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2016/photo-2-1482806690702.jpg"/></a>
+<h3>
+<a title="Đặt ch&#226;n đến &quot;Đất nước của c&#225;c vị thần&quot; c&#249;ng Vietrantour" href="/tours-ua-thich/dat-chan-den-dat-nuoc-cua-cac-vi-than-cung-vietrantour-20161227095011198.htm">Đặt ch&#226;n đến &quot;Đất nước của c&#225;c vị thần&quot; c&#249;ng Vietrantour </a></h3>
+<p class="datetime">
+27.12,2016 | 08:00
+</p>
+<p class="sapo">
+Theo hành trình 7 ngày khám phá “đất nước của các vị thần” Hy Lạp của Vietrantour, khởi hành 28/1; 27/3; 4,18,27/4/2017, giá trọn gói chỉ 55,9 triệu đồng, bạn sẽ được đặt chân đến Athens tương truyền được nữ thần Athena bảo hộ và chiêm ngưỡng quần thể di tích kiến trúc và nghệ thuật vĩ đại nhất thời Hy Lạp cổ đại...
+</p>
+</li>
+
+<li class="normal">
+<a href="/tour-hay-khuyen-mai/toi-da-dien-kien-duc-phat-o-mien-dat-vang-nhu-the-nao-2016121709003878.htm" alt="Anh" title="T&#244;i đ&#227; &quot;diện kiến&quot; đức Phật ở miền đất v&#224;ng như thế n&#224;o?"><img alt="T&#244;i đ&#227; &quot;diện kiến&quot; đức Phật ở miền đất v&#224;ng như thế n&#224;o?" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2016/img20161217085544291.jpg"/></a>
+<h3>
+<a title="T&#244;i đ&#227; &quot;diện kiến&quot; đức Phật ở miền đất v&#224;ng như thế n&#224;o?" href="/tour-hay-khuyen-mai/toi-da-dien-kien-duc-phat-o-mien-dat-vang-nhu-the-nao-2016121709003878.htm">T&#244;i đ&#227; &quot;diện kiến&quot; đức Phật ở miền đất v&#224;ng như thế n&#224;o? </a></h3>
+<p class="datetime">
+19.12,2016 | 08:00
+</p>
+<p class="sapo">
+May mắn đến Myanmar vào thời điểm này cũng là lúc tiết trời mát mẻ nhất, theo hành trình 4 ngày của Vietrantour, tôi đã được tìm hiểu tín ngưỡng tâm linh của đất nước hơn 90% dân theo đạo Phật, “tận mục” những ngôi chùa linh thiêng bậc nhất cùng nhiều báu vật của Đức Phật.
+</p>
+</li>
+
+<li class="normal">
+<a href="/tour-hay-khuyen-mai/du-ngoan-ho-nuoc-ngot-tu-nhien-dep-nhat-the-gioi-cung-vietrantour-20161213085308051.htm" alt="Anh" title="Du ngoạn hồ nước ngọt tự nhi&#234;n đẹp nhất thế giới c&#249;ng Vietrantour"><img alt="Du ngoạn hồ nước ngọt tự nhi&#234;n đẹp nhất thế giới c&#249;ng Vietrantour" class="avatar" src="https://dantri.vcmedia.vn/zoom/200_150/2016/img20161213084452052.jpg"/></a>
+<h3>
+<a title="Du ngoạn hồ nước ngọt tự nhi&#234;n đẹp nhất thế giới c&#249;ng Vietrantour" href="/tour-hay-khuyen-mai/du-ngoan-ho-nuoc-ngot-tu-nhien-dep-nhat-the-gioi-cung-vietrantour-20161213085308051.htm">Du ngoạn hồ nước ngọt tự nhi&#234;n đẹp nhất thế giới c&#249;ng Vietrantour </a></h3>
+<p class="datetime">
+13.12,2016 | 08:00
+</p>
+<p class="sapo">
+Đến với “Bắc Kạn có suối đãi vàng, có hồ Ba Bể, có nàng áo xanh” theo hành trình 2 ngày của Vietrantour, du khách sẽ được chiêm ngưỡng vẻ đẹp của “viên ngọc xanh” giữa núi rừng Đông Bắc, lắng nghe giai điệu hát then đầy mê hoặc trên con thuyền độc mộc lênh đênh sông nước, chạm tay vào những ngôi nhà sản hàng trăm năm tuổi tại bản Pác Ngòi hay thư giãn tại bungalow sang trọng, hòa hợp với thiên nhiên tại Ba Bể Ecolodge.
+</p>
+</li>
+
+</ul>
+</div>
+<script type="text/javascript" language="javascript">
+$('.list .item:last').attr('style', 'border-bottom:0')
+</script>
+<div class="page fl">
+<ul class="fr">
+<li><a class="active" onclick="javascript:void(0)" href="/du-lich/tours-ua-thich.htm" title="1">1</a></li><li><a onclick="javascript:void(0)" href="/du-lich/tours-ua-thich/trang-2.htm" title="2">2</a></li><li><a onclick="javascript:void(0)" href="/du-lich/tours-ua-thich/trang-3.htm" title="3">3</a></li><li><a onclick="javascript:void(0)" href="/du-lich/tours-ua-thich/trang-4.htm" title="4">4</a></li><li><a onclick="javascript:void(0)" href="/du-lich/tours-ua-thich/trang-5.htm" title="5">5</a></li><li><a onclick="javascript:void(0)" href="/du-lich/tours-ua-thich/trang-6.htm" title="...">...</a></li><li><a onclick="javascript:void(0)" href="/du-lich/tours-ua-thich/trang-11.htm" title="Trang cuối">Trang cuối</a></li>
+</ul>
+</div>
+<div class="datepage fl">
+<p class="label fl">
+Xem theo ngày tháng
+</p>
+<span class="border"></span>
+<input type="text" id="date" data-format="DD-MM-YYYY" data-template="D MMM YYYY"
+name="date">
+<p class="xem sprite fr" onclick="ViewByDate()">
+</p>
+</div>
+<!--end datepage-->
+<!--end page-->
+<div class="cat-trangsau">
+</div>
+
+<script>
+$(function () {
+$('#date').combodate();
+$('.day option:first').text('Ngày')
+$('.month option:first').text('Tháng')
+$('.year option:first').text('Năm')
+});
+
+function ViewByDate() {
+var date = $('#date').val();
+var zoneid = $('#hidZoneID').val();
+
+var url = "/" + zoneid + "d" + zoneid + "/" + date + ".htm";
+location.href = url;
+}
+
+</script>
+</div>
+
+<div id="pnBoxRight">
+
+ <div class="rightcontent fr">
+ <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+
+
+<div class="tourhay fl">
+<h4 class="sprite fl">
+<a title="Tour hay - Khuyến mại" href="/du-lich/tour-hay-khuyen-mai.htm">Tour hay - Khuyến mại</a></h4>
+<ul>
+<li class="top">
+<a title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" href="/tour-hay-khuyen-mai/theo-dau-chan-kongskull-island-di-ngay-keo-lo-20170315142540562.htm"><img alt="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" src="https://dantri.vcmedia.vn/zoom/327_245/2017/photo-1-1489562560910.jpg" title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" /></a>
+<h5>
+<a title="Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!" href="/tour-hay-khuyen-mai/theo-dau-chan-kongskull-island-di-ngay-keo-lo-20170315142540562.htm"> Theo dấu ch&#226;n “Kong:Skull Island”: Đi ngay kẻo lỡ!</a>
+</h5>
+<p>
+Vừa qua, bộ phim Kong: Skull Island (Kong: Đảo đầu lâu) với 70% bối cảnh quay tại Việt Nam đã chính thức ra mắt. Trong khi siêu phẩm bom tấn này đang “làm mưa làm gió” tại các phòng vé thế giới, thì có một cơn “sốt” cũng nóng bỏng không kém.</p>
+</li>
+ <li class="normal"><span></span><h6><a title="Thử t&#234;n lửa gi&#250;p Triều Ti&#234;n kiếm bộn tiền từ du lịch" href="/du-lich/thu-ten-lua-giup-trieu-tien-kiem-bon-tien-tu-du-lich-20170314081238109.htm">Thử t&#234;n lửa gi&#250;p Triều Ti&#234;n kiếm bộn tiền từ du lịch</a></h6></li> <li class="normal"><span></span><h6><a title="Thưởng ngoạn nước &#218;c, giấc mơ trong tầm tay" href="/tour-hay-khuyen-mai/thuong-ngoan-nuoc-uc-giac-mo-trong-tam-tay-20170313090227895.htm">Thưởng ngoạn nước &#218;c, giấc mơ trong tầm tay</a></h6></li>
+</ul>
+</div>
+<!--end tourhay-->
+
+
+ 
+ 
+
+
+<div class="sprite videocate fl">
+<h4>
+<a title="" href="/du-lich/video-anh.htm"></a></h4>
+<ul>
+<li class="top">
+<a href="/du-lich/bo-anh-ve-dat-nuoc-ha-lan-nhung-nam-1890s-qua-cac-tam-buu-thiep-20170316211507276.htm" title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp"><img alt="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" src="https://dantri.vcmedia.vn/zoom/273_204/2017/photo-1-1489673305034.jpg" title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" /></a>
+<h5>
+<a title="Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp" href="/du-lich/bo-anh-ve-dat-nuoc-ha-lan-nhung-nam-1890s-qua-cac-tam-buu-thiep-20170316211507276.htm">Bộ ảnh về đất nước H&#224; Lan những năm 1890s qua c&#225;c tấm bưu thiếp </a></h5>
+<p>
+(Dân trí) - Những tấm bưu thiếp vào cuối những năm 1890 sẽ cho bạn biết cối xay gió, kênh rạch và các đặc trưng của đất nước Hà Lan trước đây trông như thế nào</p>
+</li>
+<li class="normal"><span></span><h6><a title="K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch" href="/du-lich/kinh-vien-vong-san-nguoi-ngoai-hanh-tinh-mo-cua-don-du-khach-20170316210551157.htm">K&#237;nh viễn vọng “săn người ngo&#224;i h&#224;nh tinh” mở cửa đ&#243;n du kh&#225;ch </a></h6></li><li class="normal"><span></span><h6><a title="10 thị trấn nhỏ xinh đẹp của nước &#221;" href="/du-lich/10-thi-tran-nho-xinh-dep-cua-nuoc-y-20170316162904948.htm">10 thị trấn nhỏ xinh đẹp của nước &#221; </a></h6></li>
+
+</ul>
+</div>
+<!--end video-->
+  
+
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+
+</div>
+
+</div>
+</div>
+
+<div class="fotter fl">
+<a rel="nofollow" href="#" class="sprite fl logo"></a>
+<div class="menubt fl">
+<ul>
+<li class="top"><a rel="nofollow" title="Du lịch" href="/">Du lịch</a></li>
+<li><a rel="nofollow" title="Vòng quay du lịch" href="/du-lich/vong-quay-du-lich.htm">Vòng quay Du lịch</a></li>
+<li><a rel="nofollow" title="Khám phá" href="/du-lich/kham-pha.htm">Khám phá</a></li>
+
+<li><a rel="nofollow" title="Lễ hội bốn phương" href="/du-lich/ky-thu-thai-lan.htm">Kỳ thú Thái Lan</a></li>
+<li><a rel="nofollow" title="Món ngon điểm đẹp" href="/du-lich/mon-ngon-diem-dep.htm">Món ngon - Điểm đẹp</a></li>
+<li><a rel="nofollow" title="Tư vấn chia sẻ" href="/du-lich/tu-van-chia-se.htm">Tư vấn - Chia sẻ</a></li>
+</ul>
+</div>
+<div class="footer2">
+Chuyên trang Du lịch - Báo Điện tử Dân trí 
+<br />
+Giấy phép hoạt động báo điện tử Dân trí trên Internet số 07/GP-PTTH&TTĐT, cấp ngày 19/11/2013.<br>
+Tòa soạn: số 02 ( nhà 48 ) Giảng Võ, Quận Đống Đa, Hà Nội, Việt Nam<br>
+Điện thoại: (04) 3736 6491 - Fax: (04) 3736 6490<br>
+<span><i>Mọi hành động sử dụng nội dung đăng tải trên Báo Điện tử Dân trí phải có sự
+đồng ý bằng văn bản của Báo Điện tử Dân trí.</i></span>
+</div>
+</div>
+<!--end fotter-->
+
+ 
+</div>
+
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="14DD91A0" />
+</div></form>
+</body>
+</html><!--u: 03/18/2017 08:27:25-->

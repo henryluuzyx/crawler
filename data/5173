@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Kỹ thuật trồng khoai tây tại nhà cho củ sai, ít sâu bệnh - KH&PT
+</title><meta name="keywords" content="Lương Ngọc,thu hoạch,bón thúc,ka-li,vitamin a,calcium,làm đẹp" /><meta name="description" content="Khoai tây chứa các Vitamin A, C, B và các khoáng chất như phốt pho, canxi, sắt, kali... Nó không chỉ là thực phẩm tốt mà còn là nguyên liệu làm đẹp và chữa ..." />
+<link rel="canonical" href="http://www.baomoi.com/ky-thuat-trong-khoai-tay-tai-nha-cho-cu-sai-it-sau-benh/c/21752952.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21752952" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21752952" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/suc-khoe/ky-thuat-trong-khoai-tay-tai-nha-cho-cu-sai-it-sau-benh/2017031311249221p1c784.htm");
+else
+window.location.replace("http://www.baomoi.com/ky-thuat-trong-khoai-tay-tai-nha-cho-cu-sai-it-sau-benh/c/21752952.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhà thiết kế Hoàng Ngân 'chuyển nghề' vẽ tranh đầy ấn tượng - ANTĐ
+</title><meta name="keywords" content="Hoàng Ngân,balê,acrylic,Quận 3,tự tin,gắn bó,phát hiện,thành phố hồ chí minh" /><meta name="description" content="Sau gần 20 năm gắn bó với thời trang, nhà thiết kế Hoàng Ngân “tái xuất” với khán giả và người hâm mộ trên một lĩnh vực khác, hoàn toàn mới và riêng biệt vớ..." />
+<link rel="canonical" href="http://www.baomoi.com/nha-thiet-ke-hoang-ngan-chuyen-nghe-ve-tranh-day-an-tuong/c/21743903.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21743903" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21743903" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://anninhthudo.vn/giai-tri/nha-thiet-ke-hoang-ngan-chuyen-nghe-ve-tranh-day-an-tuong/720974.antd");
+else
+window.location.replace("http://www.baomoi.com/nha-thiet-ke-hoang-ngan-chuyen-nghe-ve-tranh-day-an-tuong/c/21743903.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

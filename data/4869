@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đẹp tuyệt mỹ những bức tranh từ mảnh vỏ bút chì - Kiến Thức
+</title><meta name="keywords" content="sáng tạo,vi-đê-ô" /><meta name="description" content="Người họa sĩ tài năng đã tạo nên những bức tranh tuyệt vời, sáng tạo từ những mảnh bút chì được gọt ra." />
+<link rel="canonical" href="http://www.baomoi.com/dep-tuyet-my-nhung-buc-tranh-tu-manh-vo-but-chi/c/21791923.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791923" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791923" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kienthuc.net.vn/truyen-hinh/dep-tuyet-my-nhung-buc-tranh-tu-manh-vo-but-chi-836890.html");
+else
+window.location.replace("http://www.baomoi.com/dep-tuyet-my-nhung-buc-tranh-tu-manh-vo-but-chi/c/21791923.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

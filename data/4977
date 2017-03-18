@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những nơi đáng dừng chân bên bãi biển An Bàng - Dân Việt
+</title><meta name="keywords" content="Biển An Bàng,Soul Kitchen,bãi biển An Bàng,An Bàng,Mường Hoa,check in,cocktail,Toulouse,nhạc soul,Hội An,bài trí,bar,Sa Pa,Quảng Nam,người Pháp,chế biến,Pháp,việt nam" /><meta name="description" content="An Bàng (Hội An, Quảng Nam) giờ không còn xa lạ với du khách trong và ngoài nước bởi bãi biển đẹp, sôi động và có những điểm thư giãn rất dễ chịu." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-noi-dang-dung-chan-ben-bai-bien-an-bang/c/21792583.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792583" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792583" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/du-lich/nhung-noi-dang-dung-chan-ben-bai-bien-an-bang-754030.html");
+else
+window.location.replace("http://www.baomoi.com/nhung-noi-dang-dung-chan-ben-bai-bien-an-bang/c/21792583.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

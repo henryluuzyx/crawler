@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+'Con đường xưa em đi' bị tạm dừng vì vi phạm quyền tác giả - Dân Việt
+</title><meta name="keywords" content="Con đường xưa em đi,cục nghệ thuật biểu diễn,Rừng xưa,Chuyện buồn ngày xuân,sáng tác,Nguyễn Đăng Chương,quyền tác giả,Cánh thiệp đầu xuân,Nguyễn Ngọc Thiện,bộ văn hóa thể thao và du lịch,vi phạm,Sở VH-TT TP HCM,Sở VHTT TP HCM,Hoàng Minh" /><meta name="description" content="Cục trưởng Cục Nghệ thuật biểu diễn giải thích việc gửi văn bản gửi Sở VH-TT TP HCM yêu cầu tạm dừng lưu hành 5 bài hát đã cấp phép phổ biến để hướng dẫn cá..." />
+<link rel="canonical" href="http://www.baomoi.com/con-duong-xua-em-di-bi-tam-dung-vi-vi-pham-quyen-tac-gia/c/21769970.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21769970" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21769970" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/van-hoa/con-duong-xua-em-di-bi-tam-dung-vi-vi-pham-quyen-tac-gia-753353.html");
+else
+window.location.replace("http://www.baomoi.com/con-duong-xua-em-di-bi-tam-dung-vi-vi-pham-quyen-tac-gia/c/21769970.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

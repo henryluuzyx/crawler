@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Súp lơ xào bò ngon cơm cho ngày mát - GĐ&XH
+</title><meta name="keywords" content="vnexpress" /><meta name="description" content="Súp lơ giòn ngọt, thịt bò chín mềm ngấm đều gia vị là gợi ý tuyệt vời cho bữa cơm gia đình bạn." />
+<link rel="canonical" href="http://www.baomoi.com/sup-lo-xao-bo-ngon-com-cho-ngay-mat/c/21786620.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21786620" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21786620" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://giadinh.net.vn/an/sup-lo-xao-bo-ngon-com-cho-ngay-mat-2017031708472999.htm");
+else
+window.location.replace("http://www.baomoi.com/sup-lo-xao-bo-ngon-com-cho-ngay-mat/c/21786620.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

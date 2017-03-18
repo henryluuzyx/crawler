@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Răn đe kẻ thù, Nga đưa tên lửa 'khủng' tới Moscow - VnMedia
+</title><meta name="keywords" content="Đan Khanh,Nga,phòng không,tên lửa đạn đạo,tập trận,tác chiến,biên chế,tên lửa hành trình,máy bay không người lái,tiêu diệt,nâng cấp,NATO,moscow,Astrakhan,Tor M2,xuất khẩu,Ấn Độ,SA-15 Gauntlet,Quân khu miền Tây,tăng thiết giáp,trực chiến" /><meta name="description" content="Hệ thống tên lửa đất đối không tối tân Tor-M2 đã được đưa vào biên chế của Đơn vị Tăng thiết giáp số 1 thuộc Quân khu miền Tây của Nga và sẽ sớm được đặt và..." />
+<link rel="canonical" href="http://www.baomoi.com/ran-de-ke-thu-nga-dua-ten-lua-khung-toi-moscow/c/21778023.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21778023" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21778023" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vnmedia.vn/quoc-te/201703/ran-de-ke-thu-nga-dua-ten-lua-khung-toi-moscow-560313/");
+else
+window.location.replace("http://www.baomoi.com/ran-de-ke-thu-nga-dua-ten-lua-khung-toi-moscow/c/21778023.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thời tiết hôm nay 18/3: Bắc Bộ mưa rào rải rác - Giao Thông
+</title><meta name="keywords" content="32oC Tây Nguyên,34oC Nam Bộ,bắc bộ,Bình Thuận,Thừa Thiên-Huế,24oC Thanh Hóa,thời tiết,nam bộ,Trung Bộ,Đà Nẵng,Hà Nội,Hán Hiển,tây nguyên,miền trung" /><meta name="description" content="Thời tiết hôm nay 18/3: Bắc Bộ mưa rào rải rác và có nơi có dông; Trung Bộ có mưa; Nam Bộ trời nắng." />
+<link rel="canonical" href="http://www.baomoi.com/thoi-tiet-hom-nay-18-3-bac-bo-mua-rao-rai-rac/c/21792576.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792576" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792576" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/thoi-tiet-hom-nay-183-bac-bo-mua-rao-rai-rac-d192669.html");
+else
+window.location.replace("http://www.baomoi.com/thoi-tiet-hom-nay-18-3-bac-bo-mua-rao-rai-rac/c/21792576.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

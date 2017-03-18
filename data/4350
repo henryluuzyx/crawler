@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tin thời tiết ngày 14/3: Bắc Bộ chuyển rét, Nam Bộ mưa dông - Gia Đình VN
+</title><meta name="keywords" content="32oC Tây Nguyên,34oC Nam Bộ,bắc bộ,Bình Thuận,Thừa Thiên-Huế,24oC Thanh Hóa,thời tiết,24oC An Nguyên,nam bộ,nắng nóng,31oC Đà Nẵng,Hà Nội" /><meta name="description" content="Tin thời tiết ngày 14/3 theo TTKTTV, Bắc Bộ đón không khí lạnh trong khi đó, Nam Bộ nắng nóng 34 độ C." />
+<link rel="canonical" href="http://www.baomoi.com/tin-thoi-tiet-ngay-14-3-bac-bo-chuyen-ret-nam-bo-mua-dong/c/21756834.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21756834" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21756834" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.giadinhvietnam.com/thoi-tiet/tin-thoi-tiet-ngay-143-bac-bo-chuyen-ret-nam-bo-mua-dong-d109091.html");
+else
+window.location.replace("http://www.baomoi.com/tin-thoi-tiet-ngay-14-3-bac-bo-chuyen-ret-nam-bo-mua-dong/c/21756834.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

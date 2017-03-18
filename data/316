@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hàn Quốc như 'đi trên dây' giữa Trung Quốc và Mỹ - Dân Việt
+</title><meta name="keywords" content="Moon Jae-in,Park Geun-hye,phế truất,hàn quốc,bầu cử,hệ thống phòng thủ tên lửa,triều tiên,tham nhũng,Trung Quốc,lạm quyền,cầm quyền,Mỹ,phe đối lập,đảng cầm quyền,đối ngoại,Nhật Bản,trừng phạt,đắc cử,bầu cử quốc hội,đối đầu,thất thế" /><meta name="description" content="Ở Hàn Quốc, ngày 9.5 tới này cử tri sẽ bầu ra tổng thống mới, thay thế và kế nhiệm bà Park Geun-hye vừa bị tòa án hiến pháp quyết định phế truất sau khi đã ..." />
+<link rel="canonical" href="http://www.baomoi.com/han-quoc-nhu-di-tren-day-giua-trung-quoc-va-my/c/21793325.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793325" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793325" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/the-gioi/han-quoc-nhu-di-tren-day-giua-trung-quoc-va-my-754162.html");
+else
+window.location.replace("http://www.baomoi.com/han-quoc-nhu-di-tren-day-giua-trung-quoc-va-my/c/21793325.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

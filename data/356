@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Gia Lai: Thiết bị y tế 5,6 tỷ kê 16,7 tỷ - Đất Việt
+</title><meta name="keywords" content="BV Lao,Mai Xuân Hải,Sở Y tế Quảng Bình,Bệnh viện Lao,Nguyễn Xuân Bình,Lắk,UBND Tỉnh Đắk Lắk,Krông Pắk,h5n1,tia X,ngân hàng phát triển châu á,kiểm toán nhà nước,trung tâm y tế dự phòng,An An,TP.Hồ Chí Minh,quyết toán,thanh tra chính phủ,Gia Lai,kiểm toán,yêu sách,sở y tế" /><meta name="description" content="Gói mua trang thiết bị y tế tại Bệnh viện Tâm thần kinh giá 5,6 tỉ đồng nhưng được kê lên 16,7 tỉ đồng" />
+<link rel="canonical" href="http://www.baomoi.com/gia-lai-thiet-bi-y-te-5-6-ty-ke-16-7-ty/c/21793094.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793094" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793094" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baodatviet.vn/chinh-tri-xa-hoi/tin-tuc-thoi-su/gia-lai-thiet-bi-y-te-56-ty-ke-167-ty-3331286/");
+else
+window.location.replace("http://www.baomoi.com/gia-lai-thiet-bi-y-te-5-6-ty-ke-16-7-ty/c/21793094.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

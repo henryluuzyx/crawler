@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hiện trường vụ xe khách nát đầu khi va chạm với máy xúc - VOV
+</title><meta name="keywords" content="Quảng Ninh,thương vong,Hạ Long,Bãi Cháy,quốc lộ 18,cửa ra vào,mỹ đình,bảo vệ" /><meta name="description" content="Sau khi va chạm với máy xúc, xe ô tô khách 49 chỗ bị biến dạng phần đầu, rất may không có thương vong về người." />
+<link rel="canonical" href="http://www.baomoi.com/hien-truong-vu-xe-khach-nat-dau-khi-va-cham-voi-may-xuc/c/21790019.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790019" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790019" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vov.vn/xa-hoi/hien-truong-vu-xe-khach-nat-dau-khi-va-cham-voi-may-xuc-603822.vov");
+else
+window.location.replace("http://www.baomoi.com/hien-truong-vu-xe-khach-nat-dau-khi-va-cham-voi-may-xuc/c/21790019.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

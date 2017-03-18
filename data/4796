@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Điện Kremlin nghi ngờ của bộ phim của CNN làm về ông Putin - Doanh Nghiệp
+</title><meta name="keywords" content="Dmitry Peskov,tổng thống Nga,Vladimir Putin,Nga,Sputnik,điện kremlin,Fareed Zakaria,saint petersburg,Mỹ,cnn,phê phán,kích động,phương tiện truyền thông" /><meta name="description" content="Điện Kremlin đã bày tỏ hoài nghi về tính khách quan của bộ phim &quot;Con người oai hùng nhất thế giới” do CNN thực hiện kể về Vladimir Putin." />
+<link rel="canonical" href="http://www.baomoi.com/dien-kremlin-nghi-ngo-cua-bo-phim-cua-cnn-lam-ve-ong-putin/c/21757908.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21757908" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21757908" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://doanhnghiepvn.vn/dien-kremlin-nghi-ngo-cua-bo-phim-cua-cnn-lam-ve-ong-putin-d94341.html");
+else
+window.location.replace("http://www.baomoi.com/dien-kremlin-nghi-ngo-cua-bo-phim-cua-cnn-lam-ve-ong-putin/c/21757908.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

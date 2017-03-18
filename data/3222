@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Độ tuổi bao nhiêu là thích hợp để làm 'chuyện ấy' lần đầu tiên? - Phụ Nữ News
+</title><meta name="keywords" content="tổn thương,tống tiền,hối hận,nhận thức,sai phạm,trưởng thành" /><meta name="description" content="Theo các chuyên gia tâm lí, bạn cần phải chăm sóc cơ thể và tinh thần thật cẩn thận bởi vì kinh nghiệm trong lần đầu tiên rất quan trọng. Vậy bạn có biết kh..." />
+<link rel="canonical" href="http://www.baomoi.com/do-tuoi-bao-nhieu-la-thich-hop-de-lam-chuyen-ay-lan-dau-tien/c/21793367.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793367" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793367" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/suc-khoe/do-tuoi-bao-nhieu-la-thich-hop-de-lam-chuyen-ay-lan-dau-tien-145563/");
+else
+window.location.replace("http://www.baomoi.com/do-tuoi-bao-nhieu-la-thich-hop-de-lam-chuyen-ay-lan-dau-tien/c/21793367.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

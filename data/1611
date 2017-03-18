@@ -1,0 +1,692 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Bạn đọc - Góc ảnh</title><meta name="description" content="Kính mời bạn đọc theo dõi tin tức bạn đọc mới nhất cập nhật đầy đủ, chính xác nhanh nhất tại đây. Góc ảnh" /><meta name="keywords" content="tin tức, tin tức bạn đọc, tin bạn đọc, tin bạn đọc mới, bạn đọc, ban doc, Góc ảnh" /><meta name="news_keywords" content="tin tức, tin tức bạn đọc, tin bạn đọc, tin bạn đọc mới, bạn đọc, ban doc, Góc ảnh" /><script type="text/javascript">var _ADM_Channel='%2Fban-doc%2Fgoc-anh%2F';</script>
+<!--[if lt IE 7 ]>
+    <noscript><meta http-equiv="refresh" content="0; url='/static/old-browser.html'" /></noscript>
+    <script type="text/javascript">
+        window.location.href = '/static/old-browser.html';
+    </script>
+    <![endif]-->
+<meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" />
+
+        <meta name="robots" content="index,follow,all" />
+    
+<meta property="og:locale" content="vi_VN" />
+
+<meta property="fb:app_id" content="164035690775918" />
+<meta name="generator" content="VCCorp.vn" />
+<meta name="copyright" content="Công ty Cổ phần VCCorp" />
+<meta name="author" content="VCCorp.vn" />
+<meta http-equiv="audience" content="General" />
+<meta name="resource-type" content="Document" />
+<meta name="distribution" content="Global" />
+<meta name="revisit-after" content="1 days" />
+<meta http-equiv="REFRESH" content="1800" />
+<link rel="icon" href="http://static.dantricdn.com/App_Themes/Default/Images/favico.ico" />
+<meta property="fb:pages" content="345033318906366" />
+<meta property="article:author" content="https://www.facebook.com/baodantridientu" />
+<meta property="article:publisher" content="https://www.facebook.com/baodantridientu" />
+
+
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <link href="https://static.dantricdn.com/min/web/css-listnews-new.1.1.css" rel="stylesheet" />
+
+
+
+<noscript>
+    <style type="text/css">
+        img.lazy { display: none; }
+    </style>
+</noscript>
+<style>
+    .icon-game { background: url('http://dantricdn.com/web_images/khcn.jpg') 0 0 no-repeat; }
+    .subnav ul li { height: 21px; }
+    .subnav a.btn-euro.event { padding: 0; width: auto; height: auto; }
+    .subnav ul a { line-height: 21px; }
+</style>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-34575478-26', 'auto');
+    ga('send', 'pageview');
+
+    //ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+    //ga('totaldt.send', 'pageview');
+
+    //if (location.pathname === '/' || location.pathname === '/the-gioi.htm') {
+    //    ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt1' });
+    //    ga('totaldt1.send', 'pageview');
+    //}
+</script>
+
+
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript" async></script>
+    
+<script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "17793284" }), function () {
+        var c = document.createElement("script"), e = document.getElementsByTagName("script")[0];
+        c.async = !0, c.src = ("https:" == document.location.protocol ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js", e.parentNode.insertBefore(c, e);
+    }();
+</script>
+
+
+
+    <!--[if lt IE 9]>
+    <script src="http://static.dantricdn.com/scripts/lib/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">var appSettings = {domain:'http://dantri.com.vn',imageDomain:'https://dantricdn.com',videoImageDomain:'http://video-thumbs.mediacdn.vn',ajaxDomain:'http://wcm.dantri.com.vn',ajaxDomainOther:'http://wcm.dantri.com.vn',ajaxDomainCountListComment:'http://wcm.dantri.com.vn',allowVietId:false, allowFacebook:true,urlExtension:'.htm' };</script>
+
+    <script type="text/javascript">
+        var _jsCbArr = [];
+        var jsCallback = {
+            push: function (name, body) {
+                _jsCbArr[name] = body;
+            },
+            exec: function (name, args) {
+                if (typeof _jsCbArr[name] == "function") {
+                    try {
+                        _jsCbArr[name](args);
+                    } catch (e) {
+                        return;
+                    }
+                }
+            }
+        };
+
+        (function () {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            var setCookie = function (a, c, f) {
+                                var e = new Date();
+                                e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                                var b = "expires=" + e.toUTCString();
+                                document.cookie = a + "=" + c + "; " + b;
+                            };
+                            setCookie("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+        })();
+
+    </script>
+    
+   
+    
+    
+
+    <link href="https://dantricdn.com/web_css/site.css" rel="stylesheet" />
+
+
+    <script type="text/javascript">//danh cho nhung kieu moi
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+        (function () { var a = document.createElement("script"); a.async = !0; a.type = "text/javascript"; a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+    </script>
+
+<link href="http://dantri.com.vn/ban-doc/goc-anh.htm" rel="canonical" /><link href="http://m.dantri.com.vn/ban-doc/goc-anh.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/ban-doc/goc-anh.htm" rel="alternate" media="handheld" /><link href="/ban-doc/goc-anh.rss" rel="alternate" type="application/rss+xml" title="Tin tức góc ảnh" /><meta property="og:type" content="article" /><meta property="og:url" content="http://dantri.com.vn/ban-doc/goc-anh.htm" /><meta property="og:title" content="Bạn đọc" /><meta property="og:image" /><meta property="og:description" content="Kính mời bạn đọc theo dõi tin tức bạn đọc mới nhất cập nhật đầy đủ, chính xác nhanh nhất tại đây." /></head>
+<body>
+    <form name="aspnetForm" method="post" action="" id="aspnetForm">
+<div>
+<input type="hidden" name="hidCategoryPath" id="hidCategoryPath" value="/ban-doc/goc-anh" />
+<input type="hidden" name="hidCurrentDate" id="hidCurrentDate" value="3/17/2017 12:15:53 PM" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzI2OTY4ODFkGAQFIGN0bDAwJGN0bDAwJGNwaEJvZHkkY3RsMDIkbXZNZW51Dw9kAgFkBSRjdGwwMCRjdGwwMCRjcGhCb2R5JGN0bDAxJHZpZXdQYXJlbnQPD2RmZAUeY3RsMDAkY3RsMDAkY3BoQm9keSRjdGwwMCRtdkgxDw9kAgFkBSVjdGwwMCRjdGwwMCRIZWFkSW5mb3JtYXRpb24xJG12Um9ib3RzDw9kZmSd9HVDNH2Cw3cjEbs2opoKjHqddQ==" />
+</div>
+
+        
+        
+<style type="text/css">
+    /*.header{ margin-bottom: 0;} body{ background-position: 0 -2615px}
+    .header.tet{    background: transparent url(http://dantricdn.com/web_images/dantri_bg_tet.png) 0 0 no-repeat !important;
+    margin-top: 0;
+    height: 66px;}
+    .header.tet .logo{ background-image: none !important;}
+    .nav-wrap{background-image:url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav{background-image: url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav li,.nav li.menu-home{background-image:url(http://dantri4.vcmedia.vn/web_images/menu-saparator-tet.png)}
+    .nav li.menu-home{margin-top: 3px !important}
+    .nav a:hover span, .nav a.active span,.nav a:hover, .nav a.active{ background-image: none;background-color: rgba(255, 255, 255, 0.15);border-radius: 4px 4px 0 0}
+    .nav a b,.nav a:hover b, .nav a.active b{ background: url(http://dantri4.vcmedia.vn/web_images/home-tet-icon2.png) no-repeat top center;height: 25px;}
+    .ul2 li.active,.box4{background-image: url(http://dantri4.vcmedia.vn/web_images/tab_bg_tet.png) }*/
+</style>
+<div class="header">
+    <div class="clearfix relative">
+        
+                <a href="/" class="logo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"></a>
+               
+            
+
+        <div id="div_gdpda" class="div_gdpda">
+            <a href="/?removecookie=true" rel="nofollow">Giao diện PDA</a>
+        </div>
+        <div id="searchbox" class="searchbox hidden">
+            <div class="clearfix">
+                
+                <input type="text" name="q" id="txtData" data-elementtype="searchtextv2" />
+                <input type="button" value="Tìm kiếm" class="btn" data-elementtype="searchbuttonv2" />
+            </div>
+        </div>
+        <div class="links">
+            <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a> <a title="Blog" class="icon-ads"
+                href="/blog.htm">Blog</a> <a title="Du học" class="icon-duhoc" href="http://duhoc.dantri.com.vn"
+                    target="_blank">Du học</a> <a title="Tuyển sinh" class="icon-tuyensinh" href="http://tuyensinh.dantri.com.vn"
+                        target="_blank">Tuyển sinh</a> <a title="So sánh" class="icon-tuanbao2" href="http://websosanh.vn/dantri/"
+                            target="_blank">So sánh</a> <a title="Mua bán" target="_blank" class="icon-bussiness" href="http://enbac.com">Mua bán</a>  <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a><a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a>
+            <a title="Diễn đàn" class="icon-forum2" href="/dien-dan.htm">Diễn đàn</a> <a title="English" class="icon-tienganh"
+                href="http://www.dtinews.vn" target="_blank">English</a>
+        </div>
+    </div>
+</div>
+<script type="text/lazyscript">
+
+    $('[data-elementtype=searchbuttonv2]').click(function () {
+        var strSearch = $('[data-elementtype=searchtextv2]').val();
+        strSearch=convertHtmlToText(strSearch);
+        strSearch = encodeURIComponent(strSearch);
+        if (strSearch != '') {
+            var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+            if (document.all) {
+                window.location.href = url;
+            } else {
+                document.location.href = url;
+            }
+        } else {
+            $('[data-elementtype=searchtextv2]').focus();
+        }
+        return false;
+    });
+
+    $('[data-elementtype=searchtextv2]').keypress(function (event) {
+        var key;
+        if (window.event) {
+            key = window.event.keyCode;
+        } else {
+            key = event.which;
+        }
+        if (key == 13) {
+            $('[data-elementtype=searchbuttonv2]').click();
+            return false;
+        }
+    });
+    $("#searchbox").removeClass('hidden').show();    
+</script>
+
+        <div class="top-ads clearfix">
+            <div class=" mgauto wid980">
+                
+        
+        
+<div id="admzone221"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone221') });
+</script>
+    
+            </div>
+        </div>
+        
+<style>.subnav ul li{ padding-right: 8px;}</style>
+<div class="nav-wrap">
+    <div class="clearfix">
+        <div class="mgauto wid1004">
+            
+            
+                    <ul class="nav">
+                        <li class="menu-home"><a href="/" title="Trang chủ"><span><b></b></span></a></li>
+                        <li><a href="/video-page.htm" title="Video" ><span>Video</span></a></li><li><a href="/su-kien.htm" title="Sự kiện" ><span>Sự kiện</span></a></li><li><a href="/xa-hoi.htm" title="Xã hội" ><span>Xã hội</span></a></li><li><a href="/the-gioi.htm" title="Thế giới" ><span>Thế giới</span></a></li><li><a href="/the-thao.htm" title="Thể thao" ><span>Thể thao</span></a></li><li><a href="/giao-duc-khuyen-hoc.htm" title="Giáo dục " ><span>Giáo dục </span></a></li><li><a href="/tam-long-nhan-ai.htm" title="Nhân ái" ><span>Nhân ái</span></a></li><li><a href="/kinh-doanh.htm" title="Kinh doanh" ><span>Kinh doanh</span></a></li><li><a href="/van-hoa.htm" title="Văn hóa" ><span>Văn hóa</span></a></li><li><a href="/giai-tri.htm" title="Giải trí" ><span>Giải trí</span></a></li><li><a href="http://dulich.dantri.com.vn" title="Du lịch" target="_blank"><span>Du lịch</span></a></li><li><a href="/phap-luat.htm" title="Pháp luật" ><span>Pháp luật</span></a></li><li><a href="/nhip-song-tre.htm" title="Nhịp sống trẻ" ><span>Nhịp sống trẻ</span></a></li><li><a href="/suc-khoe.htm" title="Sức khỏe" ><span>Sức khỏe</span></a></li><li><a href="/suc-manh-so.htm" title="Sức mạnh số" ><span>Sức mạnh số</span></a></li><li><a href="/o-to-xe-may.htm" title="Xe++" ><span>Xe++</span></a></li><li><a href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu" ><span>Tình yêu</span></a></li><li><a href="/chuyen-la.htm" title="Chuyện lạ" ><span>Chuyện lạ</span></a></li>
+                    </ul>
+                
+        </div>
+    </div>
+
+    <div class="subnav relative">
+        <ul class="clearfix" id="ul_submenu">
+            
+           
+            <li><a href="/ban-doc.htm" title="Bạn đọc">Bạn đọc</a></li><li><a href="/ban-doc/dieu-tra.htm" title="Điều tra">Điều tra</a></li><li><a href="/ban-doc/tu-van-phap-luat.htm" title="Tư vấn ph&#225;p luật">Tư vấn pháp luật</a></li><li><a href="/ban-doc/hoi-am.htm" title="Hồi &#226;m">Hồi âm</a></li>
+
+        </ul>
+        <div class="hidden">
+            
+        </div>
+        <div class="subSideBtn">
+            <div class="submenu-btnside">
+                <a title="Bạn đọc" href="/ban-doc.htm">Bạn đọc</a>
+            </div>
+            <div class="submenu-btnside">
+                <a title="Việc làm" href="/viec-lam.htm">Việc làm</a>
+            </div>
+        </div>
+
+        <div class="top-rss-wrapper">
+
+            <a title="Rss" class="icon-rss2" ref="nofollow" href="/ban-doc/goc-anh.rss"></a>
+        </div>
+    </div>
+
+
+
+</div>
+
+        
+<div class="event-by-zone">
+    <div class="e-container">
+        <ul class="clearfix">
+            <li class="active"><a href="/event.htm" class="event"></a></li>
+            
+            <li><a href="/event/nuoc-thai-buc-tu-khu-dan-cu-146-quan-thanh-2851.htm" title="Nước thải &quot;bức tử&quot; khu d&#226;n cư 146 Qu&#225;n Th&#225;nh">Nước thải "bức tử" khu dân cư 146 Quán Thánh</a></li><li><a href="/event/vu-ap-thue-5-7-ty-cho-253m2-dat-huyen-2852.htm" title="Vụ &#225;p thuế 5,7 tỷ cho 253m2 đất huyện">Vụ áp thuế 5,7 tỷ cho 253m2 đất huyện</a></li><li><a href="/event/ngang-nhien-sai-pham-khung-giua-thu-do-2853.htm" title="Ngang nhi&#234;n sai phạm &quot;khủng&quot; giữa thủ đ&#244;">Ngang nhiên sai phạm "khủng" giữa thủ đô</a></li>
+        </ul>
+        <div class="fr">
+        </div>
+    </div>
+</div>
+
+        <div class="wrapper">
+            <div class="container">
+                
+    <div class="clearfix">
+        <div class="fl wid470">
+            
+            
+<div class="clearfix" id="listcheckepl">
+    <div  data-boxtype="timelineposition"   data-posid="436288"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/tand-toi-cao-vao-cuoc-vu-nam-sinh-lop-11-bi-ket-toi-cuop-tai-san-keu-oan-20161013065707746.htm" title="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" ><img   title="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" alt="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" data-x2="https://dantricdn.com/eb830dff/zoom/137_105/2016/anh-5-1471186318124-1476316759557.jpg" src="https://dantricdn.com/zoom/130_100/2016/anh-5-1471186318124-1476316759557.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20161013065707746"><p class="subtitle"><a href="/ban-doc/tand-toi-cao-vao-cuoc-vu-nam-sinh-lop-11-bi-ket-toi-cuop-tai-san-keu-oan-20161013065707746.htm">Bài 18:</a></p><h2><a href="/ban-doc/tand-toi-cao-vao-cuoc-vu-nam-sinh-lop-11-bi-ket-toi-cuop-tai-san-keu-oan-20161013065707746.htm" title="TAND Tối cao v&#224;o cuộc vụ nam sinh lớp 11 bị kết tội “Cướp t&#224;i sản” k&#234;u oan" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20161013065707746"  >TAND Tối cao vào cuộc vụ nam sinh lớp 11 bị kết tội “Cướp tài sản” kêu oan</a></h2><div class="fon5 wid324 fl">(Dân trí) - Trao đổi với PV Dân trí chiều 12/10, Phó Chánh án TAND Tối cao Nguyễn Sơn cho biết, TAND Tối cao đã yêu cầu TAND tỉnh Hà Tỉnh báo cáo về vụ án em Lê Văn Khánh (học sinh Trường THPT Hàm Nghi, huyện Hương Khê, Hà Tĩnh) bị kết án 18 tháng tù vì tội “Cướp tài sản” đang thu hút sự chú ý của dư luận cả nước.<br /><a href="/ban-doc/vu-nam-sinh-bi-ket-toi-cuop-tai-san-van-phong-chinh-phu-de-nghi-tand-toi-cao-xem-xet-20161008053231541.htm" title="Vụ nam sinh bị kết tội cướp t&#224;i sản: Văn ph&#242;ng Ch&#237;nh phủ đề nghị TAND Tối cao xem x&#233;t"><b>&nbsp;&gt;&gt;&nbsp;Vụ nam sinh bị kết tội cướp tài sản: Văn phòng Chính phủ đề nghị TAND Tối cao xem xét</b></a><br /><a href="/ban-doc/vu-hoc-sinh-bi-ket-toi-cuop-tai-san-can-xem-xet-lai-toan-bo-vu-an-tranh-oan-sai-20160905063126183.htm" title="Vụ học sinh bị kết tội “Cướp t&#224;i sản”: “Cần xem x&#233;t lại to&#224;n bộ vụ &#225;n, tr&#225;nh oan sai”"><b>&nbsp;&gt;&gt;&nbsp;Vụ học sinh bị kết tội “Cướp tài sản”: “Cần xem xét lại toàn bộ vụ án, tránh oan sai”</b></a><br /><a href="/ban-doc/vu-hoc-sinh-lop-11-bi-ket-toi-cuop-tai-san-xu-nhu-vay-se-tac-hai-rat-lon-20160825072731159.htm" title="Vụ học sinh lớp 11 bị kết tội “Cướp t&#224;i sản”: “Xử như vậy sẽ t&#225;c hại rất lớn!”"><b>&nbsp;&gt;&gt;&nbsp;Vụ học sinh lớp 11 bị kết tội “Cướp tài sản”: “Xử như vậy sẽ tác hại rất lớn!”</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/tand-toi-cao-vao-cuoc-vu-nam-sinh-lop-11-bi-ket-toi-cuop-tai-san-keu-oan-20161013065707746.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="431070"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/binh-dinh-hai-hung-rac-thai-bua-vay-lang-chai-tren-ban-dao-20161003084821982.htm" title="B&#236;nh Định: H&#227;i h&#249;ng r&#225;c thải “bủa v&#226;y” l&#224;ng ch&#224;i tr&#234;n b&#225;n đảo" ><img   title="B&#236;nh Định: H&#227;i h&#249;ng r&#225;c thải “bủa v&#226;y” l&#224;ng ch&#224;i tr&#234;n b&#225;n đảo" alt="B&#236;nh Định: H&#227;i h&#249;ng r&#225;c thải “bủa v&#226;y” l&#224;ng ch&#224;i tr&#234;n b&#225;n đảo" data-x2="https://dantricdn.com/a6849c16/zoom/137_105/7524963698/2016/10/01/6-1475322419778.JPG" src="https://dantricdn.com/zoom/130_100/7524963698/2016/10/01/6-1475322419778.JPG" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20161003084821982"><h2><a href="/ban-doc/binh-dinh-hai-hung-rac-thai-bua-vay-lang-chai-tren-ban-dao-20161003084821982.htm" title="B&#236;nh Định: H&#227;i h&#249;ng r&#225;c thải “bủa v&#226;y” l&#224;ng ch&#224;i tr&#234;n b&#225;n đảo" class="fon6" data-newstype="3"  data-linktype="newsdetail"   data-id="20161003084821982"  >Bình Định: Hãi hùng rác thải “bủa vây” làng chài trên bán đảo</a></h2><div class="fon5 wid324 fl">(Dân trí) - Đủ các loại rác thải, từ rác thải trong sinh hoạt đến rác thải trong tự nhiên “bủa vây” vùng biển ở làng chài Hải Minh (TP Quy Nhơn, Bình Định) không chỉ gây ô nhiễm môi trường mà còn làm mất mỹ quan du lịch.<br /><a href="/ban-doc/binh-dinh-dan-buc-xuc-vi-cham-nhan-tien-ho-tro-khoan-dao-gieng-chong-han-20160922085037369.htm" title="B&#236;nh Định: D&#226;n bức x&#250;c v&#236; chậm nhận tiền hỗ trợ khoan, đ&#224;o giếng chống hạn"><b>&nbsp;&gt;&gt;&nbsp;Bình Định: Dân bức xúc vì chậm nhận tiền hỗ trợ khoan, đào giếng chống hạn</b></a><br /><a href="/ban-doc/binh-dinh-doanh-nghiep-moc-ruot-long-ho-an-hoa-khon-luong-mua-mua-bao-20160910071707844.htm" title="B&#236;nh Định: Doanh nghiệp &quot;m&#243;c ruột&quot; l&#242;ng hồ, ẩn hoạ kh&#244;n lường m&#249;a mưa b&#227;o"><b>&nbsp;&gt;&gt;&nbsp;Bình Định: Doanh nghiệp "móc ruột" lòng hồ, ẩn hoạ khôn lường mùa mưa bão</b></a><br /><a href="/ban-doc/binh-dinh-dan-can-khong-cho-thi-cong-cau-vi-lam-nut-nha-20160902073058896.htm" title="B&#236;nh Định: D&#226;n cản kh&#244;ng cho thi c&#244;ng cầu v&#236; l&#224;m nứt nh&#224;"><b>&nbsp;&gt;&gt;&nbsp;Bình Định: Dân cản không cho thi công cầu vì làm nứt nhà</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/binh-dinh-hai-hung-rac-thai-bua-vay-lang-chai-tren-ban-dao-20161003084821982.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="428239"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/vu-146-quan-thanh-ha-noi-chua-hoan-thanh-chi-dao-cua-thu-tuong-20160926113755373.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: H&#224; Nội chưa ho&#224;n th&#224;nh chỉ đạo của Thủ tướng!" ><img   title="Vụ 146 Qu&#225;n Th&#225;nh: H&#224; Nội chưa ho&#224;n th&#224;nh chỉ đạo của Thủ tướng!" alt="Vụ 146 Qu&#225;n Th&#225;nh: H&#224; Nội chưa ho&#224;n th&#224;nh chỉ đạo của Thủ tướng!" data-x2="https://dantricdn.com/566202af/zoom/137_105/2016/to-cong-tac-lv-voi-ubnd-ha-noi-1-1474867547278.jpg" src="https://dantricdn.com/zoom/130_100/2016/to-cong-tac-lv-voi-ubnd-ha-noi-1-1474867547278.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160926113755373"><p class="subtitle"><a href="/ban-doc/vu-146-quan-thanh-ha-noi-chua-hoan-thanh-chi-dao-cua-thu-tuong-20160926113755373.htm">Bài 59:</a></p><h2><a href="/ban-doc/vu-146-quan-thanh-ha-noi-chua-hoan-thanh-chi-dao-cua-thu-tuong-20160926113755373.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: H&#224; Nội chưa ho&#224;n th&#224;nh chỉ đạo của Thủ tướng!" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20160926113755373"  >Vụ 146 Quán Thánh: Hà Nội chưa hoàn thành chỉ đạo của Thủ tướng!</a></h2><div class="fon5 wid324 fl">(Dân trí) - “Vụ 146 Quán Thánh là một trong những nhiệm vụ Văn phòng Chính phủ xác định TP Hà Nội chưa hoàn thành. Thành phố Hà Nội để quá hạn đã 56 ngày so với yêu cầu giải quyết của Thủ tướng chỉ đạo”, Bộ trưởng, Chủ nhiệm Văn phòng chính phủ Mai Tiến Dũng đại diện tổ công tác của Thủ tướng cho biết tại buổi làm việc với UBND TP Hà Nội.<br /><a href="/ban-doc/ubnd-tp-ha-noi-chinh-thuc-ket-luan-sai-pham-vu-146-quan-thanh-20160802071405616.htm" title="UBND TP H&#224; Nội ch&#237;nh thức kết luận sai phạm vụ 146 Qu&#225;n Th&#225;nh"><b>&nbsp;&gt;&gt;&nbsp;UBND TP Hà Nội chính thức kết luận sai phạm vụ 146 Quán Thánh</b></a><br /><a href="/ban-doc/so-phan-hang-chuc-nguoi-dan-146-quan-thanh-nhin-tu-vu-ap-thue-57-ty-20160603072012073.htm" title="Số phận h&#224;ng chục người d&#226;n 146 Qu&#225;n Th&#225;nh nh&#236;n từ vụ &#225;p thuế 5,7 tỷ"><b>&nbsp;&gt;&gt;&nbsp;Số phận hàng chục người dân 146 Quán Thánh nhìn từ vụ áp thuế 5,7 tỷ</b></a><br /><a href="/ban-doc/vu-146-quan-thanh-dien-hinh-cua-chuyen-ha-noi-khong-voi-duoc-dau-20160518071538737.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Điển h&#236;nh của chuyện “H&#224; Nội kh&#244;ng vội được đ&#226;u”!"><b>&nbsp;&gt;&gt;&nbsp;Vụ 146 Quán Thánh: Điển hình của chuyện “Hà Nội không vội được đâu”!</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/vu-146-quan-thanh-ha-noi-chua-hoan-thanh-chi-dao-cua-thu-tuong-20160926113755373.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="426666"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/van-phong-chinh-phu-yeu-cau-xu-ly-vu-co-phan-hoa-vit-troi-tai-hacinco-2016092116332419.htm" title="Văn ph&#242;ng Ch&#237;nh phủ y&#234;u cầu xử l&#253; vụ cổ phần ho&#225; “vịt trời” tại Hacinco" ><img   title="Văn ph&#242;ng Ch&#237;nh phủ y&#234;u cầu xử l&#253; vụ cổ phần ho&#225; “vịt trời” tại Hacinco" alt="Văn ph&#242;ng Ch&#237;nh phủ y&#234;u cầu xử l&#253; vụ cổ phần ho&#225; “vịt trời” tại Hacinco" data-x2="https://dantricdn.com/391b8ac4/zoom/137_105/2016/vu-co-phan-hoa-vit-troi-tai-hacinco-khi-hon-truong-ba-da-hang-thit-1474450092063.png" src="https://dantricdn.com/zoom/130_100/2016/vu-co-phan-hoa-vit-troi-tai-hacinco-khi-hon-truong-ba-da-hang-thit-1474450092063.png" width="130" height="100" class="img130"/></a><div class="mr1" data-id="2016092116332419"><p class="subtitle"><a href="/ban-doc/van-phong-chinh-phu-yeu-cau-xu-ly-vu-co-phan-hoa-vit-troi-tai-hacinco-2016092116332419.htm">Bài 13:</a></p><h2><a href="/ban-doc/van-phong-chinh-phu-yeu-cau-xu-ly-vu-co-phan-hoa-vit-troi-tai-hacinco-2016092116332419.htm" title="Văn ph&#242;ng Ch&#237;nh phủ y&#234;u cầu xử l&#253; vụ cổ phần ho&#225; “vịt trời” tại Hacinco" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="2016092116332419"  >Văn phòng Chính phủ yêu cầu xử lý vụ cổ phần hoá “vịt trời” tại Hacinco</a></h2><div class="fon5 wid324 fl">(Dân trí) - Liên quan đến vụ việc cổ phần hóa “vịt giời” tại Công ty Đầu tư Xây dựng số 2 Hà Nội (HACINCO), Báo Dân trí đã đăng tải loạt bài làm rõ việc 23 nhà đầu tư bỏ hơn 21 tỷ “tiền tươi” đi đuổi “vịt trời” suốt hơn 10 năm. Văn phòng Chính phủ đã chính thức có công văn yêu cầu UBND TP Hà Nội giải quyết dứt điểm sự việc.<br /><a href="/ban-doc/loi-thoat-nao-cho-23-nha-dau-tu-10-nam-rong-ra-di-duoi-vit-troi-tai-hacinco-20160425073637801.htm" title="Lối tho&#225;t n&#224;o cho 23 nh&#224; đầu tư 10 năm r&#242;ng r&#227; đi đuổi  “vịt trời” tại HACINCO?"><b>&nbsp;&gt;&gt;&nbsp;Lối thoát nào cho 23 nhà đầu tư 10 năm ròng rã đi đuổi  “vịt trời” tại HACINCO?</b></a><br /><a href="/ban-doc/vu-co-phan-hoa-vit-troi-tai-hacinco-khi-hon-truong-ba-da-hang-thit-20160413084026298.htm" title="Vụ cổ phần h&#243;a “vịt trời” tại HACINCO: Khi “hồn Trương Ba, da h&#224;ng thịt”!"><b>&nbsp;&gt;&gt;&nbsp;Vụ cổ phần hóa “vịt trời” tại HACINCO: Khi “hồn Trương Ba, da hàng thịt”!</b></a><br /><a href="/ban-doc/vu-co-phan-hoa-vit-troi-tai-hacinco-so-tai-chinh-tp-ha-noi-khong-the-tron-trach-nhiem-2016040907315614.htm" title="Vụ cổ phần ho&#225; “vịt trời” tại HACINCO: Sở T&#224;i ch&#237;nh TP H&#224; Nội kh&#244;ng thể trốn tr&#225;ch nhiệm!"><b>&nbsp;&gt;&gt;&nbsp;Vụ cổ phần hoá “vịt trời” tại HACINCO: Sở Tài chính TP Hà Nội không thể trốn trách nhiệm!</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/van-phong-chinh-phu-yeu-cau-xu-ly-vu-co-phan-hoa-vit-troi-tai-hacinco-2016092116332419.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="423496"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/ha-noi-sai-pham-tai-phuong-dai-mo-chim-xuong-nguoi-dan-phan-no-20160916231842362.htm" title="H&#224; Nội: Sai phạm tại phường Đại Mỗ &quot;ch&#236;m xuồng&quot;, người d&#226;n phẫn nộ!" ><img   title="H&#224; Nội: Sai phạm tại phường Đại Mỗ &quot;ch&#236;m xuồng&quot;, người d&#226;n phẫn nộ!" alt="H&#224; Nội: Sai phạm tại phường Đại Mỗ &quot;ch&#236;m xuồng&quot;, người d&#226;n phẫn nộ!" data-x2="https://dantricdn.com/a173c8c1/zoom/137_105/dd98dadc32/2016/09/16/14042012145-1473998110725.jpg" src="https://dantricdn.com/zoom/130_100/dd98dadc32/2016/09/16/14042012145-1473998110725.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160916231842362"><p class="subtitle"><a href="/ban-doc/ha-noi-sai-pham-tai-phuong-dai-mo-chim-xuong-nguoi-dan-phan-no-20160916231842362.htm">Bài 22:</a></p><h2><a href="/ban-doc/ha-noi-sai-pham-tai-phuong-dai-mo-chim-xuong-nguoi-dan-phan-no-20160916231842362.htm" title="H&#224; Nội: Sai phạm tại phường Đại Mỗ &quot;ch&#236;m xuồng&quot;, người d&#226;n phẫn nộ!" class="fon6" data-newstype="2"  data-linktype="newsdetail"   data-id="20160916231842362"  >Hà Nội: Sai phạm tại phường Đại Mỗ "chìm xuồng", người dân phẫn nộ!</a></h2><div class="fon5 wid324 fl">(Dân trí) - Cho rằng nguyên Chủ tịch xã Đại Mỗ, Đỗ Tiến Sơn ra văn bản xâm phạm quyền lợi hợp pháp của gia đình trên thửa đất 756m2, ông Nguyễn Quý Tiến, tổ trưởng tổ dân phố An Thái, đại biểu HĐND phường Đại Mỗ (Quận Nam Từ Liêm, TP Hà Nội) đã nhiều lần làm đơn khiếu nại gửi các cơ quan chức năng nhưng cho tới nay vụ việc chưa được giải quyết dứt điểm.<br /><a href="/ban-doc/ha-noi-ai-chong-lung-cho-can-bo-phuong-dai-mo-lam-mua-lam-gio-20160909104451298.htm" title="H&#224; Nội: Ai chống lưng cho c&#225;n bộ phường Đại Mỗ “l&#224;m mưa l&#224;m gi&#243;&quot;?"><b>&nbsp;&gt;&gt;&nbsp;Hà Nội: Ai chống lưng cho cán bộ phường Đại Mỗ “làm mưa làm gió"?</b></a><br /><a href="/ban-doc/ha-noi-quan-nam-tu-liem-ngam-tom-ket-qua-xu-ly-sai-pham-tai-phuong-dai-mo-20160606072647256.htm" title="H&#224; Nội: Quận Nam Từ Li&#234;m “ng&#226;m t&#244;m” kết quả xử l&#253; sai phạm tại phường Đại Mỗ?"><b>&nbsp;&gt;&gt;&nbsp;Hà Nội: Quận Nam Từ Liêm “ngâm tôm” kết quả xử lý sai phạm tại phường Đại Mỗ?</b></a><br /><a href="/ban-doc/ha-noi-hang-loat-chi-dao-xu-ly-sai-pham-tai-phuong-dai-mo-chi-nam-tren-giay-20160504080121426.htm" title="H&#224; Nội: H&#224;ng loạt chỉ đạo xử l&#253; sai phạm tại phường Đại Mỗ chỉ nằm tr&#234;n giấy?"><b>&nbsp;&gt;&gt;&nbsp;Hà Nội: Hàng loạt chỉ đạo xử lý sai phạm tại phường Đại Mỗ chỉ nằm trên giấy?</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/ha-noi-sai-pham-tai-phuong-dai-mo-chim-xuong-nguoi-dan-phan-no-20160916231842362.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="417694"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/vu-ap-thue-oan-57-ty-khong-the-coi-thuong-dan-va-qua-mat-chinh-phu-20160905073109409.htm" title="Vụ &#225;p thuế oan 5,7 tỷ: Kh&#244;ng thể coi thường d&#226;n v&#224; “qua mặt” Ch&#237;nh phủ!" ><img   title="Vụ &#225;p thuế oan 5,7 tỷ: Kh&#244;ng thể coi thường d&#226;n v&#224; “qua mặt” Ch&#237;nh phủ!" alt="Vụ &#225;p thuế oan 5,7 tỷ: Kh&#244;ng thể coi thường d&#226;n v&#224; “qua mặt” Ch&#237;nh phủ!" data-x2="https://dantricdn.com/b8a3a367/zoom/137_105/2016/vuapthue57tyhethanbaocaothutuongquanhanhdannhananphatnao-1-1473035292276.jpg" src="https://dantricdn.com/zoom/130_100/2016/vuapthue57tyhethanbaocaothutuongquanhanhdannhananphatnao-1-1473035292276.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160905073109409"><p class="subtitle"><a href="/ban-doc/vu-ap-thue-oan-57-ty-khong-the-coi-thuong-dan-va-qua-mat-chinh-phu-20160905073109409.htm">Bài 72:</a></p><h2><a href="/ban-doc/vu-ap-thue-oan-57-ty-khong-the-coi-thuong-dan-va-qua-mat-chinh-phu-20160905073109409.htm" title="Vụ &#225;p thuế oan 5,7 tỷ: Kh&#244;ng thể coi thường d&#226;n v&#224; “qua mặt” Ch&#237;nh phủ!" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20160905073109409"  >Vụ áp thuế oan 5,7 tỷ: Không thể coi thường dân và “qua mặt” Chính phủ!</a></h2><div class="fon5 wid324 fl">(Dân trí) - “Coi thường kỷ cương, phép nước, xem nhẹ sự chỉ đạo của Chính phủ thì sao có thể là công bộc phục vụ dân được. Dù có là ai thì cũng nên cho nghỉ để dân bớt khổ cũng như tăng thêm niềm tin của người dân. Nhân dân mong Thủ tướng xử lý nghiêm các quan “hành dân” tại Lâm Đồng. Không thể để tình trạng coi thường dân và “qua mặt” Chính phủ diễn ra”, bạn đọc Dân trí chia sẻ.<br /><a href="/ban-doc/vu-ap-thue-oan-57-ty-dong-cac-quan-danh-bai-chuon-trach-nhiem-20160820061844754.htm" title="Vụ &#225;p thuế oan 5,7 tỷ đồng: C&#225;c quan &quot;đ&#225;nh b&#224;i chuồn&quot; tr&#225;ch nhiệm?"><b>&nbsp;&gt;&gt;&nbsp;Vụ áp thuế oan 5,7 tỷ đồng: Các quan "đánh bài chuồn" trách nhiệm?</b></a><br /><a href="/ban-doc/bo-truong-tran-hong-ha-tang-bang-khen-nhom-pv-dan-tri-dieu-tra-vu-ap-thue-oan-57-ty-20160808071623652.htm" title="Bộ trưởng Trần Hồng H&#224; tặng bằng khen nh&#243;m PV D&#226;n tr&#237; điều tra vụ &#225;p thuế oan 5,7 tỷ"><b>&nbsp;&gt;&gt;&nbsp;Bộ trưởng Trần Hồng Hà tặng bằng khen nhóm PV Dân trí điều tra vụ áp thuế oan 5,7 tỷ</b></a><br /><a href="/ban-doc/thu-tuong-yeu-cau-ubnd-tinh-lam-dong-bao-cao-vu-ap-thue-57-ty-dong-20160530093849535.htm" title="Thủ tướng y&#234;u cầu UBND tỉnh L&#226;m Đồng b&#225;o c&#225;o vụ &#225;p thuế 5,7 tỷ đồng"><b>&nbsp;&gt;&gt;&nbsp;Thủ tướng yêu cầu UBND tỉnh Lâm Đồng báo cáo vụ áp thuế 5,7 tỷ đồng</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/vu-ap-thue-oan-57-ty-khong-the-coi-thuong-dan-va-qua-mat-chinh-phu-20160905073109409.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="411628"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/binh-dinh-cat-bay-lap-duong-khu-kinh-te-nhon-hoi-20160824064239256.htm" title="B&#236;nh Định: C&#225;t bay lấp đường Khu kinh tế Nhơn Hội" ><img   title="B&#236;nh Định: C&#225;t bay lấp đường Khu kinh tế Nhơn Hội" alt="B&#236;nh Định: C&#225;t bay lấp đường Khu kinh tế Nhơn Hội" data-x2="https://dantricdn.com/1030732f/zoom/137_105/7524963698/2016/08/23/12-1471947420914.JPG" src="https://dantricdn.com/zoom/130_100/7524963698/2016/08/23/12-1471947420914.JPG" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160824064239256"><h2><a href="/ban-doc/binh-dinh-cat-bay-lap-duong-khu-kinh-te-nhon-hoi-20160824064239256.htm" title="B&#236;nh Định: C&#225;t bay lấp đường Khu kinh tế Nhơn Hội" class="fon6" data-newstype="2"  data-linktype="newsdetail"   data-id="20160824064239256"  >Bình Định: Cát bay lấp đường Khu kinh tế Nhơn Hội</a></h2><div class="fon5 wid324 fl">(Dân trí) - Mấy ngày qua, những đợt gió mạnh đã cuốn theo cát, phủ dày nhiều đoạn trên tuyến đường trục Khu kinh tế Nhơn Hội đoạn thuộc xã Nhơn Lý (TP Quy Nhơn, Bình Định). Người dân bất an, trong khi đó ngành chức năng chưa huy động công nhân dọn dẹp đường.<br /><a href="/ban-doc/binh-dinh-nguoi-do-thi-mon-moi-doi-duong-be-tong-20160703080703061.htm" title="B&#236;nh Định: Người đ&#244; thị m&#242;n mỏi đợi đường b&#234; t&#244;ng"><b>&nbsp;&gt;&gt;&nbsp;Bình Định: Người đô thị mòn mỏi đợi đường bê tông</b></a><br /><a href="/ban-doc/binh-dinh-can-bo-thi-hanh-an-bi-to-hien-ke-de-bi-don-tau-tan-tai-san-20160608083218809.htm" title="B&#236;nh Định: C&#225;n bộ thi h&#224;nh &#225;n bị tố “hiến kế” để bị đơn tẩu t&#225;n t&#224;i sản!"><b>&nbsp;&gt;&gt;&nbsp;Bình Định: Cán bộ thi hành án bị tố “hiến kế” để bị đơn tẩu tán tài sản!</b></a><br /><a href="/ban-doc/binh-dinh-quan-xa-bi-to-lua-dan-hien-dat-lam-duong-nong-thon-moi-20160507072902116.htm" title="B&#236;nh Định: Quan x&#227; bị tố “lừa” d&#226;n hiến đất l&#224;m đường n&#244;ng th&#244;n mới"><b>&nbsp;&gt;&gt;&nbsp;Bình Định: Quan xã bị tố “lừa” dân hiến đất làm đường nông thôn mới</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/binh-dinh-cat-bay-lap-duong-khu-kinh-te-nhon-hoi-20160824064239256.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="395730"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/vu-146-quan-thanh-so-phan-hang-chuc-nguoi-dan-se-di-ve-dau-20160722064106783.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Số phận h&#224;ng chục người d&#226;n sẽ đi về đ&#226;u?" ><img   title="Vụ 146 Qu&#225;n Th&#225;nh: Số phận h&#224;ng chục người d&#226;n sẽ đi về đ&#226;u?" alt="Vụ 146 Qu&#225;n Th&#225;nh: Số phận h&#224;ng chục người d&#226;n sẽ đi về đ&#226;u?" data-x2="https://dantricdn.com/5c34cf22/zoom/137_105/dd98dadc32/2016/07/22/screen-shot-2016-07-22-at-12-20-37-am-1469122299304.png" src="https://dantricdn.com/zoom/130_100/dd98dadc32/2016/07/22/screen-shot-2016-07-22-at-12-20-37-am-1469122299304.png" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160722064106783"><p class="subtitle"><a href="/ban-doc/vu-146-quan-thanh-so-phan-hang-chuc-nguoi-dan-se-di-ve-dau-20160722064106783.htm">Bài 51:</a></p><h2><a href="/ban-doc/vu-146-quan-thanh-so-phan-hang-chuc-nguoi-dan-se-di-ve-dau-20160722064106783.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Số phận h&#224;ng chục người d&#226;n sẽ đi về đ&#226;u?" class="fon6" data-newstype="2"  data-linktype="newsdetail"   data-id="20160722064106783"  >Vụ 146 Quán Thánh: Số phận hàng chục người dân sẽ đi về đâu?</a></h2><div class="fon5 wid324 fl">(Dân trí) - Nhiều năm đã trôi qua, hơn 10 hộ dân với cả người già và trẻ em tại biển số nhà 146 Quán Thánh - Ba Đình (Hà Nội) vẫn đang bị "bức tử" bởi tình trạng ô nhiễm. Dù Thanh tra TP Hà Nội đã có kết luận chỉ rõ hàng loạt sai phạm từ tháng 11/2015 nhưng dù “mỏi miệng” kêu cứu, số phận hàng chục con người vẫn chìm trong sự im lặng đáng sợ.<br /><a href="/ban-doc/vu-146-quan-thanh-so-phan-nguoi-dan-chi-bang-cai-mong-tay-20160617082656054.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Số phận người d&#226;n chỉ bằng “c&#225;i m&#243;ng tay”?"><b>&nbsp;&gt;&gt;&nbsp;Vụ 146 Quán Thánh: Số phận người dân chỉ bằng “cái móng tay”?</b></a><br /><a href="/ban-doc/vu-146-quan-thanh-dien-hinh-cua-chuyen-ha-noi-khong-voi-duoc-dau-20160518071538737.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Điển h&#236;nh của chuyện “H&#224; Nội kh&#244;ng vội được đ&#226;u”!"><b>&nbsp;&gt;&gt;&nbsp;Vụ 146 Quán Thánh: Điển hình của chuyện “Hà Nội không vội được đâu”!</b></a><br /><a href="/ban-doc/vu-146-quan-thanh-ubnd-quan-ba-dinh-phai-lam-gi-de-dung-luat-hop-long-dan-20160509072913145.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: UBND quận Ba Đ&#236;nh phải l&#224;m g&#236; để đ&#250;ng luật, hợp l&#242;ng d&#226;n?"><b>&nbsp;&gt;&gt;&nbsp;Vụ 146 Quán Thánh: UBND quận Ba Đình phải làm gì để đúng luật, hợp lòng dân?</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/vu-146-quan-thanh-so-phan-hang-chuc-nguoi-dan-se-di-ve-dau-20160722064106783.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="388112"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/bac-giang-than-nhien-gay-toi-ac-giet-chet-mot-dong-song-2016070606275312.htm" title="Bắc Giang: Thản nhi&#234;n g&#226;y tội &#225;c, giết chết một d&#242;ng s&#244;ng!" ><img   title="Bắc Giang: Thản nhi&#234;n g&#226;y tội &#225;c, giết chết một d&#242;ng s&#244;ng!" alt="Bắc Giang: Thản nhi&#234;n g&#226;y tội &#225;c, giết chết một d&#242;ng s&#244;ng!" data-x2="https://dantricdn.com/07aa9a6d/zoom/137_105/2016/images1610261-fullscreen-capture-05072016-115816-pm-bmp-1467760831217.jpg" src="https://dantricdn.com/zoom/130_100/2016/images1610261-fullscreen-capture-05072016-115816-pm-bmp-1467760831217.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="2016070606275312"><h2><a href="/ban-doc/bac-giang-than-nhien-gay-toi-ac-giet-chet-mot-dong-song-2016070606275312.htm" title="Bắc Giang: Thản nhi&#234;n g&#226;y tội &#225;c, giết chết một d&#242;ng s&#244;ng!" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="2016070606275312"  >Bắc Giang: Thản nhiên gây tội ác, giết chết một dòng sông!</a></h2><div class="fon5 wid324 fl">(Dân trí) - Sông Cẩm Đàn chảy qua địa phận huyện Sơn Động (Bắc Giang) bị Công ty CP Tập đoàn Khoáng sản Á Cường đầu độc suốt nhiều năm nay bằng việc xả chất thải tuyển và luyện đồng trực tiếp. Tội ác với dòng sông này diễn ra ngay cạnh Quốc lộ 31, cách UBND huyện Sơn Động chưa đến 10km.<br /><a href="/ban-doc/bac-giang-sau-nha-may-dam-den-nha-may-bia-ngay-dem-dau-doc-song-thuong-20160630073526414.htm" title="Bắc Giang: Sau nh&#224; m&#225;y đạm đến nh&#224; m&#225;y bia ng&#224;y đ&#234;m “đầu độc” s&#244;ng Thương"><b>&nbsp;&gt;&gt;&nbsp;Bắc Giang: Sau nhà máy đạm đến nhà máy bia ngày đêm “đầu độc” sông Thương</b></a><br /><a href="/ban-doc/chi-dao-khan-cuu-rung-cua-thu-tuong-va-chuyen-nha-quan-pha-rung-tai-bac-giang-20160629071009298.htm" title="Chỉ đạo khẩn cứu rừng của Thủ tướng v&#224; chuyện “nh&#224; quan” ph&#225; rừng tại Bắc Giang"><b>&nbsp;&gt;&gt;&nbsp;Chỉ đạo khẩn cứu rừng của Thủ tướng và chuyện “nhà quan” phá rừng tại Bắc Giang</b></a><br /><a href="/xa-hoi/vu-dau-doc-song-thuong-xu-phat-thu-pham-350-trieu-dong-1422292396.htm" title="Vụ “đầu độc” s&#244;ng Thương: Xử phạt “thủ phạm” 350 triệu đồng"><b>&nbsp;&gt;&gt;&nbsp;Vụ “đầu độc” sông Thương: Xử phạt “thủ phạm” 350 triệu đồng</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/bac-giang-than-nhien-gay-toi-ac-giet-chet-mot-dong-song-2016070606275312.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="374896"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/ubnd-tinh-lam-dong-chi-dao-phai-lam-ro-trach-nhiem-vu-ap-thue-57-ty-dong-20160607073025946.htm" title="UBND tỉnh L&#226;m Đồng chỉ đạo phải l&#224;m r&#245; tr&#225;ch nhiệm vụ &#225;p thuế 5,7 tỷ đồng" ><img   title="UBND tỉnh L&#226;m Đồng chỉ đạo phải l&#224;m r&#245; tr&#225;ch nhiệm vụ &#225;p thuế 5,7 tỷ đồng" alt="UBND tỉnh L&#226;m Đồng chỉ đạo phải l&#224;m r&#245; tr&#225;ch nhiệm vụ &#225;p thuế 5,7 tỷ đồng" data-x2="https://dantricdn.com/46bd018f/zoom/137_105/96a1faf49c/2016/06/06/12-1465219937423.jpg" src="https://dantricdn.com/zoom/130_100/96a1faf49c/2016/06/06/12-1465219937423.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160607073025946"><p class="subtitle"><a href="/ban-doc/ubnd-tinh-lam-dong-chi-dao-phai-lam-ro-trach-nhiem-vu-ap-thue-57-ty-dong-20160607073025946.htm">Bài 61:</a></p><h2><a href="/ban-doc/ubnd-tinh-lam-dong-chi-dao-phai-lam-ro-trach-nhiem-vu-ap-thue-57-ty-dong-20160607073025946.htm" title="UBND tỉnh L&#226;m Đồng chỉ đạo phải l&#224;m r&#245; tr&#225;ch nhiệm vụ &#225;p thuế 5,7 tỷ đồng" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20160607073025946"  >UBND tỉnh Lâm Đồng chỉ đạo phải làm rõ trách nhiệm vụ áp thuế 5,7 tỷ đồng</a></h2><div class="fon5 wid324 fl">(Dân trí) - UBND tỉnh Lâm Đồng xác định, UBND huyện Đức Trọng đã làm chưa đúng quy định, kéo dài thời gian giải quyết khiếu nại, tạo dư luận không tốt tại địa phương nên yêu cầu huyện này làm rõ trách nhiệm của tổ chức, cá nhân có liên quan đến sai phạm trong vụ áp thuế 5,7 tỷ đồng cho 253m2 huyện.<br /><a href="/ban-doc/cu-ba-75-tuoi-mung-roi-nuoc-mat-nhan-cuon-so-do-0-dong-tien-thue-20160603164508189.htm" title="Cụ b&#224; 75 tuổi mừng rơi nước mắt nhận cuốn sổ đỏ 0 đồng tiền thuế"><b>&nbsp;&gt;&gt;&nbsp;Cụ bà 75 tuổi mừng rơi nước mắt nhận cuốn sổ đỏ 0 đồng tiền thuế</b></a><br /><a href="/ban-doc/so-phan-hang-chuc-nguoi-dan-146-quan-thanh-nhin-tu-vu-ap-thue-57-ty-20160603072012073.htm" title="Số phận h&#224;ng chục người d&#226;n 146 Qu&#225;n Th&#225;nh nh&#236;n từ vụ &#225;p thuế 5,7 tỷ"><b>&nbsp;&gt;&gt;&nbsp;Số phận hàng chục người dân 146 Quán Thánh nhìn từ vụ áp thuế 5,7 tỷ</b></a><br /><a href="/ban-doc/thu-tuong-yeu-cau-ubnd-tinh-lam-dong-bao-cao-vu-ap-thue-57-ty-dong-20160530093849535.htm" title="Thủ tướng y&#234;u cầu UBND tỉnh L&#226;m Đồng b&#225;o c&#225;o vụ &#225;p thuế 5,7 tỷ đồng"><b>&nbsp;&gt;&gt;&nbsp;Thủ tướng yêu cầu UBND tỉnh Lâm Đồng báo cáo vụ áp thuế 5,7 tỷ đồng</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/ubnd-tinh-lam-dong-chi-dao-phai-lam-ro-trach-nhiem-vu-ap-thue-57-ty-dong-20160607073025946.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="362248"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/vu-ap-thue-57-ty-cho-253m2-dat-huyen-them-mot-vu-ca-phe-xin-chao-tai-lam-dong-20160513074922451.htm" title="Vụ &#225;p thuế 5,7 tỷ cho 253m2 đất huyện: Th&#234;m một vụ c&#224; ph&#234; “Xin ch&#224;o” tại L&#226;m Đồng?" ><img   title="Vụ &#225;p thuế 5,7 tỷ cho 253m2 đất huyện: Th&#234;m một vụ c&#224; ph&#234; “Xin ch&#224;o” tại L&#226;m Đồng?" alt="Vụ &#225;p thuế 5,7 tỷ cho 253m2 đất huyện: Th&#234;m một vụ c&#224; ph&#234; “Xin ch&#224;o” tại L&#226;m Đồng?" data-x2="https://dantricdn.com/457ee807/zoom/137_105/2016/vu-ap-thue-57-ty-minh-chung-cu-ba-co-4000m2-dat-gio-trang-tay-1463100210959.jpg" src="https://dantricdn.com/zoom/130_100/2016/vu-ap-thue-57-ty-minh-chung-cu-ba-co-4000m2-dat-gio-trang-tay-1463100210959.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160513074922451"><p class="subtitle"><a href="/ban-doc/vu-ap-thue-57-ty-cho-253m2-dat-huyen-them-mot-vu-ca-phe-xin-chao-tai-lam-dong-20160513074922451.htm">Bài 47:</a></p><h2><a href="/ban-doc/vu-ap-thue-57-ty-cho-253m2-dat-huyen-them-mot-vu-ca-phe-xin-chao-tai-lam-dong-20160513074922451.htm" title="Vụ &#225;p thuế 5,7 tỷ cho 253m2 đất huyện: Th&#234;m một vụ c&#224; ph&#234; “Xin ch&#224;o” tại L&#226;m Đồng?" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20160513074922451"  >Vụ áp thuế 5,7 tỷ cho 253m2 đất huyện: Thêm một vụ cà phê “Xin chào” tại Lâm Đồng?</a></h2><div class="fon5 wid324 fl">(Dân trí) - “Các vị quan chức ở huyện Đức Trọng và tỉnh Lâm Đồng cũng có gia đình, cũng có cha, có mẹ và cũng phải sống, thử hỏi cả đời làm Bí thư tỉnh ủy hoặc Chủ tịch UBND tỉnh liêm khiết cũng chẳng có đến 5,7 tỷ đồng, thử hỏi vận dụng áp dụng pháp luật cho một mảnh đất ở phố huyện và yêu cầu một bà cụ già phải nộp thuế 5,7 tỷ đồng có đáng làm quan nữa hay không và có còn tư cách là công bộc của dân nữa hay không?” bạn đọc Dân trí bày tỏ.<br /><a href="/ban-doc/vu-ap-thue-57-ty-minh-chung-cu-ba-co-4000m2-dat-gio-trang-tay-20160510082054092.htm" title="Vụ &#225;p thuế 5,7 tỷ: Minh chứng cụ b&#224; c&#243; 4.000m2 đất giờ trắng tay!"><b>&nbsp;&gt;&gt;&nbsp;Vụ áp thuế 5,7 tỷ: Minh chứng cụ bà có 4.000m2 đất giờ trắng tay!</b></a><br /><a href="/ban-doc/vu-ap-thue-57-ty-cho-253m2-dat-huyen-cu-lich-keu-cuu-chu-tich-tinh-lam-dong-20160506072627897.htm" title="Vụ &#225;p thuế 5,7 tỷ cho 253m2 đất huyện: Cụ L&#237;ch &quot;k&#234;u cứu&quot; Chủ tịch tỉnh L&#226;m Đồng"><b>&nbsp;&gt;&gt;&nbsp;Vụ áp thuế 5,7 tỷ cho 253m2 đất huyện: Cụ Lích "kêu cứu" Chủ tịch tỉnh Lâm Đồng</b></a><br /><a href="/ban-doc/bai-44-ban-doc-dan-tri-lat-tay-su-gian-tra-trong-vu-ap-thue-57-ty-cho-253m2-dat-huyen-20160409082045384.htm" title="B&#224;i 44: Bạn đọc D&#226;n tr&#237; “lật tẩy” sự gian tr&#225; trong vụ &#225;p thuế 5,7 tỷ cho 253m2 đất huyện"><b>&nbsp;&gt;&gt;&nbsp;Bài 44: Bạn đọc Dân trí “lật tẩy” sự gian trá trong vụ áp thuế 5,7 tỷ cho 253m2 đất huyện</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/vu-ap-thue-57-ty-cho-253m2-dat-huyen-them-mot-vu-ca-phe-xin-chao-tai-lam-dong-20160513074922451.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div><div  data-boxtype="timelineposition"   data-posid="359215"   data-locked="false"  class="mt3 clearfix eplcheck"><a  href="/ban-doc/bac-giang-co-quan-dieu-tra-vao-cuoc-vu-cap-phep-cho-trum-lua-dao-lap-cong-ty-da-cap-20160506080808317.htm" title="Bắc Giang: Cơ quan điều tra v&#224;o cuộc vụ cấp ph&#233;p cho tr&#249;m lừa đảo lập c&#244;ng ty đa cấp" ><img   title="Bắc Giang: Cơ quan điều tra v&#224;o cuộc vụ cấp ph&#233;p cho tr&#249;m lừa đảo lập c&#244;ng ty đa cấp" alt="Bắc Giang: Cơ quan điều tra v&#224;o cuộc vụ cấp ph&#233;p cho tr&#249;m lừa đảo lập c&#244;ng ty đa cấp" data-x2="https://dantricdn.com/fd338091/zoom/137_105/2016/7113-315171122000308-4252972186419918848-n-b864b-1461025004711.jpg" src="https://dantricdn.com/zoom/130_100/2016/7113-315171122000308-4252972186419918848-n-b864b-1461025004711.jpg" width="130" height="100" class="img130"/></a><div class="mr1" data-id="20160506080808317"><p class="subtitle"><a href="/ban-doc/bac-giang-co-quan-dieu-tra-vao-cuoc-vu-cap-phep-cho-trum-lua-dao-lap-cong-ty-da-cap-20160506080808317.htm">Bài 9:</a></p><h2><a href="/ban-doc/bac-giang-co-quan-dieu-tra-vao-cuoc-vu-cap-phep-cho-trum-lua-dao-lap-cong-ty-da-cap-20160506080808317.htm" title="Bắc Giang: Cơ quan điều tra v&#224;o cuộc vụ cấp ph&#233;p cho tr&#249;m lừa đảo lập c&#244;ng ty đa cấp" class="fon6" data-newstype="0"  data-linktype="newsdetail"   data-id="20160506080808317"  >Bắc Giang: Cơ quan điều tra vào cuộc vụ cấp phép cho trùm lừa đảo lập công ty đa cấp</a></h2><div class="fon5 wid324 fl">(Dân trí) - Ông Đào Xuân Cường - Phó giám đốc Sở Công thương tỉnh Bắc Giang cho biết ngày 5/5, cơ quan này đã lập biên bản bàn giao một số tài liệu liên quan đến Công ty CP Liên minh tiêu dùng Việt Nam cho Phòng CSĐT tội phạm về Quản lý kinh tế và chức vụ (PC 46) Công an tỉnh Bắc Giang.<br /><a href="/ban-doc/vu-cap-phep-cho-trum-lua-dao-lap-cong-ty-da-cap-phai-xem-xet-xu-ly-hinh-su-20160504063205768.htm" title="Vụ cấp ph&#233;p cho tr&#249;m lừa đảo lập c&#244;ng ty đa cấp: “Phải xem x&#233;t xử l&#253; h&#236;nh sự!”"><b>&nbsp;&gt;&gt;&nbsp;Vụ cấp phép cho trùm lừa đảo lập công ty đa cấp: “Phải xem xét xử lý hình sự!”</b></a><br /><a href="/ban-doc/so-cong-thuong-nhan-sai-vu-cap-phep-cho-trum-lua-dao-lap-cong-ty-da-cap-20160426141737789.htm" title="Sở C&#244;ng thương nhận sai vụ cấp ph&#233;p cho tr&#249;m lừa đảo lập c&#244;ng ty đa cấp"><b>&nbsp;&gt;&gt;&nbsp;Sở Công thương nhận sai vụ cấp phép cho trùm lừa đảo lập công ty đa cấp</b></a><br /><a href="/ban-doc/lat-tay-bi-an-vu-cap-phep-cho-trum-lua-dao-lam-lanh-dao-cong-ty-da-cap-20160422062427432.htm" title="Lật tẩy b&#237; ẩn vụ cấp ph&#233;p cho tr&#249;m lừa đảo l&#224;m l&#227;nh đạo c&#244;ng ty đa cấp"><b>&nbsp;&gt;&gt;&nbsp;Lật tẩy bí ẩn vụ cấp phép cho trùm lừa đảo làm lãnh đạo công ty đa cấp</b></a></div><a rel="nofollow" class="icon-detail fon7" href="/ban-doc/bac-giang-co-quan-dieu-tra-vao-cuoc-vu-cap-phep-cho-trum-lua-dao-lap-cong-ty-da-cap-20160506080808317.htm">Xem tiếp</a> </div></div><div class="line1 mt1"> </div>
+</div>
+<script type="text/lazyscript">    
+    {
+        var currentUrl=$("#hidCategoryPath").val();
+        if (typeof (currentUrl) != "undefined" && currentUrl != "/the-thao/bong-da-anh")
+            brandContentStream.init("#listcheckepl");
+    }
+</script>
+
+            <div class="clearfix mt1">
+                <div class="fr">
+                    <a class="fon27 mt1 mr2" href="/ban-doc/goc-anh/trang-2.htm">[ Trang sau ]</a>
+                </div>
+                <div class="fr">
+                    
+                </div>
+
+            </div>
+            
+<div id="ctl00_ctl00_cphBody_cphBody_ctrBoxVoteInZone" data-boxtype="voteinzone" data-zoneid="202" class="clearfix"></div>
+            <div style="float: left; width: 465px; padding: 10px 0 0 0;">
+            </div>
+            
+            
+
+            
+                <div class="box21 mt5 clearfix">
+                    <div class="fon39">
+                        Các bài đã đăng
+                    </div>
+                    <ul class="ul11 ml2 mt2">
+                        <li><a href="/ban-doc/hon-10000-ve-xe-nuoc-mien-phi-phuc-vu-van-nguoi-don-ve-vuon-thu-thu-le-20160503145401769.htm" title="Hơn 10.000 v&#233; xe, nước miễn ph&#237; phục vụ vạn người dồn về vườn th&#250; Thủ Lệ">Hơn 10.000 vé xe, nước miễn phí phục vụ vạn người dồn về vườn thú Thủ Lệ (3/5)</a></li><li><a href="/goc-anh/rac-thai-hoanh-hanh-ven-bien-xu-nghe-20160414075318494.htm" title="R&#225;c thải “ho&#224;nh h&#224;nh” ven biển xứ Nghệ">Rác thải “hoành hành” ven biển xứ Nghệ (14/4)</a></li><li><a href="/ban-doc/can-canh-hang-chuc-ki-ot-sai-muc-dich-bua-vay-cong-ty-giong-cay-trong-ha-tay-20160413082516051.htm" title="Cận cảnh h&#224;ng chục ki ốt sai mục đ&#237;ch “bủa v&#226;y” C&#244;ng ty Giống c&#226;y trồng H&#224; T&#226;y">Cận cảnh hàng chục ki ốt sai mục đích “bủa vây” Công ty Giống cây trồng Hà Tây (13/4)</a></li><li><a href="/ban-doc/vu-ap-thue-57-ty-cho-253m2-dat-ket-luan-lanh-lung-va-khan-cau-cua-cu-ba-75-tuoi-20160406173017517.htm" title="Vụ &#225;p thuế 5,7 tỷ cho 253m2 đất: Kết luận lạnh l&#249;ng v&#224; khẩn cầu của cụ b&#224; 75 tuổi!">Vụ áp thuế 5,7 tỷ cho 253m2 đất: Kết luận lạnh lùng và khẩn cầu của cụ bà 75 tuổi! (6/4)</a></li><li><a href="/ban-doc/ubnd-tp-ha-noi-thuc-so-tai-chinh-xu-ly-ngay-vu-co-phan-hoa-vit-troi-tai-hacinco-20160328085506815.htm" title="UBND TP H&#224; Nội “th&#250;c” Sở T&#224;i ch&#237;nh xử l&#253; ngay vụ cổ phần ho&#225; “vịt trời” tại HACINCO">UBND TP Hà Nội “thúc” Sở Tài chính xử lý ngay vụ cổ phần hoá “vịt trời” tại HACINCO (28/3)</a></li><li><a href="/ban-doc/vu-146-quan-thanh-cuon-so-do-mo-am-bi-lat-tay-ai-phai-chiu-trach-nhiem-20160307073004851.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Cuốn sổ đỏ mờ &#225;m bị “lật tẩy”, ai phải chịu tr&#225;ch nhiệm?">Vụ 146 Quán Thánh: Cuốn sổ đỏ mờ ám bị “lật tẩy”, ai phải chịu trách nhiệm? (7/3)</a></li><li><a href="/ban-doc/bi-an-so-do-tren-manh-dat-ma-tai-huyen-hoai-duc-co-quan-dieu-tra-vao-cuoc-20160216075039339.htm" title="B&#237; ẩn sổ đỏ tr&#234;n mảnh đất “ma” tại huyện Ho&#224;i Đức: Cơ quan điều tra v&#224;o cuộc">Bí ẩn sổ đỏ trên mảnh đất “ma” tại huyện Hoài Đức: Cơ quan điều tra vào cuộc (16/2)</a></li><li><a href="/goc-anh/khoanh-khac-ong-do-nhi-khai-but-don-xuan-20160214081852147.htm" title="Khoảnh khắc &#244;ng Đồ nh&#237; khai b&#250;t đ&#243;n xu&#226;n">Khoảnh khắc ông Đồ nhí khai bút đón xuân (14/2)</a></li><li><a href="/ban-doc/chum-chim-hoa-tet-cuoi-chao-gio-dong-20160205083750956.htm" title="Ch&#250;m ch&#237;m hoa Tết cười ch&#224;o gi&#243; đ&#244;ng">Chúm chím hoa Tết cười chào gió đông (5/2)</a></li><li><a href="/ban-doc/sac-dao-phai-o-bien-cuong-xu-nghe-20160131093219553.htm" title="Sắc đ&#224;o phai ở bi&#234;n cương xứ Nghệ">Sắc đào phai ở biên cương xứ Nghệ (31/1)</a></li><li><a href="/ban-doc/vu-146-quan-thanh-ket-luan-nhieu-sai-pham-de-nghi-xu-ly-hang-loat-can-bo-20160107073416749.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Kết luận nhiều sai phạm, đề nghị xử l&#253; h&#224;ng loạt c&#225;n bộ">Vụ 146 Quán Thánh: Kết luận nhiều sai phạm, đề nghị xử lý hàng loạt cán bộ (7/1)</a></li><li><a href="/ban-doc/ha-noi-camera-bat-qua-tang-hung-thu-do-xang-dot-nha-to-truong-to-dan-pho-trong-dem-20151217070010937.htm" title="H&#224; Nội: Camera bắt quả tang hung thủ đổ xăng đốt nh&#224; tổ trưởng tổ d&#226;n phố trong đ&#234;m">Hà Nội: Camera bắt quả tang hung thủ đổ xăng đốt nhà tổ trưởng tổ dân phố trong đêm (17/12)</a></li>
+                    </ul>
+                </div>
+            
+            
+<div class="clearfix mt2 newsdateselector">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm trước" id="btnViewNewsPrevDate">
+    <input class="btn-view-month" type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="Xem bài theo ngày tháng »" id="Button1">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm sau" id="btnViewNewsNextDate">
+</div>
+<script type="text/lazyscript">
+    var categoryPath = $("#hidCategoryPath").val().trim('/');
+    
+    var currentDate = new Date();
+    if ($("#hidCurrentDate") && $("#hidCurrentDate").val() != '') {
+        currentDate = new Date($("#hidCurrentDate").val());
+    }
+    var now = new Date();
+    var hasNext = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() > new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate()).getTime();
+    
+    var prevDate = currentDate.addDays(-1);
+    var prevDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, prevDate.getDate(), prevDate.getMonth() + 1, prevDate.getFullYear(), appSettings.urlExtension);
+    $('#btnViewNewsPrevDate').bind('click', function () {
+        window.location.href = prevDateUrl;
+    });
+
+    if (hasNext) {
+        var nextDate = currentDate.addDays(1);
+        var nextDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, nextDate.getDate(), nextDate.getMonth() + 1, nextDate.getFullYear(), appSettings.urlExtension);
+        $('#btnViewNewsNextDate').bind('click', function () {
+            window.location.href = nextDateUrl;
+        });
+        $('#btnViewNewsNextDate').show();
+    }else{
+        $('#btnViewNewsNextDate').addClass('disabled');
+    }
+</script>
+
+
+        </div>
+
+
+        <div class="fr w510">
+            
+
+
+
+<div class="fl wid310 box5 admicro mgl10">
+
+    
+        <div align="center" class="ic-ads" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 300px" align="center">
+                
+<div id="admzone401"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone401') });
+</script> 
+            </div> 
+        </div> 
+    
+    
+<div class="fl" id="newsfocus">
+    <div class="fon42 tieudiemh3">Tiêu điểm</div>
+    <div class="box16 box24 ml1 mr1 mb2 newsfocuspage1">
+        <div class="box24 clearfix"><div class="fr wid150"><a  href="/ban-doc/ubnd-tp-ha-noi-thuc-so-tai-chinh-xu-ly-ngay-vu-co-phan-hoa-vit-troi-tai-hacinco-20160328085506815.htm" title="UBND TP H&#224; Nội “th&#250;c” Sở T&#224;i ch&#237;nh xử l&#253; ngay vụ cổ phần ho&#225; “vịt trời” tại HACINCO" ><img   title="UBND TP H&#224; Nội “th&#250;c” Sở T&#224;i ch&#237;nh xử l&#253; ngay vụ cổ phần ho&#225; “vịt trời” tại HACINCO" alt="UBND TP H&#224; Nội “th&#250;c” Sở T&#224;i ch&#237;nh xử l&#253; ngay vụ cổ phần ho&#225; “vịt trời” tại HACINCO" data-x2="https://dantricdn.com/19cfdf39/zoom/48_48/2016/tam1451367888-1459129877835.png" src="https://dantricdn.com/zoom/45_45/2016/tam1451367888-1459129877835.png" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/ban-doc/ubnd-tp-ha-noi-thuc-so-tai-chinh-xu-ly-ngay-vu-co-phan-hoa-vit-troi-tai-hacinco-20160328085506815.htm" title="UBND TP H&#224; Nội “th&#250;c” Sở T&#224;i ch&#237;nh xử l&#253; ngay vụ cổ phần ho&#225; “vịt trời” tại HACINCO" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >UBND TP Hà Nội “thúc” Sở Tài chính xử lý ngay vụ cổ phần hoá “vịt trời” tại HACINCO</a></div><div class="fr"><a  href="/ban-doc/vu-146-quan-thanh-ket-luan-nhieu-sai-pham-de-nghi-xu-ly-hang-loat-can-bo-20160107073416749.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Kết luận nhiều sai phạm, đề nghị xử l&#253; h&#224;ng loạt c&#225;n bộ" ><img   title="Vụ 146 Qu&#225;n Th&#225;nh: Kết luận nhiều sai phạm, đề nghị xử l&#253; h&#224;ng loạt c&#225;n bộ" alt="Vụ 146 Qu&#225;n Th&#225;nh: Kết luận nhiều sai phạm, đề nghị xử l&#253; h&#224;ng loạt c&#225;n bộ" data-x2="https://dantricdn.com/b68106b0/zoom/48_48/2016/vu-146-quan-thanh-quan-ba-dinh-khang-dinh-xay-cong-moi-khong-phai-hoi-y-dan-1452126614466.jpg" src="https://dantricdn.com/zoom/45_45/2016/vu-146-quan-thanh-quan-ba-dinh-khang-dinh-xay-cong-moi-khong-phai-hoi-y-dan-1452126614466.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/ban-doc/vu-146-quan-thanh-ket-luan-nhieu-sai-pham-de-nghi-xu-ly-hang-loat-can-bo-20160107073416749.htm" title="Vụ 146 Qu&#225;n Th&#225;nh: Kết luận nhiều sai phạm, đề nghị xử l&#253; h&#224;ng loạt c&#225;n bộ" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="2"  >Vụ 146 Quán Thánh: Kết luận nhiều sai phạm, đề nghị xử lý hàng loạt cán bộ</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/ban-doc/ha-noi-loan-tinh-trang-xa-xeo-via-he-kinh-doanh-truc-loi-20150916074443824.htm" title="H&#224; Nội: Loạn t&#236;nh trạng “x&#224; xẻo” vỉa h&#232; kinh doanh trục lợi" ><img   title="H&#224; Nội: Loạn t&#236;nh trạng “x&#224; xẻo” vỉa h&#232; kinh doanh trục lợi" alt="H&#224; Nội: Loạn t&#236;nh trạng “x&#224; xẻo” vỉa h&#232; kinh doanh trục lợi" data-x2="https://dantricdn.com/844f32a5/zoom/48_48/2015/c-1442363458609.jpg" src="https://dantricdn.com/zoom/45_45/2015/c-1442363458609.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/ban-doc/ha-noi-loan-tinh-trang-xa-xeo-via-he-kinh-doanh-truc-loi-20150916074443824.htm" title="H&#224; Nội: Loạn t&#236;nh trạng “x&#224; xẻo” vỉa h&#232; kinh doanh trục lợi" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="7"  >Hà Nội: Loạn tình trạng “xà xẻo” vỉa hè kinh doanh trục lợi</a></div><div class="fr"><a  href="/goc-anh/can-canh-cay-sa-mu-hang-tram-nam-tuoi-bi-xe-thit-o-khu-bao-ton-thien-nhien-pu-hoat-1437793800.htm" title="Cận cảnh c&#226;y sa mu h&#224;ng trăm năm tuổi bị &quot;xẻ thịt&quot; ở khu bảo tồn thi&#234;n nhi&#234;n P&#249; Hoạt " ><img   title="Cận cảnh c&#226;y sa mu h&#224;ng trăm năm tuổi bị &quot;xẻ thịt&quot; ở khu bảo tồn thi&#234;n nhi&#234;n P&#249; Hoạt " alt="Cận cảnh c&#226;y sa mu h&#224;ng trăm năm tuổi bị &quot;xẻ thịt&quot; ở khu bảo tồn thi&#234;n nhi&#234;n P&#249; Hoạt " data-x2="https://dantricdn.com/e4e695a9/zoom/48_48/XJLdGSyN1hlIWXirZRccccccccccc/Image/2015/07/Tuan-3/c23-e4bdc.JPG" src="https://dantricdn.com/zoom/45_45/XJLdGSyN1hlIWXirZRccccccccccc/Image/2015/07/Tuan-3/c23-e4bdc.JPG" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/goc-anh/can-canh-cay-sa-mu-hang-tram-nam-tuoi-bi-xe-thit-o-khu-bao-ton-thien-nhien-pu-hoat-1437793800.htm" title="Cận cảnh c&#226;y sa mu h&#224;ng trăm năm tuổi bị &quot;xẻ thịt&quot; ở khu bảo tồn thi&#234;n nhi&#234;n P&#249; Hoạt " class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="3"  >Cận cảnh cây sa mu hàng trăm năm tuổi bị "xẻ thịt" ở khu bảo tồn thiên nhiên Pù Hoạt </a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/ban-doc/hang-nghin-ho-dan-bi-anh-huong-do-thi-cong-ql1a-mon-moi-cho-boi-thuong-1437720869.htm" title="H&#224;ng ngh&#236;n hộ d&#226;n bị ảnh hưởng do thi c&#244;ng QL1A m&#242;n mỏi chờ bồi thường" ><img   title="H&#224;ng ngh&#236;n hộ d&#226;n bị ảnh hưởng do thi c&#244;ng QL1A m&#242;n mỏi chờ bồi thường" alt="H&#224;ng ngh&#236;n hộ d&#226;n bị ảnh hưởng do thi c&#244;ng QL1A m&#242;n mỏi chờ bồi thường" data-x2="https://dantricdn.com/07e9fa52/zoom/48_48/BAL9z8UxyzBGeyNs2bkzYmXQnNdT5w/Image/2015/07/IMG20150714161907-ef9e8.jpg" src="https://dantricdn.com/zoom/45_45/BAL9z8UxyzBGeyNs2bkzYmXQnNdT5w/Image/2015/07/IMG20150714161907-ef9e8.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/ban-doc/hang-nghin-ho-dan-bi-anh-huong-do-thi-cong-ql1a-mon-moi-cho-boi-thuong-1437720869.htm" title="H&#224;ng ngh&#236;n hộ d&#226;n bị ảnh hưởng do thi c&#244;ng QL1A m&#242;n mỏi chờ bồi thường" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Hàng nghìn hộ dân bị ảnh hưởng do thi công QL1A mòn mỏi chờ bồi thường</a></div><div class="fr"><a  href="/goc-anh/thang-6-matxcva-1436063114.htm" title="Th&#225;ng 6 M&#225;txcva" ><img   title="Th&#225;ng 6 M&#225;txcva" alt="Th&#225;ng 6 M&#225;txcva" data-x2="https://dantricdn.com/a985d971/zoom/48_48/NdJw4j29Q84pyqT4BD5wcmvZHZQizE/Image/2015/06/1-8e1e1.jpg" src="https://dantricdn.com/zoom/45_45/NdJw4j29Q84pyqT4BD5wcmvZHZQizE/Image/2015/06/1-8e1e1.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/goc-anh/thang-6-matxcva-1436063114.htm" title="Th&#225;ng 6 M&#225;txcva" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Tháng 6 Mátxcva</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/ban-doc/quang-tri-nguoi-dan-thot-tim-khi-di-qua-cay-cau-phao-xuong-cap-1435801100.htm" title="Quảng Trị: Người d&#226;n “th&#243;t tim” khi đi qua c&#226;y cầu phao xuống cấp" ><img   title="Quảng Trị: Người d&#226;n “th&#243;t tim” khi đi qua c&#226;y cầu phao xuống cấp" alt="Quảng Trị: Người d&#226;n “th&#243;t tim” khi đi qua c&#226;y cầu phao xuống cấp" data-x2="https://dantricdn.com/f42f5c47/zoom/48_48/nc7sz3jZdi9sfdqVhhtj9QXHEiqfH/Image/2015/06/cau-phao--83d86.jpg" src="https://dantricdn.com/zoom/45_45/nc7sz3jZdi9sfdqVhhtj9QXHEiqfH/Image/2015/06/cau-phao--83d86.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/ban-doc/quang-tri-nguoi-dan-thot-tim-khi-di-qua-cay-cau-phao-xuong-cap-1435801100.htm" title="Quảng Trị: Người d&#226;n “th&#243;t tim” khi đi qua c&#226;y cầu phao xuống cấp" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="3"  >Quảng Trị: Người dân “thót tim” khi đi qua cây cầu phao xuống cấp</a></div><div class="fr"><a  href="/ban-doc/an-hoa-khon-luong-tren-tuyen-duong-de-dai-ha-1435112710.htm" title="Ẩn hoạ kh&#244;n lường tr&#234;n tuyến đường đ&#234; Đại H&#224;" ><img   title="Ẩn hoạ kh&#244;n lường tr&#234;n tuyến đường đ&#234; Đại H&#224;" alt="Ẩn hoạ kh&#244;n lường tr&#234;n tuyến đường đ&#234; Đại H&#224;" data-x2="https://dantricdn.com/f5037061/zoom/48_48/NdJw4j29Q84pyqT4BD5wcmvZHZQizE/Image/2015/06/DSC_0216-6788d.JPG" src="https://dantricdn.com/zoom/45_45/NdJw4j29Q84pyqT4BD5wcmvZHZQizE/Image/2015/06/DSC_0216-6788d.JPG" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/ban-doc/an-hoa-khon-luong-tren-tuyen-duong-de-dai-ha-1435112710.htm" title="Ẩn hoạ kh&#244;n lường tr&#234;n tuyến đường đ&#234; Đại H&#224;" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="3"  >Ẩn hoạ khôn lường trên tuyến đường đê Đại Hà</a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/xa-hoi/mua-giong-lon-can-quet-ha-noi-cay-xanh-do-la-liet-giao-thong-hon-loan-1434883092.htm" title="Mưa gi&#244;ng lớn &quot;c&#224;n qu&#233;t&quot; H&#224; Nội, c&#226;y xanh đổ la liệt, giao th&#244;ng hỗn loạn" ><img   title="Mưa gi&#244;ng lớn &quot;c&#224;n qu&#233;t&quot; H&#224; Nội, c&#226;y xanh đổ la liệt, giao th&#244;ng hỗn loạn" alt="Mưa gi&#244;ng lớn &quot;c&#224;n qu&#233;t&quot; H&#224; Nội, c&#226;y xanh đổ la liệt, giao th&#244;ng hỗn loạn" data-x2="https://dantricdn.com/c1c2bff9/zoom/48_48/fqSRYTsPuikdGkrla5nMAONCDXiL4X/Image/2015/06/9-9376a.jpg" src="https://dantricdn.com/zoom/45_45/fqSRYTsPuikdGkrla5nMAONCDXiL4X/Image/2015/06/9-9376a.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/xa-hoi/mua-giong-lon-can-quet-ha-noi-cay-xanh-do-la-liet-giao-thong-hon-loan-1434883092.htm" title="Mưa gi&#244;ng lớn &quot;c&#224;n qu&#233;t&quot; H&#224; Nội, c&#226;y xanh đổ la liệt, giao th&#244;ng hỗn loạn" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="7"  >Mưa giông lớn "càn quét" Hà Nội, cây xanh đổ la liệt, giao thông hỗn loạn</a></div><div class="fr"><a  href="/goc-anh/ngay-he-cua-nhung-dua-tre-o-noi-co-mat-do-dan-so-dong-nhat-viet-nam-1434498645.htm" title="Ng&#224;y h&#232; của những đứa trẻ ở nơi c&#243; mật độ d&#226;n số đ&#244;ng nhất Việt Nam" ><img   title="Ng&#224;y h&#232; của những đứa trẻ ở nơi c&#243; mật độ d&#226;n số đ&#244;ng nhất Việt Nam" alt="Ng&#224;y h&#232; của những đứa trẻ ở nơi c&#243; mật độ d&#226;n số đ&#244;ng nhất Việt Nam" data-x2="https://dantricdn.com/2cd5bc47/zoom/48_48/kSyjvhiZ9ccccccccccccZkEngs3pb/Image/2015/06/15-6a184.jpg" src="https://dantricdn.com/zoom/45_45/kSyjvhiZ9ccccccccccccZkEngs3pb/Image/2015/06/15-6a184.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/goc-anh/ngay-he-cua-nhung-dua-tre-o-noi-co-mat-do-dan-so-dong-nhat-viet-nam-1434498645.htm" title="Ng&#224;y h&#232; của những đứa trẻ ở nơi c&#243; mật độ d&#226;n số đ&#244;ng nhất Việt Nam" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Ngày hè của những đứa trẻ ở nơi có mật độ dân số đông nhất Việt Nam</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/goc-anh/lam-lem-nhung-dua-tre-o-vung-bien-gioi-xu-nghe-1433837726.htm" title="Lấm lem những đứa trẻ ở v&#249;ng bi&#234;n giới xứ Nghệ " ><img   title="Lấm lem những đứa trẻ ở v&#249;ng bi&#234;n giới xứ Nghệ " alt="Lấm lem những đứa trẻ ở v&#249;ng bi&#234;n giới xứ Nghệ " data-x2="https://dantricdn.com/11ecccea/zoom/48_48/rJ0iHdNBkYdMK1z0LUIrrp45w7mfzu/Image/2015/06/TUAN-1/a8-16b3d.JPG" src="https://dantricdn.com/zoom/45_45/rJ0iHdNBkYdMK1z0LUIrrp45w7mfzu/Image/2015/06/TUAN-1/a8-16b3d.JPG" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/goc-anh/lam-lem-nhung-dua-tre-o-vung-bien-gioi-xu-nghe-1433837726.htm" title="Lấm lem những đứa trẻ ở v&#249;ng bi&#234;n giới xứ Nghệ " class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Lấm lem những đứa trẻ ở vùng biên giới xứ Nghệ </a></div><div class="fr"><a  href="/ban-doc/nghe-an-duong-hang-chuc-ty-chua-ban-giao-da-nat-nhu-tuong-1433151275.htm" title="Nghệ An: Đường h&#224;ng chục tỷ chưa b&#224;n giao đ&#227; n&#225;t như tương" ><img   title="Nghệ An: Đường h&#224;ng chục tỷ chưa b&#224;n giao đ&#227; n&#225;t như tương" alt="Nghệ An: Đường h&#224;ng chục tỷ chưa b&#224;n giao đ&#227; n&#225;t như tương" data-x2="https://dantricdn.com/6f220ebe/zoom/48_48/rJ0iHdNBkYdMK1z0LUIrrp45w7mfzu/Image/2015/05/Tuan-3/_nh-1-(3)-87519.JPG" src="https://dantricdn.com/zoom/45_45/rJ0iHdNBkYdMK1z0LUIrrp45w7mfzu/Image/2015/05/Tuan-3/_nh-1-(3)-87519.JPG" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/ban-doc/nghe-an-duong-hang-chuc-ty-chua-ban-giao-da-nat-nhu-tuong-1433151275.htm" title="Nghệ An: Đường h&#224;ng chục tỷ chưa b&#224;n giao đ&#227; n&#225;t như tương" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="3"  >Nghệ An: Đường hàng chục tỷ chưa bàn giao đã nát như tương</a></div></div>
+    </div>
+</div>
+
+<script type="text/lazyscript">
+    pagingBoxTieuDiem(3);
+</script>
+<div align="center" class="ic-ads" style="float: left;">
+    <div name="column" style="padding-bottom: 5px; float: left; width: 300px; padding: 5px" align="center">
+        <iframe src="http://comment.dantri.com.vn/DefaultHdpl.aspx" frameborder="0" marginheight="0" marginwidth="0" width="302px" height="350px" scrolling="no"></iframe>
+    </div>
+</div>
+
+
+    
+        <div style="float: left; width: 300px; padding: 5px">
+            
+            
+<div id="admzone345"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone345') });
+</script>
+        </div> 
+    
+</div>
+
+    <div class="fr pt5" style="width: 180px;">
+        <div align="center" class="dantri-div-bottom" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 180px; padding-top: 5px;" align="center">
+                
+<div id="admzone228"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone228') });
+</script> 
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+    <div id="adm_sticky_footer" style="height: 0px">
+        </div>
+    
+<div class="video-slide">
+        <h3><a href="/video-page.htm" title="Video">Video</a><span class="info" id="video-slide-info">1 - 5 / 14</span><span class="video-slide-button"><a rel="nofollow" href="javascript:void(0)" class="sprite-dantri-new prev"></a><a class="sprite-dantri-new next" rel="nofollow" href="javascript:void(0)" ></a></span></h3>
+        <div class="video-slide-viewpot">
+            <ul id="video-slide">
+                <li ><a href="/video/bac-ninh-de-nghi-dieu-tra-tinh-trang-bao-ke-de-doa-lanh-dao-tinh-lien-quan-tai-nguyen-cat-60055.htm" title="Bắc Ninh đề nghị điều tra t&#236;nh trạng bảo k&#234;, đe dọa l&#227;nh đạo tỉnh li&#234;n quan t&#224;i nguy&#234;n c&#225;t"><img title="Bắc Ninh đề nghị điều tra t&#236;nh trạng bảo k&#234;, đe dọa l&#227;nh đạo tỉnh li&#234;n quan t&#224;i nguy&#234;n c&#225;t" alt="Bắc Ninh đề nghị điều tra t&#236;nh trạng bảo k&#234;, đe dọa l&#227;nh đạo tỉnh li&#234;n quan t&#224;i nguy&#234;n c&#225;t" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/sh87zra9f6jim38giinmscywcccccc/2017/03/15/p-1489574872146-5d3b2.jpg" width="125" height="78" /></a><a href="/video/bac-ninh-de-nghi-dieu-tra-tinh-trang-bao-ke-de-doa-lanh-dao-tinh-lien-quan-tai-nguyen-cat-60055.htm" title="Bắc Ninh đề nghị điều tra t&#236;nh trạng bảo k&#234;, đe dọa l&#227;nh đạo tỉnh li&#234;n quan t&#224;i nguy&#234;n c&#225;t">Bắc Ninh đề nghị điều tra tình trạng bảo kê, đe dọa lãnh đạo tỉnh liên quan tài nguyên cát</a><a href="/video/bac-ninh-de-nghi-dieu-tra-tinh-trang-bao-ke-de-doa-lanh-dao-tinh-lien-quan-tai-nguyen-cat-60055.htm" title="Bắc Ninh đề nghị điều tra t&#236;nh trạng bảo k&#234;, đe dọa l&#227;nh đạo tỉnh li&#234;n quan t&#224;i nguy&#234;n c&#225;t" class="sprite-dantri-new icon"></a></li><li ><a href="/video/chua-phep-tram-tron-be-tong-tuoi-hoat-dong-59725.htm" title="Chưa ph&#233;p, trạm trộn b&#234; t&#244;ng tươi hoạt động."><img title="Chưa ph&#233;p, trạm trộn b&#234; t&#244;ng tươi hoạt động." alt="Chưa ph&#233;p, trạm trộn b&#234; t&#244;ng tươi hoạt động." src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/d25bdc51bf/2017/03/07/img-0689-1488903737176.jpg" width="125" height="78" /></a><a href="/video/chua-phep-tram-tron-be-tong-tuoi-hoat-dong-59725.htm" title="Chưa ph&#233;p, trạm trộn b&#234; t&#244;ng tươi hoạt động.">Chưa phép, trạm trộn bê tông tươi hoạt động.</a><a href="/video/chua-phep-tram-tron-be-tong-tuoi-hoat-dong-59725.htm" title="Chưa ph&#233;p, trạm trộn b&#234; t&#244;ng tươi hoạt động." class="sprite-dantri-new icon"></a></li><li ><a href="/video/dan-phan-doi-tram-bts-59675.htm" title="D&#226;n phản đối trạm BTS."><img title="D&#226;n phản đối trạm BTS." alt="D&#226;n phản đối trạm BTS." src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/d25bdc51bf/2017/03/04/img-9448-2-1488642372300.jpg" width="125" height="78" /></a><a href="/video/dan-phan-doi-tram-bts-59675.htm" title="D&#226;n phản đối trạm BTS.">Dân phản đối trạm BTS.</a><a href="/video/dan-phan-doi-tram-bts-59675.htm" title="D&#226;n phản đối trạm BTS." class="sprite-dantri-new icon"></a></li><li ><a href="/video/bai-20-thi-hanh-den-cung-mot-ban-an-sai-pham-la-vi-pham-phap-luat-16407.htm" title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”"><img title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”" alt="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/uEzll4k9kas2QtUZIjJSPQ/2014/03/20/ghg-af225.jpg" width="125" height="78" /></a><a href="/video/bai-20-thi-hanh-den-cung-mot-ban-an-sai-pham-la-vi-pham-phap-luat-16407.htm" title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”">Bài 20: “Thi hành đến cùng một bản án sai phạm là vi phạm pháp luật”</a><a href="/video/bai-20-thi-hanh-den-cung-mot-ban-an-sai-pham-la-vi-pham-phap-luat-16407.htm" title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”" class="sprite-dantri-new icon"></a></li><li class="last"><a href="/video/bai-20-thi-hanh-den-cung-mot-ban-an-sai-pham-la-vi-pham-phap-luat-17914.htm" title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”"><img title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”" alt="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/uEzll4k9kas2QtUZIjJSPQ/2014/04/28/sdsad-1a301.jpg" width="125" height="78" /></a><a href="/video/bai-20-thi-hanh-den-cung-mot-ban-an-sai-pham-la-vi-pham-phap-luat-17914.htm" title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”">Bài 20: “Thi hành đến cùng một bản án sai phạm là vi phạm pháp luật”</a><a href="/video/bai-20-thi-hanh-den-cung-mot-ban-an-sai-pham-la-vi-pham-phap-luat-17914.htm" title="B&#224;i 20: “Thi h&#224;nh đến c&#249;ng một bản &#225;n sai phạm l&#224; vi phạm ph&#225;p luật”" class="sprite-dantri-new icon"></a></li><li ><a href="/video/rac-duoi-da-cau-cai-rang-59637.htm" title="R&#225;c dưới dạ cầu C&#225;i Răng"><img title="R&#225;c dưới dạ cầu C&#225;i Răng" alt="R&#225;c dưới dạ cầu C&#225;i Răng" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/4b3b0248fa/2017/03/04/img-4563-1488618173285.jpg" width="125" height="78" /></a><a href="/video/rac-duoi-da-cau-cai-rang-59637.htm" title="R&#225;c dưới dạ cầu C&#225;i Răng">Rác dưới dạ cầu Cái Răng</a><a href="/video/rac-duoi-da-cau-cai-rang-59637.htm" title="R&#225;c dưới dạ cầu C&#225;i Răng" class="sprite-dantri-new icon"></a></li><li ><a href="/video/binh-dinh-dan-to-doanh-nghiep-khai-thac-vo-toi-va-anh-huong-den-doi-song-59497.htm" title="B&#236;nh Định: D&#226;n tố doanh nghiệp khai th&#225;c v&#244; tội vạ, ảnh hưởng đến đời sống"><img title="B&#236;nh Định: D&#226;n tố doanh nghiệp khai th&#225;c v&#244; tội vạ, ảnh hưởng đến đời sống" alt="B&#236;nh Định: D&#226;n tố doanh nghiệp khai th&#225;c v&#244; tội vạ, ảnh hưởng đến đời sống" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/7524963698/2017/03/03/hutcat-1488512460327.jpg" width="125" height="78" /></a><a href="/video/binh-dinh-dan-to-doanh-nghiep-khai-thac-vo-toi-va-anh-huong-den-doi-song-59497.htm" title="B&#236;nh Định: D&#226;n tố doanh nghiệp khai th&#225;c v&#244; tội vạ, ảnh hưởng đến đời sống">Bình Định: Dân tố doanh nghiệp khai thác vô tội vạ, ảnh hưởng đến đời sống</a><a href="/video/binh-dinh-dan-to-doanh-nghiep-khai-thac-vo-toi-va-anh-huong-den-doi-song-59497.htm" title="B&#236;nh Định: D&#226;n tố doanh nghiệp khai th&#225;c v&#244; tội vạ, ảnh hưởng đến đời sống" class="sprite-dantri-new icon"></a></li><li ><a href="/video/the-nao-la-giet-nguoi-trong-trang-thai-tinh-than-bi-kich-dong-manh-58851.htm" title="Thế n&#224;o l&#224; giết người trong trạng th&#225;i tinh thần bị k&#237;ch động mạnh?"><img title="Thế n&#224;o l&#224; giết người trong trạng th&#225;i tinh thần bị k&#237;ch động mạnh?" alt="Thế n&#224;o l&#224; giết người trong trạng th&#225;i tinh thần bị k&#237;ch động mạnh?" src="http://video-thumbs.mediacdn.vn/zoom/125_78/dantri/62b6ce166f/2017/02/19/kichdongmanh-1487451524275.jpg" width="125" height="78" /></a><a href="/video/the-nao-la-giet-nguoi-trong-trang-thai-tinh-than-bi-kich-dong-manh-58851.htm" title="Thế n&#224;o l&#224; giết người trong trạng th&#225;i tinh thần bị k&#237;ch động mạnh?">Thế nào là giết người trong trạng thái tinh thần bị kích động mạnh?</a><a href="/video/the-nao-la-giet-nguoi-trong-trang-thai-tinh-than-bi-kich-dong-manh-58851.htm" title="Thế n&#224;o l&#224; giết người trong trạng th&#225;i tinh thần bị k&#237;ch động mạnh?" class="sprite-dantri-new icon"></a></li>
+                
+            </ul>
+        </div>
+    </div>
+    <script language="javascript" type="text/lazyscript">
+        var video_slide_maxtab = 5;
+        var video_slide_count = 8;
+        var video_slide_currenttab = 1;
+        PrintInfo();
+        function video_slide_forward() {
+            video_slide_currenttab++;
+            if (video_slide_currenttab > video_slide_maxtab) video_slide_currenttab = video_slide_maxtab;
+
+            var leftpx = (video_slide_currenttab - 1) * (-946);
+            $('#video-slide').animate({ left: leftpx }, 500);
+
+            PrintInfo();
+        }
+        function video_slide_backward() {
+            video_slide_currenttab--;
+            if (video_slide_currenttab < 1) video_slide_currenttab = 1;
+            var leftpx = (video_slide_currenttab - 1) * (-946);
+            $('#video-slide').animate({ left: leftpx }, 500);
+
+            PrintInfo();
+        }
+        function PrintInfo() {
+            var from = video_slide_currenttab * 5 - 4;
+            var to = video_slide_currenttab * 5;
+            $('#video-slide-info').html(from + ' - ' + to + ' / ' + video_slide_count);
+        }
+
+        $(".sprite-dantri-new.prev").click(video_slide_backward);
+        $(".sprite-dantri-new.next").click(video_slide_forward);
+    </script>
+    
+<div class="mostviewbyzone">
+    <div class="mv-header">
+        
+            <img src="http://static.dantricdn.com/App_Themes/Default/Images/blank.gif" border="0">
+    </div>
+    <div class="mv-container">
+        <div class="mv-item" >
+                    <a href="/ban-doc/chu-tich-tinh-bac-ninh-bi-de-doa-tau-cat-tap-ket-o-at-rut-ruot-song-cau-20170316043718481.htm" title="Chủ tịch tỉnh Bắc Ninh bị đe doạ, tàu cát tập kết ồ ạt “rút ruột” sông Cầu">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/k-1489574821137.png" title="Chủ tịch tỉnh Bắc Ninh bị đe doạ, t&#224;u c&#225;t tập kết ồ ạt “r&#250;t ruột” s&#244;ng Cầu" alt="Chủ tịch tỉnh Bắc Ninh bị đe doạ, t&#224;u c&#225;t tập kết ồ ạt “r&#250;t ruột” s&#244;ng Cầu" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/chu-tich-tinh-bac-ninh-bi-de-doa-tau-cat-tap-ket-o-at-rut-ruot-song-cau-20170316043718481.htm" title="Chủ tịch tỉnh Bắc Ninh bị đe doạ, tàu cát tập kết ồ ạt “rút ruột” sông Cầu">Chủ tịch tỉnh Bắc Ninh bị đe doạ, tàu cát tập kết ồ ạt “rút ruột” sông Cầu</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/ban-doc/bac-ninh-de-nghi-dieu-tra-viec-bao-ke-de-doa-lanh-dao-tinh-lien-quan-tai-nguyen-cat-20170315175326095.htm" title="Bắc Ninh đề nghị điều tra việc bảo kê, đe dọa lãnh đạo tỉnh liên quan tài nguyên cát">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/k-1489574821137.png" title="Bắc Ninh đề nghị điều tra việc bảo k&#234;, đe dọa l&#227;nh đạo tỉnh li&#234;n quan t&#224;i nguy&#234;n c&#225;t" alt="Bắc Ninh đề nghị điều tra việc bảo k&#234;, đe dọa l&#227;nh đạo tỉnh li&#234;n quan t&#224;i nguy&#234;n c&#225;t" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/bac-ninh-de-nghi-dieu-tra-viec-bao-ke-de-doa-lanh-dao-tinh-lien-quan-tai-nguyen-cat-20170315175326095.htm" title="Bắc Ninh đề nghị điều tra việc bảo kê, đe dọa lãnh đạo tỉnh liên quan tài nguyên cát">Bắc Ninh đề nghị điều tra việc bảo kê, đe dọa lãnh đạo tỉnh liên quan tài nguyên cát</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/ban-doc/ket-luan-vu-pho-van-phong-huyen-bo-ngoai-so-sach-hon-800-trieu-mua-xe-bieu-sep-20170315084838832.htm" title="Kết luận vụ phó văn phòng huyện bỏ ngoài sổ sách hơn 800 triệu mua xe biếu "sếp"">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/1-1489484840479.jpg" title="Kết luận vụ ph&#243; văn ph&#242;ng huyện bỏ ngo&#224;i sổ s&#225;ch hơn 800 triệu mua xe biếu &quot;sếp&quot;" alt="Kết luận vụ ph&#243; văn ph&#242;ng huyện bỏ ngo&#224;i sổ s&#225;ch hơn 800 triệu mua xe biếu &quot;sếp&quot;" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/ket-luan-vu-pho-van-phong-huyen-bo-ngoai-so-sach-hon-800-trieu-mua-xe-bieu-sep-20170315084838832.htm" title="Kết luận vụ phó văn phòng huyện bỏ ngoài sổ sách hơn 800 triệu mua xe biếu "sếp"">Kết luận vụ phó văn phòng huyện bỏ ngoài sổ sách hơn 800 triệu mua xe biếu "sếp"</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/ban-doc/bo-ngoai-so-sach-hon-800-trieu-mua-xe-tang-sep-lanh-dao-huyen-rut-kinh-nghiem-20170316122850143.htm" title="Bỏ ngoài sổ sách hơn 800 triệu mua xe tặng “sếp”: Lãnh đạo huyện… rút kinh nghiệm!">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/1-1489484840479.jpg" title="Bỏ ngo&#224;i sổ s&#225;ch hơn 800 triệu mua xe tặng “sếp”: L&#227;nh đạo huyện… r&#250;t kinh nghiệm!" alt="Bỏ ngo&#224;i sổ s&#225;ch hơn 800 triệu mua xe tặng “sếp”: L&#227;nh đạo huyện… r&#250;t kinh nghiệm!" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/bo-ngoai-so-sach-hon-800-trieu-mua-xe-tang-sep-lanh-dao-huyen-rut-kinh-nghiem-20170316122850143.htm" title="Bỏ ngoài sổ sách hơn 800 triệu mua xe tặng “sếp”: Lãnh đạo huyện… rút kinh nghiệm!">Bỏ ngoài sổ sách hơn 800 triệu mua xe tặng “sếp”: Lãnh đạo huyện… rút kinh nghiệm!</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/ban-doc/ha-noi-uan-khuc-gi-phia-sau-vu-mua-dat-lam-nha-o-18-nam-van-bi-ban-dau-gia-20170314132911867.htm" title="Hà Nội: Uẩn khúc gì phía sau vụ mua đất làm nhà ở 18 năm vẫn bị bán đấu giá?">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/mua-dat-lam-nha-o-18-nam-van-bi-ke-bien-ban-dau-gia-mot-kieu-thi-hanh-an-am-o-1-1480120458232-1489472671502.jpg" title="H&#224; Nội: Uẩn kh&#250;c g&#236; ph&#237;a sau vụ mua đất l&#224;m nh&#224; ở 18 năm vẫn bị b&#225;n đấu gi&#225;?" alt="H&#224; Nội: Uẩn kh&#250;c g&#236; ph&#237;a sau vụ mua đất l&#224;m nh&#224; ở 18 năm vẫn bị b&#225;n đấu gi&#225;?" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/ha-noi-uan-khuc-gi-phia-sau-vu-mua-dat-lam-nha-o-18-nam-van-bi-ban-dau-gia-20170314132911867.htm" title="Hà Nội: Uẩn khúc gì phía sau vụ mua đất làm nhà ở 18 năm vẫn bị bán đấu giá?">Hà Nội: Uẩn khúc gì phía sau vụ mua đất làm nhà ở 18 năm vẫn bị bán đấu giá?</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/ban-doc/tp-ha-noi-bao-cao-chinh-phu-ve-vu-co-phan-hoa-tai-tieng-tai-hacinco-2017031615150613.htm" title="TP Hà Nội báo cáo Chính phủ về vụ cổ phần hoá tai tiếng tại HACINCO">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/vu-co-phan-hoa-vit-troi-tai-hacinco-khi-hon-truong-ba-da-hang-thit-1474450092063-1482824151476-1488415548872.png" title="TP H&#224; Nội b&#225;o c&#225;o Ch&#237;nh phủ về vụ cổ phần ho&#225; tai tiếng tại HACINCO" alt="TP H&#224; Nội b&#225;o c&#225;o Ch&#237;nh phủ về vụ cổ phần ho&#225; tai tiếng tại HACINCO" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/tp-ha-noi-bao-cao-chinh-phu-ve-vu-co-phan-hoa-tai-tieng-tai-hacinco-2017031615150613.htm" title="TP Hà Nội báo cáo Chính phủ về vụ cổ phần hoá tai tiếng tại HACINCO">TP Hà Nội báo cáo Chính phủ về vụ cổ phần hoá tai tiếng tại HACINCO</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/ban-doc/loi-keu-cuu-tu-a-rap-xe-ut-cong-ty-dung-tru-so-ma-lo-hang-loat-sai-pham-2017031509494391.htm" title="Lời kêu cứu từ Ả Rập Xê Út: Công ty dùng trụ sở “ma” lộ hàng loạt sai phạm!">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/16143205-613227982194619-6880027068443927394-n-1485136522986-1487867473000-1489545651965.jpg" title="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: C&#244;ng ty d&#249;ng trụ sở “ma” lộ h&#224;ng loạt sai phạm!" alt="Lời k&#234;u cứu từ Ả Rập X&#234; &#218;t: C&#244;ng ty d&#249;ng trụ sở “ma” lộ h&#224;ng loạt sai phạm!" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/loi-keu-cuu-tu-a-rap-xe-ut-cong-ty-dung-tru-so-ma-lo-hang-loat-sai-pham-2017031509494391.htm" title="Lời kêu cứu từ Ả Rập Xê Út: Công ty dùng trụ sở “ma” lộ hàng loạt sai phạm!">Lời kêu cứu từ Ả Rập Xê Út: Công ty dùng trụ sở “ma” lộ hàng loạt sai phạm!</a></h4> 
+                    </div><div class="mv-item" >
+                    <a href="/ban-doc/bo-tnmt-len-tieng-vu-thuong-binh-hon-20-nam-di-doi-dat-tai-bac-giang-20170313085103494.htm" title="Bộ TN&MT lên tiếng vụ thương binh hơn 20 năm đi đòi đất tại Bắc Giang">
+                    <img src="https://dantricdn.com/zoom/65_65/2017/20161117-100532-1479703830491-1489369323029.jpg" title="Bộ TN&amp;MT l&#234;n tiếng vụ thương binh hơn 20 năm đi đ&#242;i đất tại Bắc Giang" alt="Bộ TN&amp;MT l&#234;n tiếng vụ thương binh hơn 20 năm đi đ&#242;i đất tại Bắc Giang" width="65" height="65" />
+                    </a>
+                    <h4><a href="/ban-doc/bo-tnmt-len-tieng-vu-thuong-binh-hon-20-nam-di-doi-dat-tai-bac-giang-20170313085103494.htm" title="Bộ TN&MT lên tiếng vụ thương binh hơn 20 năm đi đòi đất tại Bắc Giang">Bộ TN&MT lên tiếng vụ thương binh hơn 20 năm đi đòi đất tại Bắc Giang</a></h4> 
+                    </div>
+        
+    </div>
+    <div class="mv-footer"></div>
+</div>
+<script type="text/lazyscript">
+    var items = $('.mv-item');
+    if (items && items.length > 0) {
+        var maxHeight = 0;
+        items.each(function () {
+            if ($(this).height() > maxHeight) {
+                maxHeight = $(this).height();
+            }
+            if ((items.index($(this))+1) % 4 == 0) {
+
+                $(this).addClass("last");
+            }
+        });
+        items.css('height', maxHeight);
+    }
+</script>
+
+
+            </div>
+            <div id="adm_sticky_footer" style="height: 0px">
+            </div>
+            
+
+<div class="footer box19">
+    <div class="fr mb1 mt2">
+        <a href="javascript:void(0)" data-elementtype="button-sethomepage" rel="nofollow">Đặt Dân trí làm trang chủ </a>|  <a href="mailto:dantri@dantri.com.vn" title="Góp ý - Liên hệ" rel="nofollow">Góp ý
+            - Liên hệ</a> | &nbsp;&nbsp;&nbsp;<a
+                href="#" class="fon19" rel="nofollow">[ Trở về đầu trang ]</a>
+    </div>
+    <div class="clear line2">
+    </div>
+    <div class="clearfix">
+        <div class="fon17 mt1">
+            <a rel="nofollow" href="/su-kien.htm" title="Sự kiện">Sự kiện</a> | <a rel="nofollow" href="/xa-hoi.htm" title="Xã hội">Xã hội</a> | <a rel="nofollow" href="/the-gioi.htm" title="Thế giới">Thế giới</a> | <a rel="nofollow" href="/the-thao.htm" title="Thể thao">Thể thao</a> | <a rel="nofollow" href="/giao-duc-khuyen-hoc.htm" title="Giáo dục">Giáo dục</a> | <a rel="nofollow" href="/tam-long-nhan-ai.htm" title="Nhân ái">Nhân ái</a> | <a rel="nofollow" href="/kinh-doanh.htm" title="Kinh doanh">Kinh doanh</a> | <a rel="nofollow" href="/van-hoa.htm" title="Văn hóa">Văn hóa</a> | <a rel="nofollow" href="/giai-tri.htm" title="Giải trí">Giải trí</a> | <a rel="nofollow" href="http://dulich.dantri.com.vn" target="_blank" title="Du lịch">Du lịch</a> | <a rel="nofollow" href="/phap-luat.htm" title="Pháp luật">Pháp luật</a> | <a rel="nofollow" href="/nhip-song-tre.htm" title="Nhịp sống trẻ">Nhịp sống trẻ</a> | <a rel="nofollow" href="/suc-khoe.htm" title="Sức khỏe">Sức khỏe</a> |  <a rel="nofollow" href="/suc-manh-so.htm" title="Sức mạnh số">Sức mạnh số</a> | <a rel="nofollow" href="/o-to-xe-may.htm" title="Xe++">Xe++</a>
+            | <a rel="nofollow" href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu">Tình yêu</a> | <a rel="nofollow" href="/chuyen-la.htm" title="Chuyện lạ">Chuyện lạ</a>
+        </div>
+    </div>
+    <div class="footer-content box8 fon18 lh18">
+        <div class="footer-content-left">
+            Cơ quan của TW Hội Khuyến học Việt Nam<br />
+            Giấy phép hoạt động báo điện tử Dân trí trên Internet số  378/GP - BTTTT Hà Nội,
+            ngày 16-09-2013.<br />
+            Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br />
+            Điện thoại: 04-3736-6491. Fax: 04-3736-6490<br />
+            Email: <a href="mailto:info@dantri.com.vn" title="Gửi email tới Dân Trí" rel="nofollow">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" title="Xem trang Dân Trí"
+                rel="nofollow">http://www.dantri.com.vn</a>
+            <br />
+            <p>
+                <i>Mọi hành động sử dụng nội dung đăng tải trên Báo điện tử Dân trí tại địa chỉ www.dantri.com.vn
+                phải<br/> có sự đồng ý bằng văn bản của Báo điện tử Dân trí.
+                </i>
+            </p>
+        </div>
+        <div class="footer-content-right">
+            <p>
+                Đơn vị quảng cáo: &nbsp;<img src="https://static.dantricdn.com/App_Themes/Default/Images/adm_new_logo_small.png"
+                    style="display:inline-block; border: none;" />
+            </p>
+            <p>
+                Hotline: 0926.864.344
+            </p>
+            <p>
+                Email: <a href="mailto:quangcao@admicro.vn" rel="nofollow">quangcao@admicro.vn</a>
+            </p>
+            <p>
+                Website: <a href="http://www.admicro.vn" target="_blank"
+                    rel="nofollow">www.admicro.vn</a>
+            </p>
+            <p>
+                Hỗ trợ và CSKH: 01268 269 779 (Ms. Thơm)
+            </p>
+            <p>
+                Các mảng: <a href="http://afamily.vn" target="_blank" title="gia đình">gia đình
+                </a>-<a href="http://genk.vn" target="_blank" title="công nghệ"> công nghệ </a>-
+                <a href="http://gamek.vn" target="_blank" title="game">game </a>- <a href="http://kenh14.vn"
+                    target="_blank" title="giải trí">giải trí</a> , <a href="http://kenh14.vn/xa-hoi.chn"
+                        target="_blank" title="xã hội">xã hội.</a>
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    <script src="http://static.hosting.vcmedia.vn/code_redirect_player.js" type="text/javascript"></script>
+    <script type="text/lazyscript">
+        var icoNewsTypeVote = '<i class="ico-newstype-vote" title="Bài trắc nghiệm"></i>';
+        if ($("html").hasClass("homepage")) {
+            $("a[data-newstype=22]").prepend(icoNewsTypeVote);
+        } else {
+            $("a[data-newstype=22]").append(icoNewsTypeVote);
+        }
+    </script>
+
+        
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="243E9BCE" />
+</div></form>
+    
+    
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <script src="http://dantricdn.com/web_js/js-default-new.1.3.js" type="text/javascript" ></script>
+
+
+<script type="text/lazyscript">
+    var newZoneLink = $('.subnav ul a[href$="/doi-song/thuong-luu.htm"]');
+    if (newZoneLink.length > 0) {
+        newZoneLink.css({
+            "position": "relative",
+            "padding-right": "32px"
+        });
+        var icoNew = $('<i />').css({
+            background: 'transparent url("https://dantricdn.com/web_images/bd2aa9f1-5e63-4cc5-96b3-2d03e5fd9be7.png")  0 0 no-repeat',
+            width: '29px',
+            height: '16px',
+            display: 'inline-block',
+            position: 'absolute',
+            top: '-2px',
+            right: '0'
+        });
+        newZoneLink.append(icoNew);
+    }
+</script>
+
+
+</body>
+</html>
+
+<!--u: 12:15:53 17/03/2017 -->

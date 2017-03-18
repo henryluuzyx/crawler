@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Vịt luộc chấm mắm gừng đậm chất miền Nam - Phụ Nữ News
+</title><meta name="keywords" content="củ hành,chế biến,miền nam" /><meta name="description" content="Miếng thịt vịt mềm thơm, da béo ngậy, nóng hổi hòa cùng vị cay nồng của nước mắm gừng dễ gây nghiện nếu một lần nếm thử." />
+<link rel="canonical" href="http://www.baomoi.com/vit-luoc-cham-mam-gung-dam-chat-mien-nam/c/21770820.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21770820" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21770820" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/nau-an/vit-luoc-cham-mam-gung-dam-chat-mien-nam-144383/");
+else
+window.location.replace("http://www.baomoi.com/vit-luoc-cham-mam-gung-dam-chat-mien-nam/c/21770820.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

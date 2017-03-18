@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nguyên nhân vụ tai nạn thảm khốc xe đón dâu ở Hà Nam - CAND
+</title><meta name="keywords" content="Nguyễn Phú Sáu,Nguyễn Hữu Trụ,Hà Nam,Nguyễn Thị Hồng,Lương Thành Uy,Hòa Bình,Tp Phủ Lý,tử vong,đường tránh,cấp cứu,Phủ Lý,xuất viện,Thái Bình,Quỳnh Phụ,Phan Anh Phong,địa phận huyện Kim Bảng,Công an huyện Kim Bảng,bệnh viện việt đức,công ty xi măng bút sơn,Công an Hà Nam,Tâm Phạm" /><meta name="description" content="Trong số 15 nạn nhân bị thương này, có 4 trường hợp bị thương khá nặng, các trường hợp bị thương nhẹ hơn, đến chiều qua đã được cho chuyển viện lên tuyến tr..." />
+<link rel="canonical" href="http://www.baomoi.com/nguyen-nhan-vu-tai-nan-tham-khoc-xe-don-dau-o-ha-nam/c/21791798.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791798" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791798" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://cand.com.vn/giao-thong/da-so-cac-nan-nhan-vu-tai-nan-xe-cho-khach-di-dam-cuoi-da-duoc-xuat-vien-432931/");
+else
+window.location.replace("http://www.baomoi.com/nguyen-nhan-vu-tai-nan-tham-khoc-xe-don-dau-o-ha-nam/c/21791798.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

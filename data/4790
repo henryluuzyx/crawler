@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nga khẳng định sẽ không mặc cả với Mỹ về vấn đề Crimea - VietnamPlus
+</title><meta name="keywords" content="Dmitry Peskov,tổng thống Nga,bán đảo Crimea,Nga,Sputnik,sáp nhập,Kiev,Mỹ Donald Trump,trừng phạt,moscow,giao ước,đơn cực,tranh cử,Mỹ" /><meta name="description" content="Thư ký báo chí của Tổng thống Nga, ông Dmitry Peskov khẳng định Moskva sẽ không ký giao ước với phía Mỹ về vấn đề bán đảo Crimea để đổi lấy việc dỡ bỏ các b..." />
+<link rel="canonical" href="http://www.baomoi.com/nga-khang-dinh-se-khong-mac-ca-voi-my-ve-van-de-crimea/c/21784247.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21784247" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21784247" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/nga-khang-dinh-se-khong-mac-ca-voi-my-ve-van-de-crimea/436168.vnp");
+else
+window.location.replace("http://www.baomoi.com/nga-khang-dinh-se-khong-mac-ca-voi-my-ve-van-de-crimea/c/21784247.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

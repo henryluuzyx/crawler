@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link type="image/x-icon" href="http://st.f1.kinhdoanh.vnecdn.net/i/v4/favicon.ico" rel="shortcut icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="VnExpress.net" />
+    <meta name="dc.description" content="Tin tức kinh doanh, doanh nhân & doanh nghiệp, kinh nghiệm, phân tích kinh doanh, chứng khoán, bất động sản, lãi suất ngân hàng." />
+    <meta name="dc.subject" content="Kinhdoanh - VnExpress" />
+    <meta name="dc.created" content="2001-03-03" />
+    <meta name="dc.publisher" content="VnExpress" />
+    <meta name="dc.rights.copyright" content="VnExpress" />
+    <meta name="dc.creator.name" content="VnExpress" />
+    <meta name="dc.creator.email" content="webmaster@vnexpress.net" />
+    <meta name="dc.identifier" content="http://vnexpress.net" />
+    <meta name="copyright" content="VnExpress" />
+    <meta name="author" content="VnExpress" />
+    <meta name="dc.language" content="vi-VN">
+    <meta name="robots" content="index,follow" />
+    <meta http-equiv="content-language" content="vi"/>
+    <meta name="geo.placename" content="Ha Noi, Viet Nam" />
+    <meta name="geo.region" content="VN-HN" />
+    <meta name="geo.position" content="21.030624;105.782431" />
+    <meta name="ICBM" content="21.030624, 105.782431" />
+    <meta name="revisit-after" content="days" />
+    <meta property="fb:app_id" content="1547540628876392" />
+    <link rel="canonical" href="http://startup.vnexpress.net" />
+    <!-- Twitter Card -->
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:url" content="http://startup.vnexpress.net">
+    <meta name="twitter:title" content="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh">
+    <meta name="twitter:description" content="Startup Việt 2016 – Sải bước thành công là Chương trình bình chọn và vinh danh Startup Việt Nam nổi bật trong năm do Báo VnExpress tổ chức - VnExpress Kinh Doanh">
+    <meta name="twitter:image" content="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg"/>
+    <meta name="twitter:site" content="@VnEnews">
+    <meta name="twitter:creator" content="@VnEnews">
+    <!-- End Twitter Card -->
+    <!-- iPad icons -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="144x144">
+    <!-- iPhone and iPod touch icons -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="114x114">
+    <!-- Nokia Symbian -->
+    <link rel="nokia-touch-icon" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png">
+    <!-- Android icon precomposed so it takes precedence -->
+    <link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="1x1">
+            <meta http-equiv="REFRESH" content="1800" />
+    <title>Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh</title><meta name="description" content="Startup Việt 2016 – Sải bước thành công là Chương trình bình chọn và vinh danh Startup Việt Nam nổi bật trong năm do Báo VnExpress tổ chức - VnExpress Kinh Doanh" >
+<meta name="keywords" content="Startup Việt 2016 – Sải bước thành công là Chương trình bình chọn và vinh danh Startup Việt Nam nổi bật trong năm do Báo VnExpress tổ chức - VnExpress Kinh Doanh" >    <meta content="VnExpress" property="og:site_name" />
+    <meta content="website" property="og:type" />
+    <meta content="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh" itemprop="headline" property="og:title" />
+    <meta content="http://startup.vnexpress.net" itemprop="url" property="og:url" />
+    <meta content="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg" itemprop="thumbnailUrl" property="og:image" />
+    <meta content="Startup Việt 2016 – Sải bước thành công là Chương trình bình chọn và vinh danh Startup Việt Nam nổi bật trong năm do Báo VnExpress tổ chức - VnExpress Kinh Doanh" itemprop="description" property="og:description" />
+    <link rel="alternate" href="http://startup.vnexpress.net" hreflang="vi-vn" />
+    <meta name="tt_site_id" content="1003159" />
+    <meta name="tt_category_id" content="1003159" />
+    <meta name="tt_article_id" content="1003159" />
+    <meta name="tt_page_type" content="site" />
+        <script language="javascript" type="text/javascript">
+            (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
+            ga("create", "UA-64284781-17", "auto", {"name": "t0"});
+            ga("t0.send", "pageview");
+            ga("create", "UA-249346-57", "auto", {"name": "t3"});
+            ga("t3.send", "pageview");
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+            new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+            "//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,"script","dataLayer","GTM-N3FNJF");
+            var _siteId = "24";
+            (function() {
+                var a = document.createElement("script");
+                a.type = "text/javascript";
+                a.async = !0;
+                a.src = "http://st.l.a.eclick.vn/ea.js";
+                var b = document.getElementsByTagName("script")[0];
+                b.parentNode.insertBefore(a, b)
+            })();
+        </script>
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+                <link rel="stylesheet" href="http://st.f3.vnecdn.net/myvne/c/v5/lib/jquery.fancybox.css"  media="all"/>
+    <link rel="stylesheet" href="http://st.f3.vnecdn.net/myvne/c/v5/my_index.css" media="all" />
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,600i&amp;subset=latin-ext,vietnamese" rel="stylesheet">
+        <link rel="stylesheet" href="http://startup.vnexpress.net/static/css/font-awesome.min.css?v=30" media="all" />
+    <link rel="stylesheet" href="http://startup.vnexpress.net/static/css/fonts/gotham/stylesheet.css" media="all" />
+    <link rel="stylesheet" href="http://startup.vnexpress.net/static/css/startup_v4.css?v=30" media="all" />
+        <script type="text/javascript">
+        var interactions_url    = 'http://usi.saas.vnexpress.net';
+        var base_url = 'http://startup.vnexpress.net';
+        var css_url = 'http://startup.vnexpress.net/static/css';
+        var img_url = 'http://startup.vnexpress.net/static/images';
+        var js_url = 'http://startup.vnexpress.net/static/js';
+        var device_env = 4;
+        var base_domain = 'vnexpress.net';
+        var myvne_url = 'https://my.vnexpress.net';
+        var vne_js = 'http://st.f2.vnecdn.net/responsive/j/v16';
+        document.domain = 'vnexpress.net';
+        var redirect_login = 0;
+    </script>
+    <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/libs/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/utils/jquery.nicescroll.js"></script>
+    <script src="https://stmy.vnexpress.net/myvne/j/v1/lib/jquery.fancybox.pack.js"></script>
+        <script src="http://startup.vnexpress.net/static/js/common.js?v=30"></script>
+    </head>
+<body>
+<div id="myvne_taskbar" style="display: none;"></div>
+<div id="page_startup" data-nav="home">
+    <!--header-->
+    <div class="section_top_detail section_top_home">
+        <div class="wrapper_container_startup">
+            <div class="mainmenu_st main_menu_left">
+                <ul>
+                    <li><a href="/" class="home_icon"><i class="fa fa-home"></i></a></li>
+                    <li ><a href="/gioi-thieu">Giới thiệu</a></li>
+                    <li ><a href="/the-le">Thể lệ</a></li>
+                    <li ><a href="/danh-sach">Danh sách đăng ký</a></li>
+                                            <li ><a href="/tin-tuc">Tin tức</a></li>
+                                    </ul>
+            </div>
+            <div class="hamber_icon_home"><i class="fa fa-bars"></i></div>
+            <div class="social_head right">
+                <a href="javascript:;" onclick="Startup.shareFB(this)" data-link="http://startup.vnexpress.net" data-title="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh" data-image="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg" class="fb_h"><i class="fa fa-facebook"></i></a>
+                <a href="javascript:;" onclick="Startup.shareTW(this)" data-link="http://startup.vnexpress.net" data-title="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh" data-image="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg" class="twit_h"><i class="fa fa-twitter"></i></a>
+                <a href="javascript:;" onclick="Startup.shareGoogle(this)" data-link="http://startup.vnexpress.net" data-title="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh" data-image="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg" class="google_h"><i class="fa fa-google-plus"></i></a>
+                                <div id="buser_loged" class="user_loged" style="display:none;">
+                    <img id="avatarlogin" src="" alt="" class="img_avatar" />
+                    <span id="namelogin">&nbsp;<i class="fa fa-caret-down"></i></span>
+                    <ul class="sub_user myvne_user_status">
+                        <li><a href="/dang-ky">Quản lý hồ sơ</a></li>
+                        <li><a href="javascript:;" onclick="myvne_users.logout();" title="Thoát">Thoát</a></li>
+                    </ul>
+                </div>
+                <a id="aregister_btn" href="javascript:;" class="right register_btn login_btn" onclick="redirect_login=0;myvne_users._html_popup_login();" >Đăng ký</a>
+                <a id="alogin_btn" href="javascript:;" class="right login_btn" onclick="redirect_login=0;myvne_users._html_popup_login();" >Đăng nhập</a>
+            </div>
+                            <a href="/" class="logo_home_st" title="Startup Việt - Sải Bước Thành Công"><img src="http://startup.vnexpress.net/static/images/graphics/logo_v4.svg" alt="Startup Việt - Sải Bước Thành Công" class="shadow"/></a>
+                <div class="width_common block_vinhdanh">
+                    <h2 class="txt_vinhdanh"><span>Lễ vinh danh Startup Việt 2016</span></h2>
+                    <p style="line-height: 23px;">15h00 - 18h00, ngày 9/1/2017</p>
+                    <p style="line-height: 23px;">Tòa nhà Exchange Tower - Số 1 Nam Kỳ Khởi Nghĩa, Quận 1, TP HCM</p>
+                </div>
+                        </div>
+    </div>
+
+        <div class="section_search_top width_common">
+        <div class="wrapper_container_startup">
+            <div class="left back_vne">
+                <a href="http://vnexpress.net"><i class="fa fa-arrow-left"></i>&nbsp;&nbsp;<span>Trở lại</span><img src="http://startup.vnexpress.net/static/images/graphics/logo_vne.png" alt="VnExpress" title="VnExpress"/></a>
+            </div>
+
+            
+            <div class="right box_search_st">
+                <form id="search_startup" action="/">
+                    <div class="inner_search_st width_common">
+                        <input type="text" class="input_search" name="kq" value="" placeholder="Tên Start-Up"/>
+                        <button id="btn_search" type="submit" class="btn_search">Tìm kiếm</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <!--content-->
+    <style type="text/css">
+    .is-hidden
+    {
+        display: none;
+    }
+    .highlight
+    {
+        background-color: #fffd77;
+    }
+</style>
+<div class="section_main_ctn width_common">
+    <div class="wrapper_container_startup">
+        <div class="container_homeafter width_common">
+
+                            <div class="section_news_home width_common">
+                    <div class="title_page width_common"><a href="/tin-tuc">Tin tức</a></div>
+                    <div class="row_15 list_news_home_p2">
+                                                    <div class="item_news_home">
+                                <div class="thumb_news_home"><a href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/5-xu-huong-khoi-nghiep-dang-thinh-hanh-3549922.html"><img src="http://img.f27.kinhdoanh.vnecdn.net/2017/03/03/Xu-huong-khoi-nghiep-8445-1488528146_300x180.jpg" alt="5 xu hướng khởi nghiệp đang thịnh hành" /></a></div>
+                                <h3 class="title_news_home"><a href="http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/5-xu-huong-khoi-nghiep-dang-thinh-hanh-3549922.html" title="5 xu hướng khởi nghiệp đang thịnh hành">5 xu hướng khởi nghiệp đang thịnh hành</a></h3>
+                                <div class="lead_news">Dịch vụ và sản phẩm dành cho người cao tuổi, trẻ em hoặc đề cao “cái tôi” cá nhân... được các chuyên gia dự báo sẽ trở thành xu hướng của nhiều...</div>
+                            </div>
+                                                    <div class="item_news_home">
+                                <div class="thumb_news_home"><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/startup-ban-tour-trai-nghiem-hoc-nghe-khap-chau-a-3536233.html"><img src="http://img.f26.kinhdoanh.vnecdn.net/2017/02/04/dulichlangnghe-1486177626-2957-1486177731_300x180.jpg" alt="StartUp bán tour trải nghiệm ‘học nghề’ khắp châu Á" /></a></div>
+                                <h3 class="title_news_home"><a href="http://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/startup-ban-tour-trai-nghiem-hoc-nghe-khap-chau-a-3536233.html" title="StartUp bán tour trải nghiệm ‘học nghề’ khắp châu Á">StartUp bán tour trải nghiệm ‘học nghề’ khắp châu Á</a></h3>
+                                <div class="lead_news">Du lịch trải nghiệm đời sống và nghề nghiệp của cư dân bản địa không phải mới lạ nhưng Jamon Mok đã tạo ra sự khác biệt khi thiết lập được mạng lưới...</div>
+                            </div>
+                                                    <div class="item_news_home">
+                                <div class="thumb_news_home"><a href="http://startup.vnexpress.net/tin-tuc/startup/top-5-startup-viet-2016-chia-se-y-tuong-khoi-nghiep-3527558.html"><img src="http://img.f27.kinhdoanh.vnecdn.net/2017/01/12/Ve-xe-re-3269-1483967118-600x0-6375-1484215695_300x180.jpg" alt="Top 5 Startup Việt 2016 chia sẻ ý tưởng khởi nghiệp" /></a></div>
+                                <h3 class="title_news_home"><a href="http://startup.vnexpress.net/tin-tuc/startup/top-5-startup-viet-2016-chia-se-y-tuong-khoi-nghiep-3527558.html" title="Top 5 Startup Việt 2016 chia sẻ ý tưởng khởi nghiệp">Top 5 Startup Việt 2016 chia sẻ ý tưởng khởi nghiệp</a></h3>
+                                <div class="lead_news">Các dự án khởi nghiệp góp phần giải quyết những vấn đề tồn tại trong thực tế, dựa trên nền tảng công nghệ hiện đại. </div>
+                            </div>
+                                                    <div class="item_news_home">
+                                <div class="thumb_news_home"><a href="http://startup.vnexpress.net/tin-tuc/startup/quan-quan-startup-viet-2016-khoi-nghiep-can-hy-sinh-nhieu-thu-3526705.html"><img src="http://img.f26.kinhdoanh.vnecdn.net/2017/01/11/top-1550-1484102743_300x180.jpg" alt="Quán quân Startup Việt 2016: 'Khởi nghiệp cần hy sinh nhiều thứ'" /></a></div>
+                                <h3 class="title_news_home"><a href="http://startup.vnexpress.net/tin-tuc/startup/quan-quan-startup-viet-2016-khoi-nghiep-can-hy-sinh-nhieu-thu-3526705.html" title="Quán quân Startup Việt 2016: 'Khởi nghiệp cần hy sinh nhiều thứ'">Quán quân Startup Việt 2016: 'Khởi nghiệp cần hy sinh nhiều thứ'</a></h3>
+                                <div class="lead_news">Đào Việt Thắng - đồng sáng lập VeXeRe.com cho rằng, hành trình khởi nghiệp đem đến nhiều áp lực và cung bậc cảm xúc, đòi hỏi giới trẻ phải kiên trì, hy...</div>
+                            </div>
+                                            </div>
+                </div>
+                        <div class="width_common section_top_30">
+                <div class="top_intro">
+                    <div class="result_search width_common text_title" >
+                        <h1 id="result_search" data-total="18" data-text=" startup được lựa chọn vào chung kết"> Danh sách 18 startup được lựa chọn vào chung kết</h1>
+                    </div>
+                                    </div>
+                <div class="list_startup_thumb row">
+                                        <div class="item_start_up" id="it_pj_id_80">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(80)" title="mediThank - Mã số y khoa online">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/hoaimarkjpg-1479181792_180x180.jpg" alt="mediThank - Mã số y khoa online" title="mediThank - Mã số y khoa online"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(80)" title="mediThank - Mã số y khoa online">mediThank - Mã số y khoa online</a></h2>
+                    </div>
+                    <span id="sp_pj_id_80"></span>
+                                        <div class="item_start_up" id="it_pj_id_86">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(86)" title="GO-IXE">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/hangbatrijpg-1479181740_180x180.jpg" alt="GO-IXE" title="GO-IXE"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(86)" title="GO-IXE">GO-IXE</a></h2>
+                    </div>
+                    <span id="sp_pj_id_86"></span>
+                                        <div class="item_start_up" id="it_pj_id_114">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(114)" title="Websosanh.vn">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/dongjpg-1479181529_180x180.jpg" alt="Websosanh.vn" title="Websosanh.vn"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(114)" title="Websosanh.vn">Websosanh.vn</a></h2>
+                    </div>
+                    <span id="sp_pj_id_114"></span>
+                                        <div class="item_start_up" id="it_pj_id_129">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(129)" title="Gachvang.com">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/bichhaojpg-1479181466_180x180.jpg" alt="Gachvang.com" title="Gachvang.com"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(129)" title="Gachvang.com">Gachvang.com</a></h2>
+                    </div>
+                    <span id="sp_pj_id_129"></span>
+                                        <div class="item_start_up" id="it_pj_id_170">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(170)" title="Zita.vn">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/thuytranjpg-1479181390_180x180.jpg" alt="Zita.vn" title="Zita.vn"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(170)" title="Zita.vn">Zita.vn</a></h2>
+                    </div>
+                    <span id="sp_pj_id_170"></span>
+                                        <div class="item_start_up" id="it_pj_id_172">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(172)" title="Công ty Cổ phần Công nghệ Plasma Việt Nam">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/longdanghaijpg-1479181367_180x180.jpg" alt="Công ty Cổ phần Công nghệ Plasma Việt Nam" title="Công ty Cổ phần Công nghệ Plasma Việt Nam"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(172)" title="Công ty Cổ phần Công nghệ Plasma Việt Nam">Công ty Cổ phần Công nghệ Plasma Việt Nam</a></h2>
+                    </div>
+                    <span id="sp_pj_id_172"></span>
+                                        <div class="item_start_up" id="it_pj_id_180">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(180)" title="Vntrip.vn">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/infojpg-1479181324_180x180.jpg" alt="Vntrip.vn" title="Vntrip.vn"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(180)" title="Vntrip.vn">Vntrip.vn</a></h2>
+                    </div>
+                    <span id="sp_pj_id_180"></span>
+                                        <div class="item_start_up" id="it_pj_id_213">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(213)" title="Money Lover">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/moneyloverjpg-1479204526_180x180.jpg" alt="Money Lover" title="Money Lover"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(213)" title="Money Lover">Money Lover</a></h2>
+                    </div>
+                    <span id="sp_pj_id_213"></span>
+                                        <div class="item_start_up" id="it_pj_id_237">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(237)" title="Công ty Cổ phần ViCare">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/1449114996-logo-1478790361_180x180.png" alt="Công ty Cổ phần ViCare" title="Công ty Cổ phần ViCare"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(237)" title="Công ty Cổ phần ViCare">Công ty Cổ phần ViCare</a></h2>
+                    </div>
+                    <span id="sp_pj_id_237"></span>
+                                        <div class="item_start_up" id="it_pj_id_253">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(253)" title="Công ty CP PT Dịch vụ Nhà sạch HMC">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/jupviecjpg-1479180425_180x180.jpg" alt="Công ty CP PT Dịch vụ Nhà sạch HMC" title="Công ty CP PT Dịch vụ Nhà sạch HMC"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(253)" title="Công ty CP PT Dịch vụ Nhà sạch HMC">Công ty CP PT Dịch vụ Nhà sạch HMC</a></h2>
+                    </div>
+                    <span id="sp_pj_id_253"></span>
+                                        <div class="item_start_up" id="it_pj_id_255">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(255)" title="Vinagroups.vn">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/vinagroupjpg-1479180380_180x180.jpg" alt="Vinagroups.vn" title="Vinagroups.vn"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(255)" title="Vinagroups.vn">Vinagroups.vn</a></h2>
+                    </div>
+                    <span id="sp_pj_id_255"></span>
+                                        <div class="item_start_up" id="it_pj_id_300">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(300)" title="Nhóm Robotics 3T">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/robot3tjpg-1479180215_180x180.jpg" alt="Nhóm Robotics 3T" title="Nhóm Robotics 3T"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(300)" title="Nhóm Robotics 3T">Nhóm Robotics 3T</a></h2>
+                    </div>
+                    <span id="sp_pj_id_300"></span>
+                                        <div class="item_start_up" id="it_pj_id_309">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(309)" title="Perkfec">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/perkfecjpg-1479179983_180x180.jpg" alt="Perkfec" title="Perkfec"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(309)" title="Perkfec">Perkfec</a></h2>
+                    </div>
+                    <span id="sp_pj_id_309"></span>
+                                        <div class="item_start_up" id="it_pj_id_338">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(338)" title="Tỏi Đen IAmV">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/IAmVjpg-1479188716_180x180.jpg" alt="Tỏi Đen IAmV" title="Tỏi Đen IAmV"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(338)" title="Tỏi Đen IAmV">Tỏi Đen IAmV</a></h2>
+                    </div>
+                    <span id="sp_pj_id_338"></span>
+                                        <div class="item_start_up" id="it_pj_id_340">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(340)" title="Công ty Cổ phần VeXeRe">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/16/VeXeRelogojpg-1479271292_180x180.jpg" alt="Công ty Cổ phần VeXeRe" title="Công ty Cổ phần VeXeRe"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(340)" title="Công ty Cổ phần VeXeRe">Công ty Cổ phần VeXeRe</a></h2>
+                    </div>
+                    <span id="sp_pj_id_340"></span>
+                                        <div class="item_start_up" id="it_pj_id_341">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(341)" title="Giải pháp hàng đổi hàng trên Internet">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/dobodyjpg-1479179671_180x180.jpg" alt="Giải pháp hàng đổi hàng trên Internet" title="Giải pháp hàng đổi hàng trên Internet"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(341)" title="Giải pháp hàng đổi hàng trên Internet">Giải pháp hàng đổi hàng trên Internet</a></h2>
+                    </div>
+                    <span id="sp_pj_id_341"></span>
+                                        <div class="item_start_up" id="it_pj_id_346">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(346)" title="Công ty Cổ phần Early Start Inc">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/monkeyjuniorjpg-1479179636_180x180.jpg" alt="Công ty Cổ phần Early Start Inc" title="Công ty Cổ phần Early Start Inc"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(346)" title="Công ty Cổ phần Early Start Inc">Công ty Cổ phần Early Start Inc</a></h2>
+                    </div>
+                    <span id="sp_pj_id_346"></span>
+                                        <div class="item_start_up" id="it_pj_id_355">
+                        <div class="thumb_startup">
+                            <a href="javascript:;" onclick="Startup.getQuickInfo(355)" title="OffPeak">
+                                <img src="http://img.f28.kinhdoanh.vnecdn.net/2016/11/15/OffPeakjpg-1479188858_180x180.jpg" alt="OffPeak" title="OffPeak"/>
+                                <span class="left_flash"></span>
+                                <span class="right_flash"></span>
+                            </a>
+                        </div>
+                        <h2 class="name_startup"><a class="text-search" href="javascript:;" onclick="Startup.getQuickInfo(355)" title="OffPeak">OffPeak</a></h2>
+                    </div>
+                    <span id="sp_pj_id_355"></span>
+                                        <span id="last_id_show" style="display: none"></span>
+                </div>
+            </div>
+            
+
+            <div class="width_common block_sponsor">
+                <div class="sponsor sponsor_main sponsor-footer left">
+                    <label for="">Đơn vị tài trợ</label>
+                    <a rel="nofollow" target="_blank"><img src="http://startup.vnexpress.net/static/images/graphics/novaland.png" alt=""></a>
+                </div>
+                <div class="sponsor sponsor-footer right">
+                    <label for="">Đơn vị đồng hành</label>
+                    <a rel="nofollow" target="_blank"><img src="http://startup.vnexpress.net/static/images/graphics/logo-dreamplex.png" alt=""></a>
+                    <a rel="nofollow" target="_blank"><img src="http://startup.vnexpress.net/static/images/graphics/logo-toong.png" alt=""></a>
+                    <a rel="nofollow" target="_blank"><img src="http://startup.vnexpress.net/static/images/graphics/logo-up.png" alt=""></a>
+                    <a rel="nofollow" target="_blank"><img src="http://startup.vnexpress.net/static/images/graphics/logo-viisa.png" alt=""></a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var ls_pj_id = [80, 86, 114, 129, 170, 172, 180, 213, 237, 253, 255, 300, 309, 338, 340, 341, 346, 355];
+</script>
+    <!--footer-->
+    <div class="wrap_footer width_common">
+        <div class="wrapper_container_startup">
+            <div class="ft_left left">
+                <a href="http://vnexpress.net" class="logo_footer"><img src="http://st.f1.vnecdn.net/responsive/i/v32/graphics/img_logo_vne.jpg"/></a>
+                <div class="copyright_ft">
+                    <p>© <b>Copyright 1997 VnExpress.net,</b> All rights reserved</p>
+
+                    <p>® VnExpress giữ bản quyền nội dung trên website này.</p>
+                </div>
+            </div>
+            <div class="social_head social_footer right">
+                <a href="javascript:;" onclick="Startup.shareFB(this)" data-link="http://startup.vnexpress.net" data-title="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh" data-image="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg" class="fb_h"><i class="fa fa-facebook"></i></a>
+                <a href="javascript:;" onclick="Startup.shareTW(this)" data-link="http://startup.vnexpress.net" data-title="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh" data-image="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg" class="twit_h"><i class="fa fa-twitter"></i></a>
+                <a href="javascript:;" onclick="Startup.shareGoogle(this)" data-link="http://startup.vnexpress.net" data-title="Startup Việt 2016 – Sải bước thành công - VnExpress Kinh Doanh" data-image="http://img.f25.kinhdoanh.vnecdn.net/2016/11/03/startup-3929-1478149791.jpg" class="google_h"><i class="fa fa-google-plus"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://stmy.vnexpress.net/myvne/j/v1/myvne_users.js"></script>
+<script src="https://stmy.vnexpress.net/myvne/j/v1/plugins/vne.js"></script>
+        <script type="text/javascript">
+            // se luon luon callback moi khi login
+            myvne_users.setCallback('login', function (profile) {
+                clearInterval(Startup.interval_login);
+                Startup.checkLogin(2);
+            });
+            myvne_users.setCallback('logout', function (profile) {
+                clearInterval(Startup.interval_login);
+                Startup.checkLogin(2);
+            });
+            $(document).ready(function () {
+                Startup.login_timeout = 60000; //1 phut
+                Startup.initCheckLogin();
+                setTimeout(function() {
+                    Startup.check();
+                }, 1500);
+            });
+        </script>
+    <div id="to_top" style="display: none;"><i class="fa fa-chevron-up"></i></div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nam Định: Hai xe máy đấu đầu, 4 người bị thương - Tin Tức TTXVN
+</title><meta name="keywords" content="Nam Định,quốc lộ 10,Trình Xuyên,Ninh Bình,Liên Bảo,Vũ Văn Đạt,Công an tỉnh Nam Định,Vụ Bản,thông tấn xã việt nam" /><meta name="description" content="Vào lúc 7 giờ 30 phút ngày 13/3, một vụ tai nạn giao thông nghiêm trọng xảy ra trên Quốc lộ 10, đoạn qua thôn Trình Xuyên, xã Liên Bảo, huyện Vụ Bản, tỉnh N..." />
+<link rel="canonical" href="http://www.baomoi.com/nam-dinh-hai-xe-may-dau-dau-4-nguoi-bi-thuong/c/21749898.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21749898" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21749898" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/phap-luat/nam-dinh-hai-xe-may-dau-dau-4-nguoi-bi-thuong-20170313085921758.htm");
+else
+window.location.replace("http://www.baomoi.com/nam-dinh-hai-xe-may-dau-dau-4-nguoi-bi-thuong/c/21749898.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

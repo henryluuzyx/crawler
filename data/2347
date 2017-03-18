@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khoảng khắc gượng gạo giữa ông Trump và bà Merkel - Zing
+</title><meta name="keywords" content="Angela Merkel,thủ tướng Đức,Trump,Mỹ Donald Trump,Nhà Trắng,Thế Long,Angela Markel" /><meta name="description" content="Ngày 17/3, trong chuyến thăm của Thủ tướng Đức Angela Markel tới Nhà Trắng, Tổng thống Mỹ Donald Trump được cho đã cố tình không bắt tay bà Markel trong màn..." />
+<link rel="canonical" href="http://www.baomoi.com/khoang-khac-guong-gao-giua-ong-trump-va-ba-merkel/c/21792759.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792759" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792759" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/khoang-khac-guong-gao-giua-ong-trump-va-ba-merkel-post729368.html");
+else
+window.location.replace("http://www.baomoi.com/khoang-khac-guong-gao-giua-ong-trump-va-ba-merkel/c/21792759.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

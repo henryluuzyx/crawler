@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhiều nạn nhân vụ xe tải đâm xe đón dâu vẫn đang bất tỉnh - SaoStar
+</title><meta name="keywords" content="Kim Bảng,Hà Nam,Thanh Sơn,tử vong,cấp cứu,Hòa Bình,UBND Tỉnh Hà Nam,thương vong,Hoàng Văn Thường,Công an tỉnh Hà Nam,Thái Bình,ghi nhận,lãnh đạo,Quỳnh Phụ,chỉ đạo,an toàn giao thông,CA tỉnh Hà Nam,Trương Hòa Bình,tai biến mạch máu não,Sở Y tế Hà Nam,vi phạm" /><meta name="description" content="Nạn nhân nhỏ nhất trong vụ tai nạn là cháu bé khoảng 7 tuổi, ngồi trên hàng ghế đầu của xe khách." />
+<link rel="canonical" href="http://www.baomoi.com/nhieu-nan-nhan-vu-xe-tai-dam-xe-don-dau-van-dang-bat-tinh/c/21786208.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21786208" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21786208" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("https://saostar.vn/doi-song-xa-hoi/nhieu-nan-nhan-vu-xe-tai-dam-xe-don-dau-van-dang-bat-tinh-1159995.html");
+else
+window.location.replace("http://www.baomoi.com/nhieu-nan-nhan-vu-xe-tai-dam-xe-don-dau-van-dang-bat-tinh/c/21786208.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

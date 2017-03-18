@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đặng Thu Thảo bức xúc vì bị nói 'bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia' - Phụ Nữ News
+</title><meta name="keywords" content="Đỗ Quang Vinh,Đặng Thu Thảo,Thu Thảo,Hoa hậu Việt Nam 2012,Bạc Liêu,chia sẻ ảnh,Mỹ,Đăng Khoa,phê phán,Hoa hậu Việt Nam,scandal,đăng quang,người Anh" /><meta name="description" content="Hoa hậu cho rằng, điều này ảnh hưởng đến phẩm hạnh và những giá trị mà cô gìn giữ." />
+<link rel="canonical" href="http://www.baomoi.com/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia/c/21793105.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793105" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793105" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/giai-tri/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia-145541/");
+else
+window.location.replace("http://www.baomoi.com/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia/c/21793105.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

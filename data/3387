@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cả khu phố tự dỡ toàn bộ mái che chiếm vỉa hè - PLO
+</title><meta name="keywords" content="lấn chiếm,Hồ Văn Phước,Lê Thoa,chấp hành,trường thọ,vi phạm,Thủ Đức,chỉ đạo,tự nguyện,chủ trương,phản đối,ghi nhận,bảo vệ" /><meta name="description" content="Sáng 16-3, hàng loạt người dân dọc đường số 8 (khu phố 9, phường Trường Thọ, quận Thủ Đức, TP.HCM) đã tự tháo dỡ mái che trước cửa chiếm vỉa hè trước khi lự..." />
+<link rel="canonical" href="http://www.baomoi.com/ca-khu-pho-tu-do-toan-bo-mai-che-chiem-via-he/c/21778742.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21778742" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21778742" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/do-thi/ca-khu-pho-tu-do-toan-bo-mai-che-chiem-via-he-689154.html");
+else
+window.location.replace("http://www.baomoi.com/ca-khu-pho-tu-do-toan-bo-mai-che-chiem-via-he/c/21778742.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

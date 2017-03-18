@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Chủ đầu tư BOT Thái Nguyên - Chợ Mới hứa giảm phí - Tiền Phong
+</title><meta name="keywords" content="Cienco 4,Ngô Trọng Nghĩa,bot,quốc lộ 3,BOT Thái Nguyên,UBND huyện Phú Lương,bộ giao thông vận tải,UBND tỉnh Thái Nguyên,Chợ Mới,Phú Lương,Thái Nguyên,Bắc Kạn,bộ tài chính,Cty Tuấn Lộc,QL 3B,nâng cấp,Sơn Cẩm,Cổ Lũng,TP Thái Nguyên,Sỹ Lực,ban hành" /><meta name="description" content="Sáng 14/3, UBND huyện Phú Lương (Thái Nguyên) và chủ đầu tư tuyến đường mới và cải tạo QL 3 cũ đoạn Thái Nguyên – Chợ Mới (Bắc Kạn) bàn giải pháp giảm phí c..." />
+<link rel="canonical" href="http://www.baomoi.com/chu-dau-tu-bot-thai-nguyen-cho-moi-hua-giam-phi/c/21762578.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21762578" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21762578" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.tienphong.vn/xa-hoi/chu-dau-tu-bot-thai-nguyen-cho-moi-hua-giam-phi-1130235.tpo");
+else
+window.location.replace("http://www.baomoi.com/chu-dau-tu-bot-thai-nguyen-cho-moi-hua-giam-phi/c/21762578.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

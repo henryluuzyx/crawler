@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nga: Mỹ làm gia tăng 'vòng luẩn quẩn' về vấn đề Triều Tiên - VietnamPlus
+</title><meta name="keywords" content="triều tiên,Bình Nhưỡng,ngoại giao,hàn quốc,tập trận,Mỹ,seoul,kêu gọi,Nhật Bản,cáo buộc,Igor Morgulov,afp,Jiji Press,Nga,thử nghiệm,Mỹ Rex Tillerson,phát biểu" /><meta name="description" />
+<link rel="canonical" href="http://www.baomoi.com/nga-my-lam-gia-tang-vong-luan-quan-ve-van-de-trieu-tien/c/21791227.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791227" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791227" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/nga-my-lam-gia-tang-vong-luan-quan-ve-van-de-trieu-tien/436329.vnp");
+else
+window.location.replace("http://www.baomoi.com/nga-my-lam-gia-tang-vong-luan-quan-ve-van-de-trieu-tien/c/21791227.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

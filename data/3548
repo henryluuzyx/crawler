@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Sẽ rút giấy phép nhà máy thủy điện không tuân thủ quy định - CAND
+</title><meta name="keywords" content="Sông Bung 2,Quảng Nam,Ia Krel 2,Trần Tuấn Anh,bộ công thương,mưa lũ,Gia Lai,Quảng Trị,Vũ Hân,bảo vệ môi trường,tây nguyên,miền trung,thủy điện hố hô,khai thác,ngập lụt,Kon Tum,khuyến nghị,nhận dạng,biến đổi khí hậu,đối thoại,thiên tai" /><meta name="description" content="Bộ Công Thương và Bộ Tài nguyên và Môi trường sẽ thành lập nhóm công tác liên bộ làm việc với các địa phương có thủy điện lớn hoặc số lượng thủy điện nhiều ..." />
+<link rel="canonical" href="http://www.baomoi.com/se-rut-giay-phep-nha-may-thuy-dien-khong-tuan-thu-quy-dinh/c/21793153.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793153" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793153" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://cand.com.vn/van-de-hom-nay-thoi-su/se-rut-giay-phep-nha-may-thuy-dien-khong-tuan-thu-quy-dinh-432939/");
+else
+window.location.replace("http://www.baomoi.com/se-rut-giay-phep-nha-may-thuy-dien-khong-tuan-thu-quy-dinh/c/21793153.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

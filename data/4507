@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Xe tải va chạm xe máy, một người tử vong tại chỗ - Giao Thông
+</title><meta name="keywords" content="Tp Vĩnh Long,Đông Thuận,Đông An,Kế Sách,Bình Minh,Vĩnh Long,quốc lộ 1a,Sóc Trăng,tử vong,Cần Thơ" /><meta name="description" content="Một xe tải va chạm với xe máy làm thanh niên điều khiển xe máy tử vong tại chỗ." />
+<link rel="canonical" href="http://www.baomoi.com/xe-tai-va-cham-xe-may-mot-nguoi-tu-vong-tai-cho/c/21791731.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791731" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791731" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.atgt.vn/xe-tai-va-cham-xe-may-lam-mot-nguoi-tu-vong-tai-cho-d192656.html");
+else
+window.location.replace("http://www.baomoi.com/xe-tai-va-cham-xe-may-mot-nguoi-tu-vong-tai-cho/c/21791731.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

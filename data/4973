@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Video làm bánh mì nướng phô mai trứng - Zing
+</title><meta name="keywords" content="An Ngọc,vi-đê-ô" /><meta name="description" content="Món bánh mì nướng đơn giản với thành phần là phô mai, mayonnaise, trứng, thịt hun khói... vừa thơm ngon lại đầy đủ dinh dưỡng, rất thích hợp cho bữa sáng củ..." />
+<link rel="canonical" href="http://www.baomoi.com/video-lam-banh-mi-nuong-pho-mai-trung/c/21792614.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792614" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792614" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/video-lam-banh-mi-nuong-pho-mai-trung-post729134.html");
+else
+window.location.replace("http://www.baomoi.com/video-lam-banh-mi-nuong-pho-mai-trung/c/21792614.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+5 kinh nghiệm tổ chức tình nguyện từ vùng rốn lũ - Tiền Phong
+</title><meta name="keywords" content="Quang Lộc,Hồ Xuân Hương,chi viện,ứng trực,đoàn thanh niên,Hương Khê,ứng cứu,đoàn viên,lũ lụt,mưa lũ,sơ tán,biến đổi khí hậu,tổn thất,bảo hiểm,dự thảo,Lào,thiên tai,Hà Tĩnh,email,định hướng,rà soát" /><meta name="description" content="Do ảnh hưởng của biến đổi khí hậu, những năm gần đây, Hà Tĩnh phải hứng chịu hậu quả nặng nề từ bão, lũ gây ra. Việc tổ chức đoàn viên thanh niên kịp thời c..." />
+<link rel="canonical" href="http://www.baomoi.com/5-kinh-nghiem-to-chuc-tinh-nguyen-tu-vung-ron-lu/c/21792966.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792966" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792966" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.tienphong.vn/gioi-tre/5-kinh-nghiem-to-chuc-tinh-nguyen-tu-vung-ron-lu-1131460.tpo");
+else
+window.location.replace("http://www.baomoi.com/5-kinh-nghiem-to-chuc-tinh-nguyen-tu-vung-ron-lu/c/21792966.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

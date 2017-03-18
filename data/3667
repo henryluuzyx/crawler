@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Xây dựng đường cao tốc từ Ninh Bình đến Nam Định - Zing
+</title><meta name="keywords" content="Nam Định,cao tốc Ninh Bình,Ninh Bình,UBND Tỉnh Nam Định,Đại Yên,Yên Khánh,Quảng Ninh,Hạ Long,bộ giao thông vận tải,bắc bộ,Hải Phòng,cân đối,Tiếng Anh,nghiên cứu,đầu tư" /><meta name="description" content="Thủ tướng giao tỉnh Nam Định chủ trì nghiên cứu dự án cao tốc đoạn từ Ninh Bình đến Nam Định thuộc tuyến cao tốc Ninh Bình - Hải Phòng - Quảng Ninh theo hìn..." />
+<link rel="canonical" href="http://www.baomoi.com/xay-dung-duong-cao-toc-tu-ninh-binh-den-nam-dinh/c/21792274.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792274" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792274" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/xay-dung-duong-cao-toc-tu-ninh-binh-den-nam-dinh-post729324.html");
+else
+window.location.replace("http://www.baomoi.com/xay-dung-duong-cao-toc-tu-ninh-binh-den-nam-dinh/c/21792274.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

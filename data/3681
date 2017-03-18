@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Quảng Ninh: Xe khách húc vào xe cẩu 5 tấn tại cảng Cái Lân - VietnamPlus
+</title><meta name="keywords" content="đường Cái Lân,Phường Bãi Cháy,DooSan 5,cảng Cái Lân,Hạ Long,hoảng loạn,Trung Nguyên,Quảng Ninh,thông tấn xã việt nam" /><meta name="description" content="Xe khách 45 chỗ chạy hướng Hà Nội-Hạ Long di chuyển với tốc độ cao, đến ngã tư cảng Cái Lân thì bất ngờ va chạm mạnh vào xe cần cẩu DooSan 5 tấn đang sang đ..." />
+<link rel="canonical" href="http://www.baomoi.com/quang-ninh-xe-khach-huc-vao-xe-cau-5-tan-tai-cang-cai-lan/c/21791896.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791896" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791896" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/quang-ninh-xe-khach-huc-vao-xe-cau-5-tan-tai-cang-cai-lan/436360.vnp");
+else
+window.location.replace("http://www.baomoi.com/quang-ninh-xe-khach-huc-vao-xe-cau-5-tan-tai-cang-cai-lan/c/21791896.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

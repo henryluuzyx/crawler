@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Kỹ thuật trồng cây sả đuổi muỗi tiện dụng cho mọi nhà - KH&PT
+</title><meta name="keywords" content="thu hoạch,phân urê,dự phòng,việt nam" /><meta name="description" content="Cây sả là một loại cây quen thuộc đối với các gia đình Việt Nam nhưng ít ai biết đến tác dụng đuổi muỗi công hiệu của nó; do đó, chỉ vài bụi sả trong chậu h..." />
+<link rel="canonical" href="http://www.baomoi.com/ky-thuat-trong-cay-sa-duoi-muoi-tien-dung-cho-moi-nha/c/21790934.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790934" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790934" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/suc-khoe/ky-thuat-trong-cay-sa-duoi-muoi-tien-dung-cho-moi-nha/20151004090657628p1c784.htm");
+else
+window.location.replace("http://www.baomoi.com/ky-thuat-trong-cay-sa-duoi-muoi-tien-dung-cho-moi-nha/c/21790934.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

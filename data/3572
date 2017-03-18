@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phát hiện bộ xương người nghi nạn nhân sự cố thủy điện - Tiền Phong
+</title><meta name="keywords" content="thủy điện Sông Bung 4,Sông Bung 2,Sông Bung,Nguyễn Minh Luân,Đặng Văn Tuyền,Tà Pơ,Nam Giang,mất tích,Quảng Nam,Phú Thọ,Hải Dương,phát hiện,Hoài Văn" /><meta name="description" content="Trong lúc đi đánh cá gần bờ đập công trình thủy điện Sông Bung 4, người dân hoảng hồn phát hiện bộ xương người lơ lửng trên mặt nước gần hồ thủy điện." />
+<link rel="canonical" href="http://www.baomoi.com/phat-hien-bo-xuong-nguoi-nghi-nan-nhan-su-co-thuy-dien/c/21789968.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789968" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789968" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.tienphong.vn/xa-hoi/phat-hien-bo-xuong-nguoi-nghi-nan-nhan-su-co-thuy-dien-1131255.tpo");
+else
+window.location.replace("http://www.baomoi.com/phat-hien-bo-xuong-nguoi-nghi-nan-nhan-su-co-thuy-dien/c/21789968.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

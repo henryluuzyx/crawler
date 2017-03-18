@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Chìm tàu cá trên biển Hải Phòng, 3 người mất tích - Phụ Nữ News
+</title><meta name="keywords" content="Biển Hải Phòng,SAR 273,Lập Lễ,Nam Triệu,Nguyễn Đức Cường,ủy ban quốc gia tìm kiếm cứu nạn,Thủy Nguyên,biên phòng,Hải Phòng,điều động,mất tích,Thanh Hóa,vnexpress" /><meta name="description" content="Tàu cá của ngư dân Hải Phòng bất ngờ bị chìm khiến 5 người rơi xuống biển, chủ tàu và một thuyền viên đã được cứu vớt sau nhiều giờ trôi dạt." />
+<link rel="canonical" href="http://www.baomoi.com/chim-tau-ca-tren-bien-hai-phong-3-nguoi-mat-tich/c/21792654.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792654" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792654" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/tin-tuc/chim-tau-ca-tren-bien-hai-phong-3-nguoi-mat-tich-145522/");
+else
+window.location.replace("http://www.baomoi.com/chim-tau-ca-tren-bien-hai-phong-3-nguoi-mat-tich/c/21792654.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

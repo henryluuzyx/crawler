@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cuộc sống mưu sinh nơi núi rác khổng lồ trên đảo Phú Quốc - Phụ Nữ News
+</title><meta name="keywords" content="ô nhiễm,Đỗ Cao Cường,Cửa Cạn,Trần Ngọc Thuận,Phú Quốc,Vinpearl Phú Quốc,xử lý chất thải,đổi đời,mưu sinh,phát triển bền vững,bảo vệ" /><meta name="description" content="Bãi rác tại Cửa Cạn, huyện đảo Phú Quốc không chỉ là nơi gây ô nhiễm nghiêm trọng, mà còn là chỗ trú ngụ, “bấu víu” của những mảnh đời…" />
+<link rel="canonical" href="http://www.baomoi.com/cuoc-song-muu-sinh-noi-nui-rac-khong-lo-tren-dao-phu-quoc/c/21791316.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791316" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791316" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/doi-song/cuoc-song-muu-sinh-noi-nui-rac-khong-lo-tren-dao-phu-quoc-145463/");
+else
+window.location.replace("http://www.baomoi.com/cuoc-song-muu-sinh-noi-nui-rac-khong-lo-tren-dao-phu-quoc/c/21791316.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

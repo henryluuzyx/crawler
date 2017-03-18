@@ -1,0 +1,1005 @@
+<!doctype html>
+<!--[if IE 7]>
+<html lang="en" class="ie7"></html><![endif]-->
+<!--[if IE 8]>
+<html lang="en" class="ie8"></html><![endif]-->
+<!--[if IE 9]>
+<html lang="en" class="ie9"></html><![endif]-->
+<!-- [if gt IE 9] <!-->
+<html lang="en">
+<!-- <![endif]-->
+<head>
+    <meta charset="utf-8"/>
+    <meta property="og:title" content="Tin tức - Thủ thuật - Kiến thức - Nhịp Sống Số - TTO" />
+<meta property="og:description" content="Chia sẻ các thủ thuật, kiến thức về công nghệ thông tin như phần mềm, tiện ích, ứng dụng di động, mạng xã hội, game, thủ thuật, android, iOS, windows" />
+<meta property="og:image" itemprop="thumbnailUrl" content="http://static.new.tuoitre.vn/tto/r/2014/09/16/w6e7Twj9.png" />
+<meta property="og:url" content="http://tuoitre.vn/" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="tuoitre.vn" />
+<meta name="description" content="Chia sẻ các thủ thuật, kiến thức về công nghệ thông tin như phần mềm, tiện ích, ứng dụng di động, mạng xã hội, game, thủ thuật, android, iOS, windows" />
+<meta name="keywords" content="thủ thuật, kiến thức, phần mềm, tiện ích, ứng dụng di động, mạng xã hội, game, thủ thuật, android, iOS, windows" />
+<link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/pikaday.css" />
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/jquery.min.js"></script>
+<title>Tin tức - Thủ thuật - Kiến thức - Nhịp Sống Số - TTO</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="language" content="en"/>
+    <meta name="robots"
+          content="index, follow"/>
+    <meta name="google-site-verification" content="eau3gGflzg9BouNSsVKrx_mR5f0HbSLuvDKznJ3AE1k"/>
+    <link rel="shortcut icon" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/favicon.ico" type="image/x-icon"/>
+    <meta name="viewport" content="width=device-width"/>
+
+    <link rel="shortcut icon" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/flexslider.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/plug-in-cmt.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/jquery.fancybox.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/jquery.fancybox-buttons.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/jquery.fancybox-thumbs.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/font-awesome.min.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/screen.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/pikaday.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/print.css" media="print"/>
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/custom.css" media="screen"/>
+    <!-- <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/video-js.css" media="screen" /> -->
+    <!-- <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/css/videojs.vast.vpaid.css" media="screen" /> -->
+    <script src="http://static.new.tuoitre.vn/rmp/js/rmp.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/html5.js"></script><![endif]-->
+    
+    <!-- Google Analytics -->
+    <!--<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-12518695-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>-->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46730129-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
+    <!-- Facebook Analytics -->
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '913371738775010');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=913371738775010&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code --></head><body>
+<header class="header">
+	<div class="inner">
+		<a class="btn-menu" href="javascript:void(0)" title="Chuyên Mục"><img class="wi-icon wi-icon-menu" alt="" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/transparent.png">Chuyên Mục</a>	
+		<a class="logo" href="http://tuoitre.vn" title="Tuổi Trẻ"><img alt="" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/logo.png"></a>	
+		<a class="logo-1" href="http://nhipsongso.tuoitre.vn" title="Nhịp Sống Số"><img alt="" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/logo-nss.png"> </a>	
+		<ul class="list-social">
+			<li><a class="wi-icon wi-icon-face" href="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/baotuoitre&width&layout=button&action=like&show_faces=false&share=true&height=35" title="facebook"></a></li>
+			<li><a class="wi-icon wi-icon-tw" href="http://twitter.com/home?status=https://www.facebook.com/baotuoitre" title="tw"></a></li>
+			<li><a class="wi-icon wi-icon-google" href="https://plus.google.com/share?url=https://www.facebook.com/baotuoitre" title="google"></a></li>
+			<!-- <li><a class="wi-icon wi-icon-rss" href="#" title="rss"></a></li> -->
+			<li><a class="wi-icon wi-icon-mail" href="mailto:?subject=Xem tin tức mới nhất tại tuoitre.vn&body=Xem tin tức mới nhất tại tuoitre.vn" title="Xem tin tức mới nhất tại tuoitre.vn"></a></li>
+		</ul>
+
+<ul class="list-cata">
+				<li>
+					<a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" title="Chính trị Xã hội"> Chính trị Xã hội</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi" title="Thời sự - suy nghỉ">Thời sự - suy nghỉ</a></li>
+						<li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su" title="Phóng sự - ký sự">Phóng sự - ký sự</a></li>
+						<li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong" title="Môi trường">Môi trường</a></li>
+						<li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay" title="Chuyện thường ngày">Chuyện thường ngày</a></li>
+						<li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/tieu-diem" title="Tiêu điểm">Tiêu điểm</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/phap-luat" title="Pháp luật">Pháp luật</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/phap-luat/tu-van" title="Tư vấn">Tư vấn</a></li>
+						<li><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh" title="Ký sự pháp đình">Ký sự pháp đình</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/the-gioi" title="Thế giới"> Thế giới</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan" title="Quan sát - Bình luận">Quan sát - Bình luận</a></li>
+						<li><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau" title="Thế giới muôn màu">Thế giới muôn màu</a></li>
+						<li><a href="http://tuoitre.vn/tin/the-gioi/nguoi-viet-nam-chau" title="Người Việt năm châu">Người Việt năm châu</a></li>
+						<li><a href="http://tuoitre.vn/tin/the-gioi/ho-so" title="Hồ sơ">Hồ sơ</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế"> Kinh tế</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/kinh-te/thi-truong" title="Thị trường">Thị trường</a></li>
+						<li><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh" title="Tài chính">Tài chính</a></li>
+						<li><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan" title="Doanh nhân">Doanh nhân</a></li>
+						<li><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe" title="Thế giới xe">Thế giới xe</a></li>
+						<li><a href="http://diaoc.tuoitre.vn/" title="Bất động sản">Bất động sản</a></li>
+						<li><a href="http://dulich.tuoitre.vn/" title="Du lịch">Du lịch</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/giao-duc" title="Giáo dục">  Giáo dục</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuyensinh.tuoitre.vn" title="Tuyển sinh">Tuyển sinh</a></li>
+						<li><a href="http://tuoitre.vn/tin/giao-duc/du-hoc" title="Du học">Du học</a></li>
+						<li><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc" title="Khoa học">Khoa học</a></li>
+						<li><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc" title="Câu chuyện giáo dục">Câu chuyện giáo dục</a></li>
+						<li><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc" title="Giáo dục các nước">Giáo dục các nước</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/van-hoa-giai-tri" title="Văn hóa - Giải trí"> Văn hóa - Giải trí</a>
+					<ul class="sub-cata">
+<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/giai-tri" title="">Giải trí</a></li>						
+<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac" title="">Âm nhạc</a></li>
+						<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh" title="">Điện ảnh</a></li>
+						<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/thoi-trang" title="">Thời Trang</a></li>
+						<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh" title="">Truyền hình</a></li>
+						<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/hau-truong" title="">Hậu trường</a></li>
+<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/van-hoc-sach" title="">Văn học - Sách</a></li>
+<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/goc-anh" title="">Góc ảnh</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://nhipsongso.tuoitre.vn" title="Nhịp sống số"> Nhịp sống số</a>
+					<ul class="sub-cata">
+						<li><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai" title="">Điện thoại</a></li>
+						<li><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so" title="">Thiết bị số</a></li>
+<li><a href="http://nhipsongso.tuoitre.vn/tin/thi-truong" title="">Thị trường</a></li>
+<li><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia" title="">Đánh giá</a></li>						
+<li><a href="http://nhipsongso.tuoitre.vn/tin/blog" title="">Blog</a></li>
+						<li><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc" title="">Thủ thuật - Kiến thức</a></li>
+						<li><a href="http://nhipsongso.tuoitre.vn/tin/bao-mat" title="">Bảo mật</a></li>
+						<li><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung" title="">Tư vấn tiêu dùng</a></li>
+						<li><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau" title="">Nhịp cầu</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/nhip-song-tre" title="Nhịp sống trẻ"> Nhịp sống trẻ</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu" title="">Sống &amp; Yêu</a></li>
+						<li><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam" title="">Cơ hội việc làm</a></li>
+						<li><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online" title="">Nhịp sống online</a></li>
+						<li><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim" title="">Bắc nhịp trái tim</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/ban-doc" title="Bạn đọc"> Bạn đọc</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/ban-doc/cung-lam-bao" title="">Cùng làm báo</a></li>
+						<li><a href="http://tuoitre.vn/tin/ban-doc/phan-hoi" title="">Phản hồi</a></li>
+						<li><a href="http://tuoitre.vn/tin/ban-doc/duong-day-nong" title="">Đường dây nóng</a></li>
+						<li><a href="http://tuoitre.vn/tin/ban-doc/tam-su" title="">Tâm sự</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://dulich.tuoitre.vn" title="Du lịch"> Du lịch</a>
+					<ul class="sub-cata">
+						<li><a href="http://dulich.tuoitre.vn/tin/nhung-mien-dat-la" title="">Những miền đất lạ</a></li>
+						<li><a href="http://dulich.tuoitre.vn/tin/trai-nghiem-kham-pha" title="">Trải nghiệm - Khám phá</a></li>
+						<li><a href="http://dulich.tuoitre.vn/tin/am-thuc" title="">Ẩm thực</a></li>
+						<li><a href="http://dulich.tuoitre.vn/tin/van-hoa" title="">Văn hóa</a></li>
+						<li><a href="http://dulich.tuoitre.vn/tin/goc-anh-lu-hanh" title="">Góc ảnh lữ hành</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://thethao.tuoitre.vn" title="Thể thao"> Thể thao</a>
+					<ul class="sub-cata">
+						<li><a href="http://thethao.tuoitre.vn/trang/bong-da" title="">Bóng đá</a></li>
+						<li><a href="http://thethao.tuoitre.vn/trang/quan-vot" title="">Quần vợt</a></li>
+						<li><a href="http://thethao.tuoitre.vn/trang/cac-mon-khac" title="">Các môn khác</a></li>
+						<li><a href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song" title="">Thể thao &amp; Cuộc sống</a></li>
+						<li><a href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao" title="">Sức khỏe thể thao</a></li>
+						<li><a href="http://thethao.tuoitre.vn/trang/hau-truong" title="">Hậu trường</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/song-khoe" title="Sống khỏe">  Sống khỏe</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online" title="">Phòng mạch online</a></li>
+						<li><a href="http://tuoitre.vn/tin/song-khoe/me-va-be" title="">Mẹ &amp; Bé</a></li>
+						<li><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh" title="">Giới tính</a></li>
+						<li><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon" title="">Tư vấn hiếm muộn</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://tuoitre.vn/tin/can-biet" title="Cần biết"> Cần biết</a>
+					<ul class="sub-cata">
+						<li><a href="http://tuoitre.vn/tin/can-biet/tai-chinh-doanh-nghiep" title="">Tài chính - Doanh nghiệp</a></li>
+						<li><a href="http://tuoitre.vn/tin/can-biet/giao-duc-huong-nghiep" title="">Giáo dục - Hướng nghiệp</a></li>
+						<li><a href="http://tuoitre.vn/tin/can-biet/suc-khoe-doi-song" title="">Sức khỏe - Đời sống</a></li>
+						<li><a href="http://tuoitre.vn/tin/can-biet/du-lich-giai-tri" title="">Du lịch - Giải trí</a></li>
+						<li><a href="http://tuoitre.vn/tin/can-biet/dia-oc-cong-nghe" title="">Địa ốc - Công nghệ</a></li>
+						<li><a href="http://tuoitre.vn/tin/can-biet/san-pham-dich-vu" title="">Sản phẩm - Dịch vụ</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://media.tuoitre.vn" title="Media"> Media</a>
+					<ul class="sub-cata">
+						<li><a href="http://media.tuoitre.vn/TTAudio.aspx" title="">Nghe đọc báo</a></li>
+						<li><a href="http://media.tuoitre.vn/Radio.aspx" title="">Radio</a></li>
+						<li><a href="http://media.tuoitre.vn/TVO.aspx" title="">Clip thời sự</a></li>
+						<li><a href="http://media.tuoitre.vn/BookMedia.aspx" title="">Sách báo</a></li>
+						<li><a href="http://media.tuoitre.vn/Film.aspx" title="">Xem phim</a></li>
+					</ul>
+				</li>
+				<li class="style-1">
+					<a href="http://tuoitrenews.vn/" title="TUOITRENEWS">TUOITRENEWS</a>
+				</li>
+				<li class="style-1">
+					<a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan" title="Tuổi trẻ cuối tuần">Tuổi trẻ cuối tuần</a>
+				</li>
+				<li class="style-1">
+					<a href="http://tuoitre.vn/tin/tuoi-tre-cuoi" title="Tuổi trẻ cười">Tuổi trẻ cười</a>
+				</li>
+				<li class="style-1">
+					<a href="http://tv.tuoitre.vn/" title="Tuổi trẻ TV">Tuổi trẻ TV</a>
+				</li>
+				<li class="style-1">
+					<a href="http://tusach.tuoitre.vn/" title="Tủ sách">Tủ sách</a>
+				</li>
+			</ul> 
+		<!--<ul class="list-cata">
+			<li class="active"><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" title="Chính trị Xã hội"> Chính trị Xã hội</a></li>
+			<li><a href="http://tuoitre.vn/tin/phap-luat" title="Pháp luật">Pháp luật</a></li>
+			<li><a href="http://tuoitre.vn/tin/the-gioi" title="Thế giới"> Thế giới</a></li>
+			<li><a href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế"> Kinh tế</a></li>
+			<li><a href="http://tuoitre.vn/tin/giao-duc" title="Giáo dục">  Giáo dục</a></li>
+			<li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri" title="Văn hóa - Giải trí"> Văn hóa - Giải trí</a></li>
+			<li><a href="http://nhipsongso.tuoitre.vn" title="Nhịp sống số"> Nhịp sống số</a></li>
+			<li><a href="http://tuoitre.vn/tin/nhip-song-tre" title="Nhịp sống trẻ"> Nhịp sống trẻ</a></li>
+			<li><a href="http://tuoitre.vn/tin/ban-doc" title="Bạn đọc"> Bạn đọc</a></li>
+			<li><a href="http://dulich.tuoitre.vn" title="Du lịch"> Du lịch</a></li>
+			<li><a href="http://thethao.tuoitre.vn" title="Thể thao"> Thể thao</a></li>
+			<li><a href="http://tuoitre.vn/tin/song-khoe" title="Sống khỏe">  Sống khỏe</a></li>
+			<li><a href="http://tuoitre.vn/tin/can-biet" title="Cần biết"> Cần biết</a></li>
+			<li><a href="http://media.tuoitre.vn" title="Media"> Media</a></li>
+			<li class="style-1"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan" title="Tuổi trẻ cuối tuần">Tuổi trẻ cuối tuần</a></li>
+			<li class="style-1 active"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi" title="Tuổi trẻ cười">Tuổi trẻ cười</a></li>
+			<li class="style-1"><a href="http://tv.tuoitre.vn" title="Tuổi trẻ TV">Tuổi trẻ TV</a></li>
+		</ul> -->
+	</div>	
+</header><div class="wrapper">
+    <nav class="main-menu">
+			<ul class="clearfix">
+				<li class="menu-home"><a href="http://nhipsongso.tuoitre.vn/" title="Nhịp sống số">Nhịp sống số</a></li>
+				<li class="menu-dien-thoai"><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai" title="Điện thoại">Điện thoại</a></li>
+				<li class="menu-thiet-bi-so"><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so" title="Thiết bị số">Thiết bị số</a></li>
+<li class="menu-thi-truong"><a href="http://nhipsongso.tuoitre.vn/tin/thi-truong" title="Thị trường">Thị trường</a></li>
+<li class="menu-danh-gia-san-pham"><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham" title="Đánh giá sản phẩm">Đánh giá</a></li>
+				<li class="menu-blog"><a href="http://nhipsongso.tuoitre.vn/tin/blog" title="Blog công nghệ">Blog</a></li>
+				<li class="menu-bao-mat"><a href="http://nhipsongso.tuoitre.vn/tin/bao-mat" title="Bảo mật">Bảo mật</a></li>
+				<li class="menu-tu-van-tieu-dung"><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung" title="Tư vấn tiêu dùng">Tư vấn</a></li>
+				<li class="menu-thu-thuat-kien-thuc"><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc" title="Thủ thuật - Kiến thức">Thủ thuật- Kiến thức</a></li>
+				<li class="menu-nhip-cau"><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau" title="Nhịp cầu">Nhịp cầu</a></li>
+				<li class="btn-search" style="padding:0px">
+					<a id="link-search"  title="Search"><img class="wi-icon wi-icon-search" alt="" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/transparent.png"></a>
+					<form class="frm-search" id="search-frm" method="get" action="http://tuoitre.vn/tim-kiem/tat-ca/">
+						<input class="txt-search" type="text" name="q" id="search-txt">
+					</form>
+				</li> 
+			</ul>
+		</nav>    <section class="main">
+        	 
+		<ul class="breadcumb cate-breadcumb">
+																		<li><a href="http://nhipsongso.tuoitre.vn" title="">Nhịp sống số </a></li>
+																				<li><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc" title="">Thủ thuật - Kiến thức</a></li>
+														</ul>
+		<div class="highlight-top">
+						<article class="block-top block-top-6">
+				<a class="img_325_163" href="http://nhipsongso.tuoitre.vn/tin/20170316/canh-bao-bang-cach-tan-cong-mang-su-nong-noi-cua-nguoi-tre/1279955.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/05/03/hacker-team-1462274687.jpg"alt="Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ"/>				</a>
+				<h3>
+										<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+										<a class="title" href="http://nhipsongso.tuoitre.vn/tin/20170316/canh-bao-bang-cach-tan-cong-mang-su-nong-noi-cua-nguoi-tre/1279955.html" title="Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ">
+						Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người...											</a>
+				</h3>
+				<span class="overlay"></span>
+			</article>
+						<article class="block-top block-top-5">
+				<a class="img_325_163" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170306/25-phat-minh-doc-dao-cua-microsoft-nen-biet/1275092.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/03/05/startup-ideas-1260x673-1488705391.jpg"alt="​25 phát minh độc đáo của Microsoft nên biết"/>				</a>
+				<h3>
+										<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+										<a class="title" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170306/25-phat-minh-doc-dao-cua-microsoft-nen-biet/1275092.html" title="​25 phát minh độc đáo của Microsoft nên biết">
+						​25 phát minh độc đáo của Microsoft nên biết											</a>
+				</h3>
+				<span class="overlay"></span>
+			</article>
+						<article class="block-top block-top-5">
+				<a class="img_325_163" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170218/hieu-dung-ve-sac-khong-day-cho-dien-thoai/1266967.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/02/18/nexus-5-qi-pre3-touchstone-hero-1487394360.jpg"alt="​Hiểu đúng về sạc không dây cho điện thoại"/>				</a>
+				<h3>
+										<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+										<a class="title" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170218/hieu-dung-ve-sac-khong-day-cho-dien-thoai/1266967.html" title="​Hiểu đúng về sạc không dây cho điện thoại">
+						​Hiểu đúng về sạc không dây cho điện thoại											</a>
+				</h3>
+				<span class="overlay"></span>
+			</article>
+					</div>
+	        <section class="content">
+            							<h1 class="title-1"><span>Tin mới</span></h1>
+		<div id="newhot_most_content" class="newhot_most_content">
+								<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170217/am-thanh-video-facebook-se-tu-mo-khi-luot-tin/1266415.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/02/17/facebook-video-ads-1487324051.jpg"alt="​Âm thanh video Facebook sẽ tự mở khi lướt tin"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170217/am-thanh-video-facebook-se-tu-mo-khi-luot-tin/1266415.html" title="​Âm thanh video Facebook sẽ tự mở khi lướt tin">​Âm thanh video Facebook sẽ tự mở khi lướt tin						</a></h3>
+				<div class="date">
+					<strong>PHONG VÂN</strong>   17/02/2017 16:47
+					
+				</div>
+				<p>TTO - Người dùng có thể khó chịu với âm thanh tự bật trong các video clip khi lướt Facebook. Một tính năng Facebook vừa cập nhật. Làm sao tắt?</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/20170217/google-maps-cho-phep-chia-se-dia-diem-yeu-thich/1266361.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/02/17/google-maps-places-lists-1487307850.jpg"alt="​Google Maps cho phép chia sẻ địa điểm yêu thích"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/20170217/google-maps-cho-phep-chia-se-dia-diem-yeu-thich/1266361.html" title="​Google Maps cho phép chia sẻ địa điểm yêu thích">​Google Maps cho phép chia sẻ địa điểm yêu thích						</a></h3>
+				<div class="date">
+					<strong>ĐỨC THIỆN</strong>   17/02/2017 10:07
+					
+				</div>
+				<p>TTO - Người dùng có thể lập danh sách các địa điểm yêu thích và chia sẻ chúng với bạn bè và người thân ngay trên ứng dụng Google Maps.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/20170210/dong-ho-thong-minh-android-wear-20-co-gi-moi/1262722.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/02/10/lg-watch-sport-and-watch-style-with-android-wear-2-0-officially-introduced-512746-2-resize-1486704321.jpg"alt="​Đồng hồ thông minh Android Wear 2.0  có gì mới?"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/20170210/dong-ho-thong-minh-android-wear-20-co-gi-moi/1262722.html" title="​Đồng hồ thông minh Android Wear 2.0  có gì mới?">​Đồng hồ thông minh Android Wear 2.0  có gì mới?						</a></h3>
+				<div class="date">
+					<strong>PHONG VÂN</strong>   10/02/2017 11:51
+					
+				</div>
+				<p>TTO - Phiên bản Google Android Wear 2.0 ra mắt. Hệ điều hành cho thiết bị đeo thông minh (wearable) có gì mới? </p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170208/phan-mem-xu-ly-anh-mien-phi-cho-mac-windows/1259770.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/02/07/babygirl-1486451445.jpg"alt="​Phần mềm xử lý ảnh miễn phí cho Mac, Windows"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170208/phan-mem-xu-ly-anh-mien-phi-cho-mac-windows/1259770.html" title="​Phần mềm xử lý ảnh miễn phí cho Mac, Windows">​Phần mềm xử lý ảnh miễn phí cho Mac, Windows						</a></h3>
+				<div class="date">
+					<strong>PHONG VÂN</strong>   08/02/2017 06:12
+					
+				</div>
+				<p>TTO - Các phần mềm xử lý ảnh sau đây đều miễn phí cho Mac lẫn Windows, bao gồm công cụ trực tuyến (online). Không thua kém gì các phần mềm chuyên nghiệp.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170117/nhung-thay-giao-truc-tuyen-tot-nhat-phan-cuoi/1252096.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/01/14/d373ae6a-95ff-4fe9-a9ad-cafbbc4f35e0-1484370939.jpg"alt="Những &amp;#039;thầy giáo&amp;#039; trực tuyến tốt nhất (phần cuối)"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170117/nhung-thay-giao-truc-tuyen-tot-nhat-phan-cuoi/1252096.html" title="Những &#039;thầy giáo&#039; trực tuyến tốt nhất (phần cuối)">Những 'thầy giáo' trực tuyến tốt nhất (phần cuối)						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA </strong>   17/01/2017 15:12
+										<a class="tip-cm" href="javascript:void(0);" title="1">1<span></span></a>
+					
+				</div>
+				<p>TTO - Tiếp theo phần 3, 10 'thầy giáo' tiếp theo cung cấp kiến thức hữu ích học ngoại ngữ, cơ sở dữ liệu, nấu ăn, kỹ năng cuộc sống,...</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170117/nhung-thay-giao-truc-tuyen-tot-nhat-phan-3/1251670.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/01/13/online-myths-sized-1484283917.jpg"alt="Những &amp;#039;thầy giáo&amp;#039; trực tuyến tốt nhất (Phần 3)"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170117/nhung-thay-giao-truc-tuyen-tot-nhat-phan-3/1251670.html" title="Những &#039;thầy giáo&#039; trực tuyến tốt nhất (Phần 3)">Những 'thầy giáo' trực tuyến tốt nhất (Phần 3)						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA </strong>   17/01/2017 09:04
+					
+				</div>
+				<p>TTO - Nối tiếp phần 1 và phần 2, danh sách 10 'thầy giáo' tiếp theo cung cấp kiến thức hữu ích cho những người muốn học kỹ năng mới.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/20170113/nhung-thay-giao-truc-tuyen-tot-nhat-phan-2/1250623.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/01/11/elearning-video-chat-1484126353.jpg"alt="​Những &amp;#039;thầy giáo&amp;#039; trực tuyến tốt nhất (Phần 2)"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/20170113/nhung-thay-giao-truc-tuyen-tot-nhat-phan-2/1250623.html" title="​Những &#039;thầy giáo&#039; trực tuyến tốt nhất (Phần 2)">​Những 'thầy giáo' trực tuyến tốt nhất (Phần 2)						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA </strong>   13/01/2017 17:45
+					
+				</div>
+				<p>TTO - Tiếp theo phần 1, danh sách 10 'thầy giáo' cung cấp kiến thức hữu ích cho những người muốn trau dồi kiến thức, học kỹ năng mới.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170113/nhung-thay-giao-truc-tuyen-tot-nhat-phan-1/1250506.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/01/11/istock-000016029216small-1484111991.jpg"alt="Những &amp;#039;thầy giáo&amp;#039; trực tuyến tốt nhất (Phần 1)"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20170113/nhung-thay-giao-truc-tuyen-tot-nhat-phan-1/1250506.html" title="Những &#039;thầy giáo&#039; trực tuyến tốt nhất (Phần 1)">Những 'thầy giáo' trực tuyến tốt nhất (Phần 1)						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA </strong>   13/01/2017 10:29
+										<a class="tip-cm" href="javascript:void(0);" title="1">1<span></span></a>
+					
+				</div>
+				<p>TTO - Muốn trau dồi kiến thức, học hỏi những điều mới thì những 'ông thầy' trực tuyến sau sẽ chỉ dẫn tận tình cho bạn.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161230/ru-ban-hoc-tieng-anh-theo-nhom-voi-duolingo-clubs/1244932.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/12/30/duolingo-clubs-1483101447.jpg"alt="Rủ bạn học tiếng Anh theo nhóm với Duolingo Clubs"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161230/ru-ban-hoc-tieng-anh-theo-nhom-voi-duolingo-clubs/1244932.html" title="Rủ bạn học tiếng Anh theo nhóm với Duolingo Clubs">Rủ bạn học tiếng Anh theo nhóm với Duolingo Clubs						</a></h3>
+				<div class="date">
+					<strong>PHONG VÂN</strong>   30/12/2016 18:32
+					
+				</div>
+				<p>TTO - Ứng dụng học ngoại ngữ miễn phí nổi tiếng thế giới Duolingo vừa mở thêm tính năng học theo nhóm Duolingo Clubs. Hỗ trợ 22 ngôn ngữ bao gồm tiếng Việt.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161221/microsoft-pix-chup-anh-mien-phi-cho-iphone/1240027.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/12/21/iphone7plus-camera-1482329913.jpg"alt="Microsoft Pix: chụp ảnh miễn phí cho iPhone"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161221/microsoft-pix-chup-anh-mien-phi-cho-iphone/1240027.html" title="Microsoft Pix: chụp ảnh miễn phí cho iPhone">Microsoft Pix: chụp ảnh miễn phí cho iPhone						</a></h3>
+				<div class="date">
+					<strong>PHONG VÂN</strong>   21/12/2016 21:21
+					
+				</div>
+				<p>TTO - Microsoft Pix là ứng dụng chụp ảnh được phát hành miễn phí cho iPhone 7 và iPhone 7 Plus. Có tính năng tận dụng thấu kính kép (dual-lens) trong iPhone 7 Plus.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/20161120/lam-moi-anh-cu-voi-google-photoscan/1222612.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/11/20/google-photoscan-1479647786.jpg"alt="​Làm mới ảnh cũ với Google PhotoScan"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/20161120/lam-moi-anh-cu-voi-google-photoscan/1222612.html" title="​Làm mới ảnh cũ với Google PhotoScan">​Làm mới ảnh cũ với Google PhotoScan						</a></h3>
+				<div class="date">
+					<strong>ĐỨC THIỆN</strong>   20/11/2016 20:21
+					
+				</div>
+				<p>TTO - Phần mềm giúp phát hiện các góc ảnh cong và làm thẳng hình ảnh, xoay ảnh đúng chiều và xóa bỏ các vệt ảnh phản sáng.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/20161120/sach-day-lap-trinh-sang-tao-mien-phi-cua-dh-harvard/1222567.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/11/20/lap-trinh-snag-tao-1479634561.jpg"alt="​Sách dạy lập trình sáng tạo miễn phí của ĐH Harvard"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/20161120/sach-day-lap-trinh-sang-tao-mien-phi-cua-dh-harvard/1222567.html" title="​Sách dạy lập trình sáng tạo miễn phí của ĐH Harvard">​Sách dạy lập trình sáng tạo miễn phí của ĐH Harvard						</a></h3>
+				<div class="date">
+					<strong>ĐỨC THIỆN</strong>   20/11/2016 16:38
+										<a class="tip-cm" href="javascript:void(0);" title="3">3<span></span></a>
+					
+				</div>
+				<p>TTO - Người học có thể hiện thực hóa mọi ý tưởng một cách dễ dàng mà không cần phải là một chuyên gia về kỹ thuật công nghệ thông tin hay ngôn ngữ lập trình.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161103/lastpass-va-instapaper-bat-ngo-cho-mien-phi-tai-ngay/1212925.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/11/03/lastpass-freepremium-resize-1478161612.jpg"alt="LastPass và Instapaper bất ngờ cho miễn phí, tải ngay!"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161103/lastpass-va-instapaper-bat-ngo-cho-mien-phi-tai-ngay/1212925.html" title="LastPass và Instapaper bất ngờ cho miễn phí, tải ngay!">LastPass và Instapaper bất ngờ cho miễn phí, tải ngay!						</a></h3>
+				<div class="date">
+					<strong>PHONG VÂN</strong>   03/11/2016 16:13
+										<a class="tip-cm" href="javascript:void(0);" title="2">2<span></span></a>
+					
+				</div>
+				<p>TTO - Hai ứng dụng được dùng rất phổ biến bất ngờ cho miễn phí sử dụng gói tính năng cao cấp Premium. Người dùng yêu thích có thể đăng ký tải dùng ngay!</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161012/cac-ung-dung-hay-cho-nguoi-thuong-di-cong-tac/1185868.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/10/12/mobile-travellers-1476271917.jpg"alt="Các ứng dụng hay cho người thường đi công tác"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161012/cac-ung-dung-hay-cho-nguoi-thuong-di-cong-tac/1185868.html" title="Các ứng dụng hay cho người thường đi công tác">Các ứng dụng hay cho người thường đi công tác						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA (Theo Vivalifestyleandtravel)</strong>   12/10/2016 18:07
+					
+				</div>
+				<p>TTO - Với những người thường xuyên phải di chuyển trong và ngoài nước vì công việc, các ứng dụng di động này sẽ hữu ích cả trong công việc lẫn trải nghiệm cuộc sống.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161011/cach-tim-cac-mat-khau-wifi-mien-phi-o-san-bay/1186354.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/10/11/rhwuwnwdjnx0dzvxuknu-1476171975.png"alt="Cách tìm mật khẩu Wifi miễn phí ở sân bay"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161011/cach-tim-cac-mat-khau-wifi-mien-phi-o-san-bay/1186354.html" title="Cách tìm mật khẩu Wifi miễn phí ở sân bay">Cách tìm mật khẩu Wifi miễn phí ở sân bay						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA </strong>   11/10/2016 19:23
+					
+				</div>
+				<p>TTO - Ứng dụng WiFox giúp người dùng có thể dễ dàng tìm được mật khẩu các mạng Wifi miễn phí tại 127 sân bay trên toàn thế giới.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161004/giam-doc-gap-nguy-khi-di-cong-tac-vi-email/1180260.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/09/30/sept16-29-3347883-850x478-1475222641.jpg"alt="Giám đốc gặp nguy khi đi công tác vì email"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20161004/giam-doc-gap-nguy-khi-di-cong-tac-vi-email/1180260.html" title="Giám đốc gặp nguy khi đi công tác vì email">Giám đốc gặp nguy khi đi công tác vì email						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA </strong>   04/10/2016 06:00
+					
+				</div>
+				<p>TTO - Từ thực tiễn gia tăng hoạt động của các loại email gián điệp, mọi người cần có cách xử lý thận trọng khi liên lạc bằng email trong lúc đi công tác. Xem hướng dẫn!</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20160923/yahoo-bi-hack-nguoi-dung-can-xu-tri-ra-sao/1176546.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/09/23/yahoo-hack--1474635736.jpg"alt="Yahoo bị hack, người dùng cần xử trí ra sao"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20160923/yahoo-bi-hack-nguoi-dung-can-xu-tri-ra-sao/1176546.html" title="Yahoo bị hack, người dùng cần xử trí ra sao">Yahoo bị hack, người dùng cần xử trí ra sao						</a></h3>
+				<div class="date">
+					<strong>PHONG VÂN</strong>   23/09/2016 19:36
+					
+				</div>
+				<p>TTO - Thông tin 500 triệu tài khoản Yahoo bị rơi vào tay tin tặc vào năm 2014. Người dùng cần xử trí ra sao để bảo vệ dữ liệu trong tài khoản?</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/20160920/opera-ra-mat-trinh-duyet-tich-hop-vpn-mien-phi/1174776.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/09/20/vpn-infographic-2-1474375139.jpg"alt="​Opera ra mắt trình duyệt tích hợp VPN miễn phí"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/20160920/opera-ra-mat-trinh-duyet-tich-hop-vpn-mien-phi/1174776.html" title="​Opera ra mắt trình duyệt tích hợp VPN miễn phí">​Opera ra mắt trình duyệt tích hợp VPN miễn phí						</a></h3>
+				<div class="date">
+					<strong>ĐỨC THIỆN</strong>   20/09/2016 19:41
+										<a class="tip-cm" href="javascript:void(0);" title="1">1<span></span></a>
+					
+				</div>
+				<p>TTO - Ngày 20-9, Opera chính thức ra mắt trình duyệt đầu tiên trên thế giới tích hợp sẵn VPN (mạng riêng ảo) miễn phí cho máy tính. Người dùng không phải đăng nhập và sử dụng rất dễ dàng.</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20160919/giam-doc-fbi-moi-nguoi-nen-che-webcam-tren-laptop/1173159.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/09/17/3861cb0f00000578-3790585-image-a-4-1473928747842-1474103864.jpg"alt="Giám đốc FBI: Mọi người nên che webcam trên laptop"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20160919/giam-doc-fbi-moi-nguoi-nen-che-webcam-tren-laptop/1173159.html" title="Giám đốc FBI: Mọi người nên che webcam trên laptop">Giám đốc FBI: Mọi người nên che webcam trên laptop						</a></h3>
+				<div class="date">
+					<strong>D. KIM THOA </strong>   19/09/2016 17:19
+										<a class="tip-cm" href="javascript:void(0);" title="9">9<span></span></a>
+					
+				</div>
+				<p>TTO - Giám đốc Cục điều tra liên bang Mỹ (FBI) James Comey khuyến cáo dùng băng dính che webcam trên máy tính cá nhân. Ông chủ Facebook Mark Zuckerberg cũng làm điều này, vì sao?</p>
+			</article>
+						<article class="block-new">
+								<a class="img_254_143" href="http://nhipsongso.tuoitre.vn/tin/20160912/mua-may-tinh-gia-re-can-hieu-cac-thong-so-ky-thuat/1169790.html" title="">
+						<img src="http://static.new.tuoitre.vn/tto/i/s490/2016/09/11/untitled-1-1473592110.jpg"alt="Mua máy tính giá rẻ: Cần hiểu các thông số kỹ thuật"/>				</a>
+												<a class="tip" href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a>
+								<h3>
+					<a href="http://nhipsongso.tuoitre.vn/tin/20160912/mua-may-tinh-gia-re-can-hieu-cac-thong-so-ky-thuat/1169790.html" title="Mua máy tính giá rẻ: Cần hiểu các thông số kỹ thuật">Mua máy tính giá rẻ: Cần hiểu các thông số kỹ thuật						</a></h3>
+				<div class="date">
+					<strong>MINH HUYỀN - TUẤN LINH</strong>   12/09/2016 13:11
+					
+				</div>
+				<p>TTO - Để tránh trường hợp mua máy tính cũ còn “zin 99%” nhưng vẫn “liệt cả đôi đường”, các kỹ thuật viên đều khuyên người mua cần tìm hiểu các thông số kỹ thuật.</p>
+			</article>
+							</div>
+		<a class="btn-loadmore" onClick="return viewMore('http://nhipsongso.tuoitre.vn/', 'nhip-song-so-thu-thuat-kien-thuc', '2866', 'nss_new_custom_list', '4eb6a5a4437c9924aed73c1b2ddb09ec86aee4e0', this);">xem thêm<span></span></a>
+		<input type="hidden" id="page_number" value="1" />
+        <input type="hidden" id="datepicker_value" value="" />
+		<div style="overflow: hidden">
+			<a id="datepicker_cate" class="btn-date" title="Xem theo ngày">
+				<img class="wi-icon wi-icon-calendar" alt="calendar" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/transparent.png">
+				Xem theo ngày
+			</a>
+		</div>
+				
+	        </section>
+        <aside class="sidebar">
+            	        		<div class="block-1">
+			<h2>Đọc nhiều nhất</h2>
+			<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/20170317/ban-drone-200-usd-mua-tren-amazon-bang-ten-lua/1281368.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/03/16/-95156989-gettyimages-160766965-1489649295.jpg"alt="Bắn drone 200 USD mua trên Amazon bằng tên lửa"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/20170317/ban-drone-200-usd-mua-tren-amazon-bang-ten-lua/1281368.html" title="Bắn drone 200 USD mua trên Amazon bằng tên lửa">Bắn drone 200 USD mua trên Amazon bằng tên lửa							</a></h4>
+				</article>
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170317/canh-bao-bang-cach-tan-cong-mang-trach-nhiem-cua-nguoi-lon/1281347.html" title="Cảnh báo bằng cách tấn công mạng: Trách nhiệm của &#039;người lớn&#039;">Cảnh báo bằng cách tấn công mạng: Trách nhiệm của 'người lớn'							</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170315/samsung-galaxy-s8-thiet-ke-smartphone-man-hinh-cham-nguong-vo-cuc/1280702.html" title="​Samsung Galaxy S8: Thiết kế smartphone màn hình chạm ngưỡng vô cực">​Samsung Galaxy S8: Thiết kế smartphone màn hình chạm ngưỡng vô cực							</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170317/tv-cua-anh-sang-ra-mat-tai-paris/1281956.html" title="“TV của ánh sáng” ra mắt tại Paris ">“TV của ánh sáng” ra mắt tại Paris 							</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170316/canh-bao-bang-cach-tan-cong-mang-su-nong-noi-cua-nguoi-tre/1279955.html" title="Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ">Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ							</a></li>
+									</ul>
+							</div>
+		</div>
+        				<div class="block-1">
+						<h2><a href="javascript:;">Điểm nóng</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/20170317/canh-bao-bang-cach-tan-cong-mang-trach-nhiem-cua-nguoi-lon/1281347.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2017/03/16/how-to-become-a-hacker-735x400-1489646089.jpg"alt="Cảnh báo bằng cách tấn công mạng: Trách nhiệm của &amp;#039;người lớn&amp;#039;"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/20170317/canh-bao-bang-cach-tan-cong-mang-trach-nhiem-cua-nguoi-lon/1281347.html" title="Cảnh báo bằng cách tấn công mạng: Trách nhiệm của &#039;người lớn&#039;">Cảnh báo bằng cách tấn công mạng: Trách nhiệm của 'người lớn'</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170316/canh-bao-bang-cach-tan-cong-mang-su-nong-noi-cua-nguoi-tre/1279955.html" title="Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ">Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170313/phat-hien-ma-doc-xoa-du-lieu-stonedrill/1279331.html" title="​Phát hiện mã độc xóa dữ liệu StoneDrill">​Phát hiện mã độc xóa dữ liệu StoneDrill													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170310/vu-cac-website-cang-hang-khong-bi-tan-cong-bao-mat-long-leo/1278128.html" title="Vụ các website cảng hàng không bị tấn công: Bảo mật lỏng lẻo">Vụ các website cảng hàng không bị tấn công: Bảo mật lỏng lẻo													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170308/canh-bao-tro-mao-danh-nha-mang-goi-dien-lay-ma-xac-thuc/1276832.html" title="​Cảnh báo trò mạo danh nhà mạng gọi điện lấy mã xác thực">​Cảnh báo trò mạo danh nhà mạng gọi điện lấy mã xác thực													</a></li>
+									</ul>
+							</div>		
+		</div>
+	<iframe width=300 height=415 src="http://tv.tuoitre.vn/nhip-song-so-iframe" scrolling="no" frameBorder="0">Browser not supported</iframe>			<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/blog/20170317/google-dua-chuong-trinh-ho-tro-startup-den-viet-nam/1282184.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2017/03/17/sami-giam-doc-phu-trach-cac-nha-phat-trien-ung-dung-khu-vuc-nam-a-va-dong-nam-a-phat-bieu-tai-su-kie-1489750910.jpg"alt="​Google đưa chương trình hỗ trợ start-up đến Việt Nam"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/blog/20170317/google-dua-chuong-trinh-ho-tro-startup-den-viet-nam/1282184.html" title="​Google đưa chương trình hỗ trợ start-up đến Việt Nam">​Google đưa chương trình hỗ trợ start-up đến Việt Nam</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170317/ban-drone-200-usd-mua-tren-amazon-bang-ten-lua/1281368.html" title="Bắn drone 200 USD mua trên Amazon bằng tên lửa">Bắn drone 200 USD mua trên Amazon bằng tên lửa													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170317/tv-cua-anh-sang-ra-mat-tai-paris/1281956.html" title="“TV của ánh sáng” ra mắt tại Paris ">“TV của ánh sáng” ra mắt tại Paris 													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170317/canh-bao-bang-cach-tan-cong-mang-trach-nhiem-cua-nguoi-lon/1281347.html" title="Cảnh báo bằng cách tấn công mạng: Trách nhiệm của &#039;người lớn&#039;">Cảnh báo bằng cách tấn công mạng: Trách nhiệm của 'người lớn'													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai/20170316/nokia-nhac-tcl-ban-quyen-thuong-hieu-dien-thoai-alcatel/1281506.html" title="​Nokia nhắc TCL bản quyền thương hiệu điện thoại Alcatel">​Nokia nhắc TCL bản quyền thương hiệu điện thoại Alcatel													</a></li>
+									</ul>
+							</div>		
+		</div>
+				<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so">Thiết bị số</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/thi-truong/20170316/2017-dong-ho-thong-minh-smartwatch-ban-chay-hon-18/1281419.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2017/03/16/tag-heuer-to-launch-new-modular-smartwatch-with-android-wear-2-0-on-march-14-513088-2-1489658450.jpg"alt="​2017: Đồng hồ thông minh (smartwatch) bán chạy hơn 18%"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/thi-truong/20170316/2017-dong-ho-thong-minh-smartwatch-ban-chay-hon-18/1281419.html" title="​2017: Đồng hồ thông minh (smartwatch) bán chạy hơn 18%">​2017: Đồng hồ thông minh (smartwatch) bán chạy hơn 18%</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170310/5-ly-do-gioi-van-phong-khong-the-bo-qua-man-hinh-hp/1272245.html" title="​5 lý do giới văn phòng không thể bỏ qua màn hình HP">​5 lý do giới văn phòng không thể bỏ qua màn hình HP													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170308/qualcomm-cong-bo-trien-khai-thanh-cong-ket-noi-5g/1276865.html" title="​Qualcomm công bố triển khai thành công kết nối 5G">​Qualcomm công bố triển khai thành công kết nối 5G													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170301/man-hinh-lon-gia-re-sanh-dieu-cho-van-phong-moi/1272230.html" title="​Màn hình lớn giá rẻ sành điệu cho văn phòng mới">​Màn hình lớn giá rẻ sành điệu cho văn phòng mới													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so/gadget/20170228/mwc-2017-sony-xperia-touch-bien-tuong-nha-thanh-tablet/1271981.html" title="​MWC 2017: Sony Xperia Touch biến tường nhà thành tablet">​MWC 2017: Sony Xperia Touch biến tường nhà thành tablet													</a></li>
+									</ul>
+							</div>		
+		</div>
+				<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn/tin/bao-mat">Bảo mật</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/20170317/canh-bao-bang-cach-tan-cong-mang-trach-nhiem-cua-nguoi-lon/1281347.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2017/03/16/how-to-become-a-hacker-735x400-1489646089.jpg"alt="Cảnh báo bằng cách tấn công mạng: Trách nhiệm của &amp;#039;người lớn&amp;#039;"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/20170317/canh-bao-bang-cach-tan-cong-mang-trach-nhiem-cua-nguoi-lon/1281347.html" title="Cảnh báo bằng cách tấn công mạng: Trách nhiệm của &#039;người lớn&#039;">Cảnh báo bằng cách tấn công mạng: Trách nhiệm của 'người lớn'</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170316/canh-bao-bang-cach-tan-cong-mang-su-nong-noi-cua-nguoi-tre/1279955.html" title="Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ">Cảnh báo bằng cách tấn công mạng: Sự nông nổi của người trẻ													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170313/phat-hien-ma-doc-xoa-du-lieu-stonedrill/1279331.html" title="​Phát hiện mã độc xóa dữ liệu StoneDrill">​Phát hiện mã độc xóa dữ liệu StoneDrill													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170310/vu-cac-website-cang-hang-khong-bi-tan-cong-bao-mat-long-leo/1278128.html" title="Vụ các website cảng hàng không bị tấn công: Bảo mật lỏng lẻo">Vụ các website cảng hàng không bị tấn công: Bảo mật lỏng lẻo													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170308/canh-bao-tro-mao-danh-nha-mang-goi-dien-lay-ma-xac-thuc/1276832.html" title="​Cảnh báo trò mạo danh nhà mạng gọi điện lấy mã xác thực">​Cảnh báo trò mạo danh nhà mạng gọi điện lấy mã xác thực													</a></li>
+									</ul>
+							</div>		
+		</div>
+				<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn/tin/blog">Blog</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/blog/20170317/google-dua-chuong-trinh-ho-tro-startup-den-viet-nam/1282184.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2017/03/17/sami-giam-doc-phu-trach-cac-nha-phat-trien-ung-dung-khu-vuc-nam-a-va-dong-nam-a-phat-bieu-tai-su-kie-1489750910.jpg"alt="​Google đưa chương trình hỗ trợ start-up đến Việt Nam"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/blog/20170317/google-dua-chuong-trinh-ho-tro-startup-den-viet-nam/1282184.html" title="​Google đưa chương trình hỗ trợ start-up đến Việt Nam">​Google đưa chương trình hỗ trợ start-up đến Việt Nam</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/blog/20170204/chang-trai-ti-phu-2-tuoi-mang-ten-snapchat/1259764.html" title="​Chàng trai tỉ phú 27 tuổi mang tên Snapchat">​Chàng trai tỉ phú 27 tuổi mang tên Snapchat													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/blog/20161110/khi-nao-tartup-can-ban-hay-chia-co-phan/1216438.html" title="Khi nào Startup cần bán hay chia cổ phần?">Khi nào Startup cần bán hay chia cổ phần?													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/blog/20161102/phu-nu-khoi-nghiep-cong-nghe-thang-loi-o-tuoi-55/1211536.html" title="Phụ nữ khởi nghiệp công nghệ thắng lợi ở tuổi 55">Phụ nữ khởi nghiệp công nghệ thắng lợi ở tuổi 55													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/blog/20161013/hieu-ve-cac-hinh-thuc-huy-dong-von-cho-startup/1187668.html" title="Hiểu về các hình thức huy động vốn cho startup">Hiểu về các hình thức huy động vốn cho startup													</a></li>
+									</ul>
+							</div>		
+		</div>
+				<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai">Điện thoại</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/dien-thoai/20170316/nokia-nhac-tcl-ban-quyen-thuong-hieu-dien-thoai-alcatel/1281506.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2017/03/16/alcatel-smartphone-1489666430.jpg"alt="​Nokia nhắc TCL bản quyền thương hiệu điện thoại Alcatel"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai/20170316/nokia-nhac-tcl-ban-quyen-thuong-hieu-dien-thoai-alcatel/1281506.html" title="​Nokia nhắc TCL bản quyền thương hiệu điện thoại Alcatel">​Nokia nhắc TCL bản quyền thương hiệu điện thoại Alcatel</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170314/thuong-hieu-dien-thoai-vertu-thuoc-ve-nguoi-tho/1279961.html" title="​Thương hiệu điện thoại Vertu thuộc về người Thổ">​Thương hiệu điện thoại Vertu thuộc về người Thổ													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170301/tin-do-dien-thoai-di-dong-tang-len-5-ti-nguoi/1272617.html" title="&#039;Tín đồ&#039; điện thoại di động tăng lên 5 tỉ người">'Tín đồ' điện thoại di động tăng lên 5 tỉ người													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20170228/tin-nhan-di-dong-sms-dan-bi-rcs-thay-the/1272086.html" title="​Tin nhắn di động SMS dần bị RCS thay thế">​Tin nhắn di động SMS dần bị RCS thay thế													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai/smartphone/20170227/mwc-2017-nokia-3310-tro-lai-gia-14-trieu-dong/1271540.html" title="​MWC 2017: Nokia 3310 trở lại, giá 1,4 triệu đồng">​MWC 2017: Nokia 3310 trở lại, giá 1,4 triệu đồng													</a></li>
+									</ul>
+							</div>		
+		</div>
+				<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung">Tư vấn tiêu dùng</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung/20170211/dong-ho-thong-minh-nao-nang-cap-android-wear-20/1262731.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2017/02/10/smartwatch-1486705415.jpg"alt="Đồng hồ thông minh nào nâng cấp Android Wear 2.0?"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung/20170211/dong-ho-thong-minh-nao-nang-cap-android-wear-20/1262731.html" title="Đồng hồ thông minh nào nâng cấp Android Wear 2.0?">Đồng hồ thông minh nào nâng cấp Android Wear 2.0?</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung/20161230/nhung-ung-dung-antivirus-tot-nhat-cho-may-mac/1244854.html" title="Những ứng dụng anti-virus tốt nhất cho máy Mac">Những ứng dụng anti-virus tốt nhất cho máy Mac													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung/20161209/mua-iphone-5s-va-ipad-mini-2-tra-gop-tu-649000-dong/1232659.html" title="​Mua iPhone 5s và iPad Mini 2 trả góp từ 649.000 đồng">​Mua iPhone 5s và iPad Mini 2 trả góp từ 649.000 đồng													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung/20161202/mua-hang-online-friday-can-chuan-bi-gi/1228636.html" title="​Mua hàng Online Friday cần chuẩn bị gì?">​Mua hàng Online Friday cần chuẩn bị gì?													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung/20161104/chon-mua-apple-chinh-hang-tai-fpt-shop-co-gi-khac-biet/1213690.html" title="Chọn mua Apple chính hãng tại FPT Shop có gì khác biệt?">Chọn mua Apple chính hãng tại FPT Shop có gì khác biệt?													</a></li>
+									</ul>
+							</div>		
+		</div>
+				<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau">Nhịp cầu</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/nhip-cau/20161116/canh-giac-so-la-tu-nuoc-ngoai-goi-den/1220308.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2016/11/16/dienthoai-luadao-1479297160.jpg"alt="Cảnh giác số lạ từ nước ngoài gọi đến"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau/20161116/canh-giac-so-la-tu-nuoc-ngoai-goi-den/1220308.html" title="Cảnh giác số lạ từ nước ngoài gọi đến">Cảnh giác số lạ từ nước ngoài gọi đến</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20161010/bi-chan-lien-lac-vi-phat-sinh-nhieu-cuoc/1185673.html" title="​Bị chặn liên lạc vì phát sinh nhiều cước">​Bị chặn liên lạc vì phát sinh nhiều cước													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20160823/truyen-hinh-so-mat-dat-van-phai-dung-anten/1159678.html" title="Truyền hình số mặt đất vẫn phải dùng anten">Truyền hình số mặt đất vẫn phải dùng anten													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20160814/khong-nap-duoc-the-cao-trong-ngay-khuyen-mai/1154206.html" title="​Không nạp được thẻ cào trong ngày khuyến mãi">​Không nạp được thẻ cào trong ngày khuyến mãi													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/20160518/a-rap-saudi-cam-cua-facebook-messenger/1102717.html" title="​Ả Rập Saudi “cấm cửa” Facebook Messenger ">​Ả Rập Saudi “cấm cửa” Facebook Messenger 													</a></li>
+									</ul>
+							</div>		
+		</div>
+				<div class="block-1">
+						<h2><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham">Đánh giá sản phẩm</a></h2>
+						<div class="inner">
+								<article class="bl-ar">
+										<a class="img_115_65" href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham/20161101/pro-theatre-l56-series-tv-thong-minh-moi-nhat-tu-toshiba/1210936.html" title="">
+							<img src="http://static.new.tuoitre.vn/tto/i/s626/2016/10/31/toshiba-1477905572.jpg"alt="Pro Theatre L56 series – TV thông minh mới nhất từ Toshiba"/>					</a>
+										<h4><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham/20161101/pro-theatre-l56-series-tv-thong-minh-moi-nhat-tu-toshiba/1210936.html" title="Pro Theatre L56 series – TV thông minh mới nhất từ Toshiba">Pro Theatre L56 series – TV thông minh mới nhất từ Toshiba</a></h4>
+				</article>	
+								<ul class="list-1">
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham/20150922/galaxy-tab-s2-bien-doi-giua-tablet-va-laptop/973549.html" title="Galaxy Tab S2: biến đổi giữa tablet và laptop">Galaxy Tab S2: biến đổi giữa tablet và laptop													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham/20150915/trai-nghiem-thuc-te-camera-galaxy-note-5/969576.html" title="Trải nghiệm thực tế camera Galaxy Note 5">Trải nghiệm thực tế camera Galaxy Note 5													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc/20150609/cap-nhat-ios-9-iphone-va-ipad-loi-gi/758949.html" title="Cập nhật iOS 9, iPhone và iPad lợi gì?">Cập nhật iOS 9, iPhone và iPad lợi gì?													</a></li>
+										<li><a href="http://nhipsongso.tuoitre.vn/tin/blog/20150526/su-that-nhung-cai-nhat-qua-dat-cua-bkav-bphone/752484.html" title="Giải mã hệ điều hành, phương thức truyền tải của BPhone">Giải mã hệ điều hành, phương thức truyền tải của BPhone													</a></li>
+									</ul>
+							</div>		
+		</div>
+	<div class="block-1">
+	<h2>Chủ đề nóng</h2>
+	<div class="inner">
+		<ul class="list-1 list-2">
+								<li>
+				<span>1.</span>
+				<a href="http://nhipsongso.tuoitre.vn/chu-de/ung-dung-mien-phi/4714.html" >Ứng dụng miễn phí</a>
+			</li>
+								<li>
+				<span>2.</span>
+				<a href="http://nhipsongso.tuoitre.vn/chu-de/ma-nguon-mo/106444.html">​Mã nguồn mở</a>
+			</li>
+								<li>
+				<span>3.</span>
+				<a href="http://nhipsongso.tuoitre.vn/chu-de/microsoft/20347.html">​Microsoft</a>
+			</li>
+								<li>
+				<span>4.</span>
+				<a href="http://nhipsongso.tuoitre.vn/chu-de/nhiep-anh/4561.html">​Nhiếp ảnh</a>
+			</li>
+								<li>
+				<span>5.</span>
+				<a href="http://nhipsongso.tuoitre.vn/chu-de/windows/9883.html">​Windows</a>
+			</li>
+								<li>
+				<span>6.</span>
+				<a href="http://nhipsongso.tuoitre.vn/chu-de/3d/8029.html">3D</a>
+			</li>
+							</ul>
+	</div>	
+</div>        </aside>
+    </section>
+    <footer class="footer">
+    <ul class="top-footer">
+        <li><a href="http://tuoitrenews.vn/" target="_blank" title="Tuổi Trẻ News ">Tuổi Trẻ News </a></li>
+        <li><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan/" target="_blank" title="Tuổi Trẻ Cuối Tuần">Tuổi Trẻ Cuối Tuần </a></li>
+        <li><a href="http://tv.tuoitre.vn/" target="_blank" title="Tuổi trẻ TV">Tuổi trẻ TV</a></li>
+        <!-- <li><a href="http://tuoitre.vn/Ao-trang" target="_blank" title="Áo Trắng">Áo Trắng</a></li> -->
+        <li><a href="http://tusach.tuoitre.vn" target="_blank" title="Tủ Sách Tuổi Trẻ">Tủ Sách Tuổi Trẻ</a></li>
+        <li class="float-r"><a class="btn-send" href="http://tuoitre.vn/trang/lien-he" title="Gửi bài về Toà soạn">Gửi bài về Toà soạn</a></li>
+        <li class="float-r"><a class="btn-set" href="http://pay.tuoitre.vn/dat-bao" target="_blank" title="Đặt báo Online">Đặt báo Online</a></li>
+    </ul>
+    <ul class="list-link">
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" title="Chính trị - Xã hội">Chính trị - Xã hội</a></dt>
+                <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi" title="Thời sự - Suy nghĩ">Thời sự - Suy nghĩ</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su" title="Phóng sự - Ký sự">Phóng sự - Ký sự</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong" title="Môi trường">Môi trường</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay" title="Chuyện thường ngày">Chuyện thường ngày</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/tieu-diem" title="Chuyện thường ngày">Tiêu điểm</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/the-gioi" title="Thế giới">Thế giới</a></dt>
+                <dd><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan" title="Quan sát – Bình luận">Quan sát – Bình luận</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau" title="Thế giới muôn màu">Thế giới muôn màu</a></dd>
+                <dd><a href="http://tuoitre.vn/tinthe-gioi/nguoi-viet-nam-chau" title="Người Việt năm châu">Người Việt năm châu</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/the-gioi/ho-so" title="Hồ sơ">Hồ sơ</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/giao-duc" title="Giáo dục">Giáo dục</a></dt>
+                <dd><a href="http://tuyensinh.tuoitre.vn" title="Tuyển sinh">Tuyển sinh</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/giao-duc/du-hoc" title="Du học">Du học</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc" title="Khoa học">Khoa học</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc" title="Câu chuyện giáo dục">Câu chuyện giáo dục</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc" title="Giáo dục các nước">Giáo dục các nước</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/nhip-song-tre" title="Nhịp sống trẻ">Nhịp sống trẻ</a></dt>
+                <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu" title="Sống & Yêu">Sống & Yêu</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam" title="Cơ hội việc làm">Cơ hội việc làm</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online" title="Nhịp sống online">Nhịp sống online</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim" title="Bắc nhịp trái tim">Bắc nhịp trái tim</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://dulich.tuoitre.vn" title="Du lịch">Du lịch</a></dt>
+                <dd><a href="http://dulich.tuoitre.vn/tin/nhung-mien-dat-la" title="Những miền đất lạ">Những miền đất lạ</a></dd>
+                <dd><a href="http://dulich.tuoitre.vn/tin/trai-nghiem-kham-pha" title="Trải nghiệm - Khám phá">Trải nghiệm - Khám phá</a></dd>
+                <dd><a href="http://dulich.tuoitre.vn/tin/am-thuc" title="Ẩm thực">Ẩm thực</a></dd>
+                <dd><a href="http://dulich.tuoitre.vn/tin/van-hoa" title="Văn hoá">Văn hoá</a></dd>
+                <dd><a href="http://dulich.tuoitre.vn/tin/goc-anh-lu-hanh" title="Góc ảnh lữ hành">Góc ảnh lữ hành</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a target="_blank" href="http://media.tuoitre.vn" title="Media">Media</a></dt>
+                <dd><a target="_blank" href="http://media.tuoitre.vn/TTAudio.aspx" title="Nghe đọc báo">Nghe đọc báo</a></dd>
+                <dd><a target="_blank" href="http://media.tuoitre.vn/BookMedia.aspx" title="Sách báo">Sách báo</a></dd>
+                <dd><a target="_blank" href="http://media.tuoitre.vn/TVO.aspx" title="Clip thời sự">Clip thời sự</a></dd>
+                <dd><a target="_blank" href="http://media.tuoitre.vn/Radio.aspx" title="Nghe nhạc">Nghe nhạc</a></dd>
+                <dd><a target="_blank" href="http://media.tuoitre.vn/Film.aspx" title="Xem phim">Xem phim</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://nhipsongso.tuoitre.vn" title="Nhịp sống số">Nhịp sống số</a></dt>
+                <dd><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai" title="Điện thoại">Điện thoại</a></dd>
+                <dd><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so" title="Thiết bị số">Thiết bị số</a></dd>
+                <dd><a href="http://nhipsongso.tuoitre.vn/tin/blog" title="Blog">Blog</a></dd>
+                <dd><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc" title="Thủ thuật - Kiến thức">Thủ thuật - Kiến thức</a></dd>
+                <dd><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung" title="Tư vấn tiêu dùng">Tư vấn tiêu dùng</a></dd>
+                <dd><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau" title="Nhịp cầu">Nhịp cầu</a></dd>
+
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế">Kinh tế</a></dt>
+                <dd><a href="http://tuoitre.vn/tin/kinh-te/thi-truong" title="Thị trường">Thị trường</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh" title="Tài chính">Tài chính</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan" title="Doanh nhân">Doanh nhân</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe" title="Thế giới xe">Thế giới xe</a></dd>
+                <dd><a href="http://batdongsan.tuoitre.vn" title="Bất động sản">Bất động sản</a></dd>
+                <dd><a href="http://dulich.tuoitre.vn/" title="Du lịch">Du lịch</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a target="_blank" href="http://thethao.tuoitre.vn/" title="Thể thao">Thể thao</a></dt>
+                <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/bong-da" title="Bóng đá">Bóng đá</a></dd>
+                <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/quan-vot" title="Quần vợt">Quần vợt</a></dd>
+                <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/cac-mon-khac" title="Các môn khác">Các môn khác</a></dd>
+                <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao" title="Sức khỏe thể thao">Sức khỏe thể thao</a></dd>
+                <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song" title="Thể thao và Cuộc sống">Thể thao và Cuộc sống</a></dd>
+                <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/hau-truong" title="Hậu trường">Hậu trường</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/song-khoe" title="Sống khoẻ">Sống khoẻ</a></dt>
+                <dd><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online" title="Phòng mạch Online">Phòng mạch Online</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/song-khoe/me-va-be" title="Mẹ & Bé">Mẹ & Bé</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh" title="Giới tính">Giới tính</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon" title="Tư vấn hiếm muộn">Tư vấn hiếm muộn</a></dd>
+                <!-- <dd><a href="" title="Blog bác sĩ">Blog bác sĩ</a></dd> -->
+            </dl>
+
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/van-hoa-giai-tri" title="Văn hoá - Giải trí">Văn hoá - Giải trí</a></dt>
+                <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac" title="Âm nhạc">Âm nhạc</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh" title="Điện ảnh">Điện ảnh</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/thoi-trang" title="Thời trang">Thời trang</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh" title="Truyền hình">Truyền hình</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/hau-truong" title="Hậu trường">Hậu trường</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/van-hoc-sach" title="Văn học - Sách">Văn học - Sách</a></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/phap-luat" title="Pháp luật">Pháp luật</a></dt>
+                <dd><a href="http://tuoitre.vn/tin/phap-luat/tu-van" title="Tư vấn">Tư vấn</a></dd>
+                <dd><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh" title="Ký sự pháp đình">Ký sự pháp đình</a></dd>
+            </dl>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/ban-doc" title="Bạn đọc">Bạn đọc</a></dt>
+            </dl>
+            <dl>
+                <dt><a href="http://tuoitre.vn/tin/can-biet" title="Cần biết">Cần biết</a></dt>
+            </dl>
+        </li>
+
+    </ul>
+    <div class="bottom-footer">
+        <a class="logo-footer" href="" title="logo"><img  alt="" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/images/logo-footer.png" /></a>
+        <p class="float-l">
+            <strong>© Copyright 2017 TUOITRE.VN</strong>, All rights reserved <br/>
+            ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này.
+        </p>
+        <p class="float-r">
+            <a href="http://tuoitre.vn/tin/thong-tin-toa-soan" title="Thông tin Toà soạn">Thông tin Toà soạn</a> -
+            <a target="_blank" href="http://www.thanhdoan.hochiminhcity.gov.vn/webtd/vn/Home.aspx" title="Thông tin Thành Đoàn">Thông tin Thành Đoàn</a> -
+            <a target="_blank" href=" http://thitruong.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a> <br/>
+            <span>Điện thoại liên hệ: <strong><a href="tel:0918.033.133">0918.033.133</a></strong></span>
+        </p>
+    </div>
+</footer>
+<a class="btn-top" href="javascript:void(0);" title="Top">Top</a>
+<ul class="list-appmobile">
+    <li><a href="https://play.google.com/store/apps/details?id=vn.tuoitre.app" target="_blank" title=""><i class="fa fa-android"></i> <span>Ứng dụng Android</span></a></li>
+    <li><a href="https://itunes.apple.com/us/app/tuoi-tre-online/id974433568?l=vi&ls=1&mt=8" target="_blank" title=""><i class="fa fa-apple"></i> <span>Ứng dụng IOS</span></a></li>
+</ul></div>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MD25GD"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MD25GD');</script>
+<script type="text/javascript" src="http://s.tuoitre.vn/TripleX/getad.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/jquery.fancybox-buttons.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/jquery.fancybox-thumbs.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/start.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/custom.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/b73a59f6v783/js/pikaday.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+                // You can get and set dates with moment objects
+                var current_datetime = new Date();
+                var date_picker_hidden_input = document.getElementById('datepicker_value');
+                var data_picker_trigger = document.getElementById('datepicker_cate');
+                var picker = new Pikaday(
+                {
+                    field: date_picker_hidden_input,
+                    trigger: data_picker_trigger,
+                    firstDay: 1,
+                    i18n: {
+                        previousMonth : 'Tháng trước',
+                        nextMonth     : 'Tháng tới',
+                        months        : ['Tháng 1','Tháng 2','Tháng 3','Tháng 4','Tháng 5','Tháng 6','Tháng 7','Tháng 8','Tháng 9','Tháng 10','Tháng 11','Tháng 12'],
+                        weekdays      : ['Chủ nhật','Thứ 2','Thứ 3','Thứ 4','Thứ 5','Thứ 6','Thứ 7'],
+                        weekdaysShort : ['CN','T2','T3','T4','T5','T6','T7']
+                    },
+                    minDate: new Date('2003-01-01'),
+                    maxDate: current_datetime,
+                    defaultDate: current_datetime,
+                    showMonthAfterYear: true,
+                    yearRange: [2003, current_datetime.getFullYear()],
+                    onSelect: function(newDate) {
+                        var sendDate = newDate.getDate() + '-' + (newDate.getMonth() + 1) + '-' + newDate.getFullYear();
+                        date_picker_hidden_input.value = sendDate;
+                        window.location.replace('http://tuoitre.vn//tim-kiem/nhip-song-so/?to=' + sendDate);
+                    },
+
+                });
+            
+/*]]>*/
+</script>
+</body>
+<html>
+
+

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trao Huân chương Hữu nghị tặng Giáo sư Giô-en Lơ-roa vì có nhiều đóng góp cho ngành y tế Thủ đô - Nhân Dân
+</title><meta name="keywords" content="Đại sứ Cộng hòa Pháp,Strasbourg,bệnh viện xanh pôn,Nguyễn Đức Chung,ủy ban nhân dân thành phố hà nội,trung ương đảng,phẫu thuật,người Pháp,đào tạo,Pháp,Hà Nội,việt nam" /><meta name="description" content="Thừa ủy quyền của Chủ tịch nước CHXHCN Việt Nam, sáng 17-3, UBND thành phố Hà Nội đã trao Huân chương Hữu nghị của Chủ tịch nước tặng GS Giô-en Lơ-roa (quốc..." />
+<link rel="canonical" href="http://www.baomoi.com/trao-huan-chuong-huu-nghi-tang-giao-su-gio-en-lo-roa-vi-co-nhieu-dong-gop-cho-nganh-y-te-thu-do/c/21792460.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792460" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792460" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/xahoi/item/32344202-trao-huan-chuong-huu-nghi-tang-giao-su-gio-en-lo-roa-vi-co-nhieu-dong-gop-cho-nganh-y-te-thu-do.html");
+else
+window.location.replace("http://www.baomoi.com/trao-huan-chuong-huu-nghi-tang-giao-su-gio-en-lo-roa-vi-co-nhieu-dong-gop-cho-nganh-y-te-thu-do/c/21792460.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

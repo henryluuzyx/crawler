@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Sôi động chương trình 'Quảng Bình trong lòng Hà Nội' - VietTimes
+</title><meta name="keywords" content="Quảng Bình,hồ Hoàn Kiếm,Lý Thái Tổ,Trương Minh Tuấn,xúc tiến,new york times,quảng bá,trưng bày,phát triển bền vững,bình chọn,chiến đấu,châu á,sáng tạo,khai thác,Hà Nội,sản xuất,Howard Limbert,UBND tỉnh Quảng Bình,việt nam,Tân Nhàn,Tượng Đài Lý Thái Tổ" /><meta name="description" content="Tại Lễ khai mạc Chương trình diễn ra vào tối ngày 25/3 được tường thuật thực trực tiếp trên kênh VTV6, chương trình sẽ tổ chức giao lưu với những người nổi ..." />
+<link rel="canonical" href="http://www.baomoi.com/soi-dong-chuong-trinh-quang-binh-trong-long-ha-noi/c/21788120.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21788120" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21788120" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://viettimes.vn/soi-dong-chuong-trinh-quang-binh-trong-long-ha-noi-113843.html");
+else
+window.location.replace("http://www.baomoi.com/soi-dong-chuong-trinh-quang-binh-trong-long-ha-noi/c/21788120.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

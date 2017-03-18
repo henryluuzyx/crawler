@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+MU trả giá cực đắt cho tấm vé lọt vào tứ kết Europa League - Nông Nghiệp
+</title><meta name="keywords" content="Manchester United,Europa League,Zlatan Ibrahimović,Daley Blind,Paul Pogba,quỷ đỏ,Middlesbrough,trả giá,chiến thắng,tổn thất,người Pháp,hà lan,liên kết,chứng minh" /><meta name="description" content="Đêm qua, MU đã vượt qua Rostov để lọt vào tứ kết Europa League. Dù vậy, họ đã phải trả cái giá cực đắt với chấn thương của Paul Pogba và Daley Blind." />
+<link rel="canonical" href="http://www.baomoi.com/mu-tra-gia-cuc-dat-cho-tam-ve-lot-vao-tu-ket-europa-league/c/21791303.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791303" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791303" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://nongnghiep.vn/mu-tra-gia-cuc-dat-cho-tam-ve-lot-vao-tu-ket-europa-league-post189376.html");
+else
+window.location.replace("http://www.baomoi.com/mu-tra-gia-cuc-dat-cho-tam-ve-lot-vao-tu-ket-europa-league/c/21791303.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

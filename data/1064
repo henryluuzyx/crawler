@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+'Dân phản ứng vì phá bậc tam cấp quá nhanh' - Zing
+</title><meta name="keywords" content="Xã Đàn,Đống Đa,sổ đỏ,lấn chiếm,Zing.vn,Văn Chương,quy hoạch,Hà Nội,chủ trương,rà soát,ghi nhận,ra quân,Tổng Hội Xây dựng,Phạm Sĩ Liêm,hạ cốt,Phạm Sỹ Liêm,đại học xây dựng hà nội,Nguyễn Văn Hùng,Lê Hiếu,tái diễn,bộ xây dựng" /><meta name="description" content="&quot;Đáng lẽ Hà Nội nên cho người dân khoảng 2 tuần đến 1 tháng để tự xử lý bậc tam cấp của mình trước khi phá dỡ&quot;, tiến sĩ Phạm Sỹ Liêm chia sẻ." />
+<link rel="canonical" href="http://www.baomoi.com/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793206" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793206" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh-post729215.html");
+else
+window.location.replace("http://www.baomoi.com/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

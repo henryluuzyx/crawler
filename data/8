@@ -1,0 +1,2064 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Báo Mới - Tin tức nóng nhất, tin tức mới nhất cập nhật liên tục 24H - BAOMOI.COM
+</title><meta name="keywords" content="báo mới, bao moi, tin tức, tin tuc, tổng hợp tin tức, cập nhật, báo điện tử, mới, nóng, nhanh, hot, Việt Nam, thế giới, biển đông, hà nội, tp hcm, sài gòn, xã hội, văn hóa, kinh tế, khoa học, công nghệ, thể thao, bóng đá, giải trí, pháp luật, giáo dục, sức khỏe, ô tô, xe máy, nhà đất." /><meta name="description" content="Báo Mới - Trang tin tự động cập nhật các tin tức Việt Nam và thế giới từ các báo và trang tin điện tử hàng đầu" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/" />
+<link rel="alternate" href="http://www.baomoi.com/" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/" />
+<meta property="og:title" content="" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "",
+"alternateName" : "Báo Mới - Trang tin tự động cập nhật các tin tức Việt Nam và thế giới từ các báo và trang tin điện tử hàng đầu",
+"url" : "http://www.baomoi.com/"
+}
+</script>
+<link rel="alternate" href="http://www.baomoi.com/feed.rss" type="application/rss+xml" title="RSS" />
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<h1><a href="/" class="logo" title="Báo Mới"></a></h1>
+<div class="hdr-content ">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<section class="main">
+<section class="hot-news">
+<div class="focus" data-track="|hotnews">
+<div class="main">
+<article data-aid="21792678" class="feature">
+<figure>
+<a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w626/17/03/18/100/21792678/1_138362.jpg" alt="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T06:15:00+07:00"></time>
+<span>
+<a href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/c/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La" class="spr spr-cache cache">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793191" >
+<figure>
+<a target="_blank" href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/r/21793191.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/271/21793191/2_315863.png" alt="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/r/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:44:08+07:00"></time>
+<span>
+<a href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/c/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017" class="spr spr-cache cache">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792503" >
+<figure>
+<a target="_blank" href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/61/21792503/4_24325.jpg" alt="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T05:04:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/c/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục" class="spr spr-cache cache">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792925" >
+<figure>
+<a target="_blank" href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/r/21792925.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/214/21792925/1_73956.jpg" alt="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/r/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:05:00+07:00"></time>
+<span>
+<a href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/c/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?" class="spr spr-cache cache">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792758" >
+<figure>
+<a target="_blank" href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/3/21792758/1_28271.jpg" alt="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T06:38:00+07:00"></time>
+<span>
+<a href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/c/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?" class="spr spr-cache cache">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</div>
+<div class="more-article" data-track="|news">
+<article data-aid="21793352">
+<header>
+<h2><a target="_blank" href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/r/21793352.epi" title="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm">
+Mẹo hút hơi nước trong nhà cực nhanh ngày nồm
+</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T08:15:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/meo-hut-hoi-nuoc-trong-nha-cuc-nhanh-ngay-nom/c/21793352.epi" title="Mẹo hút hơi nước trong nhà cực nhanh ngày nồm" class="spr spr-cache cache">Mẹo hút hơi nước trong nhà cực nhanh ngày nồm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793365">
+<header>
+<h2><a target="_blank" href="/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/r/21793365.epi" title="Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng">
+Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng
+</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T08:15:00+07:00"></time>
+<span>
+<a href="/ve-tran-viet-nam-dai-bac-trung-hoa-cao-nhat-chi-150-000-dong/c/21793365.epi" title="Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng" class="spr spr-cache cache">Vé trận Việt Nam - Đài Bắc Trung Hoa cao nhất chỉ 150.000 đồng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793353">
+<header>
+<h2><a target="_blank" href="/o-tuoi-u60-duong-tang-tu-thieu-hoa-van-chat-vat-kiem-song-bang-ca-khuc-phim-tay-du-ky/r/21793353.epi" title="Ở tuổi U60, &#39;Đường Tăng&#39; Từ Thiếu Hoa vẫn chật vật kiếm sống bằng ca khúc phim &#39;Tây Du Ký&#39;">
+Ở tuổi U60, 'Đường Tăng' Từ Thiếu Hoa vẫn chật vật kiếm sống bằng ca khúc phim 'Tây Du Ký'
+</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T08:13:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/o-tuoi-u60-duong-tang-tu-thieu-hoa-van-chat-vat-kiem-song-bang-ca-khuc-phim-tay-du-ky/c/21793353.epi" title="Ở tuổi U60, &#39;Đường Tăng&#39; Từ Thiếu Hoa vẫn chật vật kiếm sống bằng ca khúc phim &#39;Tây Du Ký&#39;" class="spr spr-cache cache">Ở tuổi U60, 'Đường Tăng' Từ Thiếu Hoa vẫn chật vật kiếm sống bằng ca khúc phim 'Tây Du Ký'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793343">
+<header>
+<h2><a target="_blank" href="/clip-nhung-vu-bao-hanh-tre-mam-non-gay-chan-dong-du-luan/r/21793343.epi" title="Clip: Những vụ bạo hành trẻ mầm non gây chấn động dư luận">
+Clip: Những vụ bạo hành trẻ mầm non gây chấn động dư luận
+</a></h2>
+<p class="meta">
+<a href="/www.nguoiduatin.vn-bao-nguoi-dua-tin-nguoi-dua-tin/p/296.epi">Người Đưa Tin</a>
+<time class="friendly" datetime="2017-03-18T08:08:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/clip-nhung-vu-bao-hanh-tre-mam-non-gay-chan-dong-du-luan/c/21793343.epi" title="Clip: Những vụ bạo hành trẻ mầm non gây chấn động dư luận" class="spr spr-cache cache">Clip: Những vụ bạo hành trẻ mầm non gây chấn động dư luận</a>
+</span>
+</p>
+</header>
+</article>
+<article id="pr_baomoiprhomenoibat_3"></article>
+<article data-aid="21793325">
+<header>
+<h2><a target="_blank" href="/han-quoc-nhu-di-tren-day-giua-trung-quoc-va-my/r/21793325.epi" title="Hàn Quốc như &#39;đi trên dây&#39; giữa Trung Quốc và Mỹ">
+Hàn Quốc như 'đi trên dây' giữa Trung Quốc và Mỹ
+</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T08:07:00+07:00"></time>
+<span>
+<a href="/han-quoc-nhu-di-tren-day-giua-trung-quoc-va-my/c/21793325.epi" title="Hàn Quốc như &#39;đi trên dây&#39; giữa Trung Quốc và Mỹ" class="spr spr-cache cache">Hàn Quốc như 'đi trên dây' giữa Trung Quốc và Mỹ</a>
+</span>
+</p>
+</header>
+</article>
+<article id="pr_baomoiprhomenoibat_2"></article>
+<article data-aid="21793350">
+<header>
+<h2><a target="_blank" href="/conte-da-vuot-qua-cai-bong-cua-mourinho-o-chelsea/r/21793350.epi" title="Conte đã vượt qua cái bóng của Mourinho ở Chelsea">
+Conte đã vượt qua cái bóng của Mourinho ở Chelsea
+</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T08:05:00+07:00"></time>
+<span>
+<a href="/conte-da-vuot-qua-cai-bong-cua-mourinho-o-chelsea/c/21793350.epi" title="Conte đã vượt qua cái bóng của Mourinho ở Chelsea" class="spr spr-cache cache">Conte đã vượt qua cái bóng của Mourinho ở Chelsea</a>
+</span>
+</p>
+</header>
+</article>
+<article id="pr_baomoiprhomenoibat_1"></article>
+</div>
+</section>
+<script>
+var arr_baomoiprhomenoibat = [
+{value :'<article class="pr"> <header> <h2> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=tR_U3Rrn3xYG6yZaXTvAK6A_OM3uVIIzg-SCOTh7M07Kvz4KI8RqPT7xLloRQTVj9Zrxbe0jYpsFf1xDqNycazuy2zcWBesFog59vsJvYb7GaHFU7WI9d3_iBiTmctOm3Z9OqbwUL6zXqcifamIGowB9X6IHL9eF3KQQaYCJc0YlGFk-zVjIyMg&amp;uid=&amp;redirectUrl=http%3A%2F%2Flasen.com.vn%2Fxuat-tinh-som-dang-dan-tro-thanh-sat-thu-voi-nam-gioi"> Chồng yếu sinh l&#253;, t&#244;i đ&#227; t&#236;m ra c&#225;ch chữa tuyệt vời n&#224;y </a> </h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=tR_U3Rrn3xYG6yZaXTvAK6A_OM3uVIIzg-SCOTh7M07Kvz4KI8RqPT7xLloRQTVj9Zrxbe0jYpsFf1xDqNycazuy2zcWBesFog59vsJvYb7GaHFU7WI9d3_iBiTmctOm3Z9OqbwUL6zXqcifamIGowB9X6IHL9eF3KQQaYCJc0YlGFk-zVjIyMg&amp;uid=&amp;redirectUrl=http%3A%2F%2Flasen.com.vn%2Fxuat-tinh-som-dang-dan-tro-thanh-sat-thu-voi-nam-gioi">L&#225; Sen<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=JgzBw76vPxYV1PLS_bvAOK3xSI3uVJE81zRCOTho3gKSf74KMMncZe4xrkk-EVXszecpheeVxR_pR6aGK2XjeBxR-jg75868nmKNe1kWCe5Gci_9kgnrS0gtfhE4fvbW5Hpm5H9r-551KJNIwA95lAPlWUgjAGGzxezDD1WAwG8mwAlzWhEnnra9mFQ82A&amp;uid=" style="width: 1px; height: 1px; display: none; position: absolute; top: -100px;" /></article>', share :11.1111},{value :'<article class="pr"> <header> <h2> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=W_GqXRrn3xboiR6KPTvAxR6P2E3uVGxZi3RCOTiVLfpC3z4KzariXT7xLrSrLe0jdZofX6WDIpsFkSob-Jwca9UcH2dWhevrSKIVLoLvj4wqoGEUbYzni-_Chi4OopW52xADGadnVYDHaqTewVyOA4CTZY7Hr9eFMtKM0eCJc6hHdAHuDdgmbjQ&amp;uid=&amp;redirectUrl=http%3A%2F%2Fnews.zing.vn%2Fsap-den-han-chot-nop-ho-so-grants4apps-singapore-post728872.html"> Sắp đến hạn ch&#243;t nộp hồ sơ Grants4Apps Singapore </a> </h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=W_GqXRrn3xboiR6KPTvAxR6P2E3uVGxZi3RCOTiVLfpC3z4KzariXT7xLrSrLe0jdZofX6WDIpsFkSob-Jwca9UcH2dWhevrSKIVLoLvj4wqoGEUbYzni-_Chi4OopW52xADGadnVYDHaqTewVyOA4CTZY7Hr9eFMtKM0eCJc6hHdAHuDdgmbjQ&amp;uid=&amp;redirectUrl=http%3A%2F%2Fnews.zing.vn%2Fsap-den-han-chot-nop-ho-so-grants4apps-singapore-post728872.html">Grants4Apps<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=OBLLa54vPxYL7moCXTvAJr8ZGE3uVI8-_0QCOTh2zObaXz4KLsv0Be4xrlcMlR2MDec3d0-lhR_pWbCS2wVjeAJ7opi7586itCZFaxmWF9wiQm99khfZL4A9npEmbPLmbnyw-PLHcAPrVZ4mXMdqVqjsT3ADgGGz2wYbXxUAwHEYzNGjmpE5iGLNWNQ82A&amp;uid=" style="width: 1px; height: 1px; display: none; position: absolute; top: -100px;" /></article>', share :11.1111},{value :'<article class="pr"> <header> <h2> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=nrRps14vPxatTMISfbvAgNXB6A3uVCmUp5TCOTjQZjJS_74KiGEsRW4xrvFmQTVj9ZpaFOnrclsF1Okl8Azc65DnRX92BeuuCwgdvsJvysdgiHFU7cnanx-iBy9jdid3AsxZURmBjlSvq2VwcMnMboM33ovKF29XMpUmfBFgicSLR3QB7g1vu660&amp;uid=&amp;redirectUrl=http%3A%2F%2Fgoutaz.com%2F4-giai-doan-cua-benh-gut-benh-gout%2F"> Điều trị bệnh gout to&#224;n diện - Đột ph&#225; trong chữa trị gout </a> </h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=nrRps14vPxatTMISfbvAgNXB6A3uVCmUp5TCOTjQZjJS_74KiGEsRW4xrvFmQTVj9ZpaFOnrclsF1Okl8Azc65DnRX92BeuuCwgdvsJvysdgiHFU7cnanx-iBy9jdid3AsxZURmBjlSvq2VwcMnMboM33ovKF29XMpUmfBFgicSLR3QB7g1vu660&amp;uid=&amp;redirectUrl=http%3A%2F%2Fgoutaz.com%2F4-giai-doan-cua-benh-gut-benh-gout%2F">Gout AZ<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=B61mFbpn3xa0tYbaXTvAmTJnCI3uVDCdQ-SCOTjJYZLS_74KkVZC3T7xLuifhf0MDeeIJJEpXU_JZkfS2wVjeL0-5HxrJ04dMeKNe1kWqE_Sgu99kqhK3aw9npGZ0bbX71SBQbnm_Blm8oEQ0FdbEgNCjzCOA4BhHXwLZ8dFQO4-_RhZM9q_-mHuDdjUki4&amp;uid=" style="width: 1px; height: 1px; display: none; position: absolute; top: -100px;" /></article>', share :11.1111}];;
+if (arr_baomoiprhomenoibat.length > 0) {
+var slots_baomoiprhomenoibat = new Array;
+var prefix = "pr_baomoiprhomenoibat_";
+for (var i = 1; i <= 10; i++) {
+var id = prefix + i;
+var obj = document.getElementById(id);
+if (obj == null) break;
+else slots_baomoiprhomenoibat.push(obj);
+}
+var total = 100.0;
+var dist_baomoiprhomenoibat = [];
+for (var index = 0; index < slots_baomoiprhomenoibat.length; index++) {
+var t = Math.floor(Math.random() * total);
+var n = 0;
+for (var i = 0; i < arr_baomoiprhomenoibat.length; i++) {
+n += arr_baomoiprhomenoibat[i].share;
+if (n >= t) {
+total -= arr_baomoiprhomenoibat[i].share;
+dist_baomoiprhomenoibat.push(arr_baomoiprhomenoibat[i].value);
+arr_baomoiprhomenoibat.splice(i, 1);
+break;
+}
+}
+}
+for (var index = 0; index < Math.min(dist_baomoiprhomenoibat.length, slots_baomoiprhomenoibat.length) ; index++)
+slots_baomoiprhomenoibat[index].outerHTML = dist_baomoiprhomenoibat[index];
+}
+</script>
+<div class="zone-list">
+<div class="zone-collumn">
+<section class="zone" data-track="home|xa-hoi">
+<header><a href="/xa-hoi.epi" title="Xã hội">Xã hội</a></header>
+<article data-aid="21792968" class="feature">
+<figure>
+<a target="_blank" href="/lu-quet-bat-ngo-cuon-cuon-tran-ve-do-3-thanh-nien-say-ruou-mo-van-xa/r/21792968.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/300/21792968/2_79004.jpg" alt="Lũ quét bất ngờ cuồn cuộn tràn về do 3 thanh niên say rượu mở van xả"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lu-quet-bat-ngo-cuon-cuon-tran-ve-do-3-thanh-nien-say-ruou-mo-van-xa/r/21792968.epi" title="Lũ quét bất ngờ cuồn cuộn tràn về do 3 thanh niên say rượu mở van xả">Lũ quét bất ngờ cuồn cuộn tràn về do 3 thanh niên say rượu mở van xả</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:10:29+07:00"></time>
+<span>
+<a href="/lu-quet-bat-ngo-cuon-cuon-tran-ve-do-3-thanh-nien-say-ruou-mo-van-xa/c/21792968.epi" title="Lũ quét bất ngờ cuồn cuộn tràn về do 3 thanh niên say rượu mở van xả" class="spr spr-cache cache">Lũ quét bất ngờ cuồn cuộn tràn về do 3 thanh niên say rượu mở van xả</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793094" >
+<header>
+<h2><a target="_blank" href="/gia-lai-thiet-bi-y-te-5-6-ty-ke-16-7-ty/r/21793094.epi" title="Gia Lai: Thiết bị y tế 5,6 tỷ kê 16,7 tỷ">Gia Lai: Thiết bị y tế 5,6 tỷ kê 16,7 tỷ</a></h2>
+<p class="meta">
+<a href="/baodatviet.vn-bao-dat-viet-dat-viet/p/132.epi">Đất Việt</a>
+<time class="friendly" datetime="2017-03-18T07:39:00+07:00"></time>
+<span>
+<a href="/gia-lai-thiet-bi-y-te-5-6-ty-ke-16-7-ty/c/21793094.epi" title="Gia Lai: Thiết bị y tế 5,6 tỷ kê 16,7 tỷ" class="spr spr-cache cache">Gia Lai: Thiết bị y tế 5,6 tỷ kê 16,7 tỷ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792621" >
+<header>
+<h2><a target="_blank" href="/pho-thu-tuong-nha-bao-phai-la-chien-si-tien-phong-trong-chong-tieu-cuc/r/21792621.epi" title="Phó Thủ tướng: &#39;Nhà báo phải là chiến sĩ tiên phong trong chống tiêu cực&#39;">Phó Thủ tướng: 'Nhà báo phải là chiến sĩ tiên phong trong chống tiêu cực'</a></h2>
+<p class="meta">
+<a href="/ktdt.com.vn-bao-kinh-te-do-thi-ktdt/p/11.epi">KTĐT</a>
+<time class="friendly" datetime="2017-03-18T06:01:00+07:00"></time>
+<span>
+<a href="/pho-thu-tuong-nha-bao-phai-la-chien-si-tien-phong-trong-chong-tieu-cuc/c/21792621.epi" title="Phó Thủ tướng: &#39;Nhà báo phải là chiến sĩ tiên phong trong chống tiêu cực&#39;" class="spr spr-cache cache">Phó Thủ tướng: 'Nhà báo phải là chiến sĩ tiên phong trong chống tiêu cực'</a>
+</span>
+</p>
+</header>
+</article>
+<script> var arr_baomoiprhomexahoi = [{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=gKpjO76vPxaztppC3TvAnjepOM3uVDeGD6SCOTjOZNaa3z4KllOEZe8zgq9kZX0DNZpEAjnLMlsFyhPNwEdpVS2u6xacEGkjUppePTvXvelvM4DyNZeoG8-Chy95ZGHDQkBrjO5uB-xdmPWQ1xAypiOpyL_iByzWAhceTFvhzx4s5c-xh88cKOT0&amp;uid=&amp;redirectUrl=http%3A%2F%2Fwww.phapluatplus.vn%2Fchua-khoi-benh-gout-cho-nhieu-nguoi-bang-bai-thuoc-nam-bi-truyen-d4316.html">Quẳng đi g&#225;nh nặng về Gout - Chữa khỏi sau 3 th&#225;ng điều trị</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=gKpjO76vPxaztppC3TvAnjepOM3uVDeGD6SCOTjOZNaa3z4KllOEZe8zgq9kZX0DNZpEAjnLMlsFyhPNwEdpVS2u6xacEGkjUppePTvXvelvM4DyNZeoG8-Chy95ZGHDQkBrjO5uB-xdmPWQ1xAypiOpyL_iByzWAhceTFvhzx4s5c-xh88cKOT0&amp;uid=&amp;redirectUrl=http%3A%2F%2Fwww.phapluatplus.vn%2Fchua-khoi-benh-gout-cho-nhieu-nguoi-bang-bai-thuoc-nam-bi-truyen-d4316.html">Thuốc Nam<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=gyniLXpn3xYwMU7KvTvAHbaf-M3uVLQBW5TCOThN5eoCXz4KFdKy_b_zAizjvQ2sTecMqEmZnU_J4rsS2wVjeDmyr_mVBMdFBHBoiYr7lMidu9cUAMvJ_HI1PhEdVW5Hr9CN9yUeQGslRWipnJ0YXDnBkhr24wBhmfDL5MZrfLp6PzkfdwfvmcV3DzWD7p4&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :33.3333},{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=sRvQFbpn3xYC5-5KvTvAL6R3KA3uVIY3exTCOTh_N4baXz4KJ8BaXT_zAh4VOUUDNZr1cdXj4psFe0ATaFep1Zw_Px58EGmS4-5WrftXDBix5_AytSY5Jx-iBy_JnZAA6SIJa1CH7lWqnarRr4fwDgOYeQNql2xWs-TAYCMRDy-flQ8xh8-tm5Q0&amp;uid=&amp;redirectUrl=http%3A%2F%2Fwww.phapluatplus.vn%2Fmo-xe-bai-thuoc-nam-chua-khoi-benh-tri-bang-dong-y-o-viet-nam-d4617.html">Đ&#244;i tay cứu h&#224;ng ngh&#236;n người mắc bệnh trĩ nhờ g&#243;i thuốc n&#224;y</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=sRvQFbpn3xYC5-5KvTvAL6R3KA3uVIY3exTCOTh_N4baXz4KJ8BaXT_zAh4VOUUDNZr1cdXj4psFe0ATaFep1Zw_Px58EGmS4-5WrftXDBix5_AytSY5Jx-iBy_JnZAA6SIJa1CH7lWqnarRr4fwDgOYeQNql2xWs-TAYCMRDy-flQ8xh8-tm5Q0&amp;uid=&amp;redirectUrl=http%3A%2F%2Fwww.phapluatplus.vn%2Fmo-xe-bai-thuoc-nam-chua-khoi-benh-tri-bang-dong-y-o-viet-nam-d4617.html">Đ&#244;ng Y<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=oog9Gz6vPxaRULrC3TvAvBEJ-M3uVBWgrySCOTjsQnpC3z4KtLW8Ze8zgo2CCaWMDeetCd_FBR_pwxrGK2XjeJjVoQlVhMfk4wIUser7NamLH590AGqu9AJVvhG88t6n71GFS8vDDlGjmByTO94VIpk0WvzOA4BhOFdBTNar_BubKZmfdwdOxsV3DzWDT_8&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :33.3333},{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=sxnSDfpn3xYA4Y5KvTvALaZfeM3uVIQxm5TCOTh9NaqCXz4KJcJyfb_zAhwTXY2jdZr3d7Vj4psFeUL7OBcp1Z49Fw48kGmQ5fYG7XtXDhqdH0ByNSQ_W8-Chy_Nn74VKZeQF8FtAMJreY0UvOoSZiMaey_ChyzWsebocGORDy2dudcRB8-vhZhs&amp;uid=&amp;redirectUrl=http%3A%2F%2Fcongly.vn%2Fxa-hoi%2Fsuc-khoe%2Fmo-xe-bai-thuoc-nam-chua-benh-tieu-duong-cua-ba-lang-xu-muong-177612.html">Biết được yếu tố n&#224;y - Kh&#244;ng phải lo về bệnh tiểu đường</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=sxnSDfpn3xYA4Y5KvTvALaZfeM3uVIQxm5TCOTh9NaqCXz4KJcJyfb_zAhwTXY2jdZr3d7Vj4psFeUL7OBcp1Z49Fw48kGmQ5fYG7XtXDhqdH0ByNSQ_W8-Chy_Nn74VKZeQF8FtAMJreY0UvOoSZiMaey_ChyzWsebocGORDy2dudcRB8-vhZhs&amp;uid=&amp;redirectUrl=http%3A%2F%2Fcongly.vn%2Fxa-hoi%2Fsuc-khoe%2Fmo-xe-bai-thuoc-nam-chua-benh-tieu-duong-cua-ba-lang-xu-muong-177612.html">Đ&#244;ng Y<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=cFoTmz6vPxZDJlrC3TvAbufpuM3uVMf2T6SCOTg-9BYa3z4KZgPE5e8zgl_UBf0MDed_P_9FBR_pEWiCGwVjeEqjWdkVBMc2Fa68kWr753-rn590ALjc0LK1PhFuJJJnb1eFn3ylT7CN35h7rIPpV45p47S-Q4Bh6oGVREZrfMlpjVGPN4ecdKFHT7WDnU0&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :33.3333}];if (arr_baomoiprhomexahoi.length > 0){ var t = new Date().getUTCMilliseconds() / 10;var n = 0;for (i = 0; i < arr_baomoiprhomexahoi.length; i++) {n += arr_baomoiprhomexahoi[i].share;if (n >= t) {document.write(arr_baomoiprhomexahoi[i].value);break;}}} var ltbaomoiprhomexahoi_180818 = true; </script>
+<article data-aid="21793145" >
+<header>
+<h2><a target="_blank" href="/thoi-tiet-nom-do-am-100-con-keo-dai/r/21793145.epi" title="Thời tiết nồm, độ ẩm 100% còn kéo dài">Thời tiết nồm, độ ẩm 100% còn kéo dài</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:34:00+07:00"></time>
+<span>
+<a href="/thoi-tiet-nom-do-am-100-con-keo-dai/c/21793145.epi" title="Thời tiết nồm, độ ẩm 100% còn kéo dài" class="spr spr-cache cache">Thời tiết nồm, độ ẩm 100% còn kéo dài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792950" >
+<header>
+<h2><a target="_blank" href="/gia-lai-so-y-te-bat-tay-benh-vien-day-gia-thuoc-thao-tung-dau-thau/r/21792950.epi" title="Gia Lai: Sở Y tế &#39;bắt tay&#39; bệnh viện đẩy giá thuốc, thao túng đấu thầu">Gia Lai: Sở Y tế 'bắt tay' bệnh viện đẩy giá thuốc, thao túng đấu thầu</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-18T06:53:36+07:00"></time>
+<span>
+<a href="/gia-lai-so-y-te-bat-tay-benh-vien-day-gia-thuoc-thao-tung-dau-thau/c/21792950.epi" title="Gia Lai: Sở Y tế &#39;bắt tay&#39; bệnh viện đẩy giá thuốc, thao túng đấu thầu" class="spr spr-cache cache">Gia Lai: Sở Y tế 'bắt tay' bệnh viện đẩy giá thuốc, thao túng đấu thầu</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|van-hoa">
+<header><a href="/van-hoa.epi" title="Văn hóa">Văn hóa</a></header>
+<article data-aid="21792622" class="feature">
+<figure>
+<a target="_blank" href="/bua-sang-nhe-nhang-voi-banh-bao-man-thau-hanh-chay/r/21792622.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/265/21792622/19_195476.jpg" alt="Bữa sáng nhẹ nhàng với bánh bao (màn thầu) hành chay"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bua-sang-nhe-nhang-voi-banh-bao-man-thau-hanh-chay/r/21792622.epi" title="Bữa sáng nhẹ nhàng với bánh bao (màn thầu) hành chay">Bữa sáng nhẹ nhàng với bánh bao (màn thầu) hành chay</a></h2>
+<p class="meta">
+<a href="/emdep.vn-em-dep/p/276.epi">Em Đẹp</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/bua-sang-nhe-nhang-voi-banh-bao-man-thau-hanh-chay/c/21792622.epi" title="Bữa sáng nhẹ nhàng với bánh bao (màn thầu) hành chay" class="spr spr-cache cache">Bữa sáng nhẹ nhàng với bánh bao (màn thầu) hành chay</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792455" >
+<header>
+<h2><a target="_blank" href="/xon-xao-nha-quan-huyen-don-dau-bang-truc-thang-rieng/r/21792455.epi" title="Xôn xao nhà quan huyện đón dâu bằng trực thăng riêng">Xôn xao nhà quan huyện đón dâu bằng trực thăng riêng</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T04:00:00+07:00"></time>
+<span>
+<a href="/xon-xao-nha-quan-huyen-don-dau-bang-truc-thang-rieng/c/21792455.epi" title="Xôn xao nhà quan huyện đón dâu bằng trực thăng riêng" class="spr spr-cache cache">Xôn xao nhà quan huyện đón dâu bằng trực thăng riêng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792481" >
+<header>
+<h2><a target="_blank" href="/chi-em-ha-thanh-len-con-sot-hat-dac-chieu-chong-con/r/21792481.epi" title="Chị em Hà Thành lên cơn sốt hạt đác chiều chồng con">Chị em Hà Thành lên cơn sốt hạt đác chiều chồng con</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T05:00:00+07:00"></time>
+<span>
+<a href="/chi-em-ha-thanh-len-con-sot-hat-dac-chieu-chong-con/c/21792481.epi" title="Chị em Hà Thành lên cơn sốt hạt đác chiều chồng con" class="spr spr-cache cache">Chị em Hà Thành lên cơn sốt hạt đác chiều chồng con</a>
+</span>
+</p>
+</header>
+</article>
+<script> var arr_baomoiprhomevanhoa = [{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=5M6HIz6vPxbXmlJS_bvA-lNxSI3uVFNi1zRCOTiqAJ6KPz4K8vfUhe4xrovALe0jdZogXrEr8lsFrg98wmxwaEVaI5icG2cIjhtXFATt5VjtX8C9nlxI36IGKPqqEsR2LflY39HnUYDCbrfwWF7DgGF-HbcEwW0CC5jO06nQhyGhrtSurco&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3DThangTien_PC">Để giao tiếp tiếng Anh kh&#244;ng thể cản đường thăng tiến của bạn</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=5M6HIz6vPxbXmlJS_bvA-lNxSI3uVFNi1zRCOTiqAJ6KPz4K8vfUhe4xrovALe0jdZogXrEr8lsFrg98wmxwaEVaI5icG2cIjhtXFATt5VjtX8C9nlxI36IGKPqqEsR2LflY39HnUYDCbrfwWF7DgGF-HbcEwW0CC5jO06nQhyGhrtSurco&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3DThangTien_PC">Topica Native<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=Zc-EPZrn3xbWm2baXTvA-1B_uM3uVFJjw-SCOTirA45Kvz4K8_QqvT7xLorBIbVszefqyvGpXU_JBOU-GwVjeN4ebHBoiIdbXMxb58VBi4MclC2onXWTaG1-ETez3qboemftnDJVqZiSJD2p0ILuerXAMjuAYbPK2SzRrYLGZbafaVCH7FxUPD7tSg&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :33.33335},{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=LAa_M14vPxYfwgKSfbvAMquhqA3uVJsqRxTCOThi2O5Kvz4KOj_E5e4xrkM4fQ2jdZroZmFLMlsFZnc8QmxwaI2C09gcG2fARgsXlATtLYCdn0C9npQwH6IHL9KA59_AQm1-QW3BQUJGaH5gK-Dug4BktLLlaBm9x0ubPhMp0ILrGjw45p2K&amp;uid=&amp;redirectUrl=http%3A%2F%2Fkhohan.vn%2Fnoi-tiet-to-nu%2Fkho-am-dao%2Fcach-cai-thien-a-ham-muona-khi-xe-chieu-o-cac-cap-vo-chong.html">Vũ kh&#237; b&#237; mật gi&#250;p chị em c&#243; đời sống chăn gối vi&#234;n m&#227;n</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=LAa_M14vPxYfwgKSfbvAMquhqA3uVJsqRxTCOThi2O5Kvz4KOj_E5e4xrkM4fQ2jdZroZmFLMlsFZnc8QmxwaI2C09gcG2fARgsXlATtLYCdn0C9npQwH6IHL9KA59_AQm1-QW3BQUJGaH5gK-Dug4BktLLlaBm9x0ubPhMp0ILrGjw45p2K&amp;uid=&amp;redirectUrl=http%3A%2F%2Fkhohan.vn%2Fnoi-tiet-to-nu%2Fkho-am-dao%2Fcach-cai-thien-a-ham-muona-khi-xe-chieu-o-cac-cap-vo-chong.html">Sức Khỏe<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=nrRps14vPxatTMISfbvAgNXB6A3uVCmUp5TCOTjQZjJS_74KiGEsRW4xrvFmQTVszeeRLRc1RR_p_152a2XjeKXZAoRwaIcgGYr_vxUBcCbADH1oHQ56HB0ekTfIq4HP0oXorinEdS6E4JCgtrao-2-EARjjAGGzfaYwSf1CRtKHNbGAx2zrBzJK_Yo&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :33.3333},{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=BC7n4z6vPxY3OtJS_bvAGrNxSI3uVLMCVzRCOThK4J6KPz4KEtdUhe4xrmvgre0jdZrAvjEr8lsFTm_8wmxwaKX6o5icG2forptXFATtBbjtX8C9nrzoX6IHLNKGmW9WhOsiaU3mwmp9uPkYoHImIwBMrPLlaBm975PLfpMp0KozSny45p2K&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3D45Ph_PC">N&#243;i tiếng anh như gi&#243; nhờ 45 ph&#250;t học online mỗi ng&#224;y</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=BC7n4z6vPxY3OtJS_bvAGrNxSI3uVLMCVzRCOThK4J6KPz4KEtdUhe4xrmvgre0jdZrAvjEr8lsFTm_8wmxwaKX6o5icG2forptXFATtBbjtX8C9nrzoX6IHLNKGmW9WhOsiaU3mwmp9uPkYoHImIwBMrPLlaBm975PLfpMp0KozSny45p2K&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3D45Ph_PC">Topica Native<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=kznyTfpn3xYgwQ5KvTvADUZfeM3uVKQRG5TCOThd1aqCXz4KBeLyfb7xLnzz3Y2sTeccmImZnU_J8ssyWwVjeChEdCCoCIetinS758VBfZW43D3oHYOBFG1-ETdFKHvkwmt-rwToIxIE6Bosgu14VD3WGN7DgGGz8DtcES2Cxl90L6nQh-xmgox-bUo&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :33.33335}];if (arr_baomoiprhomevanhoa.length > 0){ var t = new Date().getUTCMilliseconds() / 10;var n = 0;for (i = 0; i < arr_baomoiprhomevanhoa.length; i++) {n += arr_baomoiprhomevanhoa[i].share;if (n >= t) {document.write(arr_baomoiprhomevanhoa[i].value);break;}}} var ltbaomoiprhomevanhoa_180818 = true; </script>
+<article data-aid="21792619" >
+<header>
+<h2><a target="_blank" href="/chang-can-di-dau-xa-cuoi-tuan-kham-pha-dam-van-long-o-ninh-binh-la-da-du-man-nguyen/r/21792619.epi" title="Chẳng cần đi đâu xa, cuối tuần khám phá đầm Vân Long ở Ninh Bình là đã đủ mãn nguyện">Chẳng cần đi đâu xa, cuối tuần khám phá đầm Vân Long ở Ninh Bình là đã đủ mãn nguyện</a></h2>
+<p class="meta">
+<a href="/emdep.vn-em-dep/p/276.epi">Em Đẹp</a>
+<time class="friendly" datetime="2017-03-18T06:15:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/chang-can-di-dau-xa-cuoi-tuan-kham-pha-dam-van-long-o-ninh-binh-la-da-du-man-nguyen/c/21792619.epi" title="Chẳng cần đi đâu xa, cuối tuần khám phá đầm Vân Long ở Ninh Bình là đã đủ mãn nguyện" class="spr spr-cache cache">Chẳng cần đi đâu xa, cuối tuần khám phá đầm Vân Long ở Ninh Bình là đã đủ mãn nguyện</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792686" >
+<header>
+<h2><a target="_blank" href="/trong-cu-trang-vo-do-long-con-thich-me-bo-me-an-mien-che/r/21792686.epi" title="Trồng củ &#39;trắng vỏ đỏ lòng&#39;: Con thích mê, bố mẹ ăn miễn chê">Trồng củ 'trắng vỏ đỏ lòng': Con thích mê, bố mẹ ăn miễn chê</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:30:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/trong-cu-trang-vo-do-long-con-thich-me-bo-me-an-mien-che/c/21792686.epi" title="Trồng củ &#39;trắng vỏ đỏ lòng&#39;: Con thích mê, bố mẹ ăn miễn chê" class="spr spr-cache cache">Trồng củ 'trắng vỏ đỏ lòng': Con thích mê, bố mẹ ăn miễn chê</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|giao-duc">
+<header><a href="/giao-duc.epi" title="Giáo dục">Giáo dục</a></header>
+<article data-aid="21792739" class="feature">
+<figure>
+<a target="_blank" href="/thi-sinh-khong-duoc-thay-doi-mon-thi-thpt-quoc-gia-sau-20-4/r/21792739.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/94/21792739/2_69978.jpg" alt="Thí sinh không được thay đổi môn thi THPT Quốc gia sau 20/4"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thi-sinh-khong-duoc-thay-doi-mon-thi-thpt-quoc-gia-sau-20-4/r/21792739.epi" title="Thí sinh không được thay đổi môn thi THPT Quốc gia sau 20/4">Thí sinh không được thay đổi môn thi THPT Quốc gia sau 20/4</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T06:30:00+07:00"></time>
+<span>
+<a href="/thi-sinh-khong-duoc-thay-doi-mon-thi-thpt-quoc-gia-sau-20-4/c/21792739.epi" title="Thí sinh không được thay đổi môn thi THPT Quốc gia sau 20/4" class="spr spr-cache cache">Thí sinh không được thay đổi môn thi THPT Quốc gia sau 20/4</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792865" >
+<header>
+<h2><a target="_blank" href="/tha-bo-chong-hon-bo-lop-tinh-thuong/r/21792865.epi" title="&#39;Thà bỏ chồng hơn bỏ lớp tình thương&#39;">'Thà bỏ chồng hơn bỏ lớp tình thương'</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/tha-bo-chong-hon-bo-lop-tinh-thuong/c/21792865.epi" title="&#39;Thà bỏ chồng hơn bỏ lớp tình thương&#39;" class="spr spr-cache cache">'Thà bỏ chồng hơn bỏ lớp tình thương'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792800" >
+<header>
+<h2><a target="_blank" href="/chuyen-ve-thac-si-dau-tien-o-xi-ma-cai-ong-chu-tich-xa-dua-cay-tam-that-ve-nui/r/21792800.epi" title="Chuyện về thạc sĩ đầu tiên ở Xi Ma Cai - ông Chủ tịch xã đưa cây tam thất về núi">Chuyện về thạc sĩ đầu tiên ở Xi Ma Cai - ông Chủ tịch xã đưa cây tam thất về núi</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T06:52:00+07:00"></time>
+<span>
+<a href="/chuyen-ve-thac-si-dau-tien-o-xi-ma-cai-ong-chu-tich-xa-dua-cay-tam-that-ve-nui/c/21792800.epi" title="Chuyện về thạc sĩ đầu tiên ở Xi Ma Cai - ông Chủ tịch xã đưa cây tam thất về núi" class="spr spr-cache cache">Chuyện về thạc sĩ đầu tiên ở Xi Ma Cai - ông Chủ tịch xã đưa cây tam thất về núi</a>
+</span>
+</p>
+</header>
+</article>
+<script> var arr_baomoiprhomegiaoduc = [{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=DCbfc14vPxY_IgKSfbvAEkuhqA3uVLsKxxTCOThC-G5Kvz4KGt_E5e0zgiMY_Q2jdZrIhuFLMlsFRpe9QkZueZ7hnZ5xK52wZI8_8AHpPP5S2zkgfbt028-Chyz39sqdutw7x-ku1K6q_Z3pi1CypiMlTI-ChyzWgJIdQk1fwGJKkM_4kijYA9_2&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3D45Ph_PC">N&#243;i tiếng anh như gi&#243; nhờ 45 ph&#250;t học online mỗi ng&#224;y</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=DCbfc14vPxY_IgKSfbvAEkuhqA3uVLsKxxTCOThC-G5Kvz4KGt_E5e0zgiMY_Q2jdZrIhuFLMlsFRpe9QkZueZ7hnZ5xK52wZI8_8AHpPP5S2zkgfbt028-Chyz39sqdutw7x-ku1K6q_Z3pi1CypiMlTI-ChyzWgJIdQk1fwGJKkM_4kijYA9_2&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3D45Ph_PC">Topica Native<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=KYM4RZrn3xaaXz4KPTvAtyznCI3uVB6vK_RCOTjnXxYa3z4Kv7gKPT3zAoa9KSWMDeemBjk5HU_JSCGO2wVjeJPqVq75u96XptGrnZUDTz_wAekZkY6zqeD9npG3_-IHLNKrfhUqnLvixOigFto9ONS9bDKmIwBhM0oXbFal_cHCTV_AR23UB-hSqP1sgVo&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :50.0},{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=eFIL654vPxZLLuoCXTvAZv-ZGE3uVM_-_0QCOTg2jGbaXz4Kbgt0Be0zglfMlR2DNZq8uklrclsFMouNQkZueeot5c6xq53EUJ9_cAHpSOLS2zkgfc9A62_ChiirNplYFi35CePS1T3AQj8r4yj-Q4AwgJr3rNalrBIeTV_ARzwH2dgSKP09MKY&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3DThangTien_PC">Để giao tiếp tiếng Anh kh&#244;ng thể cản đường thăng tiến của bạn</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=eFIL654vPxZLLuoCXTvAZv-ZGE3uVM_-_0QCOTg2jGbaXz4Kbgt0Be0zglfMlR2DNZq8uklrclsFMouNQkZueeot5c6xq53EUJ9_cAHpSOLS2zkgfc9A62_ChiirNplYFi35CePS1T3AQj8r4yj-Q4AwgJr3rNalrBIeTV_ARzwH2dgSKP09MKY&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3DThangTien_PC">Topica Native<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=e9GKHRrn3xbIqZ6KPTvA5X6P2E3uVEx5C3RCOTi1DXpC3z4K7YpiXT3zAtRLre0sTef0sJm5HU_JGvMCGwVjeME4Oubpe17F9L3rHZUDHe3cwWkZkdzl8TCdHpHlre5GqPpnP44u_bnYEvajmZAC7npnujbjAGGzGEFM1qX9QZD7OxAH7VRVmro4PewB2g&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :50.0}];if (arr_baomoiprhomegiaoduc.length > 0){ var t = new Date().getUTCMilliseconds() / 10;var n = 0;for (i = 0; i < arr_baomoiprhomegiaoduc.length; i++) {n += arr_baomoiprhomegiaoduc[i].share;if (n >= t) {document.write(arr_baomoiprhomegiaoduc[i].value);break;}}} var ltbaomoiprhomegiaoduc_180818 = true; </script>
+<article data-aid="21793175" >
+<header>
+<h2><a target="_blank" href="/khi-giam-thi-ga-bai-cho-thi-sinh/r/21793175.epi" title="Khi giám thị &#39;gà bài&#39; cho thí sinh">Khi giám thị 'gà bài' cho thí sinh</a></h2>
+<p class="meta">
+<a href="/giaoduc.net.vn-bao-giao-duc-viet-nam-giao-duc-vn/p/231.epi">Giáo Dục VN</a>
+<time class="friendly" datetime="2017-03-18T07:42:00+07:00"></time>
+<span>
+<a href="/khi-giam-thi-ga-bai-cho-thi-sinh/c/21793175.epi" title="Khi giám thị &#39;gà bài&#39; cho thí sinh" class="spr spr-cache cache">Khi giám thị 'gà bài' cho thí sinh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793176" >
+<header>
+<h2><a target="_blank" href="/du-bo-da-xoa-an-tich-nhung-con-van-khong-duoc-xet-tuyen-vao-cac-truong-cong-an/r/21793176.epi" title="Dù bố đã xóa án tích nhưng con vẫn không được xét tuyển vào các trường công an">Dù bố đã xóa án tích nhưng con vẫn không được xét tuyển vào các trường công an</a></h2>
+<p class="meta">
+<a href="/giaoduc.net.vn-bao-giao-duc-viet-nam-giao-duc-vn/p/231.epi">Giáo Dục VN</a>
+<time class="friendly" datetime="2017-03-18T07:39:00+07:00"></time>
+<span>
+<a href="/du-bo-da-xoa-an-tich-nhung-con-van-khong-duoc-xet-tuyen-vao-cac-truong-cong-an/c/21793176.epi" title="Dù bố đã xóa án tích nhưng con vẫn không được xét tuyển vào các trường công an" class="spr spr-cache cache">Dù bố đã xóa án tích nhưng con vẫn không được xét tuyển vào các trường công an</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px"><div id="BaoMoi_HomeMiddle_2"></div></div>
+<section class="zone" data-track="home|giai-tri">
+<header><a href="/giai-tri.epi" title="Giải trí">Giải trí</a></header>
+<article data-aid="21792998" class="feature">
+<figure>
+<a target="_blank" href="/ngoc-trinh-hanh-xu-kem-duyen-noi-cong-cong-tui-tien-ty-de-lam-gi/r/21792998.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/105/21792998/7_86262.jpg" alt="Ngọc Trinh hành xử kém duyên nơi công cộng, túi tiền tỷ để làm gì?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ngoc-trinh-hanh-xu-kem-duyen-noi-cong-cong-tui-tien-ty-de-lam-gi/r/21792998.epi" title="Ngọc Trinh hành xử kém duyên nơi công cộng, túi tiền tỷ để làm gì?">Ngọc Trinh hành xử kém duyên nơi công cộng, túi tiền tỷ để làm gì?</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/ngoc-trinh-hanh-xu-kem-duyen-noi-cong-cong-tui-tien-ty-de-lam-gi/c/21792998.epi" title="Ngọc Trinh hành xử kém duyên nơi công cộng, túi tiền tỷ để làm gì?" class="spr spr-cache cache">Ngọc Trinh hành xử kém duyên nơi công cộng, túi tiền tỷ để làm gì?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793121" >
+<header>
+<h2><a target="_blank" href="/chuyen-ngay-hom-qua-cua-tran-lap-toan-bo-hanh-trinh-tu-gian-kho-cua-buc-tuong/r/21793121.epi" title="&#39;Chuyện ngày hôm qua&#39; của Trần Lập: Toàn bộ hành trình từ gian khó của Bức Tường">'Chuyện ngày hôm qua' của Trần Lập: Toàn bộ hành trình từ gian khó của Bức Tường</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:23:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/chuyen-ngay-hom-qua-cua-tran-lap-toan-bo-hanh-trinh-tu-gian-kho-cua-buc-tuong/c/21793121.epi" title="&#39;Chuyện ngày hôm qua&#39; của Trần Lập: Toàn bộ hành trình từ gian khó của Bức Tường" class="spr spr-cache cache">'Chuyện ngày hôm qua' của Trần Lập: Toàn bộ hành trình từ gian khó của Bức Tường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793122" >
+<header>
+<h2><a target="_blank" href="/phim-chuyen-ngay-hom-qua-ve-tran-lap-da-ban-het-ve-hom-nay/r/21793122.epi" title="Phim &#39;Chuyện ngày hôm qua&#39; về Trần Lập đã bán hết vé hôm nay">Phim 'Chuyện ngày hôm qua' về Trần Lập đã bán hết vé hôm nay</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:19:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/phim-chuyen-ngay-hom-qua-ve-tran-lap-da-ban-het-ve-hom-nay/c/21793122.epi" title="Phim &#39;Chuyện ngày hôm qua&#39; về Trần Lập đã bán hết vé hôm nay" class="spr spr-cache cache">Phim 'Chuyện ngày hôm qua' về Trần Lập đã bán hết vé hôm nay</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792595" >
+<header>
+<h2><a target="_blank" href="/nguoi-linh-anh-200-lan-vuot-trai-tu-phat-xit-de-gap-nguoi-yeu/r/21792595.epi" title="Người lính Anh 200 lần vượt trại tù phát xít để gặp người yêu">Người lính Anh 200 lần vượt trại tù phát xít để gặp người yêu</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-18T06:01:00+07:00"></time>
+<span>
+<a href="/nguoi-linh-anh-200-lan-vuot-trai-tu-phat-xit-de-gap-nguoi-yeu/c/21792595.epi" title="Người lính Anh 200 lần vượt trại tù phát xít để gặp người yêu" class="spr spr-cache cache">Người lính Anh 200 lần vượt trại tù phát xít để gặp người yêu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793105" >
+<header>
+<h2><a target="_blank" href="/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia/r/21793105.epi" title="Đặng Thu Thảo bức xúc vì bị nói &#39;bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia&#39;">Đặng Thu Thảo bức xúc vì bị nói 'bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia'</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:33:00+07:00"></time>
+<span>
+<a href="/dang-thu-thao-buc-xuc-vi-bi-noi-bo-roi-ban-trai-di-du-lich-my-voi-thieu-gia/c/21793105.epi" title="Đặng Thu Thảo bức xúc vì bị nói &#39;bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia&#39;" class="spr spr-cache cache">Đặng Thu Thảo bức xúc vì bị nói 'bỏ rơi bạn trai đi du lịch Mỹ với thiếu gia'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|khoa-hoc-cong-nghe">
+<header><a href="/khoa-hoc-cong-nghe.epi" title="Khoa học - Công nghệ ">Khoa học - Công nghệ </a></header>
+<article data-aid="21792616" class="feature">
+<figure>
+<a target="_blank" href="/viet-nam-xep-thu-8-the-gioi-su-dung-chat-doc-gay-ung-thu-amiang/r/21792616.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/105/21792616/2_122593.jpg" alt="Việt Nam xếp thứ 8 thế giới sử dụng &#39;chất độc&#39; gây ung thư amiăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/viet-nam-xep-thu-8-the-gioi-su-dung-chat-doc-gay-ung-thu-amiang/r/21792616.epi" title="Việt Nam xếp thứ 8 thế giới sử dụng &#39;chất độc&#39; gây ung thư amiăng">Việt Nam xếp thứ 8 thế giới sử dụng 'chất độc' gây ung thư amiăng</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:13:00+07:00"></time>
+<span>
+<a href="/viet-nam-xep-thu-8-the-gioi-su-dung-chat-doc-gay-ung-thu-amiang/c/21792616.epi" title="Việt Nam xếp thứ 8 thế giới sử dụng &#39;chất độc&#39; gây ung thư amiăng" class="spr spr-cache cache">Việt Nam xếp thứ 8 thế giới sử dụng 'chất độc' gây ung thư amiăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792479" >
+<header>
+<h2><a target="_blank" href="/linh-cau-68kg-bi-tran-khong-lo-nuot-chung/r/21792479.epi" title="Linh cẩu 68kg bị trăn khổng lồ nuốt chửng">Linh cẩu 68kg bị trăn khổng lồ nuốt chửng</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T05:00:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/linh-cau-68kg-bi-tran-khong-lo-nuot-chung/c/21792479.epi" title="Linh cẩu 68kg bị trăn khổng lồ nuốt chửng" class="spr spr-cache cache">Linh cẩu 68kg bị trăn khổng lồ nuốt chửng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792551" >
+<header>
+<h2><a target="_blank" href="/nhung-smartphone-gia-tu-2-den-5-trieu-dong-pin-cuc-khoe/r/21792551.epi" title="Những smartphone giá từ 2 đến 5 triệu đồng pin cực khỏe">Những smartphone giá từ 2 đến 5 triệu đồng pin cực khỏe</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T05:45:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nhung-smartphone-gia-tu-2-den-5-trieu-dong-pin-cuc-khoe/c/21792551.epi" title="Những smartphone giá từ 2 đến 5 triệu đồng pin cực khỏe" class="spr spr-cache cache">Những smartphone giá từ 2 đến 5 triệu đồng pin cực khỏe</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792727" >
+<header>
+<h2><a target="_blank" href="/sony-xin-cap-bang-sang-che-cong-nghe-sac-pin-vinh-cuu/r/21792727.epi" title="Sony xin cấp bằng sáng chế công nghệ sạc pin &quot;vĩnh cửu&quot;">Sony xin cấp bằng sáng chế công nghệ sạc pin "vĩnh cửu"</a></h2>
+<p class="meta">
+<a href="/xahoithongtin.com.vn-tap-chi-xa-hoi-thong-tin-xhtt/p/31.epi">XHTT</a>
+<time class="friendly" datetime="2017-03-18T06:35:00+07:00"></time>
+<span>
+<a href="/sony-xin-cap-bang-sang-che-cong-nghe-sac-pin-vinh-cuu/c/21792727.epi" title="Sony xin cấp bằng sáng chế công nghệ sạc pin &quot;vĩnh cửu&quot;" class="spr spr-cache cache">Sony xin cấp bằng sáng chế công nghệ sạc pin "vĩnh cửu"</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792534" >
+<header>
+<h2><a target="_blank" href="/be-10-tuoi-cau-ca-bong-kiem-100-000-dong-mot-ngay/r/21792534.epi" title="Bé 10 tuổi câu cá bống kiếm 100.000 đồng một ngày">Bé 10 tuổi câu cá bống kiếm 100.000 đồng một ngày</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T05:30:00+07:00"></time>
+<span>
+<a href="/be-10-tuoi-cau-ca-bong-kiem-100-000-dong-mot-ngay/c/21792534.epi" title="Bé 10 tuổi câu cá bống kiếm 100.000 đồng một ngày" class="spr spr-cache cache">Bé 10 tuổi câu cá bống kiếm 100.000 đồng một ngày</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|xe-co">
+<header><a href="/xe-co.epi" title="Xe cộ">Xe cộ</a></header>
+<article data-aid="21792677" class="feature">
+<figure>
+<a target="_blank" href="/can-canh-honda-winner-150-do-doc-nhat-viet-nam/r/21792677.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/139/21792677/10_25226.jpeg" alt="Cận cảnh Honda Winner 150 độ độc nhất Việt Nam"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/can-canh-honda-winner-150-do-doc-nhat-viet-nam/r/21792677.epi" title="Cận cảnh Honda Winner 150 độ độc nhất Việt Nam">Cận cảnh Honda Winner 150 độ độc nhất Việt Nam</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T06:01:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/can-canh-honda-winner-150-do-doc-nhat-viet-nam/c/21792677.epi" title="Cận cảnh Honda Winner 150 độ độc nhất Việt Nam" class="spr spr-cache cache">Cận cảnh Honda Winner 150 độ độc nhất Việt Nam</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792691" >
+<header>
+<h2><a target="_blank" href="/nhung-mau-xe-hatchback-gia-600-trieu-danh-cho-phu-nu-viet/r/21792691.epi" title="Những mẫu xe hatchback giá 600 triệu dành cho phụ nữ Việt">Những mẫu xe hatchback giá 600 triệu dành cho phụ nữ Việt</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-18T06:30:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/nhung-mau-xe-hatchback-gia-600-trieu-danh-cho-phu-nu-viet/c/21792691.epi" title="Những mẫu xe hatchback giá 600 triệu dành cho phụ nữ Việt" class="spr spr-cache cache">Những mẫu xe hatchback giá 600 triệu dành cho phụ nữ Việt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793129" >
+<header>
+<h2><a target="_blank" href="/xui-xeo-xe-tang-so-mot-cua-thuy-dien-suot-26-nam/r/21793129.epi" title="Xui xẻo xe tăng số một của Thụy Điển suốt 26 năm">Xui xẻo xe tăng số một của Thụy Điển suốt 26 năm</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:45:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/xui-xeo-xe-tang-so-mot-cua-thuy-dien-suot-26-nam/c/21793129.epi" title="Xui xẻo xe tăng số một của Thụy Điển suốt 26 năm" class="spr spr-cache cache">Xui xẻo xe tăng số một của Thụy Điển suốt 26 năm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792662" >
+<header>
+<h2><a target="_blank" href="/o-to-nga-uaz-gia-hon-500-trieu-nguoi-tieu-dung-noi-gi/r/21792662.epi" title="Ô tô Nga UAZ giá hơn 500 triệu, người tiêu dùng nói gì?">Ô tô Nga UAZ giá hơn 500 triệu, người tiêu dùng nói gì?</a></h2>
+<p class="meta">
+<a href="/vietq.vn-bao-chat-luong-viet-nam-vietq/p/252.epi">VietQ</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/o-to-nga-uaz-gia-hon-500-trieu-nguoi-tieu-dung-noi-gi/c/21792662.epi" title="Ô tô Nga UAZ giá hơn 500 triệu, người tiêu dùng nói gì?" class="spr spr-cache cache">Ô tô Nga UAZ giá hơn 500 triệu, người tiêu dùng nói gì?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792404" >
+<header>
+<h2><a target="_blank" href="/o-to-an-do-270-trieu-khien-nguoi-viet-phat-them/r/21792404.epi" title="Ô tô Ấn Độ 270 triệu khiến người Việt &#39;phát thèm&#39;">Ô tô Ấn Độ 270 triệu khiến người Việt 'phát thèm'</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T03:00:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/o-to-an-do-270-trieu-khien-nguoi-viet-phat-them/c/21792404.epi" title="Ô tô Ấn Độ 270 triệu khiến người Việt &#39;phát thèm&#39;" class="spr spr-cache cache">Ô tô Ấn Độ 270 triệu khiến người Việt 'phát thèm'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px"><div id="BaoMoi_HomeMiddle_4"></div></div>
+</div>
+<div class="zone-collumn">
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px"><div id="BaoMoi_HomeMiddle_1"></div></div>
+<section class="zone" data-track="home|the-gioi">
+<header><a href="/the-gioi.epi" title="Thế giới">Thế giới</a></header>
+<article data-aid="21793084" class="feature">
+<figure>
+<a target="_blank" href="/may-tinh-xach-tay-chua-thong-tin-nhay-cam-cua-mat-vu-my-bi-danh-cap/r/21793084.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/4/21793084/1_174408.jpg" alt="Máy tính xách tay chứa thông tin nhạy cảm của mật vụ Mỹ bị đánh cắp"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/may-tinh-xach-tay-chua-thong-tin-nhay-cam-cua-mat-vu-my-bi-danh-cap/r/21793084.epi" title="Máy tính xách tay chứa thông tin nhạy cảm của mật vụ Mỹ bị đánh cắp">Máy tính xách tay chứa thông tin nhạy cảm của mật vụ Mỹ bị đánh cắp</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T07:32:11+07:00"></time>
+<span>
+<a href="/may-tinh-xach-tay-chua-thong-tin-nhay-cam-cua-mat-vu-my-bi-danh-cap/c/21793084.epi" title="Máy tính xách tay chứa thông tin nhạy cảm của mật vụ Mỹ bị đánh cắp" class="spr spr-cache cache">Máy tính xách tay chứa thông tin nhạy cảm của mật vụ Mỹ bị đánh cắp</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793021" >
+<header>
+<h2><a target="_blank" href="/syria-va-israel-do-ten-lua/r/21793021.epi" title="Syria và Israel &#39;đọ&#39; tên lửa">Syria và Israel 'đọ' tên lửa</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T07:06:00+07:00"></time>
+<span>
+<a href="/syria-va-israel-do-ten-lua/c/21793021.epi" title="Syria và Israel &#39;đọ&#39; tên lửa" class="spr spr-cache cache">Syria và Israel 'đọ' tên lửa</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792559" >
+<header>
+<h2><a target="_blank" href="/tong-thong-my-donald-trump-va-thu-tuong-duc-merkel-lan-dau-hoi-dam/r/21792559.epi" title="Tổng thống Mỹ Donald Trump và Thủ tướng Đức Merkel lần đầu hội đàm">Tổng thống Mỹ Donald Trump và Thủ tướng Đức Merkel lần đầu hội đàm</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T05:52:00+07:00"></time>
+<span>
+<a href="/tong-thong-my-donald-trump-va-thu-tuong-duc-merkel-lan-dau-hoi-dam/c/21792559.epi" title="Tổng thống Mỹ Donald Trump và Thủ tướng Đức Merkel lần đầu hội đàm" class="spr spr-cache cache">Tổng thống Mỹ Donald Trump và Thủ tướng Đức Merkel lần đầu hội đàm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792782" >
+<header>
+<h2><a target="_blank" href="/ong-trump-guong-gao-tu-choi-bat-tay-ba-merkel/r/21792782.epi" title="Ông Trump gượng gạo từ chối bắt tay bà Merkel">Ông Trump gượng gạo từ chối bắt tay bà Merkel</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T06:42:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/ong-trump-guong-gao-tu-choi-bat-tay-ba-merkel/c/21792782.epi" title="Ông Trump gượng gạo từ chối bắt tay bà Merkel" class="spr spr-cache cache">Ông Trump gượng gạo từ chối bắt tay bà Merkel</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792833" >
+<header>
+<h2><a target="_blank" href="/nga-khang-dinh-khong-co-kich-ban-sap-nhap-donetsk-va-lugansk/r/21792833.epi" title="Nga khẳng định không có kịch bản sáp nhập Donetsk và Lugansk">Nga khẳng định không có kịch bản sáp nhập Donetsk và Lugansk</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T07:32:00+07:00"></time>
+<span>
+<a href="/nga-khang-dinh-khong-co-kich-ban-sap-nhap-donetsk-va-lugansk/c/21792833.epi" title="Nga khẳng định không có kịch bản sáp nhập Donetsk và Lugansk" class="spr spr-cache cache">Nga khẳng định không có kịch bản sáp nhập Donetsk và Lugansk</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|kinh-te">
+<header><a href="/kinh-te.epi" title="Kinh tế">Kinh tế</a></header>
+<article data-aid="21792710" class="feature">
+<figure>
+<a target="_blank" href="/sinh-vien-vo-mong-khoi-nghiep/r/21792710.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/50/21792710/2_80854.jpg" alt="Sinh viên vỡ mộng khởi nghiệp"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/sinh-vien-vo-mong-khoi-nghiep/r/21792710.epi" title="Sinh viên vỡ mộng khởi nghiệp">Sinh viên vỡ mộng khởi nghiệp</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T06:30:00+07:00"></time>
+<span>
+<a href="/sinh-vien-vo-mong-khoi-nghiep/c/21792710.epi" title="Sinh viên vỡ mộng khởi nghiệp" class="spr spr-cache cache">Sinh viên vỡ mộng khởi nghiệp</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792571" >
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792407" >
+<header>
+<h2><a target="_blank" href="/lo-nang-thu-phu-nuoi-heo-ca-nuoc-lao-dao/r/21792407.epi" title="Lỗ nặng, &#39;thủ phủ&#39; nuôi heo cả nước lao đao">Lỗ nặng, 'thủ phủ' nuôi heo cả nước lao đao</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T03:00:00+07:00"></time>
+<span>
+<a href="/lo-nang-thu-phu-nuoi-heo-ca-nuoc-lao-dao/c/21792407.epi" title="Lỗ nặng, &#39;thủ phủ&#39; nuôi heo cả nước lao đao" class="spr spr-cache cache">Lỗ nặng, 'thủ phủ' nuôi heo cả nước lao đao</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792602" >
+<header>
+<h2><a target="_blank" href="/lam-cong-chuc-ma-giau-nhu-vay-thi-kho-lam/r/21792602.epi" title="&#39;Làm công chức mà giàu như vậy thì khó lắm&#39;">'Làm công chức mà giàu như vậy thì khó lắm'</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/lam-cong-chuc-ma-giau-nhu-vay-thi-kho-lam/c/21792602.epi" title="&#39;Làm công chức mà giàu như vậy thì khó lắm&#39;" class="spr spr-cache cache">'Làm công chức mà giàu như vậy thì khó lắm'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792708" >
+<header>
+<h2><a target="_blank" href="/hung-yen-nong-dan-dang-cay-voi-rau-qua/r/21792708.epi" title="Hưng Yên: Nông dân đắng cay với... rau, quả">Hưng Yên: Nông dân đắng cay với... rau, quả</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:40:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/hung-yen-nong-dan-dang-cay-voi-rau-qua/c/21792708.epi" title="Hưng Yên: Nông dân đắng cay với... rau, quả" class="spr spr-cache cache">Hưng Yên: Nông dân đắng cay với... rau, quả</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|the-thao">
+<header><a href="/the-thao.epi" title="Thể thao">Thể thao</a></header>
+<article data-aid="21793229" class="feature">
+<figure>
+<a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/255/21793229/6_276363.jpg" alt="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/r/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:53:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/slna-hagl-cong-phuong-va-dong-doi-lay-lai-niem-tin-noi-khan-gia/c/21793229.epi" title="SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả" class="spr spr-cache cache">SLNA - HAGL: Công Phượng và đồng đội lấy lại niềm tin nơi khán giả</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<header>
+<h2><a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793161" >
+<header>
+<h2><a target="_blank" href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/r/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/lich-thi-dau-truc-tiep-bong-da-hom-nay-18-3/c/21793161.epi" title="Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3" class="spr spr-cache cache">Lịch thi đấu, trực tiếp bóng đá hôm nay 18/3</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792562" >
+<header>
+<h2><a target="_blank" href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/r/21792562.epi" title="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU">Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/c/21792562.epi" title="Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU" class="spr spr-cache cache">Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792702" >
+<header>
+<h2><a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:10:00+07:00"></time>
+<span>
+<a href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/c/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" class="spr spr-cache cache">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px"><div id="BaoMoi_HomeMiddle_3"></div></div>
+<section class="zone" data-track="home|phap-luat">
+<header><a href="/phap-luat.epi" title="Pháp luật">Pháp luật</a></header>
+<article data-aid="21792830" class="feature">
+<figure>
+<a target="_blank" href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/214/21792830/1_68111.jpg" alt="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/c/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt" class="spr spr-cache cache">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792876" >
+<header>
+<h2><a target="_blank" href="/thien-ngoc-minh-uy-sai-hang-loat-sao-van-binh-an-vo-su/r/21792876.epi" title="Thiên Ngọc Minh Uy sai hàng loạt sao vẫn &#39;bình an vô sự&#39;?">Thiên Ngọc Minh Uy sai hàng loạt sao vẫn 'bình an vô sự'?</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-18T06:43:00+07:00"></time>
+<span>
+<a href="/thien-ngoc-minh-uy-sai-hang-loat-sao-van-binh-an-vo-su/c/21792876.epi" title="Thiên Ngọc Minh Uy sai hàng loạt sao vẫn &#39;bình an vô sự&#39;?" class="spr spr-cache cache">Thiên Ngọc Minh Uy sai hàng loạt sao vẫn 'bình an vô sự'?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793016" >
+<header>
+<h2><a target="_blank" href="/loi-dung-mat-dien-be-be-gai-4-tuoi-ra-doi-che-xam-hai/r/21793016.epi" title="Lợi dụng mất điện, bế bé gái 4 tuổi ra đồi chè xâm hại">Lợi dụng mất điện, bế bé gái 4 tuổi ra đồi chè xâm hại</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<a href="/loi-dung-mat-dien-be-be-gai-4-tuoi-ra-doi-che-xam-hai/c/21793016.epi" title="Lợi dụng mất điện, bế bé gái 4 tuổi ra đồi chè xâm hại" class="spr spr-cache cache">Lợi dụng mất điện, bế bé gái 4 tuổi ra đồi chè xâm hại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792704" >
+<header>
+<h2><a target="_blank" href="/tran-chien-giu-cat-tren-song-cau/r/21792704.epi" title="Trận chiến giữ cát trên sông Cầu">Trận chiến giữ cát trên sông Cầu</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-18T06:32:38+07:00"></time>
+<span>
+<a href="/tran-chien-giu-cat-tren-song-cau/c/21792704.epi" title="Trận chiến giữ cát trên sông Cầu" class="spr spr-cache cache">Trận chiến giữ cát trên sông Cầu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793190" >
+<header>
+<h2><a target="_blank" href="/thong-tin-moi-vu-dam-trong-thuong-truong-phong-tu-phap-huyen/r/21793190.epi" title="Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện">Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện</a></h2>
+<p class="meta">
+<a href="/baodatviet.vn-bao-dat-viet-dat-viet/p/132.epi">Đất Việt</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<a href="/thong-tin-moi-vu-dam-trong-thuong-truong-phong-tu-phap-huyen/c/21793190.epi" title="Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện" class="spr spr-cache cache">Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|doi-song">
+<header><a href="/doi-song.epi" title="Đời sống">Đời sống</a></header>
+<article data-aid="21792803" class="feature">
+<figure>
+<a target="_blank" href="/bi-kip-nan-mun-tai-nha-khong-sung-dau-khong-de-lai-seo/r/21792803.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/265/21792803/6_117580.jpg" alt="Bí kíp nặn mụn tại nhà không sưng đau, không để lại sẹo"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bi-kip-nan-mun-tai-nha-khong-sung-dau-khong-de-lai-seo/r/21792803.epi" title="Bí kíp nặn mụn tại nhà không sưng đau, không để lại sẹo">Bí kíp nặn mụn tại nhà không sưng đau, không để lại sẹo</a></h2>
+<p class="meta">
+<a href="/emdep.vn-em-dep/p/276.epi">Em Đẹp</a>
+<time class="friendly" datetime="2017-03-18T06:35:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/bi-kip-nan-mun-tai-nha-khong-sung-dau-khong-de-lai-seo/c/21792803.epi" title="Bí kíp nặn mụn tại nhà không sưng đau, không để lại sẹo" class="spr spr-cache cache">Bí kíp nặn mụn tại nhà không sưng đau, không để lại sẹo</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792971" >
+<header>
+<h2><a target="_blank" href="/co-nhung-dac-diem-nay-ban-rat-de-mang-bau-song-thai/r/21792971.epi" title="Có những đặc điểm này, bạn rất dễ mang bầu song thai">Có những đặc điểm này, bạn rất dễ mang bầu song thai</a></h2>
+<p class="meta">
+<a href="/eva.vn-eva/p/122.epi">Eva</a>
+<time class="friendly" datetime="2017-03-18T07:15:00+07:00"></time>
+<span>
+<a href="/co-nhung-dac-diem-nay-ban-rat-de-mang-bau-song-thai/c/21792971.epi" title="Có những đặc điểm này, bạn rất dễ mang bầu song thai" class="spr spr-cache cache">Có những đặc điểm này, bạn rất dễ mang bầu song thai</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792504" >
+<header>
+<h2><a target="_blank" href="/an-uong-nhu-the-nao-khi-bi-viem-loet-da-day/r/21792504.epi" title="Ăn uống như thế nào khi bị viêm loét dạ dày?">Ăn uống như thế nào khi bị viêm loét dạ dày?</a></h2>
+<p class="meta">
+<a href="/thanhnien.vn-bao-thanh-nien-thanh-nien/p/19.epi">Thanh Niên</a>
+<time class="friendly" datetime="2017-03-18T05:09:00+07:00"></time>
+<span>
+<a href="/an-uong-nhu-the-nao-khi-bi-viem-loet-da-day/c/21792504.epi" title="Ăn uống như thế nào khi bị viêm loét dạ dày?" class="spr spr-cache cache">Ăn uống như thế nào khi bị viêm loét dạ dày?</a>
+</span>
+</p>
+</header>
+</article>
+<script> var arr_baomoiprhomedoisong = [{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=HjTps14vPxYtzMISfbvAAFXB6A3uVKkUp5TCOThQ5jJS_74KCOEsRW4xrnHmQTVj9ZralOnrclsFVGkl9ADpK0tFY45Sqv-A3wGIVqz8Wzb3MIbaZSmanx-iBijNFHHI1q35bw16NT3AQlkBO4i-Q4BWpnbX7Fes4ZN2Mq78uN-Xc8zcmmXUL_I&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3DThangTien_PC">Để giao tiếp tiếng Anh kh&#244;ng thể cản đường thăng tiến của bạn</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=HjTps14vPxYtzMISfbvAAFXB6A3uVKkUp5TCOThQ5jJS_74KCOEsRW4xrnHmQTVj9ZralOnrclsFVGkl9ADpK0tFY45Sqv-A3wGIVqz8Wzb3MIbaZSmanx-iBijNFHHI1q35bw16NT3AQlkBO4i-Q4BWpnbX7Fes4ZN2Mq78uN-Xc8zcmmXUL_I&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3DThangTien_PC">Topica Native<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=clgNu76vPxZBIHpC3TvAbOHJeM3uVMXwbySCOTg88jrC3z4KZAX85e4xrh1SKSWMDed9OR_FBR_pE2pmq2XjeEihfkVjHJJ2I3xCb3eWXAXgjHxsKfyt8PqlHpFsIr4m6HpnthmAjXlYEn8aLYDCbnruRcgjAGGzkdgIH7wWKKc1oAx4aIDKKYIevTPeJA&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :50.0},{value :'<article class="pr"> <header> <h2><a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=gyniLXpn3xYwMU7KvTvAHbaf-M3uVLQBW5TCOThN5eoCXz4KFdKy_b7xLmzjvQ2jdZrHhxXj4psFSZLbfJApq1ZI1aqauj8dPDvgxmx8RsMLUIbaZTRvO0-Chyz49TaF6hy7yOocuOaavRL-cSyypiMqS0-ChyzXhoxQrK6u_JKSXDnghHpP_Rps&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3D45Ph_PC">N&#243;i tiếng anh như gi&#243; nhờ 45 ph&#250;t học online mỗi ng&#224;y</a></h2> <p class="meta hidePrTag-False"> <a target="_blank" rel="nofollow" href="http://log.adtimaserver.vn/track/click?params=gyniLXpn3xYwMU7KvTvAHbaf-M3uVLQBW5TCOThN5eoCXz4KFdKy_b7xLmzjvQ2jdZrHhxXj4psFSZLbfJApq1ZI1aqauj8dPDvgxmx8RsMLUIbaZTRvO0-Chyz49TaF6hy7yOocuOaavRL-cSyypiMqS0-ChyzXhoxQrK6u_JKSXDnghHpP_Rps&amp;uid=&amp;redirectUrl=http%3A%2F%2Fanhngutructuyen.native.edu.vn%2F%3Futm_source%3DBlogtamsu.vn%26utm_team%3DTOM.VH%26utm_agent%3DHoaNT6%26utm_medium%3DPC%26utm_campaign%3DXoanQuay%26utm_term%3DSA2110-SA2210%26utm_content%3D45Ph_PC">Topica Native<i class="spr fyi-tag"></i></a> </p> </header> <img src="http://log.adtimaserver.vn/track/hit.gif?params=dF4XQ76vPxZHKpLS_bvAauOxyI3uVMPylzRCOTg68N4KPz4KYgeUBe4xrhtQTW0sTed7OwcVxR_pFXRCGwVjeE6rljWjnJJwPSBCb3eWWgeIHLzsKfqvmGqFnpFqINr3rNKro3huVKuiRDXtYMJteFRgy9yOA4Bh7o3VxEdsVvUhUIbseGjdzOTMWuXjQ8k&amp;uid=" style="width: 1px; height: 1px; display: none" /></article>', share :50.0}];if (arr_baomoiprhomedoisong.length > 0){ var t = new Date().getUTCMilliseconds() / 10;var n = 0;for (i = 0; i < arr_baomoiprhomedoisong.length; i++) {n += arr_baomoiprhomedoisong[i].share;if (n >= t) {document.write(arr_baomoiprhomedoisong[i].value);break;}}} var ltbaomoiprhomedoisong_180818 = true; </script>
+<article data-aid="21792573" >
+<header>
+<h2><a target="_blank" href="/lan-theo-dia-chi-tu-thu-chuyen-tien-cua-chong-va-bi-mat-dau-don-duoc-phanh-phui/r/21792573.epi" title="Lần theo địa chỉ từ thư chuyển tiền của chồng và bí mật đau đớn được phanh phui">Lần theo địa chỉ từ thư chuyển tiền của chồng và bí mật đau đớn được phanh phui</a></h2>
+<p class="meta">
+<a href="/www.tienphong.vn-bao-tien-phong-tien-phong/p/20.epi">Tiền Phong</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/lan-theo-dia-chi-tu-thu-chuyen-tien-cua-chong-va-bi-mat-dau-don-duoc-phanh-phui/c/21792573.epi" title="Lần theo địa chỉ từ thư chuyển tiền của chồng và bí mật đau đớn được phanh phui" class="spr spr-cache cache">Lần theo địa chỉ từ thư chuyển tiền của chồng và bí mật đau đớn được phanh phui</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792456" >
+<header>
+<h2><a target="_blank" href="/di-an-tu-tra-tien-thi-co-nguoi-yeu-de-lam-gi/r/21792456.epi" title="Đi ăn tự trả tiền thì có người yêu để làm gì?">Đi ăn tự trả tiền thì có người yêu để làm gì?</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T04:00:00+07:00"></time>
+<span>
+<a href="/di-an-tu-tra-tien-thi-co-nguoi-yeu-de-lam-gi/c/21792456.epi" title="Đi ăn tự trả tiền thì có người yêu để làm gì?" class="spr spr-cache cache">Đi ăn tự trả tiền thì có người yêu để làm gì?</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="zone" data-track="home|nha-dat">
+<header><a href="/nha-dat.epi" title="Nhà đất">Nhà đất</a></header>
+<article data-aid="21793048" class="feature">
+<figure>
+<a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/214/21793048/1_139720.jpg" alt="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/r/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:26:00+07:00"></time>
+<span>
+<a href="/da-nang-hom-nay-kiem-tra-bao-cao-vu-bam-nat-ban-dao-son-tra/c/21793048.epi" title="Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà" class="spr spr-cache cache">Đà Nẵng: Hôm nay kiểm tra, báo cáo vụ băm nát bán đảo Sơn Trà</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<header>
+<h2><a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-cache cache">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792778" >
+<header>
+<h2><a target="_blank" href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/r/21792778.epi" title="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM">Gửi xe giá 'bèo', doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T06:50:00+07:00"></time>
+<span>
+<a href="/gui-xe-gia-beo-doanh-nghiep-khong-muon-dau-tu-bai-do-xe-o-tp-hcm/c/21792778.epi" title="Gửi xe giá &#39;bèo&#39;, doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM" class="spr spr-cache cache">Gửi xe giá 'bèo', doanh nghiệp không muốn đầu tư bãi đỗ xe ở TP HCM</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792907" >
+<header>
+<h2><a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/c/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ" class="spr spr-cache cache">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792682" >
+<header>
+<h2><a target="_blank" href="/nha-o-150-trieu-dong-la-sieu-tuong/r/21792682.epi" title="Nhà ở 150 triệu đồng là &#39;siêu tưởng&#39;">Nhà ở 150 triệu đồng là 'siêu tưởng'</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:30:00+07:00"></time>
+<span>
+<a href="/nha-o-150-trieu-dong-la-sieu-tuong/c/21792682.epi" title="Nhà ở 150 triệu đồng là &#39;siêu tưởng&#39;" class="spr spr-cache cache">Nhà ở 150 triệu đồng là 'siêu tưởng'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</div>
+<div class="topics" data-track="|clusters">
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_0" href="/xo-so-vietlott/gt/1617505.epi">Xổ số Vietlott</a>
+</header>
+<article data-aid="21793227" >
+<figure>
+<a target="_blank" href="/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/r/21793227.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/283/21793227/1_146314.jpg" alt="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/r/21793227.epi" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a></h2>
+<p class="meta">
+<a href="/phununews.vn-phu-nu-news/p/322.epi">Phụ Nữ News</a>
+<time class="friendly" datetime="2017-03-18T07:54:00+07:00"></time>
+<span>
+<a href="/nhung-to-ve-so-vietlott-mang-hang-chuc-ty-dong-ve-cho-chu-nhan/c/21793227.epi" title="Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân" class="spr spr-cache cache">Những tờ vé số Vietlott mang hàng chục tỷ đồng về cho chủ nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793191" >
+<header>
+<h2><a target="_blank" href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/r/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:44:08+07:00"></time>
+<span>
+<a href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/c/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017" class="spr spr-cache cache">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792967" >
+<header>
+<h2><a target="_blank" href="/lai-tim-ra-nguoi-choi-om-tron-43-ty-dong-xo-so-vietlott/r/21792967.epi" title="Lại tìm ra người chơi &#39;ôm trọn&#39; 43 tỷ đồng xổ số Vietlott">Lại tìm ra người chơi 'ôm trọn' 43 tỷ đồng xổ số Vietlott</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:11:56+07:00"></time>
+<span>
+<a href="/lai-tim-ra-nguoi-choi-om-tron-43-ty-dong-xo-so-vietlott/c/21792967.epi" title="Lại tìm ra người chơi &#39;ôm trọn&#39; 43 tỷ đồng xổ số Vietlott" class="spr spr-cache cache">Lại tìm ra người chơi 'ôm trọn' 43 tỷ đồng xổ số Vietlott</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_1" href="/truong-phong-tu-phap-bi-dam/t/2064571.epi">Trưởng phòng Tư pháp bị đâm</a>
+</header>
+<article data-aid="21793190" >
+<figure>
+<a target="_blank" href="/thong-tin-moi-vu-dam-trong-thuong-truong-phong-tu-phap-huyen/r/21793190.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/103/21793190/3_170719.jpg" alt="Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thong-tin-moi-vu-dam-trong-thuong-truong-phong-tu-phap-huyen/r/21793190.epi" title="Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện">Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện</a></h2>
+<p class="meta">
+<a href="/baodatviet.vn-bao-dat-viet-dat-viet/p/132.epi">Đất Việt</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<a href="/thong-tin-moi-vu-dam-trong-thuong-truong-phong-tu-phap-huyen/c/21793190.epi" title="Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện" class="spr spr-cache cache">Thông tin mới vụ đâm trọng thương Trưởng phòng tư pháp huyện</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792815" >
+<header>
+<h2><a target="_blank" href="/khoi-to-bat-giam-nguoi-dam-truong-phong-tu-phap-huyen/r/21792815.epi" title="Khởi tố, bắt giam người đâm trưởng phòng tư pháp huyện">Khởi tố, bắt giam người đâm trưởng phòng tư pháp huyện</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T06:48:00+07:00"></time>
+<span>
+<a href="/khoi-to-bat-giam-nguoi-dam-truong-phong-tu-phap-huyen/c/21792815.epi" title="Khởi tố, bắt giam người đâm trưởng phòng tư pháp huyện" class="spr spr-cache cache">Khởi tố, bắt giam người đâm trưởng phòng tư pháp huyện</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792403" class="no-fig">
+<header>
+<h2><a target="_blank" href="/bat-tam-giam-nguoi-dam-bi-thuong-truong-phong-tu-phap/r/21792403.epi" title="Bắt tạm giam người đâm bị thương trưởng phòng tư pháp">Bắt tạm giam người đâm bị thương trưởng phòng tư pháp</a></h2>
+<p class="meta">
+<a href="/plo.vn-bao-phap-luat-tp-hcm-plo/p/114.epi">PLO</a>
+<time class="friendly" datetime="2017-03-18T02:45:00+07:00"></time>
+<span>
+<a href="/bat-tam-giam-nguoi-dam-bi-thuong-truong-phong-tu-phap/c/21792403.epi" title="Bắt tạm giam người đâm bị thương trưởng phòng tư pháp" class="spr spr-cache cache">Bắt tạm giam người đâm bị thương trưởng phòng tư pháp</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_2" href="/chu-tich-bac-ninh-bi-de-doa/gt/2063275.epi">Chủ tịch Bắc Ninh bị đe dọa</a>
+</header>
+<article data-aid="21793140" >
+<figure>
+<a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-cache cache">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793066" class="no-fig">
+<header>
+<h2><a target="_blank" href="/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/r/21793066.epi" title="Tạm dừng thi công dự án nạo vét trên sông Cầu">Tạm dừng thi công dự án nạo vét trên sông Cầu</a></h2>
+<p class="meta">
+<a href="/hanoimoi.com.vn-bao-ha-noi-moi-ha-noi-moi/p/8.epi">Hà Nội Mới</a>
+<time class="friendly" datetime="2017-03-18T07:12:00+07:00"></time>
+<span>
+<a href="/tam-dung-thi-cong-du-an-nao-vet-tren-song-cau/c/21793066.epi" title="Tạm dừng thi công dự án nạo vét trên sông Cầu" class="spr spr-cache cache">Tạm dừng thi công dự án nạo vét trên sông Cầu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792907" >
+<header>
+<h2><a target="_blank" href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/r/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a></h2>
+<p class="meta">
+<a href="/congly.vn-bao-cong-ly-cong-ly/p/236.epi">Công Lý</a>
+<time class="friendly" datetime="2017-03-18T07:10:00+07:00"></time>
+<span>
+<a href="/khai-thac-cat-trai-phep-o-bac-ninh-3-thanh-tra-giao-thong-bi-dinh-chi/c/21792907.epi" title="Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ" class="spr spr-cache cache">Khai thác cát trái phép ở Bắc Ninh: 3 thanh tra giao thông bị đình chỉ</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_3" href="/my-rex-tillerson/gt/2018737.epi">#Mỹ-Rex-Tillerson</a>
+</header>
+<article data-aid="21792326" >
+<figure>
+<a target="_blank" href="/5-nan-de-doi-ngoai-truong-my-khi-tham-trung-quoc/r/21792326.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/275/21792326/1_80913.jpg" alt="5 nan đề đợi Ngoại trưởng Mỹ khi thăm Trung Quốc"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/5-nan-de-doi-ngoai-truong-my-khi-tham-trung-quoc/r/21792326.epi" title="5 nan đề đợi Ngoại trưởng Mỹ khi thăm Trung Quốc">5 nan đề đợi Ngoại trưởng Mỹ khi thăm Trung Quốc</a></h2>
+<p class="meta">
+<a href="/viettimes.vn-viettimes/p/309.epi">VietTimes</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/5-nan-de-doi-ngoai-truong-my-khi-tham-trung-quoc/c/21792326.epi" title="5 nan đề đợi Ngoại trưởng Mỹ khi thăm Trung Quốc" class="spr spr-cache cache">5 nan đề đợi Ngoại trưởng Mỹ khi thăm Trung Quốc</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792264" >
+<header>
+<h2><a target="_blank" href="/tong-thong-trump-trieu-tien-dang-gieu-cot-my/r/21792264.epi" title="Tổng thống Trump: Triều Tiên đang giễu cợt Mỹ">Tổng thống Trump: Triều Tiên đang giễu cợt Mỹ</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T00:25:28+07:00"></time>
+<span>
+<a href="/tong-thong-trump-trieu-tien-dang-gieu-cot-my/c/21792264.epi" title="Tổng thống Trump: Triều Tiên đang giễu cợt Mỹ" class="spr spr-cache cache">Tổng thống Trump: Triều Tiên đang giễu cợt Mỹ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792132" >
+<header>
+<h2><a target="_blank" href="/ngoai-truong-my-tuyen-bo-co-the-trang-bi-vu-khi-hat-nhan-cho-cac-dong-minh-de-kiem-che-trieu-tien/r/21792132.epi" title="Ngoại trưởng Mỹ tuyên bố có thể trang bị vũ khí hạt nhân cho các đồng minh để kiềm chế Triều Tiên">Ngoại trưởng Mỹ tuyên bố có thể trang bị vũ khí hạt nhân cho các đồng minh để kiềm chế Triều Tiên</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T23:38:00+07:00"></time>
+<span>
+<a href="/ngoai-truong-my-tuyen-bo-co-the-trang-bi-vu-khi-hat-nhan-cho-cac-dong-minh-de-kiem-che-trieu-tien/c/21792132.epi" title="Ngoại trưởng Mỹ tuyên bố có thể trang bị vũ khí hạt nhân cho các đồng minh để kiềm chế Triều Tiên" class="spr spr-cache cache">Ngoại trưởng Mỹ tuyên bố có thể trang bị vũ khí hạt nhân cho các đồng minh để kiềm chế Triều Tiên</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_4" href="/le-dung/t/2028785.epi">#Lê-Dũng</a>
+</header>
+<article data-aid="21793274" >
+<figure>
+<a target="_blank" href="/ngoai-truong-my-danh-phu-dau-trieu-tien-la-mot-lua-chon/r/21793274.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/70/21793274/3_169639.jpeg" alt="Ngoại trưởng Mỹ: Đánh phủ đầu Triều Tiên là một lựa chọn"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ngoai-truong-my-danh-phu-dau-trieu-tien-la-mot-lua-chon/r/21793274.epi" title="Ngoại trưởng Mỹ: Đánh phủ đầu Triều Tiên là một lựa chọn">Ngoại trưởng Mỹ: Đánh phủ đầu Triều Tiên là một lựa chọn</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-18T07:57:00+07:00"></time>
+<span>
+<a href="/ngoai-truong-my-danh-phu-dau-trieu-tien-la-mot-lua-chon/c/21793274.epi" title="Ngoại trưởng Mỹ: Đánh phủ đầu Triều Tiên là một lựa chọn" class="spr spr-cache cache">Ngoại trưởng Mỹ: Đánh phủ đầu Triều Tiên là một lựa chọn</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793045" >
+<header>
+<h2><a target="_blank" href="/phap-se-canh-bao-trung-quoc-bang-cac-tau-chien-manh-nhat/r/21793045.epi" title="Pháp sẽ cảnh báo Trung Quốc bằng các tàu chiến mạnh nhất">Pháp sẽ cảnh báo Trung Quốc bằng các tàu chiến mạnh nhất</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-18T06:59:00+07:00"></time>
+<span>
+<a href="/phap-se-canh-bao-trung-quoc-bang-cac-tau-chien-manh-nhat/c/21793045.epi" title="Pháp sẽ cảnh báo Trung Quốc bằng các tàu chiến mạnh nhất" class="spr spr-cache cache">Pháp sẽ cảnh báo Trung Quốc bằng các tàu chiến mạnh nhất</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791615" >
+<header>
+<h2><a target="_blank" href="/nhat-ban-dien-tap-gia-dinh-tinh-huong-trieu-tien-tan-cong/r/21791615.epi" title="Nhật Bản diễn tập giả định tình huống Triều Tiên tấn công">Nhật Bản diễn tập giả định tình huống Triều Tiên tấn công</a></h2>
+<p class="meta">
+<a href="/www.baogiaothong.vn-bao-giao-thong-giao-thong/p/30.epi">Giao Thông</a>
+<time class="friendly" datetime="2017-03-17T21:05:00+07:00"></time>
+<span>
+<a href="/nhat-ban-dien-tap-gia-dinh-tinh-huong-trieu-tien-tan-cong/c/21791615.epi" title="Nhật Bản diễn tập giả định tình huống Triều Tiên tấn công" class="spr spr-cache cache">Nhật Bản diễn tập giả định tình huống Triều Tiên tấn công</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_5" href="/benh-huyet-quan-nao/t/1986518.epi">Bệnh huyết quản não</a>
+</header>
+<article data-aid="21792947" >
+<figure>
+<a target="_blank" href="/nguyen-nhan-trieu-chung-va-cach-dieu-tri-chay-mau-loi/r/21792947.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/300/21792947/2_15211.jpg" alt="Nguyên nhân, triệu chứng và cách điều trị chảy máu lợi"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nguyen-nhan-trieu-chung-va-cach-dieu-tri-chay-mau-loi/r/21792947.epi" title="Nguyên nhân, triệu chứng và cách điều trị chảy máu lợi">Nguyên nhân, triệu chứng và cách điều trị chảy máu lợi</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:12:18+07:00"></time>
+<span>
+<a href="/nguyen-nhan-trieu-chung-va-cach-dieu-tri-chay-mau-loi/c/21792947.epi" title="Nguyên nhân, triệu chứng và cách điều trị chảy máu lợi" class="spr spr-cache cache">Nguyên nhân, triệu chứng và cách điều trị chảy máu lợi</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791818" >
+<header>
+<h2><a target="_blank" href="/thuoc-dong-y-co-tac-dung-giam-mo-co-hieu-qua-khong/r/21791818.epi" title="Thuốc Đông y có tác dụng giảm mỡ có hiệu quả không?">Thuốc Đông y có tác dụng giảm mỡ có hiệu quả không?</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-17T21:39:00+07:00"></time>
+<span>
+<a href="/thuoc-dong-y-co-tac-dung-giam-mo-co-hieu-qua-khong/c/21791818.epi" title="Thuốc Đông y có tác dụng giảm mỡ có hiệu quả không?" class="spr spr-cache cache">Thuốc Đông y có tác dụng giảm mỡ có hiệu quả không?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21781805" >
+<header>
+<h2><a target="_blank" href="/cach-phong-va-dieu-tri-benh-tua-mieng-o-tre/r/21781805.epi" title="Cách phòng và điều trị bệnh tưa miệng ở trẻ">Cách phòng và điều trị bệnh tưa miệng ở trẻ</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-16T18:06:20+07:00"></time>
+<span>
+<a href="/cach-phong-va-dieu-tri-benh-tua-mieng-o-tre/c/21781805.epi" title="Cách phòng và điều trị bệnh tưa miệng ở trẻ" class="spr spr-cache cache">Cách phòng và điều trị bệnh tưa miệng ở trẻ</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_6" href="/le-quang-liem/gt/2036859.epi">Lê Quang Liêm</a>
+</header>
+<article data-aid="21792509" >
+<figure>
+<a target="_blank" href="/quang-liem-tiet-lo-bi-kip-thang-3-cao-thu-trung-quoc/r/21792509.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/223/21792509/3_139486.jpg" alt="Quang Liêm tiết lộ “bí kíp” thắng 3 cao thủ Trung Quốc"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/quang-liem-tiet-lo-bi-kip-thang-3-cao-thu-trung-quoc/r/21792509.epi" title="Quang Liêm tiết lộ “bí kíp” thắng 3 cao thủ Trung Quốc">Quang Liêm tiết lộ “bí kíp” thắng 3 cao thủ Trung Quốc</a></h2>
+<p class="meta">
+<a href="/khampha.vn-tap-chi-kham-pha-kham-pha/p/248.epi">Khám Phá</a>
+<time class="friendly" datetime="2017-03-18T04:33:00+07:00"></time>
+<span>
+<a href="/quang-liem-tiet-lo-bi-kip-thang-3-cao-thu-trung-quoc/c/21792509.epi" title="Quang Liêm tiết lộ “bí kíp” thắng 3 cao thủ Trung Quốc" class="spr spr-cache cache">Quang Liêm tiết lộ “bí kíp” thắng 3 cao thủ Trung Quốc</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792034" >
+<header>
+<h2><a target="_blank" href="/le-quang-liem-vo-dich-an-tuong-o-hdbank-2017/r/21792034.epi" title="Lê Quang Liêm vô địch ấn tượng ở HDBank 2017">Lê Quang Liêm vô địch ấn tượng ở HDBank 2017</a></h2>
+<p class="meta">
+<a href="/nld.com.vn-bao-nguoi-lao-dong-nld/p/15.epi">NLĐ</a>
+<time class="friendly" datetime="2017-03-17T22:40:00+07:00"></time>
+<span>
+<a href="/le-quang-liem-vo-dich-an-tuong-o-hdbank-2017/c/21792034.epi" title="Lê Quang Liêm vô địch ấn tượng ở HDBank 2017" class="spr spr-cache cache">Lê Quang Liêm vô địch ấn tượng ở HDBank 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21791910" >
+<header>
+<h2><a target="_blank" href="/le-quang-liem-vo-dich-giai-co-vua-quoc-te-hdbank-2017/r/21791910.epi" title="Lê Quang Liêm vô địch Giải Cờ vua quốc tế HDBank 2017">Lê Quang Liêm vô địch Giải Cờ vua quốc tế HDBank 2017</a></h2>
+<p class="meta">
+<a href="/nhandan.com.vn-bao-nhan-dan-nhan-dan/p/14.epi">Nhân Dân</a>
+<time class="friendly" datetime="2017-03-17T18:36:59+07:00"></time>
+<span>
+<a href="/le-quang-liem-vo-dich-giai-co-vua-quoc-te-hdbank-2017/c/21791910.epi" title="Lê Quang Liêm vô địch Giải Cờ vua quốc tế HDBank 2017" class="spr spr-cache cache">Lê Quang Liêm vô địch Giải Cờ vua quốc tế HDBank 2017</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_7" href="/gia-vang/gt/1339239.epi">Giá vàng</a>
+</header>
+<article data-aid="21793334" >
+<figure>
+<a target="_blank" href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/r/21793334.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/227/21793334/2_33739.jpg" alt="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/r/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng">Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng</a></h2>
+<p class="meta">
+<a href="/www.giadinhvietnam.com-bao-gia-dinh-viet-nam-gia-dinh-vn/p/251.epi">Gia Đình VN</a>
+<time class="friendly" datetime="2017-03-18T07:54:00+07:00"></time>
+<span>
+<a href="/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/c/21793334.epi" title="Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng" class="spr spr-cache cache">Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792698" >
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/r/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-18T06:33:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-the-gioi-tiep-tuc-tang-vang-trong-nuoc-chung-lai/c/21792698.epi" title="Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng thế giới tiếp tục tăng, vàng trong nước chững lại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792571" >
+<header>
+<h2><a target="_blank" href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/r/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a></h2>
+<p class="meta">
+<a href="/vietnamnet.vn-bao-vietnamnet-vietnamnet/p/23.epi">VietnamNet</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/gia-vang-hom-nay-18-3-vang-theo-da-giam-sau/c/21792571.epi" title="Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu" class="spr spr-cache cache">Giá vàng hôm nay 18/3: Vàng theo đà giảm sâu</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</div>
+</div>
+</section>
+<section class="sidebar">
+<div class="fyi-300 nocontent robots-nocontent" style="display:none;" id="BaoMoi_HalfPage"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R1"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R2"></div>
+<section id="photo-box" data-track="|video">
+<header>
+<h6>
+<a href="/tin-video.epi">Video</a>
+</h6>
+</header>
+<div class="slider">
+<article data-aid="21793255" >
+<figure>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/293/21793255/4_366004.png" alt="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">
+</a>
+</figure>
+<header>
+<h2><a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-18T08:00:17+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/r/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?" class="spr spr-more" target="_blank">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">
+</a>
+</figure>
+<header>
+<h2><a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-more" target="_blank">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793200" >
+<figure>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/255/21793200/3_154934.jpg" alt="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">
+</a>
+</figure>
+<header>
+<h2><a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/r/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh" class="spr spr-more" target="_blank">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793119" >
+<figure>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/88/21793119/3_70096.jpg" alt="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">
+</a>
+</figure>
+<header>
+<h2><a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:40:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/r/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương" class="spr spr-more" target="_blank">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793101" >
+<figure>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/139/21793101/1_37764.jpg" alt="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+</a>
+</figure>
+<header>
+<h2><a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-more" target="_blank">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793240" >
+<figure>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/301/21793240/1_144150.jpg" alt="Một tháng trong quân ngũ của Á khôi áo dài">
+</a>
+</figure>
+<header>
+<h2><a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài">Một tháng trong quân ngũ của Á khôi áo dài</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/r/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài" class="spr spr-more" target="_blank">Một tháng trong quân ngũ của Á khôi áo dài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793205" >
+<figure>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/66/21793205/2_91393.jpg" alt="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">
+</a>
+</figure>
+<header>
+<h2><a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-18T07:31:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/r/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ" class="spr spr-more" target="_blank">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793074" >
+<figure>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/25/21793074/2_67136.jpg" alt="Mỹ công bố 750 video thử nghiệm bom hạt nhân">
+</a>
+</figure>
+<header>
+<h2><a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:29:52+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/r/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân" class="spr spr-more" target="_blank">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793192" >
+<figure>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+</a>
+</figure>
+<header>
+<h2><a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-more" target="_blank">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793140" >
+<figure>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">
+</a>
+</figure>
+<header>
+<h2><a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-more" target="_blank">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<section id="soccer-landing" class="soccer-landing">
+<header>
+<h6>
+<a href="javascript:;">Bảng xếp hạng bóng đá</a>
+</h6>
+</header>
+</section>
+<section class="top-story">
+<ul class=" tab-header">
+<li class="active"><a href="#most-read" data-toggle="tab">Nóng trong ngày</a></li>
+<li><a href="#most-read7" data-toggle="tab">Trong tuần</a></li>
+</ul>
+<div id="top-story" class="tab-content">
+<div class="tab-pane active" id="most-read" data-track="|mostread">
+</div>
+<div class="tab-pane fade" id="most-read7" data-track="|mostread7">
+</div>
+</div>
+</section>
+<div id="utilities">
+<h3 class="utilities-hdr">
+<a href="javascript:;">Tiện ích</a>
+</h3>
+<section id="weather-box"></section>
+<!-- --- --- -->
+<section id="infocenter">
+<ul class="infocenter-content clearfix">
+<li>
+<a rel="nofollow" id="exchange" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="exchange-modal" title=""><i class="widget widget-exchangecurrency"></i>Tỷ giá ngoại tệ</a>
+</li>
+<li>
+<a rel="nofollow" id="gold" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="gold-modal" title=""><i class="widget widget-exchangegold"></i>Giá vàng</a>
+</li>
+<li>
+<a rel="nofollow" id="lottery" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="lottery-modal" title=""><i class="widget widget-lottery"></i>Kết quả xổ số</a>
+</li>
+<li>
+<a rel="nofollow" id="stock" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="stock-modal" title=""><i class="widget widget-stock"></i>Chứng khoán</a>
+</li>
+<li>
+<a rel="nofollow" id="channel" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="channel-modal" title=""><i class="widget widget-tv"></i>Lịch truyền hình</a>
+</li>
+<li>
+<a rel="nofollow" id="cinema" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="cinema-modal" title=""><i class="widget widget-film"></i>Lịch chiếu phim</a>
+</li>
+<li class="last-line">
+<a rel="nofollow" id="horoscope" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="horoscope-modal" title=""><i class="widget widget-zodiac"></i>Cung hoàng đạo</a>
+</li>
+<li class="last-line">
+<a rel="nofollow" id="energy" href="javascript:void(0)" data-animation="none" data-animationspeed="0" data-reveal-id="energy-modal" title=""><i class="widget widget-oil"></i>Giá xăng, dầu</a>
+</li>
+</ul>
+</section>
+</div>
+<section class="social-idx">
+<header>
+<h6><a href="javascript:;">Theo dõi Báo Mới</a></h6>
+</header>
+<div class="social">
+<a href="https://www.facebook.com/baomoi/" target="_blank" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Fanpage</span>
+</a>
+<a href="https://www.facebook.com/baomoigiaitri/" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Giải Trí</span>
+</a>
+<a href="https://noti.baomoi.com/" target="_blank" class="noti">
+<span><i class="spr social-noti"></i></span>
+<span>Gửi tin nóng<br>
+cho bạn</span>
+</a>
+<a href="https://plus.google.com/+baomoi/posts" target="_blank" class="gplus">
+<span><i class="spr social-gplus"></i></span>
+<span>Google<br>
+Plus</span>
+</a>
+</div>
+</section>
+<section id="trending-list" data-track="|trending">
+<header>
+<h6>
+<a href="javascript:;">Xu hướng</a>
+</h6>
+</header>
+<div class="trending">
+<span class=" w15"><a href="/tag/quang-thị-hương.epi">Quang Thị Hương</a></span>
+<span class="down w3"><a href="/tag/anderlecht.epi">Anderlecht</a></span>
+<span class=" w16"><a href="/tag/quân-đội-israel.epi">Quân đội Israel</a></span>
+<span class="down w8"><a href="/tag/cục-dự-trữ-liên-bang.epi">cục dự trữ liên bang</a></span>
+<span class="down w4"><a href="/tag/europa-league.epi">Europa League</a></span>
+<span class="up w14"><a href="/tag/hội-nhà-báo-việt-nam.epi">hội nhà báo việt nam</a></span>
+<span class="up w9"><a href="/tag/mỹ-rex-tillerson.epi">Mỹ Rex Tillerson</a></span>
+<span class="down w10"><a href="/tag/cao-mạnh-hùng.epi">Cao Mạnh Hùng</a></span>
+<span class=" w18"><a href="/tag/jackpot.epi">Jackpot</a></span>
+<span class=" w20"><a href="/tag/công-an-huyện-hương-sơn.epi">công an huyện Hương Sơn</a></span>
+<span class="up w7"><a href="/tag/hội-báo-toàn-quốc-2017.epi">Hội Báo toàn quốc 2017</a></span>
+<span class="up w2"><a href="/tag/triều-tiên.epi">triều tiên</a></span>
+<span class="down w19"><a href="/tag/ubnd-tỉnh-bắc-ninh.epi">UBND tỉnh Bắc Ninh</a></span>
+<span class="down w11"><a href="/tag/tuấn-hưng.epi">Tuấn Hưng</a></span>
+<span class=" w13"><a href="/tag/tiểu-học-diên-lãm.epi">Tiểu học Diên Lãm</a></span>
+<span class="up w12"><a href="/tag/ubnd-quận-sơn-trà.epi">UBND quận Sơn Trà</a></span>
+<span class="up w6"><a href="/tag/nguyễn-trần-mỹ-anh.epi">Nguyễn Trần Mỹ Anh</a></span>
+<span class="up w5"><a href="/tag/vietlott.epi">Vietlott</a></span>
+<span class="up w17"><a href="/tag/rex-tillerson.epi">Rex Tillerson</a></span>
+<span class="down w1"><a href="/tag/báo-chí-việt-nam.epi">Báo chí Việt Nam</a></span>
+</div>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_MiddleRight_1"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R3"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R4"></div>
+</section>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime">Cung cấp trong: 1.41 ms.</p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

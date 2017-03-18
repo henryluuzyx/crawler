@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nước ngoài xây bậc tam cấp như thế nào để không lấn chiếm vỉa hè - SaoStar
+</title><meta name="keywords" content="lấn chiếm,Hà Nội,chỉ đạo,ra quân,thanh tra,Sương Nguyễn,Warszawa,cộng hòa séc,brussels,Ba Lan,làm đẹp,Bỉ,paris,việt nam,cư dân mạng,giám sát,Pháp,Mỹ" /><meta name="description" content="Nếu như ở Việt Nam nhiều ngôi nhà xây bậc thềm nhô ra vỉa hè từ 50-80 cm thì ở một số quốc gia trên thế giới họ xây bậc tam cấp thụt vào trong để không lấn ..." />
+<link rel="canonical" href="http://www.baomoi.com/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/c/21791258.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791258" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791258" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("https://saostar.vn/doi-song-xa-hoi/nuoc-ngoai-xay-bac-tam-cap-nhu-nao-de-khong-lan-chiem-via-1160813.html");
+else
+window.location.replace("http://www.baomoi.com/nuoc-ngoai-xay-bac-tam-cap-nhu-the-nao-de-khong-lan-chiem-via-he/c/21791258.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

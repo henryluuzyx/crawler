@@ -1,0 +1,840 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="tt_site_id" content="1003159" />
+        <meta name="tt_category_id" content="1003180" />
+        <meta name="tt_article_id" content="1003180" />
+		<meta name="description" content='Top người giàu trên sàn chứng khoán 2015 - VnExpress' property="og:description" />
+		<meta content="Top người giàu trên sàn chứng khoán 2015 - VnExpress" name="title" itemprop="headline" property="og:title" />
+		<meta content="article" property="og:type"/>
+		<meta content="Tin nhanh VnExpress" property="og:site_name"/>
+		<meta property="og:image" itemprop="thumbnailUrl" content="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2015/images/thumb_share_2015.jpg" />
+		<!-- iPad icons -->
+		<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/72x72.png" sizes="72x72">
+		<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="144x144">
+		<!-- iPhone and iPod touch icons -->
+		<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png" sizes="57x57">
+		<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="114x114">
+		<!-- Nokia Symbian -->
+		<link rel="nokia-touch-icon" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/57x57.png">
+		<!-- Android icon precomposed so it takes precedence -->
+		<link rel="apple-touch-icon-precomposed" href="http://st.f1.vnecdn.net/responsive/i/v41/logos/114x114.png" sizes="1x1">
+		<title>VnExpress -
+			Top 30 gia đình 			giàu nhất Việt Nam trên TTCK 2015
+		</title>
+        <script type="text/javascript">
+			var a = document.createElement('img');
+			a.src = 'http://log.pv1.eclick.vn/1.gif?site=kinhdoanh&t=' + Math.random();
+            //GA + FOSP Web Analytics Tracker
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-249346-13']);
+            _gaq.push(['_trackPageview']);
+			_gaq.push(['f._setAccount', 'UA-249346-36']);
+		_gaq.push(['f._trackPageview']);
+            _gaq.push(['c._setAccount', 'UA-249346-57']);
+            _gaq.push(['c._trackPageview']);
+            (function() {
+                var a = document.createElement('script');
+                a.type = 'text/javascript';
+                a.async = !0;
+                a.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                var b = document.getElementsByTagName('script')[0];
+                b.parentNode.insertBefore(a, b);
+            })();
+			//Tracking eclick
+            var _siteId = '24';
+            (function() {
+                var a = document.createElement('script');
+                a.type = 'text/javascript';
+                a.async = !0;
+                a.src = 'http://st.l.a.eclick.vn/ea.js';
+                var b = document.getElementsByTagName('script')[0];
+                b.parentNode.insertBefore(a, b);
+            })();
+            //AudienceScience Async Data Collection Tag
+            (function() {
+                var csid = 'F09828';
+                var bpid = 'fpt_vn';
+                var e = document.createElement('script');
+                var s = document.getElementsByTagName("script")[0];
+                e.src = '//js.revsci.net/gateway/gw.js?auto=t&csid=' + csid + '&bpid=' + bpid;
+                e.async = true;
+                s.parentNode.insertBefore(e, s);
+            })();
+            //Begin comScore Tag
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: '2', c2: '19747654' });
+            (function() {
+              var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]; s.async = true;
+              s.src = (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+              el.parentNode.insertBefore(s, el);
+            })();
+        </script>
+        <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&c2=19747654&cv=2.0&cj=1" />
+        </noscript>
+		<link href="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/css/default.css" rel="stylesheet" type="text/css" />
+		<link href="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/css/jquery.jscrollpane.css" rel="stylesheet" type="text/css" />
+		<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/js/jquery-1.6.1.min.js"></script>
+		<script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src='http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/js/jquery.jscrollpane.js'></script>
+		<script>
+			function tabProduct(nameTab) {
+			      $('.' + nameTab + ' a').click(function() {
+			          var $this = $(this);
+			          var id = $this.attr("rel");
+			          $('.' + nameTab).parent().removeClass('mtd-act');
+			          $('.' + nameTab).parent().addClass('mtd-nor');
+			          $('.' + id).children().removeClass('mtd-nor');
+			          $('.' + id).children().addClass('mtd-act');
+			          $('.tbl').css('display', 'none');
+			          $('#' + id).css('display', 'block');
+				jQuery('.scroll_box').jScrollPane({ showArrows: true });// scroll rate table
+			      });
+
+			  }
+			$(function() {
+			tabProduct('mmid');
+			jQuery('.scroll_box').jScrollPane({ showArrows: true });// scroll rate table
+			});
+		</script>
+	</head>
+	<body>
+		<div id="wrap">
+			<div class="block_top_header">
+				<div id="trai">
+					<a href="http://vnexpress.net"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/vne-logo.gif" /></a>
+				</div>
+				<div class="ctn right">
+					<div class="ctnr-left">
+						Dữ liệu tổng hợp bởi:
+					</div>
+					<div class="ctnr-right">
+						<a href="https://www.vndirect.com.vn/portal/home.shtml" rel="nofollow" target="_blank"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/vndirect.gif" /></a>
+					</div>
+				</div>
+			</div>
+			<div id="header">
+				<div class="header-top">
+					<div class="menu">
+                        <div class="top100 first">
+                            <div class="mtd-nor">
+                                <div class="mmid"><a href="/su-kien/top-rich-2015/top100" class="top100">Top 100 người giàu<!--<img class="article_live" src="http://st.f1.vnecdn.net/responsive/i/v41/icons/live.gif" alt="photo icon" style="padding-left:4px;">--></a></div>
+                            </div>
+                        </div>
+                        <div class="top500">
+                            <div class="mtd-nor">
+                                <div class="mmid"><a href="/su-kien/top-rich-2015/top500" class="top500">Top 500 người giàu</a></div>
+                            </div>
+                        </div>
+                        <div class="top50">
+                            <div class="mtd-nor">
+                                <div class="mmid"><a href="/su-kien/top-rich-2015/top50" class="top50">Top 50 phụ nữ</a></div>
+                            </div>
+                        </div>
+                        <div class="top30">
+                            <div class="mtd-act">
+                                <div class="mmid"><a href="/su-kien/top-rich-2015/top30" class="top30">Top 30 gia đình</a></div>
+                            </div>
+                        </div>
+						<!--<div class="topu30">
+							<div class="mtd-nor">
+                                <div class="mmid"><a href="/su-kien/top-rich-2015/topu30" class="topu30">Top U30</a></div>
+                            </div>
+						</div>-->
+					</div>
+					<div id="right" class="top_social">
+						<div class="social right">
+							<a href="javascript:void(0);" class="fb_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/img_fb.png" /></a>
+							<a href="javascript:void(0);" class="tw_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/img_fb_tweet.png" /></a>
+							<a href="javascript:void(0);" class="g_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/img_google.png" /></a>
+						</div>
+						</br>
+						        				<span class="tm">Cập nhật: 31/12/2015</span>
+                        					</div>
+				</div>
+			</div>
+			<div id="content">
+				<div class="ct-tbl">
+					<div class="ct-mid">
+						<table id="top100" class="tbl" cellpadding="0" cellspacing="0" style="display:block;">
+							<tr>
+								<td>
+									<table class="tbl-title" cellpadding="0" cellspacing="0">
+										<tr id="sort_top">
+                                            <td width="10%" rowspan="1">
+                                                Vị trí
+                                            </td>
+                                            <td class="sort_top_child" data-sort="fullname" width="14%" rowspan="2">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=fullname&value=asc">Họ và tên</a>
+                                                                                            </td>
+                                            <td width="18%"  colspan="2">
+                                                Tài sản của VIP<br>
+                                                <span style="font-weight:normal; font-size:11px;">(Tỷ đồng)</span>
+                                            </td>
+                                            <td class="sort_top_child" data-sort="birthday" width="5%" rowspan="2">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=birthday&value=asc">Năm sinh</a>
+                                                                                            </td>
+                                            <td class="sort_top_child" data-sort="education" width="8%" rowspan="2">
+                                                                                                                                                        <a href="/su-kien/top-rich-2015/top30/?sort=education&value=asc">Số thành viên</a>
+                                                                                                                                                </td>
+                                            <td class="sort_top_child" data-sort="address" width="7%" rowspan="2">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=address&value=asc">Cư trú</a>
+                                                                                            </td>
+                                            <td colspan="4">
+                                                Doanh nghiệp
+                                            </td>
+                                        </tr>
+                                        <tr id="sort_bottom">
+                                            <td data-sort="level_present" width="9%" class="size12">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=level_present&value=desc">2015</a>
+                                                                                            </td>
+    										<td data-sort="property_present" width="9%" class="size12">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=property_present&value=asc">2015<span style="font-weight:normal; font-size:11px;">*</span></a>
+                                                                                            </td>
+                                            <td data-sort="property_ago" width="9%" class="size12">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=property_ago&value=asc">2014<span style="font-weight:normal; font-size:11px;">**</span></span></i></a>
+                                                                                            </td>
+                                            <td data-sort="company_name" class="size12">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=company_name&value=asc">Tên công ty</a>
+                                                                                            </td>
+                                            <td data-sort="stock_symboy" width="8%" class="size12">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=stock_symboy&value=asc">Mã CK</a>
+                                                                                            </td>
+                                            <td data-sort="sector" width="11%" class="size12">
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=sector&value=asc">Ngành nghề</a>
+                                                                                            </td>
+                                            <td data-sort="p_e" width="7%" class="tbl-tlast size12" >
+                                                                                                <a href="/su-kien/top-rich-2015/top30/?sort=p_e&value=asc">P/E</a>
+                                                                                            </td>
+                                        </tr>
+									</table>
+								</td>
+							</tr>
+							<tr valign="top">
+								<td>
+									<div class="scroll_box">
+										<table  class="tbl-ct" cellpadding="0px" cellspacing="1px">
+											<tbody>
+												                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2">
+                                                        1&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        1                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/pham-nhat-vuong-3338"><b>Phạm Nhật Vượng</b></a><br/>Chủ tịch HĐQT VIC</td>
+                                                    <td class="td8">31.965,121</td>
+                                                    <td class="td9">26.521,489</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">5</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn VinGroup</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/vic.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">VIC</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản</td>
+                                                    <td class="td7">2,3</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2">
+                                                        2&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        2                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/tran-dinh-long-3534"><b>Trần Đình Long</b></a><br/>Chủ tịch HĐQT HPG</td>
+                                                    <td class="td8">6.953,978</td>
+                                                    <td class="td9">8.060,691</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">3</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hpg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HPG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Thép</td>
+                                                    <td class="td7">1,0</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2">
+                                                        3&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        3                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/doan-nguyen-duc-5317"><b>Đoàn Nguyên Đức</b></a><br/>Chủ tịch HĐQT HNG - Chủ tịch HĐQT HAG</td>
+                                                    <td class="td8">3.696,143</td>
+                                                    <td class="td9">7.743,805</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">9</td>
+                                                    <td class="td12">Gia Lai</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Hoàng Anh Gia Lai</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hag.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HAG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản</td>
+                                                    <td class="td7">0,5</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 uplv">
+                                                        4&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        6                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-duy-hung-697"><b>Nguyễn Duy Hưng</b></a><br/>Chủ tịch HĐQT PAN - Tổng giám đốc SSI - Chủ tịch HĐQT SSI</td>
+                                                    <td class="td8">2.444,579</td>
+                                                    <td class="td9">2.522,077</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">4</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">CTCK Sài Gòn<br />
+Công ty Thực phẩm Sao Ta<br />
+Công ty Xuyên Thái Bình<br />
+Công ty Viglacera Đông Anh</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/ssi.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">SSI</a><br /><a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/
+fmc.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">
+FMC</a><br /><a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/
+pan.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">
+PAN</a><br /><a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/
+dac.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">
+DAC</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Dịch vụ đầu tư<br />
+Nông sản và thủy hải sản<br />
+Dịch vụ tiêu dùng chuyên dụng<br />
+Nguyên vật liệu xây dựng & Thiết bị lắp đặt</td>
+                                                    <td class="td7">1,4</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 uplv">
+                                                        5&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        8                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-dang-quang-6506"><b>Nguyễn Đăng Quang</b></a><br/>Chủ tịch HĐQT MSN - Chủ tịch HĐQT MSR - Tổng giám đốc MSN</td>
+                                                    <td class="td8">2.032,708</td>
+                                                    <td class="td9">2.176,965</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">2</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Ma San</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/msn.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">MSN</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Thực phẩm</td>
+                                                    <td class="td7">3,0</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 uplv">
+                                                        6&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        10                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-duc-tai-24266"><b>Nguyễn Đức Tài</b></a><br/>Tổng giám đốc MWG - Chủ tịch HĐQT MWG</td>
+                                                    <td class="td8">1.889,129</td>
+                                                    <td class="td9">1.947,247</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">4</td>
+                                                    <td class="td12"></td>
+                                                    <td class="td4" style="text-align:left;">Công ty đầu tư thế giới di động</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/mwg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">MWG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Cửa hàng chuyên dụng</td>
+                                                    <td class="td7">4,4</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2">
+                                                        7&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        7                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/dang-thanh-tam-1386"><b>Đặng Thành Tâm</b></a><br/>Chủ tịch HĐQT KBC - Chủ tịch HĐQT SGT</td>
+                                                    <td class="td8">1.806,295</td>
+                                                    <td class="td9">2.193,219</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">8</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Đầu tư và Công nghiệp Tân Tạo<br />
+Tổng Công ty Phát triển Đô thị Kinh Bắc<br />
+Công ty Công nghệ Viễn thông Sài Gòn</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/ita.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">ITA</a><br /><a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/
+kbc.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">
+KBC</a><br /><a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/
+sgt.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">
+SGT</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản<br />
+Đầu tư và phát triển bất động sản<br />
+Phần mềm</td>
+                                                    <td class="td7">0,5</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 uplv">
+                                                        8&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        12                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-van-dat-8790"><b>Nguyễn Văn Đạt</b></a><br/>Chủ tịch HĐQT PDR - Tổng giám đốc PDR</td>
+                                                    <td class="td8">1.774,784</td>
+                                                    <td class="td9">1.626,100</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">3</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Phát triển Bất động sản Phát Đạt</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/pdr.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">PDR</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản</td>
+                                                    <td class="td7">0,8</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2">
+                                                        9&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        9                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/le-phuoc-vu-5261"><b>Lê Phước Vũ</b></a><br/>Chủ tịch HĐQT HSG</td>
+                                                    <td class="td8">1.701,525</td>
+                                                    <td class="td9">1.962,565</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">2</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Hoa Sen</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hsg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HSG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Thép</td>
+                                                    <td class="td7">1,2</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 uplv">
+                                                        10&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        16                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/truong-gia-binh-1422"><b>Trương Gia Bình</b></a><br/>Chủ tịch HĐQT FPT</td>
+                                                    <td class="td8">1.685,468</td>
+                                                    <td class="td9">1.161,680</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">3</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Công ty FPT</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/fpt.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">FPT</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Dịch vụ máy tính</td>
+                                                    <td class="td7">1,8</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2">
+                                                        11&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                                                                            </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/tram-khai-hoa-16851"><b>Trầm Khải Hòa</b></a><br/>Ủy viên HĐQT STB</td>
+                                                    <td class="td8">1.560,290</td>
+                                                    <td class="td9">1.563,858</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">5</td>
+                                                    <td class="td12"></td>
+                                                    <td class="td4" style="text-align:left;">Ngân hàng Sài Gòn Thương Tín</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/stb.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">STB</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Ngân hàng</td>
+                                                    <td class="td7">0,9</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 uplv">
+                                                        12&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        15                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/tran-hung-huy-788"><b>Trần Hùng Huy</b></a><br/>Chủ tịch HĐQT ACB</td>
+                                                    <td class="td8">1.551,344</td>
+                                                    <td class="td9">1.206,601</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">5</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Ngân hàng Á Châu</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/acb.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">ACB</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Ngân hàng</td>
+                                                    <td class="td7">1,5</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 uplv">
+                                                        13&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        14                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/tran-le-quan-24269"><b>Trần Lê Quân</b></a><br/>Ủy viên HĐQT MWG</td>
+                                                    <td class="td8">1.395,716</td>
+                                                    <td class="td9">1.550,401</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">2</td>
+                                                    <td class="td12"></td>
+                                                    <td class="td4" style="text-align:left;">Công ty đầu tư thế giới di động</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/mwg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">MWG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Cửa hàng chuyên dụng</td>
+                                                    <td class="td7">4,4</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        14&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        11                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/truong-thi-le-khanh-3828"><b>Trương Thị Lệ Khanh</b></a><br/>Tổng giám đốc VHC - Chủ tịch HĐQT VHC</td>
+                                                    <td class="td8">1.331,639</td>
+                                                    <td class="td9">1.728,225</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">3</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Vĩnh Hoàn</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/vhc.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">VHC</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Nông sản và thủy hải sản</td>
+                                                    <td class="td7">1,4</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        15&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        5                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/tran-kim-thanh-125"><b>Trần Kim Thành</b></a><br/>Phó Chủ tịch HĐQT TLG - Chủ tịch HĐQT KDC</td>
+                                                    <td class="td8">1.222,029</td>
+                                                    <td class="td9">2.564,380</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">7</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Kido</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/kdc.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">KDC</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Thực phẩm</td>
+                                                    <td class="td7">1,0</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 uplv">
+                                                        16&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        27                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/do-huu-ha-15890"><b>Đỗ Hữu Hạ</b></a><br/>Chủ tịch HĐQT HHS</td>
+                                                    <td class="td8">1.104,864</td>
+                                                    <td class="td9">476,869</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">7</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Đầu tư - Dịch vụ Hoàng Huy</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hhs.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HHS</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Ôtô</td>
+                                                    <td class="td7">0,7</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 uplv">
+                                                        17&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        29                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/dao-huu-huyen-24583"><b>Đào Hữu Huyền</b></a><br/>Chủ tịch HĐQT DGC - Người CBTT DGC - Chủ tịch HĐQT DGL - Tổng giám đốc DGC</td>
+                                                    <td class="td8">1.074,090</td>
+                                                    <td class="td9">428,361</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">6</td>
+                                                    <td class="td12"></td>
+                                                    <td class="td4" style="text-align:left;">Công ty Bột giặt và Hóa chất Đức Giang<br />
+Công ty Hóa Chất Đức Giang - Lào Cai</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/dgc.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">DGC</a><br /><a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/
+dgl.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">
+DGL</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Hóa chất thông thường<br />
+Hóa chất đặc biệt</td>
+                                                    <td class="td7">1,7</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        18&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        17                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/trinh-van-quyet-12670"><b>Trịnh Văn Quyết</b></a><br/>Chủ tịch HĐQT FLC</td>
+                                                    <td class="td8">972,422</td>
+                                                    <td class="td9">890,997</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">1</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn FLC</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/flc.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">FLC</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản</td>
+                                                    <td class="td7">0,6</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        19&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        18                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-thi-mai-thanh-253"><b>Nguyễn Thị Mai Thanh</b></a><br/>Chủ tịch HĐQT REE - Tổng giám đốc REE - Phó Chủ tịch HĐQT SGR</td>
+                                                    <td class="td8">950,045</td>
+                                                    <td class="td9">888,295</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">4</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Cơ điện lạnh</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/ree.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">REE</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Máy công nghiệp</td>
+                                                    <td class="td7">1,1</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2">
+                                                        20&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                                                                            </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/duong-ngoc-minh-6598"><b>Dương Ngọc Minh</b></a><br/>Tổng giám đốc HVG - Chủ tịch HĐQT HVG - Phó Chủ tịch HĐQT AGF</td>
+                                                    <td class="td8">949,087</td>
+                                                    <td class="td9">1.350,313</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">1</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Hùng Vương</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hvg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HVG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Nông sản và thủy hải sản</td>
+                                                    <td class="td7">0,8</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 uplv">
+                                                        21&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        23                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-thi-nhu-loan-5549"><b>Nguyễn Thị Như Loan</b></a><br/>Tổng giám đốc QCG - Chủ tịch HĐQT QCG</td>
+                                                    <td class="td8">773,115</td>
+                                                    <td class="td9">596,524</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">5</td>
+                                                    <td class="td12">Gia Lai</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Quốc Cường Gia Lai</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/qcg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">QCG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản</td>
+                                                    <td class="td7">0,4</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 uplv">
+                                                        22&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        71                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/le-thanh-thuan-7055"><b>Lê Thanh Thuấn</b></a><br/>Chủ tịch HĐQT ASM - Tổng giám đốc ASM - Ủy viên HĐQT DAT - Chủ tịch HĐQT IDI</td>
+                                                    <td class="td8">756,555</td>
+                                                    <td class="td9">104,634</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">10</td>
+                                                    <td class="td12">An Giang</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Sao Mai<br />
+Công ty Đầu Tư Du lịch và Phát triển Thủy Sản</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/asm.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">ASM</a><br /><a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/
+dat.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">
+DAT</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản<br />
+Các ngành công nghiệp khác</td>
+                                                    <td class="td7">0,7</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2">
+                                                        23&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                                                                            </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/bui-quang-ngoc-1424"><b>Bùi Quang Ngọc</b></a><br/>Tổng giám đốc FPT - Phó Chủ tịch HĐQT FPT</td>
+                                                    <td class="td8">714,069</td>
+                                                    <td class="td9">490,728</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">1</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Công ty FPT</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/fpt.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">FPT</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Dịch vụ máy tính</td>
+                                                    <td class="td7">1,8</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        24&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        20                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-trong-thong-7158"><b>Nguyễn Trọng Thông</b></a><br/>Người CBTT HDG - Tổng giám đốc HDG - Chủ tịch HĐQT HDG</td>
+                                                    <td class="td8">703,057</td>
+                                                    <td class="td9">789,819</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">2</td>
+                                                    <td class="td12"></td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Hà Đô</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hdg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HDG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản</td>
+                                                    <td class="td7">1,5</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 uplv">
+                                                        25&nbsp;<img class="img_up" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/up.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        31                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-xuan-quang-18615"><b>Nguyễn Xuân Quang</b></a><br/>Chủ tịch HĐQT NLG</td>
+                                                    <td class="td8">650,918</td>
+                                                    <td class="td9">424,041</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">3</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Đầu tư Nam Long</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/nlg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">NLG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đầu tư và phát triển bất động sản</td>
+                                                    <td class="td7">1,4</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        26&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        21                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/dang-phuoc-thanh-4897"><b>Đặng Phước Thành</b></a><br/>Chủ tịch HĐQT VNS</td>
+                                                    <td class="td8">628,864</td>
+                                                    <td class="td9">770,656</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">5</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Ánh Dương Việt Nam</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/vns.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">VNS</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Du lịch</td>
+                                                    <td class="td7">1,2</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2">
+                                                        27&nbsp;<span></span>                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                                                                            </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/puan-kwong-siing-23925"><b>Puan Kwong Siing</b></a><br/>Ủy viên HĐQT SKG - Tổng giám đốc SKG</td>
+                                                    <td class="td8">614,537</td>
+                                                    <td class="td9">197,796</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">3</td>
+                                                    <td class="td12"></td>
+                                                    <td class="td4" style="text-align:left;">Công ty Tàu cao tốc Superdong – Kiên Giang</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/skg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">SKG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Vận tải biển</td>
+                                                    <td class="td7">4,1</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        28&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        22                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/nguyen-manh-tuan-3537"><b>Nguyễn Mạnh Tuấn</b></a><br/>Phó Chủ tịch HĐQT HPG</td>
+                                                    <td class="td8">593,885</td>
+                                                    <td class="td9">713,055</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">4</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hpg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HPG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Thép</td>
+                                                    <td class="td7">1,0</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        29&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        26                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/cao-thi-ngoc-dung-5504"><b>Cao Thị Ngọc Dung</b></a><br/>Chủ tịch HĐQT PNJ - Tổng giám đốc PNJ</td>
+                                                    <td class="td8">591,546</td>
+                                                    <td class="td9">550,180</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">10</td>
+                                                    <td class="td12">TP HCM</td>
+                                                    <td class="td4" style="text-align:left;">Công ty Vàng bạc đá quý Phú Nhuận</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/pnj.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">PNJ</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Đồ may mặc, trang sức, phụ kiện</td>
+                                                    <td class="td7">3,1</td>
+                                                </tr>
+                                                                                                <tr class="bg_tr1">
+                                                                                                        <td class="td1_2 dowlv">
+                                                        30&nbsp;<img class="img_down" src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/down.gif">                                                    </td>
+                                                    <!--<td class="td1_2" style="width: 40px;">
+                                                        19                                                    </td>-->
+                                                    <td class="td3" style="text-align:left;"><a href="/su-kien/top-rich-2015/top30/tran-tuan-duong-3535"><b>Trần Tuấn Dương</b></a><br/>Tổng giám đốc HPG - Phó Chủ tịch HĐQT HPG</td>
+                                                    <td class="td8">576,354</td>
+                                                    <td class="td9">844,018</td>
+                                                    <td class="td10"></td>
+                                                    <td class="td11">3</td>
+                                                    <td class="td12">Hà Nội</td>
+                                                    <td class="td4" style="text-align:left;">Tập đoàn Hòa Phát</td>
+                                                    <td class="td5">
+                                                        <a target="_blank" rel="nofollow" href="https://www.vndirect.com.vn/portal/tong-quan/hpg.shtml?utm_source=vnexpress&utm_medium=link&utm_campaign=toprich">HPG</a>                                                    </td>
+                                                    <td class="td6" style="text-align:left;">Thép</td>
+                                                    <td class="td7">1,0</td>
+                                                </tr>
+                                                											</tbody>
+										</table>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+				<div class="ct-note">
+					<div class="left-note">
+						<p>- Nguồn dữ liệu: Cáo bạch và thông tin của doanh nghiệp niêm yết tại hai Sở Giao dịch Chứng khoán Hà Nội và TP HCM</p>
+						<p>- (*) : Tổng giá trị cổ phiếu nắm giữ tính theo giá đóng cửa phiên giao dịch tại ngày cập nhật.</p>
+						<p>- (**): Tổng giá trị cổ phiếu nắm giữ tính theo giá đóng cửa phiên giao dịch 31/12/2014</p>
+					</div>
+				</div>
+				<div id="mocthoi-gian">
+					<h2>Người giàu trên sàn chứng khoán Việt Nam</h2>
+					<ul>
+                                                <li><a href="/su-kien/top-rich-2014/">2014</a></li>
+                                                <li><a href="/su-kien/top-rich-2013/">2013</a></li>
+                                                    					<li><a href="/customize/chung-khoan/top/2012/top100/">2012</a></li>
+                            					<li><a href="/customize/chung-khoan/top/2011/top100/">2011</a></li>
+                            					<li><a href="/customize/chung-khoan/top/2010/top100/">2010</a></li>
+                            					<li><a href="/customize/chung-khoan/top/2009/top100/">2009</a></li>
+                            					<li><a href="/customize/chung-khoan/top/2008/top100/">2008</a></li>
+                            					<li><a href="/customize/chung-khoan/top/2007/top100/">2007</a></li>
+                            					<li><a href="/customize/chung-khoan/top/2006/top100/">2006</a></li>
+                            				</ul>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="left left_footer">
+					<div class="logo_footer">
+						<a><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/vne-logo.gif" /></a>
+					</div>
+					<p><b>&copy;&nbsp;Copyright 1997 VnExpress.net,</b> All right reserved.</p>
+				<p>&reg;&nbsp;VnExpress giữ bản quyền nội dung trang này.</p>
+				</div>
+				<div class="social right right_footer">
+					<a href="javascript:void(0);" class="fb_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/img_fb.png" /></a>
+					<a href="javascript:void(0);" class="tw_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/img_fb_tweet.png" /></a>
+					<a href="javascript:void(0);" class="g_share"><img src="http://st.f2.vnecdn.net/responsive/j/v16/event/toprich/2016/images/bg/img_google.png" /></a>
+				</div>
+			</div>
+		</div>
+        <script type="text/javascript">
+    $('.fb_share').click(function(){
+        var data_url = "http://vnexpress.net/su-kien/top-rich-2015/top30";
+        var linkFB = "https://www.facebook.com/sharer/sharer.php?u=" + data_url;
+        window.open(linkFB,'_blank','height=450,width=700,resizable=no,status=no');
+        return false;
+    });
+    $('.tw_share').click(function(){
+        var data_url = "http://vnexpress.net/su-kien/top-rich-2015/top30";
+        var linkTw = "https://twitter.com/intent/tweet?source=webclient&text=Top 30 gia đình giàu nhất trên sàn chứng khoán 2015 - VnExpress http://vnexpress.net/su-kien/top-rich-2015/top30";
+        window.open(linkTw,'_blank','height=450,width=700,resizable=no,status=no');
+        return false;
+    });
+    $('.g_share').click(function(){
+        var data_url = "http://vnexpress.net/su-kien/top-rich-2015/top30";
+        var linkTw = "https://plus.google.com/share?url=" + data_url;
+        window.open(linkTw,'_blank','height=450,width=700,resizable=no,status=no');
+        return false;
+    });
+    $(document).ready(function(){
+        $('#sort_bottom td a, #sort_top .sort_top_child a').each(function(key, val){
+            var col = $(this).parent().attr('data-sort');
+            if(col == 'education' || col == 'birthday')
+            {
+                $(this).append('<br /><span class="sxep '+col+'"></span>');
+            }
+            else
+            {
+                $(this).append('<span class="sxep '+col+'"></span>');
+            }
+        });
+        var sort =  '.level_present';
+                var sort_value =    'sortdow';
+                $(sort).addClass(sort_value);
+    });
+    </script>
+	</body>
+</html>

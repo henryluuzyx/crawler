@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đưa bằng chứng Hoàng Sa, Trường Sa của VN tới Phú Quốc - PLO
+</title><meta name="keywords" content="Trường Sa,Hoàng Sa,khai phá,bộ tư lệnh,quần đảo hoàng sa,trưng bày,Phú Quốc,thực thi,biển Đông,Kiên Giang,chứng minh,thông tấn xã việt nam,bảo vệ,việt nam" /><meta name="description" content="Chiều 17-3, Bộ TT&amp;TT phối hợp với Bộ Tư lệnh Vùng Cảnh sát biển 4 tổ chức triển lãm bản đồ và trưng bày tư liệu “Hoàng Sa, Trường Sa của Việt Nam - Những bằ..." />
+<link rel="canonical" href="http://www.baomoi.com/dua-bang-chung-hoang-sa-truong-sa-cua-vn-toi-phu-quoc/c/21793033.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793033" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793033" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/thoi-su/dua-bang-chung-hoang-sa-truong-sa-cua-vn-toi-phu-quoc-689528.html");
+else
+window.location.replace("http://www.baomoi.com/dua-bang-chung-hoang-sa-truong-sa-cua-vn-toi-phu-quoc/c/21793033.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

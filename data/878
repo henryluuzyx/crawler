@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cuộc đua vô địch Europa League:Nhận diện đối thủ của MU - PLO
+</title><meta name="keywords" content="Anderlecht,Europa League,Besiktas,ajax,schalke,lyon,Celta Vigo,Manchester United,lượt về,Bỉ,thi đấu,Schalke 04,champions league,José Mourinho,châu âu,thổ nhĩ kỳ,old trafford,tây ban nha,hà lan,Anh,Đức" /><meta name="description" content="HLV Jose Mourinho của CLB Manchester United có thể mỉm cười với kết quả bốc thăm vòng tứ kết Europa League." />
+<link rel="canonical" href="http://www.baomoi.com/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/c/21792562.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792562" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792562" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/the-thao/bong-da/cuoc-dua-vo-dich-europa-leaguenhan-dien-doi-thu-cua-mu-689485.html");
+else
+window.location.replace("http://www.baomoi.com/cuoc-dua-vo-dich-europa-league-nhan-dien-doi-thu-cua-mu/c/21792562.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

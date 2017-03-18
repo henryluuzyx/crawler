@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khán giả Nghệ An chào đón Công Phượng trở về - Zing
+</title><meta name="keywords" content="Sông Lam Nghệ An,Nghệ An,Hoàng Anh Gia Lai,sân Vinh,thi đấu,Công Phượng,Văn Thắng,Văn Toàn,V.League 2017,đường pitch,Đô Lương,Nguyễn Quốc Tuấn,Tuấn Anh,trưởng thành,đào tạo" /><meta name="description" content="Khá đông khán giả Nghệ An tới sân Vinh theo dõi buổi tập của đội khách trước trận đấu SLNA vs HAGL lúc 16h30 hôm nay (18/3)." />
+<link rel="canonical" href="http://www.baomoi.com/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/c/21792225.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792225" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792225" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve-post729345.html");
+else
+window.location.replace("http://www.baomoi.com/khan-gia-nghe-an-chao-don-cong-phuong-tro-ve/c/21792225.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thổ Nhĩ Kỳ bác bỏ yêu cầu thả nhà báo của Đức - Tin Tức TTXVN
+</title><meta name="keywords" content="Deniz Yücel,Đức Heiko Maas,Tư pháp Thổ Nhĩ Kỳ,DIE WELT,Bekir Bozdag,Chính phủ Thổ Nhĩ Kỳ,Tayyip Erdogan,thổ nhĩ kỳ,tuần hành,tổng thống Thổ Nhĩ Kỳ,berlin,kích động,Đức,xúc phạm,cải cách,cáo buộc,khủng bố,reuters" /><meta name="description" content="Ngày 17/3, Bộ trưởng Tư pháp Thổ Nhĩ Kỳ Bekir Bozdag cho biết người đồng cấp phía Đức Heiko Maas đã yêu cầu phía Thổ Nhĩ Kỳ trả tự do cho nhà báo Deniz Yüce..." />
+<link rel="canonical" href="http://www.baomoi.com/tho-nhi-ky-bac-bo-yeu-cau-tha-nha-bao-cua-duc/c/21793261.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793261" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793261" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/the-gioi/tho-nhi-ky-bac-bo-yeu-cau-tha-nha-bao-cua-duc-20170318072139186.htm");
+else
+window.location.replace("http://www.baomoi.com/tho-nhi-ky-bac-bo-yeu-cau-tha-nha-bao-cua-duc/c/21793261.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

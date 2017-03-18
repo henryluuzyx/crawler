@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhật Bản điều chiến hạm khủng đến Biển Đông - Infonet
+</title><meta name="keywords" content="Hải quân Ấn Độ,Vịnh Subic,Sri Lanka,biển Đông,tàu chiến,Biển Hoa Đông,Nhật Bản,tập trận,philippines,indonesia,Singapore,tranh chấp,Philippines Duterte,reuters,bắc kinh,Trung Quốc,quan ngại,tuần tra,biểu dương,Mỹ,washington" /><meta name="description" content="Tuy không trực tiếp có tranh chấp tại Biển Đông, song trước áp lực ngày càng gia tăng của Trung Quốc tại vùng biển này, Nhật đã có cuộc biểu dương lực lượng..." />
+<link rel="canonical" href="http://www.baomoi.com/nhat-ban-dieu-chien-ham-khung-den-bien-dong/c/21761853.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21761853" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21761853" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://infonet.vn/nhat-ban-dieu-chien-ham-khung-den-bien-dong-post223011.info");
+else
+window.location.replace("http://www.baomoi.com/nhat-ban-dieu-chien-ham-khung-den-bien-dong/c/21761853.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

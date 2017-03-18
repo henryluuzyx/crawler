@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những mẫu xe hatchback giá 600 triệu dành cho phụ nữ Việt - KH&PT
+</title><meta name="keywords" content="Ford Fiesta,Kia Rio,hatch-back,toyota yaris,mazda2,EcoBoost 1.0L,xilanh,vô lăng,trang bị động cơ,Radio AM/FM,toyota,Ford SYNC,i20 Active,hộp số tự động,Hyundai i20 Active,sedan,Mazda Connect,ford,màn hình tinh thể lỏng,bluetooth,châu âu" /><meta name="description" content="Với kích thước nhỏ gọn, tiện dụng và mức giá chỉ trên dưới 600 triệu, những mẫu hatchback hạng B là lựa chọn phù hợp cho phụ nữ Việt." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-mau-xe-hatchback-gia-600-trieu-danh-cho-phu-nu-viet/c/21792691.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792691" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792691" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/cong-nghe/nhung-mau-xe-hatchback-gia-600-trieu-danh-cho-phu-nu-viet/20170317114011612p1c859.htm");
+else
+window.location.replace("http://www.baomoi.com/nhung-mau-xe-hatchback-gia-600-trieu-danh-cho-phu-nu-viet/c/21792691.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

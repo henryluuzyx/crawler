@@ -1,0 +1,2505 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head><title>
+Tin tức về tình hình chứng khoán - BAOMOI.COM
+</title><meta name="keywords" content="chứng khoán, thị trường chứng khoán, chứng khoán trong nước, chứng khoán thế giới, niêm yết, giao dịch, nhận định" /><meta name="description" content="Thông tin thị trường chứng khoán, niêm yết, giao dịch, ý kiến nhận định của các chuyên gia" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="content-language" content="vi" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="author" content="BAOMOI.COM" /><meta name="msvalidate.01" content="94801D71438B64887D4670AB4661921E" /><meta name="robots" content="index,follow" /><meta name="googlebot" content="index,follow,noarchive" />
+<script type="text/javascript">
+function mobileDetect() { var e = /android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i.test(navigator.userAgent.toLowerCase()); if (e) if (window.location.hash && "bm_web" === window.location.hash.replace("#", "")) { var o = new Date; o.setTime(o.getTime() + 864e5); var i = "; expires=" + o.toGMTString(); document.cookie = "bm_web=1" + i + "; path=/" } else { for (var n = null, t = "bm_web=", a = document.cookie.split(";"), l = 0; l < a.length; l++) { for (var r = a[l]; " " === r.charAt(0) ;) r = r.substring(1, r.length); if (0 === r.indexOf(t)) { n = r.substring(t.length, r.length); break } } (null === n || "1" !== n) && (window.location = window.location.href.replace("www.baomoi.com", "m.baomoi.com")) } } mobileDetect();
+</script>
+<meta name="apple-itunes-app" content="app-id=651979466" /><meta name="google-play-app" content="app-id=com.epi" /><meta name="apple-mobile-web-app-title" content="Báo Mới" /><meta name="application-name" content="Báo Mới" /><meta name="msapplication-TileColor" content="#ffc40d" /><meta name="msapplication-TileImage" content="http://s.baomoi.xdn.vn/favicons/mstile-144x144.png" /><meta name="msapplication-config" content="http://s.baomoi.xdn.vn/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+<link rel="canonical" href="http://www.baomoi.com/chung-khoan.epi" />
+<link rel="alternate" href="http://www.baomoi.com/chung-khoan.epi" hreflang="x-default" />
+<link rel="alternate" media="handheld" href="http://m.baomoi.com/chung-khoan.epi" />
+<link href="https://plus.google.com/118052067613632439662" rel="publisher" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="http://s.baomoi.xdn.vn/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://s.baomoi.xdn.vn/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="http://s.baomoi.xdn.vn/favicons/manifest.json" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" href="http://s.baomoi.xdn.vn/web/styles/css/baomoi-dist_17021714.css">
+<style>
+#site-header {
+z-index: 9999999 !important;
+</style>
+<meta property="fb:app_id" content="128990640458592" />
+<meta property="og:site_name" content="BAOMOI.COM" />
+<meta property="og:rich_attachment" content="true" />
+<meta property="article:publisher" content="https://www.facebook.com/Baomoi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://s.baomoi.xdn.vn/web/styles/img/facebook-thumb.png" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="292" />
+<meta property="og:url" content="http://www.baomoi.com/chung-khoan.epi" />
+<meta property="og:title" content="Chứng khoán" />
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "Chứng khoán",
+"alternateName" : "Thông tin thị trường chứng khoán, niêm yết, giao dịch, ý kiến nhận định của các chuyên gia",
+"url" : "http://www.baomoi.com/chung-khoan.epi"
+}
+</script>
+<link rel="alternate" href="http://www.baomoi.com/chung-khoan.rss" type="application/rss+xml" title="RSS" />
+<script type="text/javascript">
+var cate_id = 127;
+var cate_path = "chung-khoan";</script>
+<script type="text/javascript" src="http://s.baomoi.xdn.vn/web/js/plugins/modernizr/modernizr-2.8.3.min.js"></script>
+<script>
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-309591-61', 'auto');
+ga('send', 'pageview', { 'page': window.location.pathname + window.location.search + window.location.hash });
+</script>
+<script>
+var _zap = _zap || [];
+_zap.push(["_setAccount", "ZA-43057452940626"]);
+(function (e, t, n, r, a, o, c) {
+e[a + "_q"] = e[a + "_q"] || [], e[a] = e[a] || {}; var s = ["trackPageview", "trackEvent", "getVisitorID"];
+for (i in s) e[a][s[i]] = function (t) { return function () { e[a + "_q"].push([t, arguments]) } }(s[i]);
+o = t.createElement(n), c = t.getElementsByTagName(n)[0], o.async = 1, o.src = r + "?" + Math.floor((new Date).getTime() / 86400000), c.parentNode.insertBefore(o, c)
+})(window, document, "script", "http://stc.za.zaloapp.com/v3/za.js", "ZA");
+</script>
+</head>
+<body>
+<header id="site-header">
+<div class="header-wrap">
+<a href="/" class="logo" title="Báo Mới"></a>
+<div class="hdr-content nocontent robots-nocontent">
+<p class="top-keywords" data-track="topkeywords"></p>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm">
+<button><i class="spr spr-search"></i></button>
+</form>
+<div class="login">
+<div id="profile"></div>
+<a id="social-login" href="javascript:;" data-animation="none" data-animationspeed="0" data-reveal-id="login-modal">Đăng nhập</a>
+<a class="go-mobile" href="javascript:;" data-target-host="http://m.baomoi.com">Phiên bản Mobile</a>
+</div>
+<div class="button-area" >
+<a href="/tin-nong.epi" class="hot" data-track="btn-tin-nong"><i class="spr spr-hot"></i><span>Tin nóng</span></a>
+<a href="/tin-moi.epi" class="news" data-track="btn-tin-moi"><i class="spr spr-news"></i><span>Tin mới</span></a>
+<a href="javascript:;" class="personal recommend" data-track="btn-de-xuat"><i class="spr spr-personal"></i><span>Đề xuất</span></a>
+</div>
+</div>
+</div>
+<nav class="navigation">
+<div class="header-wrap">
+<ul>
+<li class="parent home">
+<a href="/"><i class="spr spr-home"></i></a>
+</li>
+<li class="parent">
+<a href="/xa-hoi.epi" data-id="121">Xã hội</a>
+<ul class="child">
+<li>
+<a href="/thoi-su.epi" data-id="144">Thời sự</a>
+</li>
+<li>
+<a href="/giao-thong.epi" data-id="4">Giao thông</a>
+</li>
+<li>
+<a href="/moi-truong-khi-hau.epi" data-id="3">Môi trường - Khí hậu</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-gioi.epi" data-id="119">Thế giới</a>
+</li>
+<li class="parent">
+<a href="/van-hoa.epi" data-id="54">Văn hóa</a>
+<ul class="child">
+<li>
+<a href="/nghe-thuat.epi" data-id="15">Nghệ thuật</a>
+</li>
+<li>
+<a href="/am-thuc.epi" data-id="84">Ẩm thực</a>
+</li>
+<li>
+<a href="/du-lich.epi" data-id="137">Du lịch</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/kinh-te.epi" data-id="45">Kinh tế</a>
+<ul class="child">
+<li>
+<a href="/kinh-doanh.epi" data-id="7">Kinh doanh</a>
+</li>
+<li>
+<a href="/lao-dong-viec-lam.epi" data-id="47">Lao động - Việc làm</a>
+</li>
+<li>
+<a href="/tai-chinh.epi" data-id="126">Tài chính</a>
+</li>
+<li>
+<a href="/chung-khoan.epi" data-id="127">Chứng khoán</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giao-duc.epi" data-id="59">Giáo dục</a>
+<ul class="child">
+<li>
+<a href="/hoc-bong-du-hoc.epi" data-id="107">Học bổng - Du học</a>
+</li>
+<li>
+<a href="/dao-tao-thi-cu.epi" data-id="108">Đào tạo - Thi cử</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/the-thao.epi" data-id="55">Thể thao</a>
+<ul class="child">
+<li>
+<a href="/bong-da.epi" data-id="87">Bóng đá</a>
+</li>
+<li>
+<a href="/quan-vot.epi" data-id="88">Quần vợt</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/giai-tri.epi" data-id="52">Giải trí</a>
+<ul class="child">
+<li>
+<a href="/am-nhac.epi" data-id="71">Âm nhạc</a>
+</li>
+<li>
+<a href="/thoi-trang.epi" data-id="72">Thời trang</a>
+</li>
+<li>
+<a href="/dien-anh-truyen-hinh.epi" data-id="132">Điện ảnh - Truyền hình</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/phap-luat.epi" data-id="58">Pháp luật</a>
+<ul class="child">
+<li>
+<a href="/hinh-su-dan-su.epi" data-id="104">Hình sự - Dân sự</a>
+</li>
+<li>
+<a href="/an-ninh-trat-tu.epi" data-id="141">An ninh - Trật tự</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/khoa-hoc-cong-nghe.epi" data-id="53">Khoa học - Công nghệ </a>
+<ul class="child">
+<li>
+<a href="/cntt-vien-thong.epi" data-id="76">CNTT - Viễn thông</a>
+</li>
+<li>
+<a href="/khoa-hoc-tu-nhien.epi" data-id="79">Khoa học - Tự nhiên</a>
+</li>
+<li>
+<a href="/thiet-bi-phan-cung.epi" data-id="136">Thiết bị - Phần cứng</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/doi-song.epi" data-id="33">Đời sống</a>
+<ul class="child">
+<li>
+<a href="/dinh-duong-lam-dep.epi" data-id="138">Dinh dưỡng - Làm đẹp</a>
+</li>
+<li>
+<a href="/tinh-yeu-hon-nhan.epi" data-id="139">Tình yêu - Hôn nhân</a>
+</li>
+<li>
+<a href="/suc-khoe-y-te.epi" data-id="82">Sức khỏe - Y tế</a>
+</li>
+</ul>
+</li>
+<li class="parent">
+<a href="/xe-co.epi" data-id="145">Xe cộ</a>
+</li>
+<li class="parent">
+<a href="/nha-dat.epi" data-id="147">Nhà đất</a>
+<ul class="child">
+<li>
+<a href="/quan-ly-quy-hoach.epi" data-id="148">Quản lý - Quy hoạch</a>
+</li>
+<li>
+<a href="/khong-gian-kien-truc.epi" data-id="150">Không gian - Kiến trúc</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="width:980px;height:90px;overflow:hidden" id="BaoMoi_Top"></div>
+<div class="site-wrap ">
+<section class="main category-page">
+<section class="hot-news">
+<div class="focus" data-track="|hotnews">
+<div class="main">
+<article data-aid="21793304" class="feature">
+<figure>
+<a target="_blank" href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/r/21793304.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w626/17/03/18/190/21793304/2_30493.jpg" alt="Giá dầu tăng nhẹ sau khi lao dốc 10%" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/r/21793304.epi" title="Giá dầu tăng nhẹ sau khi lao dốc 10%">Giá dầu tăng nhẹ sau khi lao dốc 10%</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-18T07:59:00+07:00"></time>
+<span>
+<a href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/c/21793304.epi" title="Giá dầu tăng nhẹ sau khi lao dốc 10%" class="spr spr-cache cache">Giá dầu tăng nhẹ sau khi lao dốc 10%</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793062" >
+<figure>
+<a target="_blank" href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/r/21793062.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/105/21793062/3_104571.jpg" alt="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/r/21793062.epi" title="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng">Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:30:00+07:00"></time>
+<span>
+<a href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/c/21793062.epi" title="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng" class="spr spr-cache cache">Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792982" >
+<figure>
+<a target="_blank" href="/the-gioi-co-329-3-trieu-ten-mien-internet-da-duoc-dang-ki/r/21792982.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/94/21792982/2_40814.jpg" alt="Thế giới có 329,3 triệu tên miền Internet đã được đăng kí" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/the-gioi-co-329-3-trieu-ten-mien-internet-da-duoc-dang-ki/r/21792982.epi" title="Thế giới có 329,3 triệu tên miền Internet đã được đăng kí">Thế giới có 329,3 triệu tên miền Internet đã được đăng kí</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/the-gioi-co-329-3-trieu-ten-mien-internet-da-duoc-dang-ki/c/21792982.epi" title="Thế giới có 329,3 triệu tên miền Internet đã được đăng kí" class="spr spr-cache cache">Thế giới có 329,3 triệu tên miền Internet đã được đăng kí</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792110" >
+<figure>
+<a target="_blank" href="/sacombank-nhieu-cau-hoi-sau-khi-mien-nhiem-ong-tran-be/r/21792110.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/3/21792110/1_270350.jpeg" alt="Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/sacombank-nhieu-cau-hoi-sau-khi-mien-nhiem-ong-tran-be/r/21792110.epi" title="Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê">Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T23:16:00+07:00"></time>
+<span>
+<a href="/sacombank-nhieu-cau-hoi-sau-khi-mien-nhiem-ong-tran-be/c/21792110.epi" title="Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê" class="spr spr-cache cache">Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790887" >
+<figure>
+<a target="_blank" href="/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san/r/21790887.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/286/21790887/1_196939.jpg" alt="Đại gia thủy sản Seaprodex lao vào bất động sản" />
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san/r/21790887.epi" title="Đại gia thủy sản Seaprodex lao vào bất động sản">Đại gia thủy sản Seaprodex lao vào bất động sản</a></h2>
+<p class="meta">
+<a href="/ngaynay.vn-tap-chi-ngay-nay-ngay-nay/p/325.epi">Ngày Nay</a>
+<span>
+<a href="/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san/c/21790887.epi" title="Đại gia thủy sản Seaprodex lao vào bất động sản" class="spr spr-cache cache">Đại gia thủy sản Seaprodex lao vào bất động sản</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</div>
+<div class="more-article" data-track="|news">
+<article data-aid="21791591">
+<header>
+<h2><a target="_blank" href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/r/21791591.epi" title="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc">
+Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc
+</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T21:09:00+07:00"></time>
+<span>
+<a href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/c/21791591.epi" title="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc" class="spr spr-cache cache">Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790473">
+<header>
+<h2><a target="_blank" href="/dien-bien-co-phieu-can-quan-tam-tuan-qua/r/21790473.epi" title="Diễn biến cổ phiếu cần quan tâm tuần qua">
+Diễn biến cổ phiếu cần quan tâm tuần qua
+</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T18:03:00+07:00"></time>
+<span>
+<a href="/dien-bien-co-phieu-can-quan-tam-tuan-qua/c/21790473.epi" title="Diễn biến cổ phiếu cần quan tâm tuần qua" class="spr spr-cache cache">Diễn biến cổ phiếu cần quan tâm tuần qua</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790512">
+<header>
+<h2><a target="_blank" href="/blog-chung-khoan-tien-qua-khung/r/21790512.epi" title="Blog chứng khoán: Tiền quá khủng">
+Blog chứng khoán: Tiền quá khủng
+</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-17T17:53:00+07:00"></time>
+<span>
+<a href="/blog-chung-khoan-tien-qua-khung/c/21790512.epi" title="Blog chứng khoán: Tiền quá khủng" class="spr spr-cache cache">Blog chứng khoán: Tiền quá khủng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790232">
+<header>
+<h2><a target="_blank" href="/cong-ty-chuyen-to-chuc-dam-ma-o-hai-phong-thu-ve-gan-100-ty-dong/r/21790232.epi" title="Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng">
+Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng
+</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-17T17:14:00+07:00"></time>
+<span>
+<a href="/cong-ty-chuyen-to-chuc-dam-ma-o-hai-phong-thu-ve-gan-100-ty-dong/c/21790232.epi" title="Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng" class="spr spr-cache cache">Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789940">
+<header>
+<h2><a target="_blank" href="/hnf-neo-gia-cao-nha-dau-tu-thap-thom-cho-khop-lenh/r/21789940.epi" title="HNF &#39;neo&#39; giá cao, nhà đầu tư &#39;thấp thỏm&#39; chờ khớp lệnh">
+HNF 'neo' giá cao, nhà đầu tư 'thấp thỏm' chờ khớp lệnh
+</a></h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-17T16:36:00+07:00"></time>
+<span>
+<a href="/hnf-neo-gia-cao-nha-dau-tu-thap-thom-cho-khop-lenh/c/21789940.epi" title="HNF &#39;neo&#39; giá cao, nhà đầu tư &#39;thấp thỏm&#39; chờ khớp lệnh" class="spr spr-cache cache">HNF 'neo' giá cao, nhà đầu tư 'thấp thỏm' chờ khớp lệnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789841">
+<header>
+<h2><a target="_blank" href="/giao-dich-6-166-ty-dong-vn-index-van-dao-chieu-ve-moc-710/r/21789841.epi" title="Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710">
+Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710
+</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-17T16:31:00+07:00"></time>
+<span>
+<a href="/giao-dich-6-166-ty-dong-vn-index-van-dao-chieu-ve-moc-710/c/21789841.epi" title="Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710" class="spr spr-cache cache">Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789735">
+<header>
+<h2><a target="_blank" href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/r/21789735.epi" title="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng">
+Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng
+</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T16:19:00+07:00"></time>
+<span>
+<a href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/c/21789735.epi" title="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng" class="spr spr-cache cache">Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789531">
+<header>
+<h2><a target="_blank" href="/mat-loi-the-nguyen-lieu-ong-thep-viet-duc-chung-lai/r/21789531.epi" title="Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại">
+Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại
+</a></h2>
+<p class="meta">
+<a href="/baodautu.vn-bao-dau-tu-dau-tu/p/72.epi">Đầu Tư</a>
+<time class="friendly" datetime="2017-03-17T15:51:00+07:00"></time>
+<span>
+<a href="/mat-loi-the-nguyen-lieu-ong-thep-viet-duc-chung-lai/c/21789531.epi" title="Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại" class="spr spr-cache cache">Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21789655">
+<header>
+<h2><a target="_blank" href="/thoai-von-khoi-vinamilk-sabeco-habeco-phai-lam-tu-tu-khong-gay-xao-tron/r/21789655.epi" title="Thoái vốn khỏi Vinamilk, Sabeco, Habeco: Phải làm từ từ, không gây xáo trộn">
+Thoái vốn khỏi Vinamilk, Sabeco, Habeco: Phải làm từ từ, không gây xáo trộn
+</a></h2>
+<p class="meta">
+<a href="/baodauthau.vn-bao-dau-thau-dau-thau/p/327.epi">Đấu Thầu</a>
+<time class="friendly" datetime="2017-03-17T15:49:00+07:00"></time>
+<span>
+<a href="/thoai-von-khoi-vinamilk-sabeco-habeco-phai-lam-tu-tu-khong-gay-xao-tron/c/21789655.epi" title="Thoái vốn khỏi Vinamilk, Sabeco, Habeco: Phải làm từ từ, không gây xáo trộn" class="spr spr-cache cache">Thoái vốn khỏi Vinamilk, Sabeco, Habeco: Phải làm từ từ, không gây xáo trộn</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<script>
+var arr_baomoiprchungkhoannoibat = [
+];;
+if (arr_baomoiprchungkhoannoibat.length > 0) {
+var slots_baomoiprchungkhoannoibat = new Array;
+var prefix = "pr_baomoiprchungkhoannoibat_";
+for (var i = 1; i <= 10; i++) {
+var id = prefix + i;
+var obj = document.getElementById(id);
+if (obj == null) break;
+else slots_baomoiprchungkhoannoibat.push(obj);
+}
+var total = 100.0;
+var dist_baomoiprchungkhoannoibat = [];
+for (var index = 0; index < slots_baomoiprchungkhoannoibat.length; index++) {
+var t = Math.floor(Math.random() * total);
+var n = 0;
+for (var i = 0; i < arr_baomoiprchungkhoannoibat.length; i++) {
+n += arr_baomoiprchungkhoannoibat[i].share;
+if (n >= t) {
+total -= arr_baomoiprchungkhoannoibat[i].share;
+dist_baomoiprchungkhoannoibat.push(arr_baomoiprchungkhoannoibat[i].value);
+arr_baomoiprchungkhoannoibat.splice(i, 1);
+break;
+}
+}
+}
+for (var index = 0; index < Math.min(dist_baomoiprchungkhoannoibat.length, slots_baomoiprchungkhoannoibat.length) ; index++)
+slots_baomoiprchungkhoannoibat[index].outerHTML = dist_baomoiprchungkhoannoibat[index];
+}
+</script>
+<div class="cat-content">
+<section class="content-list" data-track="|contentlist">
+<header>
+<h1 class="title">Chứng khoán</h1>
+</header>
+<article data-aid="21793304" >
+<figure>
+<a target="_blank" href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/r/21793304.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/18/190/21793304/2_30493.jpg" alt="Giá dầu tăng nhẹ sau khi lao dốc 10%">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/r/21793304.epi" title="Giá dầu tăng nhẹ sau khi lao dốc 10%">Giá dầu tăng nhẹ sau khi lao dốc 10%</a>
+</h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-18T07:59:00+07:00"></time>
+<span>
+<a href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/c/21793304.epi" title="Giá dầu tăng nhẹ sau khi lao dốc 10%" class="spr spr-cache cache">Giá dầu tăng nhẹ sau khi lao dốc 10%</a>
+</span>
+</p>
+<p class="summary">
+Chốt phiên cuối cùng của tuần, giá dầu tăng nhẹ sau khi giảm mạnh tới 10% vào tuần trước.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_0" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_0" class="related-list collapse">
+<a href="/tin-lien-quan/t/1389895.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21786234">
+<figure>
+<a target="_blank" href="/co-phieu-chung-khoan-van-nong-hai-san-tang-diem/r/21786234.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/190/21786234/1_216401.png" alt="Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-chung-khoan-van-nong-hai-san-tang-diem/r/21786234.epi" title="Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm">Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T09:57:00+07:00"></time>
+<span>
+<a href="/co-phieu-chung-khoan-van-nong-hai-san-tang-diem/c/21786234.epi" title="Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm" class="spr spr-cache cache">Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21785668">
+<figure>
+<a target="_blank" href="/noi-lo-ton-kho-cao-tai-my-tiep-tuc-keo-lui-gia-dau/r/21785668.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/176/21785668/1_103460.jpg" alt="Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-lo-ton-kho-cao-tai-my-tiep-tuc-keo-lui-gia-dau/r/21785668.epi" title="Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu">Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu</a></h2>
+<p class="meta">
+<a href="/nhipcaudautu.vn-tap-chi-nhip-cau-dau-tu-ncdt/p/203.epi">NCĐT</a>
+<time class="friendly" datetime="2017-03-17T08:43:00+07:00"></time>
+<span>
+<a href="/noi-lo-ton-kho-cao-tai-my-tiep-tuc-keo-lui-gia-dau/c/21785668.epi" title="Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu" class="spr spr-cache cache">Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21777792">
+<figure>
+<a target="_blank" href="/gia-cao-su-ky-han-tai-tokyo-ngay-16-3-giam-do-dong-yen-tang-manh/r/21777792.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/16/278/21777792/2_29689.jpeg" alt="Giá cao su kỳ hạn tại Tokyo ngày 16/3 giảm do đồng yên tăng mạnh"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-cao-su-ky-han-tai-tokyo-ngay-16-3-giam-do-dong-yen-tang-manh/r/21777792.epi" title="Giá cao su kỳ hạn tại Tokyo ngày 16/3 giảm do đồng yên tăng mạnh">Giá cao su kỳ hạn tại Tokyo ngày 16/3 giảm do đồng yên tăng mạnh</a></h2>
+<p class="meta">
+<a href="/vinanet.vn-vinanet/p/312.epi">Vinanet</a>
+<time class="friendly" datetime="2017-03-16T10:26:00+07:00"></time>
+<span>
+<a href="/gia-cao-su-ky-han-tai-tokyo-ngay-16-3-giam-do-dong-yen-tang-manh/c/21777792.epi" title="Giá cao su kỳ hạn tại Tokyo ngày 16/3 giảm do đồng yên tăng mạnh" class="spr spr-cache cache">Giá cao su kỳ hạn tại Tokyo ngày 16/3 giảm do đồng yên tăng mạnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21777422">
+<figure>
+<a target="_blank" href="/tt-dau-tg-ngay-16-3-gia-tiep-tuc-tang-sau-khi-ton-kho-cua-my-giam/r/21777422.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/278/21777422/2_14226.jpeg" alt="TT dầu TG ngày 16/3: Giá tiếp tục tăng sau khi tồn kho của Mỹ giảm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tt-dau-tg-ngay-16-3-gia-tiep-tuc-tang-sau-khi-ton-kho-cua-my-giam/r/21777422.epi" title="TT dầu TG ngày 16/3: Giá tiếp tục tăng sau khi tồn kho của Mỹ giảm">TT dầu TG ngày 16/3: Giá tiếp tục tăng sau khi tồn kho của Mỹ giảm</a></h2>
+<p class="meta">
+<a href="/vinanet.vn-vinanet/p/312.epi">Vinanet</a>
+<time class="friendly" datetime="2017-03-16T10:01:00+07:00"></time>
+<span>
+<a href="/tt-dau-tg-ngay-16-3-gia-tiep-tuc-tang-sau-khi-ton-kho-cua-my-giam/c/21777422.epi" title="TT dầu TG ngày 16/3: Giá tiếp tục tăng sau khi tồn kho của Mỹ giảm" class="spr spr-cache cache">TT dầu TG ngày 16/3: Giá tiếp tục tăng sau khi tồn kho của Mỹ giảm</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21793062" >
+<figure>
+<a target="_blank" href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/r/21793062.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/18/105/21793062/3_104571.jpg" alt="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/r/21793062.epi" title="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng">Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng</a>
+</h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:30:00+07:00"></time>
+<span>
+<a href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/c/21793062.epi" title="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng" class="spr spr-cache cache">Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng</a>
+</span>
+</p>
+<p class="summary">
+Bất chấp việc bị khối ngoại bán ròng mạnh trong phiên, hai cổ phiếu HNG và HAG của Bầu Đức vẫn tiếp tục tăng điểm, hiện tại đang giao dịch quanh mệnh giá.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_1" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_1" class="related-list collapse">
+<a href="/tin-lien-quan/t/2103972.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21789533">
+<figure>
+<a target="_blank" href="/phien-chieu-17-3-ros-va-nvl-bi-ep-trong-phien-gom-hang-cua-etfs/r/21789533.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/35/21789533/2_29614.jpg" alt="Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/phien-chieu-17-3-ros-va-nvl-bi-ep-trong-phien-gom-hang-cua-etfs/r/21789533.epi" title="Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs">Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T15:59:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/phien-chieu-17-3-ros-va-nvl-bi-ep-trong-phien-gom-hang-cua-etfs/c/21789533.epi" title="Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs" class="spr spr-cache cache">Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21781123">
+<figure>
+<a target="_blank" href="/phien-chieu-16-3-hag-hng-but-pha-ros-de-vn-index/r/21781123.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/35/21781123/2_76282.jpg" alt="Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/phien-chieu-16-3-hag-hng-but-pha-ros-de-vn-index/r/21781123.epi" title="Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index">Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-16T16:16:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/phien-chieu-16-3-hag-hng-but-pha-ros-de-vn-index/c/21781123.epi" title="Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index" class="spr spr-cache cache">Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21792982" >
+<figure>
+<a target="_blank" href="/the-gioi-co-329-3-trieu-ten-mien-internet-da-duoc-dang-ki/r/21792982.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/18/94/21792982/2_40814.jpg" alt="Thế giới có 329,3 triệu tên miền Internet đã được đăng kí">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/the-gioi-co-329-3-trieu-ten-mien-internet-da-duoc-dang-ki/r/21792982.epi" title="Thế giới có 329,3 triệu tên miền Internet đã được đăng kí">Thế giới có 329,3 triệu tên miền Internet đã được đăng kí</a>
+</h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/the-gioi-co-329-3-trieu-ten-mien-internet-da-duoc-dang-ki/c/21792982.epi" title="Thế giới có 329,3 triệu tên miền Internet đã được đăng kí" class="spr spr-cache cache">Thế giới có 329,3 triệu tên miền Internet đã được đăng kí</a>
+</span>
+</p>
+<p class="summary">
+Tính đến hết quý IV/2016, đã có gần 329,3 triệu tên miền Internet được đăng ký trên toàn thế giới.
+</p>
+</header>
+</article>
+<article data-aid="21792110" >
+<figure>
+<a target="_blank" href="/sacombank-nhieu-cau-hoi-sau-khi-mien-nhiem-ong-tran-be/r/21792110.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/3/21792110/1_270350.jpeg" alt="Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/sacombank-nhieu-cau-hoi-sau-khi-mien-nhiem-ong-tran-be/r/21792110.epi" title="Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê">Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê</a>
+</h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-17T23:16:00+07:00"></time>
+<span>
+<a href="/sacombank-nhieu-cau-hoi-sau-khi-mien-nhiem-ong-tran-be/c/21792110.epi" title="Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê" class="spr spr-cache cache">Sacombank: Nhiều câu hỏi sau khi miễn nhiệm ông Trần Bê</a>
+</span>
+</p>
+<p class="summary">
+Sau 2 năm trì hoãn, Sacombank (HOSE: STB) vừa thông báo sẽ tổ chức Đại hội đồng cổ đông thường niên vào ngày 28.4.2017 sắp tới. Nội dung chi tiết của Đại hội vẫn chưa được tiết lộ,...
+</p>
+</header>
+</article>
+<article data-aid="21791591" >
+<figure>
+<a target="_blank" href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/r/21791591.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/256/21791591/3_65275.jpg" alt="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/r/21791591.epi" title="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc">Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T21:09:00+07:00"></time>
+<span>
+<a href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/c/21791591.epi" title="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc" class="spr spr-cache cache">Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc</a>
+</span>
+</p>
+<p class="summary">
+Phiên Review ETF, cổ phiếu ROS được khối ngoại mua ròng hơn 3,1 triệu cổ phiếu, trong đó, họ thỏa thuận 2,7 triệu cổ phiếu ROS ở mức giá sàn tương ứng giá trị giao dịch đạt hơn 430...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_4" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_4" class="related-list collapse">
+<a href="/tin-lien-quan/t/2100521.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21789979">
+<figure>
+<a target="_blank" href="/phien-17-3-review-etf-khoi-ngoai-bo-ra-500-ty-dong-de-mua-hon-3-trieu-co-phieu-ros/r/21789979.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/256/21789979/2_40993.png" alt="Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/phien-17-3-review-etf-khoi-ngoai-bo-ra-500-ty-dong-de-mua-hon-3-trieu-co-phieu-ros/r/21789979.epi" title="Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS">Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T16:40:53+07:00"></time>
+<span>
+<a href="/phien-17-3-review-etf-khoi-ngoai-bo-ra-500-ty-dong-de-mua-hon-3-trieu-co-phieu-ros/c/21789979.epi" title="Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS" class="spr spr-cache cache">Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788131">
+<figure>
+<a target="_blank" href="/kis-loi-nhuan-doanh-nghiep-niem-yet-co-the-tang-9-trong-nam-2017/r/21788131.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/256/21788131/6_106597.jpg" alt="KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/kis-loi-nhuan-doanh-nghiep-niem-yet-co-the-tang-9-trong-nam-2017/r/21788131.epi" title="KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017">KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T13:28:14+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/kis-loi-nhuan-doanh-nghiep-niem-yet-co-the-tang-9-trong-nam-2017/c/21788131.epi" title="KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017" class="spr spr-cache cache">KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790887" >
+<figure>
+<a target="_blank" href="/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san/r/21790887.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/286/21790887/1_196939.jpg" alt="Đại gia thủy sản Seaprodex lao vào bất động sản">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san/r/21790887.epi" title="Đại gia thủy sản Seaprodex lao vào bất động sản">Đại gia thủy sản Seaprodex lao vào bất động sản</a>
+</h2>
+<p class="meta">
+<a href="/ngaynay.vn-tap-chi-ngay-nay-ngay-nay/p/325.epi">Ngày Nay</a>
+<time class="friendly" datetime="2017-03-17T19:11:47+07:00"></time>
+<span>
+<a href="/dai-gia-thuy-san-seaprodex-lao-vao-bat-dong-san/c/21790887.epi" title="Đại gia thủy sản Seaprodex lao vào bất động sản" class="spr spr-cache cache">Đại gia thủy sản Seaprodex lao vào bất động sản</a>
+</span>
+</p>
+<p class="summary">
+“Ông hoàng thủy sản Sài Gòn” cách đây hơn chục năm đang tích cực lấn sân vào lĩnh vực bất động sản sau chuỗi ngày mảng kinh doanh truyền thống ngập trong thua lỗ.
+</p>
+</header>
+</article>
+<article data-aid="21790473" >
+<figure>
+<a target="_blank" href="/dien-bien-co-phieu-can-quan-tam-tuan-qua/r/21790473.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/35/21790473/2_371042.jpg" alt="Diễn biến cổ phiếu cần quan tâm tuần qua">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/dien-bien-co-phieu-can-quan-tam-tuan-qua/r/21790473.epi" title="Diễn biến cổ phiếu cần quan tâm tuần qua">Diễn biến cổ phiếu cần quan tâm tuần qua</a>
+</h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T18:03:00+07:00"></time>
+<span>
+<a href="/dien-bien-co-phieu-can-quan-tam-tuan-qua/c/21790473.epi" title="Diễn biến cổ phiếu cần quan tâm tuần qua" class="spr spr-cache cache">Diễn biến cổ phiếu cần quan tâm tuần qua</a>
+</span>
+</p>
+<p class="summary">
+Trái với những tuần gần đây, các nhận định của công ty chứng khoán đều khá chuẩn xác khi hầu hết các cổ phiếu được khuyến nghị mua vào đều tăng giá, ngoại trừ các cổ phiếu họ P....
+</p>
+</header>
+</article>
+<article data-aid="21790474" >
+<figure>
+<a target="_blank" href="/su-kien-chung-khoan-dang-chu-y-ngay-18-3/r/21790474.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/35/21790474/2_285539.jpg" alt="Sự kiện chứng khoán đáng chú ý ngày 18/3">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/su-kien-chung-khoan-dang-chu-y-ngay-18-3/r/21790474.epi" title="Sự kiện chứng khoán đáng chú ý ngày 18/3">Sự kiện chứng khoán đáng chú ý ngày 18/3</a>
+</h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T18:02:00+07:00"></time>
+<span>
+<a href="/su-kien-chung-khoan-dang-chu-y-ngay-18-3/c/21790474.epi" title="Sự kiện chứng khoán đáng chú ý ngày 18/3" class="spr spr-cache cache">Sự kiện chứng khoán đáng chú ý ngày 18/3</a>
+</span>
+</p>
+<p class="summary">
+Thông tin lịch sự kiện chứng khoán đáng chú ý ngày 18/3 về các doanh nghiệp trên thị trường chứng khoán.
+</p>
+</header>
+</article>
+<article data-aid="21790512" >
+<figure>
+<a target="_blank" href="/blog-chung-khoan-tien-qua-khung/r/21790512.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/21/21790512/1_86867.jpg" alt="Blog chứng khoán: Tiền quá khủng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/blog-chung-khoan-tien-qua-khung/r/21790512.epi" title="Blog chứng khoán: Tiền quá khủng">Blog chứng khoán: Tiền quá khủng</a>
+</h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-17T17:53:00+07:00"></time>
+<span>
+<a href="/blog-chung-khoan-tien-qua-khung/c/21790512.epi" title="Blog chứng khoán: Tiền quá khủng" class="spr spr-cache cache">Blog chứng khoán: Tiền quá khủng</a>
+</span>
+</p>
+<p class="summary">
+Các phiên chốt review luôn có thanh khoản cực cao, nhưng lần này có điểm khác là trước đó, dòng tiền trong thị trường đã rất lớn...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_8" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_8" class="related-list collapse">
+<a href="/tin-lien-quan/t/2026811.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21786869">
+<figure>
+<a target="_blank" href="/phien-sang-17-3-dong-bank-giu-nhip-tang-cho-thi-truong/r/21786869.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/35/21786869/3_244920.jpg" alt="Phiên sáng 17/3: Dòng bank giữ nhịp tăng cho thị trường"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/phien-sang-17-3-dong-bank-giu-nhip-tang-cho-thi-truong/r/21786869.epi" title="Phiên sáng 17/3: Dòng bank giữ nhịp tăng cho thị trường">Phiên sáng 17/3: Dòng bank giữ nhịp tăng cho thị trường</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T10:28:00+07:00"></time>
+<span>
+<a href="/phien-sang-17-3-dong-bank-giu-nhip-tang-cho-thi-truong/c/21786869.epi" title="Phiên sáng 17/3: Dòng bank giữ nhịp tăng cho thị trường" class="spr spr-cache cache">Phiên sáng 17/3: Dòng bank giữ nhịp tăng cho thị trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21772438">
+<figure>
+<a target="_blank" href="/blog-chung-khoan-cho-suc-bat-tam-ly/r/21772438.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/21/21772438/1_83272.jpg" alt="Blog chứng khoán: Chờ sức bật tâm lý"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/blog-chung-khoan-cho-suc-bat-tam-ly/r/21772438.epi" title="Blog chứng khoán: Chờ sức bật tâm lý">Blog chứng khoán: Chờ sức bật tâm lý</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-15T17:15:00+07:00"></time>
+<span>
+<a href="/blog-chung-khoan-cho-suc-bat-tam-ly/c/21772438.epi" title="Blog chứng khoán: Chờ sức bật tâm lý" class="spr spr-cache cache">Blog chứng khoán: Chờ sức bật tâm lý</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21763271">
+<figure>
+<a target="_blank" href="/blog-chung-khoan-ap-luc-ngan-han-van-con/r/21763271.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/21/21763271/1_75398.jpg" alt="Blog chứng khoán: Áp lực ngắn hạn vẫn còn"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/blog-chung-khoan-ap-luc-ngan-han-van-con/r/21763271.epi" title="Blog chứng khoán: Áp lực ngắn hạn vẫn còn">Blog chứng khoán: Áp lực ngắn hạn vẫn còn</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-14T17:21:00+07:00"></time>
+<span>
+<a href="/blog-chung-khoan-ap-luc-ngan-han-van-con/c/21763271.epi" title="Blog chứng khoán: Áp lực ngắn hạn vẫn còn" class="spr spr-cache cache">Blog chứng khoán: Áp lực ngắn hạn vẫn còn</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21763118">
+<figure>
+<a target="_blank" href="/chung-khoan-chieu-14-3-den-luot-sab-tang-vot/r/21763118.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/14/21/21763118/1_42805.jpg" alt="Chứng khoán chiều 14/3: Đến lượt SAB tăng vọt"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-khoan-chieu-14-3-den-luot-sab-tang-vot/r/21763118.epi" title="Chứng khoán chiều 14/3: Đến lượt SAB tăng vọt">Chứng khoán chiều 14/3: Đến lượt SAB tăng vọt</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-14T16:57:00+07:00"></time>
+<span>
+<a href="/chung-khoan-chieu-14-3-den-luot-sab-tang-vot/c/21763118.epi" title="Chứng khoán chiều 14/3: Đến lượt SAB tăng vọt" class="spr spr-cache cache">Chứng khoán chiều 14/3: Đến lượt SAB tăng vọt</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790465" >
+<figure>
+<a target="_blank" href="/nam-2017-cci-dat-ke-hoach-lai-rong-28-ty-dong-day-manh-ban-le-xang-dau/r/21790465.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/35/21790465/2_212605.jpg" alt="Năm 2017, CCI đặt kế hoạch lãi ròng 28 tỷ đồng, đẩy mạnh bán lẻ xăng dầu">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/nam-2017-cci-dat-ke-hoach-lai-rong-28-ty-dong-day-manh-ban-le-xang-dau/r/21790465.epi" title="Năm 2017, CCI đặt kế hoạch lãi ròng 28 tỷ đồng, đẩy mạnh bán lẻ xăng dầu">Năm 2017, CCI đặt kế hoạch lãi ròng 28 tỷ đồng, đẩy mạnh bán lẻ xăng dầu</a>
+</h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T17:41:00+07:00"></time>
+<span>
+<a href="/nam-2017-cci-dat-ke-hoach-lai-rong-28-ty-dong-day-manh-ban-le-xang-dau/c/21790465.epi" title="Năm 2017, CCI đặt kế hoạch lãi ròng 28 tỷ đồng, đẩy mạnh bán lẻ xăng dầu" class="spr spr-cache cache">Năm 2017, CCI đặt kế hoạch lãi ròng 28 tỷ đồng, đẩy mạnh bán lẻ xăng dầu</a>
+</span>
+</p>
+<p class="summary">
+Theo Báo cáo thường niên vừa công bố của CTCP Đầu tư Phát triển Công nghiệp Thương mại Củ Chi (CCI), năm 2017 công ty ước đạt 388 tỷ đồng doanh thu, tăng 25,7% so với năm 2016; lợi...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_9" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_9" class="related-list collapse">
+<a href="/tin-lien-quan/t/2030890.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21768399">
+<figure>
+<a target="_blank" href="/pvb-dat-ke-hoach-lo-gan-25-ty-dong-nam-2017/r/21768399.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/15/35/21768399/2_70636.jpg" alt="PVB đặt kế hoạch lỗ gần 25 tỷ đồng năm 2017"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/pvb-dat-ke-hoach-lo-gan-25-ty-dong-nam-2017/r/21768399.epi" title="PVB đặt kế hoạch lỗ gần 25 tỷ đồng năm 2017">PVB đặt kế hoạch lỗ gần 25 tỷ đồng năm 2017</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-15T09:40:00+07:00"></time>
+<span>
+<a href="/pvb-dat-ke-hoach-lo-gan-25-ty-dong-nam-2017/c/21768399.epi" title="PVB đặt kế hoạch lỗ gần 25 tỷ đồng năm 2017" class="spr spr-cache cache">PVB đặt kế hoạch lỗ gần 25 tỷ đồng năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21767673">
+<figure>
+<a target="_blank" href="/doanh-thu-vietlott-da-giam-sau-den-muc-dang-ngai/r/21767673.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/15/300/21767673/2_77764.jpg" alt="Doanh thu Vietlott đã giảm sâu đến mức đáng ngại?"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/doanh-thu-vietlott-da-giam-sau-den-muc-dang-ngai/r/21767673.epi" title="Doanh thu Vietlott đã giảm sâu đến mức đáng ngại?">Doanh thu Vietlott đã giảm sâu đến mức đáng ngại?</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-15T08:10:43+07:00"></time>
+<span>
+<a href="/doanh-thu-vietlott-da-giam-sau-den-muc-dang-ngai/c/21767673.epi" title="Doanh thu Vietlott đã giảm sâu đến mức đáng ngại?" class="spr spr-cache cache">Doanh thu Vietlott đã giảm sâu đến mức đáng ngại?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21751534">
+<figure>
+<a target="_blank" href="/dxg-dat-ke-hoach-lai-tang-30-nam-2017/r/21751534.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/13/190/21751534/1_15237.jpg" alt="DXG đặt kế hoạch lãi tăng 30% năm 2017"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dxg-dat-ke-hoach-lai-tang-30-nam-2017/r/21751534.epi" title="DXG đặt kế hoạch lãi tăng 30% năm 2017">DXG đặt kế hoạch lãi tăng 30% năm 2017</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-13T11:33:00+07:00"></time>
+<span>
+<a href="/dxg-dat-ke-hoach-lai-tang-30-nam-2017/c/21751534.epi" title="DXG đặt kế hoạch lãi tăng 30% năm 2017" class="spr spr-cache cache">DXG đặt kế hoạch lãi tăng 30% năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21751413">
+<figure>
+<a target="_blank" href="/dia-oc-dat-xanh-dat-ke-hoach-loi-nhuan-tang-30/r/21751413.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/13/176/21751413/1_177034.jpg" alt="Địa ốc Đất Xanh đặt kế hoạch lợi nhuận tăng 30%"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dia-oc-dat-xanh-dat-ke-hoach-loi-nhuan-tang-30/r/21751413.epi" title="Địa ốc Đất Xanh đặt kế hoạch lợi nhuận tăng 30%">Địa ốc Đất Xanh đặt kế hoạch lợi nhuận tăng 30%</a></h2>
+<p class="meta">
+<a href="/nhipcaudautu.vn-tap-chi-nhip-cau-dau-tu-ncdt/p/203.epi">NCĐT</a>
+<time class="friendly" datetime="2017-03-13T11:23:00+07:00"></time>
+<span>
+<a href="/dia-oc-dat-xanh-dat-ke-hoach-loi-nhuan-tang-30/c/21751413.epi" title="Địa ốc Đất Xanh đặt kế hoạch lợi nhuận tăng 30%" class="spr spr-cache cache">Địa ốc Đất Xanh đặt kế hoạch lợi nhuận tăng 30%</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790232" >
+<figure>
+<a target="_blank" href="/cong-ty-chuyen-to-chuc-dam-ma-o-hai-phong-thu-ve-gan-100-ty-dong/r/21790232.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/61/21790232/2_131903.jpg" alt="Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/cong-ty-chuyen-to-chuc-dam-ma-o-hai-phong-thu-ve-gan-100-ty-dong/r/21790232.epi" title="Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng">Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng</a>
+</h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-17T17:14:00+07:00"></time>
+<span>
+<a href="/cong-ty-chuyen-to-chuc-dam-ma-o-hai-phong-thu-ve-gan-100-ty-dong/c/21790232.epi" title="Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng" class="spr spr-cache cache">Công ty chuyên tổ chức đám ma ở Hải Phòng thu về gần 100 tỷ đồng</a>
+</span>
+</p>
+<p class="summary">
+CTCP Mai táng Hải Phòng chuyên tổ chức và cung cấp các dịch vụ mai táng có mức doanh thu lên tới 95,12 tỷ đồng năm 2016. Bên cạnh đó có rất nhiều thú vị liên quan tới công ty này.
+</p>
+</header>
+</article>
+<article data-aid="21790290" >
+<figure>
+<a target="_blank" href="/khoi-ngoai-ban-rong-hon-330-ty-dong-trong-phien-etfs-chot-so-ngay-17-3/r/21790290.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/35/21790290/2_80534.jpg" alt="Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/khoi-ngoai-ban-rong-hon-330-ty-dong-trong-phien-etfs-chot-so-ngay-17-3/r/21790290.epi" title="Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3">Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3</a>
+</h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T17:04:00+07:00"></time>
+<span>
+<a href="/khoi-ngoai-ban-rong-hon-330-ty-dong-trong-phien-etfs-chot-so-ngay-17-3/c/21790290.epi" title="Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3" class="spr spr-cache cache">Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3</a>
+</span>
+</p>
+<p class="summary">
+Cũng như quy luật trước đây, giao dịch nhà đầu tư nước ngoài đã tăng mạnh ngày các quỹ ETFs chốt sổ.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_11" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_11" class="related-list collapse">
+<a href="/tin-lien-quan/t/1893542.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21789877">
+<figure>
+<a target="_blank" href="/chung-khoan-chieu-17-3-ngay-ngat-voi-phien-atc/r/21789877.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/21/21789877/1_38957.jpg" alt="Chứng khoán chiều 17/3: Ngây ngất với phiên ATC"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-khoan-chieu-17-3-ngay-ngat-voi-phien-atc/r/21789877.epi" title="Chứng khoán chiều 17/3: Ngây ngất với phiên ATC">Chứng khoán chiều 17/3: Ngây ngất với phiên ATC</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-17T16:40:00+07:00"></time>
+<span>
+<a href="/chung-khoan-chieu-17-3-ngay-ngat-voi-phien-atc/c/21789877.epi" title="Chứng khoán chiều 17/3: Ngây ngất với phiên ATC" class="spr spr-cache cache">Chứng khoán chiều 17/3: Ngây ngất với phiên ATC</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21787979">
+<figure>
+<a target="_blank" href="/sau-khi-duoc-cap-margin-ros-da-vuot-170-000-dong-co-phieu/r/21787979.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/256/21787979/1_26017.png" alt="Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/sau-khi-duoc-cap-margin-ros-da-vuot-170-000-dong-co-phieu/r/21787979.epi" title="Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu">Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T12:52:00+07:00"></time>
+<span>
+<a href="/sau-khi-duoc-cap-margin-ros-da-vuot-170-000-dong-co-phieu/c/21787979.epi" title="Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu" class="spr spr-cache cache">Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21787768">
+<figure>
+<a target="_blank" href="/chung-khoan-sang-17-3-etf-xa-som/r/21787768.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/21/21787768/1_39002.jpg" alt="Chứng khoán sáng 17/3: ETF xả sớm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-khoan-sang-17-3-etf-xa-som/r/21787768.epi" title="Chứng khoán sáng 17/3: ETF xả sớm">Chứng khoán sáng 17/3: ETF xả sớm</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-17T12:15:00+07:00"></time>
+<span>
+<a href="/chung-khoan-sang-17-3-etf-xa-som/c/21787768.epi" title="Chứng khoán sáng 17/3: ETF xả sớm" class="spr spr-cache cache">Chứng khoán sáng 17/3: ETF xả sớm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21782534">
+<figure>
+<a target="_blank" href="/thi-truong-hoi-phuc/r/21782534.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/28/21782534/2_10930.jpg" alt="Thị trường hồi phục"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thi-truong-hoi-phuc/r/21782534.epi" title="Thị trường hồi phục">Thị trường hồi phục</a></h2>
+<p class="meta">
+<a href="/www.thesaigontimes.vn-thoi-bao-kinh-te-sai-gon-saigon-times/p/112.epi">Saigon Times</a>
+<time class="friendly" datetime="2017-03-16T18:45:00+07:00"></time>
+<span>
+<a href="/thi-truong-hoi-phuc/c/21782534.epi" title="Thị trường hồi phục" class="spr spr-cache cache">Thị trường hồi phục</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790087" >
+<figure>
+<a target="_blank" href="/qbs-sau-kiem-toan-lai-sau-thue-bay-hoi-35/r/21790087.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/256/21790087/2_30954.jpg" alt="QBS: Sau kiểm toán, lãi sau thuế bay hơi 35%">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/qbs-sau-kiem-toan-lai-sau-thue-bay-hoi-35/r/21790087.epi" title="QBS: Sau kiểm toán, lãi sau thuế bay hơi 35%">QBS: Sau kiểm toán, lãi sau thuế bay hơi 35%</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T16:49:02+07:00"></time>
+<span>
+<a href="/qbs-sau-kiem-toan-lai-sau-thue-bay-hoi-35/c/21790087.epi" title="QBS: Sau kiểm toán, lãi sau thuế bay hơi 35%" class="spr spr-cache cache">QBS: Sau kiểm toán, lãi sau thuế bay hơi 35%</a>
+</span>
+</p>
+<p class="summary">
+Sau kiểm toán, lãi sau thuế CTCP Xuất nhập khẩu Quảng Bình (mã QBS) đã giảm từ gần 20,8 tỷ đồng xuống hơn 13,5 tỷ đồng, tương đương với mức giảm 35%.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_12" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_12" class="related-list collapse">
+<a href="/tin-lien-quan/t/2020207.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21761688">
+<figure>
+<a target="_blank" href="/soi-the-ky-trinh-ke-hoach-lai-sau-thue-la-87-1-ty-dong-tang-205/r/21761688.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/14/256/21761688/2_117195.jpg" alt="Sợi Thế Kỷ trình kế hoạch lãi sau thuế là 87,1 tỷ đồng, tăng 205%"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/soi-the-ky-trinh-ke-hoach-lai-sau-thue-la-87-1-ty-dong-tang-205/r/21761688.epi" title="Sợi Thế Kỷ trình kế hoạch lãi sau thuế là 87,1 tỷ đồng, tăng 205%">Sợi Thế Kỷ trình kế hoạch lãi sau thuế là 87,1 tỷ đồng, tăng 205%</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-14T14:37:10+07:00"></time>
+<span>
+<a href="/soi-the-ky-trinh-ke-hoach-lai-sau-thue-la-87-1-ty-dong-tang-205/c/21761688.epi" title="Sợi Thế Kỷ trình kế hoạch lãi sau thuế là 87,1 tỷ đồng, tăng 205%" class="spr spr-cache cache">Sợi Thế Kỷ trình kế hoạch lãi sau thuế là 87,1 tỷ đồng, tăng 205%</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21754679">
+<figure>
+<a target="_blank" href="/fit-pyn-elite-fund-ban-tiep-1-5-trieu-co-phieu/r/21754679.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/13/256/21754679/1_35466.png" alt="FIT: Pyn Elite Fund bán tiếp 1,5 triệu cổ phiếu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/fit-pyn-elite-fund-ban-tiep-1-5-trieu-co-phieu/r/21754679.epi" title="FIT: Pyn Elite Fund bán tiếp 1,5 triệu cổ phiếu">FIT: Pyn Elite Fund bán tiếp 1,5 triệu cổ phiếu</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-13T17:28:57+07:00"></time>
+<span>
+<a href="/fit-pyn-elite-fund-ban-tiep-1-5-trieu-co-phieu/c/21754679.epi" title="FIT: Pyn Elite Fund bán tiếp 1,5 triệu cổ phiếu" class="spr spr-cache cache">FIT: Pyn Elite Fund bán tiếp 1,5 triệu cổ phiếu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21752280">
+<figure>
+<a target="_blank" href="/dxg-trinh-ke-hoach-loi-nhuan-2017-dat-700-ty-tang-30/r/21752280.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/13/256/21752280/3_104931.png" alt="DXG trình kế hoạch lợi nhuận 2017 đạt 700 tỷ, tăng 30%"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/dxg-trinh-ke-hoach-loi-nhuan-2017-dat-700-ty-tang-30/r/21752280.epi" title="DXG trình kế hoạch lợi nhuận 2017 đạt 700 tỷ, tăng 30%">DXG trình kế hoạch lợi nhuận 2017 đạt 700 tỷ, tăng 30%</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-13T13:34:55+07:00"></time>
+<span>
+<a href="/dxg-trinh-ke-hoach-loi-nhuan-2017-dat-700-ty-tang-30/c/21752280.epi" title="DXG trình kế hoạch lợi nhuận 2017 đạt 700 tỷ, tăng 30%" class="spr spr-cache cache">DXG trình kế hoạch lợi nhuận 2017 đạt 700 tỷ, tăng 30%</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21722512">
+<figure>
+<a target="_blank" href="/lai-lo-nghin-ty-ke-khoc-nguoi-cuoi/r/21722512.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/09/256/21722512/3_61657.png" alt="Lãi lỗ nghìn tỷ: Kẻ khóc, người cười"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/lai-lo-nghin-ty-ke-khoc-nguoi-cuoi/r/21722512.epi" title="Lãi lỗ nghìn tỷ: Kẻ khóc, người cười">Lãi lỗ nghìn tỷ: Kẻ khóc, người cười</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-09T13:37:00+07:00"></time>
+<span>
+<a href="/lai-lo-nghin-ty-ke-khoc-nguoi-cuoi/c/21722512.epi" title="Lãi lỗ nghìn tỷ: Kẻ khóc, người cười" class="spr spr-cache cache">Lãi lỗ nghìn tỷ: Kẻ khóc, người cười</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789979" >
+<figure>
+<a target="_blank" href="/phien-17-3-review-etf-khoi-ngoai-bo-ra-500-ty-dong-de-mua-hon-3-trieu-co-phieu-ros/r/21789979.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/256/21789979/2_40993.png" alt="Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/phien-17-3-review-etf-khoi-ngoai-bo-ra-500-ty-dong-de-mua-hon-3-trieu-co-phieu-ros/r/21789979.epi" title="Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS">Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T16:40:53+07:00"></time>
+<span>
+<a href="/phien-17-3-review-etf-khoi-ngoai-bo-ra-500-ty-dong-de-mua-hon-3-trieu-co-phieu-ros/c/21789979.epi" title="Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS" class="spr spr-cache cache">Phiên 17/3: Review ETF, khối ngoại bỏ ra 500 tỷ đồng để mua hơn 3 triệu cổ phiếu ROS</a>
+</span>
+</p>
+<p class="summary">
+Chốt phiên giao dịch của 2 quỹ ETF, khối ngoại tiếp tục bỏ ra 499 tỷ đồng để mua vào 3,1 triệu cổ phiếu ROS. Ngược lại, các cổ phiếu bị bán ra mạnh là KDC, ITA, HPG và SBT.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_13" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_13" class="related-list collapse">
+<a href="/tin-lien-quan/t/2100521.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21791591">
+<figure>
+<a target="_blank" href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/r/21791591.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/256/21791591/3_65275.jpg" alt="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/r/21791591.epi" title="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc">Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T21:09:00+07:00"></time>
+<span>
+<a href="/chung-khoan-24h-ky-review-etf-nhieu-khac-la-va-song-gio-da-ket-thuc/c/21791591.epi" title="Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc" class="spr spr-cache cache">Chứng khoán 24h: Kỳ review ETF nhiều khác lạ và sóng gió đã kết thúc</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21788131">
+<figure>
+<a target="_blank" href="/kis-loi-nhuan-doanh-nghiep-niem-yet-co-the-tang-9-trong-nam-2017/r/21788131.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/256/21788131/6_106597.jpg" alt="KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/kis-loi-nhuan-doanh-nghiep-niem-yet-co-the-tang-9-trong-nam-2017/r/21788131.epi" title="KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017">KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T13:28:14+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/kis-loi-nhuan-doanh-nghiep-niem-yet-co-the-tang-9-trong-nam-2017/c/21788131.epi" title="KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017" class="spr spr-cache cache">KIS: Lợi nhuận doanh nghiệp niêm yết có thể tăng 9% trong năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789980" >
+<figure>
+<a target="_blank" href="/chung-khoan-chieu-17-3-noi-lo-etf-da-qua-hnx-index-tham-chi-con-tang/r/21789980.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/256/21789980/3_21280.png" alt="Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/chung-khoan-chieu-17-3-noi-lo-etf-da-qua-hnx-index-tham-chi-con-tang/r/21789980.epi" title="Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng">Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T16:40:16+07:00"></time>
+<span>
+<a href="/chung-khoan-chieu-17-3-noi-lo-etf-da-qua-hnx-index-tham-chi-con-tang/c/21789980.epi" title="Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng" class="spr spr-cache cache">Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng</a>
+</span>
+</p>
+<p class="summary">
+Biến động về giá của các cổ phiếu trên sàn phiên chiều không có nhiều đột biến do ảnh hưởng của ETF. Chỉ ROS và NVL giảm sàn do tác động của các giao dịch lớn đến từ khối ngoại.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_14" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_14" class="related-list collapse">
+<a href="/tin-lien-quan/t/2025684.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21789735">
+<figure>
+<a target="_blank" href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/r/21789735.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/190/21789735/3_56692.jpg" alt="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/r/21789735.epi" title="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng">Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T16:19:00+07:00"></time>
+<span>
+<a href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/c/21789735.epi" title="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng" class="spr spr-cache cache">Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21780601">
+<figure>
+<a target="_blank" href="/tap-doan-dau-tu-hoa-sen-khong-mua-2-trieu-co-phieu-hsg-nhu-dang-ky/r/21780601.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/190/21780601/1_44561.jpg" alt="Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tap-doan-dau-tu-hoa-sen-khong-mua-2-trieu-co-phieu-hsg-nhu-dang-ky/r/21780601.epi" title="Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký">Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-16T15:45:00+07:00"></time>
+<span>
+<a href="/tap-doan-dau-tu-hoa-sen-khong-mua-2-trieu-co-phieu-hsg-nhu-dang-ky/c/21780601.epi" title="Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký" class="spr spr-cache cache">Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21772897">
+<figure>
+<a target="_blank" href="/co-phieu-nong-nghiep-bo-doi-co-phieu-bau-duc-loi-nguoc-dong-voi-thanh-khoan-cao/r/21772897.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/105/21772897/5_24695.jpg" alt="Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức &#39;lội ngược dòng&#39; với thanh khoản cao"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-nong-nghiep-bo-doi-co-phieu-bau-duc-loi-nguoc-dong-voi-thanh-khoan-cao/r/21772897.epi" title="Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức &#39;lội ngược dòng&#39; với thanh khoản cao">Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức 'lội ngược dòng' với thanh khoản cao</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-15T18:29:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/co-phieu-nong-nghiep-bo-doi-co-phieu-bau-duc-loi-nguoc-dong-voi-thanh-khoan-cao/c/21772897.epi" title="Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức &#39;lội ngược dòng&#39; với thanh khoản cao" class="spr spr-cache cache">Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức 'lội ngược dòng' với thanh khoản cao</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21769889">
+<figure>
+<a target="_blank" href="/hhc-tong-cong-ty-thuoc-la-thoai-von-toan-bo-51-von/r/21769889.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/15/35/21769889/2_87242.jpg" alt="HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hhc-tong-cong-ty-thuoc-la-thoai-von-toan-bo-51-von/r/21769889.epi" title="HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn">HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-15T12:18:00+07:00"></time>
+<span>
+<a href="/hhc-tong-cong-ty-thuoc-la-thoai-von-toan-bo-51-von/c/21769889.epi" title="HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn" class="spr spr-cache cache">HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789877" >
+<figure>
+<a target="_blank" href="/chung-khoan-chieu-17-3-ngay-ngat-voi-phien-atc/r/21789877.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/21/21789877/1_38957.jpg" alt="Chứng khoán chiều 17/3: Ngây ngất với phiên ATC">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/chung-khoan-chieu-17-3-ngay-ngat-voi-phien-atc/r/21789877.epi" title="Chứng khoán chiều 17/3: Ngây ngất với phiên ATC">Chứng khoán chiều 17/3: Ngây ngất với phiên ATC</a>
+</h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-17T16:40:00+07:00"></time>
+<span>
+<a href="/chung-khoan-chieu-17-3-ngay-ngat-voi-phien-atc/c/21789877.epi" title="Chứng khoán chiều 17/3: Ngây ngất với phiên ATC" class="spr spr-cache cache">Chứng khoán chiều 17/3: Ngây ngất với phiên ATC</a>
+</span>
+</p>
+<p class="summary">
+Mặc dù đã rất nhiều kỳ tái cơ cấu danh mục của các quỹ ETF đã diễn ra nhưng chiều nay thị trường vẫn cho thấy sự hấp dẫn kỳ lạ...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_15" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_15" class="related-list collapse">
+<a href="/tin-lien-quan/t/1893542.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21790290">
+<figure>
+<a target="_blank" href="/khoi-ngoai-ban-rong-hon-330-ty-dong-trong-phien-etfs-chot-so-ngay-17-3/r/21790290.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/35/21790290/2_80534.jpg" alt="Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/khoi-ngoai-ban-rong-hon-330-ty-dong-trong-phien-etfs-chot-so-ngay-17-3/r/21790290.epi" title="Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3">Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T17:04:00+07:00"></time>
+<span>
+<a href="/khoi-ngoai-ban-rong-hon-330-ty-dong-trong-phien-etfs-chot-so-ngay-17-3/c/21790290.epi" title="Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3" class="spr spr-cache cache">Khối ngoại bán ròng hơn 330 tỷ đồng trong phiên ETFs chốt sổ ngày 17/3</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21787979">
+<figure>
+<a target="_blank" href="/sau-khi-duoc-cap-margin-ros-da-vuot-170-000-dong-co-phieu/r/21787979.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/256/21787979/1_26017.png" alt="Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/sau-khi-duoc-cap-margin-ros-da-vuot-170-000-dong-co-phieu/r/21787979.epi" title="Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu">Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T12:52:00+07:00"></time>
+<span>
+<a href="/sau-khi-duoc-cap-margin-ros-da-vuot-170-000-dong-co-phieu/c/21787979.epi" title="Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu" class="spr spr-cache cache">Sau khi được cấp margin, ROS đã vượt 170.000 đồng/cổ phiếu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21787768">
+<figure>
+<a target="_blank" href="/chung-khoan-sang-17-3-etf-xa-som/r/21787768.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/21/21787768/1_39002.jpg" alt="Chứng khoán sáng 17/3: ETF xả sớm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-khoan-sang-17-3-etf-xa-som/r/21787768.epi" title="Chứng khoán sáng 17/3: ETF xả sớm">Chứng khoán sáng 17/3: ETF xả sớm</a></h2>
+<p class="meta">
+<a href="/vneconomy.com.vn-bao-vneconomy-vneconomy/p/3.epi">VnEconomy</a>
+<time class="friendly" datetime="2017-03-17T12:15:00+07:00"></time>
+<span>
+<a href="/chung-khoan-sang-17-3-etf-xa-som/c/21787768.epi" title="Chứng khoán sáng 17/3: ETF xả sớm" class="spr spr-cache cache">Chứng khoán sáng 17/3: ETF xả sớm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21782534">
+<figure>
+<a target="_blank" href="/thi-truong-hoi-phuc/r/21782534.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/28/21782534/2_10930.jpg" alt="Thị trường hồi phục"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thi-truong-hoi-phuc/r/21782534.epi" title="Thị trường hồi phục">Thị trường hồi phục</a></h2>
+<p class="meta">
+<a href="/www.thesaigontimes.vn-thoi-bao-kinh-te-sai-gon-saigon-times/p/112.epi">Saigon Times</a>
+<time class="friendly" datetime="2017-03-16T18:45:00+07:00"></time>
+<span>
+<a href="/thi-truong-hoi-phuc/c/21782534.epi" title="Thị trường hồi phục" class="spr spr-cache cache">Thị trường hồi phục</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789940" >
+<figure>
+<a target="_blank" href="/hnf-neo-gia-cao-nha-dau-tu-thap-thom-cho-khop-lenh/r/21789940.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/284/21789940/2_82182.jpg" alt="HNF &#39;neo&#39; giá cao, nhà đầu tư &#39;thấp thỏm&#39; chờ khớp lệnh">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hnf-neo-gia-cao-nha-dau-tu-thap-thom-cho-khop-lenh/r/21789940.epi" title="HNF &#39;neo&#39; giá cao, nhà đầu tư &#39;thấp thỏm&#39; chờ khớp lệnh">HNF 'neo' giá cao, nhà đầu tư 'thấp thỏm' chờ khớp lệnh</a>
+</h2>
+<p class="meta">
+<a href="/www.phapluatplus.vn-phap-luat-plus/p/323.epi">Pháp Luật Plus</a>
+<time class="friendly" datetime="2017-03-17T16:36:00+07:00"></time>
+<span>
+<a href="/hnf-neo-gia-cao-nha-dau-tu-thap-thom-cho-khop-lenh/c/21789940.epi" title="HNF &#39;neo&#39; giá cao, nhà đầu tư &#39;thấp thỏm&#39; chờ khớp lệnh" class="spr spr-cache cache">HNF 'neo' giá cao, nhà đầu tư 'thấp thỏm' chờ khớp lệnh</a>
+</span>
+</p>
+<p class="summary">
+Sau thông tin Vinataba sẽ thoái toàn bộ 51% vốn sở hữu tại Bánh kẹo Hải Hà làm sôi động thị trường chứng khoán, doanh nghiệp này tiếp tục tạo nên “cú sốc” khi đăng ký chào bán toàn...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_16" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_16" class="related-list collapse">
+<a href="/tin-lien-quan/t/2099936.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21788335">
+<figure>
+<a target="_blank" href="/co-phieu-banh-keo-huu-nghi-va-hai-ha-cham-dinh-nho-vinataba-xin-thoai-het-von/r/21788335.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/256/21788335/1_27740.png" alt="Cổ phiếu bánh kẹo Hữu Nghị và Hải Hà chạm &#39;đỉnh&#39; nhờ Vinataba xin thoái hết vốn"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-banh-keo-huu-nghi-va-hai-ha-cham-dinh-nho-vinataba-xin-thoai-het-von/r/21788335.epi" title="Cổ phiếu bánh kẹo Hữu Nghị và Hải Hà chạm &#39;đỉnh&#39; nhờ Vinataba xin thoái hết vốn">Cổ phiếu bánh kẹo Hữu Nghị và Hải Hà chạm 'đỉnh' nhờ Vinataba xin thoái hết vốn</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T14:06:43+07:00"></time>
+<span>
+<a href="/co-phieu-banh-keo-huu-nghi-va-hai-ha-cham-dinh-nho-vinataba-xin-thoai-het-von/c/21788335.epi" title="Cổ phiếu bánh kẹo Hữu Nghị và Hải Hà chạm &#39;đỉnh&#39; nhờ Vinataba xin thoái hết vốn" class="spr spr-cache cache">Cổ phiếu bánh kẹo Hữu Nghị và Hải Hà chạm 'đỉnh' nhờ Vinataba xin thoái hết vốn</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21787183">
+<figure>
+<a target="_blank" href="/nha-dau-tu-kien-tri-va-cu-chot-lai-gay-soc-thi-truong-chung-khoan/r/21787183.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/256/21787183/3_115278.jpg" alt="Nhà đầu tư kiên trì và cú chốt lãi gây sốc thị trường chứng khoán"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nha-dau-tu-kien-tri-va-cu-chot-lai-gay-soc-thi-truong-chung-khoan/r/21787183.epi" title="Nhà đầu tư kiên trì và cú chốt lãi gây sốc thị trường chứng khoán">Nhà đầu tư kiên trì và cú chốt lãi gây sốc thị trường chứng khoán</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T11:13:00+07:00"></time>
+<span>
+<a href="/nha-dau-tu-kien-tri-va-cu-chot-lai-gay-soc-thi-truong-chung-khoan/c/21787183.epi" title="Nhà đầu tư kiên trì và cú chốt lãi gây sốc thị trường chứng khoán" class="spr spr-cache cache">Nhà đầu tư kiên trì và cú chốt lãi gây sốc thị trường chứng khoán</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21790075" >
+<figure>
+<a target="_blank" href="/thi-truong-chung-khoan-se-co-co-hoi-but-pha-sau-quyet-dinh-fed-tang-lai-suat/r/21790075.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/35/21790075/2_68806.jpg" alt="Thị trường chứng khoán sẽ có cơ hội bứt phá sau quyết định Fed tăng lãi suất">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/thi-truong-chung-khoan-se-co-co-hoi-but-pha-sau-quyet-dinh-fed-tang-lai-suat/r/21790075.epi" title="Thị trường chứng khoán sẽ có cơ hội bứt phá sau quyết định Fed tăng lãi suất">Thị trường chứng khoán sẽ có cơ hội bứt phá sau quyết định Fed tăng lãi suất</a>
+</h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T16:32:00+07:00"></time>
+<span>
+<a href="/thi-truong-chung-khoan-se-co-co-hoi-but-pha-sau-quyet-dinh-fed-tang-lai-suat/c/21790075.epi" title="Thị trường chứng khoán sẽ có cơ hội bứt phá sau quyết định Fed tăng lãi suất" class="spr spr-cache cache">Thị trường chứng khoán sẽ có cơ hội bứt phá sau quyết định Fed tăng lãi suất</a>
+</span>
+</p>
+<p class="summary">
+Theo ông Ngô Quốc Hưng, chuyên gia Tư vấn đầu tư, Trung tâm Nghiên cứu Công ty chứng khoán Công Thương (VietinbankSc), cùng với các yếu tố kinh tế vĩ mô ổn định, 2 phiên giảm điểm...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_17" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_17" class="related-list collapse">
+<a href="/tin-lien-quan/t/2088374.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21778721">
+<figure>
+<a target="_blank" href="/chung-khoan-dau-mo-tang-gia-sau-quyet-dinh-cua-fed/r/21778721.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/102/21778721/1_11755.png" alt="Chứng khoán, dầu mỏ tăng giá sau quyết định của Fed"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-khoan-dau-mo-tang-gia-sau-quyet-dinh-cua-fed/r/21778721.epi" title="Chứng khoán, dầu mỏ tăng giá sau quyết định của Fed">Chứng khoán, dầu mỏ tăng giá sau quyết định của Fed</a></h2>
+<p class="meta">
+<a href="/baochinhphu.vn-bao-chinh-phu-chinh-phu/p/146.epi">Chính Phủ</a>
+<time class="friendly" datetime="2017-03-16T12:12:00+07:00"></time>
+<span>
+<a href="/chung-khoan-dau-mo-tang-gia-sau-quyet-dinh-cua-fed/c/21778721.epi" title="Chứng khoán, dầu mỏ tăng giá sau quyết định của Fed" class="spr spr-cache cache">Chứng khoán, dầu mỏ tăng giá sau quyết định của Fed</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21778643">
+<figure>
+<a target="_blank" href="/fed-nang-lai-suat-cac-thi-truong-chung-khoan-phan-ung-trai-chieu/r/21778643.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/16/94/21778643/2_73615.jpg" alt="FED nâng lãi suất: Các thị trường chứng khoán phản ứng trái chiều"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/fed-nang-lai-suat-cac-thi-truong-chung-khoan-phan-ung-trai-chieu/r/21778643.epi" title="FED nâng lãi suất: Các thị trường chứng khoán phản ứng trái chiều">FED nâng lãi suất: Các thị trường chứng khoán phản ứng trái chiều</a></h2>
+<p class="meta">
+<a href="/vov.vn-bao-vov-vov/p/65.epi">VOV</a>
+<time class="friendly" datetime="2017-03-16T12:05:00+07:00"></time>
+<span>
+<a href="/fed-nang-lai-suat-cac-thi-truong-chung-khoan-phan-ung-trai-chieu/c/21778643.epi" title="FED nâng lãi suất: Các thị trường chứng khoán phản ứng trái chiều" class="spr spr-cache cache">FED nâng lãi suất: Các thị trường chứng khoán phản ứng trái chiều</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21790339">
+<figure>
+<a target="_blank" href="/mau-xanh-phu-khap-cac-san-chung-khoan-au-my/r/21790339.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/285/21790339/2_28393.jpg" alt="Màu xanh phủ khắp các sàn chứng khoán Âu-Mỹ"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mau-xanh-phu-khap-cac-san-chung-khoan-au-my/r/21790339.epi" title="Màu xanh phủ khắp các sàn chứng khoán Âu-Mỹ">Màu xanh phủ khắp các sàn chứng khoán Âu-Mỹ</a></h2>
+<p class="meta">
+<a href="/bnews.vn-bnews/p/324.epi">Bnews</a>
+<time class="friendly" datetime="2017-03-16T08:22:00+07:00"></time>
+<span>
+<a href="/mau-xanh-phu-khap-cac-san-chung-khoan-au-my/c/21790339.epi" title="Màu xanh phủ khắp các sàn chứng khoán Âu-Mỹ" class="spr spr-cache cache">Màu xanh phủ khắp các sàn chứng khoán Âu-Mỹ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21776008">
+<figure>
+<a target="_blank" href="/gia-dau-tang-vot-do-fed-cong-bo-nang-muc-lai-suat/r/21776008.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/256/21776008/3_103460.jpg" alt="Giá dầu tăng vọt do Fed công bố nâng mức lãi suất"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-dau-tang-vot-do-fed-cong-bo-nang-muc-lai-suat/r/21776008.epi" title="Giá dầu tăng vọt do Fed công bố nâng mức lãi suất">Giá dầu tăng vọt do Fed công bố nâng mức lãi suất</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-16T07:57:56+07:00"></time>
+<span>
+<a href="/gia-dau-tang-vot-do-fed-cong-bo-nang-muc-lai-suat/c/21776008.epi" title="Giá dầu tăng vọt do Fed công bố nâng mức lãi suất" class="spr spr-cache cache">Giá dầu tăng vọt do Fed công bố nâng mức lãi suất</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789841" >
+<figure>
+<a target="_blank" href="/giao-dich-6-166-ty-dong-vn-index-van-dao-chieu-ve-moc-710/r/21789841.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w205/17/03/17/100/21789841/1_113608.jpg" alt="Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/giao-dich-6-166-ty-dong-vn-index-van-dao-chieu-ve-moc-710/r/21789841.epi" title="Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710">Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710</a>
+</h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-17T16:31:00+07:00"></time>
+<span>
+<a href="/giao-dich-6-166-ty-dong-vn-index-van-dao-chieu-ve-moc-710/c/21789841.epi" title="Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710" class="spr spr-cache cache">Giao dịch 6.166 tỷ đồng, VN-Index vẫn đảo chiều về mốc 710</a>
+</span>
+</p>
+<p class="summary">
+Ngày 17/3, không khí sôi động bao trùm thị trường, giá trị giao dịch trên hai đạt trên 6.166 tỷ đồng. Chỉ số VNXALL-Index tăng 0,64 điểm, song VN-Index giảm 4,38 điểm và HNX-Index...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_18" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_18" class="related-list collapse">
+<a href="/tin-lien-quan/t/2054949.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21790345">
+<figure>
+<a target="_blank" href="/hai-san-trai-chieu-thanh-khoan-tang-vot/r/21790345.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/52/21790345/1_27917.jpg" alt="Hai sàn trái chiều, thanh khoản tăng vọt"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hai-san-trai-chieu-thanh-khoan-tang-vot/r/21790345.epi" title="Hai sàn trái chiều, thanh khoản tăng vọt">Hai sàn trái chiều, thanh khoản tăng vọt</a></h2>
+<p class="meta">
+<a href="/nhandan.com.vn-bao-nhan-dan-nhan-dan/p/14.epi">Nhân Dân</a>
+<time class="friendly" datetime="2017-03-17T15:17:05+07:00"></time>
+<span>
+<a href="/hai-san-trai-chieu-thanh-khoan-tang-vot/c/21790345.epi" title="Hai sàn trái chiều, thanh khoản tăng vọt" class="spr spr-cache cache">Hai sàn trái chiều, thanh khoản tăng vọt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21773015">
+<figure>
+<a target="_blank" href="/giao-dich-giang-co-chi-so-chinh-tren-hai-san-dong-cua-trai-chieu/r/21773015.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/15/100/21773015/1_62722.jpg" alt="Giao dịch giằng co, chỉ số chính trên hai sàn đóng cửa trái chiều"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/giao-dich-giang-co-chi-so-chinh-tren-hai-san-dong-cua-trai-chieu/r/21773015.epi" title="Giao dịch giằng co, chỉ số chính trên hai sàn đóng cửa trái chiều">Giao dịch giằng co, chỉ số chính trên hai sàn đóng cửa trái chiều</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-15T18:34:00+07:00"></time>
+<span>
+<a href="/giao-dich-giang-co-chi-so-chinh-tren-hai-san-dong-cua-trai-chieu/c/21773015.epi" title="Giao dịch giằng co, chỉ số chính trên hai sàn đóng cửa trái chiều" class="spr spr-cache cache">Giao dịch giằng co, chỉ số chính trên hai sàn đóng cửa trái chiều</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21771982">
+<figure>
+<a target="_blank" href="/hnx-index-giu-duoc-sac-xanh-vn-index-mat-da-giam-diem/r/21771982.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/52/21771982/1_28281.jpg" alt="HNX-Index giữ được sắc xanh, VN-Index mất đà giảm điểm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hnx-index-giu-duoc-sac-xanh-vn-index-mat-da-giam-diem/r/21771982.epi" title="HNX-Index giữ được sắc xanh, VN-Index mất đà giảm điểm">HNX-Index giữ được sắc xanh, VN-Index mất đà giảm điểm</a></h2>
+<p class="meta">
+<a href="/nhandan.com.vn-bao-nhan-dan-nhan-dan/p/14.epi">Nhân Dân</a>
+<time class="friendly" datetime="2017-03-15T15:17:58+07:00"></time>
+<span>
+<a href="/hnx-index-giu-duoc-sac-xanh-vn-index-mat-da-giam-diem/c/21771982.epi" title="HNX-Index giữ được sắc xanh, VN-Index mất đà giảm điểm" class="spr spr-cache cache">HNX-Index giữ được sắc xanh, VN-Index mất đà giảm điểm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21763963">
+<figure>
+<a target="_blank" href="/nhan-dinh-thi-truong-ngay-15-3-duy-tri-da-tang/r/21763963.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/14/190/21763963/2_5896.jpg" alt="Nhận định thị trường ngày 15/3: &#39;Duy trì đà tăng&#39;"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/nhan-dinh-thi-truong-ngay-15-3-duy-tri-da-tang/r/21763963.epi" title="Nhận định thị trường ngày 15/3: &#39;Duy trì đà tăng&#39;">Nhận định thị trường ngày 15/3: 'Duy trì đà tăng'</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-14T19:27:00+07:00"></time>
+<span>
+<a href="/nhan-dinh-thi-truong-ngay-15-3-duy-tri-da-tang/c/21763963.epi" title="Nhận định thị trường ngày 15/3: &#39;Duy trì đà tăng&#39;" class="spr spr-cache cache">Nhận định thị trường ngày 15/3: 'Duy trì đà tăng'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789735" >
+<figure>
+<a target="_blank" href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/r/21789735.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/190/21789735/3_56692.jpg" alt="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/r/21789735.epi" title="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng">Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng</a>
+</h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T16:19:00+07:00"></time>
+<span>
+<a href="/ngay-cuoi-etf-giao-dich-khoi-ngoai-ban-rong-gan-345-ty-dong/c/21789735.epi" title="Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng" class="spr spr-cache cache">Ngày cuối ETF giao dịch, khối ngoại bán ròng gần 345 tỷ đồng</a>
+</span>
+</p>
+<p class="summary">
+Giao dịch của khối ngoại phiên hôm nay đa phần tập trung vào các cổ phiếu nằm trong diện cơ cấu của hai quỹ ETF FTSE và V.N.M.
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_19" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_19" class="related-list collapse">
+<a href="/tin-lien-quan/t/2025684.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21789980">
+<figure>
+<a target="_blank" href="/chung-khoan-chieu-17-3-noi-lo-etf-da-qua-hnx-index-tham-chi-con-tang/r/21789980.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/17/256/21789980/3_21280.png" alt="Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/chung-khoan-chieu-17-3-noi-lo-etf-da-qua-hnx-index-tham-chi-con-tang/r/21789980.epi" title="Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng">Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng</a></h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T16:40:16+07:00"></time>
+<span>
+<a href="/chung-khoan-chieu-17-3-noi-lo-etf-da-qua-hnx-index-tham-chi-con-tang/c/21789980.epi" title="Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng" class="spr spr-cache cache">Chứng khoán chiều 17/3: Nỗi lo ETF đã qua, HNX-Index thậm chí còn tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21780601">
+<figure>
+<a target="_blank" href="/tap-doan-dau-tu-hoa-sen-khong-mua-2-trieu-co-phieu-hsg-nhu-dang-ky/r/21780601.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/190/21780601/1_44561.jpg" alt="Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/tap-doan-dau-tu-hoa-sen-khong-mua-2-trieu-co-phieu-hsg-nhu-dang-ky/r/21780601.epi" title="Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký">Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-16T15:45:00+07:00"></time>
+<span>
+<a href="/tap-doan-dau-tu-hoa-sen-khong-mua-2-trieu-co-phieu-hsg-nhu-dang-ky/c/21780601.epi" title="Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký" class="spr spr-cache cache">Tập đoàn đầu tư Hoa Sen không mua 2 triệu cổ phiếu HSG như đăng ký</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21772897">
+<figure>
+<a target="_blank" href="/co-phieu-nong-nghiep-bo-doi-co-phieu-bau-duc-loi-nguoc-dong-voi-thanh-khoan-cao/r/21772897.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/15/105/21772897/5_24695.jpg" alt="Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức &#39;lội ngược dòng&#39; với thanh khoản cao"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-nong-nghiep-bo-doi-co-phieu-bau-duc-loi-nguoc-dong-voi-thanh-khoan-cao/r/21772897.epi" title="Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức &#39;lội ngược dòng&#39; với thanh khoản cao">Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức 'lội ngược dòng' với thanh khoản cao</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-15T18:29:00+07:00"></time>
+<span>
+<i class="spr photo-icon"></i>
+<a href="/co-phieu-nong-nghiep-bo-doi-co-phieu-bau-duc-loi-nguoc-dong-voi-thanh-khoan-cao/c/21772897.epi" title="Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức &#39;lội ngược dòng&#39; với thanh khoản cao" class="spr spr-cache cache">Cổ phiếu nông nghiệp: Bộ đôi cổ phiếu Bầu Đức 'lội ngược dòng' với thanh khoản cao</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21769889">
+<figure>
+<a target="_blank" href="/hhc-tong-cong-ty-thuoc-la-thoai-von-toan-bo-51-von/r/21769889.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w105/17/03/15/35/21769889/2_87242.jpg" alt="HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/hhc-tong-cong-ty-thuoc-la-thoai-von-toan-bo-51-von/r/21769889.epi" title="HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn">HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-15T12:18:00+07:00"></time>
+<span>
+<a href="/hhc-tong-cong-ty-thuoc-la-thoai-von-toan-bo-51-von/c/21769889.epi" title="HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn" class="spr spr-cache cache">HHC: Tổng công ty thuốc lá thoái vốn toàn bộ 51% vốn</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789642" >
+<figure>
+<a target="_blank" href="/ral-tra-co-tuc-dot-2-nam-2016-voi-ty-le-20/r/21789642.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/256/21789642/1_22039.jpg" alt="RAL trả cổ tức đợt 2 năm 2016 với tỷ lệ 20%">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/ral-tra-co-tuc-dot-2-nam-2016-voi-ty-le-20/r/21789642.epi" title="RAL trả cổ tức đợt 2 năm 2016 với tỷ lệ 20%">RAL trả cổ tức đợt 2 năm 2016 với tỷ lệ 20%</a>
+</h2>
+<p class="meta">
+<a href="/bizlive.vn-bao-bizlive-bizlive/p/242.epi">BizLIVE</a>
+<time class="friendly" datetime="2017-03-17T16:06:18+07:00"></time>
+<span>
+<a href="/ral-tra-co-tuc-dot-2-nam-2016-voi-ty-le-20/c/21789642.epi" title="RAL trả cổ tức đợt 2 năm 2016 với tỷ lệ 20%" class="spr spr-cache cache">RAL trả cổ tức đợt 2 năm 2016 với tỷ lệ 20%</a>
+</span>
+</p>
+<p class="summary">
+Nghị quyết HĐQT CTCP Bóng đèn Phích nước Rạng Đông (mã RAL) đã thông qua phương án tạm ứng cổ tức đợt 2 năm 2016 với tỷ lệ 20%.
+</p>
+</header>
+</article>
+<article data-aid="21789533" >
+<figure>
+<a target="_blank" href="/phien-chieu-17-3-ros-va-nvl-bi-ep-trong-phien-gom-hang-cua-etfs/r/21789533.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w205/17/03/17/35/21789533/2_29614.jpg" alt="Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/phien-chieu-17-3-ros-va-nvl-bi-ep-trong-phien-gom-hang-cua-etfs/r/21789533.epi" title="Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs">Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs</a>
+</h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-17T15:59:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/phien-chieu-17-3-ros-va-nvl-bi-ep-trong-phien-gom-hang-cua-etfs/c/21789533.epi" title="Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs" class="spr spr-cache cache">Phiên chiều 17/3: ROS và NVL bị ép trong phiên gom hàng của ETFs</a>
+</span>
+</p>
+<p class="summary">
+Không nằm ngoài dự đoán, phiên chốt sổ của các quỹ ETF đã làm náo động thị trường trong phiên chiều nay. Đáng chú ý, 2 cổ phiếu được các quỹ này thêm vào danh mục (FTSE thêm ROS và...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_21" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_21" class="related-list collapse">
+<a href="/tin-lien-quan/t/2103972.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21793062">
+<figure>
+<a target="_blank" href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/r/21793062.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/18/105/21793062/3_104571.jpg" alt="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/r/21793062.epi" title="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng">Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T07:30:00+07:00"></time>
+<span>
+<a href="/co-phieu-nong-nghiep-khoi-ngoai-ban-rong-co-phieu-bau-duc-van-tang/c/21793062.epi" title="Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng" class="spr spr-cache cache">Cổ phiếu nông nghiệp: Khối ngoại bán ròng, cổ phiếu Bầu Đức vẫn tăng</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21781123">
+<figure>
+<a target="_blank" href="/phien-chieu-16-3-hag-hng-but-pha-ros-de-vn-index/r/21781123.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/16/35/21781123/2_76282.jpg" alt="Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/phien-chieu-16-3-hag-hng-but-pha-ros-de-vn-index/r/21781123.epi" title="Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index">Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index</a></h2>
+<p class="meta">
+<a href="/tinnhanhchungkhoan.vn-bao-dau-tu-chung-khoan-dtck/p/95.epi">ĐTCK</a>
+<time class="friendly" datetime="2017-03-16T16:16:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/phien-chieu-16-3-hag-hng-but-pha-ros-de-vn-index/c/21781123.epi" title="Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index" class="spr spr-cache cache">Phiên chiều 16/3: HAG-HNG bứt phá, ROS “đè” VN-Index</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<article data-aid="21789510" >
+<figure>
+<a target="_blank" href="/hng-tro-lai-menh-gia-gan-365-ngay-mong-doi-nhung-lieu-niem-vui-co-keo-dai/r/21789510.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/190/21789510/1_34973.jpg" alt="HNG trở lại mệnh giá: Gần 365 ngày mong đợi nhưng liệu niềm vui có kéo dài?">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/hng-tro-lai-menh-gia-gan-365-ngay-mong-doi-nhung-lieu-niem-vui-co-keo-dai/r/21789510.epi" title="HNG trở lại mệnh giá: Gần 365 ngày mong đợi nhưng liệu niềm vui có kéo dài?">HNG trở lại mệnh giá: Gần 365 ngày mong đợi nhưng liệu niềm vui có kéo dài?</a>
+</h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T15:52:00+07:00"></time>
+<span>
+<a href="/hng-tro-lai-menh-gia-gan-365-ngay-mong-doi-nhung-lieu-niem-vui-co-keo-dai/c/21789510.epi" title="HNG trở lại mệnh giá: Gần 365 ngày mong đợi nhưng liệu niềm vui có kéo dài?" class="spr spr-cache cache">HNG trở lại mệnh giá: Gần 365 ngày mong đợi nhưng liệu niềm vui có kéo dài?</a>
+</span>
+</p>
+<p class="summary">
+Ngày 16/03, HNG đã đánh dấu một bước ngoặt lần đầu tiên trở lại trên mệnh giá 10,000 đồng/cp sau gần 1 năm giao dịch dưới mốc này. Chắc hẳn đây là niềm vui của rất nhiều cổ đông...
+</p>
+</header>
+</article>
+<article data-aid="21789531" >
+<figure>
+<a target="_blank" href="/mat-loi-the-nguyen-lieu-ong-thep-viet-duc-chung-lai/r/21789531.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w205/17/03/17/74/21789531/2_55098.jpg" alt="Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại">
+</a>
+</figure>
+<header>
+<h2>
+<a target="_blank" href="/mat-loi-the-nguyen-lieu-ong-thep-viet-duc-chung-lai/r/21789531.epi" title="Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại">Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại</a>
+</h2>
+<p class="meta">
+<a href="/baodautu.vn-bao-dau-tu-dau-tu/p/72.epi">Đầu Tư</a>
+<time class="friendly" datetime="2017-03-17T15:51:00+07:00"></time>
+<span>
+<a href="/mat-loi-the-nguyen-lieu-ong-thep-viet-duc-chung-lai/c/21789531.epi" title="Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại" class="spr spr-cache cache">Mất lợi thế nguyên liệu, Ống thép Việt Đức chững lại</a>
+</span>
+</p>
+<p class="summary">
+Trong quý I/2017, Công ty cổ phần Ống thép Việt Đức (VG PIPE) có thể đạt tổng doanh thu 950 tỷ đồng, lợi nhuận sau thuế 17 tỷ đồng. So với kết quả năm 2016, có vẻ như tốc độ tăng...
+</p>
+</header>
+<a href="javascript:;" id="main_PagingList1_rptContentList_more_23" class="btn-more"></a>
+<section id="main_PagingList1_rptContentList_relevanceList_23" class="related-list collapse">
+<a href="/tin-lien-quan/t/2083208.epi" class="view-more">Xem tin liên quan</a>
+<article data-aid="21758416">
+<figure>
+<a target="_blank" href="/thep-viet-duc-uoc-lai-17-ty-dong-quy-i-2017/r/21758416.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/14/190/21758416/2_6179418.jpg" alt="Thép Việt Đức ước lãi 17 tỷ đồng quý I/2017"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thep-viet-duc-uoc-lai-17-ty-dong-quy-i-2017/r/21758416.epi" title="Thép Việt Đức ước lãi 17 tỷ đồng quý I/2017">Thép Việt Đức ước lãi 17 tỷ đồng quý I/2017</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-14T08:49:00+07:00"></time>
+<span>
+<a href="/thep-viet-duc-uoc-lai-17-ty-dong-quy-i-2017/c/21758416.epi" title="Thép Việt Đức ước lãi 17 tỷ đồng quý I/2017" class="spr spr-cache cache">Thép Việt Đức ước lãi 17 tỷ đồng quý I/2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21758415">
+<figure>
+<a target="_blank" href="/thep-viet-duc-dat-doanh-thu-950-ty-dong-loi-nhuan-17-ty-dong-trong-quy-i/r/21758415.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/14/74/21758415/2_38858.jpg" alt="Thép Việt Đức đạt doanh thu 950 tỷ đồng, lợi nhuận 17 tỷ đồng trong quý I"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/thep-viet-duc-dat-doanh-thu-950-ty-dong-loi-nhuan-17-ty-dong-trong-quy-i/r/21758415.epi" title="Thép Việt Đức đạt doanh thu 950 tỷ đồng, lợi nhuận 17 tỷ đồng trong quý I">Thép Việt Đức đạt doanh thu 950 tỷ đồng, lợi nhuận 17 tỷ đồng trong quý I</a></h2>
+<p class="meta">
+<a href="/baodautu.vn-bao-dau-tu-dau-tu/p/72.epi">Đầu Tư</a>
+<time class="friendly" datetime="2017-03-14T08:23:00+07:00"></time>
+<span>
+<a href="/thep-viet-duc-dat-doanh-thu-950-ty-dong-loi-nhuan-17-ty-dong-trong-quy-i/c/21758415.epi" title="Thép Việt Đức đạt doanh thu 950 tỷ đồng, lợi nhuận 17 tỷ đồng trong quý I" class="spr spr-cache cache">Thép Việt Đức đạt doanh thu 950 tỷ đồng, lợi nhuận 17 tỷ đồng trong quý I</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</article>
+<div class="pagination pagination-centered">
+<span id="main_PagingList1_pager"><a class="active">1</a><a href="/chung-khoan/trang2.epi">2</a><a href="/chung-khoan/trang3.epi">3</a><a href="/chung-khoan/trang4.epi">4</a><a href="/chung-khoan/trang5.epi">5</a><a href="/chung-khoan/trang6.epi">6</a><a href="/chung-khoan/trang7.epi">...</a><a href="/chung-khoan/trang100.epi">100</a><a id="main_PagingList1_pager_nextControl" href="/chung-khoan/trang2.epi">»</a></span>
+</div>
+</section>
+<aside>
+<div class="topics" data-track="|clusters">
+<section class="topic">
+<header>
+<a id="main_TopClusters1_rptClusters_hlCluster_0" href="/opec/gt/1389895.epi">OPEC</a>
+</header>
+<article data-aid="21793304" >
+<figure>
+<a target="_blank" href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/r/21793304.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/190/21793304/2_30493.jpg" alt="Giá dầu tăng nhẹ sau khi lao dốc 10%"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/r/21793304.epi" title="Giá dầu tăng nhẹ sau khi lao dốc 10%">Giá dầu tăng nhẹ sau khi lao dốc 10%</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-18T07:59:00+07:00"></time>
+<span>
+<a href="/gia-dau-tang-nhe-sau-khi-lao-doc-10/c/21793304.epi" title="Giá dầu tăng nhẹ sau khi lao dốc 10%" class="spr spr-cache cache">Giá dầu tăng nhẹ sau khi lao dốc 10%</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21787069" >
+<figure>
+<a target="_blank" href="/mon-qua-cho-my-co-hoi-ep-gia-dau-giam-sau/r/21787069.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/103/21787069/4_86406.jpeg" alt="Món quà cho Mỹ cơ hội ép giá dầu giảm sâu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mon-qua-cho-my-co-hoi-ep-gia-dau-giam-sau/r/21787069.epi" title="Món quà cho Mỹ cơ hội ép giá dầu giảm sâu">Món quà cho Mỹ cơ hội ép giá dầu giảm sâu</a></h2>
+<p class="meta">
+<a href="/baodatviet.vn-bao-dat-viet-dat-viet/p/132.epi">Đất Việt</a>
+<time class="friendly" datetime="2017-03-17T10:45:00+07:00"></time>
+<span>
+<a href="/mon-qua-cho-my-co-hoi-ep-gia-dau-giam-sau/c/21787069.epi" title="Món quà cho Mỹ cơ hội ép giá dầu giảm sâu" class="spr spr-cache cache">Món quà cho Mỹ cơ hội ép giá dầu giảm sâu</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21786234" >
+<figure>
+<a target="_blank" href="/co-phieu-chung-khoan-van-nong-hai-san-tang-diem/r/21786234.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w105/17/03/17/190/21786234/1_216401.png" alt="Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/co-phieu-chung-khoan-van-nong-hai-san-tang-diem/r/21786234.epi" title="Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm">Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm</a></h2>
+<p class="meta">
+<a href="/ndh.vn-nguoi-dong-hanh-ndh/p/215.epi">NDH</a>
+<time class="friendly" datetime="2017-03-17T09:57:00+07:00"></time>
+<span>
+<a href="/co-phieu-chung-khoan-van-nong-hai-san-tang-diem/c/21786234.epi" title="Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm" class="spr spr-cache cache">Cổ phiếu chứng khoán vẫn nóng, hai sàn tăng điểm</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21785668" >
+<figure>
+<a target="_blank" href="/noi-lo-ton-kho-cao-tai-my-tiep-tuc-keo-lui-gia-dau/r/21785668.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w105/17/03/17/176/21785668/1_103460.jpg" alt="Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu"></a>
+</figure>
+<header>
+<h2><a target="_blank" href="/noi-lo-ton-kho-cao-tai-my-tiep-tuc-keo-lui-gia-dau/r/21785668.epi" title="Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu">Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu</a></h2>
+<p class="meta">
+<a href="/nhipcaudautu.vn-tap-chi-nhip-cau-dau-tu-ncdt/p/203.epi">NCĐT</a>
+<time class="friendly" datetime="2017-03-17T08:43:00+07:00"></time>
+<span>
+<a href="/noi-lo-ton-kho-cao-tai-my-tiep-tuc-keo-lui-gia-dau/c/21785668.epi" title="Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu" class="spr spr-cache cache">Nỗi lo tồn kho cao tại Mỹ tiếp tục kéo lùi giá dầu</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</div>
+<section class="zone" data-track="|popular">
+<header><a href="/tin-nong.epi">Tin nóng</a></header>
+<article data-aid="21792678" >
+<figure>
+<a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/100/21792678/1_138362.jpg" alt="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">
+</a>
+</figure>
+<header>
+<h2><a target="_blank" href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/r/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a></h2>
+<p class="meta">
+<a href="/www.vietnamplus.vn-bao-vietnamplus-vietnamplus/p/293.epi">VietnamPlus</a>
+<time class="friendly" datetime="2017-03-18T06:15:00+07:00"></time>
+<span>
+<a href="/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-dien-bien-va-son-la/c/21792678.epi" title="Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La" class="spr spr-cache cache">Mưa đá cường độ lớn trên địa bàn giáp ranh Điện Biên và Sơn La</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793191" >
+<header>
+<h2><a target="_blank" href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/r/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a></h2>
+<p class="meta">
+<a href="/doanhnghiepvn.vn-bao-doanh-nghiep-viet-nam-doanh-nghiep/p/304.epi">Doanh Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:44:08+07:00"></time>
+<span>
+<a href="/cong-bo-11-to-ve-so-vietlott-trung-doc-dac-nam-2017/c/21793191.epi" title="Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017" class="spr spr-cache cache">Công bố 11 tờ vé số Vietlott trúng độc đắc năm 2017</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792503" >
+<header>
+<h2><a target="_blank" href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/r/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T05:04:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/noi-cac-trump-van-trong-trai-trong-cuoc-chuyen-giao-cham-ky-luc/c/21792503.epi" title="Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục" class="spr spr-cache cache">Nội các Trump vẫn trống trải trong cuộc chuyển giao chậm kỷ lục</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792925" >
+<header>
+<h2><a target="_blank" href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/r/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:05:00+07:00"></time>
+<span>
+<a href="/nghe-an-hoc-sinh-bi-co-giao-danh-nhap-vien-vi-khong-lam-duoc-bai/c/21792925.epi" title="Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?" class="spr spr-cache cache">Nghệ An: Học sinh bị cô giáo đánh nhập viện vì không làm được bài?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792758" >
+<header>
+<h2><a target="_blank" href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/r/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a></h2>
+<p class="meta">
+<a href="/laodong.com.vn-bao-lao-dong-lao-dong/p/12.epi">Lao Động</a>
+<time class="friendly" datetime="2017-03-18T06:38:00+07:00"></time>
+<span>
+<a href="/them-toi-tham-o-tai-san-tai-du-an-thanh-ha-ong-trinh-xuan-thanh-da-chi-dao-thuoc-cap-nhu-the-nao/c/21792758.epi" title="Thêm tội &#39;Tham ô tài sản&#39; tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?" class="spr spr-cache cache">Thêm tội 'Tham ô tài sản' tại dự án Thanh Hà: Ông Trịnh Xuân Thanh đã chỉ đạo thuộc cấp như thế nào?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792564" >
+<header>
+<h2><a target="_blank" href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/r/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a></h2>
+<p class="meta">
+<a href="/danviet.vn-bao-dan-viet-dan-viet/p/149.epi">Dân Việt</a>
+<time class="friendly" datetime="2017-03-18T06:00:00+07:00"></time>
+<span>
+<a href="/ga-cha-mat-nhan-tinh-du-cho-dien-thoai-de-xam-hai-con-gai-ruot/c/21792564.epi" title="Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột" class="spr spr-cache cache">Gã cha mất nhân tính dụ cho điện thoại để xâm hại con gái ruột</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793100" >
+<header>
+<h2><a target="_blank" href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/r/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a></h2>
+<p class="meta">
+<a href="/www.nongnghiep.vn-bao-nong-nghiep-vn-nong-nghiep/p/120.epi">Nông Nghiệp</a>
+<time class="friendly" datetime="2017-03-18T07:16:00+07:00"></time>
+<span>
+<a href="/hlv-huu-thang-nhan-tin-vui-tu-xuan-truong/c/21793100.epi" title="HLV Hữu Thắng nhận tin vui từ Xuân Trường" class="spr spr-cache cache">HLV Hữu Thắng nhận tin vui từ Xuân Trường</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792830" >
+<header>
+<h2><a target="_blank" href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/r/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a></h2>
+<p class="meta">
+<a href="/infonet.vn-bao-infonet-infonet/p/240.epi">Infonet</a>
+<time class="friendly" datetime="2017-03-18T07:00:00+07:00"></time>
+<span>
+<a href="/vu-xin-giay-phep-xuat-khau-gao-mat-20-000-usd-bia-dat/c/21792830.epi" title="Vụ &#39;xin giấy phép xuất khẩu gạo mất 20.000 USD&#39;: Bịa đặt" class="spr spr-cache cache">Vụ 'xin giấy phép xuất khẩu gạo mất 20.000 USD': Bịa đặt</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21792702" >
+<header>
+<h2><a target="_blank" href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/r/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T06:10:00+07:00"></time>
+<span>
+<a href="/dieu-gi-se-xay-ra-neu-ca-man-united-va-leicester-dang-quang-o-dau-truong-chau-au/c/21792702.epi" title="Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?" class="spr spr-cache cache">Điều gì sẽ xảy ra nếu cả Man United và Leicester đăng quang ở đấu trường châu Âu?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<header>
+<h2><a target="_blank" href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-cache cache">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+</section>
+</aside>
+</div>
+</section>
+<section class="sidebar">
+<div class="fyi-300 nocontent robots-nocontent" style="display:none;" id="BaoMoi_HalfPage"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R1"></div>
+<div class="fyi-300 nocontent robots-nocontent" style="width:300px;height:250px" id="BaoMoi_R2"></div>
+<section id="photo-box" data-track="|video">
+<header>
+<h6>
+<a href="/tin-video.epi">Video</a>
+</h6>
+</header>
+<div class="slider">
+<article data-aid="21793255" >
+<figure>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/293/21793255/4_366004.png" alt="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">
+</a>
+</figure>
+<header>
+<h2><a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/c/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a></h2>
+<p class="meta">
+<a href="/saostar.vn-saostar/p/329.epi">SaoStar</a>
+<time class="friendly" datetime="2017-03-18T08:00:17+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/da-bao-lau-roi-ban-moi-nghe-lai-hit-ngay-buon-nhat-hat-chay-tu-chinh-bao-thy/r/21793255.epi" title="Đã bao lâu rồi bạn mới nghe lại hit &#39;Ngày buồn nhất&#39; hát chay từ chính Bảo Thy?" class="spr spr-more" target="_blank">Đã bao lâu rồi bạn mới nghe lại hit 'Ngày buồn nhất' hát chay từ chính Bảo Thy?</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793206" >
+<figure>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/61/21793206/2_1685970.jpg" alt="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">
+</a>
+</figure>
+<header>
+<h2><a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/c/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a></h2>
+<p class="meta">
+<a href="/www.zing.vn-bao-tri-thuc-truc-tuyen-zing/p/119.epi">Zing</a>
+<time class="friendly" datetime="2017-03-18T07:48:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/dan-phan-ung-vi-pha-bac-tam-cap-qua-nhanh/r/21793206.epi" title="&#39;Dân phản ứng vì phá bậc tam cấp quá nhanh&#39;" class="spr spr-more" target="_blank">'Dân phản ứng vì phá bậc tam cấp quá nhanh'</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793200" >
+<figure>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/255/21793200/3_154934.jpg" alt="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">
+</a>
+</figure>
+<header>
+<h2><a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/c/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a></h2>
+<p class="meta">
+<a href="/motthegioi.vn-bao-mot-the-gioi-mot-the-gioi/p/287.epi">Một Thế Giới</a>
+<time class="friendly" datetime="2017-03-18T07:46:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nghe-si-hiep-vit-gay-soc-voi-hinh-anh-danh-dap-chui-rua-ca-si-lam-phi-quynh/r/21793200.epi" title="Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh" class="spr spr-more" target="_blank">Nghệ sĩ Hiệp vịt gây sốc với hình ảnh đánh đập, chửi rủa ca sĩ Lâm Phi Quỳnh</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793119" >
+<figure>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/88/21793119/3_70096.jpg" alt="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">
+</a>
+</figure>
+<header>
+<h2><a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a></h2>
+<p class="meta">
+<a href="/thethaovanhoa.vn-bao-the-thao-van-hoa-tt-vh/p/131.epi">TT&VH</a>
+<time class="friendly" datetime="2017-03-18T07:40:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/r/21793119.epi" title="&#39;Nhạc Hội Song Ca&#39;: Thi nhau hôn tay, Hương Giang Idol &#39;tiếm ngôi&#39; Lan Phương" class="spr spr-more" target="_blank">'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793101" >
+<figure>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/139/21793101/1_37764.jpg" alt="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">
+</a>
+</figure>
+<header>
+<h2><a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/c/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a></h2>
+<p class="meta">
+<a href="/kienthuc.net.vn-bao-kien-thuc-kien-thuc/p/180.epi">Kiến Thức</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/10-pha-ghi-ban-dep-mat-dang-cap-trong-lich-su-world-cup/r/21793101.epi" title="10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup" class="spr spr-more" target="_blank">10 pha ghi bàn đẹp mắt đẳng cấp trong lịch sử World Cup</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793240" >
+<figure>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/301/21793240/1_144150.jpg" alt="Một tháng trong quân ngũ của Á khôi áo dài">
+</a>
+</figure>
+<header>
+<h2><a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/c/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài">Một tháng trong quân ngũ của Á khôi áo dài</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:37:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/mot-thang-trong-quan-ngu-cua-a-khoi-ao-dai/r/21793240.epi" title="Một tháng trong quân ngũ của Á khôi áo dài" class="spr spr-more" target="_blank">Một tháng trong quân ngũ của Á khôi áo dài</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793205" >
+<figure>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi">
+<img src="http://baomoi-photo-3.d.za.zdn.vn/w300/17/03/18/66/21793205/2_91393.jpg" alt="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">
+</a>
+</figure>
+<header>
+<h2><a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/c/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a></h2>
+<p class="meta">
+<a href="/khoahocphattrien.com.vn-bao-khoa-hoc-phat-trien-kh-pt/p/84.epi">KH&PT</a>
+<time class="friendly" datetime="2017-03-18T07:31:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/clip-tho-dan-chau-phi-dung-nguoi-cau-tran-khong-lo/r/21793205.epi" title="Clip: Thổ dân châu Phi dùng người &#39;câu&#39; trăn khổng lồ" class="spr spr-more" target="_blank">Clip: Thổ dân châu Phi dùng người 'câu' trăn khổng lồ</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793074" >
+<figure>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/25/21793074/2_67136.jpg" alt="Mỹ công bố 750 video thử nghiệm bom hạt nhân">
+</a>
+</figure>
+<header>
+<h2><a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a></h2>
+<p class="meta">
+<a href="/anninhthudo.vn-bao-an-ninh-thu-do-antd/p/106.epi">ANTĐ</a>
+<time class="friendly" datetime="2017-03-18T07:29:52+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/r/21793074.epi" title="Mỹ công bố 750 video thử nghiệm bom hạt nhân" class="spr spr-more" target="_blank">Mỹ công bố 750 video thử nghiệm bom hạt nhân</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793192" >
+<figure>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi">
+<img src="http://baomoi-photo-2.d.za.zdn.vn/w300/17/03/18/300/21793192/1_165569.jpg" alt="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">
+</a>
+</figure>
+<header>
+<h2><a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/c/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a></h2>
+<p class="meta">
+<a href="/doisongvietnam.vn-bao-gia-dinh-viet-nam-chuyen-trang-doi-song-plus-doi-song-plus/p/335.epi">Đời Sống Plus</a>
+<time class="friendly" datetime="2017-03-18T07:27:07+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/thai-lan-ca-ngoi-bong-da-viet-nam-sau-le-boc-tham-chia-bang-u20-the-gioi/r/21793192.epi" title="Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới" class="spr spr-more" target="_blank">Thái Lan ca ngợi bóng đá Việt Nam sau lễ bốc thăm chia bảng U20 thế giới</a>
+</span>
+</p>
+</header>
+</article>
+<article data-aid="21793140" >
+<figure>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi">
+<img src="http://baomoi-photo-1.d.za.zdn.vn/w300/17/03/18/301/21793140/2_140109.jpg" alt="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">
+</a>
+</figure>
+<header>
+<h2><a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/c/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a></h2>
+<p class="meta">
+<a href="/tbdn.com.vn-bao-thoi-bao-doanh-nhan-tbdn/p/336.epi">TBDN</a>
+<time class="friendly" datetime="2017-03-18T07:25:00+07:00"></time>
+<span>
+<i class="spr video-icon"></i>
+<a href="/bac-ninh-keu-cuu-vi-song-cau-khong-can-van-bi-nao-vet-cat/r/21793140.epi" title="Bắc Ninh &#39;kêu cứu&#39; vì sông Cầu không cạn vẫn bị nạo vét cát" class="spr spr-more" target="_blank">Bắc Ninh 'kêu cứu' vì sông Cầu không cạn vẫn bị nạo vét cát</a>
+</span>
+</p>
+</header>
+</article>
+</div>
+</section>
+<section class="top-story">
+<ul class=" tab-header">
+<li class="active"><a href="#most-read" data-toggle="tab">Nóng trong ngày</a></li>
+<li><a href="#most-read7" data-toggle="tab">Trong tuần</a></li>
+</ul>
+<div id="top-story" class="tab-content">
+<div class="tab-pane active" id="most-read" data-track="|mostread">
+</div>
+<div class="tab-pane fade" id="most-read7" data-track="|mostread7">
+</div>
+</div>
+</section>
+<section class="social-idx">
+<header>
+<h6><a href="javascript:;">Theo dõi Báo Mới</a></h6>
+</header>
+<div class="social">
+<a href="https://www.facebook.com/baomoi/" target="_blank" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Fanpage</span>
+</a>
+<a href="https://www.facebook.com/baomoigiaitri/" class="fb">
+<span><i class="spr social-fb"></i></span>
+<span>Báo Mới<br>
+Giải Trí</span>
+</a>
+<a href="https://noti.baomoi.com/" target="_blank" class="noti">
+<span><i class="spr social-noti"></i></span>
+<span>Gửi tin nóng<br>
+cho bạn</span>
+</a>
+<a href="https://plus.google.com/+baomoi/posts" target="_blank" class="gplus">
+<span><i class="spr social-gplus"></i></span>
+<span>Google<br>
+Plus</span>
+</a>
+</div>
+</section>
+<section id="trending-list" data-track="|trending">
+<header>
+<h6>
+<a href="javascript:;">Xu hướng</a>
+</h6>
+</header>
+<div class="trending">
+<span class=" w3"><a href="/tag/vn-index.epi">vn-index</a></span>
+<span class=" w5"><a href="/tag/công-ty-cổ-phần-bánh-kẹo-hải-hà.epi">công ty cổ phần bánh kẹo hải hà</a></span>
+<span class=" w20"><a href="/tag/bạch-an-viễn.epi">Bạch An Viễn</a></span>
+<span class=" w16"><a href="/tag/nhà-đầu-tư-nước-ngoài.epi">nhà đầu tư nước ngoài</a></span>
+<span class="down w11"><a href="/tag/giá-trị-giao-dịch.epi">giá trị giao dịch</a></span>
+<span class=" w19"><a href="/tag/p/e.epi">P/E</a></span>
+<span class=" w10"><a href="/tag/vnm.epi">VNM</a></span>
+<span class="down w12"><a href="/tag/khớp-lệnh.epi">khớp lệnh</a></span>
+<span class=" w14"><a href="/tag/phiên-review-etf.epi">Phiên Review ETF</a></span>
+<span class="down w7"><a href="/tag/tổng-công-ty-cổ-phần-dịch-vụ-kỹ-thuật-dầu-khí.epi">tổng công ty cổ phần dịch vụ kỹ thuật dầu khí</a></span>
+<span class="down w2"><a href="/tag/tổng-công-ty-thuốc-lá-việt-nam.epi">Tổng công ty Thuốc lá Việt Nam</a></span>
+<span class=" w8"><a href="/tag/ctcp-thực-phẩm-hữu-nghị.epi">CTCP Thực phẩm Hữu Nghị</a></span>
+<span class=" w15"><a href="/tag/tính-thanh-khoản.epi">tính thanh khoản</a></span>
+<span class=" w9"><a href="/tag/mã-qbs.epi">mã QBS</a></span>
+<span class="down w17"><a href="/tag/blue-chip.epi">blue-chip</a></span>
+<span class=" w13"><a href="/tag/ngọc-đỗ.epi">Ngọc Đỗ</a></span>
+<span class=" w18"><a href="/tag/hose.epi">HOSE</a></span>
+<span class="up w1"><a href="/tag/hbc.epi">HBC</a></span>
+<span class="up w4"><a href="/tag/ssi.epi">SSI</a></span>
+<span class=" w6"><a href="/tag/mã-hnf.epi">mã HNF</a></span>
+</div>
+</section>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_MiddleRight_1"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R3"></div>
+<div class="fyi-300 nocontent robots-nocontent" id="BaoMoi_R4"></div>
+</section>
+</div>
+<div class="fyi-980 fyi-970 nocontent robots-nocontent" style="clear: both;" id="BaoMoi_Footer"></div>
+<footer id="site-footer">
+<a href="/" class="logo" title="Báo Mới"></a>
+<form class="search-box">
+<input type="text" class="search-keyword" placeholder="Nhập nội dung tìm kiếm" value=''>
+<button><i class="spr spr-search"></i></button>
+</form>
+<section class="site-index ">
+<div>
+<h3>PHIÊN BẢN KHÁC</h3>
+<ul>
+<li><a href="http://s.baomoi.xdn.vn/tai-ung-dung-bao-moi.html" target="_blank">Báo Mới APPS</a></li>
+<li><a target="_blank" href="http://en.baomoi.com/">Báo Mới ENGLISH</a></li>
+<li><a target="_blank" href="http://blog.baomoi.com/">Báo Mới BLOG</a></li>
+</ul>
+</div>
+<div>
+<h3>LIÊN HỆ</h3>
+<ul>
+<li><a href="/staticpages/intro.epi">Giới thiệu</a></li>
+<li><a href="/staticpages/termsofuse.epi">Điều khoản sử dụng</a></li>
+<li><a href="http://adtima.vn/" target="_blank">Quảng cáo</a></li>
+</ul>
+</div>
+<div>
+<h3>NGƯỜI DÙNG</h3>
+<ul>
+<li><a href="/Widget/CreateWidget.aspx">Nhúng tin vào trang web</a></li>
+<li><a href="/Statistics/Report.aspx" target="_blank">Thống kê & So sánh</a></li>
+</ul>
+</div>
+</section>
+<div class="copyright">
+<hr>
+<div class="left">
+<p>
+BÁO MỚI thực hiện việc tổng hợp
+<br>
+và sắp xếp các thông tin tự động
+<br>
+bởi chương trình máy tính
+</p>
+</div>
+<div class="right">
+<p>Giấy phép số 46/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 13/01/2012</p>
+<p>Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Nguyễn Thanh Tùng</p>
+<p>Địa chỉ: Tầng 7, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội</p>
+<p>
+Tel: (04) 3-212-3232 ext. 2947
+<i class="contact-baomoi"></i>
+</p>
+<p class="loadtime">Cung cấp trong: 10.42 ms.</p>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="reveal-modal login">
+<header>Đăng nhập</header>
+<p>
+<a class="facebook" href="javascript:;" onclick="javascript:helloLogin('facebook')">Đăng nhập tài khoản Facebook</a>
+</p>
+<p>
+<a class="google" href="javascript:;" onclick="javascript:helloLogin('google')">Đăng nhập tài khoản Google</a>
+</p>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="GDVNContainer" style="display: none"></div>
+<script type="text/javascript">
+function createGDVNIframe() {
+var i = document.createElement("iframe");
+i.src = "http://giaoduc.net.vn/Baomoi?utm_source=baomoi&utm_medium=seeding&utm_campaign=traffic";
+i.scrolling = "no";
+i.frameborder = "0";
+i.allowtransparency = "true";
+i.width = "1px";
+i.height = "1px";
+document.getElementById("GDVNContainer").appendChild(i);
+};
+</script>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Balloon"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Floating_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Right"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Background_Left"></div>
+<div class=" nocontent robots-nocontent" id="BaoMoi_Canvas"></div>
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+<script src="http://s.baomoi.xdn.vn/web/js/baomoi-dist_17031610.js" async defer></script>
+<script src="http://static.adtimaserver.vn/resource/js/bm/web.0506.1.js" async defer></script>
+</body>
+</html> 

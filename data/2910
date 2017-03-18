@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đài Loan làm mới đội hình để tái đấu tuyển Việt Nam - Zing
+</title><meta name="keywords" content="Kazuo Kuroda,Huang Chiu-Lin,Chen Sheng-Wei,Hung Tzu-Kuei,Jiang Sin-Long,Lee Hsiang-Wei,Lai Chih-Hsuan,Chao Ming-Hsiu,Chen Chia-Chun,Tseng Chih-Wei,Lee Pin-Hsien,Pai Shao-Yu,Wei Pei-Lun,Su De-Cai,Yen Tavio Yaki Aithamy,Chiu Yu-hung,Chan Che-Yuan,Kuroda Kazuo,Hirata Reiji,Oyaneder Gate Auritz,Li Wen-Tsai" /><meta name="description" content="Với tham vọng tiến sâu tại vòng loại Cúp bóng đá châu Á (Asian Cup) 2019, tuyển Đài Loan (Trung Quốc) đã thay cả HLV trưởng cũng như đổi mới đội hình." />
+<link rel="canonical" href="http://www.baomoi.com/dai-loan-lam-moi-doi-hinh-de-tai-dau-tuyen-viet-nam/c/21774259.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21774259" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21774259" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/dai-loan-lam-moi-doi-hinh-de-tai-dau-tuyen-viet-nam-post728429.html");
+else
+window.location.replace("http://www.baomoi.com/dai-loan-lam-moi-doi-hinh-de-tai-dau-tuyen-viet-nam/c/21774259.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

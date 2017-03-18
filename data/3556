@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bộ Công Thương muốn áp giá linh hoạt, bù chi phí cho thủy điện - VnEconomy
+</title><meta name="keywords" content="Sông Bung 2,Quảng Nam,Trần Tuấn Anh,Ia Krel,bộ công thương,mưa lũ,Gia Lai,Quảng Trị,bảo vệ môi trường,tây nguyên,áp giá,miền trung,năng lượng sạch,thi công xây dựng,Bạch Dương,khai thác,chủ quản,lũ lụt,phòng chống,việt nam,vi phạm" /><meta name="description" content="Bộ Công Thương đang tính áp dụng cơ chế giá linh hoạt, có tính đến cơ chế bù đắp chi phí để thủy điện đảm bảo tốt vai trò – điều tiết lũ và cung cấp điện hi..." />
+<link rel="canonical" href="http://www.baomoi.com/bo-cong-thuong-muon-ap-gia-linh-hoat-bu-chi-phi-cho-thuy-dien/c/21791661.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791661" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791661" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vneconomy.vn/thi-truong/bo-cong-thuong-muon-ap-gia-linh-hoat-bu-chi-phi-cho-thuy-dien-20170317032045677.htm");
+else
+window.location.replace("http://www.baomoi.com/bo-cong-thuong-muon-ap-gia-linh-hoat-bu-chi-phi-cho-thuy-dien/c/21791661.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

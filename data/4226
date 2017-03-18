@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hai xe khách đấu đầu, tài xế mắc kẹt trong cabin - Giao Thông
+</title><meta name="keywords" content="cabin,hoảng loạn,cấp cứu,Sỹ Hòa,Khánh Lộc,Đồng Lộc,Can Lộc,Quảng Trị,Hà Tĩnh,Hồ Chí Minh" /><meta name="description" content="Tài xế và phụ lái xe khách mắc kẹt trọng cabin sau cú va chạm mạnh với xe khách. Người dân phải dùng xà beng phá cửa, đưa hai nạn nhân đi cấp cứu." />
+<link rel="canonical" href="http://www.baomoi.com/hai-xe-khach-dau-dau-tai-xe-mac-ket-trong-cabin/c/21779320.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21779320" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21779320" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.atgt.vn/hai-xe-khach-dau-dau-tai-xe-mac-ket-trong-cabin-d192429.html");
+else
+window.location.replace("http://www.baomoi.com/hai-xe-khach-dau-dau-tai-xe-mac-ket-trong-cabin/c/21779320.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

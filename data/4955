@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bé thích mê với khoai lang bọc phô mai que vừa ăn vừa kéo sợi - Eva
+</title><meta name="keywords" content="Theo Thu Cúc,CHUẨN BỊ NGUYÊN LIỆU,Thu Cúc,mê mẩn" /><meta name="description" content="Đây là món ăn vừa ngon vừa hấp dẫn mà bé nào cũng mê mẩn." />
+<link rel="canonical" href="http://www.baomoi.com/be-thich-me-voi-khoai-lang-boc-pho-mai-que-vua-an-vua-keo-soi/c/21781415.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21781415" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21781415" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://eva.vn/bep-eva/be-thich-me-voi-khoai-lang-boc-pho-mai-que-vua-an-vua-keo-soi-c162a302935.html");
+else
+window.location.replace("http://www.baomoi.com/be-thich-me-voi-khoai-lang-boc-pho-mai-que-vua-an-vua-keo-soi/c/21781415.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

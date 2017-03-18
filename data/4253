@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hai chiếc Audi đuổi nhau trên phố, đâm văng người đi bộ - Giao Thông
+</title><meta name="keywords" content="Audi S3,Audi,vi-đê-ô,Bolton,náo loạn,manchester,Anh" /><meta name="description" content="Cảnh hai chiếc xe Audi đắt tiền rượt đuổi nhau gây náo loạn cả tuyến đường ở Anh, đâm văng người đi bộ." />
+<link rel="canonical" href="http://www.baomoi.com/hai-chiec-audi-duoi-nhau-tren-pho-dam-vang-nguoi-di-bo/c/21736620.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21736620" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21736620" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.atgt.vn/video-hai-chiec-audi-duoi-nhau-tren-pho-dam-vang-nguoi-di-bo-d191422.html");
+else
+window.location.replace("http://www.baomoi.com/hai-chiec-audi-duoi-nhau-tren-pho-dam-vang-nguoi-di-bo/c/21736620.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

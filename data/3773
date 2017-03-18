@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tự ý xả lũ hồ Suối Vực, gây thiệt hại lớn - Nhân Dân
+</title><meta name="keywords" content="Suối Vực,Sơn Nguyên,Suối Bạc,hồ Suối Vực,ngập úng,Phú Yên,thu hoạch,cấp nước,UBND huyện Sơn Hòa,ước tính,ghi nhận" /><meta name="description" content="Chiều 17-3, Chủ tịch UBND huyện Sơn Hòa (Phú Yên) Nay BLung cho biết, Công an huyện đã điều tra xác định ba thanh niên ở xã Suối Bạc, huyện Sơn Hòa tự ý mở ..." />
+<link rel="canonical" href="http://www.baomoi.com/tu-y-xa-lu-ho-suoi-vuc-gay-thiet-hai-lon/c/21792426.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792426" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792426" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/xahoi/tin-tuc/item/32344802-tu-y-xa-lu-ho%cc%80-suo%cc%81i-vu%cc%a3c-gay-thie%cc%a3t-ha%cc%a3i-lon.html");
+else
+window.location.replace("http://www.baomoi.com/tu-y-xa-lu-ho-suoi-vuc-gay-thiet-hai-lon/c/21792426.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

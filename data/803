@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Lỗ nặng, 'thủ phủ' nuôi heo cả nước lao đao - PLO
+</title><meta name="keywords" content="Nguyễn Nguyên Phương,Nguyễn Trí Công,nhận diện,Đồng Nai,Bùi Thị Thủy,Sở Công Thương TP.HCM,thu mua,chi trả,phân phối,Biên Hòa,đối thoại,sản xuất,đề xuất,liên kết,Văn Quý,phá sản,Bùi Văn Quý,thống nhất,tết nguyên đán,cung vượt quá cầu,Vĩnh Cửu" /><meta name="description" content="Giá heo hơi quá thấp khiến người chăn nuôi lỗ nặng. Một ngày lỗ hơn 8 tỉ đồng." />
+<link rel="canonical" href="http://www.baomoi.com/lo-nang-thu-phu-nuoi-heo-ca-nuoc-lao-dao/c/21792407.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792407" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792407" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/kinh-te/quan-ly-kinh-te/lo-nang-thu-phu-nuoi-heo-ca-nuoc-lao-dao-689492.html");
+else
+window.location.replace("http://www.baomoi.com/lo-nang-thu-phu-nuoi-heo-ca-nuoc-lao-dao/c/21792407.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

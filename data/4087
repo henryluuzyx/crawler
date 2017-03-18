@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phó Chủ tịch nước Đặng Thị Ngọc Thịnh thăm và làm việc tại tỉnh Bắc Cạn - Nhân Dân
+</title><meta name="keywords" content="Đặng Thị Ngọc Thịnh,Bắc Kạn,bảo trợ,đầu tư phát triển,trung ương đảng,chế biến,lãnh đạo,tăng trưởng,ghi nhận,khai thác,thu nhập bình quân,việt nam" /><meta name="description" content="Chiều 16- 3, đồng chí Đặng Thị Ngọc Thịnh, Ủy viên T.Ư Đảng, Phó Chủ tịch nước thăm và làm việc tại tỉnh Bắc Cạn." />
+<link rel="canonical" href="http://www.baomoi.com/pho-chu-tich-nuoc-dang-thi-ngoc-thinh-tham-va-lam-viec-tai-tinh-bac-can/c/21783310.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21783310" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21783310" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/chinhtri/item/32328402-pho-chu-tich-nuoc-dang-thi-ngoc-thinh-tham-va-lam-viec-tai-tinh-bac-can.html");
+else
+window.location.replace("http://www.baomoi.com/pho-chu-tich-nuoc-dang-thi-ngoc-thinh-tham-va-lam-viec-tai-tinh-bac-can/c/21783310.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

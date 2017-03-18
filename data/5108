@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mâm cơm chỉ 55000 cho 6 người ăn thoải mái, thơm ngon, bổ dưỡng lại rẻ tiền - Phụ Nữ Today
+</title><meta name="keywords" /><meta name="description" content="Mâm cơm chỉ 55000 cho 6 người ăn thoải mái, thơm ngon, bổ dưỡng lại rẻ tiền - bỏ túi ngay để khỏi phải nghĩ món." />
+<link rel="canonical" href="http://www.baomoi.com/mam-com-chi-55000-cho-6-nguoi-an-thoai-mai-thom-ngon-bo-duong-lai-re-tien/c/21787104.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21787104" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21787104" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phunutoday.vn/mam-com-chi-55000-cho-6-nguoi-an-thoai-mai-thom-ngon-bo-duong-lai-re-tien-d139023.html");
+else
+window.location.replace("http://www.baomoi.com/mam-com-chi-55000-cho-6-nguoi-an-thoai-mai-thom-ngon-bo-duong-lai-re-tien/c/21787104.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

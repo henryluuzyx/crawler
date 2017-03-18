@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+'Sự đã rồi anh ngồi anh hát' - ANTĐ
+</title><meta name="keywords" content="Trần Ngọc Hiếu,ra mắt,Hà Nội" /><meta name="description" content="Gồm nhiều bài thơ và tản văn được sắp xếp theo cấu trúc: Những suy tưởng - Trong thành phố - Về tình yêu, cuốn sách “Sự đã rồi anh ngồi anh hát” là tác phẩm..." />
+<link rel="canonical" href="http://www.baomoi.com/su-da-roi-anh-ngoi-anh-hat/c/21792269.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792269" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792269" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://anninhthudo.vn/giai-tri/su-da-roi-anh-ngoi-anh-hat/721635.antd");
+else
+window.location.replace("http://www.baomoi.com/su-da-roi-anh-ngoi-anh-hat/c/21792269.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

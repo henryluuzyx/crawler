@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhật Bản mang tàu khủng đến Biển Đông, Trung Quốc dọa đáp trả - Giao Thông
+</title><meta name="keywords" content="Sri Lanka,biển Đông,tàu chiến,Biển Hoa Đông,Nhật Bản,philippines,indonesia,Singapore,tranh chấp,Trung Quốc,Hoa Xuân Oánh,Bộ Ngoại Giao Trung Quốc,Hải Quân Nhật Bản,Mỹ,Ấn Độ,diễn tập,Quần đảo Senkaku,Điếu Ngư,biên chế,Hán Hiển,Sputnik" /><meta name="description" content="Trung Quốc dọa đáp trả nếu Nhật Bản triển khai tàu sân bay lớn nhất nước này đến Biển Đông." />
+<link rel="canonical" href="http://www.baomoi.com/nhat-ban-mang-tau-khung-den-bien-dong-trung-quoc-doa-dap-tra/c/21784182.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21784182" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21784182" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/nhat-ban-mang-tau-khung-den-bien-dong-trung-quoc-doa-dap-tra-d192509.html");
+else
+window.location.replace("http://www.baomoi.com/nhat-ban-mang-tau-khung-den-bien-dong-trung-quoc-doa-dap-tra/c/21784182.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

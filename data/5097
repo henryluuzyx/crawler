@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Công thức nấu canh cua ngon nhất dành cho mùa hè - Phụ Nữ Today
+</title><meta name="keywords" content="độ sôi,lên ngôi,bảo đảm" /><meta name="description" content="Mùa hè tới, mùa của món canh riêu cua đồng chua ngon, thanh mát lên ngôi. Bạn đã biết cách nấu canh riêu cua chuẩn ngon nhất dành cho mùa hè chưa?" />
+<link rel="canonical" href="http://www.baomoi.com/cong-thuc-nau-canh-cua-ngon-nhat-danh-cho-mua-he/c/21792618.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792618" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792618" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phunutoday.vn/cong-thuc-nau-canh-cua-ngon-nhat-danh-cho-mua-he-d137955.html");
+else
+window.location.replace("http://www.baomoi.com/cong-thuc-nau-canh-cua-ngon-nhat-danh-cho-mua-he/c/21792618.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

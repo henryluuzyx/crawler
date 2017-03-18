@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Thử cảm giác lạ ở 10 nhà hàng 'dị' nhất hành tinh - Dân Việt
+</title><meta name="keywords" content="Redwoods Treehouse,Conrad Maldives,Dinner In The Sky,Trung Tây nước Mỹ,Safe House,Hello Kitty,Montreál,maldives,sinh vật biển,sushi,mực nước biển,cửa ra vào,đau tim,las vegas,password,new zealand,new york times,bảo mật,ẩm thực,tokyo,Bỉ" /><meta name="description" content="Từ cảm giác choáng ngợp khi ngồi dưới độ sâu 5m so với mực nước biển ở Maldives đến bữa tối kinh hoàng trong nhà hàng trại giam ở Nhật Bản, những nhà hàng k..." />
+<link rel="canonical" href="http://www.baomoi.com/thu-cam-giac-la-o-10-nha-hang-di-nhat-hanh-tinh/c/21792714.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792714" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792714" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/du-lich/thu-cam-giac-la-o-10-nha-hang-di-nhat-hanh-tinh-754086.html");
+else
+window.location.replace("http://www.baomoi.com/thu-cam-giac-la-o-10-nha-hang-di-nhat-hanh-tinh/c/21792714.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

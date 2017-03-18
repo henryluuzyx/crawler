@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mẹo chống ẩm mốc cho quần áo ngày nắng nóng - Phụ Nữ TP.HCM
+</title><meta name="keywords" content="nắng nóng,thời tiết" /><meta name="description" content="Thời tiết nắng gắt nhưng độ ẩm cao, khiến cho quần áo có mùi khó chịu và có thể sinh ra nấm mốc gây bệnh. Một vài mẹo nhỏ sau sẽ giúp bạn loại bỏ chúng một ..." />
+<link rel="canonical" href="http://www.baomoi.com/meo-chong-am-moc-cho-quan-ao-ngay-nang-nong/c/21788230.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21788230" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21788230" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phunuonline.com.vn/suc-khoe/meo-chong-am-moc-cho-quan-ao-ngay-nang-nong-95613/");
+else
+window.location.replace("http://www.baomoi.com/meo-chong-am-moc-cho-quan-ao-ngay-nang-nong/c/21788230.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

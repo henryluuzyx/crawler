@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hưởng ứng tuần lễ Pháp ngữ 'Tôi yêu thương, tôi sẻ chia' tại TP Hồ Chí Minh - KTĐT
+</title><meta name="keywords" content="tiếng Pháp,Thảo Cầm Viên Sài Gòn,haiti,thụy sĩ,Emmanuel Ly Batallan,canada,marốc,Ngày hội Pháp ngữ,Lễ Pháp,Bỉ,gắn bó,thành phố hồ chí minh,Pháp,mạng xã hội,việt nam" /><meta name="description" content="Nhiều hoạt động sẽ diễn ra từ ngày 17 - 29/3 tại TP Hồ Chí Minh để hưởng ứng tuần lễ Pháp ngữ có chủ đề “Tôi yêu thương, tôi chia sẻ” tại Việt Nam." />
+<link rel="canonical" href="http://www.baomoi.com/huong-ung-tuan-le-phap-ngu-toi-yeu-thuong-toi-se-chia-tai-tp-ho-chi-minh/c/21783412.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21783412" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21783412" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kinhtedothi.vn/huong-ung-tuan-le-phap-ngu-toi-yeu-thuong-toi-se-chia-tai-tp-ho-chi-minh-283068.html");
+else
+window.location.replace("http://www.baomoi.com/huong-ung-tuan-le-phap-ngu-toi-yeu-thuong-toi-se-chia-tai-tp-ho-chi-minh/c/21783412.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Chuyện nhà quan huyện đón dâu bằng trực thăng riêng - VietnamNet
+</title><meta name="keywords" content="Nguyễn Hữu Hợp,Diệu Bình,Vũ Đức Thiện,Nguyễn Thị Thịnh,Nguyễn Hữu,Nguyễn Hữu Tài,Kỷ Mão,Giáp Tuất,Văn Điển,Tự Đức,Bảo Đại,Nhà Nguyễn,Thanh Trì,biến động,Anh,Hà Nội" /><meta name="description" content="Cũng theo ông Tài, mẹ quan huyện Nghi là người phụ nữ tài sắc vẹn toàn, là chủ một vựa buôn bán vải vóc rất lớn khắp trong Nam, ngoài Bắc. Bà sinh được 3 ng..." />
+<link rel="canonical" href="http://www.baomoi.com/chuyen-nha-quan-huyen-don-dau-bang-truc-thang-rieng/c/21792455.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792455" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792455" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/doi-song/song-la/nha-quan-huyen-ha-thanh-don-dau-bang-truc-thang-rieng-361717.html");
+else
+window.location.replace("http://www.baomoi.com/chuyen-nha-quan-huyen-don-dau-bang-truc-thang-rieng/c/21792455.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

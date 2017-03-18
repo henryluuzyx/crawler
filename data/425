@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bữa sáng nhẹ nhàng với bánh bao (màn thầu) hành chay - Em Đẹp
+</title><meta name="keywords" content="Vinh Oanh,cộng tác,email,phản ánh,Trung Quốc" /><meta name="description" content="Bây giờ, bạn có thể tự tay làm những chiếc bánh màn thầu Trung Hoa ngay tại nhà với công thức vô cùng đơn giản và nguyên liệu dễ kiếm." />
+<link rel="canonical" href="http://www.baomoi.com/bua-sang-nhe-nhang-voi-banh-bao-man-thau-hanh-chay/c/21792622.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792622" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792622" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://emdep.vn/mon-ngon/bua-sang-nhe-nhang-voi-banh-bao-man-thau-hanh-chay-20170317161344402.htm");
+else
+window.location.replace("http://www.baomoi.com/bua-sang-nhe-nhang-voi-banh-bao-man-thau-hanh-chay/c/21792622.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

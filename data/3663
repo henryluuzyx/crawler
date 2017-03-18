@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhóm thanh niên đánh võng, lái xe bằng chân - Pháp Luật Plus
+</title><meta name="keywords" content="đánh võng,vi-đê-ô,Nguyễn Duy Thanh,Công an huyện Diễn Châu,Hải Bình,mạng xã hội,quốc lộ 1a,thu giữ,Nghệ An,vnexpress" /><meta name="description" content="Tham gia đoàn rước dâu, nhóm thanh niên ở Nghệ An chạy xe máy không đội mũ bảo hiểm và liên tục đánh võng, có người còn dùng chân để lái xe." />
+<link rel="canonical" href="http://www.baomoi.com/nhom-thanh-nien-danh-vong-lai-xe-bang-chan/c/21792377.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792377" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792377" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.phapluatplus.vn/nhom-thanh-nien-danh-vong-lai-xe-bang-chan-d38434.html");
+else
+window.location.replace("http://www.baomoi.com/nhom-thanh-nien-danh-vong-lai-xe-bang-chan/c/21792377.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

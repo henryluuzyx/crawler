@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tổ chức Chương trình Xuân Quê hương hàng năm - Tổ Quốc
+</title><meta name="keywords" content="bộ ngoại giao,người Việt,bảo đảm" /><meta name="description" content="Thủ tướng Chính phủ yêu cầu Bộ Ngoại giao chủ động phối hợp chặt chẽ với các cơ quan, địa phương liên quan quyết định việc tổ chức Chương trình Xuân Quê hươ..." />
+<link rel="canonical" href="http://www.baomoi.com/to-chuc-chuong-trinh-xuan-que-huong-hang-nam/c/21793298.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793298" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793298" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://toquoc.vn/thoi_su/to-chuc-chuong-trinh-xuan-que-huong-hang-nam-231891.html");
+else
+window.location.replace("http://www.baomoi.com/to-chuc-chuong-trinh-xuan-que-huong-hang-nam/c/21793298.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

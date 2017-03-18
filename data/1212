@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+5 nan đề đợi Ngoại trưởng Mỹ khi thăm Trung Quốc - VietTimes
+</title><meta name="keywords" content="Rex Tillerson,ngoại trưởng mỹ,triều tiên,tên lửa đạn đạo,Bình Nhưỡng,hàn quốc,washington,đông bắc á,Trung Quốc,bắc kinh,Mỹ,Trump,châu á,trừng phạt,hệ thống phòng thủ tên lửa,cách tiếp cận,Hwang Kyo-ahn,Tập Cận Bình,Nhật Bản,kêu gọi,Sean King" /><meta name="description" content="Ngày 18/3, Ngoại trưởng Mỹ Rex Tillerson sẽ đến Bắc Kinh. Đây là chuyến thăm Bắc Kinh của một quan chức cao cấp Mỹ đầu tiên, kể từ khi ông Donald Trump bước..." />
+<link rel="canonical" href="http://www.baomoi.com/5-nan-de-doi-ngoai-truong-my-khi-tham-trung-quoc/c/21792326.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792326" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792326" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://viettimes.vn/su-gia-cua-donald-trump-tham-trung-quoc-ban-viec-gi-113863.html");
+else
+window.location.replace("http://www.baomoi.com/5-nan-de-doi-ngoai-truong-my-khi-tham-trung-quoc/c/21792326.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

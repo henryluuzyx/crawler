@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phượt đến Bạc Liêu để có bức ảnh check-in siêu hot - Kiến Thức
+</title><meta name="keywords" content="Biển Đông A,biển Bạc Liêu,Cái Cùng,đường Cao Văn Lầu,Hưng Hội,Vĩnh Hậu,Vĩnh Trạch Đông,Cao Văn Lầu,Bạc Liêu,Nhà Mát,đờn ca tài tử,Vĩnh Lợi,khmer,phường 3,an nghỉ,Điện Biên Phủ,tưởng niệm,đồng bằng sông cửu long,thu hoạch,Nha Trang,Vũng Tàu" /><meta name="description" content="Với nhiều địa điểm đặc sắc, Bạc Liêu được nhiều người người điền vào nơi có thể để lại những bức ảnh check-in siêu hot." />
+<link rel="canonical" href="http://www.baomoi.com/phuot-den-bac-lieu-de-co-buc-anh-check-in-sieu-hot/c/21793051.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793051" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793051" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kienthuc.net.vn/cong-dong-tre/phuot-den-bac-lieu-de-co-buc-anh-check-in-sieu-hot-841115.html");
+else
+window.location.replace("http://www.baomoi.com/phuot-den-bac-lieu-de-co-buc-anh-check-in-sieu-hot/c/21793051.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

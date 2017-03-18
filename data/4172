@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Robot đào đường hầm 'khủng' cho tuyến metro Sài Gòn​ - Zing
+</title><meta name="keywords" content="Metro Sài Gòn,rô-bốt,metro,Lê Quân,Nhật Bản" /><meta name="description" content="Thiết bị đào ngầm robot TBM được xem là &quot;khủng&quot; từ Nhật Bản có tổng chiều dài 70 m, nặng 300 tấn đang được đơn vị thi công lắp ráp để đào đoạn ngầm dài 781 ..." />
+<link rel="canonical" href="http://www.baomoi.com/robot-dao-duong-ham-khung-cho-tuyen-metro-sai-gon/c/21792191.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792191" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792191" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/robot-dao-duong-ham-khung-cho-tuyen-metro-sai-gon-post729352.html");
+else
+window.location.replace("http://www.baomoi.com/robot-dao-duong-ham-khung-cho-tuyen-metro-sai-gon/c/21792191.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

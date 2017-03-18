@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Chiến sĩ Vùng Cảnh sát biển 4 tìm hiểu tư liệu chủ quyền - VietnamNet
+</title><meta name="keywords" content="Trường Sa,Hoàng Sa,khai phá,bộ tư lệnh,quần đảo hoàng sa,trưng bày,thực thi,biển Đông,xã hội chủ nghĩa,chứng minh,Cảnh sát Biển Việt Nam,Hương Quỳnh,Nguyễn Văn Tạo,khai mạc,nhận thức,điều ước quốc tế,bảo vệ,chuyên trách,việt nam,chấp hành,tham quan" /><meta name="description" content="Chiều nay, Bộ TT&amp;TT phối hợp với Bộ Tư lệnh Vùng Cảnh sát biển 4 tổ chức triển lãm bản đồ và trưng bày tư liệu “Hoàng Sa, Trường Sa của Việt Nam - Những bằn..." />
+<link rel="canonical" href="http://www.baomoi.com/chien-si-vung-canh-sat-bien-4-tim-hieu-tu-lieu-chu-quyen/c/21790242.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790242" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790242" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vietnamnet.vn/vn/thong-tin-truyen-thong/tin-moi-chien-si-vung-canh-sat-bien-4-tim-hieu-tu-lieu-chu-quyen-361885.html");
+else
+window.location.replace("http://www.baomoi.com/chien-si-vung-canh-sat-bien-4-tim-hieu-tu-lieu-chu-quyen/c/21790242.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

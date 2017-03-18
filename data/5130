@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Giải thưởng danh giá của cuộc thi ảnh Rolls-Royce tại Việt Nam đã có chủ - Doanh Nghiệp
+</title><meta name="keywords" content="Rolls-Royce Motor Cars Hanoi,Nguyễn Đăng Việt,Nguyễn Duy Hoàng,Đoàn Hiếu Minh,rolls-royce,trang tin điện tử,VIỆT DŨNG,triển lãm ô tô,bình chọn,bangkok,vinh danh,sáng tác,cư dân mạng,facebook,sáng tạo,phản ánh,việt nam" /><meta name="description" content="Cuộc thi ảnh “Inspiration at Every Corner 2017” do Rolls-Royce Motor Cars Hanoi tổ chức đã vinh danh hai chủ nhân của những bức ảnh ấn tượng nhất." />
+<link rel="canonical" href="http://www.baomoi.com/giai-thuong-danh-gia-cua-cuoc-thi-anh-rolls-royce-tai-viet-nam-da-co-chu/c/21786449.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21786449" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21786449" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://doanhnghiepvn.vn/giai-thuong-danh-gia-cua-cuoc-thi-anh-rolls-royce-tai-viet-nam-da-co-chu-d94624.html");
+else
+window.location.replace("http://www.baomoi.com/giai-thuong-danh-gia-cua-cuoc-thi-anh-rolls-royce-tai-viet-nam-da-co-chu/c/21786449.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

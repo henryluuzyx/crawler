@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Xác định nguyên nhân cá chết ở sông Âm - Giao Thông
+</title><meta name="keywords" content="Sông Âm,Vân Am,Giao An,hệ thống xử lý nước thải,Bãi Bùi,Huyện Ngọc Lặc,Lang Chánh,Phúc Tuấn,Thanh Hóa,UBND Tỉnh Thanh Hóa,tiến hành điều tra,phát hiện,chỉ đạo" /><meta name="description" content="Ngày 16/3, Sở TT&amp;TT Thanh Hóa cho biết, đã có báo cáo kết quả về vụ việc cá chết ở tuyến sông Âm..." />
+<link rel="canonical" href="http://www.baomoi.com/xac-dinh-nguyen-nhan-ca-chet-o-song-am/c/21792651.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792651" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792651" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/xac-dinh-nguyen-nhan-ca-chet-o-song-am-d192590.html");
+else
+window.location.replace("http://www.baomoi.com/xac-dinh-nguyen-nhan-ca-chet-o-song-am/c/21792651.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

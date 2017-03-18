@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nghe - Xem - Đọc cuối tuần ở TPHCM - Tiêu Dùng Plus
+</title><meta name="keywords" content="Tâm hồn nhà thơ,tơ-rưng,swing,Bỉ,nguyễn du,Quận 1,Việt Thị Kim Quyên,Nguyễn Duy Nhựt,Sebastian Myrus,Axelle Red,Boris Schönleber,Nguyễn Thị Hoa Đăng,Katharina Padrok,Địa Projects,sáng tạo,Hứa Thanh Bình,Nhà Sàn Collective,bảo tàng Mỹ thuật TPHCM,Nguyễn Hồng Đức,Trần Thùy Linh,Công Trường Lam Sơn" /><meta name="description" content="Tam tấu nhạc jazz, triển lãm “Gặp” hay dự án nghệ thuật “Những Chân Trời Có Người Bay 3”,... sẽ góp phần giúp đời sống văn hóa - nghệ thuật của người dân TP..." />
+<link rel="canonical" href="http://www.baomoi.com/nghe-xem-doc-cuoi-tuan-o-tphcm/c/21790187.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790187" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790187" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://tieudungplus.vn/nghe-xem-doc-cuoi-tuan-o-tphcm-16176.html");
+else
+window.location.replace("http://www.baomoi.com/nghe-xem-doc-cuoi-tuan-o-tphcm/c/21790187.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

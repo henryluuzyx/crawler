@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mỹ triển khai tên lửa phòng không tới châu Âu - VnMedia
+</title><meta name="keywords" content="Đan Khanh,phòng không,chế tạo,Mỹ,John Murray,phòng thủ,tia hồng ngoại,phát hiện,châu âu,tia cực tím,phân tán" /><meta name="description" content="Mỹ đang có kế hoạch triển khai hệ thống tên lửa phòng không vác vai Stinger tới châu Âu để hỗ trợ các đơn vị quân sự ở đó. Đó là thông tin vừa được Phó Tư l..." />
+<link rel="canonical" href="http://www.baomoi.com/my-trien-khai-ten-lua-phong-khong-toi-chau-au/c/21788952.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21788952" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21788952" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vnmedia.vn/quoc-te/201703/my-trien-khai-ten-lua-phong-khong-toi-chau-au-560471/");
+else
+window.location.replace("http://www.baomoi.com/my-trien-khai-ten-lua-phong-khong-toi-chau-au/c/21788952.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

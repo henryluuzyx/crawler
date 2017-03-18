@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Đà Nẵng kiểm tra dự án khu nghỉ dưỡng ở bán đảo Sơn Trà - Phụ Nữ News
+</title><meta name="keywords" content="Bán Đảo Sơn Trà,UBND quận Sơn Trà,Huỳnh Văn Hùng,Biển Tiên Sa,Rừng Sơn Trà,Đà Nẵng,du lịch sinh thái,nam trung bộ,Sở Xây dựng,quy hoạch,kiểm lâm,Tp Đà Nẵng,bảo tồn,Ngọc Trường,Trần Viết Phương,dự án đầu tư xây dựng,chuyển đổi,đa dạng sinh học,vnexpress" /><meta name="description" content="Trước lo ngại về việc thi công dự án khu nghỉ dưỡng ở rừng Sơn Trà sẽ ảnh hưởng đến môi trường, nhà chức trách Đà Nẵng tổ chức lực lượng đến hiện trường kiể..." />
+<link rel="canonical" href="http://www.baomoi.com/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/c/21792767.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792767" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792767" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/tin-tuc/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra-145524/");
+else
+window.location.replace("http://www.baomoi.com/da-nang-kiem-tra-du-an-khu-nghi-duong-o-ban-dao-son-tra/c/21792767.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

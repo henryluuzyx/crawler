@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Học sinh 16 tuổi nổ súng tại trường học Pháp, 3 người bị thương - Giao Thông
+</title><meta name="keywords" content="Lê Cường,Fabienne Atzori,Pháp,nổ súng,bộ nội vụ,công tố viên,miền nam,Associated Press,facebook" /><meta name="description" content="Bộ Nội Vụ Pháp cho biết, học sinh bắn 4 phát súng tại trường học làm nhiều bạn cùng lớp bị thương đã bị cảnh sát bắt giữ." />
+<link rel="canonical" href="http://www.baomoi.com/hoc-sinh-16-tuoi-no-sung-tai-truong-hoc-phap-3-nguoi-bi-thuong/c/21793268.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793268" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793268" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/hoc-sinh-16-tuoi-no-sung-tai-truong-hoc-phap-3-nguoi-bi-thuong-d192586.html");
+else
+window.location.replace("http://www.baomoi.com/hoc-sinh-16-tuoi-no-sung-tai-truong-hoc-phap-3-nguoi-bi-thuong/c/21793268.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

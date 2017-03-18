@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bộc lộ nhiều 'lỗ hổng' trong quản lý biểu diễn xiếc thú - CAND
+</title><meta name="keywords" content="Phạm Xuân Quang,Trần Quốc Chiêm,Tống Toàn Thắng,Trần Văn Hoàn,Liên đoàn Xiếc Việt Nam,Đỗ Mạnh Hùng,Ngọc Nguyễn,Thể thao Hà Nội,sách đỏ,sở văn hóa,bảo hiểm,huấn luyện,Hai Bà Trưng,bảo hộ,Hà Nam,vốn đầu tư,mạo hiểm,Lao Động,tốn kém,phấn khích,cân đối" /><meta name="description" content="Vụ việc diễn viên xiếc Đỗ Mạnh Hùng bị cá sấu cắn rách mặt khi thực hiện tiết mục đưa đầu vào miệng cá sấu tại Hà Nam khiến dư luận bàng hoàng. Nhiều người ..." />
+<link rel="canonical" href="http://www.baomoi.com/boc-lo-nhieu-lo-hong-trong-quan-ly-bieu-dien-xiec-thu/c/21774819.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21774819" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21774819" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://cand.com.vn/tieu-diem-van-hoa/ca-sau-can-mat-dien-vien-he-mo-nhieu-lo-hong-quan-ly-bieu-dien-xiec-thu-432600/");
+else
+window.location.replace("http://www.baomoi.com/boc-lo-nhieu-lo-hong-trong-quan-ly-bieu-dien-xiec-thu/c/21774819.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

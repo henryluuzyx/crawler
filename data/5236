@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những điểm du lịch đang thu hút khách tại Quảng Bình - Zing
+</title><meta name="keywords" content="Skull Island,Quảng Bình,Thung Lũng Chà Nòi,kẻ bàng,Minh Hóa,Tân Hóa,Đảo Yến,Vũng Chùa,Đèo Đá Đẽo,Bao quanh suối nước Moọc,Từ Đảo Yến,Quần thể Phong Nha,Bùi Quốc Thống,Go Asean,Hòn Gió,phim bom tấn,Thượng Hòa,Hòn Nồm,Suối Nước Moọc,quốc lộ 15,Cao Quảng" /><meta name="description" content="Quảng Bình là một trong những địa điểm thú vị để dừng chân, thưởng thức thiên nhiên. Nếu bạn có ý định đến thăm mảnh đất ấy, đừng bỏ qua những điểm du lịch ..." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-diem-du-lich-dang-thu-hut-khach-tai-quang-binh/c/21755242.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21755242" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21755242" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/nhung-diem-du-lich-dang-thu-hut-khach-tai-quang-binh-post727120.html");
+else
+window.location.replace("http://www.baomoi.com/nhung-diem-du-lich-dang-thu-hut-khach-tai-quang-binh/c/21755242.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

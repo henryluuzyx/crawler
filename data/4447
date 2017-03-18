@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Khai mạc Hội Báo toàn quốc năm 2017 - Nhân Dân
+</title><meta name="keywords" content="Trần Bình Minh,nhà báo Lưu Quý Kỳ,đài truyền hình việt nam,Hội Báo Xuân,hội nhà báo việt nam,quảng bá,Phạm Văn Linh,Thuận Hữu,Phan Đình Trạc,ngày nhà báo việt nam,Hoàng Bình Quân,Vương Duy Biên,Nguyễn Thị Doan,Phạm Quang Nghị,Xuân Đinh Dậu,Võ Văn Thưởng,tuyên giáo,Trương Minh Tuấn,Vũ Đức Đam,đại hội đại biểu toàn quốc,thành ủy Hà Nội" /><meta name="description" content="Sáng 17-3, tại Hà Nội, Hội Báo toàn quốc năm 2017 với chủ đề “Báo chí Việt Nam đồng hành cùng đất nước đổi mới” đã chính thức khai mạc. Hội Báo do Hội Nhà b..." />
+<link rel="canonical" href="http://www.baomoi.com/khai-mac-hoi-bao-toan-quoc-nam-2017/c/21792418.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792418" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792418" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/chinhtri/item/32341102-khai-mac-hoi-bao-toan-quoc-nam-2017.html");
+else
+window.location.replace("http://www.baomoi.com/khai-mac-hoi-bao-toan-quoc-nam-2017/c/21792418.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

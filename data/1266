@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Ngoại trưởng Mỹ: Đánh phủ đầu Triều Tiên là một lựa chọn - Giao Thông
+</title><meta name="keywords" content="Lê Dũng,triều tiên,Mỹ,Rex Tillerson,ngoại giao,ngoại trưởng mỹ,Hàn Quốc Yun Byung-se,Yun Byung-se,Trung Quốc,chỉ huy,Associated Press,washington,hệ thống phòng thủ tên lửa,vũ khí hạt nhân,seoul,trấn an,hàn quốc,nghiên cứu" /><meta name="description" content="Theo ông Tillerson, một loạt các biện pháp mới đang được Mỹ và các đồng minh nghiên cứu." />
+<link rel="canonical" href="http://www.baomoi.com/ngoai-truong-my-danh-phu-dau-trieu-tien-la-mot-lua-chon/c/21793274.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793274" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793274" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/ngoai-truong-my-danh-phu-dau-trieu-tien-la-mot-lua-chon-d192651.html");
+else
+window.location.replace("http://www.baomoi.com/ngoai-truong-my-danh-phu-dau-trieu-tien-la-mot-lua-chon/c/21793274.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

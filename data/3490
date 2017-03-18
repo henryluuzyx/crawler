@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cuối tuần trời tiếp tục nồm, độ ẩm 100% - Tin Tức TTXVN
+</title><meta name="keywords" content="trung tâm dự báo khí tượng thủy văn,Tây Bắc Bộ,bắc bộ,Bình Thuận,Thừa Thiên-Huế,Hà Nội,thông tấn xã việt nam" /><meta name="description" content="Độ ẩm nhiều khu vực phía Bắc lên tới 100% khiến không khí ẩm thấp, mưa lép nhép. Điều này sẽ gây không ít khó khăn, bất tiện cho sinh hoạt của người dân." />
+<link rel="canonical" href="http://www.baomoi.com/cuoi-tuan-troi-tiep-tuc-nom-do-am-100/c/21793043.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793043" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793043" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/xa-hoi/cuoi-tuan-troi-tiep-tuc-nom-do-am-100-20170318065843856.htm");
+else
+window.location.replace("http://www.baomoi.com/cuoi-tuan-troi-tiep-tuc-nom-do-am-100/c/21793043.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

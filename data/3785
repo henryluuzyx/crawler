@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Ba thanh niên say rượu đi xả lũ gây ngập úng cả vùng - PLO
+</title><meta name="keywords" content="Suối Vực,Sơn Nguyên,Suối Bạc,hồ Suối Vực,UBND xã Sơn Nguyên,Đặng Văn Thiện,ngập úng,Phú Yên,thu hoạch,cấp nước,UBND huyện Sơn Hòa,Công an huyện Sơn Hòa,Nguyễn Quang Tuyên,Trần Tiến Anh,Pháp Luật Tp.HCM,phát hiện,ghi nhận" /><meta name="description" content="Ba thanh niên ở Phú Yên say rượu tự ý mở van xả lũ hồ chứa nước, làm hơn 2 triệu m3 nước đổ xuống, gây ngập úng, cuốn trôi nhiều tài sản, hoa màu của người dân." />
+<link rel="canonical" href="http://www.baomoi.com/ba-thanh-nien-say-ruou-di-xa-lu-gay-ngap-ung-ca-vung/c/21790890.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790890" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790890" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/an-ninh-trat-tu/ba-thanh-nien-say-ruou-di-xa-lu-gay-ngap-ung-ca-vung-689473.html");
+else
+window.location.replace("http://www.baomoi.com/ba-thanh-nien-say-ruou-di-xa-lu-gay-ngap-ung-ca-vung/c/21790890.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những 'dị quả' không hạt gây sốt thị trường Việt - Kiến Thức
+</title><meta name="keywords" content="miền tây,Ổi Phugi,cara,Định Quán,venezuela,đài loan,Đồng Nai,Thái Lan,việt nam" /><meta name="description" content="Những loại quả không hạt xuất hiện trên thị trường Việt như na, ổi, mít...với nhiều ưu điểm vượt trội đã chiếm được cảm tình của người tiêu dùng." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-di-qua-khong-hat-gay-sot-thi-truong-viet/c/21790850.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790850" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790850" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kienthuc.net.vn/kinh-doanh/nhung-di-qua-khong-hat-gay-sot-thi-truong-viet-840960.html");
+else
+window.location.replace("http://www.baomoi.com/nhung-di-qua-khong-hat-gay-sot-thi-truong-viet/c/21790850.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

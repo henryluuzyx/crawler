@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những hình ảnh tại Hội Báo toàn quốc năm 2017 - VOV
+</title><meta name="keywords" content="Thuận Hữu,ảnh báo chí,hội nhà báo việt nam,học viện báo chí và tuyên truyền,talk show,khai mạc,Võ Văn Thưởng,tuyên giáo,Vũ Đức Đam,trưng bày,đài tiếng nói việt nam,tác nghiệp,đài truyền hình việt nam,ghi hình,MC,đào tạo,trung ương đảng,sản xuất,lãnh đạo,việt nam" /><meta name="description" content="Sáng nay (17/3), tại tòa nhà Hội Nhà báo Việt Nam đã diễn ra Hội Báo toàn quốc năm 2017 thu hút hàng trăm cơ quan báo chí và độc giả đến tham dự." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-hinh-anh-tai-hoi-bao-toan-quoc-nam-2017/c/21790246.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790246" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790246" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vov.vn/xa-hoi/nhung-hinh-anh-an-tuong-trong-hoi-bao-toan-quoc-2017-603776.vov");
+else
+window.location.replace("http://www.baomoi.com/nhung-hinh-anh-tai-hoi-bao-toan-quoc-nam-2017/c/21790246.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

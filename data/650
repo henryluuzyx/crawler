@@ -1,0 +1,125 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Báo Mới - Đăng ký nhận thông báo, nhận tin nóng và tin mới cập nhật
+</title><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta charset="utf-8" /><link rel="apple-touch-icon" sizes="57x57" href="App_Themes/Images/apple-touch-icon-57x57.png" /><link rel="apple-touch-icon" sizes="60x60" href="App_Themes/Images/apple-touch-icon-60x60.png" /><link rel="apple-touch-icon" sizes="72x72" href="App_Themes/Images/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon" sizes="76x76" href="App_Themes/Images/apple-touch-icon-76x76.png" /><link rel="apple-touch-icon" sizes="114x114" href="App_Themes/Images/apple-touch-icon-114x114.png" /><link rel="apple-touch-icon" sizes="120x120" href="App_Themes/Images/apple-touch-icon-120x120.png" /><link rel="apple-touch-icon" sizes="144x144" href="App_Themes/Images/apple-touch-icon-144x144.png" /><link rel="apple-touch-icon" sizes="152x152" href="App_Themes/Images/apple-touch-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="App_Themes/Images/apple-touch-icon-180x180.png" /><link rel="icon" type="image/png" href="App_Themes/Images/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="App_Themes/Images/android-chrome-192x192.png" sizes="192x192" /><link rel="icon" type="image/png" href="App_Themes/Images/favicon-96x96.png" sizes="96x96" /><link rel="icon" type="image/png" href="App_Themes/Images/favicon-16x16.png" sizes="16x16" /><link rel="manifest" href="scripts/manifest.json" /><link href="App_Themes/Styles/push.css" rel="stylesheet" />
+    <script src="scripts/push.js"></script>
+    <script>
+        window.onload = function () {
+            var email = getParameterByName('email');
+            var inputEmail = document.getElementById('input-email');
+            if (inputEmail != null && inputEmail != undefined) {
+                inputEmail.value = email;
+            }
+
+            var method = getParameterByName('method');
+            if (method + '' == 'unsubscribe') {
+                var registerButton = document.getElementById('register-button');
+                registerButton.value = 'Hủy đăng ký';
+            }
+        };
+
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+            var regexString = "[\\?&]" + name + "=([^&#]*)";
+            var regex = new RegExp(regexString);
+            var found = regex.exec(window.location.search);
+            if (found == null) {
+                return "";
+            }
+            else {
+                return decodeURIComponent(found[1].replace(/\+/g, " "));
+            }
+        };
+
+        function registerEmail() {
+            var inputEmail = document.getElementById('input-email');
+            var email = '';
+            if (inputEmail != null && inputEmail != undefined)
+                email = inputEmail.value;
+            if (email == '') {
+                alert('Vui lòng nhập địa chỉ email!');
+                return false;
+            }
+
+            if (!CheckMail(email)) {
+                alert('Địa chỉ email không đúng định dạng!');
+                return false;
+            }
+
+            var method = getParameterByName('method');
+            if (method + '' == 'unsubscribe') {
+                var secretkey = getParameterByName('secretkey');
+                postRegisterEmail('https://noti.baomoi.com/subscription.aspx?method=unsubscribe&type=mail&registrationId=' + email + '&secretkey=' + secretkey, 'Hủy đăng ký nhận thông tin qua email thành công!', 'Thông tin hủy đăng ký không chính xác!');
+            }
+            else {
+                postRegisterEmail('https://noti.baomoi.com/subscription.aspx?method=subscribe&type=mail&registrationId=' + email, 'Đăng ký nhận thông tin qua email thành công!', '');
+            }
+        };
+
+        function CheckMail(email) {
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if (!filter.test(email)) {
+                return false;
+            }
+            return true;
+        };
+
+        function postRegisterEmail(url, sucMsg, errMsg) {
+            var http = new XMLHttpRequest();
+            http.open("POST", url, true);
+            http.onreadystatechange = function () {
+                if (http.readyState == 4 && http.status == 200) {
+                    if (http.responseText.indexOf('"error":false') > 0)
+                        alert(sucMsg);
+                    else alert(errMsg);
+                }
+            }
+            http.send(null);
+        };
+    </script>
+</head>
+<body>
+    <div class="site-wrap">
+        <h2 class="title">
+            <a href="#">
+                <img src="App_Themes/Images/logo-baomoi.png" alt="" />
+            </a>
+        </h2>
+        <div class="push box">
+            <h3>Đăng ký nhận thông báo đến máy tính của bạn</h3>
+            <p>
+                Khi nhận thông báo mới, bạn sẽ nhìn thấy ở góc màn hình. 
+                Với việc đăng ký nhận thông báo. Bạn sẽ nhận được tin tức nóng nhất, mới nhất hàng ngày khi có thông báo từ <strong><a href="http://www.baomoi.com/">Báo Mới</a></strong> và bạn đang mở trình duyệt Chrome mà không cần phải vào trang Web <strong><a href="http://www.baomoi.com/">baomoi.com</a></strong>. 
+                Bạn hãy bắt đầu bằng cách nhấn "<strong>Đăng ký nhận thông báo từ Báo mới</strong>". 
+                Trong trường hợp bạn đã đăng ký trên máy tình này, để hủy nhận thông báo, bạn vui lòng nhấn "<strong>Hủy đăng ký nhận thông báo từ báo mới</strong>".
+            </p>
+            <div class="clearfix">
+                <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect js-push-toggle-switch" for="switch-2">
+                    <input type="checkbox" id="switch-2" class="mdl-switch__input" disabled="disabled" />
+                    <span class="mdl-switch__label">Đăng ký nhận thông báo từ Báo Mới</span>
+                </label>
+                <script src="scripts/notification.js"></script>
+            </div>
+        </div>
+        <div class="email box">
+            <h3>Đăng ký nhận tin nóng, tin mới đến email của bạn</h3>
+            <p>
+                Với việc đăng ký nhận tin qua email. Bạn sẽ nhận được những tin tức nóng nhất, mới nhất hàng ngày được gửi đến từ <strong><a href="http://www.baomoi.com/">Báo Mới</a></strong>. 
+                Tin tức sẽ được phân loại và gửi vào email bạn đã đăng ký. Bạn hãy bắt đầu bằng cách nhập địa chỉ email của mình vào ô trống và nhấn "<strong>Đăng ký</strong>". 
+                Trong trường hợp bạn đã đăng ký, để hủy đăng ký nhận tin qua email, bạn vui lòng nhấn "<strong>Hủy đăng ký nhận tin</strong>" trong email tin tức hàng ngày từ <strong><a href="http://www.baomoi.com/">Báo Mới</a></strong> gửi đến bạn.
+                Cửa sổ mới bật ra bạn nhấn "<strong>Hủy đăng ký</strong>".
+            </p>
+            <div class="clearfix"></div>
+            <label>
+                <input id="input-email" type="email" class="input-email" />
+                <input id="register-button" type="submit" class="register-button" value="Đăng ký" onclick="javascript: registerEmail();" />
+            </label>
+        </div>
+    </div>
+</body>
+</html>
+

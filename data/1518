@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+'Nhạc Hội Song Ca': Thi nhau hôn tay, Hương Giang Idol 'tiếm ngôi' Lan Phương - TT&VH
+</title><meta name="keywords" content="Lan Phương,Nhạc hội song ca,Hương Giang Idol,Lân Nhã,Remix New Generation,Đằng Phương,Hương Giang,Lê Khánh,Lan Hương,Hồ Quang Hiếu,Trịnh Thăng Bình,Ngô Kiến Huy,Bảo Anh,htv7,MC,bình luận,chiến thắng" /><meta name="description" content="Dù đang tất bật với phần dự thi vòng trong Remix New Generation, Hương Giang vẫn dư năng lượng để “đại náo” Nhạc Hội Song Ca tập 12." />
+<link rel="canonical" href="http://www.baomoi.com/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793119" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793119" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thethaovanhoa.vn/van-hoa-giai-tri/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong-n20170318002722820.htm");
+else
+window.location.replace("http://www.baomoi.com/nhac-hoi-song-ca-thi-nhau-hon-tay-huong-giang-idol-tiem-ngoi-lan-phuong/c/21793119.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

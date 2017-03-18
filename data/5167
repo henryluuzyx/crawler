@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cách làm nem tai trộn thính ngon như ngoài hàng - Phụ Nữ News
+</title><meta name="keywords" content="NEM" /><meta name="description" content="Nhắc đến món nem tai trộn thính, mọi người có thể dễ dàng cảm nhận được vị giòn thơm của một món ăn ngoài hàng, rất hay được lựa chọn trong bàn tiệc. Món ăn..." />
+<link rel="canonical" href="http://www.baomoi.com/cach-lam-nem-tai-tron-thinh-ngon-nhu-ngoai-hang/c/21760997.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21760997" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21760997" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phununews.vn/nau-an/cach-lam-nem-tai-tron-thinh-ngon-nhu-ngoai-hang-143855/");
+else
+window.location.replace("http://www.baomoi.com/cach-lam-nem-tai-tron-thinh-ngon-nhu-ngoai-hang/c/21760997.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

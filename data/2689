@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Giá vàng lên mạnh dù lãi suất USD tăng, vì sao? - Hà Nội Mới
+</title><meta name="keywords" content="cục dự trữ liên bang,doji,thị trường vàng,kinh tế Mỹ,biến động,Mỹ,Tập Đoàn DOJI,Donald Trump,châu á,đầu tư,liên minh châu âu,thị trường trong nước,bầu cử,việt nam,phản ánh,thị trường tài chính,tổng thống Mỹ,đàm phán,Anh,phụ thuộc,Nguyễn Trí Hiếu" /><meta name="description" content="Giá vàng thế giới và trong nước đều tăng mạnh sau khi Cục dự trữ liên bang Mỹ (Fed) tăng lãi suất USD lần thứ hai trong ba tháng qua. Điều này dường như trá..." />
+<link rel="canonical" href="http://www.baomoi.com/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/c/21789591.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789591" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789591" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://hanoimoi.com.vn/Tin-tuc/Chung-khoan/864589/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao");
+else
+window.location.replace("http://www.baomoi.com/gia-vang-len-manh-du-lai-suat-usd-tang-vi-sao/c/21789591.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+'Đá World Cup là chuyện danh dự quốc gia' - Giao Thông
+</title><meta name="keywords" content="Đá World Cup,đội tuyển U20 Việt Nam,Vương Tiến Dũng,World Cup 2017,U20 Việt Nam,Việt Hoàng,Lê Thụy Hải,Gianluigi Buffon,FLC Thanh Hóa,Lê Huỳnh Đức,Hoàng Anh Tuấn,Leicester,V-League,Cúp FA,world cup,Võ Hoàng Yến,José Mourinho,chelsea,Thanh Hóa,đối đầu,champions league" /><meta name="description" content="Đá World Cup bây giờ không chỉ đơn thuần là vấn đề chuyên môn, đó là chuyện hình ảnh, danh dự quốc gia..." />
+<link rel="canonical" href="http://www.baomoi.com/da-world-cup-la-chuyen-danh-du-quoc-gia/c/21793279.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793279" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793279" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/da-world-cup-la-chuyen-danh-du-quoc-gia-d192567.html");
+else
+window.location.replace("http://www.baomoi.com/da-world-cup-la-chuyen-danh-du-quoc-gia/c/21793279.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

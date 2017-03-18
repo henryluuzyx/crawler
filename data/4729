@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bom thư nổ ở văn phòng Quỹ Tiền tệ quốc tế ở Paris - Giao Thông
+</title><meta name="keywords" content="Lê Cường,Đức Wolfgang Schaeuble,báo Telegraph,cảnh sát Pháp,IMF,Pháp,phát nổ,đảng đối lập,paris,bộ trưởng tài chính,Hy Lạp,khủng bố,Anh" /><meta name="description" content="Bì thư được cho là đã phát nổ tại văn phòng Quỹ tiền tệ quốc tế (IMF) ở Paris, Pháp ngày 16/3." />
+<link rel="canonical" href="http://www.baomoi.com/bom-thu-no-o-van-phong-quy-tien-te-quoc-te-o-paris/c/21786963.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21786963" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21786963" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/bom-thu-no-o-van-phong-quy-tien-te-quoc-te-o-paris-d192556.html");
+else
+window.location.replace("http://www.baomoi.com/bom-thu-no-o-van-phong-quy-tien-te-quoc-te-o-paris/c/21786963.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

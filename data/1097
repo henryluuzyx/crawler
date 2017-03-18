@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhà ở 150 triệu đồng là 'siêu tưởng' - Dân Việt
+</title><meta name="keywords" content="Sử Ngọc Khương,Savills Việt Nam,nhà ở xã hội,Bình Dương,cấp thoát nước,đền bù,phê duyệt,quy hoạch đô thị,xử lý nước thải,hạ tầng kỹ thuật,đầu tư,quy hoạch,thành phố hồ chí minh,giáo dục,nghiên cứu" /><meta name="description" content="Nhiều nhà đầu tư đang chuyển hướng vào nhà ở giá rẻ để đáp ứng nhu cầu thật của thị trường. Nhưng giá rẻ rất khó đi kèm với chất lượng và tuổi thọ chung cư...." />
+<link rel="canonical" href="http://www.baomoi.com/nha-o-150-trieu-dong-la-sieu-tuong/c/21792682.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792682" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792682" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/kinh-te/nha-o-150-trieu-dong-la-sieu-tuong-754112.html");
+else
+window.location.replace("http://www.baomoi.com/nha-o-150-trieu-dong-la-sieu-tuong/c/21792682.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

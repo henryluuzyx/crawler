@@ -1,0 +1,1473 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Ứng dụng tạo video từ hình ảnh với những hiệu ứng cực đẹp mắt</title><meta name="description" content="(Dân trí) - Nhân một dịp đặc biệt nào đó như sinh nhật, ngày 8/3 hay 14/2... bạn muốn tạo ra một đoạn video ấn tượng từ những hình ảnh của riêng mình như một món quà ý nghĩa cho người mà mình yêu quý? Ứng dụng dưới đây sẽ giúp bạn thực hiện điều này dễ dàng." /><meta name="keywords" content="ứng dụng miễn phí,bắn pháo hoa,xử lý video,ứng dụng video,thủ thuật,xử lý ảnh,tạo hiệu ứng ảnh" /><meta name="news_keywords" content="ứng dụng miễn phí,bắn pháo hoa,xử lý video,ứng dụng video,thủ thuật,xử lý ảnh,tạo hiệu ứng ảnh" /> <script type="text/javascript">var _adm1='%2Fsu-kien%2Fdetail%2F';var _adm2= '%2Fsuc-manh-so%2Fdetail%2F'</script><div id="ctl00_ctl00_pnJsAdm">
+	
+        <script>
+            var urlDetailCheckAdm = window.location.href;
+            var _Analytics_Channel ="";
+            var _ADM_Channel = "";
+            if (urlDetailCheckAdm.indexOf("/su-kien/") != -1) {
+                _Analytics_Channel = _adm2;
+                _ADM_Channel = _adm1;
+            }
+            else {
+                _Analytics_Channel = undefined;
+                _ADM_Channel = _adm2;
+            }
+        </script>
+    
+</div>
+<!--[if lt IE 7 ]>
+    <noscript><meta http-equiv="refresh" content="0; url='/static/old-browser.html'" /></noscript>
+    <script type="text/javascript">
+        window.location.href = '/static/old-browser.html';
+    </script>
+    <![endif]-->
+<meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" />
+
+        <meta name="robots" content="index,follow,all" />
+    
+<meta property="og:locale" content="vi_VN" />
+
+<meta property="fb:app_id" content="164035690775918" />
+<meta name="generator" content="VCCorp.vn" />
+<meta name="copyright" content="Công ty Cổ phần VCCorp" />
+<meta name="author" content="VCCorp.vn" />
+<meta http-equiv="audience" content="General" />
+<meta name="resource-type" content="Document" />
+<meta name="distribution" content="Global" />
+<meta name="revisit-after" content="1 days" />
+<meta http-equiv="REFRESH" content="1800" />
+<link rel="icon" href="http://static.dantricdn.com/App_Themes/Default/Images/favico.ico" />
+<meta property="fb:pages" content="345033318906366" />
+<meta property="article:author" content="https://www.facebook.com/baodantridientu" />
+<meta property="article:publisher" content="https://www.facebook.com/baodantridientu" />
+
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <link href="https://static.dantricdn.com/min/web/css-default-new.1.1.css" rel="stylesheet" />
+
+
+
+
+<noscript>
+    <style type="text/css">
+        img.lazy { display: none; }
+    </style>
+</noscript>
+<style>
+    .icon-game { background: url('http://dantricdn.com/web_images/khcn.jpg') 0 0 no-repeat; }
+    .subnav ul li { height: 21px; }
+    .subnav a.btn-euro.event { padding: 0; width: auto; height: auto; }
+    .subnav ul a { line-height: 21px; }
+</style>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-34575478-26', 'auto');
+    ga('send', 'pageview');
+
+    //ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+    //ga('totaldt.send', 'pageview');
+
+    //if (location.pathname === '/' || location.pathname === '/the-gioi.htm') {
+    //    ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt1' });
+    //    ga('totaldt1.send', 'pageview');
+    //}
+</script>
+
+
+    <script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript" async></script>
+    
+<script type="text/javascript">
+    var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "17793284" }), function () {
+        var c = document.createElement("script"), e = document.getElementsByTagName("script")[0];
+        c.async = !0, c.src = ("https:" == document.location.protocol ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js", e.parentNode.insertBefore(c, e);
+    }();
+</script>
+
+
+
+    <!--[if lt IE 9]>
+    <script src="http://static.dantricdn.com/scripts/lib/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">var appSettings = {domain:'http://dantri.com.vn',imageDomain:'https://dantricdn.com',videoImageDomain:'http://video-thumbs.mediacdn.vn',ajaxDomain:'http://wcm.dantri.com.vn',ajaxDomainOther:'http://wcm.dantri.com.vn',ajaxDomainCountListComment:'http://wcm.dantri.com.vn',allowVietId:false, allowFacebook:true,urlExtension:'.htm' };</script>
+
+    <script type="text/javascript">
+        var _jsCbArr = [];
+        var jsCallback = {
+            push: function (name, body) {
+                _jsCbArr[name] = body;
+            },
+            exec: function (name, args) {
+                if (typeof _jsCbArr[name] == "function") {
+                    try {
+                        _jsCbArr[name](args);
+                    } catch (e) {
+                        return;
+                    }
+                }
+            }
+        };
+
+        (function () {
+            try {
+                //check session on client
+                if (typeof (Storage) !== "undefined") {
+                    var session = sessionStorage.getItem("VisitSession");
+                    if (session == null) {
+                        //phien lam viec moi
+                        sessionStorage.setItem("VisitSession", "1");
+
+                        var hash = window.location.hash;
+                        if (hash == "#first") {
+                            //link được redirect từ bản mobile sang thì clear hash.
+                            window.history.replaceState("", "", window.location.href.split('#')[0]);
+                        }
+                        else {
+                            //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                            var setCookie = function (a, c, f) {
+                                var e = new Date();
+                                e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                                var b = "expires=" + e.toUTCString();
+                                document.cookie = a + "=" + c + "; " + b;
+                            };
+                            setCookie("browser", "", -1);
+                            //reload lại trang để hệ thống chuyển về bản mobile.
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+            catch (e) {
+                console.log("Lỗi check mobile redirect: " + e);
+            }
+        })();
+
+    </script>
+    
+   
+    
+    
+  
+    
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.6&appId=830263217081389";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+    
+<script type="text/javascript" class="lazy" data-original="https://apis.google.com/js/plusone.js"></script>
+    <style type="text/css">
+        .box26 { height: inherit; background-position: 100% -457px; }
+        .breadcrumb { position: static; }
+        .VCSortableInPreviewMode[type="VideoStream"] img { display: none !important; }
+        .VCSortableInPreviewMode[type=Photo] a { display: inline; }
+        @-moz-document url-prefix() { .detail-content table img;
+        { display: none; }
+        }
+        .ul12 li:nth-child(n+6) .ico-newstype-new { display: none;}
+    </style>
+
+    <link href="https://dantricdn.com/web_css/site.css" rel="stylesheet" />
+    <style>.adm-hidden{display: none}</style>
+
+
+    <script type="text/javascript">//danh cho nhung kieu moi
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+        (function () { var a = document.createElement("script"); a.async = !0; a.type = "text/javascript"; a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/admcore.js"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
+    </script>
+
+<link href="http://dantri.com.vn/suc-manh-so/ung-dung-tao-video-tu-hinh-anh-voi-nhung-hieu-ung-cuc-dep-mat-20170317160448201.htm" rel="canonical" /><link href="http://m.dantri.com.vn/suc-manh-so/ung-dung-tao-video-tu-hinh-anh-voi-nhung-hieu-ung-cuc-dep-mat-20170317160448201.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/suc-manh-so/ung-dung-tao-video-tu-hinh-anh-voi-nhung-hieu-ung-cuc-dep-mat-20170317160448201.htm" rel="alternate" media="handheld" /><meta property="og:type" content="article" /><meta property="og:url" content="http://dantri.com.vn/news-20170317160448201.htm" /><meta property="og:title" content="Ứng dụng tạo video từ hình ảnh với những hiệu ứng cực đẹp mắt" /><meta property="og:image" content="https://dantricdn.com/thumb_w/600/2017/ung-dung-tao-video-av-1489682715423.gif" /><meta property="og:description" content="(Dân trí) - Nhân một dịp đặc biệt nào đó như sinh nhật, ngày 8/3 hay 14/2... bạn muốn tạo ra một đoạn video ấn tượng từ những hình ảnh của riêng mình như một món quà ý nghĩa cho người mà mình yêu quý? Ứng dụng dưới đây sẽ giúp bạn thực hiện điều này dễ dàng." /></head>
+<body>
+    <form name="aspnetForm" method="post" action="" id="aspnetForm">
+<div>
+<input type="hidden" name="hidCategoryPath" id="hidCategoryPath" value="/suc-manh-so" />
+<input type="hidden" name="GetZoneID" id="GetZoneID" value="119" />
+<input type="hidden" name="__hidDebugInfo" id="__hidDebugInfo" value="" />
+<input type="hidden" name="hdNewsId" id="hdNewsId" value="20170317160448201" />
+<input type="hidden" name="hidCurrentDate" id="hidCurrentDate" value="3/18/2017 8:01:58 AM" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM5MDc5ODA5M2QYBQUlY3RsMDAkY3RsMDAkSGVhZEluZm9ybWF0aW9uMSRtdlJvYm90cw8PZGZkBR5jdGwwMCRjdGwwMCRjcGhCb2R5JGN0bDAwJG12SDEPD2QCAWQFPmN0bDAwJGN0bDAwJGNwaEJvZHkkY3BoQm9keSRjdGwwMSROZXdzRGV0YWlsQm90dG9tMSR2aWV3UGFyZW50Dw9kZmQFJGN0bDAwJGN0bDAwJGNwaEJvZHkkY3RsMDEkdmlld1BhcmVudA8PZGZkBSBjdGwwMCRjdGwwMCRjcGhCb2R5JGN0bDAyJG12TWVudQ8PZGZkyLEKR3XXa1lRPuY0y4+TCojpS9I=" />
+</div>
+
+        
+        
+<style type="text/css">
+    /*.header{ margin-bottom: 0;} body{ background-position: 0 -2615px}
+    .header.tet{    background: transparent url(http://dantricdn.com/web_images/dantri_bg_tet.png) 0 0 no-repeat !important;
+    margin-top: 0;
+    height: 66px;}
+    .header.tet .logo{ background-image: none !important;}
+    .nav-wrap{background-image:url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav{background-image: url(http://dantri4.vcmedia.vn/web_images/allmenu_tet.png)}
+    .nav li,.nav li.menu-home{background-image:url(http://dantri4.vcmedia.vn/web_images/menu-saparator-tet.png)}
+    .nav li.menu-home{margin-top: 3px !important}
+    .nav a:hover span, .nav a.active span,.nav a:hover, .nav a.active{ background-image: none;background-color: rgba(255, 255, 255, 0.15);border-radius: 4px 4px 0 0}
+    .nav a b,.nav a:hover b, .nav a.active b{ background: url(http://dantri4.vcmedia.vn/web_images/home-tet-icon2.png) no-repeat top center;height: 25px;}
+    .ul2 li.active,.box4{background-image: url(http://dantri4.vcmedia.vn/web_images/tab_bg_tet.png) }*/
+</style>
+<div class="header">
+    <div class="clearfix relative">
+        
+                <a href="/" class="logo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà"></a>
+               
+            
+
+        <div id="div_gdpda" class="div_gdpda">
+            <a href="/?removecookie=true" rel="nofollow">Giao diện PDA</a>
+        </div>
+        <div id="searchbox" class="searchbox hidden">
+            <div class="clearfix">
+                
+                <input type="text" name="q" id="txtData" data-elementtype="searchtextv2" />
+                <input type="button" value="Tìm kiếm" class="btn" data-elementtype="searchbuttonv2" />
+            </div>
+        </div>
+        <div class="links">
+            <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a> <a title="Blog" class="icon-ads"
+                href="/blog.htm">Blog</a> <a title="Du học" class="icon-duhoc" href="http://duhoc.dantri.com.vn"
+                    target="_blank">Du học</a> <a title="Tuyển sinh" class="icon-tuyensinh" href="http://tuyensinh.dantri.com.vn"
+                        target="_blank">Tuyển sinh</a> <a title="So sánh" class="icon-tuanbao2" href="http://websosanh.vn/dantri/"
+                            target="_blank">So sánh</a> <a title="Mua bán" target="_blank" class="icon-bussiness" href="http://enbac.com">Mua bán</a>  <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a><a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a>
+            <a title="Diễn đàn" class="icon-forum2" href="/dien-dan.htm">Diễn đàn</a> <a title="English" class="icon-tienganh"
+                href="http://www.dtinews.vn" target="_blank">English</a>
+        </div>
+    </div>
+</div>
+<script type="text/lazyscript">
+
+    $('[data-elementtype=searchbuttonv2]').click(function () {
+        var strSearch = $('[data-elementtype=searchtextv2]').val();
+        strSearch=convertHtmlToText(strSearch);
+        strSearch = encodeURIComponent(strSearch);
+        if (strSearch != '') {
+            var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+            if (document.all) {
+                window.location.href = url;
+            } else {
+                document.location.href = url;
+            }
+        } else {
+            $('[data-elementtype=searchtextv2]').focus();
+        }
+        return false;
+    });
+
+    $('[data-elementtype=searchtextv2]').keypress(function (event) {
+        var key;
+        if (window.event) {
+            key = window.event.keyCode;
+        } else {
+            key = event.which;
+        }
+        if (key == 13) {
+            $('[data-elementtype=searchbuttonv2]').click();
+            return false;
+        }
+    });
+    $("#searchbox").removeClass('hidden').show();    
+</script>
+
+        <div class="top-ads clearfix">
+            <div class=" mgauto wid980">
+                
+        
+        
+<div id="admzone221"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone221') });
+</script>
+    
+            </div>
+        </div>
+        
+<style>.subnav ul li{ padding-right: 8px;}</style>
+<div class="nav-wrap">
+    <div class="clearfix">
+        <div class="mgauto wid1004">
+            
+            
+                    <ul class="nav">
+                        <li class="menu-home"><a href="/" title="Trang chủ"><span><b></b></span></a></li>
+                        <li><a title="Video" href="/video-page.htm"><span>Video</span></a></li>
+                        <li><a title="Sự kiện" href="/su-kien.htm"><span>Sự kiện</span></a></li>
+                        <li><a title="Xã hội" href="/xa-hoi.htm"><span>Xã hội</span></a></li>
+                        <li><a title="Thế giới" href="/the-gioi.htm"><span>Thế giới</span></a></li>
+                        <li><a title="Thể thao" href="/the-thao.htm"><span>Thể thao</span></a></li>
+                        <li><a title="Giáo dục" href="/giao-duc-khuyen-hoc.htm"><span>Giáo dục</span></a> </li>
+                        <li><a title="Tấm lòng nhân ái" href="/tam-long-nhan-ai.htm"><span>Nhân ái</span></a></li>
+                        <li><a title="Kinh doanh" href="/kinh-doanh.htm"><span>Kinh doanh</span></a></li>
+                        <li><a title="Văn hóa" href="/van-hoa.htm"><span>Văn hóa</span></a></li>
+                        <li><a title="Giải trí" href="/giai-tri.htm"><span>Giải trí</span></a></li>
+                        <li><a title="Du lịch" target="_blank" href="http://dulich.dantri.com.vn"><span>Du lịch</span></a></li>
+                        <li><a title="Pháp luật" href="/phap-luat.htm"><span>Pháp luật</span></a></li>
+                        <li><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm"><span>Nhịp sống trẻ</span></a></li>
+                        <li><a title="Sức khỏe" href="/suc-khoe.htm"><span>Sức khỏe</span></a></li>
+                        <li><a title="Sức mạnh số" href="/suc-manh-so.htm"><span>Sức mạnh số</span></a></li>
+                        <li><a title="Ô tô - xe máy" href="/o-to-xe-may.htm"><span>Xe++</span></a></li>
+                        <li><a title="Tình yêu giới tính" href="/tinh-yeu-gioi-tinh.htm"><span>Tình yêu</span></a></li>
+                        <li><a title="Chuyện lạ" href="/chuyen-la.htm"><span>Chuyện lạ</span></a></li>
+                    </ul>
+                
+        </div>
+    </div>
+
+    <div class="subnav relative">
+        <ul class="clearfix" id="ul_submenu">
+            
+           
+            <li><a href="/suc-manh-so/vi-tinh.htm" title="M&#225;y t&#237;nh - Mạng">Máy tính - Mạng</a></li><li><a href="/suc-manh-so/dien-thoai.htm" title="Di động - Viễn th&#244;ng">Di động - Viễn thông</a></li><li><a href="/suc-manh-so/dien-may.htm" title="Điện tử ti&#234;u d&#249;ng">Điện tử tiêu dùng</a></li><li><a href="/suc-manh-so/nghe-nhin.htm" title="Nghe nh&#236;n">Nghe nhìn</a></li><li><a href="/suc-manh-so/phan-mem-bao-mat.htm" title="Phần mềm - Bảo mật">Phần mềm - Bảo mật</a></li><li><a href="/suc-manh-so/thu-thuat.htm" title="Thủ thuật - Mẹo vặt">Thủ thuật - Mẹo vặt</a></li><li><a href="/suc-manh-so/thi-truong-cong-nghe.htm" title="Thị trường c&#244;ng nghệ">Thị trường công nghệ</a></li>
+
+        </ul>
+        <div class="hidden">
+            
+        </div>
+        <div class="subSideBtn">
+            <div class="submenu-btnside">
+                <a title="Bạn đọc" href="/ban-doc.htm">Bạn đọc</a>
+            </div>
+            <div class="submenu-btnside">
+                <a title="Việc làm" href="/viec-lam.htm">Việc làm</a>
+            </div>
+        </div>
+
+        <div class="top-rss-wrapper">
+
+            <a title="Rss" class="icon-rss2" ref="nofollow" href="/suc-manh-so.rss"></a>
+        </div>
+    </div>
+
+
+
+</div>
+
+        
+<div class="event-by-zone">
+    <div class="e-container">
+        <ul class="clearfix">
+            <li class="active"><a href="/event.htm" class="event"></a></li>
+            
+            <li><a href="/event/hoi-nghi-di-dong-the-gioi-mwc-2017-3191.htm" title="Hội nghị Di động Thế giới MWC 2017">Hội nghị Di động Thế giới MWC 2017</a></li><li><a href="/event/nhung-ro-ri-ve-iphone-8-3120.htm" title="Những r&#242; rỉ về iPhone 8">Những rò rỉ về iPhone 8</a></li><li><a href="/event/quyet-liet-thu-hoi-sim-rac-3164.htm" title="Quyết liệt thu hồi SIM r&#225;c">Quyết liệt thu hồi SIM rác</a></li>
+        </ul>
+        <div class="fr">
+        </div>
+    </div>
+</div>
+
+        <div class="ads-sponsor type-2 adm-hidden">
+        <div id="admsectionlogo"></div>
+         </div>
+        <div class="ads-sponsor type-2 adm-hidden">
+        <div id="admsection1"></div>
+        </div>
+      
+        
+    <script type="text/javascript">
+        var metas = document.getElementsByTagName('meta');
+        var tagparam = [];
+        for (i = 0; i < metas.length; i++) {
+            if (metas[i].getAttribute("name") == "news_keywords") {
+                tagparam = metas[i].getAttribute("content").split(',');
+                break;
+            }
+        }
+    </script>
+    
+    
+
+    <style type="text/css">
+        .detail-content table{padding: 0px}
+        .detail-content table th, .detail-content table td{padding: 5px}
+
+
+        .detail-content table {
+            width: 98% !important;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .fb-like {
+            margin-right: 10px;
+            float: left;
+        }
+
+        .chiasefb {
+            background: #4167b2;
+            height: 20px;
+            line-height: 20px;
+            display: inline;
+            border-radius: 3px;
+            color: #fff;
+            padding: 0 10px;
+        }
+
+        .chiasefb i {
+            font-style: normal;
+        }
+        .imglikefake{float: left}
+    </style>
+    <div class="clearfix wrapper">
+        <div class="container adm-sectionslide">
+            
+<div id="ctl00_ctl00_cphBody_cphBody_ctl01_ctrNewsInSlide" class="newest-of-cat" style="display: none">
+    <div class="noc-header">
+        <div class="noc-container"></div>
+    </div>
+    <div class="button-left">
+        <a href="javascript:void(0)" rel="nofollow">
+            <img src="http://static.dantricdn.com/App_Themes/Default/Images/blank.gif" alt="preview"></a>
+    </div>
+    <div class="viewspot">
+        <ul>
+            
+        </ul>
+    </div>
+    <div class="button-right">
+        <a href="javascript:void(0)" rel="nofollow">
+            <img src="http://static.dantricdn.com/App_Themes/Default/Images/blank.gif" alt="next"></a>
+    </div>
+</div>
+<script type="text/lazyscript">
+    var base = $("#ctl00_ctl00_cphBody_cphBody_ctl01_ctrNewsInSlide");   
+    var funcNoData = function(){
+        
+        base.wrap('<div class="clearfix" style="margin: 10px 0;"></div>');
+        base.remove();
+    }
+    var newsIdRemove='20170317160448201';
+    $.get(appSettings.ajaxDomain + '/news/zone/' + $("#GetZoneID").val() + '/top-12-in-slide-detail.htm', function (data) {
+        if(data.length>100)
+        {
+            base.find(".viewspot ul").html(data);
+            base.show();
+            var list = base.find('ul').first();
+            list.find('li[rel="'+newsIdRemove+'"]').remove();
+        
+            var li = list.find('li');
+    
+    if(!li || li.length == 0)
+    {
+        return funcNoData();
+    }
+            li.each(function () {
+                if ((li.index($(this)) + 1) % 3 != 0) {
+                    $(this).addClass('has-border');
+                }
+            });
+
+            list.mcgSlider({
+                slideItemElement: ">li",
+                preButton: base.find('.button-left'),
+                nextButton: base.find('.button-right'),
+                numberOfVisibleSlides: 3,
+                auto: false
+            });
+        }else {
+    return funcNoData();
+    }
+    });
+     
+    
+</script>
+
+        </div>
+    </div>
+<div class="clearfix adm-mainsection">    
+    <div class="ads-sponsor type-2 adm-hidden"><div id="admsection2"></div></div>
+    <div class="ads-sponsor type-2 adm-hidden"><div id="admsection3"></div></div>
+    <div class="clearfix wrapper">
+        <div class="container">
+    <div class="fl wid470 adm-leftsection">
+        <div id="ctl00_IDContent_Tin_Chi_Tiet">
+            <div id="ctl00_IDContent_ctl00_divContent" class="clearfix">
+                
+<div class="box26 clearfix">
+    
+<!--VuLV - edit 11/06-->
+
+        <ol class="breadcrumb clearfix inline" itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+        <li class="fl" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="breadcrumbitem1" itemprop="item" href="/">
+                <span itemprop="name">Dân trí</span>&nbsp;&nbsp;›&nbsp;&nbsp;</a>
+            <meta itemprop="position" content="1" />
+        </li>
+
+    
+        <li class="fl" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="breadcrumbitem1" itemprop="item" href="/suc-manh-so.htm">
+                <span itemprop="name">Sức mạnh số</span>&nbsp;&nbsp;›&nbsp;&nbsp;</a>
+            <meta itemprop="position" content="2" />
+        </li>
+
+    
+        </ol>
+    
+
+    <span class="fr fon7 mr2 tt-capitalize">
+        Thứ bảy, 18/03/2017 - 08:00</span>
+</div>
+
+<h1 class="fon31 mgb15">
+    Ứng dụng tạo video từ hình ảnh với những hiệu ứng cực đẹp mắt</h1>
+<div class="mt2 clearfix top-sharing">
+    
+
+    <a class="fl chiasefb" target="_blank" style="margin-right: 10px;" href="http://www.facebook.com/sharer.php?u=http://dantri.com.vn/news-20170317160448201.htm" rel="nofollow">
+        Chia sẻ <i></i>
+    </a>
+   <img src="http://dantricdn.com/web_images/fb_like.png" class="imglikefake"/>
+   <div class="fb-like hidden"  data-href="http://dantri.com.vn/news-20170317160448201.htm" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+   
+
+
+    <div class="fb-send" data-href="http://dantri.com.vn/news-20170317160448201.htm" data-width="52" data-height="20" data-colorscheme="light"></div>
+    
+<section class="share-email">
+<a rel="nofollow" href="javascript:location.href='mailto:?SUBJECT='+document.title+'&BODY='+escape(location.href);" class="btn-sendmail"></a>
+    </section>
+    
+    <section class="share-google">
+        <g:plusone size="medium" count="false"></g:plusone>
+    </section>
+
+
+    
+</div>
+
+<h2 class="fon33 mt1 sapo">
+    <span>Dân trí</span> Nhân một dịp đặc biệt nào đó như sinh nhật, ngày 8/3 hay 14/2... bạn muốn tạo ra một đoạn video ấn tượng từ những hình ảnh của riêng mình như một món quà ý nghĩa cho người mà mình yêu quý? Ứng dụng dưới đây sẽ giúp bạn thực hiện điều này dễ dàng.
+</h2>
+
+                
+<style>
+    /*ims gan*/
+    .VCSortableInPreviewMode[type="content"]{
+        padding:10px;
+    }
+
+    .VCSortableInPreviewMode[type="Photo"]{
+        display:block;
+        margin:0 auto 2% !important;
+    }
+
+    .VideoCMS_Caption, .VideoCMS_Caption p{
+        background:#eee; font-family:tahoma !important; font-size:13px !important;text-align: center;
+        margin-bottom: 0px;
+    }
+    .VideoCMS_Caption{ padding-bottom: 5px;}
+    .VCSortableInPreviewMode[type=VideoStream] { background-color: #eee; }
+
+    .VCSortableInPreviewMode[type="PhotoInContentBox"].floatleft { float: left; margin-right: 2%; }
+    .VCSortableInPreviewMode[type="PhotoInContentBox"].floatnone { float: none; margin: 0 auto; }
+    .VCSortableInPreviewMode[type="PhotoInContentBox"].floatright { float: right; margin-left: 2%; }
+    /*ims gan*/
+
+    div.balinks a {
+        font-size: 24px;
+    }
+
+    .news-tag {
+        margin-top: 10px;
+    }
+
+    /*anh 360*/
+    .VCSortableInPreviewMode[type="3"] {
+        display: block !important;
+        cursor: e-resize;
+        position: relative;
+    }
+
+    .VCSortableInPreviewMode[type="3"] .reload-spin {
+        position: absolute;
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+        background: black;
+        color: white;
+        padding: 5px 10px;
+        font-weight: bold;
+        cursor: pointer;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .VCSortableInPreviewMode[type="3"] .spin-desc {
+        background-color: rgba(0, 0, 0, 0.5);
+        border-radius: 10px;
+        bottom: 30%;
+        color: #FFFFFF;
+        font-size: 18px;
+        left: 25%;
+        padding: 10px;
+        position: absolute;
+        text-align: center;
+        font-style: normal;
+        font-family: arial;
+    }
+</style>
+<div id="divNewsContent" class="fon34 mt3 mr2 fon43 detail-content">
+    <p>Love Movie Maker là ứng dụng miễn phí, cho phép người dùng tạo nên những đoạn video từ các hình ảnh có trên thiết bị di động của người dùng, sau đó thêm các hiệu ứng đẹp mắt để đoạn clip trở nên sinh động và ấn tượng hơn.</p>
+
+<p>Ngoài ra, ứng dụng này cũng cho phép người dùng tạo ảnh ghép với các hiệu ứng màu sắc và khung hình đẹp mắt.</p>
+
+<p>Download ứng dụng miễn phí <strong><a draggable="false" href="http://www.htwares.com/mobile/graphics/video-tool/love-video-maker/" rel="nofollow" target="_blank">tại đây</a> </strong>hoặc tại <strong><a draggable="false" href="https://play.google.com/store/apps/details?id=com.video.love" rel="nofollow" target="_blank">đây</a></strong> (tương thích Android 4.1 trở lên).</p>
+
+<p><i>Lưu ý: mỗi khi kích hoạt ứng dụng, một nội dung quảng cáo sẽ được hiện ra ngay trên giao diện đầu tiên của ứng dụng, khi gặp nội dung quảng cáo này bạn nhấn vào nút “No, Thanks” để bỏ qua. </i></p>
+
+<p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_72869" photoid="72869" src="https://dantricdn.com/2017/ung-dung-tao-video-0-1489682715420.jpg" rel="https://dantricdn.com/2017/ung-dung-tao-video-0-1489682715420.jpg" type="photo" style="max-width:100%;" data-original="https://dantricdn.com/2017/ung-dung-tao-video-0-1489682715420.jpg" w="450" h="800"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p> </p>
+
+<p>Từ giao diện chính của ứng dụng, nhấn nút “Create Video” để khởi tạo một đoạn video mới, tiếp theo chọn hình ảnh có trên thiết bị của bạn để chèn vào trong file video. Danh sách những hình ảnh đã chọn sẽ hiển thị ở bên dưới, bạn có thể xóa đi những hình ảnh đã chọn nếu muốn.</p>
+
+<p>Sau khi chọn xong những hình ảnh ưng ý, nhấn “Next” để tiếp tục.</p>
+
+<p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_72870" photoid="72870" src="https://dantricdn.com/2017/ung-dung-tao-video-1-1489682715440.jpg" rel="https://dantricdn.com/2017/ung-dung-tao-video-1-1489682715440.jpg" type="photo" style="max-width:100%;" data-original="https://dantricdn.com/2017/ung-dung-tao-video-1-1489682715440.jpg" w="600" h="524"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p> </p>
+
+<p>Bước tiếp theo ứng dụng sẽ cho phép người dùng xử lý những hình ảnh đã chọn trước khi tạo ra đoạn video. Bạn có thể dùng tay để phóng to, thu nhỏ hoặc xoay hình ảnh nếu muốn. Mục “Color BG” bên dưới cho phép người dùng chọn màu sắc cho nền của hình ảnh, còn mục “BG” cho phép chọn ảnh nền cho hình ảnh, trong khi đó mục “Filter” sẽ cho phép tạo các bộ lọc hiệu ứng trên hình ảnh để ảnh trở nên độc đáo và thú vị hơn.</p>
+
+<p>Sau khi bạn đã xử lý xong một hình ảnh, nhấn nút “Save” ở bên trên để lưu lại trước khi chuyển sang xử lý một hình ảnh khác.</p>
+
+<p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_72871" photoid="72871" src="https://dantricdn.com/2017/ung-dung-tao-video-2-1489682715438.jpg" rel="https://dantricdn.com/2017/ung-dung-tao-video-2-1489682715438.jpg" type="photo" style="max-width:100%;" data-original="https://dantricdn.com/2017/ung-dung-tao-video-2-1489682715438.jpg" w="450" h="800"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p> </p>
+
+<p>Sau khi đã xử lý hết các hình ảnh đã chọn theo ý muốn của mình, bạn nhấn “Next” để tiếp tục. Ứng dụng sẽ cho phép người dùng xem trước đoạn video được tạo ra từ những hình ảnh mà bạn đã chọn và xử lý.</p>
+
+<p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_72872" photoid="72872" src="https://dantricdn.com/2017/ung-dung-tao-video-3-1489682715435.jpg" rel="https://dantricdn.com/2017/ung-dung-tao-video-3-1489682715435.jpg" type="photo" style="max-width:100%;" data-original="https://dantricdn.com/2017/ung-dung-tao-video-3-1489682715435.jpg" w="450" h="800"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p> </p>
+
+<p>Tại đây ở mục “Duration” cho phép người dùng thiết lập khoảng thời gian hiển thị của các hình ảnh có trên video (tối thiểu là 0,1 giây và tối đa là 5 giây). Mục “Frame” cho phép lồng khung hình lên đoạn video. Ứng dụng cung cấp cho người dùng khá nhiều khung hình khác nhau phù hợp cho từng nội dung video, bạn có thể nhấn vào dấu mũi tên chỉ xuống để tải thêm các khung hình khác cho ứng dụng (hoàn toàn miễn phí).</p>
+
+<p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_72873" photoid="72873" src="https://dantricdn.com/2017/ung-dung-tao-video-4-1489682715433.jpg" rel="https://dantricdn.com/2017/ung-dung-tao-video-4-1489682715433.jpg" type="photo" style="max-width:100%;" data-original="https://dantricdn.com/2017/ung-dung-tao-video-4-1489682715433.jpg" w="450" h="800"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p> </p>
+
+<p>Tương tự mục “Theme” sẽ tạo thêm các hiệu ứng trang trí thú vị cho đoạn video và phù hợp với nhiều dạng nội dung khác nhau của file video. Người dùng cũng có thể tải thêm các Theme mới để sử dụng nếu muốn.</p>
+
+<p>Mục “Music” cho phép người dùng thêm file nhạc nền cho đoạn video được tạo ra. Người dùng có thể tải những bản nhạc do ứng dụng cung cấp sẵn (nhấn vào phím mũi tên để tải xuống) hoặc có thể chọn “Click here to add from SDCard” để tự chọn bản nhạc nền có trên thiết bị của mình.</p>
+
+<p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_72874" photoid="72874" src="https://dantricdn.com/2017/ung-dung-tao-video-5-1489682715428.jpg" rel="https://dantricdn.com/2017/ung-dung-tao-video-5-1489682715428.jpg" type="photo" style="max-width:100%;" data-original="https://dantricdn.com/2017/ung-dung-tao-video-5-1489682715428.jpg" w="600" h="524"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p> </p>
+
+<p>Mục “Effects” sẽ cho phép người dùng thêm các hiệu ứng động lên đoạn video, như hiệu ứng bắn pháo hoa, trái tim bay lên hay ánh đèn lung linh... người dùng có thể tải và thêm các hiệu ứng này lên đoạn video của mình nếu muốn.</p>
+
+<p>Mọi sự thay đổi trên file video sẽ lập tức được hiển thị ngay trên giao diện ứng dụng để người dùng nhìn thấy rõ và quyết định có sử dụng hay không.</p>
+
+<p>Sau khi đã tạo ra được file video ưng ý, bạn nhấn nút “Save”, sau đó chọn “Apply” ở hộp thoại hiện ra để lưu lại đoạn video. Sau khi file video được lưu lại, bạn có thể nhấn nút “Share” để chia sẻ trực tiếp file video lên mạng xã hội, qua email hay qua Bluetooth... nếu muốn.</p>
+
+<p><strong>Tạo hiệu ứng khung hình đẹp mắt cho hình ảnh của bạn</strong></p>
+
+<p>Bên cạnh tính năng chính là tạo ra những file video với hiệu ứng đẹp mắt từ hình ảnh của bạn, Love Video Maker còn cho phép người dùng ghép các khung hình và hiệu ứng đẹp mắt lên hình ảnh sẵn có.</p>
+
+<p>Để sử dụng chức năng này, từ giao diện chính của ứng dụng bạn chọn “Collage Photo”. Tại giao diện hiện ra sau đó, bạn chọn một khung hình mà ứng dụng cung cấp để sử dụng.</p>
+
+<p><i>Lưu ý: những khung hình có dấu mũi tên xanh là những khung hình cần phải tải về mới có thể sử dụng được. Bạn chỉ việc nhấn vào các khung hình này, ứng dụng sẽ tự động tải các khung hình về.</i></p>
+
+<p>Sau khi chọn khung hình, bạn nhấn vào nút “Pic 1” rồi nhấn tiếp vào nút “Photo” hiện ra bên dưới, sau đó chọn hình ảnh có trên thiết bị của bạn để chèn vào khung hình.</p>
+
+<p> </p>
+
+<div class="VCSortableInPreviewMode" type="Photo">
+<div><img alt="" id="img_72875" photoid="72875" src="https://dantricdn.com/2017/ung-dung-tao-video-6-1489682715425.jpg" rel="https://dantricdn.com/2017/ung-dung-tao-video-6-1489682715425.jpg" type="photo" style="max-width:100%;" data-original="https://dantricdn.com/2017/ung-dung-tao-video-6-1489682715425.jpg" w="450" h="800"></div>
+
+<div class="PhotoCMS_Caption"></div>
+</div>
+
+<p> </p>
+
+<p>Khi hình ảnh đã xuất hiện trên ứng dụng, bạn có thể sử dụng tay để phóng to/thu nhỏ hoặc xoay hình ảnh nếu muốn. Cuối cùng, nhấn “Save” để lưu lại hình ảnh đã được xử lý. Sau khi lưu hình ảnh, bạn có thể nhấn nút “Share” để chia sẻ trực tiếp hình ảnh lên mạng xã hội hoặc qua email, Bluetooth...</p>
+
+<p><i>Lưu ý: một nhược điểm của ứng dụng là thường xuất hiện các quảng cáo trong quá trình sử dụng, điều này đôi khi khiến người dùng cảm thấy bất tiện. Để hạn chế điều này, bạn có thể tắt đi kết nối Internet trên smartphone (cả Wifi lẫn mạng 3G) trong khi dùng ứng dụng để các nội dung quảng cáo không còn được hiển thị.</i></p>
+
+<div class="VCSortableInPreviewMode IMSCurrentEditorEditObject" contenteditable="false" data-height="400px" data-src="http://vcplayer.vcmedia.vn/1.1/?_site=dantri&amp;vid=dantri/a6f7e4a5db/2017/03/16/subject-here-1489682793287.mp4&amp;autoplay=false&amp;_info=e1c388f0572544e0a3390d8731b572b7" data-width="600px" extid="15783" id="videoid_60138" storageid="341818" type="VideoStream" videoid="60138">
+<div extid="15783" id="videoid_60138" storageid="341818" videoid="60138"> </div>
+
+<div class="VideoCMS_Caption">
+<p style="text-align: center; margin: 0px;">Một đoạn video được tạo ra bởi ứng dụng Love Video Maker</p>
+</div>
+</div>
+
+<p> </p>
+
+<p style="text-align: right;"><strong>Phạm Thế Quang Huy</strong></p>
+
+
+    
+
+   
+    
+        <div class="news-tag">
+            <div class="news-tag-list"><span class="news-tagname">Tag :</span><span class="news-tags-item"><a href="/ung-dung-mien-phi.tag" title="ứng dụng miễn ph&#237;">ứng dụng miễn phí</a>, <a href="/ban-phao-hoa.tag" title="bắn ph&#225;o hoa">bắn pháo hoa</a>, <a href="/xu-ly-video.tag" title="xử l&#253; video">xử lý video</a>, <a href="/ung-dung-video.tag" title="ứng dụng video">ứng dụng video</a>, <a href="/thu-thuat.tag" title="thủ thuật">thủ thuật</a>, <a href="/xu-ly-anh.tag" title="xử l&#253; ảnh">xử lý ảnh</a>, <a href="/tao-hieu-ung-anh.tag" title="tạo hiệu ứng ảnh">tạo hiệu ứng ảnh</a></span></div>
+        </div>
+    
+    <div id="div_tamlongnhanai"></div>
+</div>
+<style>
+    .fullScreen {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+</style>
+<script type="text/lazyscript">
+    if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+        $('.detail-content table img').css('max-width', function () { return $(this).closest('td').width(); }).show();
+    }
+    
+    //BeforeAfter
+      $(".VCCSortableInPreviewMode[type=BeforeAfter]").each(function () {
+            $(this).beforeAfter({
+                animateIntro: true,
+                imagePath: 'https://dantricdn.com/web_images/',
+                introDuration: 100,
+                linkDisplaySpeed: 500,
+                introPosition: parseFloat($(this).attr('position-percent')),
+                showFullLinks: true,
+                title: decodeURIComponent($(this).attr('title')),
+                cursor: 'e-resize',
+                enableKeyboard: true,
+                //dividerColor: '#947e3c',
+                beforeLinkText: '&nbsp;&nbsp; «',
+                afterLinkText: '» &nbsp;&nbsp;',
+                beforeDate: $(this).attr('before-date'),
+                afterDate: $(this).attr('after-date'),
+                imageWidth: $(this).attr('w'),
+                imageHeight: $(this).attr('h')
+            });
+            $('.balinks a[target="_blank"]').removeAttr('target');
+        });
+    
+    //cho trang chi tiet ims
+    $(function() {
+        $('.VCSortableInPreviewMode[type="Photo"] img').each(function() {
+            //$(this).on('load', function () {
+            var $parent = $(this).parents('.VCSortableInPreviewMode');
+            var w = $(this).attr('w');
+            if (typeof (w) == 'undefined') {
+                w = $(this).width();
+            }
+            w = parseInt(w);
+    
+    if(w>0 && $parent.width()>0)
+    {
+            if (w < $parent.width()) {
+                $parent.css({
+                    width: w
+                });
+                $(this).css({
+                    width: w
+                });
+            } else {
+                $(this).css({
+                    width: $parent.width()
+                });
+            }
+    }
+        });
+        //})
+    });
+     $('.PhotoCMS_Caption').each(function () {
+        if ($.trim($(this).html()) == '') {
+            $(this).hide();
+        }
+    });
+    //end cho trang chi tiet ims
+</script>
+<script type="text/lazyscript">
+    //dang anh 360
+    var LoadBox360Details = {
+        width: 460,
+        height: 330,
+        frameTime: 150,
+        init: function (control) {
+            var me = this;
+            var $control = $(control);
+            var id = $control.attr('id').replace('s2s_wrap-', '');
+            $.ajax({
+                url: appSettings.ajaxDomain + "/Handlers/Image360.ashx",
+                data: { 'command': 'boxgallerydetails', 'id': id },
+                xhrFields: {
+                    withCredentials: true
+                },
+                type: "GET",
+                success: function (data) {
+                    data = eval('(' + data + ')');
+                    if (data.Success === true) {
+
+                        //
+                        var w360 = 460;
+                        var h360 = 330;
+                        $control.append(String.format('<div id="slide-360-{0}"></div><i class="spin-desc" id="spin-desc-{0}">Dùng chuột để xoay ảnh &#8596;</i><input class="reload-spin" type="button" value="Play" id="reload-spin-{0}" />', id));
+
+                        var desc = $control.find('.spin-desc');
+                        var l = (me.width - desc.width()) / 2;
+                        desc.css('left', l + "px");
+
+                        $control.css('height', 'auto');
+
+                        var slides = [];
+
+                        for (var i = 0; i < data.Data.length; i++) {
+                            //slides[i] = appSettings.imageDomain + '/' + data.Data[i].RawImage;
+
+                            slides[i] = appSettings.imageDomain + '/' + data.Data[i].ImageUrl;
+                            //alert(slides[i]);
+                            if (i == 0) {
+                                //de lay ra chieu cao va do rong da
+                                var htmImg = "<img src='" + slides[i] + "' id='LoadImgGetWH360' />";
+                                $(".VCSortableInPreviewMode[type=3]").append(htmImg);
+
+
+                            }
+                        }
+                        setTimeout(function () {
+                            w360 = $(".VCSortableInPreviewMode #LoadImgGetWH360").width();
+                            h360 = $(".VCSortableInPreviewMode #LoadImgGetWH360").height();
+                            $(".VCSortableInPreviewMode #LoadImgGetWH360").remove();
+                            //console.log(w360 + '-' + h360);
+                            $("#slide-360-" + id).spritespin({
+                                // path to the source images.
+                                source: slides,
+                                width: 460, // width in pixels of the window/frame
+                                height: (460 * h360 / w360), // height in pixels of the window/frame
+                                //width: 460, // width in pixels of the window/frame
+                                //height: 330, // height in pixels of the window/frame
+
+                                frameTime: me.frameTime,
+                                onLoad: function () { me.bindButton(id); }
+                            });
+                        }, 2000);
+                        //
+
+                        //
+                    }
+                }
+            });
+        },
+        bindButton: function (id) {
+            $('#reload-spin-' + id).bind('click', function () {
+                $("#slide-360-" + id).spritespin({
+                    animate: true
+                });
+            });
+            $('#slide-360-' + id).hover(function () {
+                $(this).next().hide();
+            }, function () {
+                $(this).next().show();
+            });
+        }
+    };
+
+    $(".VCSortableInPreviewMode").each(function () {
+        //var img = new Image();
+        //img.src = image.src;
+        // return {
+        //     width: img.width,
+        //  height: img.height
+        // };
+        if ($(this).attr("type") == "3") {
+            LoadBox360Details.width = $(this).width();
+            LoadBox360Details.height = $(this).height();
+            LoadBox360Details.init($(this));
+        }
+        else if ($(this).hasClass("PanoramaPhoto")) {
+            PanoramaViewer.init($(this));
+        }
+
+    });    
+    
+</script>
+<style>
+    .VCSortableInPreviewMode.PanoramaPhoto{position: relative}
+     .VCSortableInPreviewMode.PanoramaPhoto .panoguide {color: #fff;display: block;position: absolute;padding: 10px;background-color: rgba(0,0,0,0.5);border-radius: 5px;top: 40%;left: 30%;cursor: pointer;}
+</style>
+<script type="text/javascript">
+    var PanoramaViewer = {
+        width: 460,
+        height: 330,
+        init: function (control) {
+            var me = this;
+            var $control = $(control);
+            var guide = $('<span class="panoguide">Click để xem ảnh dạng 360 độ</span>');
+            $control.prepend(guide);
+            var currentImg = $control.find("img");
+            guide.click(function () {
+                var imgSrc = currentImg.attr("data-original");
+                if (typeof (imgSrc) != "undefined") {
+                    //console.log(appSettings.imageDomain,imgSrc.indexOf(appSettings.imageDomain));
+                    imgSrc = imgSrc.replace(appSettings.imageDomain, appSettings.imageDomain + '/thumb_h/800');
+                    var iframe = $("<iframe webkitAllowFullScreen mozAllowFullScreen allowFullScreen width='100%' height='330px' style='display:none' scrolling='no' frameborder='0'>");
+                    //iframe.css({ "height": me.height, "width": me.width });
+                    var url = appSettings.ajaxDomain + '/panorama.htm?image=' + imgSrc;
+                    iframe.attr("src", url);
+                    iframe.on('load', function () {
+                        $(this).show();
+                        currentImg.remove();
+                        guide.remove();
+                    });
+
+
+                    $control.prepend(iframe);
+                }
+            });
+            
+        }
+    };
+</script>
+            </div>
+            
+
+            <div class="clearfix mgt20 bottom-sharing">
+                <div class="fl">
+                    
+
+    <a class="fl chiasefb" target="_blank" style="margin-right: 10px;" href="http://www.facebook.com/sharer.php?u=http://dantri.com.vn/news-20170317160448201.htm" rel="nofollow">
+        Chia sẻ <i></i>
+    </a>
+   <img src="http://dantricdn.com/web_images/fb_like.png" class="imglikefake"/>
+   <div class="fb-like hidden"  data-href="http://dantri.com.vn/news-20170317160448201.htm" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+   
+
+
+                    <div class="fb-send fl" data-href="" data-width="52" data-height="20" data-colorscheme="light"></div>
+                </div>
+
+                <a href="/print-20170317160448201.htm" target="_blank" rel="nofollow" class="print-url fr">
+                    <i class="ico-print"></i>In bài viết này
+                </a>
+                
+<section class="share-email">
+<a rel="nofollow" href="javascript:location.href='mailto:?SUBJECT='+document.title+'&BODY='+escape(location.href);" class="btn-sendmail"></a>
+    </section>
+                
+    <section class="share-google">
+        <g:plusone size="medium" count="false"></g:plusone>
+    </section>
+
+
+            </div>
+            
+
+<div style="display: none" class="fb-page mgt20 clearfix" data-href="https://www.facebook.com/baodantridientu" data-width="470" data-height="50" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+    <div class="fb-xfbml-parse-ignore">
+        <blockquote cite="https://www.facebook.com/baodantridientu"><a rel="nofollow" href="https://www.facebook.com/baodantridientu">Dân trí</a></blockquote>
+    </div>
+</div>
+            <div style="text-align: center; padding-top: 5px">
+                
+
+<div style="text-align: center; padding-top: 5px">
+    
+            
+            
+<div id="admzone230"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone230') });
+</script>
+        
+</div>
+
+            </div>
+            <div class="ads-sponsor type-2 adm-hidden"><div id="admsection5"></div></div>
+            
+                <div class="mgt20 clearfix">
+                    
+
+
+<div id="ctl00_ctl00_cphBody_cphBody_ctl01_ctrBoxComment"></div>
+<div id="ctl00_ctl00_cphBody_cphBody_ctl01_ctrBoxCommentnode" style="display: none"></div>
+
+
+<script  type="text/lazyscript">
+    generateCommentIframe({
+        replace: true,
+        placeHolder: $("#ctl00_ctl00_cphBody_cphBody_ctl01_ctrBoxComment"),
+        objectType: '1',
+        objectId: '20170317160448201',
+        objectTitle: 'JWUxJWJiJWE4bmcrZCVlMSViYiVhNW5nK3QlZTElYmElYTFvK3ZpZGVvK3QlZTElYmIlYWIraCVjMyVhY25oKyVlMSViYSVhM25oK3YlZTElYmIlOWJpK25oJWUxJWJiJWFmbmcraGklZTElYmIlODd1KyVlMSViYiVhOW5nK2MlZTElYmIlYjFjKyVjNCU5MSVlMSViYSViOXArbSVlMSViYSVhZnQ=',
+        objectUrl: 'http://dantri.com.vn/news-20170317160448201.htm',
+        zoneId: '119'
+    });
+</script>
+
+
+
+
+                </div>
+            
+
+        </div>
+
+
+        
+
+
+        
+
+
+
+        <div id="divOlderNews" class="box21 mt5 clearfix">
+            <div class="fon39">
+                <h5>Các bài đã đăng</h5>
+            </div>
+            <ul class="ul11 ml2 mt2">
+                <li><h4><a href="/suc-manh-so/cach-bien-smartphone-tablet-thanh-man-hinh-phu-cho-may-tinh-20170317211304433.htm" title="C&#225;ch biến smartphone, tablet th&#224;nh m&#224;n h&#236;nh phụ cho m&#225;y t&#237;nh">Cách biến smartphone, tablet thành màn hình phụ cho máy tính (18/3)</a></h4></li><li><h4><a href="/suc-manh-so/thiet-bi-lien-tiep-chay-no-vi-dau-nen-noi-20170316141256323.htm" title="Thiết bị li&#234;n tiếp ch&#225;y nổ: V&#236; đ&#226;u n&#234;n nỗi?">Thiết bị liên tiếp cháy nổ: Vì đâu nên nỗi? (18/3)</a></h4></li><li><h4><a href="/suc-manh-so/soc-video-iphone-6-plus-bat-ngo-phat-no-tren-tay-nguoi-dung-20170317143340327.htm" title="Sốc video iPhone 6 Plus bất ngờ ph&#225;t nổ tr&#234;n tay người d&#249;ng">Sốc video iPhone 6 Plus bất ngờ phát nổ trên tay người dùng (17/3)</a></h4></li><li><h4><a href="/suc-manh-so/nhung-dau-hieu-cho-thay-facebook-cua-ban-dang-bi-hack-20170317112611374.htm" title="Những dấu hiệu cho thấy Facebook của bạn đang bị hack">Những dấu hiệu cho thấy Facebook của bạn đang bị hack (17/3)</a></h4></li><li><h4><a href="/suc-manh-so/apple-bi-phat-hien-lam-gia-iphone-nguy-co-bi-phat-nang-20170317141736077.htm" title="Apple bị ph&#225;t hiện “l&#224;m gi&#225;” iPhone, nguy cơ bị phạt nặng">Apple bị phát hiện “làm giá” iPhone, nguy cơ bị phạt nặng (17/3)</a></h4></li><li><h4><a href="/suc-manh-so/co-nen-mua-may-hut-khong-khi-trong-tiet-troi-mua-phun-nom-am-20170317110112431.htm" title="C&#243; n&#234;n mua m&#225;y h&#250;t kh&#244;ng kh&#237; trong tiết trời mưa ph&#249;n, nồm ẩm?">Có nên mua máy hút không khí trong tiết trời mưa phùn, nồm ẩm? (17/3)</a></h4></li><li><h4><a href="/suc-manh-so/bi-mat-khong-ngo-cua-nhan-vat-co-nhieu-nguoi-theo-doi-nhat-tren-instagram-20170317103136167.htm" title="B&#237; mật kh&#244;ng ngờ của nh&#226;n vật c&#243; nhiều người theo d&#245;i nhất tr&#234;n Instagram">Bí mật không ngờ của nhân vật có nhiều người theo dõi nhất trên Instagram (17/3)</a></h4></li><li><h4><a href="/suc-manh-so/viettel-da-phu-song-4g-99-quan-huyen-tren-ca-nuoc-20170317094826134.htm" title="Viettel đ&#227; phủ s&#243;ng 4G  99% quận, huyện tr&#234;n cả nước">Viettel đã phủ sóng 4G  99% quận, huyện trên cả nước (17/3)</a></h4></li><li><h4><a href="/suc-manh-so/cac-doanh-nghiep-lon-tuyen-bo-dung-quang-cao-tren-youtube-20170317083644249.htm" title="C&#225;c doanh nghiệp lớn tuy&#234;n bố dừng quảng c&#225;o tr&#234;n Youtube">Các doanh nghiệp lớn tuyên bố dừng quảng cáo trên Youtube (17/3)</a></h4></li><li><h4><a href="/suc-manh-so/iphone-6-dung-luong-32-gb-ve-viet-nam-gia-99-trieu-dong-2017031708422246.htm" title="iPhone 6 dung lượng 32 GB về Việt Nam gi&#225; 9,9 triệu đồng">iPhone 6 dung lượng 32 GB về Việt Nam giá 9,9 triệu đồng (17/3)</a></h4></li>
+            </ul>
+        </div>
+        
+        <script type="text/lazyscript">
+            var IMSInteractiveBasePath = ("https:" == document.location.protocol ? "https://" : "http://") + "interactive.channelvn.net";
+            (function () {
+                var ims = document.createElement("script");
+                ims.type = "text/javascript"; ims.async = true;
+                ims.src = IMSInteractiveBasePath + "/published/quiz/embed.js";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(ims, s);
+            })();
+            </script>
+
+
+        <script type="text/lazyscript">
+            var date = new Date();
+            var txtDate = String.format('({0}/{1})', date.getDate(), date.getMonth() + 1);
+            $("#divLatestNews li a,#divOlderNews li a").each(function () {
+                if ($(this).text().indexOf(txtDate) != -1) {
+                    $(this).append("<i class=\"ico-newstype-new\"></i>");
+                }
+            });
+
+        </script>
+
+        <script type="text/lazyscript">
+          
+            //quiz
+            $(document).ready(function () {
+                if ($("#divNewsContent .IMSInteractiveItem.v2").length > 0) {
+
+                    var ims = document.createElement("script");
+                    var s = document.getElementsByTagName("script")[0];
+                    ims.type = "text/javascript";
+                    ims.async = true;
+                    ims.onreadystatechange = ims.onload = function () {
+                        IMSQuizEmbed.init({
+                            nameSpace: 'vpn.www.dantri.com.vn',
+                            userName: '',
+                            getTokenFunction: function (callback) {
+                                $.ajax({
+                                    type: 'POST',
+                                    url: 'http://wcm.dantri.com.vn/Ajax/QuizNews/Quiz.ashx',
+                                    dataType: "json",
+                                    success: function (res) {
+                                        var data = res;
+                                        if (typeof (data) == 'string') data = JSON.parse(data);
+                                        callback(data.message.token);
+                                    }
+                                });
+                            }
+                        });
+                    },
+                    ims.src = "http://embed.widget.channelvn.net/dist/plugins/quiz-embed.js";
+                    s.parentNode.insertBefore(ims, s);
+                }
+            });
+            
+        </script>
+
+        <script type="text/lazyscript">
+            var fbClient = {
+                version: 'v2.3',
+                appId: '830263217081389',
+                xfbml: true,
+                status: true,
+                likeCB: null,
+                loaded: null,
+                init: function () {
+                    var me = this;
+
+                    $(document).ready(function () {
+                        if ($('#fb-root').length === 0) {
+                            $('body').prepend('<div id="fb-root"></div>');
+                        }
+                        me.fbLoad('//connect.facebook.net/vi_VN/sdk.js', function () {
+                            FB.init({
+                                appId: me.appId,
+                                status: me.status,
+                                xfbml: me.xfbml,
+                                version: me.version
+                            });
+
+                            FB.Event.subscribe('xfbml.render', me.renderButton);
+                            FB.Event.subscribe('edge.create', me.likeCB);
+                        });
+                    });
+                },
+                fbParse: function (ele) {
+                    try {
+                        FB.XFBML.parse(ele);
+                    } catch (e) {
+                    }
+                },
+                fbLoad: function (url, callback) {
+                    callback = (typeof callback != 'undefined') ? callback : {};
+
+                    $.ajax({
+                        type: "GET",
+                        url: url,
+                        success: callback,
+                        dataType: "script",
+                        cache: true
+                    });
+                },
+                getLikeShareCount: function (url, eleShare, eleLike, eleTotal) {
+                    $.ajax({
+                        type: "GET",
+                        dataType: "json",
+                        url: 'http://api.facebook.com/restserver.php?method=links.getStats&format=JSON&urls=' + url,
+                        success: function (msg) {
+                            if ($(eleShare) != null) {
+                                var iCount = msg[0].share_count;
+                                if (iCount == 0) {
+                                     $(eleShare).html('');
+                                }
+                                else {
+                                    $(eleShare).html(iCount);
+                                }
+                            }
+
+                            if ($(eleLike) != null)
+                                $(eleLike).html(msg[0].like_count);
+
+                            if ($(eleTotal) != null)
+                                $(eleTotal).html(msg[0].total_count);
+                        }
+                    });
+                },
+                shareClick: function (hr) {
+                    var wleft = screen.width / 2 - 700 / 2;
+                    var wtop = screen.height / 2 - 450 / 2;
+
+                    var link = hr != null ? hr : document.location.href;
+
+                    var w = window.open("http://www.facebook.com/sharer.php?u=" + link, "chia sẻ",
+                            'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=700, height=485, top=' + wtop + ', left=' + wleft
+                        );
+                    w.focus();
+                    return false;
+                },
+                fanpage: function () {
+                    setTimeout(function () {
+                        if (!$('.social-share .fb-like iframe').is(':visible'))
+                            $('.social-share').remove();
+                    }, 10000);
+                },
+                renderButton: function () {
+                    $('.fb-send').removeClass('hidden').show().parent('.fbSendWrap').children(':not(".fb-send")').remove();
+                    $('.fb-like').removeClass('hidden').show().parent('.fbLikeWrap').children(':not(".fb-like")').remove();
+                    $('.imglikefake').addClass('hidden');
+                    //console.log('vao');
+                },
+                likeOnload: function (obj, width, height) {
+                    $(obj).css({ 'display': 'block', 'width': width, 'height': height });
+                }
+            };
+            fbClient.init();
+            //fbClient.getLikeShareCount('http://dantri.com.vn/news-20170317160448201.htm', '.chiasefb i');
+        </script>
+        <script type="text/lazyscript">
+            brandContent.init();
+        </script>
+        
+<div class="clearfix mt2 newsdateselector">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm trước" id="btnViewNewsPrevDate">
+    <input class="btn-view-month" type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="Xem bài theo ngày tháng »" id="Button1">
+    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm sau" id="btnViewNewsNextDate">
+</div>
+<script type="text/lazyscript">
+    var categoryPath = $("#hidCategoryPath").val().trim('/');
+    
+    var currentDate = new Date();
+    if ($("#hidCurrentDate") && $("#hidCurrentDate").val() != '') {
+        currentDate = new Date($("#hidCurrentDate").val());
+    }
+    var now = new Date();
+    var hasNext = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() > new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate()).getTime();
+    
+    var prevDate = currentDate.addDays(-1);
+    var prevDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, prevDate.getDate(), prevDate.getMonth() + 1, prevDate.getFullYear(), appSettings.urlExtension);
+    $('#btnViewNewsPrevDate').bind('click', function () {
+        window.location.href = prevDateUrl;
+    });
+
+    if (hasNext) {
+        var nextDate = currentDate.addDays(1);
+        var nextDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, nextDate.getDate(), nextDate.getMonth() + 1, nextDate.getFullYear(), appSettings.urlExtension);
+        $('#btnViewNewsNextDate').bind('click', function () {
+            window.location.href = nextDateUrl;
+        });
+        $('#btnViewNewsNextDate').show();
+    }else{
+        $('#btnViewNewsNextDate').addClass('disabled');
+    }
+</script>
+
+    </div>
+
+    <div class="fr w510 adm-rightsection">
+        
+
+
+
+<div class="fl wid310 box5 admicro mgl10">
+
+    
+        <div align="center" class="ic-ads" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 300px" align="center">
+                
+<div id="admzone401"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone401') });
+</script> 
+            </div> 
+        </div> 
+    
+    
+<div class="fl" id="newsfocus">
+    <div class="fon42 tieudiemh3">Tiêu điểm</div>
+    <div class="box16 box24 ml1 mr1 mb2 newsfocuspage1">
+        <div class="box24 clearfix"><div class="fr wid150"><a  href="/suc-manh-so/se-doi-ma-vung-dien-thoai-co-dinh-moi-vao-cuoi-tuan-nay-11-2-20170206150938872.htm" title="Sẽ đổi m&#227; v&#249;ng điện thoại cố định mới v&#224;o cuối tuần n&#224;y 11/2" ><img   title="Sẽ đổi m&#227; v&#249;ng điện thoại cố định mới v&#224;o cuối tuần n&#224;y 11/2" alt="Sẽ đổi m&#227; v&#249;ng điện thoại cố định mới v&#224;o cuối tuần n&#224;y 11/2" data-x2="https://dantricdn.com/99a39cbd/zoom/48_48/2017/call-phone-1920-800x400-1486368334152.jpg" src="https://dantricdn.com/zoom/45_45/2017/call-phone-1920-800x400-1486368334152.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/se-doi-ma-vung-dien-thoai-co-dinh-moi-vao-cuoi-tuan-nay-11-2-20170206150938872.htm" title="Sẽ đổi m&#227; v&#249;ng điện thoại cố định mới v&#224;o cuối tuần n&#224;y 11/2" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Sẽ đổi mã vùng điện thoại cố định mới vào cuối tuần này 11/2</a></div><div class="fr"><a  href="/suc-manh-so/cac-quan-ca-phe-co-the-pha-san-neu-nhu-chiec-may-nay-ve-viet-nam-20170207065239368.htm" title="C&#225;c qu&#225;n c&#224; ph&#234; c&#243; thể ph&#225; sản nếu như chiếc m&#225;y n&#224;y về Việt Nam" ><img   title="C&#225;c qu&#225;n c&#224; ph&#234; c&#243; thể ph&#225; sản nếu như chiếc m&#225;y n&#224;y về Việt Nam" alt="C&#225;c qu&#225;n c&#224; ph&#234; c&#243; thể ph&#225; sản nếu như chiếc m&#225;y n&#224;y về Việt Nam" data-x2="https://dantricdn.com/f18612d9/zoom/48_48/2017/photo-2-1486424464588.jpg" src="https://dantricdn.com/zoom/45_45/2017/photo-2-1486424464588.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/cac-quan-ca-phe-co-the-pha-san-neu-nhu-chiec-may-nay-ve-viet-nam-20170207065239368.htm" title="C&#225;c qu&#225;n c&#224; ph&#234; c&#243; thể ph&#225; sản nếu như chiếc m&#225;y n&#224;y về Việt Nam" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Các quán cà phê có thể phá sản nếu như chiếc máy này về Việt Nam</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/suc-manh-so/nguy-hiem-micro-karaoke-lai-chay-no-luc-sac-trong-dem-20170207101557522.htm" title="Nguy hiểm: Micro Karaoke lại ch&#225;y nổ l&#250;c sạc trong đ&#234;m" ><img   title="Nguy hiểm: Micro Karaoke lại ch&#225;y nổ l&#250;c sạc trong đ&#234;m" alt="Nguy hiểm: Micro Karaoke lại ch&#225;y nổ l&#250;c sạc trong đ&#234;m" data-x2="https://dantricdn.com/25d83ccd/zoom/48_48/2017/16523536-1274810149278154-1712546092-o-1486437143000.jpg" src="https://dantricdn.com/zoom/45_45/2017/16523536-1274810149278154-1712546092-o-1486437143000.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/nguy-hiem-micro-karaoke-lai-chay-no-luc-sac-trong-dem-20170207101557522.htm" title="Nguy hiểm: Micro Karaoke lại ch&#225;y nổ l&#250;c sạc trong đ&#234;m" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="13"  >Nguy hiểm: Micro Karaoke lại cháy nổ lúc sạc trong đêm</a></div><div class="fr"><a  href="/suc-manh-so/thue-bao-di-dong-11-so-se-duoc-chuyen-sang-10-so-nhu-the-nao-20170207105949612.htm" title="Thu&#234; bao di động 11 số sẽ được chuyển sang 10 số như thế n&#224;o?" ><img   title="Thu&#234; bao di động 11 số sẽ được chuyển sang 10 số như thế n&#224;o?" alt="Thu&#234; bao di động 11 số sẽ được chuyển sang 10 số như thế n&#224;o?" data-x2="https://dantricdn.com/188ab4a9/zoom/48_48/2017/thue-bao-di-dong-v-1486439706661.jpg" src="https://dantricdn.com/zoom/45_45/2017/thue-bao-di-dong-v-1486439706661.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/thue-bao-di-dong-11-so-se-duoc-chuyen-sang-10-so-nhu-the-nao-20170207105949612.htm" title="Thu&#234; bao di động 11 số sẽ được chuyển sang 10 số như thế n&#224;o?" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Thuê bao di động 11 số sẽ được chuyển sang 10 số như thế nào?</a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/suc-manh-so/dep-ngo-ngang-buc-anh-chup-duoi-day-dai-duong-tu-80-nam-truoc-20170203075652881.htm" title="Đẹp ngỡ ng&#224;ng bức ảnh chụp dưới đ&#225;y đại dương từ 80 năm trước" ><img   title="Đẹp ngỡ ng&#224;ng bức ảnh chụp dưới đ&#225;y đại dương từ 80 năm trước" alt="Đẹp ngỡ ng&#224;ng bức ảnh chụp dưới đ&#225;y đại dương từ 80 năm trước" data-x2="https://dantricdn.com/ceaa4e5c/zoom/48_48/2017/screen-shot-2017-02-03-at-11-23-46-1486095848163.png" src="https://dantricdn.com/zoom/45_45/2017/screen-shot-2017-02-03-at-11-23-46-1486095848163.png" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/dep-ngo-ngang-buc-anh-chup-duoi-day-dai-duong-tu-80-nam-truoc-20170203075652881.htm" title="Đẹp ngỡ ng&#224;ng bức ảnh chụp dưới đ&#225;y đại dương từ 80 năm trước" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="3"  >Đẹp ngỡ ngàng bức ảnh chụp dưới đáy đại dương từ 80 năm trước</a></div><div class="fr"><a  href="/suc-manh-so/gap-go-chang-trai-26-tuoi-so-huu-ung-dung-tri-gia-25-ty-usd-2017020408435747.htm" title="Gặp gỡ ch&#224;ng trai 26 tuổi sở hữu ứng dụng trị gi&#225; 25 tỷ USD" ><img   title="Gặp gỡ ch&#224;ng trai 26 tuổi sở hữu ứng dụng trị gi&#225; 25 tỷ USD" alt="Gặp gỡ ch&#224;ng trai 26 tuổi sở hữu ứng dụng trị gi&#225; 25 tỷ USD" data-x2="https://dantricdn.com/7c482754/zoom/48_48/2017/snap-2-1486171544807.jpg" src="https://dantricdn.com/zoom/45_45/2017/snap-2-1486171544807.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/gap-go-chang-trai-26-tuoi-so-huu-ung-dung-tri-gia-25-ty-usd-2017020408435747.htm" title="Gặp gỡ ch&#224;ng trai 26 tuổi sở hữu ứng dụng trị gi&#225; 25 tỷ USD" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Gặp gỡ chàng trai 26 tuổi sở hữu ứng dụng trị giá 25 tỷ USD</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/suc-manh-so/thue-bao-di-dong-11-so-sap-duoc-doi-sang-10-so-20170204162849199.htm" title="Thu&#234; bao di động 11 số sắp được đổi sang 10 số" ><img   title="Thu&#234; bao di động 11 số sắp được đổi sang 10 số" alt="Thu&#234; bao di động 11 số sắp được đổi sang 10 số" data-x2="https://dantricdn.com/041b709b/zoom/48_48/2017/thue-bao-di-dong-av-1486183598386.jpg" src="https://dantricdn.com/zoom/45_45/2017/thue-bao-di-dong-av-1486183598386.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/thue-bao-di-dong-11-so-sap-duoc-doi-sang-10-so-20170204162849199.htm" title="Thu&#234; bao di động 11 số sắp được đổi sang 10 số" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Thuê bao di động 11 số sắp được đổi sang 10 số</a></div><div class="fr"><a  href="/suc-manh-so/thi-truong-dien-may-cuoi-nam-bat-dau-dai-tiec-20161216091918816.htm" title="Thị trường điện m&#225;y cuối năm bắt đầu &quot;đại tiệc&quot;" ><img   title="Thị trường điện m&#225;y cuối năm bắt đầu &quot;đại tiệc&quot;" alt="Thị trường điện m&#225;y cuối năm bắt đầu &quot;đại tiệc&quot;" data-x2="https://dantricdn.com/b9c20b52/zoom/48_48/2016/20161215-191212-1481853425918.jpg" src="https://dantricdn.com/zoom/45_45/2016/20161215-191212-1481853425918.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/thi-truong-dien-may-cuoi-nam-bat-dau-dai-tiec-20161216091918816.htm" title="Thị trường điện m&#225;y cuối năm bắt đầu &quot;đại tiệc&quot;" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Thị trường điện máy cuối năm bắt đầu "đại tiệc"</a></div></div><div class="box24 clearfix"><div class="fr wid150"><a  href="/suc-manh-so/7-smartphone-duoc-mong-doi-nhat-trong-nam-2017-201612161715589.htm" title="7 smartphone được mong đợi nhất trong năm 2017" ><img   title="7 smartphone được mong đợi nhất trong năm 2017" alt="7 smartphone được mong đợi nhất trong năm 2017" data-x2="https://dantricdn.com/cf6af44c/zoom/48_48/4c574598e6/2016/12/16/2376386807-iphone-8-1481881248866.jpg" src="https://dantricdn.com/zoom/45_45/4c574598e6/2016/12/16/2376386807-iphone-8-1481881248866.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/7-smartphone-duoc-mong-doi-nhat-trong-nam-2017-201612161715589.htm" title="7 smartphone được mong đợi nhất trong năm 2017" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >7 smartphone được mong đợi nhất trong năm 2017</a></div><div class="fr"><a  href="/suc-manh-so/ba-ong-trum-cong-nghe-lot-top-nhung-nguoi-quyen-luc-nhat-the-gioi-20161215145728154.htm" title="Ba &quot;&#244;ng tr&#249;m&quot; c&#244;ng nghệ lọt top những người quyền lực nhất thế giới" ><img   title="Ba &quot;&#244;ng tr&#249;m&quot; c&#244;ng nghệ lọt top những người quyền lực nhất thế giới" alt="Ba &quot;&#244;ng tr&#249;m&quot; c&#244;ng nghệ lọt top những người quyền lực nhất thế giới" data-x2="https://dantricdn.com/3c4e1a6d/zoom/48_48/2016/9a202-1481795405065.jpg" src="https://dantricdn.com/zoom/45_45/2016/9a202-1481795405065.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/ba-ong-trum-cong-nghe-lot-top-nhung-nguoi-quyen-luc-nhat-the-gioi-20161215145728154.htm" title="Ba &quot;&#244;ng tr&#249;m&quot; c&#244;ng nghệ lọt top những người quyền lực nhất thế giới" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Ba "ông trùm" công nghệ lọt top những người quyền lực nhất thế giới</a></div></div><div class="box25 clearfix"><div class="fr wid150"><a  href="/suc-manh-so/hang-cong-nghe-trung-quoc-gianh-duoc-quyen-so-huu-thuong-hieu-blackberry-2016121709151788.htm" title="H&#227;ng c&#244;ng nghệ Trung Quốc gi&#224;nh được quyền sở hữu thương hiệu BlackBerry" ><img   title="H&#227;ng c&#244;ng nghệ Trung Quốc gi&#224;nh được quyền sở hữu thương hiệu BlackBerry" alt="H&#227;ng c&#244;ng nghệ Trung Quốc gi&#224;nh được quyền sở hữu thương hiệu BlackBerry" data-x2="https://dantricdn.com/14e40964/zoom/48_48/a6f7e4a5db/2016/12/17/tcl-blackberry-av-1481910528888.jpg" src="https://dantricdn.com/zoom/45_45/a6f7e4a5db/2016/12/17/tcl-blackberry-av-1481910528888.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/hang-cong-nghe-trung-quoc-gianh-duoc-quyen-so-huu-thuong-hieu-blackberry-2016121709151788.htm" title="H&#227;ng c&#244;ng nghệ Trung Quốc gi&#224;nh được quyền sở hữu thương hiệu BlackBerry" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="0"  >Hãng công nghệ Trung Quốc giành được quyền sở hữu thương hiệu BlackBerry</a></div><div class="fr"><a  href="/suc-manh-so/iron-man-elon-musk-thien-tai-se-thay-doi-tuong-lai-the-gioi-20161212082417202.htm" title="&quot;Iron Man&quot; Elon Musk - Thi&#234;n t&#224;i sẽ thay đổi tương lai thế giới?" ><img   title="&quot;Iron Man&quot; Elon Musk - Thi&#234;n t&#224;i sẽ thay đổi tương lai thế giới?" alt="&quot;Iron Man&quot; Elon Musk - Thi&#234;n t&#224;i sẽ thay đổi tương lai thế giới?" data-x2="https://dantricdn.com/6c44cf0f/zoom/48_48/a6f7e4a5db/2016/12/12/elon-musk-av-1481485676616.jpg" src="https://dantricdn.com/zoom/45_45/a6f7e4a5db/2016/12/12/elon-musk-av-1481485676616.jpg" width="45" height="45" class="img45 fl ml1 mt2 mb2"/></a><a href="/suc-manh-so/iron-man-elon-musk-thien-tai-se-thay-doi-tuong-lai-the-gioi-20161212082417202.htm" title="&quot;Iron Man&quot; Elon Musk - Thi&#234;n t&#224;i sẽ thay đổi tương lai thế giới?" class="fl wid85 ml1 fon41 mt2 mb2" data-newstype="7"  >"Iron Man" Elon Musk - Thiên tài sẽ thay đổi tương lai thế giới?</a></div></div>
+    </div>
+</div>
+
+<script type="text/lazyscript">
+    pagingBoxTieuDiem(3);
+</script>
+
+    
+        <div style="float: left; width: 300px; padding: 5px">
+            
+            
+<div id="admzone345"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone345') });
+</script>
+        </div> 
+    
+</div>
+
+    <div class="fr pt5" style="width: 180px;">
+        <div align="center" class="dantri-div-bottom" style="float: left;">
+            <div name="column" style="padding-bottom: 5px; float: left; width: 180px; padding-top: 5px;" align="center">
+                
+<div id="admzone228"></div>
+<script>
+    admicroAD.unit.push(function () { admicroAD.show('admzone228') });
+</script> 
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+        </div>
+    </div>
+    <div id="adm_sponsor_footer1"></div>
+</div>
+
+
+
+
+        <div class="wrapper">    
+            <div id="adm_sticky_footer" style="height: 0px"></div>
+            
+
+<div class="footer box19">
+    <div class="fr mb1 mt2">
+        <a href="javascript:void(0)" data-elementtype="button-sethomepage" rel="nofollow">Đặt Dân trí làm trang chủ </a>|  <a href="mailto:dantri@dantri.com.vn" title="Góp ý - Liên hệ" rel="nofollow">Góp ý
+            - Liên hệ</a> | &nbsp;&nbsp;&nbsp;<a
+                href="#" class="fon19" rel="nofollow">[ Trở về đầu trang ]</a>
+    </div>
+    <div class="clear line2">
+    </div>
+    <div class="clearfix">
+        <div class="fon17 mt1">
+            <a rel="nofollow" href="/su-kien.htm" title="Sự kiện">Sự kiện</a> | <a rel="nofollow" href="/xa-hoi.htm" title="Xã hội">Xã hội</a> | <a rel="nofollow" href="/the-gioi.htm" title="Thế giới">Thế giới</a> | <a rel="nofollow" href="/the-thao.htm" title="Thể thao">Thể thao</a> | <a rel="nofollow" href="/giao-duc-khuyen-hoc.htm" title="Giáo dục">Giáo dục</a> | <a rel="nofollow" href="/tam-long-nhan-ai.htm" title="Nhân ái">Nhân ái</a> | <a rel="nofollow" href="/kinh-doanh.htm" title="Kinh doanh">Kinh doanh</a> | <a rel="nofollow" href="/van-hoa.htm" title="Văn hóa">Văn hóa</a> | <a rel="nofollow" href="/giai-tri.htm" title="Giải trí">Giải trí</a> | <a rel="nofollow" href="http://dulich.dantri.com.vn" target="_blank" title="Du lịch">Du lịch</a> | <a rel="nofollow" href="/phap-luat.htm" title="Pháp luật">Pháp luật</a> | <a rel="nofollow" href="/nhip-song-tre.htm" title="Nhịp sống trẻ">Nhịp sống trẻ</a> | <a rel="nofollow" href="/suc-khoe.htm" title="Sức khỏe">Sức khỏe</a> |  <a rel="nofollow" href="/suc-manh-so.htm" title="Sức mạnh số">Sức mạnh số</a> | <a rel="nofollow" href="/o-to-xe-may.htm" title="Xe++">Xe++</a>
+            | <a rel="nofollow" href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu">Tình yêu</a> | <a rel="nofollow" href="/chuyen-la.htm" title="Chuyện lạ">Chuyện lạ</a>
+        </div>
+    </div>
+    <div class="footer-content box8 fon18 lh18">
+        <div class="footer-content-left">
+            Cơ quan của TW Hội Khuyến học Việt Nam<br />
+            Giấy phép hoạt động báo điện tử Dân trí trên Internet số  378/GP - BTTTT Hà Nội,
+            ngày 16-09-2013.<br />
+            Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br />
+            Điện thoại: 04-3736-6491. Fax: 04-3736-6490<br />
+            Email: <a href="mailto:info@dantri.com.vn" title="Gửi email tới Dân Trí" rel="nofollow">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" title="Xem trang Dân Trí"
+                rel="nofollow">http://www.dantri.com.vn</a>
+            <br />
+            <p>
+                <i>Mọi hành động sử dụng nội dung đăng tải trên Báo điện tử Dân trí tại địa chỉ www.dantri.com.vn
+                phải<br/> có sự đồng ý bằng văn bản của Báo điện tử Dân trí.
+                </i>
+            </p>
+        </div>
+        <div class="footer-content-right">
+            <p>
+                Đơn vị quảng cáo: &nbsp;<img src="https://static.dantricdn.com/App_Themes/Default/Images/adm_new_logo_small.png"
+                    style="display:inline-block; border: none;" />
+            </p>
+            <p>
+                Hotline: 0926.864.344
+            </p>
+            <p>
+                Email: <a href="mailto:quangcao@admicro.vn" rel="nofollow">quangcao@admicro.vn</a>
+            </p>
+            <p>
+                Website: <a href="http://www.admicro.vn" target="_blank"
+                    rel="nofollow">www.admicro.vn</a>
+            </p>
+            <p>
+                Hỗ trợ và CSKH: 01268 269 779 (Ms. Thơm)
+            </p>
+            <p>
+                Các mảng: <a href="http://afamily.vn" target="_blank" title="gia đình">gia đình
+                </a>-<a href="http://genk.vn" target="_blank" title="công nghệ"> công nghệ </a>-
+                <a href="http://gamek.vn" target="_blank" title="game">game </a>- <a href="http://kenh14.vn"
+                    target="_blank" title="giải trí">giải trí</a> , <a href="http://kenh14.vn/xa-hoi.chn"
+                        target="_blank" title="xã hội">xã hội.</a>
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    <script src="http://static.hosting.vcmedia.vn/code_redirect_player.js" type="text/javascript"></script>
+    <script type="text/lazyscript">
+        var icoNewsTypeVote = '<i class="ico-newstype-vote" title="Bài trắc nghiệm"></i>';
+        if ($("html").hasClass("homepage")) {
+            $("a[data-newstype=22]").prepend(icoNewsTypeVote);
+        } else {
+            $("a[data-newstype=22]").append(icoNewsTypeVote);
+        }
+    </script>
+    <script src="//media1.admicro.vn/js_boxapp/tagsponsorz_40401.js"></script>
+    
+
+        
+    
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C7FDD17C" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var pageConfig = {suggestVideoUrl:'http://wcm.dantri.com.vn/video/zone-10/suggest-videos.htm'}//]]>
+</script>
+</form>
+    
+    
+
+    <!-- local-->
+    
+    <!-- storage-->
+    <script src="http://dantricdn.com/web_js/js-default-new.1.3.js" type="text/javascript" ></script>
+
+
+<script type="text/lazyscript">
+    var newZoneLink = $('.subnav ul a[href$="/doi-song/thuong-luu.htm"]');
+    if (newZoneLink.length > 0) {
+        newZoneLink.css({
+            "position": "relative",
+            "padding-right": "32px"
+        });
+        var icoNew = $('<i />').css({
+            background: 'transparent url("https://dantricdn.com/web_images/bd2aa9f1-5e63-4cc5-96b3-2d03e5fd9be7.png")  0 0 no-repeat',
+            width: '29px',
+            height: '16px',
+            display: 'inline-block',
+            position: 'absolute',
+            top: '-2px',
+            right: '0'
+        });
+        newZoneLink.append(icoNew);
+    }
+</script>
+
+
+</body>
+</html>
+
+<!--s: 08:01:58 18/03/2017 -->

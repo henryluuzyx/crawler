@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nga triển khai tên lửa chống ngầm tối tân - VnMedia
+</title><meta name="keywords" content="Đan Khanh,Nga,biên chế,tên lửa hành trình,Krasnaya Zvezda,quân đội Nga,nâng cấp,chế tạo,Viện OKB Novator,Chuẩn Đô đốc Viktor Kochemazov,S-10 Granat,Tập đoàn Phòng không Almaz-Antei,đầu đạn hạt nhân,Hải quân Liên Xô,sản xuất,Hải Quân Nga" /><meta name="description" content="Hệ thống tên lửa hành trình chống ngầm Kalibr và Oniks đã được đưa vào biên chế của Hải quân Nga. Đó là thông tin vừa được Chuẩn Đô đốc Viktor Kochemazov đư..." />
+<link rel="canonical" href="http://www.baomoi.com/nga-trien-khai-ten-lua-chong-ngam-toi-tan/c/21793082.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793082" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793082" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vnmedia.vn/quoc-te/201703/nga-trien-khai-ten-lua-chong-ngam-toi-tan-560557/");
+else
+window.location.replace("http://www.baomoi.com/nga-trien-khai-ten-lua-chong-ngam-toi-tan/c/21793082.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

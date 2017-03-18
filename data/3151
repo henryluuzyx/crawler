@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tăng Thanh Hà tiết lộ sinh em bé thứ hai, khen chồng đảm đang chia sẻ - Một Thế Giới
+</title><meta name="keywords" content="Tăng Thanh Hà,Thân Thúy Hà,Bỗng dưng muốn khóc,Thanh Hằng,chia sẻ ảnh,Ngọc Diễm" /><meta name="description" content="Tăng Thanh Hà vừa chia sẻ niềm hạnh phúc giản dị cùng sự bận rộn khi phải một lúc chăm sóc con trai đầu lòng và em bé mới sinh." />
+<link rel="canonical" href="http://www.baomoi.com/tang-thanh-ha-tiet-lo-sinh-em-be-thu-hai-khen-chong-dam-dang-chia-se/c/21792976.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792976" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792976" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://motthegioi.vn/van-hoa-giai-tri-c-80/tang-thanh-ha-tiet-lo-sinh-em-be-thu-hai-khen-chong-dam-dang-chia-se-58915.html");
+else
+window.location.replace("http://www.baomoi.com/tang-thanh-ha-tiet-lo-sinh-em-be-thu-hai-khen-chong-dam-dang-chia-se/c/21792976.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Phòng khám Trung Quốc 'vẽ' bệnh để thu tiền - PLO
+</title><meta name="keywords" content="TP.HCM Bùi Minh Trạng,Bùi Minh Trạng,Sở Y tế Tp.HCM,TRẦN NGỌC,sở y tế,tốn kém,thanh tra,quảng cáo,sai phạm,phản ánh,Trung Quốc" /><meta name="description" content="Thông tin trên được Chánh Thanh tra Sở Y tế TP.HCM Bùi Minh Trạng nêu lên tại buổi làm việc với đại diện 16 phòng khám Trung Quốc (PKTQ) trên địa bàn TP.HCM..." />
+<link rel="canonical" href="http://www.baomoi.com/phong-kham-trung-quoc-ve-benh-de-thu-tien/c/21762448.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21762448" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21762448" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/xa-hoi/khoe-360/phong-kham-trung-quoc-ve-them-benh-de-thu-tien-688717.html");
+else
+window.location.replace("http://www.baomoi.com/phong-kham-trung-quoc-ve-benh-de-thu-tien/c/21762448.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

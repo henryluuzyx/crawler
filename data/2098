@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mưa đá cường độ lớn trên địa bàn giáp ranh 2 tỉnh Điện Biên và Sơn La - Tin Tức TTXVN
+</title><meta name="keywords" content="Pú Hồng,Vừ A Bằng,Phì Nhừ,Pá Vạt,Mường Luân,Chiềng Lề,Điện Biên Đông,Tỉnh Điện Biên,Tỉnh Sơn La,Điện Biên,sông Mã,Sơn La,trên diện rộng,thông tấn xã việt nam,Chu Quốc Hùng,Phủ Dầy,chỉ đạo,lãnh đạo" /><meta name="description" content="Vào khoảng 15 giờ ngày 17/3, tại địa bàn các xã giáp ranh giữa 2 huyện Điện Biên Đông (tỉnh Điện Biên) và Sông Mã (tỉnh Sơn La) đã xảy ra giông lốc kèm theo..." />
+<link rel="canonical" href="http://www.baomoi.com/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-2-tinh-dien-bien-va-son-la/c/21793047.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793047" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793047" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baotintuc.vn/xa-hoi/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-2-tinh-dien-bien-va-son-la-20170318065505050.htm");
+else
+window.location.replace("http://www.baomoi.com/mua-da-cuong-do-lon-tren-dia-ban-giap-ranh-2-tinh-dien-bien-va-son-la/c/21793047.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,845 @@
+
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" __expr-val-dir="ltr" lang="en-us" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<head><title>
+	Trang chủ | Thanh Niên Game
+</title><meta id="ctl00_title" name="title" content="Thanh Niên Game" /><meta id="ctl00_keywords" name="keywords" content="Tin game Thanh Niên" /><meta id="ctl00_description" name="description" content="Chuyên trang Thanh Niên Game, với các bài viết về game online, eSports (LMHT, Dota), mobile, offline và chuyện làng game." />
+<!-- Meta -->
+<meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui, maximum-scale=1" /><meta name="robots" content="noarchive,noodp,index,follow" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="refresh" content="1800" /><meta http-equiv="Expires" content="0" /><meta name="google-site-verification" content="MdcE11-C95yfKEbtA7EMNwPkrXKQ8uWPU-AUSk4Y7zA" /><meta name="copyright" content="2003-2016, Báo Thanh Niên" /><meta name="distribution" content="global" /><meta name="geo.region" content="vi" /><meta name="googlebot" content="noarchive,index,follow" /><meta name="language" content="vi" /><meta name="alexaVerifyID" content="3b9c92ed-b510-41d0-a1c4-fe7a2f5f7998" /><meta name="abstract" content="Báo điện tử, tin tức, tin nhanh hàng đầu Việt Nam" /><meta name="REVISIT-AFTER" content="1 DAYS" /><link href="https://plus.google.com/+thanhnien" rel="publisher" /><link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" /><link rel="alternate" href="/rss/home.rss" type="application/rss+xml" title="RSS" /><meta property="fb:admins" content="791462371" /><meta property="fb:app_id" content="765420213472061" /><meta property="fb:pages" content="626849810688806" /><link href="/App_Themes/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic,300italic,300|Roboto+Condensed:400,300,300italic,400italic,700,700italic&amp;subset=latin,vietnamese,latin-ext" media="screen" rel="stylesheet" type="text/css" /><link href="/App_Themes/css/libs.css" media="screen" rel="stylesheet" type="text/css" /><link href="/App_Themes/css/style.css" media="screen" rel="stylesheet" type="text/css" /><link href="/App_Themes/css/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css" /><link href="/App_Themes/css/animation.css" media="screen" rel="stylesheet" type="text/css" /><link href="/App_Themes/css/custom.css?v=1.1" media="screen" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/App_Themes/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="/App_Themes/js/bootstrap.min.js"></script>
+<script type="text/javascript">var root_url = "http://game.thanhnien.vn/"; var mobilehost = 'http://m.game.thanhnien.vn'; var loghost = "http://log.tn.epi.vn/"; var ismobile = $(window).width() < 1010; var istablet = ismobile && $(window).width() >= 768;</script>
+<script src="/App_Themes/js/mobileswitcher.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/JScripts/swfobject.js"></script>
+<script type="text/javascript" src="/App_Themes/js/jwplayer/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key = "vmAEdu5OJSCiJfE3aWibJZ6338lN/A7tybduu0fdEfxYgi7AkWpjckRUFeI=";</script>
+<script type="text/javascript" src="/App_Themes/js/ui-start.js"></script>
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://game.thanhnien.vn" />
+<meta property="og:site_name" content="Game | Thanh Niên" />
+<meta property="og:image" content="http://static.thanhnien.com.vn/v2/App_Themes/images/logo-tn-2.png" />
+<meta property="og:title" content="Thanh Niên - Game" />
+<meta property="og:description" content="Chuyên trang Thanh Niên Game, với các bài viết về game online, eSports (LMHT, Dota), mobile, offline và chuyện làng game." />
+<meta property="article:published_time" content="2017-03-18T08:13:01T+07:00" />
+<meta property="article:section" content="Trang chủ" />
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script type='text/javascript'></script>
+<script type='text/javascript'>googletag.cmd.push(function () {
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});</script></head>
+<body>
+<div id="fb-root"></div> <script>(function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en/sdk.js#xfbml=1&version=v2.5"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<form method="post" action="/" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="2ALcZduDpG9W3jk3qz/RbeaUJzSWrqihBhx1VEtNeRu4SroC8rMZnhCEZSiRaws7W/OJMsbZA8QPUwz8ZUT1bt64S0P2OsvFZ2dVl5QBh9w=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div>
+<div class="outer-wrap">
+<header id="header" class="header ">
+<div class="grid">
+<div class="top-header">
+<ul class="top-menu left">
+<li><a href="http://thanhnien.vn/" target="_blank" title="Trang chủ">Trang chủ</a></li>
+<li><a href="http://thanhnien.vn/thoi-su/" target="_blank" title="Thời sự">Thời sự</a></li>
+<li><a href="http://thanhnien.vn/toi-viet/" target="_blank" title="Tôi viết">Tôi viết</a></li>
+<li><a href="http://thanhnien.vn/the-gioi/" target="_blank" title="Thế giới">Thế giới</a></li>
+<li><a href="http://thanhnien.vn/van-hoa/" target="_blank" title="Văn hóa">Văn hóa</a></li>
+<li><a href="http://thethao.thanhnien.vn/" target="_blank" title="Thể thao">Thể thao</a></li>
+<li><a href="http://thanhnien.vn/phap-luat/" target="_blank" title="Pháp luật">Pháp luật</a></li>
+<li><a href="http://thanhnien.vn/doi-song/" target="_blank" title="Đời sống">Đời sống</a></li>
+<li><a href="http://thanhnien.vn/kinh-doanh/" target="_blank" title="Kinh doanh">Kinh doanh</a></li>
+<li><a href="http://thanhnien.vn/gioi-tre/" target="_blank" title="Giới trẻ">Giới trẻ</a></li>
+<li><a href="http://thanhnien.vn/giao-duc/" target="_blank" title="Giáo dục">Giáo dục</a></li>
+<li><a href="http://thanhnien.vn/cong-nghe/" target="_blank" title="Công nghệ">Công nghệ</a></li>
+<li><a href="http://Game.thanhnien.vn/" target="_blank" title="Xe">Xe</a></li>
+<li><a href="http://video.thanhnien.vn/" target="_blank" title="Video">Video</a></li>
+</ul>
+<div class="login-box right" style="display: none;"><a href="#" data-toggle="modal" data-target="#boxLogin" title="Đăng nhập"><i class="fa fa-sign-in"></i><span>Đăng nhập</span></a></div>
+</div>
+<div class="row">
+<div class="col-sm-3 none-padding"><h2><a href="http://game.thanhnien.vn" title="Thanh Niên Game" class="logo">Thanh Niên Game</a></h2></div>
+<div class="col-sm-9 none-padding">
+
+<div id="adsctl00_AdsHome" position="TopBanner" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:728px;height:90px"><span class='adsitem' rel='1' tag='Top Banner'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TNO_Game_728_90_Ad1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9101256272143007"
+     data-ad-slot="6958539032"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></span></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_AdsHome', 0, -1);</script>
+</div>
+</div>
+</div>
+<div class="middle-header">
+<div class="grid">
+<nav class="navigation">
+
+<ul id="main-menu" class="main-menu">
+<li class=""> <a href="/" title="Trang chủ"><i class="fa fa-home"></i></a></li>
+<li class=" dropdown">
+<a href="/game-online/" data-hover="dropdown" data-close-others="false" class="dropdown-toggle" title="Game Online" rel="game-online">Game Online<span class="caret"></span></a><div id="ctl00_MenuMain_rptZones_ctl00_divChildren" class="dropdown-menu sub-navigation" aria-labelledby="game-online">
+<ul class="sub-menu">
+<li><a href="/game-online/trong-nuoc/" title="Trong nước" class="white-title"><span>Trong nước</span></a></li>
+<li><a href="/game-online/quoc-te/" title="Quốc tế" class="white-title"><span>Quốc tế</span></a></li>
+</ul>
+<div class="sub-menu-block" id='menunews1'></div>
+</div>
+</li>
+<li class=" dropdown">
+<a href="/esports/" data-hover="dropdown" data-close-others="false" class="dropdown-toggle" title="eSports" rel="esports">eSports<span class="caret"></span></a><div id="ctl00_MenuMain_rptZones_ctl01_divChildren" class="dropdown-menu sub-navigation" aria-labelledby="esports">
+<ul class="sub-menu">
+<li><a href="/esports/trong-nuoc/" title="Trong nước" class="white-title"><span>Trong nước</span></a></li>
+<li><a href="/esports/quoc-te/" title="Quốc tế" class="white-title"><span>Quốc tế</span></a></li>
+</ul>
+<div class="sub-menu-block" id='menunews4'></div>
+</div>
+</li>
+<li class=" dropdown">
+<a href="/game-mobile/" data-hover="dropdown" data-close-others="false" class="dropdown-toggle" title="Game Mobile" rel="game-mobile">Game Mobile<span class="caret"></span></a><div id="ctl00_MenuMain_rptZones_ctl02_divChildren" class="dropdown-menu sub-navigation" aria-labelledby="game-mobile">
+<ul class="sub-menu">
+<li><a href="/game-mobile/trong-nuoc/" title="Trong nước" class="white-title"><span>Trong nước</span></a></li>
+<li><a href="/game-mobile/quoc-te/" title="Quốc tế" class="white-title"><span>Quốc tế</span></a></li>
+</ul>
+<div class="sub-menu-block" id='menunews2'></div>
+</div>
+</li>
+<li class=" ">
+<a href="/game-offline/" title="Game offline"><span>Game offline</span></a>
+</li>
+<li class=" ">
+<a href="/minigame/" title="Mini game"><span>Mini game</span></a>
+</li>
+<li class=" ">
+<a href="/giftcode/" title="Giftcode"><span>Giftcode</span></a>
+</li>
+<li class=" ">
+<a href="/dang-cap-game-thu/" title="Game thủ"><span>Game thủ</span></a>
+</li>
+<li class=" ">
+<a href="/video/" title="Video"><span>Video</span></a>
+</li>
+<li class=" ">
+<a href="/cosplay/" title="Cosplay"><span>Cosplay</span></a>
+</li>
+<li class=" ">
+<a href="/phan-cung/" title="Phần cứng"><span>Phần cứng</span></a>
+</li>
+</ul>
+<div class="dropdown search-menu">
+<a id="search-box" data-toggle="dropdown" data-close-others="false" href="javascript:void(0);" class="dropdown-toggle"><i class="fa fa-search"></i></a>
+<div aria-labelledby="search-box" class="dropdown-menu"><div id="search-box-form" class="search-box">
+<input name="q" type="text" placeholder="Nhập tự khóa cần tìm" autocomplete="off" class="search-input"/>
+<button type="button" title="Tìm kiếm" class="search-btn">OK</button>
+</div></div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+
+<main id="main" class="main-content-wrap">
+<div class="grid">
+
+<div class="row">
+<div class="col-sm-12 feature-block">
+<div class="feature-thumb big-thumb anim-fadeIn">
+<div class="img-thumb"> <a href="/game-mobile/gian-lan-giao-dich-online-lai-lam-loan-trong-hero-of-dawn-121035.html" title="Gian lận giao dịch online lại làm loạn trong Hero of Dawn"> <img src="http://static.thanhnien.com.vn/Uploaded/truonggiang/2017_03_16/hero-of-dawn-sso-05_RGNS.jpg?h=310&cropxunits=100&cropyunits=100&crop=14,0,98,0&w=391&encoder=wic&subsampling=444" alt="Gian lận giao dịch online lại làm loạn trong Hero of Dawn"/> </a></div>
+<div class="meta-info"><h3 class="feature-title"><a href="/game-mobile/gian-lan-giao-dich-online-lai-lam-loan-trong-hero-of-dawn-121035.html" title="Gian lận giao dịch online lại làm loạn trong Hero of Dawn">Gian lận giao dịch online lại làm loạn trong Hero of Dawn</a></h3></div>
+</div><div class='feature-thumb-wrap'>
+
+
+
+<div class="feature-thumb hor-thumb anim-fadeIn">
+<div class="img-thumb"> <a href="/esports/mot-trong-nhung-su-kien-game-lon-nhat-2017-dang-dan-lo-dien-121037.html" title="Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện"> <img src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_17/dautruong-facebook_GUXA.jpg?h=155&cropxunits=100&cropyunits=100&crop=6,0,100,0&w=391&encoder=wic&subsampling=444" alt="Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện"/> </a></div>
+<div class="meta-info"><h3 class="feature-title"> <a href="/esports/mot-trong-nhung-su-kien-game-lon-nhat-2017-dang-dan-lo-dien-121037.html" title="Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện">Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện</a></h3></div>
+</div>
+
+
+<div class="feature-thumb small-thumb anim-fadeIn">
+<div class="img-thumb"> <a href="/game-online/blizzard-doi-boi-thuong-gan-200-ti-dong-trong-vu-kien-hacker-121029.html" title="Blizzard đòi bồi thường gần 200 tỉ đồng trong vụ kiện hacker"> <img src="http://static.thanhnien.com.vn/Uploaded/khuongduy/2017_03_16/blizzard-hacker-03_HAVD.jpg?h=310&cropxunits=100&cropyunits=100&crop=26,0,97,0&w=391&encoder=wic&subsampling=444" alt="Blizzard đòi bồi thường gần 200 tỉ đồng trong vụ kiện hacker"/> </a></div>
+<div class="meta-info"><h3 class="feature-title"><a href="/game-online/blizzard-doi-boi-thuong-gan-200-ti-dong-trong-vu-kien-hacker-121029.html" title="Blizzard đòi bồi thường gần 200 tỉ đồng trong vụ kiện hacker">Blizzard đòi bồi thường gần 200 tỉ đồng trong vụ kiện hacker</a></h3></div>
+</div>
+
+
+<div class="feature-thumb small-thumb anim-fadeIn">
+<div class="img-thumb"> <a href="/game-online/vo-song-chien-ky-bi-oneworld-bo-roi-tai-viet-nam-121031.html" title="Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam"> <img src="http://static.thanhnien.com.vn/Uploaded/khuongduy/2017_03_16/vosong-chienky-oneworld-02_GPMA.jpg?h=310&cropxunits=100&cropyunits=100&crop=10,0,57,0&w=391&encoder=wic&subsampling=444" alt="Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam"/> </a></div>
+<div class="meta-info"><h3 class="feature-title"><a href="/game-online/vo-song-chien-ky-bi-oneworld-bo-roi-tai-viet-nam-121031.html" title="Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam">Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam</a></h3></div>
+</div>
+</div>
+
+
+<div class="feature-thumb ver-thumb anim-fadeIn">
+<div class="img-thumb"> <a href="/esports/quoc-te/dota-2-gabe-tiep-tuc-bao-tien-game-thu-voi-acana-juggernaut-sieu-ngau-121028.html" title="Dota 2: Gabe tiếp tục 'bào tiền' game thủ với Acana Juggernaut siêu ngầu"><img src="http://static.thanhnien.com.vn/Uploaded/vietthong/2017_03_16/thumb3_ITHV.jpg?h=310&cropxunits=100&cropyunits=100&crop=32,0,68,0&w=196&encoder=wic&subsampling=444" alt="Dota 2: Gabe tiếp tục 'bào tiền' game thủ với Acana Juggernaut siêu ngầu"/> </a></div>
+<div class="meta-info"><h3 class="feature-title"><a href="/esports/quoc-te/dota-2-gabe-tiep-tuc-bao-tien-game-thu-voi-acana-juggernaut-sieu-ngau-121028.html" title="Dota 2: Gabe tiếp tục 'bào tiền' game thủ với Acana Juggernaut siêu ngầu">Dota 2: Gabe tiếp tục 'bào tiền' game thủ với Acana Juggernaut siêu ngầu</a></h3></div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-8">
+<div class="block-wrap ver-block">
+<h4 class="block-title"><a href="javascript:void(0);" title="Mới nhất">Mới nhất</a></h4>
+<div class="subcat-filter">
+<ul class="subcat-list">
+<li> <a href="/tin-game-vo-lam-truyen-ky-mobile_g293.html" title="Võ Lâm Truyền Kỳ Mobile"> Võ Lâm Truyền Kỳ Mobile </a></li>
+<li> <a href="/tin-game-huyen-thoai-moba_g283.html" title="Huyền Thoại Moba"> Huyền Thoại Moba </a></li>
+<li> <a href="/tin-game-dota-2_g206.html" title="Dota 2"> Dota 2 </a></li>
+<li> <a href="/tin-game-lien-minh-huyen-thoai_g10.html" title="Liên Minh Huyền Thoại"> Liên Minh Huyền Thoại </a></li>
+</ul>
+</div>
+
+<div class="row">
+<div class="col-sm-6">
+<div class="module-wrap feature-news-bock">
+<div class="module-image">
+<div class="module-thumb"><a href="/game-mobile/phai-nao-dang-ba-chu-giang-ho-trong-vltk-mobile-121060.html" title="Phái nào đang bá chủ giang hồ trong VLTK Mobile ?"> <img style="width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/truonggiang/2017_03_17/015503a34ee36ece44a53d40760b1f97_FBIW.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Phái nào đang bá chủ giang hồ trong VLTK Mobile ?" onerror="this.src = '/App_Themes/images/noimage/312x176.jpg'"/></a></div>
+</div>
+<h3 class="entry-title"><a href="/game-mobile/phai-nao-dang-ba-chu-giang-ho-trong-vltk-mobile-121060.html" title="Phái nào đang bá chủ giang hồ trong VLTK Mobile ?">Phái nào đang bá chủ giang hồ trong VLTK Mobile ?</a></h3>
+<div class="excerpt-box">Luôn được xem là kẻ thống trị solo 1vs1, Côn Lôn phái giờ đây còn vùng lên mạnh mẽ ở cả các đấu trường hỗn chiến như Tống Kim...</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class='list-news'>
+<li><a href="/game-offline/co-the-tu-lap-rap-may-tinh-nho-building-simulator-121048.html" title="Có thể tự lắp ráp máy tính nhờ... Building Simulator">Có thể tự lắp ráp máy tính nhờ... Building Simulator</a></li>
+
+
+
+<li><a href="/game-offline/tro-ve-tuoi-tho-cung-bo-suu-tap-6-game-kinh-dien-cua-disney-121039.html" title="Trở về tuổi thơ cùng bộ sưu tập 6 game kinh điển của Disney">Trở về tuổi thơ cùng bộ sưu tập 6 game kinh điển của Disney</a></li>
+
+
+
+<li><a href="/game-offline/horizon-zero-dawn-ban-hon-26-trieu-ban-sau-2-tuan-ra-mat-121053.html" title="Horizon: Zero Dawn bán hơn 2,6 triệu bản sau 2 tuần ra mắt">Horizon: Zero Dawn bán hơn 2,6 triệu bản sau 2 tuần ra mắt</a></li>
+
+
+
+<li><a href="/esports/trong-nuoc/mdcs-mua-xuan-2017-ren-doi-vi-tri-nhung-cr-van-thua-trang-truoc-ng-121041.html" title="MDCS Mùa Xuân 2017: Ren đổi vị trí nhưng CR vẫn thua trắng trước NG">MDCS Mùa Xuân 2017: Ren đổi vị trí nhưng CR vẫn thua trắng trước NG</a></li>
+</ul>
+</div>
+<div class="col-sm-6">
+
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/game-mobile/3-ly-do-phai-download-truy-kich-mobile-ngay-hom-nay-121066.html" title="3 lý do phải download Truy Kích Mobile ngay hôm nay"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_17/1_TGBO.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="3 lý do phải download Truy Kích Mobile ngay hôm nay" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/game-mobile/3-ly-do-phai-download-truy-kich-mobile-ngay-hom-nay-121066.html" title="3 lý do phải download Truy Kích Mobile ngay hôm nay">3 lý do phải download Truy Kích Mobile ngay hôm nay</a></h3></div>
+</div>
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/game-cam-nang/lmht-bat-mi-cach-nam-dau-galio-moi-ma-ai-cung-can-phai-biet-121059.html" title="LMHT: Bật mí cách 'nắm đầu' Galio mới mà ai cũng cần phải biết"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/vietthong/2017_03_17/thumb2_QSHC.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="LMHT: Bật mí cách 'nắm đầu' Galio mới mà ai cũng cần phải biết" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/game-cam-nang/lmht-bat-mi-cach-nam-dau-galio-moi-ma-ai-cung-can-phai-biet-121059.html" title="LMHT: Bật mí cách 'nắm đầu' Galio mới mà ai cũng cần phải biết">LMHT: Bật mí cách 'nắm đầu' Galio mới mà ai cũng cần phải biết</a></h3></div>
+</div>
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/game-cam-nang/riot-meddler-chia-se-meo-choi-lien-minh-huyen-thoai-gioi-hon-121051.html" title="Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/vietthong/2017_03_17/thumb1_PHAX.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/game-cam-nang/riot-meddler-chia-se-meo-choi-lien-minh-huyen-thoai-gioi-hon-121051.html" title="Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn">Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn</a></h3></div>
+</div>
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/game-offline/game-thu-viet-da-co-the-choi-mien-phi-warhammer-40000-eternal-crusade-121055.html" title="Game thủ Việt đã có thể chơi miễn phí Warhammer 40,000: Eternal Crusade"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/khuongduy/2017_03_17/warhammer40k-eternal-crusade-05_UBSI.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Game thủ Việt đã có thể chơi miễn phí Warhammer 40,000: Eternal Crusade" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/game-offline/game-thu-viet-da-co-the-choi-mien-phi-warhammer-40000-eternal-crusade-121055.html" title="Game thủ Việt đã có thể chơi miễn phí Warhammer 40,000: Eternal Crusade">Game thủ Việt đã có thể chơi miễn phí Warhammer 40,000: Eternal Crusade</a></h3></div>
+</div>
+<div class="module-wrap normal-news-block last">
+<div class="module-thumb">
+<a href="/game-mobile/thanh-nien-game-trai-nghiem-truy-kich-mobile-truoc-ngay-ra-mat-121057.html" title="Thanh Niên Game trải nghiệm Truy Kích Mobile trước ngày ra mắt"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/phunggiao/2017_03_17/thanh-nien-game-trai-nghiem-truy-kich-mobile-truoc-ngay-ra-mat-1_MXVL.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Thanh Niên Game trải nghiệm Truy Kích Mobile trước ngày ra mắt" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/game-mobile/thanh-nien-game-trai-nghiem-truy-kich-mobile-truoc-ngay-ra-mat-121057.html" title="Thanh Niên Game trải nghiệm Truy Kích Mobile trước ngày ra mắt">Thanh Niên Game trải nghiệm Truy Kích Mobile trước ngày ra mắt</a></h3></div>
+</div>
+
+
+
+
+</div>
+</div>
+
+</div>
+
+<div class="block-wrap hor-block">
+<div class="block-wrap">
+<h4 class="block-title"><a href="/danh-gia-phong-su/" title="Đánh giá - Phóng sự">Đánh giá - Phóng sự</a></h4>
+<div class="row">
+<div class="col-sm-6">
+<div class="module-wrap feature-news-bock">
+<div class="module-image">
+<div class="module-thumb">
+<a href="/phan-cung/4-bo-mach-chu-x370-tot-nhat-danh-cho-amd-ryzen-121000.html" title="4 bo mạch chủ X370 tốt nhất dành cho AMD Ryzen"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_16/asuscrosshairvihero_XGAN.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="4 bo mạch chủ X370 tốt nhất dành cho AMD Ryzen" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a>
+<div class="module-meta-info"><div class="post-comment"><a href="/phan-cung/4-bo-mach-chu-x370-tot-nhat-danh-cho-amd-ryzen-121000.html" title="4 bo mạch chủ X370 tốt nhất dành cho AMD Ryzen"><i class="fa fa-comments-o"></i><span>0</span></a></div></div>
+</div>
+</div>
+<h3 class="entry-title"><a href="/phan-cung/4-bo-mach-chu-x370-tot-nhat-danh-cho-amd-ryzen-121000.html" title="4 bo mạch chủ X370 tốt nhất dành cho AMD Ryzen">4 bo mạch chủ X370 tốt nhất dành cho AMD Ryzen</a></h3>
+<div class="excerpt-box">AMD Ryzen đã ra mắt ấn tượng. Công việc còn lại của hãng là kết hợp với các nhà sản xuất bo mạch chủ để đưa ra các sản phẩm tốt nhất...</div>
+</div>
+
+<div class="module-wrap normal-news-block">
+<div class="module-thumb"> <a href="/phan-cung/thi-truong-phong-may-viet-sap-thay-doi-lon-120929.html" title="Thị trường phòng máy Việt sắp thay đổi lớn"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_14/nguyen-vu-cyper-gaming-036_JDQI.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Thị trường phòng máy Việt sắp thay đổi lớn" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a></div>
+<div class="item-details">
+<h3 class="entry-title"><a href="/phan-cung/thi-truong-phong-may-viet-sap-thay-doi-lon-120929.html" title="Thị trường phòng máy Việt sắp thay đổi lớn">Thị trường phòng máy Việt sắp thay đổi lớn</a></h3>
+<div class="module-meta-info"><div class="post-comment"></div><a href="/phan-cung/thi-truong-phong-may-viet-sap-thay-doi-lon-120929.html" title="Thị trường phòng máy Việt sắp thay đổi lớn"><i class="fa fa-comments-o"></i><span>0</span></a></div>
+</div>
+</div>
+<div class="module-wrap normal-news-block last">
+<div class="module-thumb"> <a href="/phan-cung/xbox-scorpio-duoc-nguoi-dung-sau-chua-nhan-ca-ngoi-120877.html" title="Xbox Scorpio được người đứng sau 'Chúa Nhẫn' ca ngợi"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_12/middle_earth_shadow_of_war_screen10_AJZQ.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Xbox Scorpio được người đứng sau 'Chúa Nhẫn' ca ngợi" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a></div>
+<div class="item-details">
+<h3 class="entry-title"><a href="/phan-cung/xbox-scorpio-duoc-nguoi-dung-sau-chua-nhan-ca-ngoi-120877.html" title="Xbox Scorpio được người đứng sau 'Chúa Nhẫn' ca ngợi">Xbox Scorpio được người đứng sau 'Chúa Nhẫn' ca ngợi</a></h3>
+<div class="module-meta-info"><div class="post-comment"></div><a href="/phan-cung/xbox-scorpio-duoc-nguoi-dung-sau-chua-nhan-ca-ngoi-120877.html" title="Xbox Scorpio được người đứng sau 'Chúa Nhẫn' ca ngợi"><i class="fa fa-comments-o"></i><span>0</span></a></div>
+</div>
+</div>
+
+
+</div>
+<div class="col-sm-6">
+
+
+<div class="module-wrap feature-news-bock">
+<div class="module-image">
+<div class="module-thumb">
+<a href="/phan-cung/amd-he-lo-gia-ban-ryzen-5-doi-dau-truc-tiep-voi-intel-core-i5-120994.html" title="AMD hé lộ giá bán Ryzen 5, đối đầu trực tiếp với Intel Core i5"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_16/amd-ryzen-5-primary-100713506-large_HART.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="AMD hé lộ giá bán Ryzen 5, đối đầu trực tiếp với Intel Core i5" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a>
+<div class="module-meta-info"><div class="post-comment"><a href="/phan-cung/amd-he-lo-gia-ban-ryzen-5-doi-dau-truc-tiep-voi-intel-core-i5-120994.html" title="AMD hé lộ giá bán Ryzen 5, đối đầu trực tiếp với Intel Core i5"><i class="fa fa-comments-o"></i><span>0</span></a></div></div>
+</div>
+</div>
+<h3 class="entry-title"><a href="/phan-cung/amd-he-lo-gia-ban-ryzen-5-doi-dau-truc-tiep-voi-intel-core-i5-120994.html" title="AMD hé lộ giá bán Ryzen 5, đối đầu trực tiếp với Intel Core i5">AMD hé lộ giá bán Ryzen 5, đối đầu trực tiếp với Intel Core i5</a></h3>
+<div class="excerpt-box">Với 4 phiên bản trải dài từ 3.700.000 VNĐ đến 5.500.000 VNĐ, đội quân Ryzen 5 đang thực sự phả hơi nóng vào sự thống trị...</div>
+</div>
+
+
+
+
+
+
+<div class="module-wrap normal-news-block">
+<div class="module-thumb"> <a href="/phan-cung/trai-nghiem-plextor-m8peg-o-cung-ssd-ti-hon-than-luc-120847.html" title="Trải nghiệm Plextor M8PeG: Ổ cứng SSD ‘tí hon thần lực’"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_10/plextor-px-512m8peg-ocung-ssd-12_OIIE.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Trải nghiệm Plextor M8PeG: Ổ cứng SSD ‘tí hon thần lực’" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a></div>
+<div class="item-details">
+<h3 class="entry-title"><a href="/phan-cung/trai-nghiem-plextor-m8peg-o-cung-ssd-ti-hon-than-luc-120847.html" title="Trải nghiệm Plextor M8PeG: Ổ cứng SSD ‘tí hon thần lực’">Trải nghiệm Plextor M8PeG: Ổ cứng SSD ‘tí hon thần lực’</a></h3>
+<div class="module-meta-info"><div class="post-comment"></div><a href="/phan-cung/trai-nghiem-plextor-m8peg-o-cung-ssd-ti-hon-than-luc-120847.html" title="Trải nghiệm Plextor M8PeG: Ổ cứng SSD ‘tí hon thần lực’"><i class="fa fa-comments-o"></i><span>0</span></a></div>
+</div>
+</div>
+
+<div class="module-wrap normal-news-block last">
+<div class="module-thumb"> <a href="/danh-gia-phong-su/cuoc-cach-mang-ryzen-ky-1-amd-truoc-nguong-soan-ngoi-intel-121007.html" title="Cuộc cách mạng Ryzen (Kỳ 1): AMD trước ngưỡng soán ngôi Intel"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/game/upload/image/article/2017/03/07/505406e8eeca77994b8b9b4f5b1d2ec0.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Cuộc cách mạng Ryzen (Kỳ 1): AMD trước ngưỡng soán ngôi Intel" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a></div>
+<div class="item-details">
+<h3 class="entry-title"><a href="/danh-gia-phong-su/cuoc-cach-mang-ryzen-ky-1-amd-truoc-nguong-soan-ngoi-intel-121007.html" title="Cuộc cách mạng Ryzen (Kỳ 1): AMD trước ngưỡng soán ngôi Intel">Cuộc cách mạng Ryzen (Kỳ 1): AMD trước ngưỡng soán ngôi Intel</a></h3>
+<div class="module-meta-info"><div class="post-comment"></div><a href="/danh-gia-phong-su/cuoc-cach-mang-ryzen-ky-1-amd-truoc-nguong-soan-ngoi-intel-121007.html" title="Cuộc cách mạng Ryzen (Kỳ 1): AMD trước ngưỡng soán ngôi Intel"><i class="fa fa-comments-o"></i><span>0</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="block-wrap ver-block">
+<h4 class="block-title"><a href="/dang-cap-game-thu/" title="Game thủ">Game thủ</a></h4>
+<div class="row">
+<div class="col-sm-4">
+<div class="module-wrap ver-news-bock">
+<div class="module-image"><div class="module-thumb"> <a href="/game-cam-nang/riot-meddler-chia-se-meo-choi-lien-minh-huyen-thoai-gioi-hon-121051.html" title="Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn"> <img width="200" src="http://static.thanhnien.com.vn/Uploaded/vietthong/2017_03_17/thumb1_PHAX.jpg?w=200&h=112&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a></div></div>
+<h3 class="entry-title"><a href="/game-cam-nang/riot-meddler-chia-se-meo-choi-lien-minh-huyen-thoai-gioi-hon-121051.html" title="Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn">Riot Meddler chia sẻ mẹo chơi Liên Minh Huyền Thoại giỏi hơn</a></h3>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="module-wrap ver-news-bock">
+<div class="module-image"><div class="module-thumb"> <a href="/dang-cap-game-thu/nu-game-thu-bat-ngo-gianh-chuc-vo-dich-giai-dau-pokemon-the-gioi-2017-120954.html" title="Nữ game thủ bất ngờ giành chức vô địch giải đấu Pokemon thế giới 2017"> <img width="200" src="http://static.thanhnien.com.vn/Uploaded/phunggiao/2017_03_15/nu-game-thu-bat-ngo-danh-chuc-vo-dich-pokemon-the-gioi-2017-1_RZAT.jpg?w=200&h=112&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Nữ game thủ bất ngờ giành chức vô địch giải đấu Pokemon thế giới 2017" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a></div></div>
+<h3 class="entry-title"><a href="/dang-cap-game-thu/nu-game-thu-bat-ngo-gianh-chuc-vo-dich-giai-dau-pokemon-the-gioi-2017-120954.html" title="Nữ game thủ bất ngờ giành chức vô địch giải đấu Pokemon thế giới 2017">Nữ game thủ bất ngờ giành chức vô địch giải đấu Pokemon thế giới 2017</a></h3>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="module-wrap ver-news-bock">
+<div class="module-image"><div class="module-thumb"> <a href="/dang-cap-game-thu/nu-game-thu-lam-dien-dao-cong-dong-mang-thai-lan-120952.html" title="Nữ game thủ làm 'điên đảo' cộng đồng mạng Thái Lan"> <img width="200" src="http://static.thanhnien.com.vn/Uploaded/phunggiao/2017_03_14/nu-game-thu-lam-dien-dao-cong-dong-mang-thai-lan_DGUM.png?w=200&h=112&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Nữ game thủ làm 'điên đảo' cộng đồng mạng Thái Lan" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a></div></div>
+<h3 class="entry-title"><a href="/dang-cap-game-thu/nu-game-thu-lam-dien-dao-cong-dong-mang-thai-lan-120952.html" title="Nữ game thủ làm 'điên đảo' cộng đồng mạng Thái Lan">Nữ game thủ làm 'điên đảo' cộng đồng mạng Thái Lan</a></h3>
+</div>
+</div>
+</div>
+</div>
+
+<div class="block-wrap ver-block">
+<h4 class="block-title"><a href="/esports/" title="eSports">eSports</a></h4>
+<div class="subcat-filter">
+<ul class="subcat-list"><li><a href="/esports/" title="eSports">Tổng hợp</a></li><li><a href="/esports/trong-nuoc/" title="Trong nước">Trong nước</a></li><li><a href="/esports/quoc-te/" title="Quốc tế">Quốc tế</a></li></ul>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="module-wrap feature-news-bock">
+<div class="module-image">
+<div class="module-thumb"><a href="/esports/fifa-online-3-nguoi-hung-cua-mu-bang-nua-gia-fellaini-121044.html" title="FIFA Online 3: Người hùng của M.U bằng nửa giá Fellaini"> <img style="width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/tiendat/2017_03_17/fifa-online-3-mata-01_TCBI.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="FIFA Online 3: Người hùng của M.U bằng nửa giá Fellaini" onerror="this.src = '/App_Themes/images/noimage/312x176.jpg'"/></div>
+</div>
+<h3 class="entry-title"><a href="/esports/fifa-online-3-nguoi-hung-cua-mu-bang-nua-gia-fellaini-121044.html" title="FIFA Online 3: Người hùng của M.U bằng nửa giá Fellaini">FIFA Online 3: Người hùng của M.U bằng nửa giá Fellaini</a></h3>
+<div class="excerpt-box">Juan Mata, người hùng trong chiến thắng 1-0 trước FC Rostov, giúp Manchester United lọt vào tứ kết Europa League có giá rất phải chăng trong FIFA Online 3</div>
+</div>
+</div>
+
+
+
+
+<div class="col-sm-6">
+
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/esports/mot-trong-nhung-su-kien-game-lon-nhat-2017-dang-dan-lo-dien-121037.html" title="Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/badiep/2017_03_17/dautruong-facebook_GUXA.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/esports/mot-trong-nhung-su-kien-game-lon-nhat-2017-dang-dan-lo-dien-121037.html" title="Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện">Một trong những sự kiện game lớn nhất 2017 đang dần lộ diện</a></h3></div>
+</div>
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/esports/lmht-amumu-va-volibear-se-lat-do-ngoi-vuong-cua-graves-121019.html" title="LMHT: Amumu và Volibear sẽ lật đổ ngôi vương của Graves"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/vietthong/2017_03_16/thumb1_VQAU.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="LMHT: Amumu và Volibear sẽ lật đổ ngôi vương của Graves" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/esports/lmht-amumu-va-volibear-se-lat-do-ngoi-vuong-cua-graves-121019.html" title="LMHT: Amumu và Volibear sẽ lật đổ ngôi vương của Graves">LMHT: Amumu và Volibear sẽ lật đổ ngôi vương của Graves</a></h3></div>
+</div>
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/esports/fifa-online-3-nguoi-loai-manchester-city-khoi-champions-league-la-ai-120996.html" title="FIFA Online 3: Người loại Manchester City khỏi Champions League là ai?"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/tiendat/2017_03_16/thumb_XSGX.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="FIFA Online 3: Người loại Manchester City khỏi Champions League là ai?" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/esports/fifa-online-3-nguoi-loai-manchester-city-khoi-champions-league-la-ai-120996.html" title="FIFA Online 3: Người loại Manchester City khỏi Champions League là ai?">FIFA Online 3: Người loại Manchester City khỏi Champions League là ai?</a></h3></div>
+</div>
+<div class="module-wrap normal-news-block ">
+<div class="module-thumb">
+<a href="/esports/mdcs-mua-xuan-2017-qtv-van-khong-the-dan-dat-dong-doi-vuot-qua-yg-120991.html" title="MDCS Mùa Xuân 2017: QTV vẫn không thể dẫn dắt đồng đội vượt qua YG"> <img style = "width: 109px; height: 61px" src="http://static.thanhnien.com.vn/Uploaded/vietthong/2017_03_16/thumb_HOLH.jpg?w=109&h=61&crop=auto&scale=both&encoder=wic&subsampling=444" alt="MDCS Mùa Xuân 2017: QTV vẫn không thể dẫn dắt đồng đội vượt qua YG" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> </a>
+</div>
+<div class="item-details"><h3 class="entry-title"><a href="/esports/mdcs-mua-xuan-2017-qtv-van-khong-the-dan-dat-dong-doi-vuot-qua-yg-120991.html" title="MDCS Mùa Xuân 2017: QTV vẫn không thể dẫn dắt đồng đội vượt qua YG">MDCS Mùa Xuân 2017: QTV vẫn không thể dẫn dắt đồng đội vượt qua YG</a></h3></div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-wrap block-1">
+<div class="row">
+
+<div class="col-sm-6">
+<h4 class="block-title"><a href="/game-online/" title="Game Online">Game Online</a></h4>
+<div style="right:11px;" class="subcat-filter">
+<ul class="subcat-list"><li><a href="/game-online/trong-nuoc/" title="Trong nước">Trong nước</a></li><li><a href="/game-online/quoc-te/" title="Quốc tế">Quốc tế</a></li></ul>
+</div>
+<div class="module-wrap feature-news-bock">
+<div class="module-image">
+<div class="module-thumb">
+<a href="/game-online/vo-song-chien-ky-bi-oneworld-bo-roi-tai-viet-nam-121031.html" title="Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/khuongduy/2017_03_16/vosong-chienky-oneworld-02_GPMA.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a>
+</div>
+</div>
+<h3 class="entry-title"><a href="/game-online/vo-song-chien-ky-bi-oneworld-bo-roi-tai-viet-nam-121031.html" title="Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam">Vô Song Chiến Ký bị OneWorld 'bỏ rơi' tại Việt Nam</a></h3>
+<div class="excerpt-box">Được ấn định ra mắt trong tháng 2, thế nhưng đến hiện tại Vô Song Chiến Ký vẫn chưa có động tĩnh gì</div>
+</div>
+
+
+
+
+<ul class="list-news">
+
+<li><a href="/game-online/phuc-long-bat-ngo-chia-se-nhung-hinh-anh-viet-hoa-dau-tien-121033.html" title="Phục Long bất ngờ chia sẻ những hình ảnh việt hóa đầu tiên">Phục Long bất ngờ chia sẻ những hình ảnh việt hóa đầu tiên</a></li>
+<li><a href="/game-online/blizzard-doi-boi-thuong-gan-200-ti-dong-trong-vu-kien-hacker-121029.html" title="Blizzard đòi bồi thường gần 200 tỉ đồng trong vụ kiện hacker">Blizzard đòi bồi thường gần 200 tỉ đồng trong vụ kiện hacker</a></li>
+<li><a href="/game-online/rend-game-mmo-sinh-ton-doc-dao-tu-nhung-cuu-binh-cua-blizzard-120982.html" title="Rend - Game MMO sinh tồn độc đáo từ những 'cựu binh' của Blizzard">Rend - Game MMO sinh tồn độc đáo từ những 'cựu binh' của Blizzard</a></li>
+<li><a href="/game-online/xuat-hien-webgame-chien-thuat-phuc-long-tai-viet-nam-120978.html" title="Xuất hiện webgame chiến thuật Phục Long tại Việt Nam">Xuất hiện webgame chiến thuật Phục Long tại Việt Nam</a></li>
+</ul>
+</div>
+
+<div class="col-sm-6">
+<h4 class="block-title"><a href="/game-mobile/" title="Game Mobile">Game Mobile</a></h4>
+<div style="right:11px;" class="subcat-filter">
+<ul class="subcat-list"><li><a href="/game-mobile/trong-nuoc/" title="Trong nước">Trong nước</a></li><li><a href="/game-mobile/quoc-te/" title="Quốc tế">Quốc tế</a></li></ul>
+</div>
+<div class="module-wrap feature-news-bock">
+<div class="module-image">
+<div class="module-thumb">
+<a href="/game-mobile/phai-nao-dang-ba-chu-giang-ho-trong-vltk-mobile-121060.html" title="Phái nào đang bá chủ giang hồ trong VLTK Mobile ?"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/truonggiang/2017_03_17/015503a34ee36ece44a53d40760b1f97_FBIW.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Phái nào đang bá chủ giang hồ trong VLTK Mobile ?" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a>
+</div>
+</div>
+<h3 class="entry-title"><a href="/game-mobile/phai-nao-dang-ba-chu-giang-ho-trong-vltk-mobile-121060.html" title="Phái nào đang bá chủ giang hồ trong VLTK Mobile ?">Phái nào đang bá chủ giang hồ trong VLTK Mobile ?</a></h3>
+<div class="excerpt-box">Luôn được xem là kẻ thống trị solo 1vs1, Côn Lôn phái giờ đây còn vùng lên mạnh mẽ ở cả các đấu trường hỗn chiến như Tống Kim, Danh...</div>
+</div>
+
+
+
+
+<ul class="list-news">
+
+<li><a href="/game-mobile/3-ly-do-phai-download-truy-kich-mobile-ngay-hom-nay-121066.html" title="3 lý do phải download Truy Kích Mobile ngay hôm nay">3 lý do phải download Truy Kích Mobile ngay hôm nay</a></li>
+<li><a href="/game-mobile/thanh-nien-game-trai-nghiem-truy-kich-mobile-truoc-ngay-ra-mat-121057.html" title="Thanh Niên Game trải nghiệm Truy Kích Mobile trước ngày ra mắt">Thanh Niên Game trải nghiệm Truy Kích Mobile trước ngày ra mắt</a></li>
+<li><a href="/game-mobile/su-phu-phai-long-de-tu-va-cai-ket-bat-ngo-121046.html" title="Sư phụ 'phải lòng' đệ tử và cái kết bất ngờ">Sư phụ 'phải lòng' đệ tử và cái kết bất ngờ</a></li>
+<li><a href="/game-mobile/gian-lan-giao-dich-online-lai-lam-loan-trong-hero-of-dawn-121035.html" title="Gian lận giao dịch online lại làm loạn trong Hero of Dawn">Gian lận giao dịch online lại làm loạn trong Hero of Dawn</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="block-wrap">
+<h4 class="block-title"><a href="/video/" title="Video">Video</a></h4>
+<div class="row">
+<div class="col-sm-6">
+<div class="module-wrap video-news-bock">
+<div class="module-image shadow">
+<div class="module-thumb">
+<a href="/video/video-lmht-thuong-thuc-ban-remix-cuc-doc-cua-alistar-bo-sua-121042.html" title="Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/tiendat/2017_03_17/cow_FLTY.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> <span class="play-icon"><i class="wi-icon lg-play-icon"></i></span> </a>
+<div class="module-meta-info"><div class="post-view"> <i class="fa fa-eye"></i><span>277</span></div></div>
+</div>
+</div>
+<h3 sameheight class="entry-title"><a href="/video/video-lmht-thuong-thuc-ban-remix-cuc-doc-cua-alistar-bo-sua-121042.html" title="Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa">Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="module-wrap video-news-bock">
+<div class="module-image shadow">
+<div class="module-thumb">
+<a href="/video/video-viet-sub-cau-chuyen-ve-tinh-anh-em-trong-sniper-ghost-warrior-3-121022.html" title="Video Việt sub: Câu chuyện về tình anh em trong Sniper Ghost Warrior 3"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/tiendat/2017_03_16/swg3sniperbrotherstrailer_CJCF.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Video Việt sub: Câu chuyện về tình anh em trong Sniper Ghost Warrior 3" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> <span class="play-icon"><i class="wi-icon lg-play-icon"></i></span> </a>
+<div class="module-meta-info"><div class="post-view"> <i class="fa fa-eye"></i><span>53</span></div></div>
+</div>
+</div>
+<h3 sameheight class="entry-title"><a href="/video/video-viet-sub-cau-chuyen-ve-tinh-anh-em-trong-sniper-ghost-warrior-3-121022.html" title="Video Việt sub: Câu chuyện về tình anh em trong Sniper Ghost Warrior 3">Video Việt sub: Câu chuyện về tình anh em trong Sniper Ghost Warrior 3</a></h3>
+</div>
+</div>
+
+
+</div>
+<div class="row">
+
+
+<div class="col-sm-6">
+<div class="module-wrap video-news-bock">
+<div class="module-image shadow">
+<div class="module-thumb">
+<a href="/video/video-lmht-lee-sin-ho-tro-sieu-ba-dao-voi-phong-ngon-chuc-phuc-121015.html" title="Video LMHT: Lee Sin hỗ trợ siêu bá đạo với Phong Ngôn Chúc Phúc"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/tiendat/2017_03_16/lee_GIMM.png?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Video LMHT: Lee Sin hỗ trợ siêu bá đạo với Phong Ngôn Chúc Phúc" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> <span class="play-icon"><i class="wi-icon lg-play-icon"></i></span> </a>
+<div class="module-meta-info"><div class="post-view"> <i class="fa fa-eye"></i><span>253</span></div></div>
+</div>
+</div>
+<h3 class="entry-title"><a href="/video/video-lmht-lee-sin-ho-tro-sieu-ba-dao-voi-phong-ngon-chuc-phuc-121015.html" title="Video LMHT: Lee Sin hỗ trợ siêu bá đạo với Phong Ngôn Chúc Phúc">Video LMHT: Lee Sin hỗ trợ siêu bá đạo với Phong Ngôn Chúc Phúc</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="module-wrap video-news-bock">
+<div class="module-image shadow">
+<div class="module-thumb">
+<a href="/video/video-lmht-dopa-qua-kinh-khung-voi-kassadin-duong-giua-121017.html" title="Video LMHT: Dopa quá kinh khủng với Kassadin đường giữa"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/tiendat/2017_03_16/dopa_GNAQ.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Video LMHT: Dopa quá kinh khủng với Kassadin đường giữa" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> <span class="play-icon"><i class="wi-icon lg-play-icon"></i></span> </a>
+<div class="module-meta-info"><div class="post-view"> <i class="fa fa-eye"></i><span>169</span></div></div>
+</div>
+</div>
+<h3 class="entry-title"><a href="/video/video-lmht-dopa-qua-kinh-khung-voi-kassadin-duong-giua-121017.html" title="Video LMHT: Dopa quá kinh khủng với Kassadin đường giữa">Video LMHT: Dopa quá kinh khủng với Kassadin đường giữa</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="block-wrap minigame-block">
+<div class="minigame-header">
+<h3 class="label-tag blue"><a href="/minigame/" title="Mini Game - Flash game">Mini Game - Flash game</a></h3>
+</div>
+<div class="minigame-inner br-blue">
+<div class="minigame-content">
+<div data-same-height=".title" class="row">
+<div class="col-sm-2">
+<div class="game-thumb">
+<div class="module-image"> <img alt="Hip sodoku" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/minigame/2015/11/20/c65c0a06cd24b6cfa04ec72cccc62fc4.jpg?w=80&h=80&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src = '/App_Themes/images/noimage/80x80.jpg'"/> <i class="icon icon-game"></i></div>
+<div class="item-details">
+<h3 class="title">Hip sodoku</h3>
+<div class="meta"><i class="fa fa-gamepad"></i><span>50,067</span></div>
+</div>
+<a href="/minigame/kinh-dien/hip-sodoku.10.html" title="Hip sodoku"></a>
+</div>
+</div>
+<div class="col-sm-2">
+<div class="game-thumb">
+<div class="module-image"> <img alt="Pikachu" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/minigame/2015/11/17/6a28ac372623df9e81a194953f5adbd7.jpg?w=80&h=80&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src = '/App_Themes/images/noimage/80x80.jpg'"/> <i class="icon icon-game"></i></div>
+<div class="item-details">
+<h3 class="title">Pikachu</h3>
+<div class="meta"><i class="fa fa-gamepad"></i><span>64,782</span></div>
+</div>
+<a href="/minigame/kinh-dien/pikachu.8.html" title="Pikachu"></a>
+</div>
+</div>
+<div class="col-sm-2">
+<div class="game-thumb">
+<div class="module-image"> <img alt="Game tô màu" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/minigame/2015/11/17/3c597eaea0b3cf5047b3c57f1a7fb270.jpg?w=80&h=80&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src = '/App_Themes/images/noimage/80x80.jpg'"/> <i class="icon icon-game"></i></div>
+<div class="item-details">
+<h3 class="title">Game tô màu</h3>
+<div class="meta"><i class="fa fa-gamepad"></i><span>42,138</span></div>
+</div>
+<a href="/minigame/kinh-dien/game-to-mau.7.html" title="Game tô màu"></a>
+</div>
+</div>
+<div class="col-sm-2">
+<div class="game-thumb">
+<div class="module-image"> <img alt="Stickman - Người que đánh nhau" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/minigame/2015/11/17/4b72079853740506437e222ebf392c05.jpg?w=80&h=80&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src = '/App_Themes/images/noimage/80x80.jpg'"/> <i class="icon icon-game"></i></div>
+<div class="item-details">
+<h3 class="title">Stickman - Người que đánh nhau</h3>
+<div class="meta"><i class="fa fa-gamepad"></i><span>42,651</span></div>
+</div>
+<a href="/minigame/hanh-dong/stickman-nguoi-que-danh-nhau.6.html" title="Stickman - Người que đánh nhau"></a>
+</div>
+</div>
+<div class="col-sm-2">
+<div class="game-thumb">
+<div class="module-image"> <img alt="Rambo lùn 2." src="http://static.thanhnien.com.vn/uploaded/game/upload/image/minigame/2015/11/17/6db712b14e7c0c5546e4b08de3735de1.jpg?w=80&h=80&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src = '/App_Themes/images/noimage/80x80.jpg'"/> <i class="icon icon-game"></i></div>
+<div class="item-details">
+<h3 class="title">Rambo lùn 2.</h3>
+<div class="meta"><i class="fa fa-gamepad"></i><span>43,668</span></div>
+</div>
+<a href="/minigame/xa-thu/rambo-lun-2.5.html" title="Rambo lùn 2."></a>
+</div>
+</div>
+<div class="col-sm-2">
+<div class="game-thumb">
+<div class="module-image"> <img alt="Strike Force Kitty: Last Stand" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/minigame/2015/11/17/ad966ec869ddd14a69e168dcf15195d8.jpg?w=80&h=80&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src = '/App_Themes/images/noimage/80x80.jpg'"/> <i class="icon icon-game"></i></div>
+<div class="item-details">
+<h3 class="title">Strike Force Kitty: Last Stand</h3>
+<div class="meta"><i class="fa fa-gamepad"></i><span>54</span></div>
+</div>
+<a href="/minigame/chien-thuat-mini-game/strike-force-kitty-last-stand.4.html" title="Strike Force Kitty: Last Stand"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-sm-4">
+<div class="widget">
+<div class="ads-box">
+<div class="right">
+
+<div id="adsctl00_main_Sidebar_AdsHome" position="MediumRectangle1" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:300px;height:250px"><span class='adsitem' rel='2' tag='Top Right'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TNO_Game_300_250_Ad1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-9101256272143007"
+     data-ad-slot="3865471837"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></span></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_Sidebar_AdsHome', -1, -1);</script>
+</div>
+</div>
+</div>
+
+<div class="widget video-list">
+<h3 class="block-title"><span>Video nổi bật</span></h3>
+<div class="module-wrap video-news-bock">
+<div class="module-image shadow">
+<div class="module-thumb">
+<a href="/video/video-lmht-thuong-thuc-ban-remix-cuc-doc-cua-alistar-bo-sua-121042.html" title="Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa"> <img style = "width: 312px; height: 176px" src="http://static.thanhnien.com.vn/Uploaded/tiendat/2017_03_17/cow_FLTY.jpg?w=312&h=176&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> <span class="play-icon"><i class="wi-icon lg-play-icon"></i></span> </a>
+<div class="module-meta-info"><div class="post-view"><i class="fa fa-eye"></i><span>277</span></div></div>
+</div>
+</div>
+<h3 class="entry-title"><a href="/video/video-lmht-thuong-thuc-ban-remix-cuc-doc-cua-alistar-bo-sua-121042.html" title="Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa">Video LMHT: Thưởng thức bản remix cực độc của Alistar Bò Sữa</a></h3>
+</div>
+</div>
+
+<div class="widget giftcode">
+<h4 class="block-title"><a href="/giftcode/" title="Giftcode">Giftcode</a></h4>
+<div class="row">
+<div class="col-sm-6">
+<div class="ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"><a href="/giftcode/boom-3d-mobile-tang-giftcode-500-vang-mung-ra-mat-80084.html" title="Boom 3D Mobile tặng Giftcode 500 vàng mừng ra mắt"> <img style = "width: 145px; height: 81px" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/article/2017/02/16/ae10f02a360026674691eb3096267e39.jpg?w=145&h=81&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Boom 3D Mobile tặng Giftcode 500 vàng mừng ra mắt" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a></div>
+</div>
+<h3 sameheight class="entry-title"><a href="/giftcode/boom-3d-mobile-tang-giftcode-500-vang-mung-ra-mat-80084.html" title="Boom 3D Mobile tặng Giftcode 500 vàng mừng ra mắt">Boom 3D Mobile tặng Giftcode 500 vàng mừng ra mắt</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"><a href="/giftcode/39quay-nat39-event-game-thu-an-mung-nhat-ky-tinh-yeu-ra-mat-79518.html" title="&#39;Quẩy nát&#39; event, game thủ ăn mừng Nhật Ký Tình Yêu ra mắt"> <img style = "width: 145px; height: 81px" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/article/2016/12/21/f397ab563110eb7057be26e694a7efab.jpg?w=145&h=81&crop=auto&scale=both&encoder=wic&subsampling=444" alt="&#39;Quẩy nát&#39; event, game thủ ăn mừng Nhật Ký Tình Yêu ra mắt" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a></div>
+</div>
+<h3 sameheight class="entry-title"><a href="/giftcode/39quay-nat39-event-game-thu-an-mung-nhat-ky-tinh-yeu-ra-mat-79518.html" title="&#39;Quẩy nát&#39; event, game thủ ăn mừng Nhật Ký Tình Yêu ra mắt">&#39;Quẩy nát&#39; event, game thủ ăn mừng Nhật Ký Tình Yêu ra mắt</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"><a href="/giftcode/huong-dan-nhan-giftcode-hiep-khach-hanh-tren-fanpage-thanh-nien-game-78776.html" title="Hướng dẫn nhận giftcode Hiệp Khách Hành trên Fanpage Thanh Niên Game"> <img style = "width: 145px; height: 81px" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/article/2016/11/10/0cdb9cfbf0bbf075b612de771b58b5af.jpg?w=145&h=81&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Hướng dẫn nhận giftcode Hiệp Khách Hành trên Fanpage Thanh Niên Game" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a></div>
+</div>
+<h3 sameheight class="entry-title"><a href="/giftcode/huong-dan-nhan-giftcode-hiep-khach-hanh-tren-fanpage-thanh-nien-game-78776.html" title="Hướng dẫn nhận giftcode Hiệp Khách Hành trên Fanpage Thanh Niên Game">Hướng dẫn nhận giftcode Hiệp Khách Hành trên Fanpage Thanh Niên Game</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"><a href="/game-online/webgame-thong-thien-tay-du-ra-mat-phien-ban-chinh-thuc-tang-giftcode-gia-tri-94125.html" title="Webgame Thông Thiên Tây Du ra mắt phiên bản chính thức, tặng giftcode giá trị"> <img style = "width: 145px; height: 81px" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/article/2016/08/12/e408369cb15093e71307fc030d8b3ec4.jpg?w=145&h=81&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Webgame Thông Thiên Tây Du ra mắt phiên bản chính thức, tặng giftcode giá trị" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'"> </a></div>
+</div>
+<h3 sameheight class="entry-title"><a href="/game-online/webgame-thong-thien-tay-du-ra-mat-phien-ban-chinh-thuc-tang-giftcode-gia-tri-94125.html" title="Webgame Thông Thiên Tây Du ra mắt phiên bản chính thức, tặng giftcode giá trị">Webgame Thông Thiên Tây Du ra mắt phiên bản chính thức, tặng giftcode giá trị</a></h3>
+</div>
+</div>
+</div>
+</div>
+
+<div class="widget cosplay-block">
+<div class="cosplay-thumb">
+<div style='background-image: url(http://static.thanhnien.com.vn/Uploaded/phunggiao/2017_03_13/cosplay-nang-kagura-phien-ban-viet-sieu-de-thuong-7_POPT.png?w=320&h=400&crop=auto&scale=both&encoder=wic&subsampling=444)' class="img-thumb"></div>
+<div class="meta-info">
+<h3 class="title"><span class="badge white-badge">Cosplay</span><span class="white-title">Cosplay nàng Kagura phiên bản Việt siêu dễ thương</span></h3>
+</div>
+<a href="/cosplay/cosplay-nang-kagura-phien-ban-viet-sieu-de-thuong-120917.html" title="Cosplay nàng Kagura phiên bản Việt siêu dễ thương">Cosplay nàng Kagura phiên bản Việt siêu dễ thương</a>
+</div>
+
+
+
+
+<ul class="list-news-item">
+
+<li><a href="/cosplay/choang-vang-truoc-nhan-sac-chang-khac-nu-sinh-cua-coser-gai-mot-con-80289.html" title="Choáng váng trước nhan sắc chẳng khác nữ sinh của Coser 'gái một con'"> <img style = "width: 94px; height: 53px" src="http://static.thanhnien.com.vn/Uploaded/phunggiao/2017_03_08/choang-vang-truoc-nhan-sac-chang-khac-nu-sinh-cua-coser-gai-mot-con-9_WHUJ.jpg?w=94&h=53&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Choáng váng trước nhan sắc chẳng khác nữ sinh của Coser 'gái một con'" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> <span> Choáng váng trước nhan sắc chẳng khác nữ sinh của Coser 'gái một con' <i class="fa fa-camera"></i> </span> </a></li>
+<li><a href="/media/lmht-ngam-cosplay-miss-fortune-gia-lap-cuc-39nhiet39-cua-j-tanooki-94713.html" title="LMHT: Ngắm cosplay Miss Fortune Giả Lập cực &#39;nhiệt&#39; của J Tanooki"> <img style = "width: 94px; height: 53px" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/article/2016/09/19/d0283e869b158ebeff45a8ea9649dceb.jpg?w=94&h=53&crop=auto&scale=both&encoder=wic&subsampling=444" alt="LMHT: Ngắm cosplay Miss Fortune Giả Lập cực &#39;nhiệt&#39; của J Tanooki" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> <span> LMHT: Ngắm cosplay Miss Fortune Giả Lập cực &#39;nhiệt&#39; của J Tanooki <i class="fa fa-camera"></i> </span> </a></li>
+<li><a href="/media/lmht-duoc-duoc-khoe-dang-chuan-voi-cosplay-riven-tho-ngoc-94667.html" title="LMHT: Dược Dược khoe dáng chuẩn với cosplay Riven Thỏ Ngọc"> <img style = "width: 94px; height: 53px" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/article/2016/09/15/4c3707eb1e970cd95cff0a2baa1a948c.jpg?w=94&h=53&crop=auto&scale=both&encoder=wic&subsampling=444" alt="LMHT: Dược Dược khoe dáng chuẩn với cosplay Riven Thỏ Ngọc" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> <span> LMHT: Dược Dược khoe dáng chuẩn với cosplay Riven Thỏ Ngọc <i class="fa fa-camera"></i> </span> </a></li>
+<li><a href="/media/overwatch-39em-gai-quoc-dan39-dva-khoe-chan-dai-mien-man-94655.html" title="Overwatch: &#39;Em gái quốc dân&#39; D.Va khoe chân dài miên man"> <img style = "width: 94px; height: 53px" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/article/2016/09/14/6102c29f71d78966cda3901247581430.jpg?w=94&h=53&crop=auto&scale=both&encoder=wic&subsampling=444" alt="Overwatch: &#39;Em gái quốc dân&#39; D.Va khoe chân dài miên man" onerror="this.src='/App_Themes/images/noimage/109x61.jpg'"> <span> Overwatch: &#39;Em gái quốc dân&#39; D.Va khoe chân dài miên man <i class="fa fa-camera"></i> </span> </a></li>
+</ul>
+</div>
+<div class="widget">
+<div class="ads-box">
+<div class="right">
+<div style='height:250px; width:300px;'>
+
+<div id="adsctl00_main_Sidebar_AdsHome1" position="MediumRectangle2" class="simplebanner banner" align='center' style="">
+<div align='center' class='simplebanner' style="width:300px;height:250px"><span class='adsitem' rel='3' tag='Right Banner 2'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TNO_Game_300_250_Ad2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-9101256272143007"
+     data-ad-slot="5342205032"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></span></div>
+</div>
+<script type="text/javascript">rotatebanner('ctl00_main_Sidebar_AdsHome1', -1, -1);</script>
+</div>
+</div>
+</div>
+</div>
+<div id="fixed_2">
+<div class="widget">
+<h4 class="center-title"><span>Game hay</span></h4>
+<div class="row">
+<div class="col-sm-6">
+<div class="module-wrap ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"> <a href="/tin-game-ba-vuong-tam-quoc_g316.html" target="_blank" title="Bá Vương Tam Quốc"> <img style="width:146px;height:108px;" alt="Bá Vương Tam Quốc" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/game/20170301/29dfec28848c212de85a9dc85c87d2e2-294x218.jpg?w=146&h=108&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'" /> </a></div>
+</div>
+<h3 class="entry-title"><a href="/tin-game-ba-vuong-tam-quoc_g316.html" target="_blank" title="Bá Vương Tam Quốc">Bá Vương Tam Quốc</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="module-wrap ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"> <a href="/tin-game-thanh-van-chi_g315.html" target="_blank" title="Thanh Vân Chí"> <img style="width:146px;height:108px;" alt="Thanh Vân Chí" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/game/20170224/d00fe87b5e7c1ce899d0454055e8e41e-294x218.jpg?w=146&h=108&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'" /> </a></div>
+</div>
+<h3 class="entry-title"><a href="/tin-game-thanh-van-chi_g315.html" target="_blank" title="Thanh Vân Chí">Thanh Vân Chí</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="module-wrap ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"> <a href="/tin-game-hero-combo_g314.html" target="_blank" title="Hero Combo"> <img style="width:146px;height:108px;" alt="Hero Combo" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/game/20170221/ea3734d719120f5224bd43b16134d71e-294x218.jpg?w=146&h=108&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'" /> </a></div>
+</div>
+<h3 class="entry-title"><a href="/tin-game-hero-combo_g314.html" target="_blank" title="Hero Combo">Hero Combo</a></h3>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="module-wrap ver-news-sb">
+<div class="module-image">
+<div class="module-thumb"> <a href="/tin-game-boom-3d-mobile_g313.html" target="_blank" title="Boom 3D Mobile"> <img style="width:146px;height:108px;" alt="Boom 3D Mobile" src="http://static.thanhnien.com.vn/uploaded/game/upload/image/game/20170216/f583c32f9ab7037a3283316ebc1a49b4-294x218.jpg?w=146&h=108&crop=auto&scale=both&encoder=wic&subsampling=444" onerror="this.src='/App_Themes/images/noimage/312x176.jpg'" /> </a></div>
+</div>
+<h3 class="entry-title"><a href="/tin-game-boom-3d-mobile_g313.html" target="_blank" title="Boom 3D Mobile">Boom 3D Mobile</a></h3>
+</div>
+</div>
+</div>
+</div><div class="widget"></div>
+</div>
+</div>
+</div>
+<div class="row"></div>
+</div>
+</main>
+
+<footer id="footer" class="footer">
+<div class="grid">
+<div class="row">
+<div class="col-sm-5">
+<a href="/" title="Thanh Niên Game" class="logo-footer"><img src="/App_Themes/images/logo-small.svg" alt="Thanh Niên Game"/></a>
+<p class="copyright"><strong>Giấy phép xuất bản số 298/GP - BTTTT cấp ngày 29.7.2013</strong></p>
+<p>&copy; 2003 - 2017 Bản quyền thuộc về Báo Thanh Niên. Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản.</p>
+</div>
+<div class="col-sm-4 col-sm-offset-1">
+<h3 class="box-title">Liên hệ</h3>
+<p>Tin bài, nội dung: <a href="mailto:game@thanhnien.vn" title="game@thanhnien.vn"><strong>game@thanhnien.vn</strong></a></p>
+<p>Quảng cáo: <strong>Ms. Thanh Thảo (0937 959 569)</strong></p><p>Điện thoại: <strong>(08) 39 302 302</strong></p>
+<p>Email: <a href="mailto:quangcao@thanhnien.vn" title="quangcao@thanhnien.vn"><strong>quangcao@thanhnien.vn</strong></a></p>
+</div>
+<div class="col-sm-2">
+<h3 class="box-title">Quảng cáo</h3>
+<a href="/qc/BaoGiaQuangCaoTNG2.pdf" title="Xem báo giá" class="info-ads-box"><span>Bảng giá</span><i class="fa fa-download"></i></a>
+</div>
+</div>
+</div>
+</footer> <script async src="https://cdn.onthe.io/io.js/JLUEzAhasQs5"></script>
+</div>
+<div class="back-top"><a href="#" title="Back to Top"><i class="fa fa-angle-double-up"></i></a></div>
+<script type='text/javascript'>var FRONTEND_STATIC_URL = 'http://game.thanhnien.vn'; var BASE_URL = 'http://game.thanhnien.vn'; var IS_USER_LOGGED = false;</script>
+<script type="text/javascript" src="/App_Themes/js/slick.js"></script>
+<script type="text/javascript" src="/App_Themes/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/App_Themes/js/main.js"></script>
+<script type="text/javascript" src="/App_Themes/js/platform.js"></script>
+<script type="text/javascript" src="/App_Themes/js/jquery-scrolltofixed.js"></script>
+<script type="text/javascript" src="/App_Themes/js/script.js"></script>
+<script type="text/javascript" src="/App_Themes/js/bootstrap-hover-dropdown.js"></script>
+<script type="text/javascript" src="/App_Themes/js/tng.js"></script>
+<script type="text/javascript" src="/App_Themes/js/jquery.fns.min.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/JScripts/jquery.bpopup-0.9.3.min.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/_layouts/tno.utilities/js/jquery-ui-1.10.3.custom.min.js"></script>
+<script type="text/javascript" src="http://static.thanhnien.com.vn/Jscripts/jquery.cookie.js"></script>
+<script type="text/javascript" src="/App_Themes/js/log.js"></script>
+<script type="text/javascript">logging('0', '-1', 1); </script> <script type='text/javascript' src='http://static.thanhnien.com.vn/Jscripts/jquery.xdomainrequest.min.js'></script> <script src="/App_Themes/js/ui.js?1.1"></script>
+<script src="/App_Themes/js/master.js?1"></script>
+<script>
+(function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-5707772-1', 'auto'); ga('create', 'UA-45890195-1', 'auto', { 'name': 'newTracker' });
+if (window.location.hostname == 'game.thanhnien.vn') {
+ga('send', 'pageview'); ga('newTracker.send', 'pageview');
+}
+</script>
+
+<script type='text/javascript'>
+ga('set', 'Game', 'Game');
+</script>
+
+<script type="text/javascript"> $('a:not([href^="javascript"],[href^="/"],[href^="#"],[href*="thanhnien.vn/"])').attr('target', '_blank');</script>
+
+<div id="adsctl00_AdsHomeBalloon" position="BalloonAds" class="simplebanner banner" align='center' style="display:none;">
+
+</div>
+<script type="text/javascript">rotatebanner('ctl00_AdsHomeBalloon', 0, -1);</script>
+<script type="text/javascript">(function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/platform.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script>
+</form>
+</body>
+</html>
+

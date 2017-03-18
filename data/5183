@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Công thức nấu chè vừng đen cho mùa hè - Phụ Nữ Today
+</title><meta name="keywords" content="nước cốt dừa,việt nam" /><meta name="description" content="Bạn có biết trong mùa hè này, loại chè nào sẽ thật phù hợp cho cả gia đình để giải nhiệt và tốt cho sức khỏe hay không? Hãy cùng chúng tôi tìm hiểu nhé!" />
+<link rel="canonical" href="http://www.baomoi.com/cong-thuc-nau-che-vung-den-cho-mua-he/c/21766478.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21766478" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21766478" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://phunutoday.vn/cong-thuc-nau-che-vung-den-cho-mua-he-d138315.html");
+else
+window.location.replace("http://www.baomoi.com/cong-thuc-nau-che-vung-den-cho-mua-he/c/21766478.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Công khai chất lượng phòng khám để dân chọn lựa - PLO
+</title><meta name="keywords" content="Sở Y tế Tp.HCM,TRẦN NGỌC,sở y tế,thanh tra,quảng cáo,Tăng Chí Thượng,khai giảng,phiền hà,bộ y tế" /><meta name="description" content="“Thời gian tới, Sở Y tế TP.HCM sẽ công khai đánh giá chất lượng các phòng khám đa khoa trên địa bàn TP để dân biết và chọn lựa”." />
+<link rel="canonical" href="http://www.baomoi.com/cong-khai-chat-luong-phong-kham-de-dan-chon-lua/c/21792874.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792874" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792874" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/xa-hoi/khoe-360/cong-khai-chat-luong-phong-kham-de-dan-chon-lua-689534.html");
+else
+window.location.replace("http://www.baomoi.com/cong-khai-chat-luong-phong-kham-de-dan-chon-lua/c/21792874.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

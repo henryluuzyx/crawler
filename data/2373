@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bão tuyết đe dọa bờ đông nước Mỹ - Thanh Niên
+</title><meta name="keywords" content="Angela Merkel,thủ tướng Đức,Trump,Donald Trump,Mỹ,afp,Thành phố New York,đóng cửa,thời tiết,Massachusetts,Phi Yến,liên hợp quốc,Connecticut,Rhode Island,Vermont,làm hàng,New Hampshire,phố wall,New Jersey,tích trữ,pennsylvania" /><meta name="description" content="Hầu hết các tiểu bang dọc theo bờ đông nước Mỹ đều tuyên bố tình trạng khẩn cấp, hàng ngàn chuyến bay bị hủy, trường học đóng cửa và khoảng 50 triệu người t..." />
+<link rel="canonical" href="http://www.baomoi.com/bao-tuyet-de-doa-bo-dong-nuoc-my/c/21760745.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21760745" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21760745" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://thanhnien.vn/the-gioi/bao-tuyet-de-doa-bo-dong-nuoc-my-815114.html");
+else
+window.location.replace("http://www.baomoi.com/bao-tuyet-de-doa-bo-dong-nuoc-my/c/21760745.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

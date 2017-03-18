@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Quảng Ninh: Hàng chục người phá cửa thoát thân sau khi xe khách tông xe cẩu - Pháp Luật Plus
+</title><meta name="keywords" content="Quảng Ninh,hoảng loạn,Hạ Long,Bãi Cháy,quốc lộ 18,cứu hộ,Ảnh CTV,Hà Nội" /><meta name="description" content="Một chiếc xe cẩu loại 5 tấn bất ngờ bị chiếc xe khách 45 chỗ đang lưu thông trên đường tông thẳng vào khi đang sang đường. Sau cú đâm va, hàng chục người tr..." />
+<link rel="canonical" href="http://www.baomoi.com/quang-ninh-hang-chuc-nguoi-pha-cua-thoat-than-sau-khi-xe-khach-tong-xe-cau/c/21791950.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791950" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791950" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.phapluatplus.vn/quang-ninh-hang-chuc-nguoi-pha-cua-thoat-than-sau-khi-xe-khach-tong-xe-cau-d38428.html");
+else
+window.location.replace("http://www.baomoi.com/quang-ninh-hang-chuc-nguoi-pha-cua-thoat-than-sau-khi-xe-khach-tong-xe-cau/c/21791950.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

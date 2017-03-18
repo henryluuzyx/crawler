@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Giá vàng ngày 18/3: vàng trong nước chững lại, vàng thế giới tăng - Gia Đình VN
+</title><meta name="keywords" content="SJC,phiên giao dịch,cục dự trữ liên bang,Tập Đoàn DOJI,hà lan,Mỹ,Hà Nội,Phú Quý,New York Mercantile Exchange,châu âu,bầu cử quốc hội,ghi nhận,SJC 9999,thành phố hồ chí minh,SJC Phú Quý,Phương Vũ,EURO" /><meta name="description" content="Giá vàng 18/3 tiếp tục giảm nhưng vẫn đang đứng ở mức cao trong hai tuần qua do USD đang yếu và chính sách của Mỹ trong những cuộc họp gần đây." />
+<link rel="canonical" href="http://www.baomoi.com/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/c/21793334.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793334" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793334" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.giadinhvietnam.com/tai-chinh/gia-vang-ngay-183-gia-vang-trong-nuoc-chung-lai-d109384.html");
+else
+window.location.replace("http://www.baomoi.com/gia-vang-ngay-18-3-vang-trong-nuoc-chung-lai-vang-the-gioi-tang/c/21793334.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

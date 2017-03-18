@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trận chiến giữ cát trên sông Cầu - Tiền Phong
+</title><meta name="keywords" content="Thắng Cương,UBND huyện Yên Dũng,Nguyễn Văn Mây,Nguyễn Hữu Trường,Hoàng Văn Đức,Nguyễn Trường,sông Chảy,sông Cầu,Yên Dũng,truyền thanh,hỗn chiến,bám trụ,di dân,dẫn giải,chết đuối,hành hung,sạt lở,Bắc Giang,Bắc Ninh,bắt buộc,đối phó" /><meta name="description" content="Phóng viên Tiền Phong về tận nơi vài hôm trước xảy ra cuộc hỗn chiến giữa người dân và “cát tặc” trên dòng sông Cầu bên phía Bắc Giang. Nơi đây vẫn ngổn nga..." />
+<link rel="canonical" href="http://www.baomoi.com/tran-chien-giu-cat-tren-song-cau/c/21792704.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792704" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792704" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.tienphong.vn/xa-hoi/tran-chien-giu-cat-tren-song-cau-1131431.tpo");
+else
+window.location.replace("http://www.baomoi.com/tran-chien-giu-cat-tren-song-cau/c/21792704.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

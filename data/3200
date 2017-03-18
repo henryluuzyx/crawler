@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Điều tra vụ bảo mẫu bạo hành nhiều trẻ ở TP.HCM - Giao Thông
+</title><meta name="keywords" content="Huỳnh Thanh Nhàn,Gò Vấp,Phường 17,UBND phường 17,Phạm Thị Mộng Thu,Nguyễn Oanh,đình chỉ,Trường mầm non Anh,phát hiện,bàn giao,Sao Mai" /><meta name="description" content="Hai người phụ nữ giữ trẻ có hành vi bắt các bé nằm ngửa và đút cháo cho các cháu một cách thô bạo." />
+<link rel="canonical" href="http://www.baomoi.com/dieu-tra-vu-bao-mau-bao-hanh-nhieu-tre-o-tp-hcm/c/21787869.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21787869" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21787869" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/dieu-tra-vu-bao-mau-bao-hanh-nhieu-tre-o-tphcm-d192589.html");
+else
+window.location.replace("http://www.baomoi.com/dieu-tra-vu-bao-mau-bao-hanh-nhieu-tre-o-tp-hcm/c/21787869.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

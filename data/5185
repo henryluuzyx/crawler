@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Cách làm kẹo lạc vừng nhâm nhi cùng ly trà ấm ngày lạnh - Zing
+</title><meta name="keywords" content="Thảo Nhi,lên mặt,người Việt" /><meta name="description" content="Những thanh kẹo lạc giòn tan, có vị thơm ngậy đặc trưng là món ăn vặt bình dị, thân thuộc với nhiều thế hệ người Việt." />
+<link rel="canonical" href="http://www.baomoi.com/cach-lam-keo-lac-vung-nham-nhi-cung-ly-tra-am-ngay-lanh/c/21766272.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21766272" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21766272" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://news.zing.vn/cach-lam-keo-lac-vung-nham-nhi-cung-ly-tra-am-ngay-lanh-post728320.html");
+else
+window.location.replace("http://www.baomoi.com/cach-lam-keo-lac-vung-nham-nhi-cung-ly-tra-am-ngay-lanh/c/21766272.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

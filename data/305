@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Clip: Những vụ bạo hành trẻ mầm non gây chấn động dư luận - Người Đưa Tin
+</title><meta name="keywords" content="Đường Nguyễn Oanh,Gò Vấp,Phường 17,hành hạ,video clip,phẫn nộ,mạng xã hội,Đường Lê Đức Thọ,mầm non Sen Vàng,Nam Từ Liêm,logo,Thủ Đức,mỹ đình,Hà Nội" /><meta name="description" content="Liên tiếp những vụ bạo hành trẻ mầm non xảy ra trong thời gian qua khiến dư luận không khỏi hoang mang, bức xúc." />
+<link rel="canonical" href="http://www.baomoi.com/clip-nhung-vu-bao-hanh-tre-mam-non-gay-chan-dong-du-luan/c/21793343.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793343" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793343" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nguoiduatin.vn/clip-nhung-vu-bao-hanh-tre-mam-non-gay-chan-dong-du-luan-a318971.html");
+else
+window.location.replace("http://www.baomoi.com/clip-nhung-vu-bao-hanh-tre-mam-non-gay-chan-dong-du-luan/c/21793343.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,3402 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+		
+	
+	
+	
+		
+	
+
+
+<html id="XenForo" lang="vi-VN" dir="LTR" class="Public NoJs uix_javascriptNeedsInit LoggedOut Sidebar NoNavSidebar  Responsive pageIsLtr   not_hasTabLinks  hasSearch activeSmallLogo  is-sidebarOpen hasRightSidebar is-setWidth navStyle_2 pageStyle_1 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="https://tinhte.vn/" />
+		
+	
+
+	<title>Thông tin - Sự kiện | Tinhte.vn</title>
+
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	<link rel="stylesheet" href="css.php?css=bdad,bdsocialshare,facebook,google,login_bar,nat_public_css,node_forum,node_list,share_page,sonnb_xengallery_navbar_template,tag,uix_extendedFooter,wf_default&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+
+	<link rel="stylesheet" href="css.php?css=uix,uiflex,dimota&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	<style>
+	/*** UIX -- PER USER STYLES ***/
+
+	
+
+	
+
+
+	
+
+</style>
+
+	<link rel="stylesheet" href="css.php?css=EXTRA&amp;style=63&amp;dir=LTR&amp;d=1489731235" />
+
+	
+
+	<style>
+/* Node Styling */
+
+</style>
+
+	
+
+	
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="styles/uiflex/uix/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+
+
+	
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="fb:pages" content="122102927812763" />
+
+	
+	<link rel="apple-touch-icon" href="https://tinhte.vn/styles/uiflex/dimota/logo.og.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS của Tinhte.vn" href="https://tinhte.vn/rss/" />
+	<meta name="description" content="Khu vực thảo luận về thông tin và các sự kiện về công nghệ Bấm vào đây để xem các bài viết mới nhất." />
+	
+	<link rel="canonical" href="https://tinhte.vn/tintuc/" />
+
+
+
+
+	
+		<meta name="theme-color" content="rgb(27, 109, 168)">
+		<meta name="msapplication-TileColor" content="rgb(27, 109, 168)">
+	
+
+</head>
+
+<body class="node619">
+
+	
+
+	
+		
+
+<div id="loginBar">
+	<div class="pageContent">
+		<span class="helper"></span>
+	</div>
+	<div class="pageWidth">
+
+		
+
+	</div>
+</div>
+	
+
+	
+		
+		<div class="js-uix_panels uix_panels ">
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--left">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		<div class="sidePanel sidePanel--nav">
+			<nav>
+<ul class="sidePanel__navTabs">
+	
+							<!-- home -->
+							
+
+
+								<!-- extra tabs: home -->
+								
+
+
+								<!-- forums -->
+								
+									
+										<li class="navTab forums ">
+
+											<a href="https://tinhte.vn/forums/" class="navLink">Diễn đàn</a>
+											<a href="https://tinhte.vn/forums/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+									
+													<ul class="secondaryContent blockLinksList">
+													
+														
+														<li><a href="search/">Tìm kiếm</a></li>
+														
+														
+
+	
+<li><a href="topic-center/">Bài mới</a></li>
+
+													
+													</ul>
+									
+											</div>
+										</li>
+								
+								
+
+								<!-- extra tabs: middle -->
+								
+								
+									
+										
+											<li class="navTab sonnb_xengallery ">
+								
+											<a href="https://tinhte.vn/gallery/" class="navLink">Gallery</a>
+											<a href="https://tinhte.vn/gallery/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+		
+		
+			<li><a href="gallery/categories">Thể loại</a></li>
+		
+		<li><a title="Tìm theo thành viên" class="OverlayTrigger" href="gallery/explore-user">Tìm theo thành viên</a></li>
+		<li><a title="Album mới" href="gallery/new-albums">Album mới</a></li>
+		<li><a title="Ảnh mới" href="gallery/new-photos">Ảnh mới</a></li>
+		<li><a title="Video mới" href="gallery/new-videos">Video mới</a></li>
+		<li><a title="New Comments" href="gallery/new-comments">New Comments</a></li>
+	
+	
+		<li><a title="Hình ảnh nổi bật của anh em Camera Tinh tế" href="gallery/collections">Các bộ ảnh</a></li>
+	
+	
+		<li><a title="Khám phá các địa điểm phổ biến mà các thành viên của chúng ta thường đến chụp ảnh." href="gallery/locations">Địa điểm</a></li>
+	
+	
+		<li><a title="The most active cameras that are being used in gallery at Tinhte.vn" href="gallery/cameras">Thiết bị</a></li>
+	
+	<li><a title="The most active tags/keywords are being used at Tinhte.vn" href="gallery/tags">Tags Cloud</a></li>
+</ul>	
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab Appforo_Timeline ">
+												<a href="https://tinhte.vn/timeline/" class="navLink">Timeline</a>
+											</li>
+										
+									
+								
+									
+										
+											<li class="navTab resources ">
+								
+											<a href="https://tinhte.vn/resources/" class="navLink">Thư viện</a>
+											<a href="https://tinhte.vn/resources/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Tìm trong thư viện</a></li>
+	<li><a href="resources/authors">Thành viên năng động</a></li>
+	<li><a href="resources/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+											</div>
+										</li>
+										
+									
+								
+								
+
+
+								<!-- members -->
+								
+
+								<!-- extra tabs: end -->
+								
+								
+									
+										
+											<li class="navTab nodetab643 ">
+								
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="navLink">Rao vặt</a>
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+								
+											<div class="tabLinks">
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/" target="_blank">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/" target="_blank">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/" target="_blank">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/" target="_blank">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/" target="_blank">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/" target="_blank">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/" target="_blank">Điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/" target="_blank">Mua bán sim, sim 3g</a></li>
+</ul>
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab nodetab673 ">
+												<a href="https://tinhte.vn/htcu/" class="navLink">#htcu</a>
+											</li>
+										
+									
+								
+								
+
+	
+
+<li class="navTab "><a href="/topic-center/" class="navLink">
+ <i class="fa fa-globe" aria-hidden="true"></i>Bài mới</a>
+</li>
+
+<li class="navTab "><a href="/dienthoai" class="navLink">
+ <i class="fa fa-tablet" aria-hidden="true"></i>Điện thoại</a>
+</li>
+
+<li class="navTab "><a href="/maytinh" class="navLink">
+ <i class="fa fa-laptop" aria-hidden="true"></i>Máy tính</a>
+</li>
+
+<li class="navTab "><a href="/camera" class="navLink">
+ <i class="fa fa-camera-retro" aria-hidden="true"></i>Camera</a>
+</li>
+
+<li class="navTab "><a href="/xe" class="navLink">
+ <i class="fa fa-motorcycle" aria-hidden="true"></i>Xe</a>
+</li>
+
+<li class="navTab "><a href="/khcn" class="navLink">
+ <i class="fa fa-battery-half" aria-hidden="true"></i>KHCN</a>
+</li>
+
+
+
+
+
+<li><br/></li>
+
+
+
+
+
+<li class="navTab "><a href="/account/following" class="navLink">
+ <i class="fa fa-users" aria-hidden="true"></i>Bạn bè</a>
+</li>
+
+<li class="navTab "><a href="/events" class="navLink">
+ <i class="fa fa-laptop" aria-hidden="true"></i>Sự kiện</a>
+</li>
+
+<li class="navTab "><a href="/account/" class="navLink">
+ <i class="fa fa-cog" aria-hidden="true"></i>Thiết lập</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+		</div>
+	
+</aside>
+			
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--right">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		
+			<div class="sidePanel sidePanel--login">
+				<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_login">Tên tài khoản hoặc Email:</label></dt>
+		<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="21" /></dd>
+	</dl>
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_password">Mật khẩu:</label></dt>
+		<dd>
+			<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="22" />
+			<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="26">Quên mật khẩu?</a></div>
+		</dd>
+	</dl>
+
+	
+
+	<dl class="ctrlUnit submitUnit">
+		<dd>
+			<input type="submit" class="button primary" value="Đăng nhập" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" tabindex="24" />
+			<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="23" /> Nhớ đăng nhập</label>
+		</dd>
+	</dl>
+
+	
+	<dl class="ctrlUnit fullWidth">
+	
+
+	
+		
+		<dt></dt>
+		<dd><a href="register/facebook?reg=1" class="fbLogin" tabindex="210"><span>Đăng nhập bằng Facebook</span></a></dd>
+	
+
+	
+
+	
+		
+		<dt></dt>
+		<dd><span class="googleLogin GoogleLogin JsOnly" tabindex="210" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=UMyEdJQv9O9yi7kK"><span>Đăng nhập bằng Google</span></span></dd>
+	
+
+	
+	</dl>
+	
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="_xfToken" value="" />
+	<input type="hidden" name="redirect" value="/tintuc/" />
+	
+
+</form>
+			</div>
+		
+	
+</aside>
+			
+
+			<div class="mainPanelWrapper">
+				<a href="#" class="js-panelMask uix_panelMask"></a>
+
+	
+
+	
+
+
+
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="uix_wrapper">
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+<header>
+	
+
+
+<div id="header">
+	
+
+	
+
+	
+
+	
+
+
+
+<div id="navigation" class="header__blockItem withSearch stickyTop">
+	<div class="sticky_wrapper">
+		<div class="uix_navigationWrapper">
+		
+			<div class="pageContent">
+				<nav>
+					<div class="navTabs">
+						
+						<div class="pageWidth">
+						
+
+							<ul class="publicTabs navLeft">
+
+							
+							<li id="logo_small">
+								<a href="https://tinhte.vn/">
+								
+									<img src="styles/uiflex/dimota/logo_small.png">
+								
+								</a>
+							</li>
+							
+
+							
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="navTab  navTab--panelTrigger navTab--navPanelTrigger PopupClosed">
+		<a class="navLink js-leftPanelTrigger" href="#">
+			<i class="uix_icon uix_icon-menu"></i><span class="trigger__phrase">Menu</span>
+		</a>
+	</li>
+
+
+
+							<!-- home -->
+							
+
+
+								<!-- extra tabs: home -->
+								
+
+
+								<!-- forums -->
+								
+									
+										<li class="navTab forums  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/forums/" class="navLink">Diễn đàn</a>
+											<a href="https://tinhte.vn/forums/" class="SplitCtrl" rel="Menu"></a>
+	
+											<div class="Menu JsOnly tabMenu forumsTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Diễn đàn</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+									
+													<ul class="secondaryContent blockLinksList">
+													
+														
+														<li><a href="search/">Tìm kiếm</a></li>
+														
+														
+
+	
+<li><a href="topic-center/">Bài mới</a></li>
+
+													
+													</ul>
+									
+													
+												
+									
+											</div>
+										</li>
+								
+								
+
+								<!-- extra tabs: middle -->
+								
+								
+									
+										
+										<li class="navTab sonnb_xengallery  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/gallery/" class="navLink">Gallery</a>
+											<a href="https://tinhte.vn/gallery/" class="SplitCtrl" rel="Menu"></a>
+											
+											<div class="Menu JsOnly tabMenu sonnb_xengalleryTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Gallery</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+		
+		
+			<li><a href="gallery/categories">Thể loại</a></li>
+		
+		<li><a title="Tìm theo thành viên" class="OverlayTrigger" href="gallery/explore-user">Tìm theo thành viên</a></li>
+		<li><a title="Album mới" href="gallery/new-albums">Album mới</a></li>
+		<li><a title="Ảnh mới" href="gallery/new-photos">Ảnh mới</a></li>
+		<li><a title="Video mới" href="gallery/new-videos">Video mới</a></li>
+		<li><a title="New Comments" href="gallery/new-comments">New Comments</a></li>
+	
+	
+		<li><a title="Hình ảnh nổi bật của anh em Camera Tinh tế" href="gallery/collections">Các bộ ảnh</a></li>
+	
+	
+		<li><a title="Khám phá các địa điểm phổ biến mà các thành viên của chúng ta thường đến chụp ảnh." href="gallery/locations">Địa điểm</a></li>
+	
+	
+		<li><a title="The most active cameras that are being used in gallery at Tinhte.vn" href="gallery/cameras">Thiết bị</a></li>
+	
+	<li><a title="The most active tags/keywords are being used at Tinhte.vn" href="gallery/tags">Tags Cloud</a></li>
+</ul>	
+													
+												
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab Appforo_Timeline PopupClosed">
+												<a href="https://tinhte.vn/timeline/" class="navLink">Timeline</a>
+												
+											</li>
+										
+									
+								
+									
+										
+										<li class="navTab resources  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/resources/" class="navLink">Thư viện</a>
+											<a href="https://tinhte.vn/resources/" class="SplitCtrl" rel="Menu"></a>
+											
+											<div class="Menu JsOnly tabMenu resourcesTabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Thư viện</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resource_update">Tìm trong thư viện</a></li>
+	<li><a href="resources/authors">Thành viên năng động</a></li>
+	<li><a href="resources/reviews">Latest Reviews</a></li>
+	
+	
+	
+</ul>
+													
+												
+											</div>
+										</li>
+										
+									
+								
+								
+
+
+								<!-- members -->
+								
+
+								<!-- extra tabs: end -->
+								
+								
+									
+										
+											<li class="navTab nodetab643  Popup PopupControl PopupClosed">
+	
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="navLink">Rao vặt</a>
+											<a href="https://tinhte.vn/link-forums/rao-vat.643/" class="SplitCtrl" rel="Menu"></a>
+	
+											<div class="Menu JsOnly tabMenu nodetab643TabLinks">
+												
+													<div class="primaryContent menuHeader">
+														<h3>Rao vặt</h3>
+														<div class="muted">Liên kết nhanh</div>
+													</div>
+													<ul class="secondaryContent blockLinksList">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/" target="_blank">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/" target="_blank">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/" target="_blank">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/" target="_blank">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/" target="_blank">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/" target="_blank">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/" target="_blank">Điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/" target="_blank">Mua bán sim, sim 3g</a></li>
+</ul>
+													
+												
+											</div>
+										</li>
+										
+									
+								
+									
+										
+											<li class="navTab nodetab673 PopupClosed">
+												<a href="https://tinhte.vn/htcu/" class="navLink">#htcu</a>
+												
+											</li>
+										
+									
+								
+								
+
+								
+
+<!-- responsive popup -->
+								<li class="navTab navigationHiddenTabs navTab--justIcon Popup PopupControl PopupClosed" style="display:none">
+
+									<a rel="Menu" class="navLink NoPopupGadget uix_dropdownDesktopMenu"><i class="uix_icon uix_icon-navOverflow"></i><span class="uix_hide menuIcon">Menu</span></a>
+
+									<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+								</li>
+
+								
+
+								
+
+							</ul>
+
+
+							
+
+
+								<ul class="navRight visitorTabs">
+
+								
+
+									
+
+									
+
+									
+										
+									
+
+									
+										
+
+	<li class="navTab login Popup PopupControl PopupClosed">
+		
+			<a href="login/" class="navLink uix_dropdownDesktopMenu NoPopupGadget"rel="Menu">
+				
+				<strong class="loginText">Đăng nhập</strong>
+			</a>
+		
+
+		
+		<div class="Menu JsOnly tabMenu uix_fixIOSClick">
+			<div class="secondaryContent">
+				<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_login">Tên tài khoản hoặc Email:</label></dt>
+		<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="1" /></dd>
+	</dl>
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_password">Mật khẩu:</label></dt>
+		<dd>
+			<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="2" />
+			<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="6">Quên mật khẩu?</a></div>
+		</dd>
+	</dl>
+
+	
+
+	<dl class="ctrlUnit submitUnit">
+		<dd>
+			<input type="submit" class="button primary" value="Đăng nhập" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" tabindex="4" />
+			<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="3" /> Nhớ đăng nhập</label>
+		</dd>
+	</dl>
+
+	
+	<dl class="ctrlUnit fullWidth">
+	
+
+	
+		
+		<dt></dt>
+		<dd><a href="register/facebook?reg=1" class="fbLogin" tabindex="10"><span>Đăng nhập bằng Facebook</span></a></dd>
+	
+
+	
+
+	
+		
+		<dt></dt>
+		<dd><span class="googleLogin GoogleLogin JsOnly" tabindex="10" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=UMyEdJQv9O9yi7kK"><span>Đăng nhập bằng Google</span></span></dd>
+	
+
+	
+	</dl>
+	
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="_xfToken" value="" />
+	<input type="hidden" name="redirect" value="/tintuc/" />
+	
+
+</form>
+			</div>
+		</div>
+		
+
+	</li>
+
+	
+
+
+									
+
+									
+
+									
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+									
+										
+
+		<li class="navTab uix_searchTab">
+
+			
+
+<div id="searchBar" class="hasSearchButton">
+	
+	<i id="QuickSearchPlaceholder" class="uix_icon uix_icon-search" title="Tìm kiếm"></i>
+
+	
+
+
+	<fieldset id="QuickSearch">
+		<form action="search/search" method="post" class="formPopup">
+
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<i class="uix_icon uix_icon-search" onclick='$("#QuickSearch form").submit()'></i>
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Tìm kiếm..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />
+				<!-- end block: primaryControls -->
+			</div>
+
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Chì tìm tiêu đề</label></li>
+						</ul></dd>
+					</dl>
+
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Viết bởi thành viên:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Các tên cách nhau bởi dấu phẩy(,)</p>
+						</dd>
+					</dl>
+
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Mới hơn:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+
+					
+				</div>
+				<!-- end block: secondaryControls -->
+
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Tìm kiếm" class="button primary Tooltip" title="Tìm ngay" />
+						<a href="search/" class="button moreOptions Tooltip" title="Tìm kiếm nâng cao">Thêm...</a>
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Mục tìm hữu ích" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Mục tìm hữu ích</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Thảo luận mới</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+					</dd>
+				</dl>
+
+			</div>
+
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	</fieldset>
+	
+
+</div>
+		</li>
+
+
+									
+
+								
+
+								</ul>
+
+							
+
+							
+								
+
+	
+
+<div class="uix_minimalSearchWrapper">
+
+	<div id="uix_searchMinimal">
+		<form action="search/search" method="post">
+			<i id="uix_searchMinimalClose" class="uix_icon uix_icon-close"  title="Đóng"></i>
+			<i id="uix_searchMinimalOptions" class="uix_icon uix_icon-cog" title="Tùy chọn"></i>
+			<div id="uix_searchMinimalInput" >
+				<input type="search" name="keywords" value="" placeholder="Tìm kiếm..." results="0" />
+			</div>
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	</div>
+
+
+</div>
+
+
+
+
+							
+
+
+						</div>
+					</div>
+
+				<span class="helper"></span>
+
+				</nav>
+			</div>
+		
+		</div>
+	</div>
+</div>
+
+
+
+	
+</div>
+
+	
+	
+</header>
+
+
+	
+<div class="adWidget adWidget-gpt ad-17 slot-7" data-ad-id="17">
+			
+				
+				<div class="ad-set"><ins class="GptLoader" style="display:block;" data-ad-unit-path="/3823916/Tinhte_Desktop_Forum_Top" data-ad-size-width="728" data-ad-size-height="90"></ins><ins class="GptLoader" style="display:block;" data-ad-unit-path="/3823916/Tinhte_Top_Mobile_Banner" data-ad-size-width="320" data-ad-size-height="100"></ins></div>
+			
+		</div>
+
+
+
+
+
+
+
+<div id="content" class="category_view">
+
+
+
+
+	
+	<div class="pageWidth">
+		
+<div class="pageContent">
+	
+			<!-- main content area -->
+
+			
+
+			
+
+
+
+
+
+			
+
+			
+
+			
+
+
+	
+	
+	
+	
+	
+
+	
+
+
+	
+
+			
+				<div class="uix_contentFix">
+					<div class="mainContainer">
+
+			
+					
+<div class="mainContent">
+					
+						
+
+
+			
+						
+						
+						<div class="breadBoxTop  ">
+							
+							
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-619" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở di chuyển nhanh"><i class="uix_icon uix_icon-sitemap"></i><!--Chuyển đến...--></a>
+
+		<div class="boardTitle"><strong>Tinhte.vn</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://tinhte.vn/forums/" class="crumb" rel="up" itemprop="url"><span itemprop="title"><i class="uix_icon uix_icon-home" title="Diễn đàn"></i><span class="uix_breadcrumb__home__title">Diễn đàn</span></span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+
+			
+
+			
+		</span>
+	</fieldset>
+</nav>
+							
+						</div>
+						
+						
+			
+						
+
+
+			
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+
+						
+
+
+
+						
+						
+
+						
+
+						
+						
+							
+								<!-- h1 title, description -->
+								<div class="titleBar">
+									
+									<h1>Thông tin - Sự kiện</h1>
+
+									<p id="pageDescription" class="muted baseHtml"><a href="find-new/threads?f=619">Khu vực thảo luận về thông tin và các sự kiện về công nghệ Bấm vào đây để xem các bài viết mới nhất.</a></p>
+
+
+<div class="TinhteMods_sharePage PAGE_CONTAINER">
+	
+	
+
+	<div class="sharePage">
+		<h3 class="textHeading larger">Chia sẻ</h3>
+		
+
+	
+			
+
+
+
+
+	
+	
+	
+
+	<div class="bdSocialShare social-likes">
+		
+			
+				<div class="facebook" title="Chia sẻ lên Facebook">
+					
+					<a href="https://tinhte.vn/misc/share/facebook" target="_blank">Facebook</a>
+				</div>
+			
+			
+			
+			
+				<div class="bdsocialshareaddthis" title="Print, email and bookmark with other services">
+					
+					<a href="http://www.addthis.com/bookmark.php?v=300&pub=dihuta&url=" target="_blank">Share</a>
+				</div>
+			
+		
+	</div>
+
+	
+
+
+
+
+			
+			
+			
+			
+		
+
+
+	</div>
+
+</div>
+
+								</div>
+							
+						
+						
+
+						
+
+						<!-- main template -->
+						
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<ol class="nodeList uix_nodeStyle_0 section">
+	
+		
+
+
+<li class="node forum level_2  node_10">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/thong-tin-cong-nghe.10/" data-description="#nodeDescription-10">Thông tin công nghệ</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-10">Tin tức, sự kiện khắp nơi về thế giới công nghệ.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>33,182</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>1,143,663</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442393/" title="Tản nhiệt nước cho ACE">Tản nhiệt nước cho ACE</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/thanhviet2711.2314428/" class="username" dir="auto">thanhviet2711</a>,</span>
+					
+						<a href="posts/49442393/" title="Tản nhiệt nước cho ACE"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489800463" data-diff="2" data-datestring="18/3/17" data-timestring="08:27">08:27 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/thong-tin-cong-nghe.10/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_636">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/thuong-mai-dien-tu.636/" data-description="#nodeDescription-636">Thương mại điện tử</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-636">Diễn đàn thảo luận, chia sẻ kinh nghiệm về thực hiện thương mại điện tử và xây dựng các website thương mại điện tử (e-commerce), thanh toán trực tuyến (online payment, mobile payment).</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>617</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>10,910</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49441952/" title="SieuCoupon.com - Mua hàng online giá rẻ cùng mã giảm giá Lazada, Tiki, Adayroi ...">SieuCoupon.com - Mua hàng online giá rẻ cùng mã giảm giá Lazada, Tiki, Adayroi ...</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/vagabondit.491313/" class="username" dir="auto">VagabondIT</a>,</span>
+					
+						<a href="posts/49441952/" title="SieuCoupon.com - Mua hàng online giá rẻ cùng mã giảm giá Lazada, Tiki, Adayroi ..."><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489769748" data-diff="30717" data-datestring="17/3/17" data-timestring="23:55">23:55 ngày 17/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/thuong-mai-dien-tu.636/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_460">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/dam-may-dich-vu-truc-tuyen.460/" data-description="#nodeDescription-460">Đám mây, Dịch vụ trực tuyến</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-460">Ứng dụng trực tuyến, mạng xã hội, điện toán đám mây, facebook, google, gmail, zing, twitter,...</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>4,141</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>217,481</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442392/" title="Tính năng chia sẻ khoảnh khắc Messenger Day đã có cho người dùng FB Messenger Việt Nam">Tính năng chia sẻ khoảnh khắc Messenger Day đã có cho người dùng FB Messenger Việt Nam</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/quanghuy-jp.2207752/" class="username" dir="auto">Quanghuy.jp</a>,</span>
+					
+						<a href="posts/49442392/" title="Tính năng chia sẻ khoảnh khắc Messenger Day đã có cho người dùng FB Messenger Việt Nam"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489800459" data-diff="6" data-datestring="18/3/17" data-timestring="08:27">08:27 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/dam-may-dich-vu-truc-tuyen.460/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_232">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/tham-do-cong-nghe.232/" data-description="#nodeDescription-232">Thăm dò công nghệ</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-232">Thăm dò  bình chọn về công nghệ (khu vực giới hạn).</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>277</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>156,585</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49437549/" title="[Hỏi Tinh Tế] Bạn đổi điện thoại sau bao lâu?">[Hỏi Tinh Tế] Bạn đổi điện thoại sau bao lâu?</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/quachanhtai204.61184/" class="username" dir="auto">quachanhtai204</a>,</span>
+					
+						<a href="posts/49437549/" title="[Hỏi Tinh Tế] Bạn đổi điện thoại sau bao lâu?"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489682684" data-diff="117781" data-datestring="16/3/17" data-timestring="23:44">23:44 ngày 16/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/tham-do-cong-nghe.232/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_669">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/tinh-te-binh-chon-2016.669/" data-description="#nodeDescription-669">Tinh tế bình chọn 2016</a>
+				
+			</h3>
+
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>141</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>3,916</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49440517/" title="HÃY THẬN TRỌNG KHI MUA HÀNG Ở Adayroi.com">HÃY THẬN TRỌNG KHI MUA HÀNG Ở Adayroi.com</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/nguyen-hai-long-98.2314273/" class="username" dir="auto">Nguyễn Hải Long 98</a>,</span>
+					
+						<a href="posts/49440517/" title="HÃY THẬN TRỌNG KHI MUA HÀNG Ở Adayroi.com"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489745865" data-diff="54600" data-datestring="17/3/17" data-timestring="17:17">17:17 ngày 17/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/tinh-te-binh-chon-2016.669/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_36">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/ca-phe-tinh-te.36/" data-description="#nodeDescription-36">Cà phê tinh tế</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-36">Chuyện đó ... chuyện đây...</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>18,232</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>363,950</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="forums/ca-phe-tinh-te.36/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Các forum:</span> 1</a>
+
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Cà phê tinh tế</h3>
+								<div class="muted">Các forum</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_355">
+	<div class="unread">
+		<h4 class="nodeTitle"><a href="forums/hoat-dong-tu-thien.355/" class="menuRow">
+		
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="subForumIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+		Hoạt động từ thiện</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49441776/" title="Xin nhạc">Xin nhạc</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/lienhuong.99673/" class="username" dir="auto">LIENHUONG</a>,</span>
+					
+						<a href="posts/49441776/" title="Xin nhạc"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489766518" data-diff="33947" data-datestring="17/3/17" data-timestring="23:01">23:01 ngày 17/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/ca-phe-tinh-te.36/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_230">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/quang-cao-khuyen-mai.230/" data-description="#nodeDescription-230">Quảng cáo - Khuyến mãi</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-230">PR, Khuyến mãi, giảm giá từ các cty Công nghệ.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>2,639</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>321,805</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49442325/" title="[QC] Xiaomi chính thức vào Việt Nam – phân phối độc quyền bởi Lazada">[QC] Xiaomi chính thức vào Việt Nam – phân phối độc quyền bởi Lazada</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/ninhlexus.1338315/" class="username" dir="auto">ninhlexus</a>,</span>
+					
+						<a href="posts/49442325/" title="[QC] Xiaomi chính thức vào Việt Nam – phân phối độc quyền bởi Lazada"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489799237" data-diff="1228" data-datestring="18/3/17" data-timestring="08:07">08:07 ngày 18/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/quang-cao-khuyen-mai.230/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_639">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/chu-viet-nhanh.639/" data-description="#nodeDescription-639">Chữ Việt Nhanh</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-639">Cuộc thi Gõ nhanh Chữ Việt</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>85</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>497</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49434434/" title="Xin hỏi đây là font gì?">Xin hỏi đây là font gì?</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/vulinhchi123.2275389/" class="username" dir="auto">vulinhchi123</a>,</span>
+					
+						<a href="posts/49434434/" title="Xin hỏi đây là font gì?"><abbr class="DateTime muted lastThreadDate" data-latest="Mới nhất: " data-time="1489632932" data-diff="167533" data-datestring="16/3/17" data-timestring="09:55">09:55 ngày 16/3/17</abbr></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/chu-viet-nhanh.639/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+		
+
+
+<li class="node forum level_2  node_665">
+	
+
+	<div class="nodeInfo forumNodeInfo unread ">
+
+		
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+	<span class="nodeIcon hasGlyph" title="Các bài viết chưa đọc"><i class="fa fa-comments"></i></span>
+
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="forums/app-tinh-te.665/" data-description="#nodeDescription-665">App Tinh tế</a>
+				
+			</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-665">Giao lưu, hoạt động, thông báo, báo lỗi và góp ý xây dựng cho các App Tinh tế mới dành cho Android, iOS (phiên bản 5.0 trở đi)</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Chủ đề:</dt> <dd>26</dd></dl>
+				<dl><dt>Bài viết:</dt> <dd>386</dd></dl>
+				
+			</div>
+
+			
+		</div>
+
+		
+
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+
+
+				
+				<span class="lastThreadTitle"><span>Mới nhất:</span> <a href="posts/49388613/" title="App có vẻ ko ổn">App có vẻ ko ổn</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/aijin.274552/" class="username" dir="auto">aijin</a>,</span>
+					
+						<a href="posts/49388613/" title="App có vẻ ko ổn"><span class="DateTime muted lastThreadDate" data-latest="Mới nhất: " title="11:18 ngày 6/3/17">6/3/17</span></a>
+					
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="forums/app-tinh-te.665/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+
+	</div>
+
+	
+
+</li>
+	
+	</ol>
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-container act-as-sidebar sidebar widget-single">
+	<div class="secondaryContent widget hook-widget Tinhte_XenTag_WidgetRenderer_TrendingThreadTags" id="widget-87">
+		<h3>
+			
+				Chuyên mục quan tâm
+			
+		</h3>
+		<ul class="tagCloud">
+	
+		<li><a href="tags/ttbc16/" class="tagCloudTag tagCloudTag7">ttbc16</a></li>
+	
+		<li><a href="tags/ttbc/" class="tagCloudTag tagCloudTag7">ttbc</a></li>
+	
+		<li><a href="tags/mwc17/" class="tagCloudTag tagCloudTag4">mwc17</a></li>
+	
+		<li><a href="tags/tinhtebinhchon-2/" class="tagCloudTag tagCloudTag3">#tinhtebinhchon</a></li>
+	
+		<li><a href="tags/galaxy-a-2017/" class="tagCloudTag tagCloudTag2">galaxy a 2017</a></li>
+	
+		<li><a href="tags/dai-hoc-duy-tan/" class="tagCloudTag tagCloudTag2">đại học duy tân</a></li>
+	
+		<li><a href="tags/tinh-te-binh-chon-2016-2/" class="tagCloudTag tagCloudTag1">tinh tế bình chọn 2016</a></li>
+	
+		<li><a href="tags/the-quoc-te/" class="tagCloudTag tagCloudTag1">thẻ quốc tế</a></li>
+	
+		<li><a href="tags/cong-dung-nam-linh-chi/" class="tagCloudTag tagCloudTag1">công dụng nấm linh chi</a></li>
+	
+		<li><a href="tags/toshiba-inverter/" class="tagCloudTag tagCloudTag1">toshiba inverter</a></li>
+	
+		<li><a href="tags/tien-thang-b7/" class="tagCloudTag tagCloudTag1">tien thang b7</a></li>
+	
+		<li><a href="tags/hoang-ha-mobile-2/" class="tagCloudTag tagCloudTag1">hoàng hà mobile</a></li>
+	
+		<li><a href="tags/apple-kien-qualcomm/" class="tagCloudTag tagCloudTag1">apple kiện qualcomm</a></li>
+	
+		<li><a href="tags/fix-and-repair/" class="tagCloudTag tagCloudTag1">fix and repair</a></li>
+	
+		<li><a href="tags/replacement-parts-macbook-screen/" class="tagCloudTag tagCloudTag1">replacement parts macbook: screen</a></li>
+	
+		<li><a href="tags/lazada-khuyen-mai/" class="tagCloudTag tagCloudTag1">lazada khuyen mai</a></li>
+	
+		<li><a href="tags/apple-park/" class="tagCloudTag tagCloudTag1">apple park</a></li>
+	
+		<li><a href="tags/sony-rx100v/" class="tagCloudTag tagCloudTag1">sony rx100v</a></li>
+	
+		<li><a href="tags/upgrade-the-ram/" class="tagCloudTag tagCloudTag1">upgrade the ram</a></li>
+	
+		<li><a href="tags/bello/" class="tagCloudTag tagCloudTag1">bello</a></li>
+	
+		<li><a href="tags/tac-dung-nam-linh-chi/" class="tagCloudTag tagCloudTag1">tác dụng nấm linh chi</a></li>
+	
+		<li><a href="tags/keyboard-and-other-components/" class="tagCloudTag tagCloudTag1">keyboard and other components</a></li>
+	
+		<li><a href="tags/bellolethaito/" class="tagCloudTag tagCloudTag1">bellolethaito</a></li>
+	
+		<li><a href="tags/lap-dat-camera-samsung/" class="tagCloudTag tagCloudTag1">lap dat camera samsung</a></li>
+	
+		<li><a href="tags/lg-2017/" class="tagCloudTag tagCloudTag1">lg 2017</a></li>
+	
+		<li><a href="tags/moc-de/" class="tagCloudTag tagCloudTag1">mộc đế</a></li>
+	
+		<li><a href="tags/fire-emblem-heroes/" class="tagCloudTag tagCloudTag1">fire emblem heroes</a></li>
+	
+		<li><a href="tags/cash-back/" class="tagCloudTag tagCloudTag1">cash back</a></li>
+	
+		<li><a href="tags/altaba/" class="tagCloudTag tagCloudTag1">altaba</a></li>
+	
+		<li><a href="tags/tinhtebinhchon2016/" class="tagCloudTag tagCloudTag1">tinhtebinhchon2016</a></li>
+	
+	</ul>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+						
+
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Đăng nhập bằng Facebook</span></a></li>
+				
+				
+				
+				
+				
+					
+					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=UMyEdJQv9O9yi7kK"><span>Đăng nhập bằng Google</span></span></li>
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Tên tài khoản hoặc Email:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Bạn đã có tài khoản?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						Chưa, tôi tạo tài khoản mới.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Có, mật khẩu của tôi là:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Quên mật khẩu?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Đăng nhập" tabindex="104" data-loginPhrase="Đăng nhập" data-signupPhrase="Đăng ký" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Nhớ đăng nhập</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/tintuc/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+						
+						
+						
+			
+						
+
+	<div class="section funbox">
+	<div class="funboxWrapper">
+	
+
+		
+			
+				<div class="adWidget adWidget-adsense ad-9 slot-8" data-ad-id="9">
+			
+				
+				<ins class="adsbygoogle AdSenseLoader" style="display:block;" data-ad-client="ca-pub-4328742155432872" data-ad-slot="7560252252" data-ad-format="auto"></ins>
+			
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+			
+		
+
+	
+	</div>
+	</div>
+
+					</div>
+			
+
+					</div>
+
+					<!-- sidebar -->
+					<aside class="uix_mainSidebar">
+						<div class="inner_wrapper">
+							<div class="sidebar">
+								
+								
+								
+
+<div class="section loginButton">
+	<div class="secondaryContent">
+		<label id="SignupButton"><a href="register/" class="inner">Đăng ký thành viên</a></label>
+	</div>
+</div>
+
+
+
+
+
+
+								<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget Tinhte_UserThreadPromotion_WidgetRenderer_Threads" id="widget-86">
+		<h3>
+			
+				Bài đề cử
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2685648 thread-node-10">
+			<a href="threads/thuat-toan-moi-cua-google-giup-file-jpeg-giam-35-dung-luong-so-voi-hien-nay.2685648/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/0d/392520672569d37e78d4db7c40370a10.jpg?2152" alt="Thuật toán mới của Google giúp file JPEG giảm 35% dung lượng so với hiện nay"></a>
+
+			<a href="threads/thuat-toan-moi-cua-google-giup-file-jpeg-giam-35-dung-luong-so-voi-hien-nay.2685648/" class="title">Thuật toán mới của Google giúp file JPEG giảm 35% dung lượng so với hiện nay</a>
+		</li>
+		
+		<li class="thread-2685650 thread-node-460">
+			<a href="threads/tinh-nang-chia-se-khoanh-khac-messenger-day-da-co-cho-nguoi-dung-fb-messenger-viet-nam.2685650/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/3c/91b23e0361f04f1e26c397648ea534a7.jpg?5909" alt="Tính năng chia sẻ khoảnh khắc Messenger Day đã có cho người dùng FB Messenger Việt Nam"></a>
+
+			<a href="threads/tinh-nang-chia-se-khoanh-khac-messenger-day-da-co-cho-nguoi-dung-fb-messenger-viet-nam.2685650/" class="title">Tính năng chia sẻ khoảnh khắc Messenger Day đã có cho người dùng FB Messenger Việt Nam</a>
+		</li>
+		
+		<li class="thread-2685523 thread-node-460">
+			<a href="threads/pc-mac-van-la-nen-tang-thu-hut-nhieu-nha-phat-trien-nhat-mac-du-doanh-thu-tu-mobile-game-cao-hon.2685523/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/7f/bdd6ce2ba383c5a46d53ee0c2055a2b7.jpg?3323" alt="PC/Mac vẫn là nền tảng thu hút nhiều nhà phát triển nhất mặc dù doanh thu từ mobile game cao hơn"></a>
+
+			<a href="threads/pc-mac-van-la-nen-tang-thu-hut-nhieu-nha-phat-trien-nhat-mac-du-doanh-thu-tu-mobile-game-cao-hon.2685523/" class="title">PC/Mac vẫn là nền tảng thu hút nhiều nhà phát triển nhất mặc dù doanh thu từ mobile game cao hơn</a>
+		</li>
+		
+		<li class="thread-2685472 thread-node-460">
+			<a href="threads/gmail-tren-web-cho-xem-truoc-video-dinh-kem-khong-can-phai-tai-ve.2685472/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/81/064ef851815e9068306bdcc757e6d0cd.jpg?6143" alt="Gmail trên web cho xem trước video đính kèm, không cần phải tải về"></a>
+
+			<a href="threads/gmail-tren-web-cho-xem-truoc-video-dinh-kem-khong-can-phai-tai-ve.2685472/" class="title">Gmail trên web cho xem trước video đính kèm, không cần phải tải về</a>
+		</li>
+		
+		<li class="thread-2685466 thread-node-230">
+			<a href="threads/qc-xiaomi-chinh-thuc-vao-viet-nam-phan-phoi-doc-quyen-boi-lazada.2685466/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/f9/33a7dbeb553e1f104ddb01178b98165c.jpg?2580" alt="[QC] Xiaomi chính thức vào Việt Nam – phân phối độc quyền bởi Lazada"></a>
+
+			<a href="threads/qc-xiaomi-chinh-thuc-vao-viet-nam-phan-phoi-doc-quyen-boi-lazada.2685466/" class="title">[QC] Xiaomi chính thức vào Việt Nam – phân phối độc quyền bởi Lazada</a>
+		</li>
+		
+		<li class="thread-2685442 thread-node-10">
+			<a href="threads/qualcomm-goi-soc-cua-minh-la-nen-tang-thay-vi-bo-xu-ly-snapdragon-2xx-doi-thanh-qualcomm-mobile.2685442/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/d3/efdb93a75e57157c477a6ba7a0fef4b4.jpg?6096" alt="Qualcomm gọi SoC của mình là &quot;nền tảng&quot; thay vì &quot;bộ xử lý&quot;, Snapdragon 2xx đổi thành Qualcomm Mobile"></a>
+
+			<a href="threads/qualcomm-goi-soc-cua-minh-la-nen-tang-thay-vi-bo-xu-ly-snapdragon-2xx-doi-thanh-qualcomm-mobile.2685442/" class="title">Qualcomm gọi SoC của mình là &quot;nền tảng&quot; thay vì &quot;bộ xử lý&quot;, Snapdragon 2xx đổi thành Qualcomm Mobile</a>
+		</li>
+		
+		<li class="thread-2685223 thread-node-460">
+			<a href="threads/can-than-hinh-thuc-lua-dao-danh-cap-tai-khoan-gmail-bang-hinh-anh-nhung-trong-email.2685223/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/37/b691d2f0357bec29e7d4daad9c2adece.jpg?2272" alt="Cẩn thận hình thức lừa đảo đánh cắp tài khoản Gmail bằng hình ảnh nhúng trong email"></a>
+
+			<a href="threads/can-than-hinh-thuc-lua-dao-danh-cap-tai-khoan-gmail-bang-hinh-anh-nhung-trong-email.2685223/" class="title">Cẩn thận hình thức lừa đảo đánh cắp tài khoản Gmail bằng hình ảnh nhúng trong email</a>
+		</li>
+		
+		<li class="thread-2685255 thread-node-10">
+			<a href="threads/ban-co-biet-thuong-hieu-dien-thoai-alcatel-thuoc-quyen-so-huu-cua-nokia.2685255/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/d0/2145ebc4533d76ade48895847908bd22.jpg?2432" alt="[Bạn có biết] Thương hiệu điện thoại Alcatel thuộc quyền sở hữu của Nokia?"></a>
+
+			<a href="threads/ban-co-biet-thuong-hieu-dien-thoai-alcatel-thuoc-quyen-so-huu-cua-nokia.2685255/" class="title">[Bạn có biết] Thương hiệu điện thoại Alcatel thuộc quyền sở hữu của Nokia?</a>
+		</li>
+		
+		<li class="thread-2685216 thread-node-10">
+			<a href="threads/htc-to-chuc-su-kien-vao-ngay-20-3-ra-mat-htc-11.2685216/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/28/64eefb55cd5ab2736428315119d6a289.jpg?4829" alt="HTC tổ chức sự kiện vào ngày 20/3, ra mắt HTC 11?"></a>
+
+			<a href="threads/htc-to-chuc-su-kien-vao-ngay-20-3-ra-mat-htc-11.2685216/" class="title">HTC tổ chức sự kiện vào ngày 20/3, ra mắt HTC 11?</a>
+		</li>
+		
+		<li class="thread-2684991 thread-node-230">
+			<a href="threads/qc-hoa-mang-tra-sau-moi-voi-mobifone-de-so-huu-vespa-lx125cc.2684991/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/bd/3b84efcf10e6f77525acb518985acac3.jpg?3709" alt="[QC] Hoà mạng trả sau mới với MobiFone để sở hữu Vespa LX125cc"></a>
+
+			<a href="threads/qc-hoa-mang-tra-sau-moi-voi-mobifone-de-so-huu-vespa-lx125cc.2684991/" class="title">[QC] Hoà mạng trả sau mới với MobiFone để sở hữu Vespa LX125cc</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-84">
+		<h3>
+			
+				Bài quan tâm
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2684904 thread-node-460">
+			<a href="threads/moi-anh-em-chia-se-trai-nghiem-su-dung-office-nhan-thue-bao-office-365-mot-nam.2684904/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/d4/a6c32c11644fa3170bb4e852cceb2615.jpg?3098" alt="Mời anh em chia sẻ trải nghiệm sử dụng Office, nhận thuê bao Office 365 một năm"></a>
+
+			<a href="threads/moi-anh-em-chia-se-trai-nghiem-su-dung-office-nhan-thue-bao-office-365-mot-nam.2684904/" class="title">Mời anh em chia sẻ trải nghiệm sử dụng Office, nhận thuê bao Office 365 một năm</a>
+		</li>
+		
+		<li class="thread-2684445 thread-node-10">
+			<a href="threads/chung-ta-co-nen-sac-dien-thoai-qua-dem.2684445/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/49/54f0d01a38e981812c409625b14bf3b9.jpg?2851" alt="Chúng ta có nên sạc điện thoại qua đêm?"></a>
+
+			<a href="threads/chung-ta-co-nen-sac-dien-thoai-qua-dem.2684445/" class="title">Chúng ta có nên sạc điện thoại qua đêm?</a>
+		</li>
+		
+		<li class="thread-2684948 thread-node-10">
+			<a href="threads/pin-the-ran-hoan-toan-da-duoc-che-tao-thanh-cong-dung-luong-lon-an-toan-ben-hon-sac-mat-vai-phut.2684948/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/46/1ec61abeb92e9892ae15586b41963392.jpg?3527" alt="Pin thể rắn hoàn toàn đã được chế tạo thành công: dung lượng lớn, an toàn, bền hơn, sạc mất vài phút"></a>
+
+			<a href="threads/pin-the-ran-hoan-toan-da-duoc-che-tao-thanh-cong-dung-luong-lon-an-toan-ben-hon-sac-mat-vai-phut.2684948/" class="title">Pin thể rắn hoàn toàn đã được chế tạo thành công: dung lượng lớn, an toàn, bền hơn, sạc mất vài phút</a>
+		</li>
+		
+		<li class="thread-2684114 thread-node-10">
+			<a href="threads/elon-musk-hua-xay-canh-dong-tru-dien-100mw-tai-uc-trong-vong-100-ngay-neu-tre-tang-mien-phi.2684114/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/e4/087ae389abd4cbec38d99e3a9a89c23b.jpg?2249" alt="Elon Musk hứa xây cánh đồng trữ điện 100MW tại Úc trong vòng 100 ngày, nếu trễ tặng miễn phí"></a>
+
+			<a href="threads/elon-musk-hua-xay-canh-dong-tru-dien-100mw-tai-uc-trong-vong-100-ngay-neu-tre-tang-mien-phi.2684114/" class="title">Elon Musk hứa xây cánh đồng trữ điện 100MW tại Úc trong vòng 100 ngày, nếu trễ tặng miễn phí</a>
+		</li>
+		
+		<li class="thread-2684581 thread-node-230">
+			<a href="threads/qc-mua-tra-gop-re-hon-tra-thang-den-10-trieu-dong-tai-fpt-shop.2684581/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/d3/047148f07130293efa86ad551cfc3e1a.jpg?7292" alt="[QC] Mua trả góp rẻ hơn trả thẳng đến 10 triệu đồng tại FPT Shop"></a>
+
+			<a href="threads/qc-mua-tra-gop-re-hon-tra-thang-den-10-trieu-dong-tai-fpt-shop.2684581/" class="title">[QC] Mua trả góp rẻ hơn trả thẳng đến 10 triệu đồng tại FPT Shop</a>
+		</li>
+		
+		<li class="thread-2684437 thread-node-460">
+			<a href="threads/kiem-tien-khong-kho-chi-can-hack-duoc-cong-nghe-cua-1password-ban-se-duoc-thuong-100-000.2684437/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/2d/f4e55d5290bdbe0616b432d6149a1b1f.jpg?5409" alt="Kiếm tiền không khó: chỉ cần hack được công nghệ của 1Password, bạn sẽ được thưởng 100.000$"></a>
+
+			<a href="threads/kiem-tien-khong-kho-chi-can-hack-duoc-cong-nghe-cua-1password-ban-se-duoc-thuong-100-000.2684437/" class="title">Kiếm tiền không khó: chỉ cần hack được công nghệ của 1Password, bạn sẽ được thưởng 100.000$</a>
+		</li>
+		
+		<li class="thread-2685255 thread-node-10">
+			<a href="threads/ban-co-biet-thuong-hieu-dien-thoai-alcatel-thuoc-quyen-so-huu-cua-nokia.2685255/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/d0/2145ebc4533d76ade48895847908bd22.jpg?2432" alt="[Bạn có biết] Thương hiệu điện thoại Alcatel thuộc quyền sở hữu của Nokia?"></a>
+
+			<a href="threads/ban-co-biet-thuong-hieu-dien-thoai-alcatel-thuoc-quyen-so-huu-cua-nokia.2685255/" class="title">[Bạn có biết] Thương hiệu điện thoại Alcatel thuộc quyền sở hữu của Nokia?</a>
+		</li>
+		
+		<li class="thread-2685466 thread-node-230">
+			<a href="threads/qc-xiaomi-chinh-thuc-vao-viet-nam-phan-phoi-doc-quyen-boi-lazada.2685466/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/f9/33a7dbeb553e1f104ddb01178b98165c.jpg?2580" alt="[QC] Xiaomi chính thức vào Việt Nam – phân phối độc quyền bởi Lazada"></a>
+
+			<a href="threads/qc-xiaomi-chinh-thuc-vao-viet-nam-phan-phoi-doc-quyen-boi-lazada.2685466/" class="title">[QC] Xiaomi chính thức vào Việt Nam – phân phối độc quyền bởi Lazada</a>
+		</li>
+		
+		<li class="thread-2684706 thread-node-460">
+			<a href="threads/ceo-yahoo-se-nhan-den-bu-khoang-23-trieu-usd-khi-verizon-mua-xong-yahoo.2684706/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/2e/3f3b3692eaaeff4b75beeb91717d5f12.jpg?3086" alt="CEO Yahoo sẽ nhận đền bù khoảng 23 triệu USD khi Verizon mua xong Yahoo"></a>
+
+			<a href="threads/ceo-yahoo-se-nhan-den-bu-khoang-23-trieu-usd-khi-verizon-mua-xong-yahoo.2684706/" class="title">CEO Yahoo sẽ nhận đền bù khoảng 23 triệu USD khi Verizon mua xong Yahoo</a>
+		</li>
+		
+		<li class="thread-2685523 thread-node-460">
+			<a href="threads/pc-mac-van-la-nen-tang-thu-hut-nhieu-nha-phat-trien-nhat-mac-du-doanh-thu-tu-mobile-game-cao-hon.2685523/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/7f/bdd6ce2ba383c5a46d53ee0c2055a2b7.jpg?3323" alt="PC/Mac vẫn là nền tảng thu hút nhiều nhà phát triển nhất mặc dù doanh thu từ mobile game cao hơn"></a>
+
+			<a href="threads/pc-mac-van-la-nen-tang-thu-hut-nhieu-nha-phat-trien-nhat-mac-du-doanh-thu-tu-mobile-game-cao-hon.2685523/" class="title">PC/Mac vẫn là nền tảng thu hút nhiều nhà phát triển nhất mặc dù doanh thu từ mobile game cao hơn</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section widget-single">
+	<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-96">
+		<h3>
+			
+				Bài viết quan tâm
+			
+		</h3>
+		<div class="WidgetFramework_WidgetRenderer_Threads_Sidebar avatarList withThreadThumbnails">
+	<ul>
+		
+		
+		<li class="thread-2681346 thread-node-10">
+			<a href="threads/mwc17-nokia-3310-tro-lai-thiet-ke-quen-thuoc-nhieu-mau-sac-hon-co-ran-san-moi-pin-1-thang.2681346/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/01/0f26f2d2d7724421148e5e9cee272704.jpg?3412" alt="#MWC17: Nokia 3310 trở lại: thiết kế quen thuộc, nhiều màu sắc hơn, có rắn săn mồi, pin 1 tháng"></a>
+
+			<a href="threads/mwc17-nokia-3310-tro-lai-thiet-ke-quen-thuoc-nhieu-mau-sac-hon-co-ran-san-moi-pin-1-thang.2681346/" class="title">#MWC17: Nokia 3310 trở lại: thiết kế quen thuộc, nhiều màu sắc hơn, có rắn săn mồi, pin 1 tháng</a>
+		</li>
+		
+		<li class="thread-2684445 thread-node-10">
+			<a href="threads/chung-ta-co-nen-sac-dien-thoai-qua-dem.2684445/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/49/54f0d01a38e981812c409625b14bf3b9.jpg?2851" alt="Chúng ta có nên sạc điện thoại qua đêm?"></a>
+
+			<a href="threads/chung-ta-co-nen-sac-dien-thoai-qua-dem.2684445/" class="title">Chúng ta có nên sạc điện thoại qua đêm?</a>
+		</li>
+		
+		<li class="thread-2682555 thread-node-10">
+			<a href="threads/vi-sao-apple-samsung-xiaomi-muon-tu-lam-chip-di-dong-ma-khong-xai-cua-qualcomm-mediatek.2682555/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/bb/dfc0f5aab421b45b1f59b73d316508c8.jpg?5561" alt="Vì sao Apple, Samsung, Xiaomi muốn tự làm chip di động mà không xài của Qualcomm, MediaTek?"></a>
+
+			<a href="threads/vi-sao-apple-samsung-xiaomi-muon-tu-lam-chip-di-dong-ma-khong-xai-cua-qualcomm-mediatek.2682555/" class="title">Vì sao Apple, Samsung, Xiaomi muốn tự làm chip di động mà không xài của Qualcomm, MediaTek?</a>
+		</li>
+		
+		<li class="thread-2680984 thread-node-10">
+			<a href="threads/video-tam-biet-sms-xin-chao-rcs-chat-nhom-goi-video-chuan-hoa-moi-thiet-bi-moi-nha-mang.2680984/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/96/f4b79f9263f02b8321ce314f82a801c1.jpg?5719" alt="[Video] Tạm biệt SMS, xin chào RCS: chat nhóm, gọi video, chuẩn hóa mọi thiết bị, mọi nhà mạng"></a>
+
+			<a href="threads/video-tam-biet-sms-xin-chao-rcs-chat-nhom-goi-video-chuan-hoa-moi-thiet-bi-moi-nha-mang.2680984/" class="title">[Video] Tạm biệt SMS, xin chào RCS: chat nhóm, gọi video, chuẩn hóa mọi thiết bị, mọi nhà mạng</a>
+		</li>
+		
+		<li class="thread-2679055 thread-node-230">
+			<a href="threads/qc-gia-cham-day-pantech-vega-iron-2-tu-12-99-trieu-gio-con-2-99-trieu.2679055/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/40/82a595197c946f35c130b43fd8bb6b63.png?8404" alt="[QC] Giá chạm đáy - Pantech VEGA IRON 2 từ 12,99 triệu giờ còn 2,99 triệu"></a>
+
+			<a href="threads/qc-gia-cham-day-pantech-vega-iron-2-tu-12-99-trieu-gio-con-2-99-trieu.2679055/" class="title">[QC] Giá chạm đáy - Pantech VEGA IRON 2 từ 12,99 triệu giờ còn 2,99 triệu</a>
+		</li>
+		
+		<li class="thread-2681077 thread-node-10">
+			<a href="threads/gia-bitcoin-dat-muc-cao-nhat-chua-tung-co-27-trieu-cho-1-bitcoin.2681077/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/2e/ac0284a60237c9d2bf8879fcdf9a1929.jpg?6464" alt="Giá Bitcoin đạt mức cao nhất chưa từng có: 27 triệu cho 1 Bitcoin"></a>
+
+			<a href="threads/gia-bitcoin-dat-muc-cao-nhat-chua-tung-co-27-trieu-cho-1-bitcoin.2681077/" class="title">Giá Bitcoin đạt mức cao nhất chưa từng có: 27 triệu cho 1 Bitcoin</a>
+		</li>
+		
+		<li class="thread-2683102 thread-node-232">
+			<a href="threads/hoi-tinh-te-ban-doi-dien-thoai-sau-bao-lau.2683102/" class="avatar"><img src="https://tinhte.vn/data/images/cache/70_70/2e/3418aac0b677e4105d0cfd339aac3942.jpg?5924" alt="[Hỏi Tinh Tế] Bạn đổi điện thoại sau bao lâu?"></a>
+
+			<a href="threads/hoi-tinh-te-ban-doi-dien-thoai-sau-bao-lau.2683102/" class="title">[Hỏi Tinh Tế] Bạn đổi điện thoại sau bao lâu?</a>
+		</li>
+		
+		
+	</ul>
+</div>
+	</div>
+</div>
+								
+								
+							</div>
+						</div>
+					</aside>
+				</div>
+			
+
+		
+
+			
+
+			</div>
+	
+		</div>
+	</div>
+	
+
+</div>
+
+<footer>
+	
+
+
+
+
+
+
+<div id="uix_stickyFooterSpacer"></div>
+
+
+
+<div class="footer">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+
+				
+				
+				
+				
+				
+				<ul class="footerLinks">
+					
+						<li><a href="https://tinhte.vn/forums/" class="homeLink">Trang chủ</a></li>
+						
+						<li><a href="hotro/">Giúp đỡ</a></li>
+					
+					
+						<li><a href="http://www.tinhte.vn/threads/noi-quy-dien-dan.20/">Điều khoản & Quy định</a></li>
+						
+					
+					<li class="topLink"><a href="/tintuc/#XenForo"><i class="uix_icon uix_icon-jumpToTop"></i> <span class="uix_hide">Lên đầu</span></a></li>
+				</ul>
+				
+
+			
+			<span class="helper"></span>
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+<div class="bigFooter">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+
+			
+
+
+			<ul class="bigFooterRow bigFooterRow--mainRow bigFooterRow--has4Columns">
+				<li class="bigFooterCol bigFooterCol--col1">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Tinhte.vn
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://tinhte.vn/">Trang nhất</a></li>
+	<li><a href="https://tinhte.vn/forum/">Diễn đàn</a></li>
+	<li><a href="https://tinhte.vn/hotro//">Hỗ trợ - hướng dẫn</a></li>
+	<li><a href="https://tinhte.vn/resources/">Thư viện</a></li>
+	<li><a href="https://tinhte.vn/gallery/">Gallery</a></li>
+	<li><a href="https://tinhte.vn/reserve/" target="_blank">Sự kiện</a></li>
+	<li><a href="http://feeds.feedburner.com/tinhte" target="_blank">Tinhte.vn RSS</a></li>
+	<li><a href="https://tinhte.vn/quangcao/">Liên hệ Quảng cáo</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col2">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Diễn đàn
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://tinhte.vn/tintuc/">Thông tin</a></li>
+	<li><a href="https://tinhte.vn/maytinh/">Máy tính</a></li>
+	<li><a href="https://tinhte.vn/dienthoai/">Điện thoại</a></li>
+	<li><a href="https://tinhte.vn/camera/">Camera</a></li>
+	<li><a href="https://tinhte.vn/xe/">Xe</a></li>
+	<li><a href="https://tinhte.vn/khcn/">Khoa học công nghệ</a></li>
+	<li><a href="https://tinhte.vn/tinhte/">Tinh tế</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col3">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Nhật tảo
+							</h3>
+
+							<ul class="footerMenu">
+	<li><a href="https://nhattao.com/f/dien-thoai.543/">Mua bán điện thoại</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh.553/">Mua bán máy tính</a></li>
+	<li><a href="https://nhattao.com/f/may-tinh-bang.548/">Mua bán máy tính bảng</a></li>
+	<li><a href="https://nhattao.com/f/camera.556/">Mua bán camera</a></li>
+	<li><a href="https://nhattao.com/f/do-cong-nghe.562/">Mua bán đồ công nghệ</a></li>
+	<li><a href="https://nhattao.com/f/xe.532/">Mua bán xe</a></li>
+	<li><a href="https://nhattao.com/f/dien-may.602/">Mua bán điện máy</a></li>
+	<li><a href="https://nhattao.com/f/sim-dien-thoai.533/">Mua bán sim, sim 3g</a></li>
+	
+</ul>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col4">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								
+								Liên kết
+							</h3>
+
+							<ul class="footerMenu">
+<li><a href="https://tinhte.vn/pages/cafe/">Cafe Tinhte.vn</a></li>
+	<li><a href="http://www.khacten.com/" title="Bao da, miếng dán da" target="_blank">Khacten.com</a></li>
+	<li><a href="http://www.1tudien.com" title="Từ điển trực tuyến" target="_blank">1TuDien.com</a></li>
+	<li><a href="http://www.nhaccuatui.com" title="Nghe nhạc mọi lúc mọi nơi" target="_blank">Nhaccuatui.com</a></li>
+	<li><a href="http://www.5giay.vn" title="Mạng thương mại điện tử" target="_blank">5Giay.vn</a></li>
+	<li><a href="http://www.webtretho.com/" title="Web trẻ thơ" target="_blank">Webtretho.com</a></li>
+	<li> <a href="https://bkvn.com" title="Cộng đồng Biker Vietnam" target="_blank">Biker Vietnam</a></li>
+</ul>
+						
+
+					</div>
+				</li>
+			</ul>
+
+			
+
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="footerLegal">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+			
+				<ul class="uix_socialMediaLinks">
+	<li class="uix_socialLink uix_socialLink--facebook"><a href="https://www.facebook.com/tinhtefan" target="_blank"><i class="uix_icon uix_icon-facebook"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--twitter"><a href="https://twitter.com/tinhtefan" target="_blank"><i class="uix_icon uix_icon-twitter"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--youtube"><a href="https://www.youtube.com/user/tinhtevideo" target="_blank"><i class="uix_icon uix_icon-youtube"></i></a></li>
+
+        
+
+        
+
+        
+
+        <li class="uix_socialLink uix_socialLink--googleplus"><a href="https://plus.google.com/+tinhte" target="_blank"><i class="uix_icon uix_icon-googlePlus"></i></a></li>
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+	
+
+        
+
+
+
+<!--ADD LIST ITEMS HERE -->
+
+
+
+        
+</ul>
+			
+			<div id="copyright">
+				 Chịu trách nhiệm nội dung: Trần Mạnh Hiệp • © 2015 Công ty Cổ phần MXH Tinh tế <br/>Địa chỉ: 209 Đường Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, TP.HCM • Giấy phép MXH số 385/GP-TTTT do Bộ TTTT cấp.
+				
+				
+			</div>
+			
+			<span class="helper"></span>
+			</div>
+		</div>
+		
+	</div>
+</div><!-- Facebook Pixel Code -->
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=480704548985430&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+
+
+
+	<div id="uix_jumpToFixed">
+		
+			<a href="#XenForo" title="Lên đầu" data-position="top"><i class="uix_icon uix_icon-jumpToTop"></i></a>
+		
+		
+	</div>
+
+
+<div class="bdRealtime_Loader" data-config="{&quot;pusherAppKey&quot;:&quot;ws&quot;,&quot;pusherOptions&quot;:{&quot;encrypted&quot;:true,&quot;apiHost&quot;:&quot;10.0.0.3&quot;,&quot;apiPort&quot;:8183,&quot;wsHost&quot;:&quot;nhattao.com&quot;,&quot;wsPort&quot;:80,&quot;wssPort&quot;:443},&quot;pollingEnabled&quot;:&quot;1&quot;,&quot;pollingOptions&quot;:{&quot;timestamp&quot;:1489800465,&quot;url&quot;:&quot;https:\/\/tinhte.vn\/data\/bdRealtime\/polling&quot;},&quot;bingUrl&quot;:&quot;&quot;,&quot;debugMode&quot;:false,&quot;channelPrefix&quot;:&quot;httpstinhtevnf2107ae2ffda03ad4574a858933db9fa&quot;,&quot;eventNamePrefix&quot;:&quot;ea70f884356c0ea0030a0c7cc308a419&quot;}"></div>
+
+
+
+
+
+
+
+</footer>
+
+
+
+
+
+
+
+<!-- Google Analytics -->
+
+<script async src='//www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+
+
+	
+	<div id="PreviewTooltip">
+	<span class="arrow"><span></span></span>
+	
+	<div class="section">
+		<div class="primaryContent previewContent">
+			<span class="PreviewContents">Đang tải...</span>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="uix_wrapperFix" style="height: 1px; margin-top: -1px;"></div>
+
+
+		</div> 
+	</div> 
+
+	
+
+
+
+
+<div class="breadcrumbMeta">
+	
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-619" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Mở di chuyển nhanh"><i class="uix_icon uix_icon-sitemap"></i><!--Chuyển đến...--></a>
+
+		<div class="boardTitle"><strong>Tinhte.vn</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="https://tinhte.vn/forums/" class="crumb"><span><i class="uix_icon uix_icon-home" title="Diễn đàn"></i><span class="uix_breadcrumb__home__title">Diễn đàn</span></span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+
+			
+
+			
+		</span>
+	</fieldset>
+</nav>
+</div>
+
+<!-- UI.X Version: 1.5.12.0 //-->
+
+<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://tinhte.vn/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }</script><script src="js/xenforo/xenforo.js?_v=c30fe834"></script><script src="js/bdAd/loader.min.js?_v=c30fe834"></script><script src="js/vim/mudim.js?_v=c30fe834"></script><script src="js/Tinhte/XenTag/preview.min.js?_v=c30fe834"></script><script>
+	uix = {
+		elm: {},
+		fn:{},
+		init: function(){
+			if (uix.betaMode) {
+				console.group('uix.%cinit()', 'color:#3498DB');
+			}
+			for(var x=0;x<uix.events.init.length;x++){
+				uix.events.init[x]()
+		  	}
+		  	console.groupEnd('uix.%cinit()','color:#3498DB')
+		},
+	  	events: {init:[]},
+	  	on: function(event, fn){
+	  		if(event=='init'){
+	  			uix.events.init.push(fn)
+	  		}
+	  	},
+
+		betaMode				: parseInt('0'),
+		jsPathUsed				: 'uiflex',
+		jsGlobal				: parseInt('0'),
+
+
+	  	version					: '1.5.12.0',
+	  	jsHeadVersion				: '1.5.12.0',
+	  	addonVersion				: '1010173',
+	  	jsCacheBust				: '1',
+	  	contentTemplate				: 'category_view',
+
+		javascriptInitHide			: parseInt('1'),
+		globalPadding 				: parseInt('15px'),
+		sidebarWidth				: parseInt('300px'),
+		mainContainerMargin  	        	: '315px',
+		maxResponsiveWideWidth   		: parseInt('800px'),
+		maxResponsiveMediumWidth 		: parseInt('610px'),
+		maxResponsiveNarrowWidth 		: parseInt('480px'),
+		sidebarMaxResponsiveWidth		: parseInt('800px'),
+		
+			responsiveMessageBreakpoint		: parseInt('610px'),
+		
+		sidebarMaxResponsiveWidthStr		: '800px',
+
+		
+			offCanvasRightTriggerWidth	: parseInt('800px'),
+		
+
+		
+			offCanvasLeftTriggerWidth	: parseInt('800px'),
+		
+
+		
+			
+				offCanvasNavTriggerWidth	: parseInt('800px'),
+			
+		
+		
+			
+				offCanvasVisitorTriggerWidth	: parseInt('800px'),
+			
+		
+
+		offcanvasTriggerAnimationDuration	: parseInt('300ms'),
+
+
+
+
+		dropdownMenuAnimationSpeed		: parseInt('0ms'),
+		inlineAlertBalloons			: (parseInt('1') && !parseInt('0')) || parseInt('0'),
+
+		jumpToFixedDelayHide			: parseInt('0'),
+
+		stickyNavigationMinWidth 		: parseInt('0'),
+		stickyNavigationMinHeight		: parseInt('600'),
+		stickyNavigationMaxWidth 		: parseInt('0'),
+		stickyNavigationMaxHeight		: parseInt('0'),
+		stickyNavigationPortraitMinWidth 	: parseInt('320'),
+		stickyNavigationPortraitMinHeight	: parseInt('500'),
+		stickyNavigationPortraitMaxWidth 	: parseInt('0'),
+		stickyNavigationPortraitMaxHeight	: parseInt('0'),
+		stickySidebar 				: 0,
+		
+			sidebarInnerFloat		: "right",
+		
+		RTL					: 0,
+		stickyItems 				: {},
+		stickyGlobalMinimumPosition		: parseInt('200px'),
+		stickyGlobalScrollUp			: parseInt('1'),
+		stickyDisableIOSThirdParty		: parseInt('1'),
+		preventAlwaysSticky			: parseInt('0'),
+
+		searchMinimalSize			: parseInt('610px'),
+
+		searchPosition				: parseInt('2'),
+
+		nodeStyle				: parseInt('0'),
+		pageStyle				: parseInt('1'),
+
+		enableBorderCheck			: parseInt('0'),
+		enableULManager				: parseInt('0'),
+
+		threadSlidingAvatar			: parseInt('0'),
+		threadSlidingExtra			: parseInt('0'),
+		threadSlidingHover			: parseInt('0'),
+		threadSlidingStaffShow			: parseInt('0'),
+		threadSlidingGlobalEnable		: parseInt('1'),
+
+		signatureHidingEnabled			: parseInt('0'),
+		signatureHidingEnabledAddon		: parseInt('1'),
+		signatureMaxHeight			: parseInt('100px'),
+		signatureHoverEnabled			: parseInt('0'),
+
+		enableStickyFooter 			: parseInt('1'),
+		stickyFooterBottomOffset 		: parseInt('15px') * 2,
+
+		
+			sidebarStickyBottomOffset	: parseInt(0),
+		
+
+	  	
+			offCanvasSidebar			: 1,
+
+			
+				offCanvasSidebarVisitorTabs		: 1,
+			
+
+		
+
+		offcanvasLeftStatic			: 1 && parseInt('0') && parseInt('1'),
+		offcanvasRightStatic			: 0 && parseInt('0') && parseInt('1'),
+		offcanvasLeftStaticBreakpoint		: parseInt('1300px'),
+		offcanvasRightStaticBreakpoint		: parseInt('1300px'),
+
+		reinsertWelcomeBlock			: parseInt('0'),
+
+		sidebarCookieExpire			: '',
+		canCollapseSidebar			: '',
+
+		cookiePrefix				: 'tt_',
+		sidebarLocation 			: parseInt('0'),
+
+		collapsibleSidebar			: parseInt('0'),
+		collapsedNodesDefault			: '',
+		nodeGridCollapseEnabled			: parseInt('0'),			
+		widthToggleUpper			: '100%',
+		widthToggleLower			: '1170px',
+		
+			toggleWidthEnabled		: parseInt('0'),
+		
+		toggleWidthBreakpoint			: parseInt('1190'),
+		collapsibleNodes			: parseInt('0'),
+		collapsibleSticky			: parseInt('1'),
+		ajaxWidthToggleLink			: 'uix/toggle-width',
+		ajaxStickyThreadToggleLink		: 'uix/toggle-sticky-threads',
+		ajaxStickyThreadExpandLink		: 'uix/expand-sticky-threads',
+		ajaxStickyThreadCollapseLink		: 'uix/collapse-sticky-threads',
+		ajaxSidebarToggleLink			: 'uix/toggle-sidebar',
+
+		stickySidebarDelayInit			: parseInt('1'),
+		stickySidebarLegacy			: parseInt('0'),
+		stickySidebarDisableIOS			: parseInt('1'),
+
+		user					: {
+								'themeName'		: 'Tinhte.vn UI',
+								'-themeParents'		: '63,62,61,0',
+								'-themeModified'	: '1489731235',
+								'-themeSelectable'	: '1',
+								languageName		: 'Vietnamese',
+								stickyEnableUserbar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableNav		: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableSidebar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								widthToggleState	: (parseInt('0') == parseInt('0')) ? parseInt('0') : parseInt('0'),
+								stickyThreadsState	: (parseInt('') == parseInt('')) ? (parseInt('') > 0) : 0,
+								
+									sidebarState	: 0,
+								
+								
+									collapseUserInfo : 1,
+								
+								
+									signatureHiding : 1,
+								
+								isAdmin			: parseInt('0"')
+							}
+	};
+
+	if(uix.stickyNavigationMaxWidth == 0){uix.stickyNavigationMaxWidth = 999999}
+	if(uix.stickyNavigationMaxHeight == 0){uix.stickyNavigationMaxHeight = 999999}
+	if(uix.stickyNavigationPortraitMaxWidth == 0){uix.stickyNavigationPortraitMaxWidth = 999999}
+	if(uix.stickyNavigationPortraitMaxHeight == 0){uix.stickyNavigationPortraitMaxHeight = 999999}
+
+	
+		uix.stickyItems['#navigation'] = {normalHeight:parseInt('40'), stickyHeight:parseInt('40')}
+
+		var subElement = null;
+		
+			uix.stickyItems['#navigation'].options = {scrollSticky: uix.stickyGlobalScrollUp }
+		
+
+	
+
+	
+
+	$(document).ready(function(){
+
+	//put jquery code here
+
+
+});
+
+	uix.debug = function() {
+		result = "\n\n############============   Begin Copying Here   ============############\n\n";
+		result += "Error: the functions file was not found.";
+		result += "\n\n############============   End Copying Here   ============############\n\n";
+
+		uix.fixJsVisibility();
+
+		console.log(result);
+	}
+
+</script><script src="js/audentio/uiflex/functions.min.js?_v=c30fe834_1.5.12.0_1"></script><script>
+	uix.adminJsError = function(errMsg) {
+		console.error(errMsg);
+
+		
+	}
+
+	uix.fixJsVisibility = function() {
+		var userBar = $('.hasJs #userBar');
+		var nodeList = $('.hasJs #forums, .hasJs .category_view .nodeList, .hasJs .watch_forums .nodeList');
+		var panels = $('.js-uix_panels')
+		if (userBar.length) userBar.css('display', 'block');
+		if (nodeList.length) nodeList.css('visibility', 'visible');
+		if (panels.length) $('.js-uix_panels').removeClass('needsInit');
+		$('html').removeClass('uix_javascriptNeedsInit');
+	}
+
+	uix.catchJsError = function(err) {
+		console.log("\n\n############============   Begin Copying Here   ============############\n\n")
+		var errMsg = "Uh Oh!  It looks like there's an error in your page's javascript.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this and believe it is due to a bug in your Audentio Design theme, contact Audentio support and include a copy of the text between the designated areas from your javascript console.  This is the error: \n\n" + err ;
+		uix.fixJsVisibility();
+		uix.adminJsError(errMsg);
+		console.log("\n\n");
+		console.log(err);
+		console.log("\n\n");
+		try {
+			uix.debug(true);
+		} catch (err) {
+			console.log("Unable to include uix.debug();");
+		}
+
+		console.log("\n\n############============   End Copying Here   ============############\n\n");
+	}
+
+	$(document).ready(function(){
+		if (typeof(audentio) === 'undefined' || typeof(uix.jsVersion) === 'undefined') {
+			var errMsg = 'Uh Oh!  It looks like the javascript for your theme was not found in /js/audentio/uiflex/.\n\n';
+			if (uix.jsGlobal) {
+				errMsg += 'Your forum is set to use the same javascript directory for all your themes.  Consider disabling this or modifying the directory.  Options are located under Options > [UI.X] General.\n\n'
+			} else {
+				errMsg += 'Your theme has set the location of its javascript directory.  You may need to modify the javascript directory location style property located under [UI.X] Global Settings > Javascript Path.\n\n'
+			}
+			errMsg += 'If your files are in the directory specified, ensure that your file permissions allow them to be read.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this, contact Audentio support.  This error has also been logged to the javascript console.';
+
+			uix.fixJsVisibility();
+
+			uix.adminJsError(errMsg);
+		} else if (uix.jsHeadVersion.split('_')[0] != uix.jsVersion.split('_')[0]) {
+			var errMsg = 'Uh Oh! It looks like the version of your javascript functions file does not match the version of your page_container_js_head template.  \n\nYour javascript functions file is version "' + uix.jsVersion + '". \nYour page_container_js_head is version "' + uix.jsHeadVersion + '".  \n\nIf your functions file version number is higher, ensure that you have merged all templates (especially page_container_js_head).  If your page_container_js_head version number is higher, ensure that you have correctly uploaded the latest version of the javascript functions file and that you have cleared anything that could cache an old version of the javascript (CDN / Cloudflare / etc.). \n\nThis issue could cause parts of your forum to not display or function correctly.  If this does not resolve the issue contact Audentio support.  This error has also been logged to the javascript console.';
+			
+			uix.fixJsVisibility();
+			
+			uix.adminJsError(errMsg);
+		}
+	});
+</script><script>
+	try {
+		uix.dateHelper.phrase = {
+			now: 'now',
+			second: 's',
+			minute: 'm',
+			hour: 'h',
+			day: 'd',
+			week: 'w',
+			year: 'y',
+			century: 'c',
+			ago: '{time} ago',
+			future: 'in {time}'
+		}
+
+
+		uix.sticky.stickyMinDist = parseInt('50');
+
+		$(document).ready(function(){
+			try {
+				
+				
+
+				uix.initFunc();
+			} catch (err) {
+				uix.catchJsError(err);
+			}
+		});
+	} catch (err) {
+		uix.catchJsError(err);
+	}
+</script><script type='text/javascript'>sonnbXenGalleryEnableInterlace = 0;</script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '480704548985430'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script><script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1489800465,
+		today: 1489770000,
+		todayDow: 6
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "0.5",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 100,
+		closeSpeed: 50,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 100,
+			closeSpeed: 50
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"nat_public_css":true,"node_list":true,"node_forum":true,"tag":true,"wf_default":true,"login_bar":true,"sonnb_xengallery_navbar_template":true,"facebook":true,"google":true,"bdad":true,"bdsocialshare":true,"share_page":true,"uix_extendedFooter":true,"js\/bdAd\/loader.min.js?_v=c30fe834":true,"js\/vim\/mudim.js?_v=c30fe834":true,"js\/Tinhte\/XenTag\/preview.min.js?_v=c30fe834":true},
+	_cookieConfig: { path: "/", domain: ".tinhte.vn", prefix: "tt_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "c30fe834",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Hủy",
+
+	a_moment_ago:    "Mới đây",
+	one_minute_ago:  "1 phút trước",
+	x_minutes_ago:   "%minutes% phút trước",
+	today_at_x:      "%time% hôm nay",
+	yesterday_at_x:  "%time% hôm qua",
+	day_x_at_time_y: "%day% lúc %time%",
+
+	day0: "Chủ nhật",
+	day1: "Thứ hai",
+	day2: "Thứ ba",
+	day3: "Thứ tư",
+	day4: "Thứ năm",
+	day5: "thứ sáu",
+	day6: "Thứ bảy",
+
+	_months: "Tháng 1,Tháng 2,Tháng 3,Tháng 4,Tháng 5,Tháng 6,Tháng 7,Tháng 8,Tháng 9,Tháng 10,Tháng 11,Tháng 12",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "Có lỗi hoặc lưu ý",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Đang đăng nhập",
+	click_image_show_full_size_version: "Bấm vào để phóng to.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "145923738846814";
+XenForo.Facebook.forceInit = false;
+
+
+</script><script type="text/javascript">
+    Mudim.LANG=[
+		'Tắt',
+		'VNI',
+		'Telex',
+		'VIQR',
+		'Đủ kiểu',
+		'Tự động',
+		'Sửa lỗi chính tả',
+		'Dùng kiểu bỏ dấu mới',
+		'Toggle',
+		'Toggle Panel',
+	];
+	Mudim.IGNORE_ID = ['email','url'];
+	Mudim.COOKIE_KEY_NAME = 'xf_vim|mudim-settings';
+
+	CHIM.ClearBuffer();
+	Mudim.method = parseInt('2');
+	CHIM.Speller.enabled = parseInt('1') ? true : false;
+	Mudim.newAccentRule = parseInt('1') ? true : false;
+
+	
+		Mudim.showPanel = false;
+        	CHIM.SetDisplay();
+	    	Mudim.SetPreference();
+	
+</script><script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-2120640-1","auto","default");var custom=[];ga(function(){ga.getAll().forEach(function(tracker){var isDef=tracker.get("name")=="default";if(isDef)tracker.set("dimension1"/*dimNode*/,"Th\u00f4ng tin - S\u1ef1 ki\u1ec7n (619)");if(isDef)tracker.set("dimension2"/*dimUserGroups*/,"0,1");setTimeout(function(){tracker.send("event","User Engagement","time on page more than 15 seconds");},15000);tracker.send("pageview");typeof(jQuery)==="function"&&jQuery(document).ajaxComplete(function(_,_,u){if(u.url.indexOf("css.php")>-1)return;var c="Ajax "+u.type;var p=document.createElement("a");p.href=u.url;var a=p.pathname;a=a.replace(/\/[^\/]*\d+\//g,"/");var l=p.pathname+p.search;l=l.replace(/(&_[^&]+)+(&|$)/g,"$2");if(l.substr(0,3)==="js/")return;if(l.substr(0,4)==="/js/")return;tracker.send("event",c,a,l);});});});
+</script><script>
+
+</script></body>
+</html>

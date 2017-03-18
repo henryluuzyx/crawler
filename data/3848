@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Hủy bỏ văn bản 'lạ' cam kết...không đi đường BOT - PLO
+</title><meta name="keywords" content="Cienco 4,Ngô Trọng Nghĩa,bot,trạm Bến Thủy 1,Bến Thủy 2,cầu bến thủy,UBND huyện Hưng Nguyên,Bến Thủy,cầu Bến Thủy 1,Nghi Xuân,UBND thị xã Hồng Lĩnh,UBND huyện Nghi Xuân,bộ giao thông vận tải,UBND tỉnh Hà Tĩnh,Nguyễn Hải Nam,Hà Tĩnh,cam kết,Nghệ An,Vinh,ủy ban nhân dân thành phố,phản đối" /><meta name="description" content="&quot;Chúng tôi sẽ thu hồi văn bản 1590 về việc thống kê, báo cáo số liệu xe ô tô của địa phương và tình trạng sử dụng dịch vụ BOT của Trạm Bến Thủy 1 và Bến Thủ..." />
+<link rel="canonical" href="http://www.baomoi.com/huy-bo-van-ban-la-cam-ket-khong-di-duong-bot/c/21791476.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791476" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791476" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://plo.vn/do-thi/huy-bo-van-ban-la-cam-ketkhong-di-duong-bot-689480.html");
+else
+window.location.replace("http://www.baomoi.com/huy-bo-van-ban-la-cam-ket-khong-di-duong-bot/c/21791476.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

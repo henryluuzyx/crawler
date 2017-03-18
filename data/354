@@ -1,0 +1,1015 @@
+<!doctype html>
+<!--[if IE 7]><html lang="en" class="ie7"></html><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie8"></html><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie9"></html><![endif]-->
+<!-- [if gt IE 9] <!-->
+<html lang="en">
+<!-- <![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="en" />
+    <meta name="robots" content="index, follow" />
+
+    <!--<meta name="google-site-verification" content="eau3gGflzg9BouNSsVKrx_mR5f0HbSLuvDKznJ3AE1k" />-->
+
+    <meta name="google-site-verification" content="nsV1o2gWlgNI0d7amNezlNilgzm47WT4bNIgJPV_wjk" />
+    <meta name="msvalidate.01" content="E52E0AECFFC89B1959FC75D368D4B11E" />
+    <meta name="robots" content="noarchive, noodp">
+
+    <link rel="shortcut icon" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/flexslider.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/plug-in-cmt.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jscroll.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jquery.fancybox.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jquery.fancybox-buttons.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/jquery.fancybox-thumbs.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/font-awesome.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/screen.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/custom.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/print.min.css" media="print" />
+    <!-- <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/video-js.css" media="screen" /> -->
+    <!-- <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/css/videojs.vast.vpaid.css" media="screen" /> -->
+    <!--[if lt IE 9]><script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/html5.js"></script><![endif]-->
+    <script src="http://static.new.tuoitre.vn/rmp/js/rmp.min.js"></script>
+
+    <meta property="og:title" content="Tin tức - Bất động sản - Kinh Tế - Tuổi Trẻ Online" />
+<meta property="og:description" content="Tin tức bất động sản - Cập nhật tin tức mới và nhanh nhất về thị trường bất động sản, nhà đất, dự án, mua bán nhà đất, chung cư" />
+<meta property="og:image" itemprop="thumbnailUrl" content="http://static.new.tuoitre.vn/tto/r/2014/09/16/w6e7Twj9.png" />
+<meta property="og:url" content="http://tuoitre.vn/" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="tuoitre.vn" />
+<meta http-equiv="refresh" content="1800" />
+<meta name="description" content="Tin tức bất động sản - Cập nhật tin tức mới và nhanh nhất về thị trường bất động sản, nhà đất, dự án, mua bán nhà đất, chung cư" />
+<meta name="keywords" content="bất động sản, thị trường bất động sản, nhà đất, tin bất động sản, dự án bất động sản, mua bán nhà đất, chung cư, bản tin bất động sản" />
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.min.js"></script>
+<title>Tin tức - Bất động sản - Kinh Tế - Tuổi Trẻ Online</title>
+
+    
+    <!-- Google Analytics -->
+    <!--<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-12518695-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>-->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46730129-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
+
+    <!-- Facebook Analytics -->
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '913371738775010');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=913371738775010&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+    <!--  Start Custom Script-->
+    
+    <!--  Start Required Script-->
+    <script type="text/javascript">
+    String.prototype.endsWith = function(suffix) {
+        return this.indexOf(suffix, this.length - suffix.length) !== -1;
+    };
+    function activeMenu() {
+        var url = window.location.href;
+        var domain = window.location.protocol + "//" + document.domain;
+        // var isSubDomain = url.match(new RegExp(/^([a-z]+\:\/{2})?([\w-]+\.[\w-]+\.\w+)$/)) ? true : false;
+        var diaocDomain = "http://batdongsan.tuoitre.vn/";
+        var tuyensinhDomain = "http://tuyensinh.tuoitre.vn/";
+        var rootDomain = "http://tuoitre.vn/";
+        $('.wrapper-nav nav.nav-main > ul > li a').filter(function () {
+            $(this).removeClass('active');
+            var currentHref = this.href.endsWith('/') ? this.href : this.href + "/";
+            var currentUrl = url.endsWith('/') ? url : url + "/";
+            var currentDomain = domain.endsWith('/') ? domain : domain + "/";
+
+            var temp = $(this).closest('li').not('li:first-child');
+            var active = false;
+
+            if (typeof temp === 'undefined') {
+
+            } else {
+                // compare domain with current href on tag <a>
+                //if (currentDomain.length == currentHref.length && isSubDomain === false && currentHref == currentUrl) {
+                if (currentUrl == rootDomain && currentHref == rootDomain) {
+                    $(this).closest('li').addClass("active");
+                } else {
+                    if (currentHref === currentUrl) {
+                        active = true;
+                    } else if (currentUrl.substring(0, currentHref.length) === currentHref) {
+                        active = true;
+                    }
+                }
+
+                if (active) {
+                    temp.addClass('active');
+                    temp.find("div.mega-menu").attr("display:block");
+                }
+
+                // special condition
+                if (active && currentDomain == diaocDomain && diaocDomain == currentHref) {
+                    temp.parents("li").addClass("active");
+                } else if (active && currentDomain == tuyensinhDomain && tuyensinhDomain == currentHref) {
+                    temp.parents("li").addClass("active");
+                }
+            }
+        });
+
+        // select home page
+        var menuSelected = $('nav.nav-main > ul > li.active');
+        if(menuSelected == 'undefined' || menuSelected.length == 0){
+            $('nav.nav-main > ul > li:first-child').addClass('active');
+        }
+    }
+</script></head>
+<body>
+<div class="wrapper wrapper-bds category">
+    <div class="outer-fixed">
+
+    <div class="menu-top clearfix">
+        <div>
+            <a class="btn-menu-top" href="javascript:;" title="Chuyên Mục"><i class="fa fa-bars"></i> Chuyên Mục</a>
+            <a class="logo" href="http://tuoitre.vn/" title="Tuổi Trẻ"><img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/logo-tuoitre.png"></a>
+            <a class="logo-1" href="http://batdongsan.tuoitre.vn" title="Bất động sản"><img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/logo-bds-top.png"> </a>
+            <ul class="list-social-top">
+                <li><a href="https://www.facebook.com/baotuoitre" title="facebook"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/tuoitre_tphcm" title="tw"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://plus.google.com/107706664902384479582" title="google"><i class="fa fa-google-plus"></i></a></li>
+            </ul>
+            <ul class="list-cata"><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi">Chính trị - Xã hội</a><ul><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi">Thời sự - Suy nghĩ</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su">Phóng sự - Ký sự</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong">Môi trường</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay">Chuyện thường ngày</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/tieu-diem">Tiêu điểm</a></li></ul></li><li><a href="http://tuoitre.vn/tin/the-gioi">Thế giới</a><ul><li><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan">Quan sát - Bình luận</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau">Thế giới muôn màu</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/nguoi-viet-nam-chau">Người Việt năm châu</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/ho-so">Hồ sơ</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/goc-anh">Góc ảnh</a></li></ul></li><li><a href="http://tuoitre.vn/tin/phap-luat">Pháp luật</a><ul><li><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh">Ký sự pháp đình</a></li><li><a href="http://tuoitre.vn/tin/phap-luat/tu-van">Tư vấn</a></li></ul></li><li><a href="http://tuoitre.vn/tin/kinh-te">Kinh tế</a><ul><li><a href="http://tuoitre.vn/tin/kinh-te/thi-truong">Thị trường</a></li><li><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh">Tài chính</a></li><li><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan">Doanh nhân</a></li><li><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe">Thế giới xe</a></li><li><a href="http://batdongsan.tuoitre.vn/">Bất động sản</a></li><li><a href="http://dulich.tuoitre.vn">Du lịch</a></li></ul></li><li><a href="http://tuoitre.vn/tin/song-khoe">Sống khỏe</a><ul><li><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online">Phòng mạch online</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/me-va-be">Mẹ & Bé</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh">Giới tính</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon">Tư vấn hiếm muộn</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/blog-bac-si">Blog bác sĩ</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/biet-de-khoe">Biết để khỏe</a></li></ul></li><li><a href="http://tuoitre.vn/tin/giao-duc">Giáo dục</a><ul><li><a href="http://tuoitre.vn/tin/giao-duc/du-hoc">Du học</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc">Khoa học</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc">Câu chuyện giáo dục</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc">Giáo dục các nước</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/goc-hoc-tap">Góc học tập</a></li></ul></li><li><a href="http://tuyensinh.tuoitre.vn">iTuyển sinh</a><ul><li><a href="http://tuyensinh.tuoitre.vn/tin/tin-nong-ituyensinh">Tin nóng iTuyển sinh</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/hoc-gi-o-dau">Học gì - Ở đâu?</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/tuyen-sinh-247">Tuyển sinh 24/7</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/do-thi-tri-thuc">Đô thị tri thức</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/chia-khoa-thanh-cong">Chìa khóa thành công</a></li></ul></li><li><a href="http://thethao.tuoitre.vn">Thể thao</a><ul><li><a href="http://thethao.tuoitre.vn/trang/bong-da">Bóng đá</a></li><li><a href="http://thethao.tuoitre.vn/trang/quan-vot">Quần vợt</a></li><li><a href="http://thethao.tuoitre.vn/trang/cac-mon-khac">Các môn khác</a></li><li><a href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song">Thể thao & Cuộc sống</a></li><li><a href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao">Sức khỏe thể thao</a></li><li><a href="http://thethao.tuoitre.vn/trang/hau-truong">Hậu trường</a></li></ul></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri">Văn hóa - Giải trí</a><ul><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/giai-tri">Giải trí</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac">Âm nhạc</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh">Điện ảnh</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/thoi-trang">Thời Trang</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh">Truyền hình</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/hau-truong">Hậu trường</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/van-hoc-sach">Văn học - Sách</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/goc-anh">Góc ảnh</a></li></ul></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre">Nhịp sống trẻ</a><ul><li><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu">Sống & Yêu</a></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam">Cơ hội việc làm</a></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online">Nhịp sống online</a></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim">Bắc nhịp trái tim</a></li></ul></li><li><a href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a><ul><li><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai">Điện thoại</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so">Thiết bị số</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/blog">Blog</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/thi-truong">Thị trường</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham">Đánh giá</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/bao-mat">Bảo mật</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung">Tư vấn tiêu dùng</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau">Nhịp cầu</a></li></ul></li><li><a href="http://tuoitre.vn/tin/ban-doc">Bạn đọc</a><ul><li><a href="http://tuoitre.vn/tin/ban-doc/cung-lam-bao">Cùng làm báo</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/phan-hoi">Phản hồi</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/duong-day-nong">Đường dây nóng</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/tam-su">Tâm sự</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/tieu-diem">Tiêu điểm</a></li></ul></li><li><a href="http://dulich.tuoitre.vn">Du lịch</a><ul><li><a href="http://dulich.tuoitre.vn/tin/nhung-mien-dat-la">Những miền đất lạ</a></li><li><a href="http://dulich.tuoitre.vn/tin/trai-nghiem-kham-pha">Trải nghiệm - Khám phá</a></li><li><a href="http://dulich.tuoitre.vn/tin/am-thuc">Ẩm thực</a></li><li><a href="http://dulich.tuoitre.vn/tin/van-hoa">Văn hóa</a></li><li><a href="http://dulich.tuoitre.vn/tin/goc-anh-lu-hanh">Góc ảnh lữ hành</a></li></ul></li><li><a href="http://tuoitre.vn/tin/can-biet">Cần biết</a><ul><li><a href="http://tuoitre.vn/tin/can-biet/tai-chinh-doanh-nghiep">Tài chính - Doanh nghiệp</a></li><li><a href="http://tuoitre.vn/tin/can-biet/giao-duc-huong-nghiep">Giáo dục - Hướng nghiệp</a></li><li><a href="http://tuoitre.vn/tin/can-biet/suc-khoe-doi-song">Sức khỏe - Đời sống</a></li><li><a href="http://tuoitre.vn/tin/can-biet/du-lich">Du lịch - Giải trí</a></li><li><a href="http://tuoitre.vn/tin/can-biet/dia-oc">Địa ốc</a></li><li><a href="http://tuoitre.vn/tin/can-biet/san-pham-dich-vu">Sản phẩm - Công nghệ</a></li></ul></li><li class="style-1"><a href="http://tuoitrenews.vn">TUOITRENEWS</a></li><li class="style-1"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan">Tuổi trẻ cuối tuần</a></li><li class="style-1"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi">Tuổi trẻ cười</a></li><li class="style-1"><a href="http://tv.tuoitre.vn">Tuổi trẻ TV</a></li><li class="style-1"><a href="http://tusach.tuoitre.vn">Tủ sách</a></li></ul>        </div>
+    </div>
+            <nav class="menu-top-1">
+            <ul class="clearfix navbar-nav">
+                <li class="dropdown"><a href="http://batdongsan.tuoitre.vn">Bất động sản<i class="fa fa-sort-down"></i></a><ul class="sub-menu-top"><li><a href="http://batdongsan.tuoitre.vn/tin/tin-thi-truong">Tin thị trường</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/quy-hoach-chinh-sach">Quy hoạch - Chính sách</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/dau-tu">Đầu tư</a></li></ul></li><li class="dropdown"><a href="http://batdongsan.tuoitre.vn/tin/xay-dung">Xây dựng<i class="fa fa-sort-down"></i></a><ul class="sub-menu-top"><li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung/thong-tin">Thông tin</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung/vat-lieu">Vật liệu</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung/giai-phap">Giải pháp</a></li></ul></li><li class="dropdown"><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep">Kiến trúc nhà đẹp<i class="fa fa-sort-down"></i></a><ul class="sub-menu-top"><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/kien-truc">Kiến trúc</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/noi-ngoai-that">Nội ngoại thất</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/khong-gian-song">Không gian sống</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/xu-huong-moi">Xu hướng mới</a></li></ul></li><li class="dropdown"><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy">Phong thủy<i class="fa fa-sort-down"></i></a><ul class="sub-menu-top"><li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/nha-o">Nhà ở</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/van-phong">Văn phòng</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/tuoi-tac">Tuổi tác</a></li></ul></li><li class="dropdown"><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap">Tư vấn - Hỏi đáp<i class="fa fa-sort-down"></i></a><ul class="sub-menu-top"><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/xay-dung">Xây dựng</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/kien-truc">Kiến trúc</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/luat">Luật</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/hoi-dap">Hỏi đáp</a></li></ul></li>                <li class="btn-search f-right">
+                    <a id="link-search" href="javascript:;" title="Search"><i class="fa fa-search"></i></a>
+                    <form class="frm-search-top" id="search-frm-top" action="http://tuoitre.vn/tim-kiem/">
+                        <div class="form-group">
+                            <input type="text" name="q" id="q" class="form-control" placeholder="Tìm kiếm...">
+                        </div>
+                    </form>
+                </li>
+            </ul>
+
+        </nav>
+        <script type="text/javascript">
+        $(function() {
+            setNavigation(["ul.navbar-nav li", "ul.list-chuyenmuc li"]);
+        });
+    </script>
+</div>    <script type="text/javascript">
+  $(document).ready(function(){
+  	if ($.browser.chrome) {
+      $('.bds-iframe').each(function() {
+        $(this).attr('src',$(this).attr('src')+'#reloaded');
+      });
+    }
+  });
+  
+  var BDSAPI = {
+   	init: function(target, type, pos, order, token) {
+      	var url = "http://api.tuoitre.vn/bds/list?type=1";
+      	var date = new Date();
+    	if(typeof token == 'undefined') { 
+        	token = "";
+        } else {
+         	token = "&token=" + token; 
+        }
+      	url += "&pos=" + pos + "&order=" + order + token + "&time=" + date.getTime();
+      	this.getData(url, function(status, data) {
+          if (status == 1) {
+            if (type == 1) {
+                var wrapper = $("#"+target);
+                wrapper.find("ul.list-bds").empty();
+                for(var k in data.Items) {
+                    var item = data.Items[k];
+                    wrapper.find("ul.list-bds").append("<li><a target=\"_blank\" href="+item.LinkUrl+">"+item.Title+"</a></li>");
+                    wrapper.show();
+                }
+            } else if (type == 2) {
+				var wrapper = $("#"+target);
+                wrapper.find("ul.list-bds-1").empty();
+                for(var k in data.Items) {
+                    var item = data.Items[k];
+                  	var itemHtml = "<a target=\"_blank\" href="+item.LinkUrl+"><img src="+item.Image+"></a>";
+                    itemHtml += "<h3><a target=\"_blank\" href="+item.LinkUrl+" >"+item.Title+"</a></h3>";
+                    wrapper.find("ul.list-bds-1").append("<li>"+itemHtml+"</li>");
+                    wrapper.show();
+                }
+            } else if (type == 3) {
+            	var wrapper = $("#"+target);
+                wrapper.find("ul.tab-ul").empty();
+                wrapper.find("div.tab").remove();
+                for(var k in data.Tabs) {
+                    var tab = data.Tabs[k];
+                    var tabHtml = "<li><a href='#tab-"+data.Id+"-"+k+"'>"+tab.Title+"</a></li>";
+                    wrapper.find("ul.tab-ul").append(tabHtml);
+                    //if (k == (data.Tabs.length -1)) {
+                    //    wrapper.find("ul.tab-ul").append("<a class=\"link-more\" href=\"#\">Xem tất cả</a>");
+                    //}
+                    var tabContent = "<div id='tab-"+data.Id+"-"+k+"' class='tab'>";
+                  	tabContent += "<a target=\"_blank\" class=\"link-more\" style=\"position:absolute; right: 10px; top: -20px;\" href=\""+tab.LinkUrl+"\">Xem tất cả</a>";
+                    tabContent += "<div class='carousel-5'><ul class='slides'>";
+                    for(var i in tab.Items) {
+                        var item = tab.Items[i];
+                        var itemHtml = "<li>";
+                        itemHtml += "<a target=\"_blank\" href="+item.LinkUrl+"><img src="+item.Image+" /></a>";
+                        itemHtml += "<h3><a target=\"_blank\" href="+item.LinkUrl+">"+item.Title+"</a></h3>";
+                        itemHtml += "</li>";
+                        tabContent += itemHtml;
+                    }
+                    tabContent += "</ul></div></div>";
+                    wrapper.append(tabContent);
+                    tabBlock(wrapper.attr("id"));
+
+                    if($(".carousel-5").length > 0){
+                         $('.carousel-5').flexslider({
+                            animation: "slide",
+                            controlNav: false,
+                            animationLoop: false,
+                            slideshow: false,
+                            itemWidth: 214,
+                            itemMargin: 5
+                         });
+                         $(".carousel-5" ).animate({opacity: 1}, 1000);
+                    }
+                } 
+                wrapper.show();  
+            } else if (type == 4) {
+			 	var wrapper = $("#"+target);
+			  	wrapper.find("div.block-1").empty();
+				var tempFirstHtml = '';
+				var tempUlHtml = '';
+				for(var k in data.Items) {
+					var item = data.Items[k];
+					if (k == 0) {
+				  		tempFirstHtml += "<a class='img_160_90_1' target=\"_blank\" href="+item.LinkUrl+"><img src="+item.Image+"></a>";
+				  		tempFirstHtml += "<h4><a target=\"_blank\" href="+item.LinkUrl+" >"+item.Title+"</a></h4>";
+					} else {
+					  	tempUlHtml += "<li><a target=\"_blank\" href="+item.LinkUrl+" >"+item.Title+"</a></li>";
+					}
+				} 
+				wrapper.find("div.block-1").append(tempFirstHtml + "<ul class='list-1 list-border'>"+tempUlHtml+"</ul>");
+				wrapper.show();
+			}
+          }
+        });
+    },
+    getData: function(api, callback) {
+      $.ajax({
+        url: api,
+        type: "GET",
+        dataType: "json",
+        success: function(e) {
+            callback(1, e);
+        },
+        error: function(e) {
+        	callback(0, e);
+        }
+      });
+    }
+  };
+</script><div style="/* clear:both; */padding-top: 87px;margin-bottom:-86px;text-align: center;">
+<script type="text/javascript" language="javascript" src="http://s.tuoitre.vn/DominoX/tracking.ashx?action=5b47bde3-cfa0-4991-9bc7-eec7afa5c06e&ext=ca01ba37-8265-47ab-a3b4-cd1fe2a8037a"></script>
+</div>        <section class="main gettop">
+        <section class="content">
+            <div class="left-side">
+                	
+	
+		<ul class="breadcrumb" alt ="ct_diaoc">
+					<li class="active" >
+				<a href="/">Bất động sản</a>
+			</li>
+				</ul>
+
+			
+						<div class="block-feature">
+				<a class="img_490_276" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-thao-quy-hoach-lang-dai-hoc-tren-400m2-moi-duoc-tach-thua/1282193.html">
+					<img src="http://static.new.tuoitre.vn/tto/i/s490/2017/03/17/img-3877-1489757992.jpg"alt="Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa"/>				</a>
+				<!-- <span class="date">17/03/2017 20:43</span> -->
+				<h1 class="title-2">
+					<a class="title-2" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-thao-quy-hoach-lang-dai-hoc-tren-400m2-moi-duoc-tach-thua/1282193.html">
+						Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa																								</a>
+					<!-- <span class="btn-view">13</span> -->
+				</h1>
+				<p>TTO - Ngày 17-3, UBMTTQ TPHCM cùng Sở Quy hoạch kiến trúc đã tổ chức hội nghị phản biện xã hội đối với dự thảo Quy chế quản lý quy hoạch kiến trúc đô thị đối với khu biệt thự Làng Đại học Thủ Đức (P. Bình Thọ, Q. Thủ Đức).</p>
+			</div>
+
+						<ul class="list-news">
+								<li>
+					<a class="img_160_90" href="http://tuoitre.vn/tin/kinh-te/20170317/yeu-cau-du-an-central-coast-bo-sung-ngay-giay-phep/1282097.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/anh-4-1-1489742734.jpg"alt="​Yêu cầu dự án Central Coast bổ sung ngay giấy phép"/>					</a>
+					<h4>
+						<a  href="http://tuoitre.vn/tin/kinh-te/20170317/yeu-cau-du-an-central-coast-bo-sung-ngay-giay-phep/1282097.html">
+							​Yêu cầu dự án Central Coast bổ sung ngay giấy phép															<span class="i-comments"><i class="fa fa-comments"></i> 4</span> 													</a>
+					</h4>
+				</li>
+								<li>
+					<a class="img_160_90" href="http://batdongsan.tuoitre.vn/tin/20170316/dong-nai-dat-nhon-trach-im-ang-trang-bom-soi-dong/1281350.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/16/nha-dat-dong-nai-1489645820.jpg"alt="Đồng Nai: Đất Nhơn Trạch im ắng, Trảng Bom sôi động"/>					</a>
+					<h4>
+						<a  href="http://batdongsan.tuoitre.vn/tin/20170316/dong-nai-dat-nhon-trach-im-ang-trang-bom-soi-dong/1281350.html">
+							Đồng Nai: Đất Nhơn Trạch im ắng, Trảng Bom sôi động																												</a>
+					</h4>
+				</li>
+								<li>
+					<a class="img_160_90" href="http://batdongsan.tuoitre.vn/tin/20170314/bat-dong-san-khu-cong-nghiep-can-chinh-sach-dai/1280114.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/14/bat-dong-san-khu-cong-nghiep-1489483093.jpg"alt="Bất động sản khu công nghiệp: Cần chính sách dài"/>					</a>
+					<h4>
+						<a  href="http://batdongsan.tuoitre.vn/tin/20170314/bat-dong-san-khu-cong-nghiep-can-chinh-sach-dai/1280114.html">
+							Bất động sản khu công nghiệp: Cần chính sách dài																												</a>
+					</h4>
+				</li>
+							</ul>
+			
+		
+	    <div class="highlight">
+        <h2 class="clearfix">
+            <ul class="list-t tabdrop-wrapper">
+                <li><a href="http://batdongsan.tuoitre.vn">Bất động sản</a></li>
+                <li><a href="http://batdongsan.tuoitre.vn/tin/tin-thi-truong"> Tin thị trường</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/quy-hoach-chinh-sach">Quy hoạch - Chính sách</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/dau-tu">Đầu tư</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/the-gioi">Thế giới</a></li>            </ul>
+        </h2>
+
+        <div class="block-left">
+                        <h3>
+                <a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-thao-quy-hoach-lang-dai-hoc-tren-400m2-moi-duoc-tach-thua/1282193.html"
+                   title="Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa">
+                    Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa                                                                                </a>
+            </h3>
+            <a class="img_146_82"
+               href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-thao-quy-hoach-lang-dai-hoc-tren-400m2-moi-duoc-tach-thua/1282193.html"
+               title="Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa">
+                <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/17/img-3877-1489757992.jpg"alt="Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa"/>            </a>
+
+            <p>TTO - Ngày 17-3, UBMTTQ TPHCM cùng Sở Quy hoạch kiến trúc đã tổ chức hội nghị phản biện xã hội đối với dự thảo Quy chế quản lý quy hoạch kiến trúc đô thị đối với khu biệt thự Làng Đại học Thủ Đức (P. Bình Thọ, Q. Thủ Đức).</p>
+                                            <ul class="list-1">
+                    <li>
+                        <a href="http://tuoitre.vn/tin/kinh-te/20170317/yeu-cau-du-an-central-coast-bo-sung-ngay-giay-phep/1282097.html"
+                           title="​Yêu cầu dự án Central Coast bổ sung ngay giấy phép">
+                            ​Yêu cầu dự án Central Coast bổ sung ngay giấy phép                                                            <span class="i-comments"><i class="fa fa-comments"></i> 4</span>                                                     </a>
+                    </li>
+                </ul>
+                    </div>
+                    <div class="block-right">
+                <ul class="list-1 list-border">
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/20170316/dong-nai-dat-nhon-trach-im-ang-trang-bom-soi-dong/1281350.html"
+                               title="Đồng Nai: Đất Nhơn Trạch im ắng, Trảng Bom sôi động">
+                                Đồng Nai: Đất Nhơn Trạch im ắng, Trảng Bom sôi động                                                                                                                                </a>
+                        </li>
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/20170314/bat-dong-san-khu-cong-nghiep-can-chinh-sach-dai/1280114.html"
+                               title="Bất động sản khu công nghiệp: Cần chính sách dài">
+                                Bất động sản khu công nghiệp: Cần chính sách dài                                                                                                                                </a>
+                        </li>
+                                            <li>
+                            <a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170314/dan-that-vong-nhat-voi-thu-tuc-cap-quyen-su-dung-dat/1279997.html"
+                               title="Dân thất vọng nhất với thủ tục cấp quyền sử dụng đất">
+                                Dân thất vọng nhất với thủ tục cấp quyền sử dụng đất                                                                    <span class="i-comments"><i class="fa fa-comments"></i> 3</span>                                                             </a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+    <div class="highlight">
+        <h2 class="clearfix">
+            <ul class="list-t tabdrop-wrapper">
+                <li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung">Xây dựng</a></li>
+                <li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung/thong-tin">Thông tin</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung/vat-lieu">Vật liệu</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung/giai-phap">Giải pháp</a></li>            </ul>
+        </h2>
+
+        <div class="block-left">
+                        <h3>
+                <a href="http://batdongsan.tuoitre.vn/tin/xay-dung/20170310/mai-nha-va-nhung-thay-doi-trong-xu-huong-thiet-ke/1277948.html"
+                   title="Mái nhà và những thay đổi trong xu hướng thiết kế">
+                    Mái nhà và những thay đổi trong xu hướng thiết kế                                                                                </a>
+            </h3>
+            <a class="img_146_82"
+               href="http://batdongsan.tuoitre.vn/tin/xay-dung/20170310/mai-nha-va-nhung-thay-doi-trong-xu-huong-thiet-ke/1277948.html"
+               title="Mái nhà và những thay đổi trong xu hướng thiết kế">
+                <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/10/mai-nha-1489120729.jpg"alt="Mái nhà và những thay đổi trong xu hướng thiết kế"/>            </a>
+
+            <p>Mái nhà là một phần rất quan trọng để tạo vẻ đẹp hoàn chỉnh cho ngôi nhà. Mái nhà không chỉ có tác dụng che mưa che nắng mà còn làm tăng thêm sự kiên cố cho ngôi nhà của bạn. </p>
+                                            <ul class="list-1">
+                    <li>
+                        <a href="http://batdongsan.tuoitre.vn/tin/xay-dung/20170307/cach-chon-mau-son-cho-nha-sang-sang/1276232.html"
+                           title="Cách chọn màu sơn cho nhà sang, sáng">
+                            Cách chọn màu sơn cho nhà sang, sáng                                                                                                                </a>
+                    </li>
+                </ul>
+                    </div>
+                    <div class="block-right">
+                <ul class="list-1 list-border">
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/xay-dung/20170304/dung-go-xay-dung-co-so-nang-luong-tai-tao/1274684.html"
+                               title="Dùng gỗ xây dựng cơ sở năng lượng tái tạo">
+                                Dùng gỗ xây dựng cơ sở năng lượng tái tạo                                                                                                                                </a>
+                        </li>
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/xay-dung/20170304/cach-khac-phuc-loi-thuong-gap-khi-xai-kinh-cuong-luc/1273940.html"
+                               title="Cách khắc phục lỗi thường gặp khi xài kính cường lực">
+                                Cách khắc phục lỗi thường gặp khi xài kính cường lực                                                                                                                                </a>
+                        </li>
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/xay-dung/20170225/luu-y-quan-trong-khi-chong-tham-nha/1270613.html"
+                               title="Lưu ý quan trọng khi chống thấm nhà">
+                                Lưu ý quan trọng khi chống thấm nhà                                                                                                                                </a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+    <div class="highlight">
+        <h2 class="clearfix">
+            <ul class="list-t tabdrop-wrapper">
+                <li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep">Kiến trúc nhà đẹp</a></li>
+                <li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/kien-truc">Kiến trúc</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/noi-ngoai-that">Nội ngoại thất</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/khong-gian-song">Không gian sống</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/xu-huong-moi">Xu hướng mới</a></li>            </ul>
+        </h2>
+
+        <div class="block-left">
+                        <h3>
+                <a href="http://batdongsan.tuoitre.vn/tin/20170311/lung-linh-nha-go-cua-cap-vo-chong-tre-gay-sot/1278542.html"
+                   title="Lung linh nhà gỗ của cặp vợ chồng trẻ gây sốt  ">
+                    Lung linh nhà gỗ của cặp vợ chồng trẻ gây sốt                                              <span class="i-photos"><i class="fa fa-picture-o"></i></span>                                     </a>
+            </h3>
+            <a class="img_146_82"
+               href="http://batdongsan.tuoitre.vn/tin/20170311/lung-linh-nha-go-cua-cap-vo-chong-tre-gay-sot/1278542.html"
+               title="Lung linh nhà gỗ của cặp vợ chồng trẻ gây sốt  ">
+                <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/11/nha-khung-go-1489204793.jpg"alt="Lung linh nhà gỗ của cặp vợ chồng trẻ gây sốt  "/>            </a>
+
+            <p>Với kiến trúc tinh tế, gần gũi với thiên nhiên, ngôi nhà vốn chỉ dành cho các kỳ nghỉ này khiến chủ nhân yêu thích đến mức muốn biến nó trở thành nơi ở lâu dài.</p>
+                                            <ul class="list-1">
+                    <li>
+                        <a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/20170308/kham-pha-can-ho-3-trong-1-doc-dao-o-hungary/1276670.html"
+                           title="Khám phá căn hộ &#039;3 trong 1&#039; độc đáo ở Hungary">
+                            Khám phá căn hộ '3 trong 1' độc đáo ở Hungary                                                                                                                </a>
+                    </li>
+                </ul>
+                    </div>
+                    <div class="block-right">
+                <ul class="list-1 list-border">
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/khong-gian-song/20170307/doc-dao-khach-san-kim-tu-thap-lam-tu-container-cu/1276139.html"
+                               title="Độc đáo khách sạn &#039;kim tự tháp&#039; làm từ container cũ ">
+                                Độc đáo khách sạn 'kim tự tháp' làm từ container cũ                                                                     <span class="i-photos"><i class="fa fa-picture-o"></i></span>                                                             </a>
+                        </li>
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/20170225/kham-pha-toa-nha-1000-cay-xanh-o-lisbon-bo-dao-nha/1270625.html"
+                               title="Khám phá tòa nhà 1.000 cây xanh ở Lisbon, Bồ Đào Nha">
+                                Khám phá tòa nhà 1.000 cây xanh ở Lisbon, Bồ Đào Nha                                                                    <span class="i-photos"><i class="fa fa-picture-o"></i></span>                                                             </a>
+                        </li>
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep/20170223/ngam-nha-da-o-mien-que-mexico/1268896.html"
+                               title="Ngắm &quot;nhà đá&quot; ở miền quê Mexico">
+                                Ngắm "nhà đá" ở miền quê Mexico                                                                    <span class="i-photos"><i class="fa fa-picture-o"></i></span>                                                             </a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+    <div class="highlight">
+        <h2 class="clearfix">
+            <ul class="list-t tabdrop-wrapper">
+                <li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy">Phong thủy</a></li>
+                <li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/nha-o">Nhà ở</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/van-phong">Văn phòng</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/tuoi-tac">Tuổi tác</a></li>            </ul>
+        </h2>
+
+        <div class="block-left">
+                        <h3>
+                <a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/20170315/phong-thuy-cua-so-mat-than-giup-chu-nha-gap-quy-nhan/1280603.html"
+                   title="Phong thủy cửa sổ: &#039;mắt thần&#039; giúp chủ nhà gặp quý nhân">
+                    Phong thủy cửa sổ: 'mắt thần' giúp chủ nhà gặp quý nhân                                            <span class="i-photos"><i class="fa fa-picture-o"></i></span>                                     </a>
+            </h3>
+            <a class="img_146_82"
+               href="http://batdongsan.tuoitre.vn/tin/phong-thuy/20170315/phong-thuy-cua-so-mat-than-giup-chu-nha-gap-quy-nhan/1280603.html"
+               title="Phong thủy cửa sổ: &#039;mắt thần&#039; giúp chủ nhà gặp quý nhân">
+                <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/15/cua-so-1489557903.jpg"alt="Phong thủy cửa sổ: &amp;#039;mắt thần&amp;#039; giúp chủ nhà gặp quý nhân"/>            </a>
+
+            <p>TTO - Cửa sổ được ví von như 'cặp mắt thần' cho ngôi nhà của bạn, đóng vai trò quan trọng trong phong thủy toàn ngôi nhà và giảm chi phí năng lượng. </p>
+                                            <ul class="list-1">
+                    <li>
+                        <a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/20170315/cach-dat-thac-nuoc-hon-non-bo-dung-phong-thuy/1280600.html"
+                           title="Cách đặt thác nước hòn non bộ đúng phong thủy">
+                            Cách đặt thác nước hòn non bộ đúng phong thủy                                                                                                                </a>
+                    </li>
+                </ul>
+                    </div>
+                    <div class="block-right">
+                <ul class="list-1 list-border">
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/20170311/nha-tren-dat-meo-va-nhung-luu-y-ve-phong-thuy/1278533.html"
+                               title="Nhà trên đất méo và những lưu ý về phong thủy ">
+                                Nhà trên đất méo và những lưu ý về phong thủy                                                                                                                                 </a>
+                        </li>
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/20170308/phong-thuy-phong-ngu-cho-nguoi-doc-than/1276661.html"
+                               title="Phong thủy phòng ngủ cho người độc thân">
+                                Phong thủy phòng ngủ cho người độc thân                                                                                                                                </a>
+                        </li>
+                                            <li>
+                            <a href="http://batdongsan.tuoitre.vn/tin/phong-thuy/20170304/hai-nguyen-tac-bai-tri-bancong-pho-bien/1274690.html"
+                               title="Hai nguyên tắc bài trí bancông phổ biến">
+                                Hai nguyên tắc bài trí bancông phổ biến                                                                                                                                </a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+    <div class="highlight">
+        <h2 class="clearfix">
+            <ul class="list-t tabdrop-wrapper">
+                <li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap">Tư vấn - Hỏi đáp</a></li>
+                <li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/xay-dung">Xây dựng</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/kien-truc">Kiến trúc</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/luat">Luật</a></li><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/hoi-dap">Hỏi đáp</a></li>            </ul>
+        </h2>
+
+        <div class="block-left">
+                        <h3>
+                <a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/20170208/500-trieu-co-du-nang-tam-nha-4x12m/1257565.html"
+                   title="500 triệu có đủ nâng tấm nhà 4x12m?">
+                    500 triệu có đủ nâng tấm nhà 4x12m?                                            <span class="i-comments"><i class="fa fa-comments"></i> 9</span> <span class="i-videos"><i class="fa fa-video-camera"></i></span>                                     </a>
+            </h3>
+            <a class="img_146_82"
+               href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap/20170208/500-trieu-co-du-nang-tam-nha-4x12m/1257565.html"
+               title="500 triệu có đủ nâng tấm nhà 4x12m?">
+                <img src="http://static.new.tuoitre.vn/tto/i/s146/2017/02/08/sua-nha-1486525371.jpg"alt="500 triệu có đủ nâng tấm nhà 4x12m?"/>            </a>
+
+            <p>TTO - * Tôi có căn nhà ở quận Gò Vấp, TP.HCM, diện tích 4x12m. Nhà xây kiên cố gồm một trệt một lầu mái tôn. Hiện tôi muốn cải tạo, sửa chữa nhà thành một trệt hai lầu và có sân thượng.</p>
+                    </div>
+            </div>
+            </div>
+            <div class="right-side">
+                			
+						<div class="block-1">
+								<a class="img_160_90_1" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-thao-quy-hoach-lang-dai-hoc-tren-400m2-moi-duoc-tach-thua/1282193.html">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/img-3877-1489757992.jpg"alt="Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa"/>				</a>
+								<h4>
+					<a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-thao-quy-hoach-lang-dai-hoc-tren-400m2-moi-duoc-tach-thua/1282193.html">
+						Dự thảo quy hoạch Làng Đại học: trên 400m2 mới được tách thửa																								</a>
+				</h4>
+			</div>
+						<div class="scroll-pane" style="">
+				<ul class="list-1 list-border">
+									<li>
+						<a href="http://tuoitre.vn/tin/kinh-te/20170317/yeu-cau-du-an-central-coast-bo-sung-ngay-giay-phep/1282097.html">
+							​Yêu cầu dự án Central Coast bổ sung ngay giấy phép															<span class="i-comments"><i class="fa fa-comments"></i> 4</span> 													</a>
+					</li>
+														<li>
+						<a href="http://tuoitre.vn/tin/kinh-te/20170317/khach-san-khung-xay-khong-phep/1281620.html">
+							Khách sạn “khủng” xây không phép															<span class="i-comments"><i class="fa fa-comments"></i> 67</span> 													</a>
+					</li>
+														<li>
+						<a href="http://batdongsan.tuoitre.vn/tin/20170316/dong-nai-dat-nhon-trach-im-ang-trang-bom-soi-dong/1281350.html">
+							Đồng Nai: Đất Nhơn Trạch im ắng, Trảng Bom sôi động																												</a>
+					</li>
+														<li>
+						<a href="http://batdongsan.tuoitre.vn/tin/20170316/river-city-chinh-thuc-mo-ban-block-the-marina/1280792.html">
+							​River City chính thức mở bán block The Marina																												</a>
+					</li>
+														<li>
+						<a href="http://batdongsan.tuoitre.vn/tin/20170315/ha-noi-huy-quyet-dinh-thu-hoi-dat-ngay-khu-chung-cu/1280534.html">
+							Hà Nội hủy quyết định “thu hồi đất” ngay khu chung cư																												</a>
+					</li>
+														<li>
+						<a href="http://batdongsan.com.vn/tin-thi-truong/ha-noi-biet-thu-cat-lo-6-ty-can-ho-mat-gia-tram-trieu-ar83847">
+							Hà Nội: Biệt thự cắt lỗ, căn hộ mất giá  																												</a>
+					</li>
+														<li>
+						<a href="http://batdongsan.com.vn/tin-thi-truong/tung-tin-huyen-len-quan-dat-vung-ven-sai-gon-tang-manh-ar83817">
+							Huyện lên quận, đất vùng ven TP.HCM tăng mạnh  																												</a>
+					</li>
+														<li>
+						<a href="http://batdongsan.com.vn/tin-thi-truong/thang-3-cuoc-dua-thi-phan-bds-bat-dau-vao-guong-ar83856">
+							Tháng 3, cuộc đua thị phần BĐS bắt đầu vào guồng 																												</a>
+					</li>
+														<li>
+						<a href="http://batdongsan.tuoitre.vn/tin/20170314/bat-dong-san-khu-cong-nghiep-can-chinh-sach-dai/1280114.html">
+							Bất động sản khu công nghiệp: Cần chính sách dài																												</a>
+					</li>
+													</ul>
+			</div>
+						
+		
+	    
+        <!--Bottom full width -->
+        
+
+            <h2 class="title">Tiêu điểm</h2>
+
+                        <div class="block-1">
+                <a class="img_160_90_1" title="Năm 2017 chưa có bong bóng bất động sản"
+                   href="http://tuoitre.vn/tin/kinh-te/20161219/nam-2017-chua-co-bong-bong-bat-dong-san/1238626.html">
+                    <img src="http://static.new.tuoitre.vn/tto/i/s146/2016/12/19/bds1-jpg-1482120184.jpg"alt="Năm 2017 chưa có bong bóng bất động sản"/>                </a>
+                <h4>
+                    <a title="Năm 2017 chưa có bong bóng bất động sản"
+                       href="http://tuoitre.vn/tin/kinh-te/20161219/nam-2017-chua-co-bong-bong-bat-dong-san/1238626.html">
+                        Năm 2017 chưa có bong bóng bất động sản                                                    <span class="i-comments"><i class="fa fa-comments"></i> 5</span>                                             </a>
+                </h4>
+            </div>
+            <div class="scroll-pane scroll-pane-4">
+                <ul class="list-1">
+                                    </ul>
+            </div>
+
+
+
+            <!-- right category  -->
+            
+<script type="text/javascript">
+  $(document).ready(function(){
+  	BDSAPI.init("rao-vat", 4, 3, 1);
+  })
+</script>
+<div id="rao-vat" style="margin-top:18px;">
+  <h2 class="title">Nhà đất nổi bật</h2>
+  <div class="block-1"></div>
+</div>            </div>
+        </section>
+        <aside class="sidebar">
+            <!--bds search-->
+<iframe class="bds-iframe" style="overflow: hidden; border: 0; margin-bottom: 20px;" src="http://batdongsan.com.vn/SearchContextShare.aspx?utm_source=TuoiTre&utm_medium=Iframe&utm_campaign=BoxSearch" width="300" height="350"></iframe>
+
+<!--bds khu vuc quan tam-->  
+<style type="text/css">
+  ul.list-bds-1 img {height: 75px; width: 100%}  
+</style>
+<script type="text/javascript">
+  $(document).ready(function(){
+  	BDSAPI.init("khu-vu-duoc-quan-tam", 1, 1, 1);
+  })
+</script>
+<div class="block-bds" id="khu-vu-duoc-quan-tam">
+  <h2>
+    <a target=_blank href="http://batdongsan.com.vn/khu-vuc-duoc-quan-tam">Khu vực được quan tâm</a>
+    <a class="logo-bds-s" target=_blank href="http://batdongsan.com.vn"></a>
+  </h2>
+  <ul class="list-bds">
+    <span style="padding: 15px 0 0 10px; display: block;">Loading ...</span>
+  </ul>
+</div>
+
+<!--bds du an noi bat-->
+<script type="text/javascript">
+  $(document).ready(function(){
+    BDSAPI.init("du-an-noi-bat", 2, 1, 2);
+  })
+</script>
+<div class="block-bds" id="du-an-noi-bat">
+  <h2>
+    <a target=_blank href="http://batdongsan.com.vn/du-an-bat-dong-san">Dự án nổi bật</a>
+    <a class="logo-bds-s" target=_blank href="http://batdongsan.com.vn"></a>
+  </h2>
+  <ul class="list-bds-1">
+    <span style="padding: 15px 0 0 10px; display: block;">Loading ...</span>
+  </ul>
+</div><div id="Rgiht1" style="height: 253px;padding-bottom:2px;overflow: hidden;">
+  
+</div><div id="Rgiht2">
+  
+</div>        </aside>
+    </section>
+    <style type="text/css">
+  .tabs.tabs-bds .tab {position:relative}
+  .carousel-5 ul.slides>li>a img {height: 120px; width: 100%}
+  .tab-ul { overflow: hidden;}
+.tab-ul li { float: left;}
+.tab-ul li a { height: 30px; line-height: 30px; text-align: center; color:#333; background:#e7e6e5; display: block; width: 80px;}
+.tab-ul li.active a  { background:#fff; color:#0070be;}
+.tab-ul li a:hover { color:#0070be;}
+  .carousel-5 .flex-direction-nav a:before { font-size: 18px; line-height}
+</style>
+<script type="text/javascript">
+  $(document).ready(function(){
+    BDSAPI.init("du-an-list", 3, 2, 1);
+  })
+</script>
+<div class="tabs tabs-bds highlight-bds" style="display:none;" id="du-an-list" >
+  <ul class="tab-ul"></ul>
+  <div class="tab">
+    Đang tải dữ liệu ...
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    BDSAPI.init("video-list", 3, 2, 2);
+  })
+</script>
+<div class="tabs tabs-bds highlight-bds" style="display:none;" id="video-list">
+  <ul class="tab-ul"></ul>
+  <div class="tab">
+    Đang tải dữ liệu ...
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    BDSAPI.init("nha-dat-list", 3, 2, 3);
+  })
+</script>
+<div class="tabs tabs-bds highlight-bds" style="display:none;" id="nha-dat-list">
+  <ul class="tab-ul"></ul>
+  <div class="tab">
+    Đang tải dữ liệu ...
+  </div>
+</div>
+
+	
+		<!--Bottom full width -->
+		
+			<div class="highlight">
+			<h2 class="clearfix"><a >Chủ đề nóng</a> </h2>
+			<ul class="list-media list-media-1">
+							<li>
+					<a  title="Đình chỉ 3 thanh tra để làm rõ chuyện “cát tặc” ở Bắc Ninh" class="img_160_90" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/dinh-chi-3-thanh-tra-de-lam-ro-chuyen-cat-tac-o-bac-ninh/1282118.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/17/3-1489654427-1489749074.jpg"alt="Đình chỉ 3 thanh tra để làm rõ chuyện “cát tặc” ở Bắc Ninh"/>					</a>
+					<h4>
+						<a title="Đình chỉ 3 thanh tra để làm rõ chuyện “cát tặc” ở Bắc Ninh"  href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/dinh-chi-3-thanh-tra-de-lam-ro-chuyen-cat-tac-o-bac-ninh/1282118.html">
+							Đình chỉ 3 thanh tra để làm rõ chuyện “cát tặc” ở Bắc Ninh															<span class="i-comments"><i class="fa fa-comments"></i> 15</span> 													</a>
+					</h4>
+				</li>
+							<li>
+					<a  title="Bộ GTVT thống nhất tạm dừng nạo vét luồng trên sông Cầu" class="img_160_90" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/bo-gtvt-thong-nhat-tam-dung-nao-vet-luong-tren-song-cau/1282103.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/17/1-1489744208.jpg"alt="Bộ GTVT thống nhất tạm dừng nạo vét luồng trên sông Cầu"/>					</a>
+					<h4>
+						<a title="Bộ GTVT thống nhất tạm dừng nạo vét luồng trên sông Cầu"  href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/bo-gtvt-thong-nhat-tam-dung-nao-vet-luong-tren-song-cau/1282103.html">
+							Bộ GTVT thống nhất tạm dừng nạo vét luồng trên sông Cầu															<span class="i-comments"><i class="fa fa-comments"></i> 8</span> 													</a>
+					</h4>
+				</li>
+							<li>
+					<a  title="Hàng ngàn người lại chen chân mua hàng khuyến mãi" class="img_160_90" href="http://tuoitre.vn/tin/kinh-te/20170317/hang-ngan-nguoi-lai-chen-chan-mua-hang-khuyen-mai/1282067.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/17/8-jpg-1489740212.jpg"alt="Hàng ngàn người lại chen chân mua hàng khuyến mãi"/>					</a>
+					<h4>
+						<a title="Hàng ngàn người lại chen chân mua hàng khuyến mãi"  href="http://tuoitre.vn/tin/kinh-te/20170317/hang-ngan-nguoi-lai-chen-chan-mua-hang-khuyen-mai/1282067.html">
+							Hàng ngàn người lại chen chân mua hàng khuyến mãi															<span class="i-comments"><i class="fa fa-comments"></i> 21</span> <span class="i-photos"><i class="fa fa-picture-o"></i></span> 													</a>
+					</h4>
+				</li>
+							<li>
+					<a  title="Đoàn Thị Hương từng tập dượt trò 'xịt vào mặt' ở Campuchia?" class="img_160_90" href="http://tuoitre.vn/tin/the-gioi/20170317/doan-thi-huong-tung-tap-duot-tro-xit-vao-mat-o-campuchia/1282049.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/17/campuchia-ks-cambodia-daily-1489736946.jpg"alt="Đoàn Thị Hương từng tập dượt trò &#039;xịt vào mặt&#039; ở Campuchia?"/>					</a>
+					<h4>
+						<a title="Đoàn Thị Hương từng tập dượt trò 'xịt vào mặt' ở Campuchia?"  href="http://tuoitre.vn/tin/the-gioi/20170317/doan-thi-huong-tung-tap-duot-tro-xit-vao-mat-o-campuchia/1282049.html">
+							Đoàn Thị Hương từng tập dượt trò 'xịt vào mặt' ở Campuchia?															<span class="i-comments"><i class="fa fa-comments"></i> 10</span> 													</a>
+					</h4>
+				</li>
+							<li>
+					<a  title="Dự kiến lương hưu, trợ cấp BHXH tăng 7,4% từ 1-7-2017" class="img_160_90" href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-kien-luong-huu-tro-cap-bhxh-tang-74-tu-172017/1282055.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s146/2017/03/17/dd0dd159-1489737740.jpg"alt="Dự kiến lương hưu, trợ cấp BHXH tăng 7,4% từ 1-7-2017"/>					</a>
+					<h4>
+						<a title="Dự kiến lương hưu, trợ cấp BHXH tăng 7,4% từ 1-7-2017"  href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20170317/du-kien-luong-huu-tro-cap-bhxh-tang-74-tu-172017/1282055.html">
+							Dự kiến lương hưu, trợ cấp BHXH tăng 7,4% từ 1-7-2017															<span class="i-comments"><i class="fa fa-comments"></i> 6</span> 													</a>
+					</h4>
+				</li>
+							<li>
+					<a  title="Mua thiết bị y tế 5,6 tỉ, kê lên 16,7 tỉ đồng" class="img_160_90" href="http://tuoitre.vn/tin/song-khoe/20170317/mua-thiet-bi-y-te-56-ti-ke-len-167-ti-dong/1281719.html">
+						<img src="http://static.new.tuoitre.vn/tto/i/s146/2016/12/27/tien1-1482813659.jpg"alt="Mua thiết bị y tế 5,6 tỉ, kê lên 16,7 tỉ đồng"/>					</a>
+					<h4>
+						<a title="Mua thiết bị y tế 5,6 tỉ, kê lên 16,7 tỉ đồng"  href="http://tuoitre.vn/tin/song-khoe/20170317/mua-thiet-bi-y-te-56-ti-ke-len-167-ti-dong/1281719.html">
+							Mua thiết bị y tế 5,6 tỉ, kê lên 16,7 tỉ đồng															<span class="i-comments"><i class="fa fa-comments"></i> 154</span> 													</a>
+					</h4>
+				</li>
+						</ul>
+		</div>
+
+		<!-- One column: Text left - Image right -->
+			
+<div class="block-qc-bds">
+  <a class="logo-tto" href="http://tuoitre.vn"><img alt="" src="http://static.new.tuoitre.vn/tto/r/2015/08/05/logo-footer-1438767646.png"></a>
+  <a class="logo-bgs" target=_blank href="http://batdongsan.com.vn" target="_blank"><img alt="" src="http://static.new.tuoitre.vn/tto/r/2015/08/05/logo-bds-1438767637.png"></a>
+  <div class="">
+    <p>Chuyên trang Bất động sản <br>do Báo tuổi Trẻ hợp tác cùng Batdongsan.com.VN Thực hiện</p>
+    <p>
+      <span>Hotline: <a href="tel:(08) 3997 1010">(08) 3997 1010</a></span>
+      <span>Email: <a href="mailto:diaoc@tuoitre.com.vn">diaoc@tuoitre.com.vn</a> - <a href="mailto:batdongsan@tuoitre.com.vn">batdongsan@tuoitre.com.vn</a></span>
+    </p>
+  </div>
+</div><div id="Baronet"></div><div>
+  <script type="text/javascript" src="http://s.tuoitre.vn/DominoX/tracking.ashx?action=5b47bde3-cfa0-4991-9bc7-eec7afa5c06e&ext=fff4ce74-30df-4acb-bd09-c0e1da34211a&lp=topad,Rgiht1,Rgiht2,Rgiht3,Rgiht4,Baronet,Bottom,WideSky0,WideSky1,BottomArticle,Center728,Sky130Home,Right300x80,"></script>
+</div>    <footer class="footer">
+	<ul class="top-footer">
+		<li><a href="http://tuoitrenews.vn" target="_blank" title="Tuổi Trẻ News ">Tuổi Trẻ News </a></li>
+		<li><a href="http://cuoituan.tuoitre.vn/" target="_blank" title="Tuổi Trẻ Cuối Tuần">Tuổi Trẻ Cuối Tuần </a></li>
+		<li><a href="http://tv.tuoitre.vn" target="_blank" title="Tuổi trẻ TV">Tuổi trẻ TV</a></li>
+		<!-- <li><a href="http://tuoitre.vn/Ao-trang" target="_blank" title="Áo Trắng">Áo Trắng</a></li> -->
+		<li><a href="http://tusach.tuoitre.vn" target="_blank" title="Tủ Sách Tuổi Trẻ">Tủ Sách Tuổi Trẻ</a></li>
+
+		<li class="float-r"><a class="btn-send" href="http://tuoitre.vn/trang/lien-he" title="Gửi bài về Toà soạn">Gửi bài về Toà soạn</a></li>
+		<!-- <li class="float-r"><a class="btn-set" href="http://pay.tuoitre.vn/dat-bao" target="_blank" title="Đặt báo Online">Đặt báo Online</a></li> -->
+		<li class="float-r">
+			<a target="_blank" class="btn-android" href="https://play.google.com/store/apps/details?id=vn.tuoitre.app" title=""><img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/btn-android.jpg"></a>
+			<a target="_blank" class="btn-ios" href="https://itunes.apple.com/us/app/tuoi-tre-online/id974433568?l=vi&ls=1&mt=8" title=""><img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/btn-ios.jpg"></a>
+		</li>
+	</ul>
+	<ul class="list-link">
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" title="Chính trị - Xã hội">Chính trị - Xã hội</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi" title="Thời sự - Suy nghĩ">Thời sự - Suy nghĩ</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su" title="Phóng sự - Ký sự">Phóng sự - Ký sự</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong" title="Môi trường">Môi trường</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay" title="Chuyện thường ngày">Chuyện thường ngày</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/tieu-diem" title="Chuyện thường ngày">Tiêu điểm</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/the-gioi" title="Thế giới">Thế giới</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan" title="Quan sát – Bình luận">Quan sát – Bình luận</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau" title="Thế giới muôn màu">Thế giới muôn màu</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/nguoi-viet-nam-chau" title="Người Việt năm châu">Người Việt năm châu</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/ho-so" title="Hồ sơ">Hồ sơ</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/the-gioi/goc-anh" title="Góc ảnh">Góc ảnh</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/giao-duc" title="Giáo dục">Giáo dục</a></dt>
+				<dd><a href="http://tuyensinh.tuoitre.vn" title="Tuyển sinh">Tuyển sinh</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/du-hoc" title="Du học">Du học</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc" title="Khoa học">Khoa học</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc" title="Câu chuyện giáo dục">Câu chuyện giáo dục</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc" title="Giáo dục các nước">Giáo dục các nước</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/nhip-song-tre" title="Nhịp sống trẻ">Nhịp sống trẻ</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu" title="Sống & Yêu">Sống & Yêu</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam" title="Cơ hội việc làm">Cơ hội việc làm</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online" title="Nhịp sống online">Nhịp sống online</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim" title="Bắc nhịp trái tim">Bắc nhịp trái tim</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://dulich.tuoitre.vn" title="Du lịch">Du lịch</a></dt>
+				<dd><a href="http://dulich.tuoitre.vn/tin/nhung-mien-dat-la" title="Những miền đất lạ">Những miền đất lạ</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/trai-nghiem-kham-pha" title="Trải nghiệm - Khám phá">Trải nghiệm - Khám phá</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/am-thuc" title="Ẩm thực">Ẩm thực</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/van-hoa" title="Văn hoá">Văn hoá</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/tin/goc-anh-lu-hanh" title="Góc ảnh lữ hành">Góc ảnh lữ hành</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a target="_blank" href="http://tuoitre.vn/tin/media" title="Media">Media</a></dt>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/media/video" title="Video">Video</a></dd>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/media/photo" title="Video">Photo</a></dd>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/media/audio" title="Video">Audio</a></dd>
+				<dd><a target="_blank" href="http://tuoitre.vn/tin/goc-anh" title="Video">Góc Ảnh</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://nhipsongso.tuoitre.vn" title="Nhịp sống số">Nhịp sống số</a></dt>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai" title="Điện thoại">Điện thoại</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so" title="Thiết bị số">Thiết bị số</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/blog" title="Blog">Blog</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc" title="Thủ thuật - Kiến thức">Thủ thuật - Kiến thức</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung" title="Tư vấn tiêu dùng">Tư vấn tiêu dùng</a></dd>
+				<dd><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau" title="Nhịp cầu">Nhịp cầu</a></dd>
+
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế">Kinh tế</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/thi-truong" title="Thị trường">Thị trường</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh" title="Tài chính">Tài chính</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan" title="Doanh nhân">Doanh nhân</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe" title="Thế giới xe">Thế giới xe</a></dd>
+				<dd><a href="http://batdongsan.tuoitre.vn" title="Bất động sản">Bất động sản</a></dd>
+				<dd><a href="http://dulich.tuoitre.vn/" title="Du lịch">Du lịch</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a target="_blank" href="http://thethao.tuoitre.vn/" title="Thể thao">Thể thao</a></dt>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/bong-da" title="Bóng đá">Bóng đá</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/quan-vot" title="Quần vợt">Quần vợt</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/cac-mon-khac" title="Các môn khác">Các môn khác</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao" title="Sức khỏe thể thao">Sức khỏe thể thao</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song" title="Thể thao và Cuộc sống">Thể thao và Cuộc sống</a></dd>
+				<dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/hau-truong" title="Hậu trường">Hậu trường</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/song-khoe" title="Sống khoẻ">Sống khoẻ</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online" title="Phòng mạch Online">Phòng mạch Online</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/me-va-be" title="Mẹ & Bé">Mẹ & Bé</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh" title="Giới tính">Giới tính</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon" title="Tư vấn hiếm muộn">Tư vấn hiếm muộn</a></dd>
+				<!-- <dd><a href="" title="Blog bác sĩ">Blog bác sĩ</a></dd> -->
+			</dl>
+
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/van-hoa-giai-tri" title="Văn hoá - Giải trí">Văn hoá - Giải trí</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac" title="Âm nhạc">Âm nhạc</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh" title="Điện ảnh">Điện ảnh</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/thoi-trang" title="Thời trang">Thời trang</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh" title="Truyền hình">Truyền hình</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/hau-truong" title="Hậu trường">Hậu trường</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/van-hoc-sach" title="Văn học - Sách">Văn học - Sách</a></dd>
+			</dl>
+		</li>
+		<li>
+			<dl>
+				<dt><a href="http://tuoitre.vn/tin/phap-luat" title="Pháp luật">Pháp luật</a></dt>
+				<dd><a href="http://tuoitre.vn/tin/phap-luat/tu-van" title="Tư vấn">Tư vấn</a></dd>
+				<dd><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh" title="Ký sự pháp đình">Ký sự pháp đình</a></dd>
+			</dl>
+			<dl class="noPadding">
+				<dt><a href="http://tuoitre.vn/tin/ban-doc" title="Bạn đọc">Bạn đọc</a></dt>
+			</dl>
+			<dl class="noPadding">
+				<dt><a target="_blank" href="http://cohoi.tuoitre.vn" title="Cơ hội mua sắm">Cơ hội mua sắm</a></dt>
+			</dl>
+			<dl class="noPadding">
+				<dt><a href="http://tuoitre.vn/tin/can-biet" title="Cần biết">Cần biết</a></dt>
+			</dl>
+		</li>
+
+	</ul>
+	<div class="bottom-footer">
+		<a class="logo-footer" href="" title="logo"><img  alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/logo-footer.png" /></a>
+		<p class="float-l">
+			<strong>© Copyright 2017 TUOITRE.VN</strong>, All rights reserved <br/>
+			® Tuổi Trẻ Online giữ bản quyền nội dung trên website này.
+		</p>
+		<p class="float-r">
+			<a href="http://tuoitre.vn/tin/thong-tin-toa-soan" title="Thông tin Tòa soạn">Thông tin Tòa soạn</a> -
+			<a target="_blank" href="http://www.thanhdoan.hochiminhcity.gov.vn/thanhdoan/webtd" title="Thông tin Thành Đoàn">Thông tin Thành Đoàn</a> -
+			<a target="_blank" href=" http://thitruong.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a> <br/>
+			<span>Đường dây nóng: <strong>0918.033.133</strong> - Liên hệ Quảng cáo: <strong>083.997.4848</strong></span>
+		</p>
+	</div>
+</footer>
+<div class="wrapPopup" id="setHome">
+	<div class="popup">
+		<div class="centerPopup">
+			<section>
+				<header>
+					<h1>Đặt Tuoitre.vn làm trang chủ</h1>
+					<a href="javascript:void(0);" title="Đóng" class="closepp" onclick="closePopup('setHome')"></a>
+				</header>
+				<div class="content">
+					<img alt="" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/images/img-chrome.jpg">
+				</div>
+			</section>
+		</div>
+	</div>
+</div>
+
+<ul class="list-appmobile">
+	<li><a href="https://play.google.com/store/apps/details?id=vn.tuoitre.app" target="_blank" title=""><i class="fa fa-android"></i> <span>Ứng dụng Android</span></a></li>
+	<li><a href="https://itunes.apple.com/us/app/tuoi-tre-online/id974433568?l=vi&ls=1&mt=8" target="_blank" title=""><i class="fa fa-apple"></i> <span>Ứng dụng IOS</span></a></li>
+</ul>
+<a class="btn-top" href="javascript:void(0);" title="Top"> <span>Về đầu trang</span></a>
+    <ul class="list-chuyenmuc"><li><a href="http://batdongsan.tuoitre.vn" />Bất động sản</a><li><a href="http://batdongsan.tuoitre.vn/tin/xay-dung" />Xây dựng</a><li><a href="http://batdongsan.tuoitre.vn/tin/kien-truc-nha-dep" />Kiến trúc nhà đẹp</a><li><a href="http://batdongsan.tuoitre.vn/tin/phong-thuy" />Phong thủy</a><li><a href="http://batdongsan.tuoitre.vn/tin/tu-van-hoi-dap" />Tư vấn - Hỏi đáp</a></ul></div>
+<a class="btn-top" href="javascript:void(0);" title="Top">Top</a>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MD25GD"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MD25GD');</script>
+<script type="text/javascript" src="http://s.tuoitre.vn/TripleX/getad.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.flexslider.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jscrollpane.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.fancybox-buttons.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/jquery.fancybox-thumbs.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/tabdrop.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/start.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/custom.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/c6f6b489v783/js/tttt.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+	
+    /*$(window).load(function(){
+        $('.sort-desc').click();        
+      });*/
+
+/*]]>*/
+</script>
+</body>

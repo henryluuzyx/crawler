@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trump: Triều Tiên đã 'giỡn mặt' Mỹ nhiều năm - Dân Việt
+</title><meta name="keywords" content="triều tiên,Bình Nhưỡng,ngoại giao,tên lửa đạn đạo,hàn quốc,tập trận,Mỹ,Trung Quốc,seoul,washington,hệ thống phòng thủ tên lửa,bắc kinh,Nhật Bản,cáo buộc,ngăn chặn,Mỹ Donald Trump,máy bay không người lái,Trump,quan ngại,Twitter,mạng xã hội" /><meta name="description" content="Tổng thống Mỹ Donald Trump đã cáo buộc Triều Tiên “giỡn mặt” Washington suốt nhiều năm." />
+<link rel="canonical" href="http://www.baomoi.com/trump-trieu-tien-da-gion-mat-my-nhieu-nam/c/21793326.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793326" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793326" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/the-gioi/trump-trieu-tien-da-gion-mat-my-nhieu-nam-754159.html");
+else
+window.location.replace("http://www.baomoi.com/trump-trieu-tien-da-gion-mat-my-nhieu-nam/c/21793326.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+HOẠT ĐỘNG CỦA LÃNH ĐẠO ĐẢNG, NHÀ NƯỚC - Nhân Dân
+</title><meta name="keywords" content="Đặng Thị Ngọc Thịnh,Bắc Kạn,biểu dương,chế biến,lãnh đạo,Tuyên Quang,quy hoạch,phát biểu,Bắc Giang,Thái Nguyên,Yên Bái,Phú Thọ,Hòa Bình,chỉ đạo,Trịnh Đình Dũng,quy hoạch phát triển,tái cấu trúc,kim ngạch xuất khẩu,thu mua,bảo vệ,Vinh" /><meta name="description" content="Sáng 17-3, tại tỉnh Bắc Cạn, Phó Chủ tịch nước Đặng Thị Ngọc Thịnh, Phó Chủ tịch thứ nhất Hội đồng Thi đua - Khen thưởng T.Ư dự hội nghị tổng kết công tác t..." />
+<link rel="canonical" href="http://www.baomoi.com/hoat-dong-cua-lanh-dao-dang-nha-nuoc/c/21792424.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792424" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792424" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/chinhtri/item/32341602-hoat-dong-cua-lanh-dao-dang-nha-nuoc.html");
+else
+window.location.replace("http://www.baomoi.com/hoat-dong-cua-lanh-dao-dang-nha-nuoc/c/21792424.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

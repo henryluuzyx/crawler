@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Nhật Bản diễn tập giả định tình huống Triều Tiên tấn công - Giao Thông
+</title><meta name="keywords" content="Lê Dũng,triều tiên,Mỹ,Nhật Bản,ban bố,diễn tập,tập trận,tên lửa đạn đạo,quân đội Nhật,thử nghiệm,trả đũa,đối phó,ghi nhận" /><meta name="description" content="Khi lệnh di tản người dân được ban bố, các cơ quan, lực lượng chức năng vào cuộc." />
+<link rel="canonical" href="http://www.baomoi.com/nhat-ban-dien-tap-gia-dinh-tinh-huong-trieu-tien-tan-cong/c/21791615.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21791615" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21791615" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/nhat-ban-dien-tap-gia-dinh-tinh-huong-trieu-tien-tan-cong-d192652.html");
+else
+window.location.replace("http://www.baomoi.com/nhat-ban-dien-tap-gia-dinh-tinh-huong-trieu-tien-tan-cong/c/21791615.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

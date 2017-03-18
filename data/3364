@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Công nghệ giáo dục cất cánh ở Đông Nam Á - NDH
+</title><meta name="keywords" content="vốn mạo hiểm,giáo dục đại học,châu á-thái bình dương,khởi nghiệp,cộng tác,tuyển sinh,tokyo,giáo dục,tốn kém,Đông Nam Á,indonesia,london,philippines,liên kết,smartphone,ước tính,online,website,dự đoán,Thái Lan,internet" /><meta name="description" content="Các dịch vụ kỹ thuật số có thể lấp đầy khoảng trống do thiếu giáo viên, trường học, tài liệu." />
+<link rel="canonical" href="http://www.baomoi.com/cong-nghe-giao-duc-cat-canh-o-dong-nam-a/c/21793301.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793301" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793301" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://ndh.vn/cong-nghe-giao-duc-cat-canh-o-dong-nam-a-20170313015915928p128c143.news");
+else
+window.location.replace("http://www.baomoi.com/cong-nghe-giao-duc-cat-canh-o-dong-nam-a/c/21793301.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

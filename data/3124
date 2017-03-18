@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mercedes-Maybach S 'giá rẻ' trình làng tại Việt Nam - VnMedia
+</title><meta name="keywords" content="Mercedes-Maybach S400,Mercedes-Maybach S500,magic Sky Control,Mercedes-Maybach S600,Mercedes-Benz Việt Nam,Maybach S600,3D,Hải Phong,điều chỉnh,trình làng,phân phối,Đức,ra mắt,việt nam" /><meta name="description" content="Mercedes-Benz Việt Nam vừa chính thức ra mắt bộ đôi Mercedes-Maybach S400 và Mercedes-Maybach S500 với giá khởi điểm từ 6,9 tỷ đồng. Trước đó, Maybach S600 ..." />
+<link rel="canonical" href="http://www.baomoi.com/mercedes-maybach-s-gia-re-trinh-lang-tai-viet-nam/c/21793380.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793380" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793380" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vnmedia.vn/oto-xe-may/201703/mercedes-maybach-s-gia-re-trinh-lang-tai-viet-nam-560565/");
+else
+window.location.replace("http://www.baomoi.com/mercedes-maybach-s-gia-re-trinh-lang-tai-viet-nam/c/21793380.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

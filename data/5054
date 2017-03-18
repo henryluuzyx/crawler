@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Trình diễn Vở ballet Hồ Thiên Nga tại Nhà hát lớn Hà Nội - Chính Phủ
+</title><meta name="keywords" content="balê,Marius Petipa,Lev Ivanov,nhà hát nhạc vũ kịch việt nam,Tchaikovsky,biên đạo múa,Minh Minh,người Nga,dàn dựng,sáng tác,trình diễn,internet,Hà Nội" /><meta name="description" content="Vào đêm 18 và 19/3, tại Nhà hát Lớn Hà Nội, vở ballet “Hồ Thiên nga” sẽ trở lại với khán giả Hà Nội qua màn biểu diễn của các nghệ sĩ Nhà hát Nhạc Vũ Kịch V..." />
+<link rel="canonical" href="http://www.baomoi.com/trinh-dien-vo-ballet-ho-thien-nga-tai-nha-hat-lon-ha-noi/c/21787939.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21787939" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21787939" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://baochinhphu.vn/van-hoa/trinh-dien-vo-ballet-ho-thien-nga-tai-nha-hat-lon-ha-noi/300958.vgp");
+else
+window.location.replace("http://www.baomoi.com/trinh-dien-vo-ballet-ho-thien-nga-tai-nha-hat-lon-ha-noi/c/21787939.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

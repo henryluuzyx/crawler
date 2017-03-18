@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những quán ăn có tiếng dành cho 'cú đêm' khi lang thang Hà Nội - Dân Việt
+</title><meta name="keywords" content="Hàng Đậu,pa tê,Hàng Cân,Hàng Bồ,Hàng Trống,hà thành,Hà Nội" /><meta name="description" content="Nếu lang thang Hà Nội về đêm, bạn nhớ &quot;nằm lòng&quot; những địa chỉ quán ăn này bởi đồ ăn ngon, mở tối muộn, thậm chí đến sáng." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-quan-an-co-tieng-danh-cho-cu-dem-khi-lang-thang-ha-noi/c/21782151.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21782151" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21782151" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/du-lich/nhung-quan-an-co-tieng-danh-cho-cu-dem-khi-lang-thang-ha-noi-753747.html");
+else
+window.location.replace("http://www.baomoi.com/nhung-quan-an-co-tieng-danh-cho-cu-dem-khi-lang-thang-ha-noi/c/21782151.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

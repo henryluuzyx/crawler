@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những pha chạy xe 'giỡn mặt' với tử thần của giới trẻ - VOV
+</title><meta name="keywords" content="đánh võng,Facebook Điệp Nguyễn,facbook Điệp Nguyễn,cầu vượt Lăng Cha Cả,Nguyễn Trang/VOV,Đường Cộng Hòa,Đường Trường Chinh,vạ lây,An Sương,quốc lộ 5,liều mạng,chia sẻ video,Tân Bình,phẫn nộ,vietnamnet,Hải Dương,video clip,vi-đê-ô,việt nam" /><meta name="description" content="Ngồi vắt vẻo một bên, bỏ hai tay, lạng lách, đánh võng khi điều khiển xe máy của những nam thanh niên khiến không ít người đi trên đường &quot;hết hồn&quot;." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-pha-chay-xe-gion-mat-voi-tu-than-cua-gioi-tre/c/21753445.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21753445" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21753445" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://vov.vn/tin-24h/nhung-pha-chay-xe-gion-mat-voi-tu-than-cua-gioi-tre-602358.vov");
+else
+window.location.replace("http://www.baomoi.com/nhung-pha-chay-xe-gion-mat-voi-tu-than-cua-gioi-tre/c/21753445.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

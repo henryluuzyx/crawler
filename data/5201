@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Quảng Bình: Kết nối tour hiện có với phim trường 'Kong: Skull Island' - Tổ Quốc
+</title><meta name="keywords" content="Skull Island,Quảng Bình,Thung Lũng Chà Nòi,kẻ bàng,tour,Minh Hóa,Tân Hóa,Động Thiên Đường,Đèo Đá Đẽo,hang động Tú Làn,Phong Nha,Hồ An Phong,Hang Tối,đoàn làm phim,sông Chày,Hồng Dương,Trung Hóa,Yên Phú,Thượng Hóa,Cát Bi,Chiang Mai" /><meta name="description" content="Ông Hồ An Phong – Giám đốc Sở Du lịch tỉnh Quảng Bình cho biết, ngành du lịch tỉnh này sẽ kết nối tour du lịch xung quanh hiện có để đưa du khách đến thăm p..." />
+<link rel="canonical" href="http://www.baomoi.com/quang-binh-ket-noi-tour-hien-co-voi-phim-truong-kong-skull-island/c/21792506.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792506" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792506" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://toquoc.vn/du-lich/quang-binh-ket-noi-tour-hien-co-voi-phim-truong-kong-skull-island-231859.html");
+else
+window.location.replace("http://www.baomoi.com/quang-binh-ket-noi-tour-hien-co-voi-phim-truong-kong-skull-island/c/21792506.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

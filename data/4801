@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Tổng thống Mỹ Trump ký nghị định tổ chức quyền hành pháp - Doanh Nghiệp
+</title><meta name="keywords" content="Sputnik,Mỹ Donald Trump,tranh cử,Trump,hành pháp,Mỹ,tổng thống Mỹ,Donald Trump,Nhà Trắng,washington" /><meta name="description" content="Tổng thống Donald Trump vừa ký một nghị định về việc tổ chức lại quyền hành pháp liên bang để gia tăng tính hiệu quả, thư ký báo chí của Nhà Trắng cho biết." />
+<link rel="canonical" href="http://www.baomoi.com/tong-thong-my-trump-ky-nghi-dinh-to-chuc-quyen-hanh-phap/c/21757909.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21757909" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21757909" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://doanhnghiepvn.vn/tong-thong-my-trump-ky-nghi-dinh-to-chuc-quyen-hanh-phap-d94340.html");
+else
+window.location.replace("http://www.baomoi.com/tong-thong-my-trump-ky-nghi-dinh-to-chuc-quyen-hanh-phap/c/21757909.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

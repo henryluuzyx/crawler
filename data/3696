@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bầu bổ sung Phó Chủ tịch Tổng Liên đoàn Lao động Việt Nam - VietnamPlus
+</title><meta name="keywords" content="Trần Văn Thuật,tổng liên đoàn lao động việt nam,Công đoàn Việt Nam,kiện toàn,dự thảo,sửa đổi,định hướng,Hà Nội,Mạnh Minh/TTXVN,đề xuất,việt nam,bảo vệ" /><meta name="description" content="Ông Trần Văn Thuật, Ủy viên Đoàn Chủ tịch, Trưởng Ban Tổ chức Tổng Liên đoàn Lao động Việt Nam đã được bầu giữ chức Phó Chủ tịch Tổng Liên đoàn Lao động Việ..." />
+<link rel="canonical" href="http://www.baomoi.com/bau-bo-sung-pho-chu-tich-tong-lien-doan-lao-dong-viet-nam/c/21789550.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21789550" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21789550" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.vietnamplus.vn/bau-bo-sung-pho-chu-tich-tong-lien-doan-lao-dong-viet-nam/436284.vnp");
+else
+window.location.replace("http://www.baomoi.com/bau-bo-sung-pho-chu-tich-tong-lien-doan-lao-dong-viet-nam/c/21789550.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

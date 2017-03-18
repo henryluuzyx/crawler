@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, target-densitydpi=device-dpi" />
+    <title>Báo VietNamNet</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script type="text/javascript">
+
+        var msg = 'Bạn có muốn cài đặt ứng dụng đọc báo VietNamNet?';
+        var isiOS = /ipad|iphone|ipod/i.test(navigator.userAgent.toLowerCase());
+        var isAndroid = /android/i.test(navigator.userAgent.toLowerCase());
+
+        if (isiOS) {
+            if (confirm(msg)) {
+                window.location = 'https://itunes.apple.com/vn/app/vietnamnet-bo-tt-tt/id824006052?mt=8';
+            }
+        }
+
+        if (isAndroid) {
+            if (confirm(msg)) {
+                window.location = 'http://play.google.com/store/apps/details?id=vn.vietnamnet.apps';
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div class="MainWrapper">
+        <a href="/www/"><img alt="VietNamNet" title="VietNamNet" src="images/vietnamnet.png" width="525" /></a>
+        <div class="ButtonBox">
+            <a href="https://itunes.apple.com/vn/app/vietnamnet-bo-tt-tt/id824006052?mt=8" class="ButtonImage BtnIOS">
+                <span>For iOS</span></a>
+            <a href="http://play.google.com/store/apps/details?id=vn.vietnamnet.apps" class="ButtonImage BtnGoogle">
+                <span>For Android</span></a>
+            <br />
+            Last update: 24/02/2014 10:00
+        </div>
+        <!-- ButtonBox -->
+    </div>
+    <!-- MainWrapper -->
+</body>
+</html>
+

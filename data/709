@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-title" content="Vnexpress.net" />
+        <link rel="apple-touch-icon" sizes="57x57" href="/manifest/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/manifest/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/manifest/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/manifest/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/manifest/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/manifest/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/manifest/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/manifest/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/manifest/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/manifest/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/manifest/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/manifest/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/manifest/favicon-16x16.png">
+        <link rel="manifest" href="/manifest/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/manifest/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <!-- SEO -->
+        <title>Mua sắm trực tuyến - Shop VnExpress</title>        <meta name="keywords" content="Mua sắm chất lượng, an toàn với các sản phẩm chính hãng giá tốt trên shop.vnexpress.net. Nhận ưu đãi và các khuyến mãi với số lượng giới hạn dành riêng cho độc giả của VnExpress..">
+<meta name="description" content="Điện thoại, Máy tính bảng, Máy vi tính, Laptop, Máy ảnh, Máy quay phim, Phụ kiện công nghệ, Thiết bị công nghệ, Tai nghe, Loa, USB">                <!-- meta:dc -->
+        <meta name="dc.subject" content="Shop - VnExpress" />
+        <meta name="dc.publisher" content=" Shop VnExpress" />
+        <meta name="dc.rights.copyright" content="Shop VnExpress" />
+        <meta name="dc.creator.name" content="Shop VnExpress" />
+        <meta name="dc.creator.email" content="webmaster@vnexpress.net" />
+        <meta name="dc.identifier" content="https://shop.vnexpress.net/" />
+        				<meta name="tt_site_id" content="32" />
+						<meta name="tt_category_id" content="32" />
+						<meta name="tt_article_id" content="32" />
+				        <!-- tt_pape_type -->
+        <meta name="tt_page_type" content="site">
+        <!-- meta:og -->
+        <meta property="og:site_name" content="Shop - VnExpress" />
+        <meta property="og:url" content="https://shop.vnexpress.net/" />
+        <meta property="og:type" content="article" />
+        <meta property="fb:app_id" content="283547481836738" />
+        <link rel="canonical" href="https://shop.vnexpress.net/"/>
+        <meta property="al:web:url" content="https://shop.vnexpress.net/" />
+        <script type="text/javascript">
+            var base_url            =   'https://shop.vnexpress.net';
+            var interactions_url    =   'http://usi.saas.vnexpress.net';
+            var device_env          =   4;
+                        document.domain         =   'vnexpress.net';
+                    </script>
+        <!-- END SEO -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-50285069-15', 'auto', {'name': 't0'});
+            ga('t0.require', 'ec');
+            ga('t0.send', 'pageview');
+        </script>
+        <!-- Eclick -->
+        <script>
+            (function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https://":"http://")+"stats.g.doubleclick.net/dc.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)})();
+            var _siteId = "32";(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://stla.eclick.vn/ea.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+            var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"19747654"}),function(){var c=document.createElement("script"),e=document.getElementsByTagName("script")[0];c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}();
+        </script>
+		<script>
+			var _eaq = _eaq || [];
+			_eaq.push({ cid: "1" });
+			(function(){
+			var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://stshop.vnexpress.net/j/v14/ea2.js";
+			var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+		</script>
+        <!-- End Eclick -->
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FNJF"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N3FNJF');</script>
+        <!-- End Google Tag Manager -->
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PD4X6"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5PD4X6');</script>
+        <!-- End Google Tag Manager --> 
+		<link rel="stylesheet" href="https://stshop.vnexpress.net/c/v21/ecommerce.css" media="all" />
+        		        <script src="https://stshop.vnexpress.net/j/v14/jquery.min.js"></script>
+		<script type="text/javascript">
+			WebFontConfig = {
+				google: { families: ['Open+Sans:400,400italic,700,800,300,600&subset=latin,vietnamese,latin-ext']}
+			};
+			(function() {
+				var wf = document.createElement('script');
+				wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+				  '://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js';
+				wf.type = 'text/javascript';
+				wf.async = 'true';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(wf, s);
+			})(); 
+		</script>
+    </head>
+<body>
+    <!--MENU MOBILE-->
+	<div id="box_col_left" class="block_more_info">
+		<div class="box_width_common">
+			<div class="btn_control_col_left"><i class="fa fa-bars"></i></div>
+			<div class="block_scoll_menu">
+				<div class="user_box width_common myvne_form_log" id="myvne_profile_tablet">
+					<img src="https://stshop.vnexpress.net/i/v21/graphics/ico_user.png" />
+					<div class="info_user_m">
+						<p class="dk_dn_txt">
+                            <a href="javascript:;" class="myvne_login">Đăng nhập</a>&nbsp;/&nbsp;
+                            <a href="javascript:;" class="myvne_login">Đăng ký</a>
+                            <i class="fa fa-angle-right right" aria-hidden="true"></i>
+                        </p>
+					</div>
+				</div>
+				<ul class="list_item_panel width_common">
+					<li class="active home_menu"> <a href="/"> Trang chủ<i class="fa fa-angle-right right"></i></a></li>
+																																				<li class=" has_sub">
+                                <a href="/cong-nghe">
+                                    Công nghệ                                </a>
+                                                                <span class="havecap2">&nbsp;</span>
+                                <div class="cap2" style="display: none;">
+                                                        				<a href="/cong-nghe/dien-thoai" class=""><i class="fa fa-mobile" aria-hidden="true"></i>Điện thoại<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/may-tinh-bang" class=""><i class="fa fa-tablet" aria-hidden="true"></i>Máy tính bảng<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/may-vi-tinh" class=""><i class="fa fa-desktop" aria-hidden="true"></i>Máy vi tính<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/laptop" class=""><i class="fa fa-laptop" aria-hidden="true"></i>Laptop<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/may-anh" class=""><i class="fa fa-camera" aria-hidden="true"></i>Máy ảnh<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/may-quay-phim" class=""><i class="fa fa-video-camera" aria-hidden="true"></i>Máy quay phim<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/phu-kien-cong-nghe" class=""><i class="fa fa-headphones" aria-hidden="true"></i>Phụ kiện công nghệ<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/khac" class=""><i class="fa fa-plus" aria-hidden="true"></i>Khác<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/phu-kien-may-anh" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Phụ kiện máy ảnh<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/cong-nghe/thiet-bi-cong-nghe" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thiết bị công nghệ<i class="fa fa-angle-right right"></i></a>
+                                                        			</div>
+                                                            </li>
+                        														<li class=" has_sub">
+                                <a href="/giao-duc">
+                                    Giáo dục                                </a>
+                                                                <span class="havecap2">&nbsp;</span>
+                                <div class="cap2" style="display: none;">
+                                                        				<a href="/giao-duc/khoa-hoc" class=""><i class="fa fa-graduation-cap" aria-hidden="true"></i>Khóa học<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/giao-duc/hoi-thao" class=""><i class="fa fa-users" aria-hidden="true"></i>Hội thảo<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/giao-duc/khac" class=""><i class="fa fa-plus" aria-hidden="true"></i>Khác<i class="fa fa-angle-right right"></i></a>
+                                                        			</div>
+                                                            </li>
+                        														<li class=" has_sub">
+                                <a href="/gia-dinh">
+                                    Gia đình                                </a>
+                                                                <span class="havecap2">&nbsp;</span>
+                                <div class="cap2" style="display: none;">
+                                                        				<a href="/gia-dinh/gia-dung" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Gia dụng<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/cham-soc-suc-khoe" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Chăm sóc sức khỏe<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/noi-that-trang-tri" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Nội thất trang trí<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/thiet-bi-nha-bep" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thiết bị nhà bếp<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/thiet-bi-chieu-sang" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thiết bị chiếu sáng<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/thiet-bi-dien-nong-lanh" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thiết bị điện nóng lạnh<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/thiet-bi-gia-dung-trong-nha" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thiết bị gia dụng trong nhà<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/thiet-bi-an-ninh" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thiết bị an ninh<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/thuc-pham-bo-duong" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thực phẩm bổ dưỡng<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/gia-dinh/van-phong-pham" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Văn phòng phẩm<i class="fa fa-angle-right right"></i></a>
+                                                        			</div>
+                                                            </li>
+                        														<li class=" has_sub">
+                                <a href="/du-lich">
+                                    Du lịch                                </a>
+                                                                <span class="havecap2">&nbsp;</span>
+                                <div class="cap2" style="display: none;">
+                                                        				<a href="/du-lich/khach-san-resort" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Khách sạn - Resort<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/du-lich/tour-du-lich" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Tour du lịch<i class="fa fa-angle-right right"></i></a>
+                                                        			</div>
+                                                            </li>
+                        														<li class=" has_sub">
+                                <a href="/thoi-trang">
+                                    Thời trang                                </a>
+                                                                <span class="havecap2">&nbsp;</span>
+                                <div class="cap2" style="display: none;">
+                                                        				<a href="/thoi-trang/thoi-trang-cho-be" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thời trang cho bé<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/thoi-trang/thoi-trang-trung-nien" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thời trang trung niên<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/thoi-trang/thoi-trang-nam" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thời trang nam<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/thoi-trang/thoi-trang-nu" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thời trang nữ<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/thoi-trang/thoi-trang-cho-ba-bau" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Thời trang cho bà bầu<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/thoi-trang/phu-kien-thoi-trang" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Phụ kiện thời trang<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/thoi-trang/trang-suc-phu-kien" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Trang sức _ Phụ kiện<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/thoi-trang/phu-kien-khac" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Phụ kiện khác<i class="fa fa-angle-right right"></i></a>
+                                                        			</div>
+                                                            </li>
+                        														<li class=" has_sub">
+                                <a href="/trang-suc">
+                                    Trang sức                                </a>
+                                                                <span class="havecap2">&nbsp;</span>
+                                <div class="cap2" style="display: none;">
+                                                        				<a href="/trang-suc/nhan" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Nhẫn<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/trang-suc/bong-tai" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Bông tai <i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/trang-suc/lac-vong-tay" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Lắc Vòng tay<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/trang-suc/day-chuyen" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Dây chuyền<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/trang-suc/bo-trang-suc" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Bộ trang sức<i class="fa fa-angle-right right"></i></a>
+                                                        				<a href="/trang-suc/mat-day-chuyen" class=""><i class="fa fa-ellipsis-v" aria-hidden="true"></i>Mặt dây chuyền<i class="fa fa-angle-right right"></i></a>
+                                                        			</div>
+                                                            </li>
+                                                <li class="ld_menu">
+                            <h3><a href="/samsung.html">samsung</a></h3>
+                        </li>
+									</ul>
+				<ul class="list_item_panel width_common list_item_panel_last">
+					<li> <a href="javascript:;"><i class="fa fa-phone"></i>Hotline <span class="hotline_n">0936.617.480</span><i class="fa fa-angle-right right"></i></a></li>
+					<li> <a href="javascript:;"><i class="fa fa-briefcase" aria-hidden="true"></i>Hướng dẫn mua hàng<i class="fa fa-angle-right right"></i></a></li>
+					<li class="ecom_vne"> <a href="/ve-vnexpress-ecommerce">VỀ VNE ECOMMERCE<i class="fa fa-angle-right right"></i></a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div id="page">
+		<div id="header_web" class="width_common">
+			<div class="container" id="header_main">
+			  <div class="box_top width_common">
+				<div class="header_logo">
+                    <a href="/">
+                        <img src="https://stshop.vnexpress.net/i/v21/graphics/logo-shop.png" alt="VnExpress Shop" class="logo_web"/>
+                    </a>
+                </div>
+				<div class="search_box">
+                    <form class="search_form" action="/search" method="get">
+                        <input type="text" name="q" value="" class="input_search" autocomplete="off" placeholder="Nhập tên sản phẩm bạn mong muốn" />
+                        <div class="input_search_erorr err"></div>
+                        <button type="submit" class="btn_search"><i class="fa fa-search" aria-hidden="true"></i></button>
+                        <ul class="search_load" style="display:none;">
+                            <li class="item search_item" data-type="text" data-search=""><div class="title"></div></li>
+                            								<li class="item search_item_category" data-search="" data-type="category" data-category-id="1" data-category="Công nghệ"></li>
+                            								<li class="item search_item_category" data-search="" data-type="category" data-category-id="10" data-category="Giáo dục"></li>
+                            								<li class="item search_item_category" data-search="" data-type="category" data-category-id="14" data-category="Gia đình"></li>
+                            								<li class="item search_item_category" data-search="" data-type="category" data-category-id="18" data-category="Du lịch"></li>
+                            								<li class="item search_item_category" data-search="" data-type="category" data-category-id="27" data-category="Thời trang"></li>
+                            								<li class="item search_item_category" data-search="" data-type="category" data-category-id="67" data-category="Trang sức"></li>
+                                                    </ul>
+                    </form>
+                </div>
+				<div class="box_right_top">
+					<div class="box_giohang">
+                        <i aria-hidden="true" class="fa fa-shopping-cart width_common"></i>
+                        <a href="javascript:;">Giỏ hàng</a>
+                    </div>
+					<div class="box_dn myvne_form_log" id="myvne_profile">
+                        <span class="width_common txt_center">
+        					<i class="fa fa-user" aria-hidden="true"></i>
+        					<i class="fa fa-chevron-down" aria-hidden="true"></i>
+        				</span>
+                        <a href="javascript:;" class="myvne_login">Đăng nhập</a>
+                    </div>
+					<div class="box_hotline">
+                        <i class="fa fa-phone width_common" aria-hidden="true"></i>
+                        Hotline: <b>0936.617.480</b>
+                    </div>
+				</div>
+			  </div>
+				<div class="main_menu width_common ld_menu">
+																<ul>
+																														<li class="">
+                                    <h3>
+                                        <a href="/cong-nghe">Công nghệ</a>
+                                    </h3>
+                                </li>
+																							<li class="">
+                                    <h3>
+                                        <a href="/giao-duc">Giáo dục</a>
+                                    </h3>
+                                </li>
+																							<li class="">
+                                    <h3>
+                                        <a href="/gia-dinh">Gia đình</a>
+                                    </h3>
+                                </li>
+																							<li class="">
+                                    <h3>
+                                        <a href="/du-lich">Du lịch</a>
+                                    </h3>
+                                </li>
+																							<li class="">
+                                    <h3>
+                                        <a href="/thoi-trang">Thời trang</a>
+                                    </h3>
+                                </li>
+																							<li class="">
+                                    <h3>
+                                        <a href="/trang-suc">Trang sức</a>
+                                    </h3>
+                                </li>
+							                            <li class="ld_ss">
+                                <h3><a href="/samsung.html">samsung</a></h3>
+                            </li>
+                        </ul>
+                    				</div>
+				<div class="clear">&nbsp;</div>
+			</div>
+		</div>
+        <!--HEADER MOBILE-->
+		<div id="header_mobile" class="width_common hiddenweb">
+			<div id="header_main">
+				<div class="header_m_logo"> <a href="/"><img src="https://stshop.vnexpress.net/i/v21/graphics/logo-shop-mobile.png" alt="VnExpress Shop" class="logo_mobile"/></a></div>
+				<div class="box_giohang">
+				</div>
+				<div class="clear">&nbsp;</div>
+			</div>
+		</div>
+		<div class="search_box search_box_mobile">
+            <form class="search_form_tablet" action="/search" method="get">
+				<input type="text" name="q" value="" class="input_search" placeholder="Nhập tên sản phẩm bạn mong muốn" />
+				<div class="input_search_erorr err"></div>
+				<button type="submit" class="btn_search"><i class="fa fa-search" aria-hidden="true"></i></button>
+			</form>
+        </div>
+		<!--END HEADER MOBILE-->
+    <div id="wrap_banner" class="width_common space_bottom_25">
+    <div class="container" id="container_banner_top">
+        <div class="slider_top" id="slider_top">
+            <div class="box_slide_top">
+                <div id="slider" class="flexslider slider">
+                  <ul class="slides">
+                    	                    	                    	<li><a href="https://shop.vnexpress.net/event/samsung.html"><img src="https://imgshop.vnexpress.net/banner/2017/03/15/58c8f412c12ba-ramatsamsung_880x380_880x380.png" alt="Bất ngờ cho ngày 20/03 - Món quà tới từ Samsung " /></a></li>
+	                    						                    	                    	<li><a href="https://shop.vnexpress.net/retail/mung-moc-mien"><img src="https://imgshop.vnexpress.net/banner/2017/03/09/58c0c2bc8f867-vneshop_880x370_20170308_man_880x380.jpg" alt="Xua muỗi bay xa - Không lo Zika" /></a></li>
+	                    						                    	                    	<li><a href="https://shop.vnexpress.net/cong-nghe/phu-kien-cong-nghe/clip-tv-box-niem-vui-tuyet-voi-moi-ngay-moi-noi-833.html"><img src="https://imgshop.vnexpress.net/banner/2017/03/09/58c123a190403--811D442CD7BB42A34AD3E57D4E8DC4E9F25D1C92E0C046D891-pimgpsh_fullsize_distr_880x380.png" alt="Giảm giá mê ly - Quà tặng ý nghĩa" /></a></li>
+	                    						                    	                    	<li><a href="https://shop.vnexpress.net/gia-dinh/cham-soc-suc-khoe?price=0:40000000&attr_232=3"><img src="https://imgshop.vnexpress.net/banner/2017/03/10/58c2686c662f8-NewSmile_chamsocrangmieng_880x380_880x380.png" alt="Chăm sóc nụ cười xinh cùng New Smile" /></a></li>
+	                    						                    	                    	<li><a href="https://shop.vnexpress.net/trang-suc"><img src="https://imgshop.vnexpress.net/banner/2017/03/15/58c8f404b698b-vneshop_880x380_20170308_880x380.jpg" alt="Quà tặng từ biển cả - Một vẻ đẹp tinh khiết " /></a></li>
+	                    					                  </ul>
+                </div>
+                <div id="carousel" class="flexslider carousel">
+                  <ul class="slides">
+				  				  		                    <li>
+	                        <div class="box_title_slide">
+	                            <h2><p class="title_sp_slide"><a onclick="clickBanner('https://shop.vnexpress.net/event/samsung.html')">Bất ngờ cho ngày 20/03 - Món quà tới từ Samsung </a></p></h2>
+	                        </div>
+	                        <span class="arrow_active"><i class="fa fa-play"></i></span>
+	                        <span class="arrow_left_banner"><i class="fa fa-angle-left"></i></span>
+	                    </li>
+	                				  				  		                    <li>
+	                        <div class="box_title_slide">
+	                            <h2><p class="title_sp_slide"><a onclick="clickBanner('https://shop.vnexpress.net/retail/mung-moc-mien')">Xua muỗi bay xa - Không lo Zika</a></p></h2>
+	                        </div>
+	                        <span class="arrow_active"><i class="fa fa-play"></i></span>
+	                        <span class="arrow_left_banner"><i class="fa fa-angle-left"></i></span>
+	                    </li>
+	                				  				  		                    <li>
+	                        <div class="box_title_slide">
+	                            <h2><p class="title_sp_slide"><a onclick="clickBanner('https://shop.vnexpress.net/cong-nghe/phu-kien-cong-nghe/clip-tv-box-niem-vui-tuyet-voi-moi-ngay-moi-noi-833.html')">Giảm giá mê ly - Quà tặng ý nghĩa</a></p></h2>
+	                        </div>
+	                        <span class="arrow_active"><i class="fa fa-play"></i></span>
+	                        <span class="arrow_left_banner"><i class="fa fa-angle-left"></i></span>
+	                    </li>
+	                				  				  		                    <li>
+	                        <div class="box_title_slide">
+	                            <h2><p class="title_sp_slide"><a onclick="clickBanner('https://shop.vnexpress.net/gia-dinh/cham-soc-suc-khoe?price=0:40000000&attr_232=3')">Chăm sóc nụ cười xinh cùng New Smile</a></p></h2>
+	                        </div>
+	                        <span class="arrow_active"><i class="fa fa-play"></i></span>
+	                        <span class="arrow_left_banner"><i class="fa fa-angle-left"></i></span>
+	                    </li>
+	                				  				  		                    <li>
+	                        <div class="box_title_slide">
+	                            <h2><p class="title_sp_slide"><a onclick="clickBanner('https://shop.vnexpress.net/trang-suc')">Quà tặng từ biển cả - Một vẻ đẹp tinh khiết </a></p></h2>
+	                        </div>
+	                        <span class="arrow_active"><i class="fa fa-play"></i></span>
+	                        <span class="arrow_left_banner"><i class="fa fa-angle-left"></i></span>
+	                    </li>
+	                				                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		eCommerce.sildebanner.bannerhome();
+		if (device_env == 4) {	
+			$('#carousel li').on('mouseover',function(){
+				$(this).trigger('click');
+			});
+			$('#carousel li').each(function(){
+				var heightView = $(this).height();
+				var heightBlock = $(this).children('.box_title_slide').height();
+				var posY = (heightView - heightBlock)/2;
+				$(this).children('.box_title_slide').css({"margin-top": posY})
+			});
+		}
+		function clickBanner(url) {
+			location.href = url;
+		}
+	});
+</script>
+    <div id="wrapper_container" class="homepage width_common">
+        <div class="container" id="container">
+        <div class="width_common">
+            <div class="block_cate width_common space_bottom_30" id="cate_congnghe">
+	<div class="block_tiitle_cate width_common space_bottom_25">
+		<div class="txt_title_cate"><h4><a href="/cong-nghe">Công nghệ</a></h4></div>
+	</div>
+	<div class="width_common list_cate_congnghe space_bottom_30">
+		<ul>
+							<li ><a href="https://shop.vnexpress.net/cong-nghe/dien-thoai"><img alt="Điện thoại" src="https://imgshop.vnexpress.net/banner/2016/12/20/5858d88787a21-Artboard-1.png"  /><span class="name_cate_cn">Điện thoại</span></a></li>
+								<li ><a href="https://shop.vnexpress.net/cong-nghe/may-tinh-bang"><img alt="Máy tính bảng" src="https://imgshop.vnexpress.net/banner/2016/12/20/5858d88ab2512-Artboard-2.png"  /><span class="name_cate_cn">Máy tính bảng</span></a></li>
+								<li ><a href="https://shop.vnexpress.net/cong-nghe/laptop"><img alt="Laptop" src="https://imgshop.vnexpress.net/banner/2016/12/20/5858d88e07f72-Artboard-3.png"  /><span class="name_cate_cn">Laptop</span></a></li>
+								<li class="last_item"><a href="https://shop.vnexpress.net/cong-nghe/phu-kien-cong-nghe"><img alt="Phụ kiện" src="https://imgshop.vnexpress.net/banner/2016/12/20/5858d8904bd63-Artboard-4.png"  /><span class="name_cate_cn">Phụ kiện</span></a></li>
+							
+		</ul>
+	</div>
+	<div class="width_common list_item_cate space_bottom_30">
+					<div class="item_cate item_cate_special">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/iphone-6s-32gb-690.html" title="iPhone 6S 32GB"><img src="https://imgshop.vnexpress.net/images/2017/03/13/58c60298c95ec-100000_iphone-6s_150x150.jpg" alt="iPhone 6S 32GB" title="iPhone 6S 32GB" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="iPhone 6S 32GB" href="/cong-nghe/dien-thoai/iphone-6s-32gb-690.html">iPhone 6S 32GB</a></h5></div>
+															<p class="price">13.490.000 đ</p>
+																<p class="price_true">giá thực tế 15.590.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="2" data-product-id="690" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">13%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/iphone-7plus-128gb-244.html" title="iPhone 7plus 128GB"><img src="https://imgshop.vnexpress.net/images/2016/10/31/581707b65c38d-plus128__8_150x150.jpg" alt="iPhone 7plus 128GB" title="iPhone 7plus 128GB" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="iPhone 7plus 128GB" href="/cong-nghe/dien-thoai/iphone-7plus-128gb-244.html">iPhone 7plus 128GB</a></h5></div>
+															<p class="price">23.890.000 đ</p>
+																<p class="price_true">giá thực tế 25.190.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="2" data-product-id="244" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">5%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/iphone-7plus-32gb-243.html" title="iPhone 7plus 32GB"><img src="https://imgshop.vnexpress.net/images/2016/10/31/5817057d7da36-plus128_2_150x150.jpg" alt="iPhone 7plus 32GB" title="iPhone 7plus 32GB" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="iPhone 7plus 32GB" href="/cong-nghe/dien-thoai/iphone-7plus-32gb-243.html">iPhone 7plus 32GB</a></h5></div>
+															<p class="price">20.990.000 đ</p>
+																<p class="price_true">giá thực tế 22.290.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="6" data-product-id="243" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">6%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/iphone-7-32gb-213.html" title="iPhone 7 32GB"><img src="https://imgshop.vnexpress.net/images/2016/10/31/5816e57de08bc-black_150x150.jpg" alt="iPhone 7 32GB" title="iPhone 7 32GB" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="iPhone 7 32GB" href="/cong-nghe/dien-thoai/iphone-7-32gb-213.html">iPhone 7 32GB</a></h5></div>
+															<p class="price">16.790.000 đ</p>
+																<p class="price_true">giá thực tế 18.790.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="6" data-product-id="213" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">11%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/samsung-galaxy-a7-2017-1406.html" title="Samsung Galaxy A7 (2017)"><img src="https://imgshop.vnexpress.net/images/2017/02/23/58ae4f6636026-636223356435433077_samsung-galaxy-a7-rose-1_150x150.jpg" alt="Samsung Galaxy A7 (2017)" title="Samsung Galaxy A7 (2017)" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Samsung Galaxy A7 (2017)" href="/cong-nghe/dien-thoai/samsung-galaxy-a7-2017-1406.html">Samsung Galaxy A7 (2017)</a></h5></div>
+															<p class="price">10.990.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="8" data-product-id="1406" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/samsung-galaxy-a5-2017-1400.html" title="Samsung Galaxy A5 (2017)"><img src="https://imgshop.vnexpress.net/images/2017/02/23/58ae4a744552b-636198270058569327_samsung-galaxy-a7-black-2017-1_150x150.jpg" alt="Samsung Galaxy A5 (2017)" title="Samsung Galaxy A5 (2017)" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Samsung Galaxy A5 (2017)" href="/cong-nghe/dien-thoai/samsung-galaxy-a5-2017-1400.html">Samsung Galaxy A5 (2017)</a></h5></div>
+															<p class="price">8.990.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="8" data-product-id="1400" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/samsung-galaxy-a3-2017-2205.html" title="Samsung Galaxy A3 2017"><img src="https://imgshop.vnexpress.net/images/2017/03/15/58c8fefbc2bfa-Untitled-1-01_150x150.png" alt="Samsung Galaxy A3 2017" title="Samsung Galaxy A3 2017" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Samsung Galaxy A3 2017" href="/cong-nghe/dien-thoai/samsung-galaxy-a3-2017-2205.html">Samsung Galaxy A3 2017</a></h5></div>
+															<p class="price">6.490.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="6" data-product-id="2205" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/galaxy-j7-prime-2216.html" title="Galaxy J7 Prime"><img src="https://imgshop.vnexpress.net/images/2017/03/14/58c7611f4e4d7-ABC2-01_150x150.png" alt="Galaxy J7 Prime" title="Galaxy J7 Prime" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Galaxy J7 Prime" href="/cong-nghe/dien-thoai/galaxy-j7-prime-2216.html">Galaxy J7 Prime</a></h5></div>
+															<p class="price">6.290.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="2" data-product-id="2216" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/cong-nghe/dien-thoai/oppo-f1s-2017-64gb-1408.html" title="OPPO F1s 2017 (64GB)"><img src="https://imgshop.vnexpress.net/images/2017/02/23/58ae51c3eed91-636222502134690748_f1s-1-1-_150x150.jpg" alt="OPPO F1s 2017 (64GB)" title="OPPO F1s 2017 (64GB)" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="OPPO F1s 2017 (64GB)" href="/cong-nghe/dien-thoai/oppo-f1s-2017-64gb-1408.html">OPPO F1s 2017 (64GB)</a></h5></div>
+															<p class="price">6.990.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="8" data-product-id="1408" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+			</div>
+	<div class="width_common list_banner_ads list_banner_2item space_bottom_15">		
+				<div class="item_banner_ads">
+			<a href="https://shop.vnexpress.net/cong-nghe/phu-kien-cong-nghe/fpt-play-box-332.html?utm_source=VnExpressShop"><img src="https://imgshop.vnexpress.net/banner/2017/02/21/58ac133b8afc2-vneshop_578x200_20170221_box_578x200.jpg" alt="FPT Play Box" /></a>
+		</div>
+				<div class="item_banner_ads item_banner_ads_last">
+			<a href="https://shop.vnexpress.net/cong-nghe/dien-thoai/samsung-galaxy-j5-prime-662.html?utm_source=VnExpressShop"><img src="https://imgshop.vnexpress.net/banner/2017/02/21/58ac137fdfd4e-vneshop_578x200_20170221_j5_578x200.jpg" alt="Samsung Galaxy J5 Prime" /></a>
+		</div>
+				
+	</div>
+	<div class="width_common list_item_cate space_bottom_30">
+						<div class="item_cate item_cate_special">
+					<div class="img_box width_common"><a title="Loa Samsung Bottle" href="/cong-nghe/phu-kien-cong-nghe/loa-samsung-bottle-2249.html"><img src="https://imgshop.vnexpress.net/images/2017/03/13/58c615b5f13d3-8153273431_loa-samsung-wireless-speaker-bottle_150x150.jpg" alt="Loa Samsung Bottle" class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Loa Samsung Bottle" href="/cong-nghe/phu-kien-cong-nghe/loa-samsung-bottle-2249.html">Loa Samsung Bottle</a></h5></div>
+																		<p class="price">1.990.000 đ</p>
+																		<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="3" data-product-id="2249" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+														</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="Tai nghe Knob Samsung" href="/cong-nghe/phu-kien-cong-nghe/tai-nghe-knob-samsung-2253.html"><img src="https://imgshop.vnexpress.net/images/2017/03/13/58c619dcae7f2-Untitled_150x150.png" alt="Tai nghe Knob Samsung" class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Tai nghe Knob Samsung" href="/cong-nghe/phu-kien-cong-nghe/tai-nghe-knob-samsung-2253.html">Tai nghe Knob Samsung</a></h5></div>
+																		<p class="price">490.000 đ</p>
+																		<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="4" data-product-id="2253" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+														</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="Pin sạc dự phòng Kettle 10.200mAh" href="/cong-nghe/phu-kien-cong-nghe/pin-sac-du-phong-kettle-10-200mah-2251.html"><img src="https://imgshop.vnexpress.net/images/2017/03/13/58c617a4de707-1_150x150.jpg" alt="Pin sạc dự phòng Kettle 10.200mAh" class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Pin sạc dự phòng Kettle 10.200mAh" href="/cong-nghe/phu-kien-cong-nghe/pin-sac-du-phong-kettle-10-200mah-2251.html">Pin sạc dự phòng Kettle 10.200mAh</a></h5></div>
+																		<p class="price">590.000 đ</p>
+																		<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="2251" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+														</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="Loa Bluetooth Remax RM-M1" href="/cong-nghe/phu-kien-cong-nghe/loa-bluetooth-remax-rm-m1-446.html"><img src="https://imgshop.vnexpress.net/images/2016/12/19/5857882f1e70f-636137622579440205_HMPK-LOA-BLUETOOTH-REMAX-RM-M1-00005378_150x150.png" alt="Loa Bluetooth Remax RM-M1" class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Loa Bluetooth Remax RM-M1" href="/cong-nghe/phu-kien-cong-nghe/loa-bluetooth-remax-rm-m1-446.html">Loa Bluetooth Remax RM-M1</a></h5></div>
+																		<p class="price">599.000 đ</p>
+																		<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="2" data-product-id="446" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+														</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="Lenovo Wireless Laser Mouse - 0A36188 " href="/cong-nghe/khac/lenovo-wireless-laser-mouse-0a36188-718.html"><img src="https://imgshop.vnexpress.net/images/2017/01/09/58735990aad5a-_460_0_0A36188_V1_150x150.jpg" alt="Lenovo Wireless Laser Mouse - 0A36188 " class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Lenovo Wireless Laser Mouse - 0A36188 " href="/cong-nghe/khac/lenovo-wireless-laser-mouse-0a36188-718.html">Lenovo Wireless Laser Mouse -...</a></h5></div>
+																		<p class="price">250.000 đ</p>
+																			<p class="price_true">giá thực tế 886.160 đ</p>
+												<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="718" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+																<div class="label_discount">72%</div>
+									</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="Mouse Logitech M238 Party" href="/cong-nghe/phu-kien-cong-nghe/mouse-logitech-m238-party-1099.html"><img src="https://imgshop.vnexpress.net/images/2017/02/08/589ac0203edfc-Mouse-Logitech-M238-Party_150x150.jpg" alt="Mouse Logitech M238 Party" class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Mouse Logitech M238 Party" href="/cong-nghe/phu-kien-cong-nghe/mouse-logitech-m238-party-1099.html">Mouse Logitech M238 Party</a></h5></div>
+																		<p class="price">325.000 đ</p>
+																		<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="1" data-product-id="1099" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+														</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="Clip TV Box - Niềm Vui Tuyệt Vời. Mỗi Ngày. Mọi Nơi." href="/cong-nghe/phu-kien-cong-nghe/clip-tv-box-niem-vui-tuyet-voi-moi-ngay-moi-noi-833.html"><img src="https://imgshop.vnexpress.net/images/2017/01/12/58770a945c2d9-clip-tv-box-500x500_150x150.jpg" alt="Clip TV Box - Niềm Vui Tuyệt Vời. Mỗi Ngày. Mọi Nơi." class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Clip TV Box - Niềm Vui Tuyệt Vời. Mỗi Ngày. Mọi Nơi." href="/cong-nghe/phu-kien-cong-nghe/clip-tv-box-niem-vui-tuyet-voi-moi-ngay-moi-noi-833.html">Clip TV Box - Niềm Vui Tuyệt Vời....</a></h5></div>
+																		<p class="price">1.590.000 đ</p>
+																			<p class="price_true">giá thực tế 1.790.000 đ</p>
+												<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="3" data-product-id="833" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+																<div class="label_discount">11%</div>
+									</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="[Nhanh tay nhận ưu đãi khủng] FPT Play Box - Truyền hình thời đại mới" href="/cong-nghe/phu-kien-cong-nghe/nhanh-tay-nhan-uu-dai-khung-fpt-play-box-truyen-hinh-thoi-dai-moi-434.html"><img src="https://imgshop.vnexpress.net/images/2016/12/09/584a758b0627c-Avarta-Box-final-01_150x150.png" alt="[Nhanh tay nhận ưu đãi khủng] FPT Play Box - Truyền hình thời đại mới" class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="[Nhanh tay nhận ưu đãi khủng] FPT Play Box - Truyền hình thời đại mới" href="/cong-nghe/phu-kien-cong-nghe/nhanh-tay-nhan-uu-dai-khung-fpt-play-box-truyen-hinh-thoi-dai-moi-434.html">[Nhanh tay nhận ưu đãi khủng] FPT...</a></h5></div>
+																		<p class="price">1.890.000 đ</p>
+																			<p class="price_true">giá thực tế 2.400.000 đ</p>
+												<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="2" data-product-id="434" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+																<div class="label_discount">21%</div>
+									</div>
+							<div class="item_cate">
+					<div class="img_box width_common"><a title="Ổ cứng gắn ngoài Transcend 2TB StoreJet2.5" M3" href="/cong-nghe/phu-kien-cong-nghe/o-cung-gan-ngoai-transcend-2tb-storejet2-5-m3-207.html"><img src="https://imgshop.vnexpress.net/images/2016/10/07/57f759f430459-Productpic-SJ25M3-1_150x150.jpg" alt="Ổ cứng gắn ngoài Transcend 2TB StoreJet2.5" M3" class="thumb_sp"/></a></div>
+					<div class="box_info_sp width_common">
+						<div class="name_sp"><h5><a title="Ổ cứng gắn ngoài Transcend 2TB StoreJet2.5" M3" href="/cong-nghe/phu-kien-cong-nghe/o-cung-gan-ngoai-transcend-2tb-storejet2-5-m3-207.html">Ổ cứng gắn ngoài Transcend 2TB...</a></h5></div>
+																		<p class="price">2.860.000 đ</p>
+																			<p class="price_true">giá thực tế 2.899.000 đ</p>
+												<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="2" data-product-id="207" data-product-quantity="1">Thêm vào giỏ</a>
+					</div>
+																<div class="label_discount">1%</div>
+									</div>
+				</div>
+</div>
+
+<!-- Trang sức -->
+<div class="block_cate width_common space_bottom_30" id="cate_thoitrang">
+	<div class="block_tiitle_cate width_common space_bottom_25">
+		<div class="txt_title_cate"><h4><a href="/trang-suc">Trang sức</a></h4></div>
+	</div>
+	<div class="width_common list_banner_ads list_banner_2item space_bottom_15">		
+				<div class="item_banner_ads">
+			<a href="https://shop.vnexpress.net/thoi-trang/phu-kien-thoi-trang"><img src="https://imgshop.vnexpress.net/banner/2017/03/03/58b945bd23f14-matkinh_578x200_578x200.png" alt="" /></a>
+		</div>
+				<div class="item_banner_ads item_banner_ads_last">
+			<a href="https://shop.vnexpress.net/trang-suc"><img src="https://imgshop.vnexpress.net/banner/2017/03/03/58b945dc8e5df-trangsuc_578x200_578x200.png" alt="" /></a>
+		</div>
+				
+	</div>
+		<div class="width_common list_item_cate list_item_cate_folder space_bottom_30">
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/nhan/nhan-bac-love-be-light-1628.html" title="Nhẫn bạc Love Be Light"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b6388410da3-eropi-Nh-n_b-c_Love_Be_Light-31_150x150.jpg" alt="Nhẫn bạc Love Be Light" title="Nhẫn bạc Love Be Light" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Nhẫn bạc Love Be Light" href="/trang-suc/nhan/nhan-bac-love-be-light-1628.html">Nhẫn bạc Love Be Light</a></h5></div>
+															<p class="price">376.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1628" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/lac-vong-tay/vong-tay-ngoc-trai-pink-pearl-1624.html" title="Vòng tay ngọc trai Pink Pearl"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b638eaf074c-q3_150x150.jpg" alt="Vòng tay ngọc trai Pink Pearl" title="Vòng tay ngọc trai Pink Pearl" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Vòng tay ngọc trai Pink Pearl" href="/trang-suc/lac-vong-tay/vong-tay-ngoc-trai-pink-pearl-1624.html">Vòng tay ngọc trai Pink Pearl</a></h5></div>
+															<p class="price">226.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1624" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/mat-day-chuyen/mat-day-chuyen-bac-tiffany-love-2126.html" title="Mặt dây chuyền bạc Tiffany Love"><img src="https://imgshop.vnexpress.net/images/2017/03/09/58c18716a2a49-eropi-_M-t_d-y_chuy-n_b-c_Tiffany_Love__-32_150x150.jpg" alt="Mặt dây chuyền bạc Tiffany Love" title="Mặt dây chuyền bạc Tiffany Love" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Mặt dây chuyền bạc Tiffany Love" href="/trang-suc/mat-day-chuyen/mat-day-chuyen-bac-tiffany-love-2126.html">Mặt dây chuyền bạc Tiffany Love</a></h5></div>
+															<p class="price">198.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="2126" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/day-chuyen/day-chuyen-bac-adelaide-1657.html" title="Dây chuyền bạc Adelaide"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b63b9895367-eropi-D-y_chuy-n_b-c_Adelaide-33_150x150.jpg" alt="Dây chuyền bạc Adelaide" title="Dây chuyền bạc Adelaide" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Dây chuyền bạc Adelaide" href="/trang-suc/day-chuyen/day-chuyen-bac-adelaide-1657.html">Dây chuyền bạc Adelaide</a></h5></div>
+															<p class="price">523.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1657" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/lac-vong-tay/lac-tay-bac-luxurious-1769.html" title="Lắc tay bạc Luxurious"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b64d2c18dd2-eropi-L-c_tay_b-c_Luxurious-31_150x150.jpg" alt="Lắc tay bạc Luxurious" title="Lắc tay bạc Luxurious" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Lắc tay bạc Luxurious" href="/trang-suc/lac-vong-tay/lac-tay-bac-luxurious-1769.html">Lắc tay bạc Luxurious</a></h5></div>
+															<p class="price">602.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1769" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/lac-vong-tay/vong-tay-padaside-pearls-1526.html" title="Vòng tay Padaside Pearls"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b62eec47626-eropi-V-ng_tay_Padaside_Pearls-31_150x150.jpg" alt="Vòng tay Padaside Pearls" title="Vòng tay Padaside Pearls" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Vòng tay Padaside Pearls" href="/trang-suc/lac-vong-tay/vong-tay-padaside-pearls-1526.html">Vòng tay Padaside Pearls</a></h5></div>
+															<p class="price">462.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1526" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/nhan/nhan-bac-love-favor-1546.html" title="Nhẫn bạc Love Favor"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b62f10f06fe-eropi-Nh-n_b-c_Love_Favor-31_150x150.jpg" alt="Nhẫn bạc Love Favor" title="Nhẫn bạc Love Favor" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Nhẫn bạc Love Favor" href="/trang-suc/nhan/nhan-bac-love-favor-1546.html">Nhẫn bạc Love Favor</a></h5></div>
+															<p class="price">630.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1546" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/bong-tai/bong-tai-ngoc-trai-cara-1562.html" title="Bông tai ngọc trai Cara"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b6324b8962f-eropi-B-ng_tai_b-c_ng-c_trai_Cara-33_150x150.jpg" alt="Bông tai ngọc trai Cara" title="Bông tai ngọc trai Cara" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Bông tai ngọc trai Cara" href="/trang-suc/bong-tai/bong-tai-ngoc-trai-cara-1562.html">Bông tai ngọc trai Cara</a></h5></div>
+															<p class="price">178.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1562" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/bo-trang-suc/bo-trang-suc-bac-tiara-pearl-1780.html" title="Bộ trang sức bạc Tiara Pearl"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b64f3d28a14-eropi-B-_trang_s-c_b-c_Tiara_Pearl-31_150x150.jpg" alt="Bộ trang sức bạc Tiara Pearl" title="Bộ trang sức bạc Tiara Pearl" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Bộ trang sức bạc Tiara Pearl" href="/trang-suc/bo-trang-suc/bo-trang-suc-bac-tiara-pearl-1780.html">Bộ trang sức bạc Tiara Pearl</a></h5></div>
+															<p class="price">1.399.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1780" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/trang-suc/day-chuyen/day-chuyen-bac-snowball-1724.html" title="Dây chuyền bạc Snowball"><img src="https://imgshop.vnexpress.net/images/2017/03/01/58b6444626425-eropi-D-y_chuy-n_b-c_Snowball-33_150x150.jpg" alt="Dây chuyền bạc Snowball" title="Dây chuyền bạc Snowball" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Dây chuyền bạc Snowball" href="/trang-suc/day-chuyen/day-chuyen-bac-snowball-1724.html">Dây chuyền bạc Snowball</a></h5></div>
+															<p class="price">259.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1724" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+			</div>
+	</div>
+
+<!-- Thời trang -->
+<div class="block_cate width_common space_bottom_30" id="cate_thoitrang">
+	<div class="block_tiitle_cate width_common space_bottom_25">
+		<div class="txt_title_cate"><h4><a href="/thoi-trang">Thời trang</a></h4></div>
+	</div>
+	<div class="width_common list_banner_ads list_banner_2item space_bottom_15">		
+				
+	</div>
+		<div class="width_common list_item_cate list_item_cate_folder space_bottom_30">
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/phu-kien-thoi-trang/rayban-rb4246-984-30-1208.html" title="RayBan RB4246 984/30"><img src="https://imgshop.vnexpress.net/images/2017/02/10/589d81b853f0d-RAYBAN-RB4246-984-30-51-5550-1-_150x150.JPG" alt="RayBan RB4246 984/30" title="RayBan RB4246 984/30" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="RayBan RB4246 984/30" href="/thoi-trang/phu-kien-thoi-trang/rayban-rb4246-984-30-1208.html">RayBan RB4246 984/30</a></h5></div>
+															<p class="price">3.885.000 đ</p>
+																<p class="price_true">giá thực tế 5.550.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1208" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">30%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/phu-kien-thoi-trang/rayban-rb2140f-1200-4w-1206.html" title="RayBan RB2140F 1200/4W"><img src="https://imgshop.vnexpress.net/images/2017/02/10/589d80c16f90f-RAYBAN-RBRAYBAN-RB2140F-1200-4W-52-4950-1-_150x150.JPG" alt="RayBan RB2140F 1200/4W" title="RayBan RB2140F 1200/4W" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="RayBan RB2140F 1200/4W" href="/thoi-trang/phu-kien-thoi-trang/rayban-rb2140f-1200-4w-1206.html">RayBan RB2140F 1200/4W</a></h5></div>
+															<p class="price">3.465.000 đ</p>
+																<p class="price_true">giá thực tế 4.950.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1206" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">30%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/phu-kien-thoi-trang/rayban-rb3025-004-58-1220.html" title="RayBan RB3025 004/58"><img src="https://imgshop.vnexpress.net/images/2017/02/10/589d91b7716b5-Rayban-RB3025-004-58-58-6650-hinh-1_150x150.JPG" alt="RayBan RB3025 004/58" title="RayBan RB3025 004/58" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="RayBan RB3025 004/58" href="/thoi-trang/phu-kien-thoi-trang/rayban-rb3025-004-58-1220.html">RayBan RB3025 004/58</a></h5></div>
+															<p class="price">4.655.000 đ</p>
+																<p class="price_true">giá thực tế 6.650.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1220" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">30%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/phu-kien-thoi-trang/rayban-rb4246-988-2x-1205.html" title="RayBan RB4246 988/2X"><img src="https://imgshop.vnexpress.net/images/2017/02/10/589d801790e2c-RAYBAN-RB4246-988-2X-51-5550-1-_150x150.JPG" alt="RayBan RB4246 988/2X" title="RayBan RB4246 988/2X" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="RayBan RB4246 988/2X" href="/thoi-trang/phu-kien-thoi-trang/rayban-rb4246-988-2x-1205.html">RayBan RB4246 988/2X</a></h5></div>
+															<p class="price">3.885.000 đ</p>
+																<p class="price_true">giá thực tế 5.550.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1205" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">30%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/phu-kien-thoi-trang/rayban-rb3025-181-71-1221.html" title="RayBan RB3025 181/71"><img src="https://imgshop.vnexpress.net/images/2017/02/10/589d922296278-Rayban-RB3025-181-71-58-4950-hinh-1_150x150.JPG" alt="RayBan RB3025 181/71" title="RayBan RB3025 181/71" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="RayBan RB3025 181/71" href="/thoi-trang/phu-kien-thoi-trang/rayban-rb3025-181-71-1221.html">RayBan RB3025 181/71</a></h5></div>
+															<p class="price">3.465.000 đ</p>
+																<p class="price_true">giá thực tế 4.950.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1221" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">30%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/thoi-trang-cho-be/ukid73-ao-so-mi-864.html" title="UKID73 - Áo sơ mi"><img src="https://imgshop.vnexpress.net/images/2017/01/19/58808bd5dd8c8-73_150x150.jpg" alt="UKID73 - Áo sơ mi" title="UKID73 - Áo sơ mi" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="UKID73 - Áo sơ mi" href="/thoi-trang/thoi-trang-cho-be/ukid73-ao-so-mi-864.html">UKID73 - Áo sơ mi</a></h5></div>
+															<p class="price">205.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="1" data-product-id="864" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/thoi-trang-cho-be/ukid97-ao-so-mi-862.html" title="UKID97 - Áo sơ mi"><img src="https://imgshop.vnexpress.net/images/2017/01/19/58808be8bde31-97_150x150.jpg" alt="UKID97 - Áo sơ mi" title="UKID97 - Áo sơ mi" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="UKID97 - Áo sơ mi" href="/thoi-trang/thoi-trang-cho-be/ukid97-ao-so-mi-862.html">UKID97 - Áo sơ mi</a></h5></div>
+															<p class="price">235.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="12" data-product-id="862" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/thoi-trang-cho-be/ukid117-quan-shorts-860.html" title="UKID117 - Quần shorts"><img src="https://imgshop.vnexpress.net/images/2017/01/19/58808c0105be7-117_150x150.jpg" alt="UKID117 - Quần shorts" title="UKID117 - Quần shorts" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="UKID117 - Quần shorts" href="/thoi-trang/thoi-trang-cho-be/ukid117-quan-shorts-860.html">UKID117 - Quần shorts</a></h5></div>
+															<p class="price">165.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="12" data-product-id="860" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/thoi-trang-cho-be/ukid79-ao-kieu-855.html" title="UKID79 - Áo kiểu"><img src="https://imgshop.vnexpress.net/images/2017/01/19/58808c176244d-79_150x150.jpg" alt="UKID79 - Áo kiểu" title="UKID79 - Áo kiểu" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="UKID79 - Áo kiểu" href="/thoi-trang/thoi-trang-cho-be/ukid79-ao-kieu-855.html">UKID79 - Áo kiểu</a></h5></div>
+															<p class="price">175.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="12" data-product-id="855" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/thoi-trang/thoi-trang-cho-be/ukid98-ao-so-mi-854.html" title="UKID98 - Áo sơ mi"><img src="https://imgshop.vnexpress.net/images/2017/01/19/58808c2e41f64-98_150x150.jpg" alt="UKID98 - Áo sơ mi" title="UKID98 - Áo sơ mi" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="UKID98 - Áo sơ mi" href="/thoi-trang/thoi-trang-cho-be/ukid98-ao-so-mi-854.html">UKID98 - Áo sơ mi</a></h5></div>
+															<p class="price">215.000 đ</p>
+															<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="12" data-product-id="854" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+											</div>
+			</div>
+	</div>
+
+<div class="block_cate width_common space_bottom_30" id="cate_giadinh">
+	<div class="block_tiitle_cate width_common space_bottom_25">
+		<div class="txt_title_cate"><h4><a href="/gia-dinh">Gia đình</a></h4></div>
+	</div>
+	<div class="width_common list_banner_ads list_banner_2item space_bottom_15">		
+				<div class="item_banner_ads">
+			<a href="https://shop.vnexpress.net/gia-dinh"><img src="https://imgshop.vnexpress.net/banner/2017/03/13/58c64a840b09c-vneshop_578x200_20170308_nt_578x200.jpg" alt="" /></a>
+		</div>
+				<div class="item_banner_ads item_banner_ads_last">
+			<a href="https://shop.vnexpress.net/gia-dinh/thiet-bi-nha-bep"><img src="https://imgshop.vnexpress.net/banner/2017/03/13/58c64ab500d2a-Goldsun_578x200_578x200.png" alt="" /></a>
+		</div>
+				
+	</div>
+		<div class="width_common list_item_cate list_item_cate_folder space_bottom_30">
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/cham-soc-suc-khoe/naturopathica-fatblaster-coconut-detox-750ml-thuc-uong-giam-can-thanh-loc-co-the-vi-dua-1496.html" title="Naturopathica Fatblaster Coconut Detox 750ml - Thức uống giảm cân, thanh lọc cơ thể vị dừa "><img src="https://imgshop.vnexpress.net/images/2017/02/24/58afdd21bc0a5-coconut-detox-d-a-2_150x150.png" alt="Naturopathica Fatblaster Coconut Detox 750ml - Thức uống giảm cân, thanh lọc cơ thể vị dừa " title="Naturopathica Fatblaster Coconut Detox 750ml - Thức uống giảm cân, thanh lọc cơ thể vị dừa " class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Naturopathica Fatblaster Coconut Detox 750ml - Thức uống giảm cân, thanh lọc cơ thể vị dừa " href="/gia-dinh/cham-soc-suc-khoe/naturopathica-fatblaster-coconut-detox-750ml-thuc-uong-giam-can-thanh-loc-co-the-vi-dua-1496.html">Naturopathica Fatblaster Coconut...</a></h5></div>
+															<p class="price">450.000 đ</p>
+																<p class="price_true">giá thực tế 750.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1496" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">40%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/thuc-pham-bo-duong/toi-den-ly-son-iamv-tui-zipper-100gr-2295.html" title="Tỏi Đen Lý Sơn IAmV Túi Zipper 100gr"><img src="https://imgshop.vnexpress.net/images/2017/03/14/58c76cdeb89d5-black-garlic-box_150x150.jpg" alt="Tỏi Đen Lý Sơn IAmV Túi Zipper 100gr" title="Tỏi Đen Lý Sơn IAmV Túi Zipper 100gr" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Tỏi Đen Lý Sơn IAmV Túi Zipper 100gr" href="/gia-dinh/thuc-pham-bo-duong/toi-den-ly-son-iamv-tui-zipper-100gr-2295.html">Tỏi Đen Lý Sơn IAmV Túi Zipper...</a></h5></div>
+															<p class="price">180.000 đ</p>
+																<p class="price_true">giá thực tế 200.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="2295" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">10%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/thuc-pham-bo-duong/toi-den-ly-son-iamv-lo-thuy-tinh-60gr-2293.html" title="Tỏi Đen Lý Sơn IAmV Lọ Thủy Tinh 60gr"><img src="https://imgshop.vnexpress.net/images/2017/03/14/58c768f938980-Capture_5-5_150x150.jpg" alt="Tỏi Đen Lý Sơn IAmV Lọ Thủy Tinh 60gr" title="Tỏi Đen Lý Sơn IAmV Lọ Thủy Tinh 60gr" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Tỏi Đen Lý Sơn IAmV Lọ Thủy Tinh 60gr" href="/gia-dinh/thuc-pham-bo-duong/toi-den-ly-son-iamv-lo-thuy-tinh-60gr-2293.html">Tỏi Đen Lý Sơn IAmV Lọ Thủy Tinh...</a></h5></div>
+															<p class="price">102.000 đ</p>
+																<p class="price_true">giá thực tế 120.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="2293" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">15%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/cham-soc-suc-khoe/ban-chai-may-danh-rang-sonic-maf8101v-367.html" title="Bàn Chải Máy Đánh Răng Sonic MAF8101V"><img src="https://imgshop.vnexpress.net/images/2016/12/05/584547eb90048-M8101-4-_150x150.png" alt="Bàn Chải Máy Đánh Răng Sonic MAF8101V" title="Bàn Chải Máy Đánh Răng Sonic MAF8101V" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Bàn Chải Máy Đánh Răng Sonic MAF8101V" href="/gia-dinh/cham-soc-suc-khoe/ban-chai-may-danh-rang-sonic-maf8101v-367.html">Bàn Chải Máy Đánh Răng Sonic...</a></h5></div>
+															<p class="price">555.000 đ</p>
+																<p class="price_true">giá thực tế 850.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="367" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">35%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/cham-soc-suc-khoe/bo-2-but-tay-trang-rang-dazzling-white-2291.html" title="Bộ 2 Bút tẩy trắng răng Dazzling White"><img src="https://imgshop.vnexpress.net/images/2017/03/14/58c763a7b6bfd-IMG_5160_150x150.JPG" alt="Bộ 2 Bút tẩy trắng răng Dazzling White" title="Bộ 2 Bút tẩy trắng răng Dazzling White" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Bộ 2 Bút tẩy trắng răng Dazzling White" href="/gia-dinh/cham-soc-suc-khoe/bo-2-but-tay-trang-rang-dazzling-white-2291.html">Bộ 2 Bút tẩy trắng răng Dazzling...</a></h5></div>
+															<p class="price">170.000 đ</p>
+																<p class="price_true">giá thực tế 230.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="2291" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">26%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/noi-that-trang-tri/giuong-bl304-1386.html" title="Giường BL304"><img src="https://imgshop.vnexpress.net/images/2017/03/15/58c8a0522c8fb-304_150x150.jpg" alt="Giường BL304" title="Giường BL304" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Giường BL304" href="/gia-dinh/noi-that-trang-tri/giuong-bl304-1386.html">Giường BL304</a></h5></div>
+															<p class="price">6.600.000 đ</p>
+																<p class="price_true">giá thực tế 11.000.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1386" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">40%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/thiet-bi-nha-bep/bep-tu-eurosun-eu-t318-1907.html" title="Bếp Từ Eurosun EU-T318"><img src="https://imgshop.vnexpress.net/images/2017/03/02/58b7e88135262-bep-tu-eurosun-eu-t318-1-_150x150.jpg" alt="Bếp Từ Eurosun EU-T318" title="Bếp Từ Eurosun EU-T318" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Bếp Từ Eurosun EU-T318" href="/gia-dinh/thiet-bi-nha-bep/bep-tu-eurosun-eu-t318-1907.html">Bếp Từ Eurosun EU-T318</a></h5></div>
+															<p class="price">14.000.000 đ</p>
+																<p class="price_true">giá thực tế 24.980.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="1" data-product-id="1907" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">44%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/thiet-bi-nha-bep/bep-dien-tu-eurosun-eu-te259-1914.html" title="Bếp Điện Từ Eurosun EU-TE259"><img src="https://imgshop.vnexpress.net/images/2017/03/02/58b7f0328012f-EU-TE259-500x500_150x150.jpg" alt="Bếp Điện Từ Eurosun EU-TE259" title="Bếp Điện Từ Eurosun EU-TE259" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Bếp Điện Từ Eurosun EU-TE259" href="/gia-dinh/thiet-bi-nha-bep/bep-dien-tu-eurosun-eu-te259-1914.html">Bếp Điện Từ Eurosun EU-TE259</a></h5></div>
+															<p class="price">6.500.000 đ</p>
+																<p class="price_true">giá thực tế 10.890.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="1" data-product-id="1914" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">40%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/noi-that-trang-tri/mung-chup-tu-bung-cao-cap-1m6-3-cua-trang-vien-hong-1369.html" title="MÙNG CHỤP TỰ BUNG CAO CẤP - 1M6 - 3 CỬA - TRẮNG VIỀN HỒNG"><img src="https://imgshop.vnexpress.net/images/2017/02/22/58ad56efbadaf-Untitled-1-copy_150x150.jpg" alt="MÙNG CHỤP TỰ BUNG CAO CẤP - 1M6 - 3 CỬA - TRẮNG VIỀN HỒNG" title="MÙNG CHỤP TỰ BUNG CAO CẤP - 1M6 - 3 CỬA - TRẮNG VIỀN HỒNG" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="MÙNG CHỤP TỰ BUNG CAO CẤP - 1M6 - 3 CỬA - TRẮNG VIỀN HỒNG" href="/gia-dinh/noi-that-trang-tri/mung-chup-tu-bung-cao-cap-1m6-3-cua-trang-vien-hong-1369.html">MÙNG CHỤP TỰ BUNG CAO CẤP - 1M6 - 3...</a></h5></div>
+															<p class="price">550.000 đ</p>
+																<p class="price_true">giá thực tế 600.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1369" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">8%</div>
+												</div>
+					<div class="item_cate">
+				<div class="img_box width_common"><a href="/gia-dinh/noi-that-trang-tri/ban-tra-bl223-1349.html" title="Bàn Trà BL223"><img src="https://imgshop.vnexpress.net/images/2017/02/22/58ad31743d6fa-BL223_150x150.jpg" alt="Bàn Trà BL223" title="Bàn Trà BL223" class="thumb_sp"/></a></div>
+				<div class="box_info_sp width_common">
+					<div class="name_sp"><h5><a title="Bàn Trà BL223" href="/gia-dinh/noi-that-trang-tri/ban-tra-bl223-1349.html">Bàn Trà BL223</a></h5></div>
+															<p class="price">5.900.000 đ</p>
+																<p class="price_true">giá thực tế 7.000.000 đ</p>
+										<a href="javascript:void(0)" class="add_to_cart add_product" data-product-type-id="0" data-product-id="1349" data-product-quantity="1">Thêm vào giỏ</a>
+				</div>
+																			<div class="label_discount">16%</div>
+												</div>
+			</div>
+	</div>
+<!-- Du lịch -->
+	<div class="block_cate width_common space_bottom_30" id="cate_dulich">
+	    <div class="block_tiitle_cate width_common space_bottom_25">
+	        <div class="txt_title_cate"><h4><a href="/du-lich">Du lịch</a></h4></div>
+	    </div>
+    				    	<div class="width_common list_banner_ads list_banner_2item space_bottom_15">
+						
+																				<div class="item_banner_ads">
+							<a href="https://shop.vnexpress.net/du-lich/tour-du-lich/tour-uc-ha-noi-sydney-canberra-4n3d-bay-thang-viet-nam-airlines-hoang-viet-travel-1249.html?utm_source=VnExpressShop"><img src="https://imgshop.vnexpress.net/banner/2017/02/22/58ad3615067b7-vneshop_578x200_20170222_0_578x200.jpg" alt="" /></a>
+						</div>
+																														<div class="item_banner_ads item_banner_ads_last">
+							<a href="https://shop.vnexpress.net/du-lich/tour-du-lich/tour-han-ha-noi-seoul-dao-nami-everland-5n4d-bay-hang-khong-vietjet-air-hoang-viet-travel-1265.html?utm_source=VnExpressShop"><img src="https://imgshop.vnexpress.net/banner/2017/02/22/58ad361ca660c-vneshop_578x200_20170222_578x200.jpg" alt="" /></a>
+						</div>
+																			    	</div>
+											<div class="width_common list_banner_ads list_banner_3item space_bottom_15 dulich">
+													    								<div class="item_banner_ads ">
+				        	<a href="/du-lich/tour-du-lich/tour-buon-me-thuot-gia-lai-kon-tum-mang-den-3n3d-hai-dang-travel-1424.html" title="TOUR BUÔN MÊ THUỘT - GIA LAI  KON TUM - MĂNG ĐEN 3N3Đ - HAI DANG TRAVEL">
+								<img src="https://imgshop.vnexpress.net/images/2017/02/23/58ae5df07ba8d-nha-rong-tay-nguyen-3_380x228.jpg" alt="TOUR BUÔN MÊ THUỘT - GIA LAI  KON TUM - MĂNG ĐEN 3N3Đ - HAI DANG TRAVEL">
+							</a>
+				            				            <!-- <div class="label_discount">30%</div> -->
+				            <div class="clearfix"></div>
+				            <div class="content-dulich">
+				                <h5><a href="/du-lich/tour-du-lich/tour-buon-me-thuot-gia-lai-kon-tum-mang-den-3n3d-hai-dang-travel-1424.html" title="TOUR BUÔN MÊ THUỘT - GIA LAI  KON TUM - MĂNG ĐEN 3N3Đ - HAI DANG TRAVEL">TOUR BUÔN MÊ THUỘT - GIA LAI  KON TUM - MĂNG ĐEN 3N3Đ - HAI DANG TRAVEL</a></h5>
+	                            	                                <p class="price_discount">1.888.000 đ</p>
+	                            	                                                                <p class="price">3.500.000 đ</p>
+                                	                            				            </div>
+				        </div>
+				    			    								<div class="item_banner_ads ">
+				        	<a href="/du-lich/khach-san-resort/tron-goi-an-sang-trua-toi-mien-phi-dua-don-san-bay-tai-khu-nghi-duong-six-senses-ninh-van-bay-nha-trang-5-1076.html" title="Trọn gói ăn sáng, trưa/ tối + miễn phí đưa đón sân bay tại Khu nghỉ dưỡng Six Senses Ninh Vân Bay Nha Trang 5*">
+								<img src="https://imgshop.vnexpress.net/images/2017/02/06/58980032ddc16-AVA_380x228.png" alt="Trọn gói ăn sáng, trưa/ tối + miễn phí đưa đón sân bay tại Khu nghỉ dưỡng Six Senses Ninh Vân Bay Nha Trang 5*">
+							</a>
+				            				            <!-- <div class="label_discount">30%</div> -->
+				            <div class="clearfix"></div>
+				            <div class="content-dulich">
+				                <h5><a href="/du-lich/khach-san-resort/tron-goi-an-sang-trua-toi-mien-phi-dua-don-san-bay-tai-khu-nghi-duong-six-senses-ninh-van-bay-nha-trang-5-1076.html" title="Trọn gói ăn sáng, trưa/ tối + miễn phí đưa đón sân bay tại Khu nghỉ dưỡng Six Senses Ninh Vân Bay Nha Trang 5*">Trọn gói ăn sáng, trưa/ tối + miễn phí đưa đón sân bay tại Khu nghỉ dưỡng Six Senses Ninh Vân Bay Nha Trang 5*</a></h5>
+	                            	                                <p class="price_discount">4.242.000 đ</p>
+	                            	                                                                <p class="price">8.484.000 đ</p>
+                                	                            	                            		                            		<p class="rating">
+	                                		 
+	                                			<span class="star"></span>
+	                                		 
+	                                			<span class="star"></span>
+	                                		 
+	                                			<span class="star"></span>
+	                                		 
+	                                			<span class="star"></span>
+	                                		 
+	                                			<span class="star"></span>
+	                                		 
+	                                			<span class="star"></span>
+	                                				                                </p>
+	                                	                            				            </div>
+				        </div>
+				    			    								<div class="item_banner_ads item_banner_ads_last">
+				        	<a href="/du-lich/tour-du-lich/tour-du-lich-malaysia-ha-noi-kuala-lumpur-genting-4-ngay-khoi-hanh-29-4-hoang-viet-travel-2333.html" title="Tour Du Lịch Malaysia: Hà Nội - Kuala Lumpur - Genting 4 Ngày - Khởi Hành 29/4 - Hoàng Việt Travel">
+								<img src="https://imgshop.vnexpress.net/images/2017/03/15/58c8d37b25556-Malaysia_380x228.jpg" alt="Tour Du Lịch Malaysia: Hà Nội - Kuala Lumpur - Genting 4 Ngày - Khởi Hành 29/4 - Hoàng Việt Travel">
+							</a>
+				            				            <!-- <div class="label_discount">30%</div> -->
+				            <div class="clearfix"></div>
+				            <div class="content-dulich">
+				                <h5><a href="/du-lich/tour-du-lich/tour-du-lich-malaysia-ha-noi-kuala-lumpur-genting-4-ngay-khoi-hanh-29-4-hoang-viet-travel-2333.html" title="Tour Du Lịch Malaysia: Hà Nội - Kuala Lumpur - Genting 4 Ngày - Khởi Hành 29/4 - Hoàng Việt Travel">Tour Du Lịch Malaysia: Hà Nội - Kuala Lumpur - Genting 4 Ngày - Khởi Hành 29/4 - Hoàng Việt Travel</a></h5>
+	                            	                                <p class="price_discount">8.990.000 đ</p>
+	                            	                                                                <p class="price">10.990.000 đ</p>
+                                	                            				            </div>
+				        </div>
+				    				</div>
+						</div>
+<!-- Giáo dục -->
+	<div class="block_cate box_quantam block_list_giaoduc width_common" id="cate_giaoduc">
+        <div class="block_tiitle_cate width_common space_bottom_25">
+            <div class="txt_title_cate"><h4><a href="/giao-duc">Giáo dục</a></h4></div>
+        </div>			
+		<div class="info_quantam" id="list_item_quantam">
+							<div id="owl-demo" class="owl-carousel">
+														<div class="Item width_common">
+						<div class="info_border">
+							<div class="info_bg">
+								<div class="avarta">
+									<a href="/giao-duc/khac/ban-la-trieu-phu-cong-cu-chon-nghe-hanh-nghe-dau-tien-cua-viet-nam-471.html"><img src="https://imgshop.vnexpress.net/images/2016/12/28/586385447453b-thy-378x227-02_380x228.png" alt="Bạn là triệu phú - Công cụ Chọn Nghề, Hành Nghề ĐẦU TIÊN của Việt Nam" title="Bạn là triệu phú - Công cụ Chọn Nghề, Hành Nghề ĐẦU TIÊN của Việt Nam"></a>
+																	</div>
+								<div class="info_conten">
+									<div class="col_right">
+										<div class="calendar">
+											                                            										</div>
+									</div>
+									<div class="col_left">
+										<a href="/giao-duc/khac/ban-la-trieu-phu-cong-cu-chon-nghe-hanh-nghe-dau-tien-cua-viet-nam-471.html" title="Bạn là triệu phú - Công cụ Chọn Nghề, Hành Nghề ĐẦU TIÊN của Việt Nam">Bạn là triệu phú - Công cụ Chọn Nghề, Hành Nghề ĐẦU TIÊN của Việt Nam</a>
+										<p>
+					                                                                        <strong>120.000 đ</strong>
+                                            										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+														<div class="Item width_common">
+						<div class="info_border">
+							<div class="info_bg">
+								<div class="avarta">
+									<a href="/giao-duc/khac/bai-test-online-xac-dinh-kha-nang-vuot-kho-thanh-cong-570.html"><img src="https://imgshop.vnexpress.net/images/2016/12/29/5864dd39565b5-vktc_380x228.png" alt="Bài test Online Xác định Khả Năng Vượt Khó Thành Công" title="Bài test Online Xác định Khả Năng Vượt Khó Thành Công"></a>
+																	</div>
+								<div class="info_conten">
+									<div class="col_right">
+										<div class="calendar">
+											                                            										</div>
+									</div>
+									<div class="col_left">
+										<a href="/giao-duc/khac/bai-test-online-xac-dinh-kha-nang-vuot-kho-thanh-cong-570.html" title="Bài test Online Xác định Khả Năng Vượt Khó Thành Công">Bài test Online Xác định Khả Năng Vượt Khó Thành Công</a>
+										<p>
+					                                                                        <strong>590.000 đ</strong>
+                                            										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+														<div class="Item width_common">
+						<div class="info_border">
+							<div class="info_bg">
+								<div class="avarta">
+									<a href="/giao-duc/khac/bai-test-online-danh-gia-nang-luc-473.html"><img src="https://imgshop.vnexpress.net/images/2016/12/26/5860cf32e3132--nh-gi-n-ng-l-c_380x228.png" alt="Bài test Online Đánh Giá Năng Lực" title="Bài test Online Đánh Giá Năng Lực"></a>
+																	</div>
+								<div class="info_conten">
+									<div class="col_right">
+										<div class="calendar">
+											                                            										</div>
+									</div>
+									<div class="col_left">
+										<a href="/giao-duc/khac/bai-test-online-danh-gia-nang-luc-473.html" title="Bài test Online Đánh Giá Năng Lực">Bài test Online Đánh Giá Năng Lực</a>
+										<p>
+					                                                                        <strong>150.000 đ</strong>
+                                            										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+														<div class="Item width_common">
+						<div class="info_border">
+							<div class="info_bg">
+								<div class="avarta">
+									<a href="/giao-duc/khoa-hoc/lap-trinh-swift-345.html"><img src="https://imgshop.vnexpress.net/images/2016/11/28/583c14fb20ac7-swift_380x228.png" alt="Lập trình Swift" title="Lập trình Swift"></a>
+																																								<p class="address">Hà Nội</p>
+																											</div>
+								<div class="info_conten">
+									<div class="col_right">
+										<div class="calendar">
+											                                                                                                                                                                                                <h5>Thời gian</h5>
+                                                    <div class="warp">
+                                                        <span>25/11/2016</span>
+	                                                    <i> - </i>
+	                                                    <span>31/12/2016</span>
+                                                    </div>
+                                                                                            										</div>
+									</div>
+									<div class="col_left">
+										<a href="/giao-duc/khoa-hoc/lap-trinh-swift-345.html" title="Lập trình Swift">Lập trình Swift</a>
+										<p>
+					                                                                        <strong>3.600.000 đ</strong>
+                                            										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				
+		</div>			
+	</div>
+<!-- News -->
+	<div class="block_cate width_common space_bottom_30" id="cate_tintuc">
+		<div class="block_tiitle_cate width_common space_bottom_25">
+						<div class="txt_title_cate"><h4><a href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu" target="_blank">Tin tức</a></h4></div>
+		</div>
+		<div class="width_common list_tintuc space_bottom_15">
+			<div id="owl-demo" class="owl-carousel">
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fkhieu-nai-ve-giao-dich-truc-tuyen-o-trung-quoc-gia-tang-3555699.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f28.kinhdoanh.vnecdn.net/2017/03/15/complaint-2-3401-1489563444_180x108.jpg&c=33f76164716d14000295a306c532a08d" alt="Khiếu nại về giao dịch trực tuyến ở Trung Quốc gia tăng" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fkhieu-nai-ve-giao-dich-truc-tuyen-o-trung-quoc-gia-tang-3555699.html" class="title_news">Khiếu nại về giao dịch trực tuyến ở Trung Quốc gia tăng</a>
+						<div class="lead_news width_common">Số vụ khiếu nại liên quan đến thương mại điện tử trong năm...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fthuong-hieu-chau-au-cham-thich-ung-xu-huong-truc-tuyen-o-trung-quoc-3555760.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f26.kinhdoanh.vnecdn.net/2017/03/15/ea26-6239-1489570050_180x108.jpg&c=9af1596ac06e803d9674d0affbb00cad" alt="Thương hiệu châu Âu chậm thích ứng xu hướng trực tuyến ở Trung Quốc" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fthuong-hieu-chau-au-cham-thich-ung-xu-huong-truc-tuyen-o-trung-quoc-3555760.html" class="title_news">Thương hiệu châu Âu chậm thích ứng xu hướng trực tuyến ở Trung Quốc</a>
+						<div class="lead_news width_common">Chi tiêu cho mặt hàng xa xỉ tăng mạnh ở Trung Quốc nhưng...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Fbizweb-doanh-thu-mot-so-shop-thoi-trang-truc-tuyen-tang-truong-cham-3554368.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f28.kinhdoanh.vnecdn.net/2017/03/14/kinh-doanh-thoi-trang-3539-1489460544_180x108.jpg&c=33f35efb48b6d75703a4c011c0086fb9" alt="Bizweb: 'Doanh thu một số shop thời trang trực tuyến tăng trưởng chậm'" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Fbizweb-doanh-thu-mot-so-shop-thoi-trang-truc-tuyen-tang-truong-cham-3554368.html" class="title_news">Bizweb: 'Doanh thu một số shop thời trang trực tuyến tăng trưởng chậm'</a>
+						<div class="lead_news width_common">Trong năm 2016, mức doanh thu của một số shop kinh doanh...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fhang-hoa%252F20-usd-mot-chiec-choi-dot-ban-tren-amazon-3554200.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f26.kinhdoanh.vnecdn.net/2017/03/13/choichitbantrenamazon-14893409-1903-9614-1489341066_180x108.png&c=0ab4b68323299b0249290e6061246c6f" alt="20 USD một chiếc chổi đót bán trên Amazon" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fhang-hoa%252F20-usd-mot-chiec-choi-dot-ban-tren-amazon-3554200.html" class="title_news">20 USD một chiếc chổi đót bán trên Amazon</a>
+						<div class="lead_news width_common">Ngoài cao sao vàng, mặt hàng chổi đót, phin cà phê Việt Nam...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Fgiac-mo-kinh-doanh-thoi-trang-cua-doi-ban-nganh-luat-3551122.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f26.kinhdoanh.vnecdn.net/2017/03/09/duong-lananh-4109-1489032788_180x108.jpg&c=4247afe1b0b4ae80e728c766d5c6f71a" alt="Giấc mơ kinh doanh thời trang của đôi bạn ngành luật" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Fgiac-mo-kinh-doanh-thoi-trang-cua-doi-ban-nganh-luat-3551122.html" class="title_news">Giấc mơ kinh doanh thời trang của đôi bạn ngành luật</a>
+						<div class="lead_news width_common">Thùy Dương và Lan Anh từng được Ban tổ chức Hoa hậu Việt Nam...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fdhl-thi-diem-giao-hang-bang-xe-dap-o-duc-va-ha-lan-3552216.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f25.kinhdoanh.vnecdn.net/2017/03/08/dhl-cubicycle-1405-1488957899_180x108.jpg&c=fbee4822188b2743b9871d3b67c8de03" alt="DHL thí điểm giao hàng bằng xe đạp ở Đức và Hà Lan" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fdhl-thi-diem-giao-hang-bang-xe-dap-o-duc-va-ha-lan-3552216.html" class="title_news">DHL thí điểm giao hàng bằng xe đạp ở Đức và Hà Lan</a>
+						<div class="lead_news width_common">Việc dùng xe đạp giao nhận hàng hóa trong khu vực nội thành...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Fthuong-mai-dien-tu-an-do-tang-truong-manh-me-3548759.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f28.kinhdoanh.vnecdn.net/2017/03/03/online-shopping-4782-1488531732_180x108.jpg&c=af4737e5e9c83893354a44d3b14c0d74" alt="Thương mại điện tử Ấn Độ tăng trưởng mạnh mẽ" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Fthuong-mai-dien-tu-an-do-tang-truong-manh-me-3548759.html" class="title_news">Thương mại điện tử Ấn Độ tăng trưởng mạnh mẽ</a>
+						<div class="lead_news width_common">Với 681 tỷ doanh thu bán lẻ trực tuyến năm 2016, Trung Quốc...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fthuy-dien-muon-cam-ban-ruou-truc-tuyen-3550802.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f27.kinhdoanh.vnecdn.net/2017/03/06/buy-wine-online-5429-1488773648_180x108.jpg&c=16b506b5b2a1564ee109c121186f31b8" alt="Thụy Điển muốn cấm bán rượu trực tuyến" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fthuy-dien-muon-cam-ban-ruou-truc-tuyen-3550802.html" class="title_news">Thụy Điển muốn cấm bán rượu trực tuyến</a>
+						<div class="lead_news width_common">Chính phủ Thụy Điển vừa đề xuất một đạo luật quy định việc...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fthuong-mai-dien-tu-trung-quoc-co-the-dat-1-700-ty-usd-nam-2020-3550354.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f25.kinhdoanh.vnecdn.net/2017/03/04/a-man-walks-past-a-booth-of-yi-8653-8554-1488620771_180x108.jpg&c=032bb1494e36b5647bcd2180bc069516" alt="Thương mại điện tử Trung Quốc có thể đạt 1.700 tỷ USD năm 2020" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fthuong-mai-dien-tu%252Ftin-quoc-te%252Fthuong-mai-dien-tu-trung-quoc-co-the-dat-1-700-ty-usd-nam-2020-3550354.html" class="title_news">Thương mại điện tử Trung Quốc có thể đạt 1.700 tỷ USD năm 2020</a>
+						<div class="lead_news width_common">Báo cáo mới công bố của Goldman Sachs dự báo thị trường...</div>
+					</div>
+									<div class="item_slide_news">
+												<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fdoanh-nghiep%252Fkho-thu-thue-ban-hang-qua-facebook-3550412.html" class="thumb_news width_common"><img src="https://sc.vnexpress.net/p?u=http://img.f28.kinhdoanh.vnecdn.net/2017/03/04/ban-hang-online-7699-1488642414_180x108.jpg&c=03549a20fa7fb8abb001c8f40d2a8073" alt="Khó thu thuế bán hàng qua Facebook" /></a>
+						<a target="_blank" href="/redirect/http%253A%252F%252Fkinhdoanh.vnexpress.net%252Ftin-tuc%252Fdoanh-nghiep%252Fkho-thu-thue-ban-hang-qua-facebook-3550412.html" class="title_news">Khó thu thuế bán hàng qua Facebook</a>
+						<div class="lead_news width_common">Chưa kiểm soát được nguồn thu của những cá nhân kiếm tiền...</div>
+					</div>
+							</div>
+		</div>
+	</div>
+        </div>
+        <div class="clear"></div>
+    </div>
+ </div>
+    <div id="wrapper_footer" class="width_common">
+        <div id="footer">
+        	<div class="box_footer box_footer1 width_common">
+        		<div class="col_footer col_footer1">
+        			<h6>
+                        <p>Nhận khuyến mãi giới hạn từ VnExpress</p>
+                    </h6>
+        			<div class="width_common form_subcribe">
+                        <form autocomplete="false" role="form" method="post" action="https://emarketing.eclick.vn/form/submit?formId=15" id="mauticform_shopvnexpresssubcrible" data-mautic-form="shopvnexpresssubcrible">
+                            <div class="search_box">
+                                <div id="mauticform_wrapper_shopvnexpresssubcrible" class="mauticform_wrapper">
+                                    <input name="mauticform[email]" value="" class="input_search mauticform-input" id="mauticform_input_shopvnexpresssubcrible_email" type="email" required="required" placeholder="Nhập địa chỉ email của bạn" />
+                                    <button type="submit" class="btn_search mauticform-button" name="mauticform[submit]" id="mauticform_input_shopvnexpresssubcrible_submit"  value="1">Đăng ký</button>
+                                     <input type="hidden" name="mauticform[formId]" id="mauticform_shopvnexpresssubcrible_id" value="15" />
+                                    <input type="hidden" name="mauticform[return]" id="mauticform_shopvnexpresssubcrible_return" value="" />
+                                    <input type="hidden" name="mauticform[formName]" id="mauticform_shopvnexpresssubcrible_name" value="shopvnexpresssubcrible" />
+                                </div>
+                                <div class="mauticform_error err"></div>
+                            </div>
+                        </form>
+                        <script type="text/javascript">
+                            $(document).ready(function() {
+                                $('form[data-mautic-form="shopvnexpresssubcrible"]').on('submit', function() {
+                                    if ($('.mauticform-input').val().length > 0) {
+                                        return true;
+                                    } else {
+                                        $('.mauticform_error').text('Bạn chưa nhập địa chỉ email');
+                                    }
+                                    return false;
+                                });
+                            });
+                        </script>
+        			</div>
+        		</div>
+        		<div class="col_footer col_footer2">
+        			<p>Chính sách hoạt động</p>
+        			<ul class="width_common">
+        				<!--<li><a href="/ve-vnexpress-ecommerce">Về VnExpress eCommerce</a></li>-->
+        				<li><a href="/chinh-sach-bao-mat">Chính sách bảo mật</a></li>
+        				<li><a href="/chinh-sach-thanh-toan">Chính sách thanh toán</a></li>
+        				<li><a href="/chinh-sach-giao-hang">Chính sách giao hàng</a></li>
+        				<li><a href="/chinh-sach-doi-tra">Chính sách đổi trả</a></li>
+        				<li><a href="/chinh-sach-bao-hanh">Chính sách bảo hành</a></li>
+        			</ul>
+        		</div>
+        		<div class="col_footer col_footer3">
+        			<p>Hợp tác đối tác</p>
+        			<ul class="width_common">
+        				<li><a href="/co-hoi-hop-tac">Cơ hội hợp tác</a></li>
+        				<li><a href="/lien-he-hop-tac">Liên hệ hợp tác</a></li>
+        				<li><a target="_blank" href="/redirect/http%253A%252F%252Fvnexpress.net%252Flien-he-quang-cao">Liên hệ quảng cáo</a></li>
+        			</ul>
+        		</div>
+                <div class="col_footer col_footer4">
+                    <p>Quy chế hoạt động</p>
+                    <ul class="width_common">
+                        <li><a href="/quy-che-hoat-dong">Quy chế hoạt động</a></li>
+                        <li><a href="/giai-quyet-tranh-chap">Giải quyết tranh chấp, khiếu nại</a></li>
+                    </ul>
+                </div>
+        	</div>
+            <div class="box_footer box_footer2 width_common">
+        		<div class="col_footer col_footer1">
+        			<a href="/"><img src="https://stshop.vnexpress.net/i/v21/graphics/logo-shop.png" alt="VnExpress Shop" />
+                        <!--<h1>Mua sắm trực tuyến uy tín, chất lượng</h1>-->
+                    </a>
+        		</div>
+        		<div class="col_footer col_footer2">
+        			<a target="_blank" href="https://www.facebook.com/shop.vnexpress.net/?ref=aymt_homepage_panel"><i class="fa fa-facebook-square"></i></a>
+                    <a target="_blank" href="https://www.youtube.com/channel/UCsB2760X9fiA5PXSN0dFh1g/"><i class="fa fa-youtube-square"></i></a>
+        		</div>
+            </div>
+    		<div class="width_common box_footer_dangkythuongmai">
+                <div class="dangky_col_left left">
+                    <p><strong>Tên đăng ký:</strong> Công ty Cổ phần Dịch vụ trực tuyến FPT</p>
+                    <p><strong>Tên giao dịch:</strong> FPT Online JSC</p>
+                    <p><strong>Địa chỉ trụ sở: </strong> Tầng 6, Tòa nhà Exchange Tower - số 1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Tp.HCM.</p>
+                    <p><strong>Điện thoại/ Fax: </strong> 08 - 7300 9999</p>
+                    <p><strong>Email: </strong> shop@vnexpress.net</p>
+                    <p class="giaychungnhan"><strong>Giấy chứng nhận đăng ký kinh doanh số 0305045911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 22/12/2015</strong></p>
+                </div>
+                <div class="dangky_col_right right"><a href="/redirect/http%253A%252F%252Fonline.gov.vn%252FWebsiteDisplay.aspx%253FDocId%253D25541" target="_blank"><img src="https://stshop.vnexpress.net/i/v21/graphics/label_dk.png" alt=""></a></div>
+            </div>
+        </div>
+    </div>
+    <div class="block_close_menu">&nbsp; </div>
+    <a href="javascript:;" id="to_top"><img src="https://stshop.vnexpress.net/i/v21/icons/icon_gototop.png" /></a>
+</div>
+<script type="text/javascript" src="https://stmy.vnexpress.net/myvne/j/v1/myvne_users.js"></script>
+<script type="text/javascript" src="https://stshop.vnexpress.net/j/v14/ecommerce.js"></script>
+<script type="text/javascript">
+    eCommerce.init();
+</script>
+<!-- /page -->
+<script type="text/javascript">
+	(function() {
+	window._klDmp = window._klDmp || "";
+	window._klDmp = "vne_shop";
+	var el = document.createElement('script');
+	el.type = 'text/javascript'; el.async = false;
+	el.src = 'https://dmp.knowlead.io/dmpcollector.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(el, s);
+	})();
+</script>
+</body>
+</html>
+

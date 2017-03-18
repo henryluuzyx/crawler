@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Syria và Israel 'đọ' tên lửa - Lao Động
+</title><meta name="keywords" content="Quân đội Israel,Không quân Israel,israel,phòng không,Syria,Quân đội Syria,lebanon,máy bay chiến đấu,không kích,Hezbollah,Muhammad Abbas,jordan,Sputnik,Lực lượng Quốc phòng Israel,chiếm đóng,Bashar Al-Assad,bảo vệ,đối đầu" /><meta name="description" content="Ngày 17.3, các lực lượng Syria bắn tên lửa phòng không vào chiến đấu cơ của Israel. Đáp trả, Israel đánh trúng các mục tiêu ở Syrira." />
+<link rel="canonical" href="http://www.baomoi.com/syria-va-israel-do-ten-lua/c/21793021.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793021" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793021" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://laodong.com.vn/the-gioi/syria-va-israel-do-ten-lua-647648.bld");
+else
+window.location.replace("http://www.baomoi.com/syria-va-israel-do-ten-lua/c/21793021.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

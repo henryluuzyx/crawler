@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Một số chương trình phát sóng ngày 18-3 - Nhân Dân
+</title><meta name="keywords" content="Hòn Đất,lạm dụng tình dục trẻ em,động vật hoang dã,Củ Chi,Roma,asean,liên minh châu âu,thổ nhĩ kỳ,khai thác,Nga,Hà Nội" /><meta name="description" />
+<link rel="canonical" href="http://www.baomoi.com/mot-so-chuong-trinh-phat-song-ngay-18-3/c/21792442.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792442" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792442" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.nhandan.com.vn/bandoc/chuong_trinh_phat_song/item/32344902-mot-so-chuong-trinh-phat-song-ngay-18-3.html");
+else
+window.location.replace("http://www.baomoi.com/mot-so-chuong-trinh-phat-song-ngay-18-3/c/21792442.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

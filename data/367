@@ -1,0 +1,993 @@
+<!doctype html>
+<!--[if IE 7]><html lang="en" class="ie7"></html><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie8"></html><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie9"></html><![endif]-->
+<!-- [if gt IE 9] <!-->
+<html lang="en">
+    <!-- <![endif]-->
+        <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="en" />
+    <meta name="robots" content="index, follow" />
+    <meta name="google-site-verification" content="eau3gGflzg9BouNSsVKrx_mR5f0HbSLuvDKznJ3AE1k" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0, user-scalable=yes">
+    <link rel="shortcut icon" href="http://static.new.tuoitre.vn/assets/tto/30d75256v783/images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/30d75256v783/css/print.min.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/30d75256v783/css/lib.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/30d75256v783/css/screen.min.css" media="screen" />
+    <!--[if lt IE 9]><script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/js/html5.js"></script><![endif]-->
+    <!-- <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/30d75256v783/css/video-js.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://static.new.tuoitre.vn/assets/tto/30d75256v783/css/videojs.vast.vpaid.css" media="screen" /> -->
+    <script src="http://static.new.tuoitre.vn/rmp/js/rmp.min.js"></script>
+    <meta property="og:title" content="Tin tức, đọc báo, tin nhanh - Thể Thao - Tuổi Trẻ Online" />
+<meta property="og:description" content="Tin thể thao - Cập nhật tin tức nhanh &amp; mới nhất về thể thao: bóng đá, quần vợt, bóng chuyền, tennis, các cuộc thi và giải đấu hấp dẫn nhất thế giới." />
+<meta property="og:image" itemprop="thumbnailUrl" content="http://static.new.tuoitre.vn/tto/r/2014/09/16/w6e7Twj9.png" />
+<meta property="og:url" content="http://tuoitre.vn/" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="tuoitre.vn" />
+<meta name="description" content="Tin thể thao - Cập nhật tin tức nhanh &amp; mới nhất về thể thao: bóng đá, quần vợt, bóng chuyền, tennis, các cuộc thi và giải đấu hấp dẫn nhất thế giới." />
+<meta name="keywords" content=" thể thao, bóng đá, quần vợt, bóng chuyền, tennis, cầu lông, điền kinh, bóng bàn, bơi lội cuộc thi, giải đấu, world cup" />
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/8088c2a7v783/jquery.min.js"></script>
+<title>Tin tức, đọc báo, tin nhanh - Thể Thao - Tuổi Trẻ Online</title>
+
+    
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46730129-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
+    <!-- Facebook Analytics -->
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '913371738775010');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=913371738775010&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+    </head>    <body>
+        <header class="header">
+    <div class="container">
+        <a class="btn-action" href="javascript:;"><i class="fa fa-bars"></i></a>
+        <a class="btn-menu" href="javascript:;" title="Chuyên Mục"><i class="fa fa-bars"></i> Chuyên Mục</a>
+        <a class="logo" href="http://tuoitre.vn" title="Tuổi Trẻ"><img alt="" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/images/logo-tuoitre.png"></a>
+        <a class="logo-1" href="http://thethao.tuoitre.vn" title="Thể Thao"><img alt="" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/images/logo-thethao.png"> </a>
+        <a class="btn-search-1 btn-searchsg" href="javascript:;"><i class="fa fa-search"></i></a>
+
+        <form class="frm-search-1" action="http://tuoitre.vn/tim-kiem/">
+            <div class="form-group">
+                <input type="text" name="q" id="q" class="form-control" placeholder="Tìm kiếm...">
+            </div>
+        </form>
+
+        <ul class="list-social">
+            <li><a href="https://www.facebook.com/baotuoitre" title="facebook"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/tuoitre_tphcm" title="tw"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://plus.google.com/107706664902384479582" title="google"><i class="fa fa-google-plus"></i></a></li>
+        </ul>
+        <ul class="list-cata"><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi">Chính trị - Xã hội</a><ul><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi">Thời sự - Suy nghĩ</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su">Phóng sự - Ký sự</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong">Môi trường</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay">Chuyện thường ngày</a></li><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/tieu-diem">Tiêu điểm</a></li></ul></li><li><a href="http://tuoitre.vn/tin/the-gioi">Thế giới</a><ul><li><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan">Quan sát - Bình luận</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau">Thế giới muôn màu</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/nguoi-viet-nam-chau">Người Việt năm châu</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/ho-so">Hồ sơ</a></li><li><a href="http://tuoitre.vn/tin/the-gioi/goc-anh">Góc ảnh</a></li></ul></li><li><a href="http://tuoitre.vn/tin/phap-luat">Pháp luật</a><ul><li><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh">Ký sự pháp đình</a></li><li><a href="http://tuoitre.vn/tin/phap-luat/tu-van">Tư vấn</a></li></ul></li><li><a href="http://tuoitre.vn/tin/kinh-te">Kinh tế</a><ul><li><a href="http://tuoitre.vn/tin/kinh-te/thi-truong">Thị trường</a></li><li><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh">Tài chính</a></li><li><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan">Doanh nhân</a></li><li><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe">Thế giới xe</a></li><li><a href="http://batdongsan.tuoitre.vn/">Bất động sản</a></li><li><a href="http://dulich.tuoitre.vn">Du lịch</a></li></ul></li><li><a href="http://tuoitre.vn/tin/song-khoe">Sống khỏe</a><ul><li><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online">Phòng mạch online</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/me-va-be">Mẹ & Bé</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh">Giới tính</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon">Tư vấn hiếm muộn</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/blog-bac-si">Blog bác sĩ</a></li><li><a href="http://tuoitre.vn/tin/song-khoe/biet-de-khoe">Biết để khỏe</a></li></ul></li><li><a href="http://tuoitre.vn/tin/giao-duc">Giáo dục</a><ul><li><a href="http://tuoitre.vn/tin/giao-duc/du-hoc">Du học</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc">Khoa học</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc">Câu chuyện giáo dục</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc">Giáo dục các nước</a></li><li><a href="http://tuoitre.vn/tin/giao-duc/goc-hoc-tap">Góc học tập</a></li></ul></li><li><a href="http://tuyensinh.tuoitre.vn">iTuyển sinh</a><ul><li><a href="http://tuyensinh.tuoitre.vn/tin/tin-nong-ituyensinh">Tin nóng iTuyển sinh</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/hoc-gi-o-dau">Học gì - Ở đâu?</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/tuyen-sinh-247">Tuyển sinh 24/7</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/do-thi-tri-thuc">Đô thị tri thức</a></li><li><a href="http://tuyensinh.tuoitre.vn/tin/chia-khoa-thanh-cong">Chìa khóa thành công</a></li></ul></li><li><a href="http://thethao.tuoitre.vn">Thể thao</a><ul><li><a href="http://thethao.tuoitre.vn/trang/bong-da">Bóng đá</a></li><li><a href="http://thethao.tuoitre.vn/trang/quan-vot">Quần vợt</a></li><li><a href="http://thethao.tuoitre.vn/trang/cac-mon-khac">Các môn khác</a></li><li><a href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song">Thể thao & Cuộc sống</a></li><li><a href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao">Sức khỏe thể thao</a></li><li><a href="http://thethao.tuoitre.vn/trang/hau-truong">Hậu trường</a></li></ul></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri">Văn hóa - Giải trí</a><ul><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/giai-tri">Giải trí</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac">Âm nhạc</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh">Điện ảnh</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/thoi-trang">Thời Trang</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh">Truyền hình</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/hau-truong">Hậu trường</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/van-hoc-sach">Văn học - Sách</a></li><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/goc-anh">Góc ảnh</a></li></ul></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre">Nhịp sống trẻ</a><ul><li><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu">Sống & Yêu</a></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam">Cơ hội việc làm</a></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online">Nhịp sống online</a></li><li><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim">Bắc nhịp trái tim</a></li></ul></li><li><a href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a><ul><li><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai">Điện thoại</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so">Thiết bị số</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/blog">Blog</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/thi-truong">Thị trường</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham">Đánh giá</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/bao-mat">Bảo mật</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/tu-van-tieu-dung">Tư vấn tiêu dùng</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/thu-thuat-kien-thuc">Thủ thuật - Kiến thức</a></li><li><a href="http://nhipsongso.tuoitre.vn/tin/nhip-cau">Nhịp cầu</a></li></ul></li><li><a href="http://tuoitre.vn/tin/ban-doc">Bạn đọc</a><ul><li><a href="http://tuoitre.vn/tin/ban-doc/cung-lam-bao">Cùng làm báo</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/phan-hoi">Phản hồi</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/duong-day-nong">Đường dây nóng</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/tam-su">Tâm sự</a></li><li><a href="http://tuoitre.vn/tin/ban-doc/tieu-diem">Tiêu điểm</a></li></ul></li><li><a href="http://dulich.tuoitre.vn">Du lịch</a><ul><li><a href="http://dulich.tuoitre.vn/tin/nhung-mien-dat-la">Những miền đất lạ</a></li><li><a href="http://dulich.tuoitre.vn/tin/trai-nghiem-kham-pha">Trải nghiệm - Khám phá</a></li><li><a href="http://dulich.tuoitre.vn/tin/am-thuc">Ẩm thực</a></li><li><a href="http://dulich.tuoitre.vn/tin/van-hoa">Văn hóa</a></li><li><a href="http://dulich.tuoitre.vn/tin/goc-anh-lu-hanh">Góc ảnh lữ hành</a></li></ul></li><li><a href="http://tuoitre.vn/tin/can-biet">Cần biết</a><ul><li><a href="http://tuoitre.vn/tin/can-biet/tai-chinh-doanh-nghiep">Tài chính - Doanh nghiệp</a></li><li><a href="http://tuoitre.vn/tin/can-biet/giao-duc-huong-nghiep">Giáo dục - Hướng nghiệp</a></li><li><a href="http://tuoitre.vn/tin/can-biet/suc-khoe-doi-song">Sức khỏe - Đời sống</a></li><li><a href="http://tuoitre.vn/tin/can-biet/du-lich">Du lịch - Giải trí</a></li><li><a href="http://tuoitre.vn/tin/can-biet/dia-oc">Địa ốc</a></li><li><a href="http://tuoitre.vn/tin/can-biet/san-pham-dich-vu">Sản phẩm - Công nghệ</a></li></ul></li><li class="style-1"><a href="http://tuoitrenews.vn">TUOITRENEWS</a></li><li class="style-1"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan">Tuổi trẻ cuối tuần</a></li><li class="style-1"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi">Tuổi trẻ cười</a></li><li class="style-1"><a href="http://tv.tuoitre.vn">Tuổi trẻ TV</a></li><li class="style-1"><a href="http://tusach.tuoitre.vn">Tủ sách</a></li></ul>
+    </div>
+</header>        <div class="wrapper">
+                <nav class="navbar navbar-default main-nav">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <a class="navbar-brand" href="http://thethao.tuoitre.vn" title="Trang chủ">Trang chủ</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+
+                    <li><a href="http://thethao.tuoitre.vn" title="Trang chủ">Trang chủ</a></li>
+                    <li class="dropdown"><a class="dropdown-toggle disabled" href="http://thethao.tuoitre.vn/tin/bong-da">Bóng đá</a><a class="dropdown-toggle outer-caret" data-toggle="dropdown" href="javascript:;"><b class="caret"></b></a><ul class="dropdown-menu"><li><a href="http://thethao.tuoitre.vn/tin/bong-da/champions-league">Champions League</a></li><li><a href="http://thethao.tuoitre.vn/tin/bong-da/premier-league">Premier League</a></li><li><a href="http://thethao.tuoitre.vn/tin/bong-da/seria">Serie A</a></li><li><a href="http://thethao.tuoitre.vn/tin/bong-da/la-liga">La Liga</a></li><li><a href="http://thethao.tuoitre.vn/tin/bong-da/uefa-cup">UEFA Cup</a></li><li><a href="http://thethao.tuoitre.vn/tin/bong-da/bundesliga">Bundesliga</a></li></ul></li><li><a href="http://thethao.tuoitre.vn/tin/quan-vot">Quần vợt</a></li><li><a href="http://thethao.tuoitre.vn/tin/cac-mon-khac">Các môn khác</a></li><li><a href="http://thethao.tuoitre.vn/tin/the-thao-cuoc-song">Thể thao & Cuộc sống</a></li><li><a href="http://thethao.tuoitre.vn/tin/suc-khoe-the-thao">Sức khỏe thể thao</a></li><li><a href="http://thethao.tuoitre.vn/tin/hau-truong">Hậu trường</a></li>                    <li class="btn-search pull-right">
+                        <a id="link-search" href="javascript:;" title="Search"><i class="fa fa-search"></i></a>
+                        <form class="frm-search" id="search-frm" action="http://tuoitre.vn/tim-kiem/">
+                            <div class="form-group">
+                                <input type="text" name="q" id="q" class="form-control" placeholder="Tìm kiếm...">
+                            </div>
+                        </form>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+            <section class="container page">
+                <div class="row">
+                    <div class="main col-md-8 col-sm-8">
+                        <div class="row">
+                            <section class="content col-md-9 col-sm-12">
+                                	
+		<article class="art-feature">
+		<a href="http://thethao.tuoitre.vn/tin/20170318/diem-tin-sang-183-kompany-bi-loai-khoi-tuyen-bi/1282442.html" title="">
+			<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/18/vincent-kompany-wallpapers-1489789581.jpg"alt="​Điểm tin sáng 18-3: Kompany bị loại khỏi tuyển Bỉ"/>		</a>
+		<h1>
+			<a href="http://thethao.tuoitre.vn/tin/20170318/diem-tin-sang-183-kompany-bi-loai-khoi-tuyen-bi/1282442.html" title="">
+				​Điểm tin sáng 18-3: Kompany bị loại khỏi tuyển Bỉ							</a>
+		</h1>
+
+		<p>TTO - Trung vệ Vincent Kompany đã bị HLV Roberto Martinez loại ra khỏi danh sách tuyển Bỉ tham dự hai trận gặp Hi Lạp và Nga vào cuối tuần sau vì sa sút phong độ.</p>
+	</article>
+	
+		<div class="row">
+				<article class="art-1 col-md-6 col-sm-6 col-xs-6">
+			<a href="http://thethao.tuoitre.vn/tin/20170318/dortmund-thang-sit-sao-doi-ap-chot-bang-ingolstadt/1282439.html" title="">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/18/aubameyang-cropped-6zatdjxmdw9a11tvkh56gma7p-1489788054.jpg"alt="​Dortmund thắng sít sao đội áp chót bảng Ingolstadt"/>			</a>
+			<h3>
+				<a href="http://thethao.tuoitre.vn/tin/20170318/dortmund-thang-sit-sao-doi-ap-chot-bang-ingolstadt/1282439.html" title="">
+					​Dortmund thắng sít sao đội áp chót bảng Ingolstadt                    				</a>
+			</h3>
+		</article>
+				<article class="art-1 col-md-6 col-sm-6 col-xs-6">
+			<a href="http://thethao.tuoitre.vn/tin/20170317/quang-nam-nguoc-dong-ha-can-tho-tren-san-nha/1282139.html" title="">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/khoi8933-jpg-1489751928.jpg"alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà"/>			</a>
+			<h3>
+				<a href="http://thethao.tuoitre.vn/tin/20170317/quang-nam-nguoc-dong-ha-can-tho-tren-san-nha/1282139.html" title="">
+					​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà                    <span class="i-videos"><i class="fa fa-video-camera"></i></span>				</a>
+			</h3>
+		</article>
+				<article class="art-1 col-md-6 col-sm-6 col-xs-6">
+			<a href="http://thethao.tuoitre.vn/tin/bong-da/20170317/tu-ket-champions-league-barca-cham-tran-juve-bm-gap-rm/1282121.html" title="">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/c7hbenqwwaagvwg-1489749869.jpg"alt="Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M  "/>			</a>
+			<h3>
+				<a href="http://thethao.tuoitre.vn/tin/bong-da/20170317/tu-ket-champions-league-barca-cham-tran-juve-bm-gap-rm/1282121.html" title="">
+					Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M                      <span class="i-comments"><i class="fa fa-comments"></i> 5</span>				</a>
+			</h3>
+		</article>
+				<article class="art-1 col-md-6 col-sm-6 col-xs-6">
+			<a href="http://thethao.tuoitre.vn/tin/20170317/u23-vn-gap-han-quoc-dong-timor-va-macau-o-vong-loai-giai-u23-chau-a/1282040.html" title="">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/khoi6898-jpg-1489736427.jpg"alt="​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á"/>			</a>
+			<h3>
+				<a href="http://thethao.tuoitre.vn/tin/20170317/u23-vn-gap-han-quoc-dong-timor-va-macau-o-vong-loai-giai-u23-chau-a/1282040.html" title="">
+					​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á                    <span class="i-comments"><i class="fa fa-comments"></i> 1</span><span class="i-videos"><i class="fa fa-video-camera"></i></span>				</a>
+			</h3>
+		</article>
+			</div>
+	                            </section>
+                            <div class="col-mid col-md-3 col-sm-12">
+                                <div class="block-mid">
+	<h2><a href="#" title>Tin mới</a></h2>
+	<ul class="list-1 list-scroll-1 mCustomScrollbar1">
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170318/diem-tin-sang-183-kompany-bi-loai-khoi-tuyen-bi/1282442.html" title="​Điểm tin sáng 18-3: Kompany bị loại khỏi tuyển Bỉ">
+				​Điểm tin sáng 18-3: Kompany bị loại khỏi tuyển Bỉ							</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170318/dortmund-thang-sit-sao-doi-ap-chot-bang-ingolstadt/1282439.html" title="​Dortmund thắng sít sao đội áp chót bảng Ingolstadt">
+				​Dortmund thắng sít sao đội áp chót bảng Ingolstadt							</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170317/diem-tin-toi-173-sao-tre-cua-leipzig-lan-dau-duoc-tuyen-duc-trieu-tap/1282172.html" title="​Điểm tin tối 17-3: Sao trẻ của Leipzig lần đầu được tuyển Đức triệu tập">
+				​Điểm tin tối 17-3: Sao trẻ của Leipzig lần đầu được tuyển Đức triệu tập							</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170317/quang-nam-nguoc-dong-ha-can-tho-tren-san-nha/1282139.html" title="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà">
+				​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà				<span class="i-videos"><i class="fa fa-video-camera"></i></span>			</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/bong-da/20170317/tu-ket-champions-league-barca-cham-tran-juve-bm-gap-rm/1282121.html" title="Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M  ">
+				Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M  				<span class="i-comments"><i class="fa fa-comments"></i> 5</span>			</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170317/du-doan-vong-29-premier-league-west-brom-cam-chan-arsenal/1282094.html" title="Dự đoán vòng 29 Premier League: West Brom cầm chân Arsenal ">
+				Dự đoán vòng 29 Premier League: West Brom cầm chân Arsenal 							</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170317/u23-vn-gap-han-quoc-dong-timor-va-macau-o-vong-loai-giai-u23-chau-a/1282040.html" title="​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á">
+				​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á				<span class="i-comments"><i class="fa fa-comments"></i> 1</span><span class="i-videos"><i class="fa fa-video-camera"></i></span>			</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170317/hoang-nam-dung-buoc-o-tu-ket-giai-japan-f2-futures/1282028.html" title="​Hoàng Nam dừng bước ở tứ kết giải Japan F2 Futures">
+				​Hoàng Nam dừng bước ở tứ kết giải Japan F2 Futures				<span class="i-comments"><i class="fa fa-comments"></i> 1</span>			</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170317/quang-liem-dang-quang-nghet-tho-o-giai-co-hdbank-2017/1282031.html" title="Quang Liêm đăng quang nghẹt thở ở Giải cờ HDBank 2017">
+				Quang Liêm đăng quang nghẹt thở ở Giải cờ HDBank 2017				<span class="i-comments"><i class="fa fa-comments"></i> 3</span>			</a>
+		</li>
+				<li>
+			<a href="http://thethao.tuoitre.vn/tin/20170317/wozniacki-va-venus-chia-tay-giai-quan-vot-indian-wells/1281977.html" title="​Wozniacki và Venus chia tay Giải quần vợt Indian Wells">
+				​Wozniacki và Venus chia tay Giải quần vợt Indian Wells							</a>
+		</li>
+			</ul>
+</div><div class="block-mid">
+    <h2><a title="Tin đọc nhiều">Tin đọc nhiều</a></h2>
+    <ul class="list-1 mCustomScrollbar1 list-scroll-2">
+        <li><a href="http://thethao.tuoitre.vn/tin/20170315/u20-vn-co-co-hoi-vuot-qua-vong-bang/1280693.html">U-20 VN có cơ hội vượt qua vòng bảng<span class="i-comments"><i class="fa fa-comments"></i> 11</span></a></li><li><a href="http://thethao.tuoitre.vn/tin/20170316/thua-monaco-13-mc-ngam-ngui-chia-tay-champions-league/1281179.html">​Thua Monaco 1-3, M.C ngậm ngùi chia tay Champions League<span class="i-comments"><i class="fa fa-comments"></i> 1</span></a></li><li><a href="http://thethao.tuoitre.vn/tin/20170315/vao-tu-ket-champions-league-giong-nhu-vo-dich-premier-league/1280417.html">“Vào tứ kết Champions League giống như vô địch Premier League”<span class="i-comments"><i class="fa fa-comments"></i> 3</span></a></li><li><a href="http://thethao.tuoitre.vn/tin/20170315/truc-tuyen-boc-tham-chia-bang-vck-world-cup-u20-13h/1280465.html">VN gặp Pháp, Honduras và New Zealand ở VCK World Cup U-20<span class="i-comments"><i class="fa fa-comments"></i> 9</span><span class="i-videos"><i class="fa fa-video-camera"></i></span></a></li><li><a href="http://thethao.tuoitre.vn/tin/20170315/khuat-phuc-sevilla-leicester-viet-tiep-chuyen-co-tich-o-champions-league/1280408.html">​Khuất phục Sevilla, Leicester viết tiếp chuyện cổ tích ở Champions League<span class="i-comments"><i class="fa fa-comments"></i> 1</span></a></li>    </ul>
+</div>
+                            </div>
+                        </div>
+                        		<div class="highlight-1 row">
+		<h2><a title="Tổng hợp - Bình luận &amp;amp; Phân tích" href="http://thethao.tuoitre.vn/tin/binh-luan-phan-tich">Tổng hợp - Bình luận &amp; Phân tích</a></h2>
+		<section class="content col-md-7 col-sm-12">
+			<article class="art-2">
+				<a href="http://thethao.tuoitre.vn/tin/20170317/du-doan-vong-29-premier-league-west-brom-cam-chan-arsenal/1282094.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/2017-03-11t192335z-132261815-mt1aci14764282-rtrmadp-3-soccer-england-ars-lnc-jpg-1489746215.jpg"alt="Dự đoán vòng 29 Premier League: West Brom cầm chân Arsenal "/>				</a>
+				<h3>
+					<a href="http://thethao.tuoitre.vn/tin/20170317/du-doan-vong-29-premier-league-west-brom-cam-chan-arsenal/1282094.html" title="Dự đoán vòng 29 Premier League: West Brom cầm chân Arsenal ">
+						Dự đoán vòng 29 Premier League: West Brom cầm chân Arsenal 											</a>
+				</h3>
+
+				<p>TTO - Bình luận viên Mark Lawrenson của Hãng tin BBC đưa ra dự đoán các trận đấu ở vòng 29 Giải ngoại hạng Anh (Premier League) diễn ra cuối tuần này. Theo đó, Arsenal sẽ bị West Brom cầm chân 1-1 ở trận đấu sớm. </p>
+			</article>
+		</section>
+
+				<ul class="list-2 col-md-5 col-sm-12">
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170317/su-binh-dang-khien-bong-da-anh-mat-canh-tranh-o-chau-au/1281848.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/2017-03-16t220208z-132703328-mt1aci14766789-rtrmadp-3-soccer-europa-mun-ros-jpg-1489705874.jpg"alt="​Sự bình đẳng khiến bóng đá Anh mất cạnh tranh ở châu Âu"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170317/su-binh-dang-khien-bong-da-anh-mat-canh-tranh-o-chau-au/1281848.html" title="​Sự bình đẳng khiến bóng đá Anh mất cạnh tranh ở châu Âu">
+						​Sự bình đẳng khiến bóng đá Anh mất cạnh tranh ở châu Âu						<span class="i-comments"><i class="fa fa-comments"></i> 1</span>					</a>
+				</h5>
+			</li>
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170317/monaco-niem-tu-hao-nuoc-phap/1281734.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/931c02a7.jpg"alt="Monaco - niềm tự hào nước Pháp"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170317/monaco-niem-tu-hao-nuoc-phap/1281734.html" title="Monaco - niềm tự hào nước Pháp">
+						Monaco - niềm tự hào nước Pháp											</a>
+				</h5>
+			</li>
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170316/pep-guardiola-khong-xung-dang-duoc-benh-vuc/1281314.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/16/pep-1489639260.jpg"alt="​Pep Guardiola không xứng đáng được bênh vực"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170316/pep-guardiola-khong-xung-dang-duoc-benh-vuc/1281314.html" title="​Pep Guardiola không xứng đáng được bênh vực">
+						​Pep Guardiola không xứng đáng được bênh vực						<span class="i-comments"><i class="fa fa-comments"></i> 5</span>					</a>
+				</h5>
+			</li>
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170315/u20-vn-co-co-hoi-vuot-qua-vong-bang/1280693.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/15/aima-4854-1489560386-1489565624.jpg"alt="U-20 VN có cơ hội vượt qua vòng bảng"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170315/u20-vn-co-co-hoi-vuot-qua-vong-bang/1280693.html" title="U-20 VN có cơ hội vượt qua vòng bảng">
+						U-20 VN có cơ hội vượt qua vòng bảng						<span class="i-comments"><i class="fa fa-comments"></i> 11</span>					</a>
+				</h5>
+			</li>
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170315/cho-cuoc-nguoc-dong-cua-monaco/1280321.html" title="">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/15/3ba94df5.jpg"alt="Chờ cuộc ngược dòng của Monaco"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170315/cho-cuoc-nguoc-dong-cua-monaco/1280321.html" title="Chờ cuộc ngược dòng của Monaco">
+						Chờ cuộc ngược dòng của Monaco											</a>
+				</h5>
+			</li>
+					</ul>
+			</div>
+		<div class="block-2 block-4 webpart">
+		<h2><a href="http://thethao.tuoitre.vn/tin/bong-da" title="Thể Thao">Bóng đá</a></h2>
+				<article class="art-2">
+			<a href="http://thethao.tuoitre.vn/tin/20170318/dortmund-thang-sit-sao-doi-ap-chot-bang-ingolstadt/1282439.html" title="​Dortmund thắng sít sao đội áp chót bảng Ingolstadt">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/18/aubameyang-cropped-6zatdjxmdw9a11tvkh56gma7p-1489788054.jpg"alt="​Dortmund thắng sít sao đội áp chót bảng Ingolstadt"/>			</a>
+			<h3 class="title">
+				<a href="http://thethao.tuoitre.vn/tin/20170318/dortmund-thang-sit-sao-doi-ap-chot-bang-ingolstadt/1282439.html" title="​Dortmund thắng sít sao đội áp chót bảng Ingolstadt">
+					​Dortmund thắng sít sao đội áp chót bảng Ingolstadt									</a>
+			</h3>
+		</article>
+		
+		<ul class="list-3 list-border-t">
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170317/quang-nam-nguoc-dong-ha-can-tho-tren-san-nha/1282139.html"  title="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/khoi8933-jpg-1489751928.jpg"alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170317/quang-nam-nguoc-dong-ha-can-tho-tren-san-nha/1282139.html" title="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà">
+						​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà						<span class="i-videos"><i class="fa fa-video-camera"></i></span>					</a>
+				</h5>
+				
+			</li>
+			
+											<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/bong-da/20170317/tu-ket-champions-league-barca-cham-tran-juve-bm-gap-rm/1282121.html" title="Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M  ">
+							Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M  							<span class="i-comments"><i class="fa fa-comments"></i> 5</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170317/u23-vn-gap-han-quoc-dong-timor-va-macau-o-vong-loai-giai-u23-chau-a/1282040.html" title="​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á">
+							​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á							<span class="i-comments"><i class="fa fa-comments"></i> 1</span><span class="i-videos"><i class="fa fa-video-camera"></i></span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170317/trong-tai-thu-khong-lam-nhiem-vu-tran-quang-nam-xskt-can-tho/1281893.html" title="T​rọng tài Thư không làm nhiệm vụ trận Quảng Nam - XSKT Cần Thơ">
+							T​rọng tài Thư không làm nhiệm vụ trận Quảng Nam - XSKT Cần Thơ							<span class="i-comments"><i class="fa fa-comments"></i> 1</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170317/mata-lap-cong-dua-mu-vao-tu-ket-europa-league/1281836.html" title="​Mata lập công đưa M.U vào tứ kết Europa League">
+							​Mata lập công đưa M.U vào tứ kết Europa League													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170317/caf-co-chu-tich-moi-sau-gan-30-nam/1281830.html" title="​CAF có chủ tịch mới sau gần 30 năm">
+							​CAF có chủ tịch mới sau gần 30 năm													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170316/thua-monaco-13-mc-ngam-ngui-chia-tay-champions-league/1281179.html" title="​Thua Monaco 1-3, M.C ngậm ngùi chia tay Champions League">
+							​Thua Monaco 1-3, M.C ngậm ngùi chia tay Champions League							<span class="i-comments"><i class="fa fa-comments"></i> 1</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170316/con-ai-muon-gap-leicester/1280951.html" title="Còn ai muốn gặp Leicester?">
+							Còn ai muốn gặp Leicester?													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170315/ha-noi-dai-thang-tampines-rovers-o-afc-cup-2017/1280858.html" title="Hà Nội đại thắng Tampines Rovers ở AFC Cup 2017">
+							Hà Nội đại thắng Tampines Rovers ở AFC Cup 2017							<span class="i-videos"><i class="fa fa-video-camera"></i></span>						</a>
+					</h5>
+				</li>
+									</ul>
+	</div>
+		<div class="block-2 block-4 webpart">
+		<h2><a href="http://thethao.tuoitre.vn/tin/cac-mon-khac" title="Thể Thao">Các môn khác</a></h2>
+				<article class="art-2">
+			<a href="http://thethao.tuoitre.vn/tin/20170317/quang-liem-dang-quang-nghet-tho-o-giai-co-hdbank-2017/1282031.html" title="Quang Liêm đăng quang nghẹt thở ở Giải cờ HDBank 2017">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/img-0065-jpg-1489735167.jpg"alt="Quang Liêm đăng quang nghẹt thở ở Giải cờ HDBank 2017"/>			</a>
+			<h3 class="title">
+				<a href="http://thethao.tuoitre.vn/tin/20170317/quang-liem-dang-quang-nghet-tho-o-giai-co-hdbank-2017/1282031.html" title="Quang Liêm đăng quang nghẹt thở ở Giải cờ HDBank 2017">
+					Quang Liêm đăng quang nghẹt thở ở Giải cờ HDBank 2017					<span class="i-comments"><i class="fa fa-comments"></i> 3</span>				</a>
+			</h3>
+		</article>
+		
+		<ul class="list-3 list-border-t">
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170316/quang-liem-hoa-2-nha-vo-dich-trung-quoc/1281602.html"  title="Quang Liêm hòa 2 nhà vô địch Trung Quốc">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/16/1-jpg-1489672618.jpg"alt="Quang Liêm hòa 2 nhà vô địch Trung Quốc"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170316/quang-liem-hoa-2-nha-vo-dich-trung-quoc/1281602.html" title="Quang Liêm hòa 2 nhà vô địch Trung Quốc">
+						Quang Liêm hòa 2 nhà vô địch Trung Quốc											</a>
+				</h5>
+				
+			</li>
+			
+											<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170316/9g-hom-nay-163-quang-liem-dau-tri-cung-bu-xiangzhi/1281008.html" title="9g hôm nay (16-3): Quang Liêm đấu trí cùng Bu Xiangzhi">
+							9g hôm nay (16-3): Quang Liêm đấu trí cùng Bu Xiangzhi													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170315/cac-ky-thu-vn-va-trung-quoc-tranh-tai-quyet-liet/1280681.html" title="Các kỳ thủ VN và Trung Quốc tranh tài quyết liệt">
+							Các kỳ thủ VN và Trung Quốc tranh tài quyết liệt							<span class="i-comments"><i class="fa fa-comments"></i> 1</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170315/quang-liem-vuon-len-dan-dau-giai-hdbank-2017/1280357.html" title="Quang Liêm vươn lên dẫn đầu giải HDBank 2017">
+							Quang Liêm vươn lên dẫn đầu giải HDBank 2017													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170313/nguyen-anh-khoi-danh-bai-tuyen-thu-trung-quoc-lu-shanglei/1279439.html" title="​Nguyễn Anh Khôi đánh bại tuyển thủ Trung Quốc Lu Shanglei">
+							​Nguyễn Anh Khôi đánh bại tuyển thủ Trung Quốc Lu Shanglei							<span class="i-comments"><i class="fa fa-comments"></i> 1</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170313/giac-mo-hoang-xuan-vinh/1279217.html" title="Giấc mơ Hoàng Xuân Vinh">
+							Giấc mơ Hoàng Xuân Vinh													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170313/dkvd-trung-quoc-wei-yi-bat-ngo-thua-viacheslav/1279268.html" title="ĐKVĐ Trung Quốc Wei Yi bất ngờ thua ​Viacheslav">
+							ĐKVĐ Trung Quốc Wei Yi bất ngờ thua ​Viacheslav													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170311/saigon-heat-guc-nga-truoc-westports-malaysia-gragons/1278695.html" title="​Saigon Heat gục ngã trước Westports Malaysia Gragons">
+							​Saigon Heat gục ngã trước Westports Malaysia Gragons													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170310/ky-thu-truong-son-rut-khoi-giai-hdbank-2017/1278176.html" title="Kỳ thủ Trường Sơn rút khỏi Giải HDBank 2017">
+							Kỳ thủ Trường Sơn rút khỏi Giải HDBank 2017													</a>
+					</h5>
+				</li>
+									</ul>
+	</div>
+		<div class="block-2 block-4 webpart">
+		<h2><a href="http://thethao.tuoitre.vn/tin/hau-truong" title="Thể Thao">Hậu trường</a></h2>
+				<article class="art-2">
+			<a href="http://thethao.tuoitre.vn/tin/20170316/ban-to-chuc-world-cup-u20-bat-dau-ban-ve/1281371.html" title="​Ban tổ chức World Cup U-20 bắt đầu bán vé">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/16/2876206-full-lnd-1489649445.jpg"alt="​Ban tổ chức World Cup U-20 bắt đầu bán vé"/>			</a>
+			<h3 class="title">
+				<a href="http://thethao.tuoitre.vn/tin/20170316/ban-to-chuc-world-cup-u20-bat-dau-ban-ve/1281371.html" title="​Ban tổ chức World Cup U-20 bắt đầu bán vé">
+					​Ban tổ chức World Cup U-20 bắt đầu bán vé									</a>
+			</h3>
+		</article>
+		
+		<ul class="list-3 list-border-t">
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170316/nguoi-dan-brazil-tuc-gian-vi-ga-thu-mon-sat-nhan-tim-duoc-clb/1281200.html"  title="​Người dân Brazil tức giận vì gã thủ môn sát nhân tìm được CLB">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/16/fernandes4-1489623603.jpg"alt="​Người dân Brazil tức giận vì gã thủ môn sát nhân tìm được CLB"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170316/nguoi-dan-brazil-tuc-gian-vi-ga-thu-mon-sat-nhan-tim-duoc-clb/1281200.html" title="​Người dân Brazil tức giận vì gã thủ môn sát nhân tìm được CLB">
+						​Người dân Brazil tức giận vì gã thủ môn sát nhân tìm được CLB						<span class="i-comments"><i class="fa fa-comments"></i> 3</span>					</a>
+				</h5>
+				
+			</li>
+			
+											<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170315/trieu-tien-phai-tim-san-trung-lap-da-voi-malaysia/1280690.html" title="Triều Tiên phải tìm sân trung lập đá với Malaysia ">
+							Triều Tiên phải tìm sân trung lập đá với Malaysia 													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170315/chuan-bi-cho-sea-games-29-ban-sung-van-khong-co-dan/1280249.html" title="Chuẩn bị cho SEA Games 29: Bắn súng vẫn không có đạn">
+							Chuẩn bị cho SEA Games 29: Bắn súng vẫn không có đạn							<span class="i-comments"><i class="fa fa-comments"></i> 1</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/hau-truong/20170309/the-gioi-khong-ngu-voi-cuoc-nguoc-dong-lich-su-cua-barca/1277291.html" title="​Thế giới “không ngủ” với cuộc ngược dòng lịch sử của Barca">
+							​Thế giới “không ngủ” với cuộc ngược dòng lịch sử của Barca							<span class="i-comments"><i class="fa fa-comments"></i> 11</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170308/bao-chi-anh-cham-biem-that-bai-xau-ho-cua-arsenal/1276568.html" title="​Báo chí Anh châm biếm thất bại xấu hổ của Arsenal">
+							​Báo chí Anh châm biếm thất bại xấu hổ của Arsenal							<span class="i-comments"><i class="fa fa-comments"></i> 2</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170308/sanchez-cuoi-noi-trong-tham-bai-cua-arsenal/1276553.html" title="Sanchez cười nói vui vẻ trong thảm bại của Arsenal">
+							Sanchez cười nói vui vẻ trong thảm bại của Arsenal							<span class="i-videos"><i class="fa fa-video-camera"></i></span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170307/clb-than-quang-ninh-thue-san-my-dinh-200-trieu-dong-da-afc-cup/1276175.html" title="CLB Than Quảng Ninh thuê sân Mỹ Đình 200 triệu đồng đá AFC Cup">
+							CLB Than Quảng Ninh thuê sân Mỹ Đình 200 triệu đồng đá AFC Cup													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170306/sanchez-cai-va-voi-dong-doi-ngan-ngam-arsenal/1275323.html" title="Sanchez cãi vã với đồng đội, ngán ngẩm Arsenal">
+							Sanchez cãi vã với đồng đội, ngán ngẩm Arsenal													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170305/chuyen-ky-la-cua-cdv-duc/1274825.html" title="Chuyện kỳ lạ của CĐV Đức">
+							Chuyện kỳ lạ của CĐV Đức							<span class="i-comments"><i class="fa fa-comments"></i> 3</span>						</a>
+					</h5>
+				</li>
+									</ul>
+	</div>
+		<div class="block-2 block-4 webpart">
+		<h2><a href="http://thethao.tuoitre.vn/tin/the-thao-cuoc-song" title="Thể Thao">Thể thao & Cuộc sống</a></h2>
+				<article class="art-2">
+			<a href="http://thethao.tuoitre.vn/tin/20170317/de-xuat-khong-dat-cuoc-cac-tran-dau-cua-doi-tuyen-vn/1281677.html" title="Đề xuất không đặt cược các trận đấu của đội tuyển VN">
+				<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/van-quyet-di-bong--1489704213.jpg"alt="Đề xuất không đặt cược các trận đấu của đội tuyển VN"/>			</a>
+			<h3 class="title">
+				<a href="http://thethao.tuoitre.vn/tin/20170317/de-xuat-khong-dat-cuoc-cac-tran-dau-cua-doi-tuyen-vn/1281677.html" title="Đề xuất không đặt cược các trận đấu của đội tuyển VN">
+					Đề xuất không đặt cược các trận đấu của đội tuyển VN					<span class="i-comments"><i class="fa fa-comments"></i> 5</span>				</a>
+			</h3>
+		</article>
+		
+		<ul class="list-3 list-border-t">
+						<li>
+				<a href="http://thethao.tuoitre.vn/tin/20170316/chuan-bi-trinh-chinh-phu-phuong-an-nang-luong-cho-vdv-hlv/1281539.html"  title="Chuẩn bị trình chính phủ phương án nâng lương cho VĐV, HLV">
+					<img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/16/quy-phuoc-1489665789.jpg"alt="Chuẩn bị trình chính phủ phương án nâng lương cho VĐV, HLV"/>				</a>
+				<h5>
+					<a href="http://thethao.tuoitre.vn/tin/20170316/chuan-bi-trinh-chinh-phu-phuong-an-nang-luong-cho-vdv-hlv/1281539.html" title="Chuẩn bị trình chính phủ phương án nâng lương cho VĐV, HLV">
+						Chuẩn bị trình chính phủ phương án nâng lương cho VĐV, HLV											</a>
+				</h5>
+				
+			</li>
+			
+											<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170316/co-gai-viet-nam-chay-qua-4-sa-mac/1280945.html" title="Cô gái Việt Nam chạy qua 4 sa mạc">
+							Cô gái Việt Nam chạy qua 4 sa mạc							<span class="i-comments"><i class="fa fa-comments"></i> 3</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170313/giac-mo-hoang-xuan-vinh/1279217.html" title="Giấc mơ Hoàng Xuân Vinh">
+							Giấc mơ Hoàng Xuân Vinh													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170312/du-lich-the-thao-o-viet-nam-nhung-co-hoi-bi-bo-qua/1278818.html" title="Du lịch thể thao ở Việt Nam: Những cơ hội bị bỏ qua">
+							Du lịch thể thao ở Việt Nam: Những cơ hội bị bỏ qua													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170312/93-ngay-cheo-thuyen-vuot-dai-tay-duong/1278755.html" title="93 ngày chèo thuyền vượt Đại Tây Dương">
+							93 ngày chèo thuyền vượt Đại Tây Dương													</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170309/ha-giang-lay-tien-ngan-sach-ho-tro-vdv-du-thi-marathon/1277555.html" title="​Hà Giang lấy tiền ngân sách hỗ trợ VĐV dự thi marathon">
+							​Hà Giang lấy tiền ngân sách hỗ trợ VĐV dự thi marathon							<span class="i-comments"><i class="fa fa-comments"></i> 1</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170308/hagl-dau-tu-manh-cho-lua-u18-hoc-vien-arsenal-jmg/1276406.html" title="HAGL đầu tư mạnh cho lứa U-18 Học viện Arsenal JMG">
+							HAGL đầu tư mạnh cho lứa U-18 Học viện Arsenal JMG							<span class="i-comments"><i class="fa fa-comments"></i> 4</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170307/cong-phuong-va-clb-hagl-co-tai-tro-moi/1276055.html" title="​Công Phượng và CLB HAGL có tài trợ mới">
+							​Công Phượng và CLB HAGL có tài trợ mới							<span class="i-comments"><i class="fa fa-comments"></i> 6</span>						</a>
+					</h5>
+				</li>
+								<li>
+					<h5>
+						<a href="http://thethao.tuoitre.vn/tin/20170307/tren-5000-ti-dong-dang-cai-sea-games-2021-tai-tphcm/1275752.html" title="Trên 5.000 tỉ đồng đăng cai SEA Games 2021 tại TP.HCM">
+							Trên 5.000 tỉ đồng đăng cai SEA Games 2021 tại TP.HCM							<span class="i-comments"><i class="fa fa-comments"></i> 5</span>						</a>
+					</h5>
+				</li>
+									</ul>
+	</div>
+                    </div>
+                    <aside class="sidebar col-md-4 col-sm-4">
+                        <div class="block-bar">
+    <h2><a title="VIDEO &amp;amp; ẢNH">VIDEO &amp; ẢNH</a></h2>
+        <article class="art-new">
+                    <a title="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà"
+               href="http://thethao.tuoitre.vn/tin/20170317/quang-nam-nguoc-dong-ha-can-tho-tren-san-nha/1282139.html">
+                <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/khoi8933-jpg-1489751928.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                <span><i class="fa fa-play"></i></span>            </a>
+                <h3>
+            <a href="http://thethao.tuoitre.vn/tin/20170317/quang-nam-nguoc-dong-ha-can-tho-tren-san-nha/1282139.html"
+               title="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà">
+                ​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà                            </a>
+        </h3>
+    </article>
+    <div class="flexslider-new">
+    <ul class="slides">
+                    <li>
+                                    <a title="​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á"
+                       href="http://thethao.tuoitre.vn/tin/20170317/u23-vn-gap-han-quoc-dong-timor-va-macau-o-vong-loai-giai-u23-chau-a/1282040.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/khoi6898-jpg-1489736427.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170317/u23-vn-gap-han-quoc-dong-timor-va-macau-o-vong-loai-giai-u23-chau-a/1282040.html"
+                       title="​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á">​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="Hà Nội đại thắng Tampines Rovers ở AFC Cup 2017"
+                       href="http://thethao.tuoitre.vn/tin/20170315/ha-noi-dai-thang-tampines-rovers-o-afc-cup-2017/1280858.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/15/cac-cau-thu-hn-an-mung-12-1489582010.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170315/ha-noi-dai-thang-tampines-rovers-o-afc-cup-2017/1280858.html"
+                       title="Hà Nội đại thắng Tampines Rovers ở AFC Cup 2017">Hà Nội đại thắng Tampines Rovers ở AFC Cup 2017                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="VN gặp Pháp, Honduras và New Zealand ở VCK World Cup U-20"
+                       href="http://thethao.tuoitre.vn/tin/20170315/truc-tuyen-boc-tham-chia-bang-vck-world-cup-u20-13h/1280465.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/15/17274380-10158392569030173-1973896639-n-1489562099.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170315/truc-tuyen-boc-tham-chia-bang-vck-world-cup-u20-13h/1280465.html"
+                       title="VN gặp Pháp, Honduras và New Zealand ở VCK World Cup U-20">VN gặp Pháp, Honduras và New Zealand ở VCK World Cup U-20                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="BTC V-League nhắc nhở Đình Luật vì ăn mừng bàn thắng thái quá"
+                       href="http://thethao.tuoitre.vn/tin/20170314/trung-ve-dinh-luat-bi-nhac-nho-vi-an-mung-ban-thang-thai-qua/1280084.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/14/luat-1489481913.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170314/trung-ve-dinh-luat-bi-nhac-nho-vi-an-mung-ban-thang-thai-qua/1280084.html"
+                       title="BTC V-League nhắc nhở Đình Luật vì ăn mừng bàn thắng thái quá">BTC V-League nhắc nhở Đình Luật vì ăn mừng bàn thắng thái quá                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="HLV Mourinho đáp trả khi bị CĐV Chelsea gọi là “Judas”"
+                       href="http://thethao.tuoitre.vn/tin/20170314/hlv-mourinho-chi-trich-trong-tai-sau-tran-thua-chelsea/1279868.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/14/3e3c110e00000578-4310058-image-a-69-1489437181573-1489446678.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170314/hlv-mourinho-chi-trich-trong-tai-sau-tran-thua-chelsea/1279868.html"
+                       title="HLV Mourinho đáp trả khi bị CĐV Chelsea gọi là “Judas”">HLV Mourinho đáp trả khi bị CĐV Chelsea gọi là “Judas”                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="​Chelsea biến 10 người M.U thành cựu vô địch tại Cúp FA"
+                       href="http://thethao.tuoitre.vn/tin/20170314/chelsea-bien-10-nguoi-mu-thanh-cuu-vo-dich-tai-cup-fa/1279862.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/14/2017-03-13t205920z-132440360-mt1aci14765096-rtrmadp-3-soccer-england-che-mun-1489442245.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170314/chelsea-bien-10-nguoi-mu-thanh-cuu-vo-dich-tai-cup-fa/1279862.html"
+                       title="​Chelsea biến 10 người M.U thành cựu vô địch tại Cúp FA">​Chelsea biến 10 người M.U thành cựu vô địch tại Cúp FA                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="​Ramos đưa R.M trở lại ngôi đầu bảng"
+                       href="http://thethao.tuoitre.vn/tin/20170313/ramos-dua-rm-tro-lai-ngoi-dau-bang/1279262.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/13/2017-03-12t213526z-1260097367-rc1823b68540-rtrmadp-3-soccer-spain-rea-bet-jpg-1489357972.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170313/ramos-dua-rm-tro-lai-ngoi-dau-bang/1279262.html"
+                       title="​Ramos đưa R.M trở lại ngôi đầu bảng">​Ramos đưa R.M trở lại ngôi đầu bảng                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="​Thắng ngược Burnley, Liverpool áp sát tốp 3"
+                       href="http://thethao.tuoitre.vn/tin/20170313/thang-nguoc-burnley-liverpool-ap-sat-top-3/1279211.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/13/2017-03-12t172117z-132340877-mt1aci14764839-rtrmadp-3-soccer-england-liv-bur-1489342044.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170313/thang-nguoc-burnley-liverpool-ap-sat-top-3/1279211.html"
+                       title="​Thắng ngược Burnley, Liverpool áp sát tốp 3">​Thắng ngược Burnley, Liverpool áp sát tốp 3                                            </a>
+                </h4>
+            </li>
+                    <li>
+                                    <a title="​Deportivo bất ngờ quật ngã Barcelona"
+                       href="http://thethao.tuoitre.vn/tin/20170313/deportivo-bat-ngo-quat-nga-barcelona/1279106.html">
+                        <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/13/2017-03-12t161818z-2032497213-lr1ed3c19a5y4-rtrmadp-3-soccer-spain-cor-fcb-1489339237.jpg" alt="​Quảng Nam ngược dòng hạ Cần Thơ trên sân nhà" />                        <span><i class="fa fa-play"></i></span>                    </a>
+                                <h4>
+                    <a href="http://thethao.tuoitre.vn/tin/20170313/deportivo-bat-ngo-quat-nga-barcelona/1279106.html"
+                       title="​Deportivo bất ngờ quật ngã Barcelona">​Deportivo bất ngờ quật ngã Barcelona                                            </a>
+                </h4>
+            </li>
+            </ul>
+    </div>
+</div>
+<div class="block-bar">
+    <h2><a title="Bạn đọc phản hồi">Bạn đọc phản hồi</a></h2>
+    <ul class="list-3 list-border-t">
+        <li><a href="http://thethao.tuoitre.vn/tin/bong-da/20170317/tu-ket-champions-league-barca-cham-tran-juve-bm-gap-rm/1282121.html"><img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/c7hbenqwwaagvwg-1489749869.jpg" alt="Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M  " /></a><h5><a href="http://thethao.tuoitre.vn/tin/bong-da/20170317/tu-ket-champions-league-barca-cham-tran-juve-bm-gap-rm/1282121.html">Tứ kết Champions League: Barca chạm trán Juve, B.M gặp R.M  <span class="i-comments"><i class="fa fa-comments"></i> 5</span></a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170317/de-xuat-khong-dat-cuoc-cac-tran-dau-cua-doi-tuyen-vn/1281677.html">Đề xuất không đặt cược các trận đấu của đội tuyển VN<span class="i-comments"><i class="fa fa-comments"></i> 5</span></a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170317/hlv-mourinho-co-rat-nhieu-thu-dang-chong-lai-mu/1281857.html">​HLV Mourinho: “Có rất nhiều thứ đang chống lại M.U”<span class="i-comments"><i class="fa fa-comments"></i> 3</span></a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170317/quang-liem-dang-quang-nghet-tho-o-giai-co-hdbank-2017/1282031.html">Quang Liêm đăng quang nghẹt thở ở Giải cờ HDBank 2017<span class="i-comments"><i class="fa fa-comments"></i> 3</span></a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170317/u23-vn-gap-han-quoc-dong-timor-va-macau-o-vong-loai-giai-u23-chau-a/1282040.html">​U-23 VN gặp Hàn Quốc, Đông Timor và Macau ở vòng loại Giải U-23 châu Á<span class="i-comments"><i class="fa fa-comments"></i> 1</span><span class="i-videos"><i class="fa fa-video-camera"></i></span></a></h5></li>    </ul>
+</div>
+<div class="block-bar">
+    <h2><a title="Sự kiện và trò chuyện" href="http://thethao.tuoitre.vn/tin/su-kien-tro-chuyen">Sự kiện và trò chuyện</a></h2>
+    <article class="art-3">
+                    <a title="​HLV Mourinho: “Có rất nhiều thứ đang chống lại M.U”"
+               href="http://thethao.tuoitre.vn/tin/20170317/hlv-mourinho-co-rat-nhieu-thu-dang-chong-lai-mu/1281857.html">
+                <img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/2017-03-16t215321z-132702801-mt1aci14766720-rtrmadp-3-soccer-europa-mun-ros-jpg-1489708163.jpg" alt="​HLV Mourinho: “Có rất nhiều thứ đang chống lại M.U”" />            </a>
+                <h3>
+            <a href="http://thethao.tuoitre.vn/tin/20170317/hlv-mourinho-co-rat-nhieu-thu-dang-chong-lai-mu/1281857.html"
+               title="​HLV Mourinho: “Có rất nhiều thứ đang chống lại M.U”">
+                ​HLV Mourinho: “Có rất nhiều thứ đang chống lại M.U”                <span class="i-comments"><i class="fa fa-comments"></i> 3</span>            </a>
+        </h3>
+    </article>
+</div>
+<div class="block-bar">
+    <h2><a title="Quần vợt" href="http://thethao.tuoitre.vn/tin/quan-vot">Quần vợt</a></h2>
+    <ul class="list-3 list-border-t ">
+        <li><a href="http://thethao.tuoitre.vn/tin/20170317/wozniacki-va-venus-chia-tay-giai-quan-vot-indian-wells/1281977.html"><img src="http://static.new.tuoitre.vn/tto/i/s440/2017/03/17/kristina-mladenovic-1489726120.jpg" alt="​Wozniacki và Venus chia tay Giải quần vợt Indian Wells" /></a><h5><a href="http://thethao.tuoitre.vn/tin/20170317/wozniacki-va-venus-chia-tay-giai-quan-vot-indian-wells/1281977.html">​Wozniacki và Venus chia tay Giải quần vợt Indian Wells</a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170316/kyrgios-cham-dut-trieu-dai-djokovic-o-indian-wells/1281203.html">​Kyrgios chấm dứt “triều đại Djokovic” ở Indian Wells</a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170315/kerber-chia-tay-giai-quan-vot-indian-wells-2017/1280609.html">Kerber chia tay Giải quần vợt Indian Wells 2017</a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170314/radwanska-va-halep-chia-tay-indian-wells-2017/1279982.html">​Radwanska và Halep chia tay Indian Wells 2017</a></h5></li><li><h5><a href="http://thethao.tuoitre.vn/tin/20170312/danh-bai-tay-vot-so-1-the-gioi-la-dieu-khong-the-tin-duoc/1279031.html">"Đánh bại tay vợt số 1 thế giới là chuyện không thể tin được"</a></h5></li>    </ul>
+</div>
+    <div class="block-bar">
+        <h2><a href="javascript:;">Lịch thi đấu</a></h2>
+
+        <div class="box-score">
+            <h3>
+                <select id="lich-thi-dau" class="sl-tour selectpicker">
+                    <option value="0">Vòng 10 V-League </option><option value="1">Vòng 29 Premier League</option><option value="2">Vòng 25 Bundesliga</option><option value="3">Vòng 29 Serie A</option><option value="4">Vòng 28 La Liga</option>                </select>
+            </h3>
+                            <div id="lich-thi-dau-0"  class="lich-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped">
+                        <tbody>
+                        <tr><td>16:30 18/03</td><td>SLNA - HAGL<br/><i>VTV6, VPF, TTTTHD</i></td></tr><tr><td>17:00 18/03</td><td>Sanna Khánh Hòa - Sài Gòn<br/><i>VPF, TTTV</i></td></tr><tr><td>17:30 18/03</td><td>TP Hồ Chí Minh - Hải Phòng<br/><i>BĐTV, VPF, VOV2</i></td></tr><tr><td>17:00 19/03</td><td>Than Quảng Ninh - Bình Dương<br/><i>BĐTV, VPF, BTV2</i></td></tr><tr><td>17:30 19/03</td><td>Hà Nội - Thanh Hóa<br/><i>VTV6, VPF, TTTV</i></td></tr><tr><td>17:30 19/03</td><td>Long An - SHB Đà Nẵng<br/><i>VPF, VOV2</i></td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="lich-thi-dau-1" style="display:none;" class="lich-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped">
+                        <tbody>
+                        <tr><td>19:30 18/03</td><td>West Brom - Arsenal<br/><i>K+1</i></td></tr><tr><td>22:00 18/03</td><td>Crystal Palace - Watford<br/><i>TTTV HD</i></td></tr><tr><td>22:00 18/03</td><td>Everton - Hull City<br/><i>BĐTV, SCTV15</i></td></tr><tr><td>22:00 18/03</td><td>Stoke City - Chelsea<br/><i></i></td></tr><tr><td>22:00 18/03</td><td>Sunderland - Burnley<br/><i></i></td></tr><tr><td>22:00 18/03</td><td>West Ham - Leicester City<br/><i>SCTV17</i></td></tr><tr><td>00:30 19/03</td><td>AFC Bournemouth - Swansea City<br/><i>BĐTV, SCTV17</i></td></tr><tr><td>19:00 19/03</td><td>Middlesbrough - Man Utd<br/><i>K+1, SCTV17</i></td></tr><tr><td>21:15 19/03</td><td>Tottenham - Southampton<br/><i>BĐTV, SCTV17</i></td></tr><tr><td>23:30 19/03</td><td>Man City - Liverpool<br/><i>K+1</i></td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="lich-thi-dau-2" style="display:none;" class="lich-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped">
+                        <tbody>
+                        <tr><td>02:30 18/03</td><td>Dortmund - Ingolstadt<br/><i>BĐTV, TTTV, TTTV HD</i></td></tr><tr><td>21:30 18/03</td><td>Augsburg - Freiburg<br/><i></i></td></tr><tr><td>21:30 18/03</td><td>Cologne - Hertha Berlin<br/><i></i></td></tr><tr><td>21:30 18/03</td><td>Hoffenheim - Leverkusen<br/><i>BTV5</i></td></tr><tr><td>21:30 18/03</td><td>Werder Bremen - RB Leipzig<br/><i>TTTV</i></td></tr><tr><td>21:30 18/03</td><td>Wolfsburg - Darmstadt<br/><i></i></td></tr><tr><td>00:30 19/03</td><td>Frankfurt - Hamburger<br/><i></i></td></tr><tr><td>21:30 19/03</td><td>Mainz 05 - Schalke 04<br/><i>TTTV, TTTV HD</i></td></tr><tr><td>23:30 19/03</td><td>Moenchengladbach - Bayern Munich<br/><i>SCTV17</i></td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="lich-thi-dau-3" style="display:none;" class="lich-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped">
+                        <tbody>
+                        <tr><td>00:00 19/03</td><td>Torino - Inter Milan<br/><i>BTV5</i></td></tr><tr><td>02:45 19/03</td><td>AC Milan - Genoa<br/><i>SCTV17</i></td></tr><tr><td>18:30 19/03</td><td>Empoli - Napoli<br/><i>BTV5</i></td></tr><tr><td>21:00 19/03</td><td>Atalanta - Pescara<br/><i></i></td></tr><tr><td>21:00 19/03</td><td>Bologna - Chievo<br/><i></i></td></tr><tr><td>21:00 19/03</td><td>Cagliari - Lazio<br/><i></i></td></tr><tr><td>21:00 19/03</td><td>Crotone - Fiorentina<br/><i></i></td></tr><tr><td>21:00 19/03</td><td>Sampdoria - Juventus<br/><i>BTV5</i></td></tr><tr><td>00:00 20/03</td><td>Udinese - Palermo<br/><i>BTV5</i></td></tr><tr><td>02:45 20/03</td><td>AS Roma - Sassuolo<br/><i>BTV5</i></td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="lich-thi-dau-4" style="display:none;" class="lich-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped">
+                        <tbody>
+                        <tr><td>02:45 18/03</td><td>Las Palmas - Villarreal<br/><i></i></td></tr><tr><td>19:00 18/03</td><td>Eibar - Espanyol<br/><i></i></td></tr><tr><td>22:15 18/03</td><td>Athletic Bilbao - Real Madrid<br/><i></i></td></tr><tr><td>00:30 19/03</td><td>Alaves - Real Sociedad<br/><i></i></td></tr><tr><td>02:45 19/03</td><td>Real Betis - Osasuna<br/><i></i></td></tr><tr><td>18:00 19/03</td><td>Leganes - Malaga<br/><i></i></td></tr><tr><td>22:15 19/03</td><td>Atletico Madrid - Sevilla<br/><i></i></td></tr><tr><td>00:30 20/03</td><td>Deportivo - Celta Vigo<br/><i></i></td></tr><tr><td>00:30 20/03</td><td>Sporting Gijon - Granada<br/><i></i></td></tr><tr><td>02:45 20/03</td><td>Barcelona - Valencia<br/><i></i></td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                    </div>
+    </div>
+        <div class="block-bar">
+        <h2><a href="javascript:;">Bảng xếp hạng</a></h2>
+
+        <div class="box-score">
+            <h3>
+                <select id="bang-xep-hang" class="sl-tour selectpicker">
+                    <option value="0">V-League 2017</option><option value="1">Giải ngoại hạng Anh 2016-2017</option><option value="2">Bundesliga 2016-2017</option><option value="3">La Liga 2016-2017</option><option value="4">Serie A 2016-2017</option>                </select>
+            </h3>
+                        <div id="bang-xep-hang-0"  class="bang-xep-hang-table max-outer-tbl mCustomScrollbar1">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Hạng</th>
+                        <th>Đội</th>
+                        <th>Số trận</th>
+                        <th>Hiệu số</th>
+                        <th>Điểm</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr><th scope="row">1</th><td>Thanh Hóa</td><td>9</td><td>7</td><td>19</td></tr><tr><th scope="row">2</th><td>Quảng Nam</td><td>10</td><td>5</td><td>17</td></tr><tr><th scope="row">3</th><td>Sanna Khánh Hòa BVN</td><td>9</td><td>0</td><td>15</td></tr><tr><th scope="row">4</th><td>Hải Phòng</td><td>9</td><td>2</td><td>14</td></tr><tr><th scope="row">5</th><td>TP Hồ Chí Minh</td><td>9</td><td>1</td><td>14</td></tr><tr><th scope="row">6</th><td>Hà Nội</td><td>8</td><td>5</td><td>13</td></tr><tr><th scope="row">7</th><td>SHB Đà Nẵng</td><td>9</td><td>3</td><td>13</td></tr><tr><th scope="row">8</th><td>Than Quảng Ninh</td><td>8</td><td>2</td><td>12</td></tr><tr><th scope="row">9</th><td>Sài Gòn</td><td>9</td><td>-2</td><td>13</td></tr><tr><th scope="row">10</th><td>Hoàng Anh Gia Lai</td><td>9</td><td>-1</td><td>10</td></tr><tr><th scope="row">11</th><td>Sông Lam Nghệ An</td><td>9</td><td>-5</td><td>9</td></tr><tr><th scope="row">12</th><td>Bình Dương</td><td>9</td><td>2</td><td>8</td></tr><tr><th scope="row">13</th><td>Cần Thơ</td><td>9</td><td>-9</td><td>5</td></tr><tr><th scope="row">14</th><td>Long An </td><td>8</td><td>-9</td><td>4</td></tr>                    </tbody>
+                </table>
+
+            </div>
+                    <div id="bang-xep-hang-1" style="display:none;" class="bang-xep-hang-table max-outer-tbl mCustomScrollbar1">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Hạng</th>
+                        <th>Đội</th>
+                        <th>Số trận</th>
+                        <th>Hiệu số</th>
+                        <th>Điểm</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr><th scope="row">1</th><td>Chelsea</td><td>27</td><td>37</td><td>66</td></tr><tr><th scope="row">2</th><td>Tottenham</td><td>27</td><td>33</td><td>56</td></tr><tr><th scope="row">3</th><td>Manchester City</td><td>27</td><td>24</td><td>56</td></tr><tr><th scope="row">4</th><td>Liverpool</td><td>28</td><td>25</td><td>55</td></tr><tr><th scope="row">5</th><td>Arsenal</td><td>26</td><td>24</td><td>50</td></tr><tr><th scope="row">6</th><td>Manchester United</td><td>26</td><td>17</td><td>49</td></tr><tr><th scope="row">7</th><td>Everton</td><td>28</td><td>17</td><td>47</td></tr><tr><th scope="row">8</th><td>West Brom</td><td>28</td><td>-1</td><td>40</td></tr><tr><th scope="row">9</th><td>Stoke City</td><td>28</td><td>-8</td><td>36</td></tr><tr><th scope="row">10</th><td>Southampton</td><td>26</td><td>-2</td><td>33</td></tr><tr><th scope="row">11</th><td>West Ham</td><td>28</td><td>-11</td><td>33</td></tr><tr><th scope="row">12</th><td>Burnley</td><td>28</td><td>-11</td><td>31</td></tr><tr><th scope="row">13</th><td>Watford</td><td>27</td><td>-14</td><td>31</td></tr><tr><th scope="row">14</th><td>AFC Bournemouth</td><td>28</td><td>-14</td><td>30</td></tr><tr><th scope="row">15</th><td>Leicester City</td><td>27</td><td>-15</td><td>27</td></tr><tr><th scope="row">16</th><td>Swansea City</td><td>28</td><td>-25</td><td>27</td></tr><tr><th scope="row">17</th><td>Crystal Palace</td><td>27</td><td>-11</td><td>25</td></tr><tr><th scope="row">18</th><td>Hull City</td><td>28</td><td>-28</td><td>24</td></tr><tr><th scope="row">19</th><td>Middlesbrough</td><td>27</td><td>-11</td><td>22</td></tr><tr><th scope="row">20</th><td>Sunderland</td><td>27</td><td>-26</td><td>19</td></tr>                    </tbody>
+                </table>
+
+            </div>
+                    <div id="bang-xep-hang-2" style="display:none;" class="bang-xep-hang-table max-outer-tbl mCustomScrollbar1">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Hạng</th>
+                        <th>Đội</th>
+                        <th>Số trận</th>
+                        <th>Hiệu số</th>
+                        <th>Điểm</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr><th scope="row">1</th><td>Bayern Munich</td><td>24</td><td>47</td><td>59</td></tr><tr><th scope="row">2</th><td>RB Leipzig</td><td>24</td><td>18</td><td>49</td></tr><tr><th scope="row">3</th><td>Borussia Dortmund</td><td>24</td><td>26</td><td>43</td></tr><tr><th scope="row">4</th><td>Hoffenheim</td><td>24</td><td>20</td><td>42</td></tr><tr><th scope="row">5</th><td>Hertha Berlin</td><td>24</td><td>6</td><td>40</td></tr><tr><th scope="row">6</th><td>Eintracht Frankfurt</td><td>24</td><td>-1</td><td>35</td></tr><tr><th scope="row">7</th><td>Cologne</td><td>24</td><td>6</td><td>34</td></tr><tr><th scope="row">8</th><td>Freiburg</td><td>24</td><td>-10</td><td>34</td></tr><tr><th scope="row">9</th><td>Moenchengladbach</td><td>24</td><td>-3</td><td>32</td></tr><tr><th scope="row">10</th><td>Bayer Leverkusen</td><td>24</td><td>-2</td><td>31</td></tr><tr><th scope="row">11</th><td>Schalke 04</td><td>24</td><td>4</td><td>30</td></tr><tr><th scope="row">12</th><td>Mainz 05</td><td>24</td><td>-7</td><td>29</td></tr><tr><th scope="row">13</th><td>Augsburg</td><td>24</td><td>-10</td><td>28</td></tr><tr><th scope="row">14</th><td>Wolfsburg</td><td>24</td><td>-12</td><td>26</td></tr><tr><th scope="row">15</th><td>Werder Bremen</td><td>24</td><td>-13</td><td>26</td></tr><tr><th scope="row">16</th><td>Hamburger</td><td>24</td><td>-22</td><td>26</td></tr><tr><th scope="row">17</th><td>Ingolstadt</td><td>24</td><td>-20</td><td>16</td></tr><tr><th scope="row">18</th><td>Darmstadt</td><td>24</td><td>-29</td><td>15</td></tr>                    </tbody>
+                </table>
+
+            </div>
+                    <div id="bang-xep-hang-3" style="display:none;" class="bang-xep-hang-table max-outer-tbl mCustomScrollbar1">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Hạng</th>
+                        <th>Đội</th>
+                        <th>Số trận</th>
+                        <th>Hiệu số</th>
+                        <th>Điểm</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr><th scope="row">1</th><td>Real Madrid</td><td>26</td><td>42</td><td>62</td></tr><tr><th scope="row">2</th><td>Barca</td><td>27</td><td>54</td><td>60</td></tr><tr><th scope="row">3</th><td>Sevilla</td><td>27</td><td>20</td><td>57</td></tr><tr><th scope="row">4</th><td>Atletico Madrid</td><td>27</td><td>27</td><td>52</td></tr><tr><th scope="row">5</th><td>Villarreal</td><td>27</td><td>20</td><td>48</td></tr><tr><th scope="row">6</th><td>Real Sociedad</td><td>27</td><td>4</td><td>48</td></tr><tr><th scope="row">7</th><td>Athletic Bilbao</td><td>27</td><td>4</td><td>44</td></tr><tr><th scope="row">8</th><td>Eibar</td><td>27</td><td>5</td><td>40</td></tr><tr><th scope="row">9</th><td>Espanyol</td><td>27</td><td>1</td><td>39</td></tr><tr><th scope="row">10</th><td>Alaves</td><td>27</td><td>-5</td><td>37</td></tr><tr><th scope="row">11</th><td>Celta Vigo</td><td>26</td><td>-6</td><td>35</td></tr><tr><th scope="row">12</th><td>Las Palmas</td><td>27</td><td>-2</td><td>32</td></tr><tr><th scope="row">13</th><td>Valencia</td><td>27</td><td>-11</td><td>30</td></tr><tr><th scope="row">14</th><td>Real Betis</td><td>27</td><td>-15</td><td>28</td></tr><tr><th scope="row">15</th><td>Deportivo</td><td>27</td><td>-11</td><td>27</td></tr><tr><th scope="row">16</th><td>Malaga</td><td>27</td><td>-12</td><td>26</td></tr><tr><th scope="row">17</th><td>Leganes</td><td>27</td><td>-19</td><td>25</td></tr><tr><th scope="row">18</th><td>Granada</td><td>27</td><td>-31</td><td>19</td></tr><tr><th scope="row">19</th><td>Sporting Gijon</td><td>27</td><td>-28</td><td>18</td></tr><tr><th scope="row">20</th><td>Osasuna</td><td>27</td><td>-37</td><td>11</td></tr>                    </tbody>
+                </table>
+
+            </div>
+                    <div id="bang-xep-hang-4" style="display:none;" class="bang-xep-hang-table max-outer-tbl mCustomScrollbar1">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Hạng</th>
+                        <th>Đội</th>
+                        <th>Số trận</th>
+                        <th>Hiệu số</th>
+                        <th>Điểm</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr><th scope="row">1</th><td>Juventus</td><td>28</td><td>37</td><td>70</td></tr><tr><th scope="row">2</th><td>AS Roma</td><td>28</td><td>36</td><td>62</td></tr><tr><th scope="row">3</th><td>SSC Napoli</td><td>28</td><td>35</td><td>60</td></tr><tr><th scope="row">4</th><td>Lazio</td><td>28</td><td>20</td><td>56</td></tr><tr><th scope="row">5</th><td>Inter Milan</td><td>28</td><td>24</td><td>54</td></tr><tr><th scope="row">6</th><td>Atalanta</td><td>28</td><td>10</td><td>52</td></tr><tr><th scope="row">7</th><td>AC Milan</td><td>28</td><td>9</td><td>50</td></tr><tr><th scope="row">8</th><td>Fiorentina</td><td>28</td><td>8</td><td>45</td></tr><tr><th scope="row">9</th><td>Sampdoria</td><td>28</td><td>2</td><td>41</td></tr><tr><th scope="row">10</th><td>Torino</td><td>28</td><td>6</td><td>39</td></tr><tr><th scope="row">11</th><td>Chievo</td><td>28</td><td>-4</td><td>38</td></tr><tr><th scope="row">12</th><td>Udinese</td><td>28</td><td>-5</td><td>33</td></tr><tr><th scope="row">13</th><td>Sassuolo</td><td>28</td><td>-8</td><td>31</td></tr><tr><th scope="row">14</th><td>Bologna</td><td>28</td><td>-16</td><td>31</td></tr><tr><th scope="row">15</th><td>Cagliari</td><td>28</td><td>-22</td><td>31</td></tr><tr><th scope="row">16</th><td>Genoa</td><td>28</td><td>-12</td><td>29</td></tr><tr><th scope="row">17</th><td>Empoli</td><td>28</td><td>-28</td><td>22</td></tr><tr><th scope="row">18</th><td>Palermo</td><td>28</td><td>-33</td><td>15</td></tr><tr><th scope="row">19</th><td>Crotone</td><td>28</td><td>-27</td><td>14</td></tr><tr><th scope="row">20</th><td>Pescara</td><td>28</td><td>-34</td><td>12</td></tr>                    </tbody>
+                </table>
+
+            </div>
+                </div>
+    </div>
+        <div class="block-bar">
+        <h2><a href="javascript:;">Kết quả thi đấu</a></h2>
+
+        <div class="box-tour">
+            <h3>
+                <select id="ket-qua-thi-dau" class="sl-tour selectpicker">
+                    <option value="0">Lượt về vòng 16 đội Champions League</option><option value="1">Vòng 10 V-League</option><option value="2">Tứ kết Cúp FA</option><option value="3">Vòng 24 Bundesliga</option><option value="4">Vòng 28 Premier League</option><option value="5">Vòng 27 La Liga</option><option value="6">Vòng 28 Serie A</option>                </select>
+            </h3>
+                            <div id="ket-qua-thi-dau-0"  class="ket-qua-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped table-striped-2">
+                        <tbody>
+                        <tr><td>16/03</td><td>Atletico Madrid</td><td>0 - 0 (4-2)</td><td>Leverkusen</td></tr><tr><td>16/03</td><td>Monaco</td><td>3 - 1 (6-6)</td><td>Man City</td></tr><tr><td>15/03</td><td>Leicester City</td><td>2 - 0 (3-2)</td><td>Sevilla</td></tr><tr><td>15/03</td><td>Juventus</td><td>1 - 0 (3-0)</td><td>Porto</td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="ket-qua-thi-dau-1" style="display:none;" class="ket-qua-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped table-striped-2">
+                        <tbody>
+                        <tr><td>17/3</td><td>Quảng Nam	</td><td> 2 - 1 </td><td>XSKT Cần Thơ</td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="ket-qua-thi-dau-2" style="display:none;" class="ket-qua-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped table-striped-2">
+                        <tbody>
+                        <tr><td>11/03</td><td>Chelsea</td><td>1 - 0</td><td>Man Utd</td></tr><tr><td>11/03</td><td>Middlesbrough</td><td>0 - 2</td><td>Man City</td></tr><tr><td>12/03</td><td>Arsenal</td><td>5 - 0</td><td>Lincoln</td></tr><tr><td>12/03</td><td>Tottenham</td><td>6 - 0</td><td>Millwall</td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="ket-qua-thi-dau-3" style="display:none;" class="ket-qua-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped table-striped-2">
+                        <tbody>
+                        <tr><td>12/03</td><td>Ingolstadt</td><td>2 - 2</td><td>Cologne</td></tr><tr><td>12/03</td><td>Schalke 04</td><td>3 - 0</td><td>Augsburg</td></tr><tr><td>11/03</td><td>Leverkusen</td><td>1 - 1</td><td>Werder Bremen</td></tr><tr><td>11/03</td><td>Bayern Munich</td><td>3 - 0</td><td>Eintracht Frankfurt</td></tr><tr><td>11/03</td><td>Darmstadt</td><td>2 - 1</td><td>Mainz 05</td></tr><tr><td>11/03</td><td>Freiburg</td><td>1 - 1</td><td>Hoffenheim</td></tr><tr><td>11/03</td><td>Hertha Berlin</td><td>2 - 1</td><td>Dortmund</td></tr><tr><td>11/03</td><td>RB Leipzig</td><td>0 - 1</td><td>Wolfsburg</td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="ket-qua-thi-dau-4" style="display:none;" class="ket-qua-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped table-striped-2">
+                        <tbody>
+                        <tr><td>12/03</td><td>Liverpool</td><td>2 - 1</td><td>Burnley</td></tr><tr><td>11/03</td><td>AFC Bournemouth</td><td>3 - 2</td><td>West Ham</td></tr><tr><td>11/03</td><td>Everton</td><td>3 - 0</td><td>West Brom</td></tr><tr><td>11/03</td><td>Hull City</td><td>2 - 1</td><td>Swansea City</td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="ket-qua-thi-dau-5" style="display:none;" class="ket-qua-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped table-striped-2">
+                        <tbody>
+                        <tr><td>12/03</td><td>Osasuna</td><td>1 - 1</td><td>Eibar</td></tr><tr><td>12/03</td><td>Malaga</td><td>1 - 2</td><td>Alaves</td></tr><tr><td>12/03</td><td>Granada</td><td>0 - 1</td><td>Atletico Madrid</td></tr><tr><td>12/03</td><td>Real Sociedad</td><td>0 - 2</td><td>Athletic Bilbao</td></tr><tr><td>12/03</td><td>Deportivo</td><td>2 - 1</td><td>Barcelona</td></tr><tr><td>13/3</td><td>Celta Vigo</td><td> 0 - 1 </td><td>Villarreal</td></tr><tr><td>13/3</td><td>Real Madrid</td><td> 2 - 1 </td><td>Real Betis</td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                            <div id="ket-qua-thi-dau-6" style="display:none;" class="ket-qua-thi-dau-table max-outer-tbl mCustomScrollbar1">
+                    <table class="table table-striped table-striped-2">
+                        <tbody>
+                        <tr><td>12/03</td><td>Lazio</td><td>3 - 1</td><td>Torino</td></tr><tr><td>12/03</td><td>Genoa</td><td>0 - 1</td><td>Sampdoria</td></tr><tr><td>12/03</td><td>Sassuolo</td><td>0 - 1</td><td>Bologna</td></tr><tr><td>12/03</td><td>Chievo</td><td>4 - 0</td><td>Empoli</td></tr><tr><td>12/03</td><td>Inter Milan</td><td>7 - 1</td><td>Atalanta</td></tr><tr><td>12/03</td><td>Fiorentina</td><td>1 - 0</td><td>Cagliari</td></tr><tr><td>12/03</td><td>Pescara</td><td>1 - 3</td><td>Udinese</td></tr><tr><td>12/03</td><td>Napoli</td><td>3 - 0</td><td>Crotone</td></tr><tr><td>13/3</td><td>Palermo </td><td>0 - 3 </td><td>Roma</td></tr>                        </tbody>
+                    </table>
+
+                </div>
+                    </div>
+    </div>
+                        </aside>
+                </div>
+            </section>
+            <div class="footer">
+    <ul class="top-footer">
+        <li><a href="http://tuoitrenews.vn" title="">Tuổi Trẻ News</a></li>
+        <li><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan" title="">Tuổi Trẻ Cuối Tuần</a></li>
+        <li><a href="http://tv.tuoitre.vn" title="">Tuổi trẻ TV</a></li>
+        <li><a href="http://tusach.tuoitre.vn" title="Tủ Sách Tuổi Trẻ">Tủ Sách Tuổi Trẻ</a></li>
+        <li class="float-r"><a class="btn-send" href="http://tuoitre.vn/tin/lien-he" target="_blank" title="Gửi bài về Toà soạn">Gửi bài về Toà soạn</a></li>
+        <li class="float-r">
+            <a class="btn-android" href="#" title=""><img alt="" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/images/btn-android.jpg"></a>
+            <a class="btn-ios" href="#" title=""><img alt="" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/images/btn-ios.jpg"></a>
+        </li>
+    </ul>
+    <ul class="list-link"><li><dl><dt><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi">Chính trị - Xã hội</a></dt><dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi">Thời sự - Suy nghĩ</a></dd><dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su">Phóng sự - Ký sự</a></dd><dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong">Môi trường</a></dd><dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay">Chuyện thường ngày</a></dd><dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/tieu-diem">Tiêu điểm</a></dd></dl></li><li><dl><dt><a href="http://tuoitre.vn/tin/the-gioi">Thế giới</a></dt><dd><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan">Quan sát - Bình luận</a></dd><dd><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau">Thế giới muôn màu</a></dd><dd><a href="http://tuoitre.vn/tin/the-gioi/nguoi-viet-nam-chau">Người Việt năm châu</a></dd><dd><a href="http://tuoitre.vn/tin/the-gioi/ho-so">Hồ sơ</a></dd><dd><a href="http://tuoitre.vn/tin/the-gioi/goc-anh">Góc ảnh</a></dd></dl></li><li><dl><dt><a href="http://tuoitre.vn/tin/kinh-te">Kinh tế</a></dt><dd><a href="http://tuoitre.vn/tin/kinh-te/thi-truong">Thị trường</a></dd><dd><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh">Tài chính</a></dd><dd><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan">Doanh nhân</a></dd><dd><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe">Thế giới xe</a></dd><dd><a href="http://batdongsan.tuoitre.vn/">Bất động sản</a></dd></dl></li><li><dl><dt><a href="http://tuoitre.vn/tin/song-khoe">Sống khỏe</a></dt><dd><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online">Phòng mạch online</a></dd><dd><a href="http://tuoitre.vn/tin/song-khoe/me-va-be">Mẹ & Bé</a></dd><dd><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh">Giới tính</a></dd><dd><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon">Tư vấn hiếm muộn</a></dd><dd><a href="http://tuoitre.vn/tin/song-khoe/blog-bac-si">Blog bác sĩ</a></dd></dl></li><li><dl><dt><a href="http://tuoitre.vn/tin/giao-duc">Giáo dục</a></dt><dd><a href="http://tuoitre.vn/tin/giao-duc/du-hoc">Du học</a></dd><dd><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc">Khoa học</a></dd><dd><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc">Câu chuyện giáo dục</a></dd><dd><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc">Giáo dục các nước</a></dd><dd><a href="http://tuoitre.vn/tin/giao-duc/goc-hoc-tap">Góc học tập</a></dd></dl></li><li><dl><dt><a href="http://tuyensinh.tuoitre.vn">iTuyển sinh</a></dt><dd><a href="http://tuyensinh.tuoitre.vn/tin/tin-nong-ituyensinh">Tin nóng iTuyển sinh</a></dd><dd><a href="http://tuyensinh.tuoitre.vn/tin/hoc-gi-o-dau">Học gì - Ở đâu?</a></dd><dd><a href="http://tuyensinh.tuoitre.vn/tin/tuyen-sinh-247">Tuyển sinh 24/7</a></dd><dd><a href="http://tuyensinh.tuoitre.vn/tin/do-thi-tri-thuc">Đô thị tri thức</a></dd><dd><a href="http://tuyensinh.tuoitre.vn/tin/chia-khoa-thanh-cong">Chìa khóa thành công</a></dd></dl></li><li><dl><dt><a href="http://thethao.tuoitre.vn">Thể thao</a></dt><dd><a href="http://thethao.tuoitre.vn/trang/bong-da">Bóng đá</a></dd><dd><a href="http://thethao.tuoitre.vn/trang/quan-vot">Quần vợt</a></dd><dd><a href="http://thethao.tuoitre.vn/trang/cac-mon-khac">Các môn khác</a></dd><dd><a href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song">Thể thao & Cuộc sống</a></dd><dd><a href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao">Sức khỏe thể thao</a></dd></dl></li><li><dl><dt><a href="http://tuoitre.vn/tin/van-hoa-giai-tri">Văn hóa - Giải trí</a></dt><dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/giai-tri">Giải trí</a></dd><dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac">Âm nhạc</a></dd><dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh">Điện ảnh</a></dd><dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/thoi-trang">Thời Trang</a></dd><dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh">Truyền hình</a></dd></dl></li><li><dl><dt><a href="http://tuoitre.vn/tin/nhip-song-tre">Nhịp sống trẻ</a></dt><dd><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu">Sống & Yêu</a></dd><dd><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam">Cơ hội việc làm</a></dd><dd><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online">Nhịp sống online</a></dd><dd><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim">Bắc nhịp trái tim</a></dd></dl></li><li><dl><dt><a href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a></dt><dd><a href="http://nhipsongso.tuoitre.vn/tin/dien-thoai">Điện thoại</a></dd><dd><a href="http://nhipsongso.tuoitre.vn/tin/thiet-bi-so">Thiết bị số</a></dd><dd><a href="http://nhipsongso.tuoitre.vn/tin/blog">Blog</a></dd><dd><a href="http://nhipsongso.tuoitre.vn/tin/thi-truong">Thị trường</a></dd><dd><a href="http://nhipsongso.tuoitre.vn/tin/danh-gia-san-pham">Đánh giá</a></dd></dl></li><li><dl><dt><a href="http://dulich.tuoitre.vn">Du lịch</a></dt><dd><a href="http://dulich.tuoitre.vn/tin/nhung-mien-dat-la">Những miền đất lạ</a></dd><dd><a href="http://dulich.tuoitre.vn/tin/trai-nghiem-kham-pha">Trải nghiệm - Khám phá</a></dd><dd><a href="http://dulich.tuoitre.vn/tin/am-thuc">Ẩm thực</a></dd><dd><a href="http://dulich.tuoitre.vn/tin/van-hoa">Văn hóa</a></dd><dd><a href="http://dulich.tuoitre.vn/tin/goc-anh-lu-hanh">Góc ảnh lữ hành</a></dd></dl></li><li><dl><dt><a href="http://tuoitre.vn/tin/phap-luat">Pháp luật</a></dt><dd><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh">Ký sự pháp đình</a></dd><dd><a href="http://tuoitre.vn/tin/phap-luat/tu-van">Tư vấn</a></dd></dl><dl style="padding-top:10px;"><dt><a href="http://tuoitre.vn/tin/ban-doc">Bạn đọc</a></dt></dl><dl style="padding-top:10px;"><dt><a href="http://tuoitre.vn/tin/can-biet">Cần biết</a></dt></dl></li></ul>    <div class="bottom-footer">
+        <a class="logo-footer" href="http://tuoitre.vn" title="logo"><img alt="" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/images/logo-footer.png"></a>
+        <p class="pull-left">
+            <strong>© Copyright 2003 - 2017 TUOITRE.VN</strong>, All rights reserved <br>
+            ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này.
+        </p>
+        <p class="pull-right">
+            <a href="http://tuoitre.vn/tin/thong-tin-toa-soan" title="Thông tin Toà soạn">Thông tin Toà soạn</a> -
+            <a target="_blank" href="http://www.thanhdoan.hochiminhcity.gov.vn/webtd/vn/Home.aspx" title="Thông tin Thành Đoàn">Thông tin Thành Đoàn</a> -
+            <a target="_blank" href="http://thitruong.tuoitre.vn/" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a> <br>
+            <span>Điện thoại liên hệ: <strong><a href="tel:0918.033.133">0918.033.133</a></strong></span>
+        </p>
+    </div>
+</div>
+
+<footer class="footer-1 row">
+    <div class="col-md-12">
+        <p class="line-contact">Hãy gọi <a href="javascript:;">19001555</a> hoặc bấm <a href="http://pay.tuoitre.vn/dat-bao"> vào đây</a> để đặt báo</p>
+
+        <ul class="list-menu">
+            <li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi">Chính trị - Xã hội</a></li>
+            <li><a href="http://tuoitre.vn/tin/the-gioi">Thế giới</a></li>
+            <li><a href="http://tuoitre.vn/tin/phap-luat">Pháp luật</a></li>
+            <li><a href="http://tuoitre.vn/tin/kinh-te">Kinh tế</a></li>
+            <li><a href="http://tuoitre.vn/tin/song-khoe">Sống khỏe</a></li>
+            <li><a href="http://tuoitre.vn/tin/giao-duc">Giáo dục</a></li>
+            <li><a href="http://thethao.tuoitre.vn">Thể thao</a></li>
+            <li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri">Văn hóa - Giải trí</a></li>
+            <li><a href="http://tuoitre.vn/tin/nhip-song-tre">Nhịp sống trẻ</a></li>
+            <li><a href="http://nhipsongso.tuoitre.vn">Nhịp sống số</a></li>
+            <li><a href="http://tuoitre.vn/tin/ban-doc">Bạn đọc</a></li>
+            <li><a href="http://dulich.tuoitre.vn">Du lịch</a></li>
+            <li><a href="http://tuoitre.vn/tin/media">Media</a></li>
+            <li><a href="http://tuoitre.vn/tin/can-biet">Cần biết</a></li>
+            <li><a href="http://cohoi.tuoitre.vn/">Cơ hội mua sắm</a></li>
+        </ul>
+                <div class="bottom-footer">
+            <p>
+                <strong>© Copyright 2003 - 2017 TUOITRE.VN</strong><br> All rights reserved
+            </p>
+        </div>
+    </div>
+</footer>        </div>
+        <ul class="list-chuyenmuc"><li><a href="http://thethao.tuoitre.vn" />Trang chủ</a><li><a href="http://thethao.tuoitre.vn/tin/bong-da" />Bóng đá</a><li><a href="http://thethao.tuoitre.vn/tin/quan-vot" />Quần vợt</a><li><a href="http://thethao.tuoitre.vn/tin/cac-mon-khac" />Các môn khác</a><li><a href="http://thethao.tuoitre.vn/tin/the-thao-cuoc-song" />Thể thao & Cuộc sống</a><li><a href="http://thethao.tuoitre.vn/tin/suc-khoe-the-thao" />Sức khỏe thể thao</a><li><a href="http://thethao.tuoitre.vn/tin/hau-truong" />Hậu trường</a></ul>        <ul class="layer-menu"><li><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" /><span class="glyphicon glyphicon-book"></span>Chính trị - Xã hội</a><li><a href="http://tuoitre.vn/tin/the-gioi" /><span class="glyphicon glyphicon-globe"></span>Thế giới</a><li><a href="http://tuoitre.vn/tin/phap-luat" /><span class="glyphicon glyphicon-bookmark"></span>Pháp luật</a><li><a href="http://tuoitre.vn/tin/kinh-te" /><span class="glyphicon glyphicon-shopping-cart"></span>Kinh tế</a><li><a href="http://tuoitre.vn/tin/song-khoe" /><span class="glyphicon glyphicon-plus"></span>Sống khỏe</a><li><a href="http://tuoitre.vn/tin/giao-duc" /><span class="glyphicon glyphicon-folder-open"></span>Giáo dục</a><li><a href="http://tuyensinh.tuoitre.vn" />iTuyển sinh</a><li><a href="http://thethao.tuoitre.vn" /><span class="fa fa-futbol-o"></span>Thể thao</a><li><a href="http://tuoitre.vn/tin/van-hoa-giai-tri" /><span class="glyphicon glyphicon-heart"></span>Văn hóa - Giải trí</a><li><a href="http://tuoitre.vn/tin/nhip-song-tre" /><span class="glyphicon glyphicon-flash"></span>Nhịp sống trẻ</a><li><a href="http://nhipsongso.tuoitre.vn" /><span class="glyphicon glyphicon-phone"></span>Nhịp sống số</a><li><a href="http://tuoitre.vn/tin/ban-doc" /><span class="glyphicon glyphicon-user"></span>Bạn đọc</a><li><a href="http://dulich.tuoitre.vn" /><span class="glyphicon glyphicon-plane"></span>Du lịch</a><li><a href="http://tuoitre.vn/tin/can-biet" /><span class="glyphicon glyphicon-eye-open"></span>Cần biết</a><li class="style-1"><a href="http://tuoitrenews.vn">TUOITRENEWS</a></li><li class="style-1"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan">Tuổi trẻ cuối tuần</a></li><li class="style-1"><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi">Tuổi trẻ cười</a></li><li class="style-1"><a href="http://tv.tuoitre.vn">Tuổi trẻ TV</a></li><li class="style-1"><a href="http://tusach.tuoitre.vn">Tủ sách</a></li><li class="copyright">
+                <p>2003 - 2017 Bản quyền và phát triển bởi <strong>Báo tuổi trẻ</strong></p>
+                <p>Trụ sở: 60A, Hoàng Văn Thụ, Phường 9, Quận Phú Nhuận, Thành Phố Hồ Chí Minh<br> <a style="padding:0;margin:0;display:inline" href="tel:0839973838">(84.8)3.997.3838</a></p>
+            </li></ul>        <a class="btn-top" href="javascript:void(0)" title="Top"><i class="fa fa-chevron-up"></i></a>
+
+
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MD25GD"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MD25GD');</script>
+        <script type="text/javascript" src="http://s.tuoitre.vn/TripleX/getad.js"></script>
+    <script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/js/lib.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/js/custom.min.js"></script>
+<script type="text/javascript" src="http://static.new.tuoitre.vn/assets/tto/30d75256v783/js/start.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+	
+    $(window).load(function(){
+        $('.sort-desc').click();
+        //$('#Top980').width('980px');
+      });
+
+jQuery(function($) {
+
+        $(document).ready(function(){
+            $("#lich-thi-dau").on("change", function() {
+                var id = $(this).val();
+                $(".lich-thi-dau-table").hide();
+                $("#lich-thi-dau-" + id).show();
+            });
+        });
+        
+
+        $(document).ready(function(){
+            $("#bang-xep-hang").on("change", function() {
+                var id = $(this).val();
+                $(".bang-xep-hang-table").hide();
+                $("#bang-xep-hang-" + id).show();
+            });
+        });
+        
+
+        $(document).ready(function(){
+            $("#ket-qua-thi-dau").on("change", function() {
+                var id = $(this).val();
+                $(".ket-qua-thi-dau-table").hide();
+                $("#ket-qua-thi-dau-" + id).show();
+            });
+        });
+        
+});
+/*]]>*/
+</script>
+</body>
+</html>

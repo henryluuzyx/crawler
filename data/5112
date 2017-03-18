@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Bí quyết làm món trứng cuộn cơm ngon như người Nhật - KH&PT
+</title><meta name="keywords" content="chế biến,Lương Ngọc,người Việt" /><meta name="description" content="Trứng cuộn cơm là món ăn đặc trưng của người Nhật Bản. Từ lâu, món ăn này được rất nhiều người Việt Nam yêu thích bởi mùi vị và giàu dinh dưỡng." />
+<link rel="canonical" href="http://www.baomoi.com/bi-quyet-lam-mon-trung-cuon-com-ngon-nhu-nguoi-nhat/c/21782709.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21782709" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21782709" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://khoahocphattrien.vn/suc-khoe/bi-quyet-lam-mon-trung-cuon-com-ngon-nhu-nguoi-nhat/20170316054326738p1c784.htm");
+else
+window.location.replace("http://www.baomoi.com/bi-quyet-lam-mon-trung-cuon-com-ngon-nhu-nguoi-nhat/c/21782709.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

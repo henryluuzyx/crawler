@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+11 tác phẩm được trao giải tại Triển lãm ảnh 'Trên những nẻo đường đất nước' - KTĐT
+</title><meta name="keywords" content="Hội Báo toàn quốc 2017,ảnh báo chí,Hồ Quang Lợi,Nguyễn Thế Dũng,hội nhà báo việt nam,tác nghiệp,trưng bày,khai mạc,tham quan,hội nhập,sản xuất,Hà Nội,việt nam" /><meta name="description" content="Trong khuôn khổ Hội Báo toàn quốc 2017 đang diễn ra tại Hà Nội, chiều nay (17/3), Lễ khai mạc Triển lãm ảnh báo chí “Trên những nẻo đường đất nước” được Câu..." />
+<link rel="canonical" href="http://www.baomoi.com/11-tac-pham-duoc-trao-giai-tai-trien-lam-anh-tren-nhung-neo-duong-dat-nuoc/c/21790573.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21790573" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21790573" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://kinhtedothi.vn/11-tac-pham-duoc-trao-giai-tai-trien-lam-anh-tren-nhung-neo-duong-dat-nuoc-283140.html");
+else
+window.location.replace("http://www.baomoi.com/11-tac-pham-duoc-trao-giai-tai-trien-lam-anh-tren-nhung-neo-duong-dat-nuoc/c/21790573.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

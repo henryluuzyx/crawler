@@ -1,0 +1,411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" lang="vi"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Cơ hội du học</title><link rel="shortcut icon" href="https://dantri3.vcmedia.vn/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><title>
+Du Học - Dân trí
+</title><meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI" /><link href="https://dantri4.vcmedia.vn/web_css/duhoc.main.1.0.css" rel="stylesheet" type="text/css" />
+
+<script src="https://dantri3.vcmedia.vn/Scripts/duhoc.main.1.0.js"></script>
+<script>
+function setCookieForMobile(cname, cvalue, exdays) {
+var d = new Date();
+d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+var expires = "expires=" + d.toUTCString();
+document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function CheckMobileRedirect() {
+try {
+//check session on client
+if (typeof (Storage) !== "undefined") {
+var session = sessionStorage.getItem("VisitSession");
+if (session == null) {
+//phien lam viec moi
+sessionStorage.setItem("VisitSession", "1");
+
+var hash = window.location.hash;
+if (hash == "#first") {
+//link được redirect từ bản mobile sang thì không làm gì.
+window.history.replaceState("", "", window.location.href.split('#')[0]);
+} else {
+//nếu không phải link đá từ mobile thì remove cookie ở đây.
+setCookieForMobile("browser", "", -1);
+//reload lại trang để hệ thống chuyển về bản mobile.
+window.location = window.location.href;
+}
+} else {
+//van dang o phien lam viec cu thi khong lam gi.  
+}
+}
+} catch (e) { }
+}
+CheckMobileRedirect();
+
+(function (i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-12366027-9', 'auto');
+ga('send', 'pageview');
+
+ga('create', 'UA-4263013-51', 'auto', { 'name': 'dh_vcc' });
+ga('dh_vcc.send', 'pageview');
+
+ga('create', 'UA-34575478-26', 'auto', { 'name': 'dtonly' });
+ga('dtonly.send', 'pageview');
+
+ga('create', 'UA-657017-2', 'auto', { 'name': 'dtboo' });
+ga('dtboo.send', 'pageview');
+
+ga('create', 'UA-4263013-64', 'auto', { 'name': 'totaldt' });
+ga('totaldt.send', 'pageview');
+
+</script>
+ <script type="text/javascript">var _ADM_Channel='%2Fdu-hoc%2Fco-hoi-du-hoc%2F';</script>
+<script src="//media1.admicro.vn/core/adm_tracking.js?v=1" type="text/javascript"></script>
+
+  
+
+ <!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17793284" });
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/p?c1=2&c2=17793284&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<link href="http://m.dantri.com.vn/du-hoc/co-hoi-du-hoc.htm" rel="alternate" media="only screen and (max-width: 640px)" /><link href="http://m.dantri.com.vn/du-hoc/co-hoi-du-hoc.htm" rel="alternate" media="handheld" /><link href="http://duhoc.dantri.com.vn/du-hoc/co-hoi-du-hoc.htm" rel="canonical" /></head>
+<body>
+<form method="post" action="" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="hidCatUrl" id="hidCatUrl" value="co-hoi-du-hoc" />
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="736" />
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="736" />
+<input type="hidden" name="hidTitle" id="hidTitle" value="" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="-1" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="736" />
+<input type="hidden" name="hidCatName" id="hidCatName" value="Cơ hội du học" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ1MTAyMDIyMWRk6ezMeR4I5ICP1/o4pv6B+ZFRe41bwVIQcDeBY4/BBCU=" />
+</div>
+
+<div id="wrap">
+
+<div id="header">
+<div class="logo "><a class="sprite" href="/" title="Du học"></a></div>
+<div class="box-search" style="visibility: hidden;">
+<div class="container">
+<input type="text" id="txtSearch" class="txt-search" onkeypress="return SearchKeyPress(event)" />
+<img onclick="return OnSearchClick()" src="/Images/blank.gif"/>
+</div>
+</div>
+</div>
+
+<div class="adv-header">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_221.ads"></script>
+</div>
+
+<div id="menu">
+<ul>
+<li><a target="_blank" href="http://dantri.com.vn" title="Trang chủ Dân Trí"><span>Trang chủ</span></a></li>
+<li class="home">
+<a class="sprite" title="Du Học" href="/"><span>Du Học</span></a>
+</li>
+<li>
+<a title="Cơ hội du học" href="/du-hoc/co-hoi-du-hoc.htm"><span>Cơ hội du học</span></a>
+</li>
+<li>
+<h1><a title="Thế giới du học" class="active" href="/du-hoc/the-gioi-du-hoc.htm"><span>Thế giới du học</span></a></h1>
+</li>
+<li>
+<a title="Tài trí Việt" href="/du-hoc/tai-tri-viet.htm"><span>Tài trí Việt</span></a> 
+</li>
+<li>
+<a title="Cẩm nang - Hỏi đáp" href="/du-hoc/cam-nang-hoi-dap.htm"><span>Cẩm nang - Hỏi đáp</span></a> 
+</li>
+<li>
+<a title="Các ngôi trường danh tiếng" href="/du-hoc/cac-ngoi-truong-danh-tieng.htm"><span>Các ngôi trường danh tiếng</span></a>  
+
+</li>
+<li>
+<a title="Góc chia sẻ" href="/du-hoc/goc-chia-se.htm"><span>Góc chia sẻ</span></a>  
+ 
+</li>
+</ul>
+</div>
+<style type="text/css">#menu ul .home a{ height: auto !important;}</style>
+
+
+<div id="container" class="clearfix">
+
+<div id="container" class="clearfix">
+<div id="column-left-list">
+
+
+<div class="list">
+
+<div class="item">
+<a href="/co-hoi-du-hoc/hoi-thao-du-hoc-tro-thanh-nha-lanh-dao-chuyen-nghiep-trong-nganh-quan-tri-khach-san-to-chuc-su-kien-20170314105441449.htm" alt="Anh" title="Hội thảo Du học - Trở th&#224;nh nh&#224; l&#227;nh đạo chuy&#234;n nghiệp trong ng&#224;nh Quản trị Kh&#225;ch sạn &amp; Tổ chức Sự kiện"><img alt="Hội thảo Du học - Trở th&#224;nh nh&#224; l&#227;nh đạo chuy&#234;n nghiệp trong ng&#224;nh Quản trị Kh&#225;ch sạn &amp; Tổ chức Sự kiện" width="193px" src="https://dantri.vcmedia.vn/zoom/327_245/2017/photo-2-1489463415288.jpg"/></a>
+<h3>
+<a title="Hội thảo Du học - Trở th&#224;nh nh&#224; l&#227;nh đạo chuy&#234;n nghiệp trong ng&#224;nh Quản trị Kh&#225;ch sạn &amp; Tổ chức Sự kiện" href="/co-hoi-du-hoc/hoi-thao-du-hoc-tro-thanh-nha-lanh-dao-chuyen-nghiep-trong-nganh-quan-tri-khach-san-to-chuc-su-kien-20170314105441449.htm">Hội thảo Du học - Trở th&#224;nh nh&#224; l&#227;nh đạo chuy&#234;n nghiệp trong ng&#224;nh Quản trị Kh&#225;ch sạn &amp; Tổ chức Sự kiện </a></h3>
+<p>
+Quản trị Khách sạn & Tổ chức Sự kiện (Hospitality Management) đang trở thành một trong những từ khóa được tìm kiếm nhiều trong 5 năm trở lại đây. Theo dự đoán của Hội đồng Du lịch & Lữ hành Thế giới (WTTC), ngành này cần ít nhất 80 triệu nhân sự mới trong 10 năm đến, đặc biệt tại các quốc gia đang phát triển sẽ thiếu hụt nguồn quản lý cao cấp được đào tạo chuyên nghiệp.</p>
+</div>
+
+
+<div class="item">
+<a href="/co-hoi-du-hoc/vietnight-10-dem-nhac-tu-thien-cua-cac-du-hoc-sinh-anh-20170317201023429.htm" alt="Anh" title="Vietnight 10 - Đ&#234;m nhạc từ thiện của c&#225;c du học sinh Anh"><img alt="Vietnight 10 - Đ&#234;m nhạc từ thiện của c&#225;c du học sinh Anh" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/dem-nhac-2-1489747305020.jpg"/></a>
+
+<h3>
+<a title="Vietnight 10 - Đ&#234;m nhạc từ thiện của c&#225;c du học sinh Anh" href="/co-hoi-du-hoc/vietnight-10-dem-nhac-tu-thien-cua-cac-du-hoc-sinh-anh-20170317201023429.htm">Vietnight 10 - Đ&#234;m nhạc từ thiện của c&#225;c du học sinh Anh </a></h3>
+<p>
+Ngày 18/3 tới, một đêm nhạc sôi động, đúng chất sinh viên - đêm nhạc hội thường niên Warwick Vietnight do Hội sinh viên Việt Nam tại trường đại học Warwick ( Warwick Vietsoc) sẽ được tổ chức. Đêm nhạc thường niên lần thứ 10 này tiếp tục là món quà trao tặng học sinh nghèo tại Việt Nam…</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/hoi-thao-du-hoc-dinh-huong-chon-nganh-hoc-va-thanh-pho-theo-danh-sach-dinh-cu-cao-uc-2017-20170316212557831.htm" alt="Anh" title="Hội thảo du học - Định hướng chọn ng&#224;nh học v&#224; th&#224;nh phố theo danh s&#225;ch định cư cao &#218;c 2017"><img alt="Hội thảo du học - Định hướng chọn ng&#224;nh học v&#224; th&#224;nh phố theo danh s&#225;ch định cư cao &#218;c 2017" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/du-hoc-1489673894713.jpg"/></a>
+
+<h3>
+<a title="Hội thảo du học - Định hướng chọn ng&#224;nh học v&#224; th&#224;nh phố theo danh s&#225;ch định cư cao &#218;c 2017" href="/du-hoc/hoi-thao-du-hoc-dinh-huong-chon-nganh-hoc-va-thanh-pho-theo-danh-sach-dinh-cu-cao-uc-2017-20170316212557831.htm">Hội thảo du học - Định hướng chọn ng&#224;nh học v&#224; th&#224;nh phố theo danh s&#225;ch định cư cao &#218;c 2017 </a></h3>
+<p>
+Theo báo cáo của chính phủ Úc (internationaleducation.gov.au), số lượng sinh viên quốc tế du học tại Úc tăng nhanh chóng qua các năm 2012 – 2015 trong tất cả các bậc và chương trình học.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/quyen-uu-tien-tuyen-sinh-du-hoc-tai-uc-giai-phap-tai-chinh-ket-hop-giao-duc-dang-cap-quoc-te-20170316025951528.htm" alt="Anh" title="“Quyền Ưu ti&#234;n Tuyển sinh Du học tại &#218;c” - Giải ph&#225;p t&#224;i ch&#237;nh kết hợp gi&#225;o dục đẳng cấp quốc tế"><img alt="“Quyền Ưu ti&#234;n Tuyển sinh Du học tại &#218;c” - Giải ph&#225;p t&#224;i ch&#237;nh kết hợp gi&#225;o dục đẳng cấp quốc tế" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-2-1489607756225-crop-1489607878827.jpg"/></a>
+
+<h3>
+<a title="“Quyền Ưu ti&#234;n Tuyển sinh Du học tại &#218;c” - Giải ph&#225;p t&#224;i ch&#237;nh kết hợp gi&#225;o dục đẳng cấp quốc tế" href="/du-hoc/quyen-uu-tien-tuyen-sinh-du-hoc-tai-uc-giai-phap-tai-chinh-ket-hop-giao-duc-dang-cap-quoc-te-20170316025951528.htm">“Quyền Ưu ti&#234;n Tuyển sinh Du học tại &#218;c” - Giải ph&#225;p t&#224;i ch&#237;nh kết hợp gi&#225;o dục đẳng cấp quốc tế </a></h3>
+<p>
+Là cha mẹ, ai cũng luôn ước mong con mình có được một nền tảng học vấn vững chắc trong một môi trường học tập tốt nhất.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/bo-giao-duc-singapore-tuyen-chon-hoc-sinh-viet-nam-de-cap-hoc-bong-asean-20170311164417503.htm" alt="Anh" title="Bộ Gi&#225;o dục Singapore tuyển chọn học sinh Việt Nam để cấp học bổng ASEAN"><img alt="Bộ Gi&#225;o dục Singapore tuyển chọn học sinh Việt Nam để cấp học bổng ASEAN" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/du-hoc-sin-1489225388472.jpg"/></a>
+
+<h3>
+<a title="Bộ Gi&#225;o dục Singapore tuyển chọn học sinh Việt Nam để cấp học bổng ASEAN" href="/du-hoc/bo-giao-duc-singapore-tuyen-chon-hoc-sinh-viet-nam-de-cap-hoc-bong-asean-20170311164417503.htm">Bộ Gi&#225;o dục Singapore tuyển chọn học sinh Việt Nam để cấp học bổng ASEAN </a></h3>
+<p>
+(Dân trí) - Bộ GD&ĐT vừa có công văn gửi các Sở GD&ĐT trong cả nước thông báo, năm 2018 Bộ Giáo dục Singapore tiếp tục tuyển chọn các học sinh Việt Nam để cấp học bổng ASEAN sang học phổ thông trung học tại Singapore.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/du-hoc-canada-ho-so-than-toc-chinh-phuc-dinh-ces-20170314070344809.htm" alt="Anh" title="Du học Canada: Hồ sơ thần tốc – Chinh phục đỉnh CES"><img alt="Du học Canada: Hồ sơ thần tốc – Chinh phục đỉnh CES" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1489449553106.jpg"/></a>
+
+<h3>
+<a title="Du học Canada: Hồ sơ thần tốc – Chinh phục đỉnh CES" href="/du-hoc/du-hoc-canada-ho-so-than-toc-chinh-phuc-dinh-ces-20170314070344809.htm">Du học Canada: Hồ sơ thần tốc – Chinh phục đỉnh CES </a></h3>
+<p>
+Các bậc phụ huynh và các em học sinh có nguyện vọng du học Canada đã không còn xa lạ với chương trình Visa nhanh CES - tấm vé TỐC HÀNH đến với Canada.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/hoi-thao-dai-hoc-monash-nen-tang-tro-thanh-cong-dan-toan-cau-201703151235367.htm" alt="Anh" title="Hội thảo Đại học Monash “Nền tảng trở th&#224;nh c&#244;ng d&#226;n to&#224;n cầu”"><img alt="Hội thảo Đại học Monash “Nền tảng trở th&#224;nh c&#244;ng d&#226;n to&#224;n cầu”" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1489555944815.jpg"/></a>
+
+<h3>
+<a title="Hội thảo Đại học Monash “Nền tảng trở th&#224;nh c&#244;ng d&#226;n to&#224;n cầu”" href="/du-hoc/hoi-thao-dai-hoc-monash-nen-tang-tro-thanh-cong-dan-toan-cau-201703151235367.htm">Hội thảo Đại học Monash “Nền tảng trở th&#224;nh c&#244;ng d&#226;n to&#224;n cầu” </a></h3>
+<p>
+Với sự hiện diện trên bốn châu lục, các chương trình học thực tiễn và thực tập trong và ngoài nước, các chương trình nghiên cứu liên lục địa,… Đại học Monash là ngôi trường lý tưởng đào tạo ra lực lượng lao động sẵn sàng làm việc trên toàn thế giới.</p>
+</div>
+
+<div class="item">
+<a href="/co-hoi-du-hoc/hoi-thao-du-hoc-my-american-honors-va-chuong-trinh-hoan-tat-thpt-20170314065750433.htm" alt="Anh" title="Hội thảo du học Mỹ - American Honors v&#224; chương tr&#236;nh ho&#224;n tất THPT"><img alt="Hội thảo du học Mỹ - American Honors v&#224; chương tr&#236;nh ho&#224;n tất THPT" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1489449288927.jpg"/></a>
+
+<h3>
+<a title="Hội thảo du học Mỹ - American Honors v&#224; chương tr&#236;nh ho&#224;n tất THPT" href="/co-hoi-du-hoc/hoi-thao-du-hoc-my-american-honors-va-chuong-trinh-hoan-tat-thpt-20170314065750433.htm">Hội thảo du học Mỹ - American Honors v&#224; chương tr&#236;nh ho&#224;n tất THPT </a></h3>
+<p>
+Access American Education phối hợp cùng American Honors tổ chức buổi hội thảo giới thiệu về các cơ hội học tập tại Mỹ dành cho các bạn học sinh và sinh viên Việt Nam</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/huong-dan-dinh-cu-hop-phap-tai-canada-bang-con-duong-du-hoc-20170312235653321.htm" alt="Anh" title="Hướng dẫn định cư hợp ph&#225;p tại Canada bằng con đường du học"><img alt="Hướng dẫn định cư hợp ph&#225;p tại Canada bằng con đường du học" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/canada1-1489336929718-crop-1489337715672.jpg"/></a>
+
+<h3>
+<a title="Hướng dẫn định cư hợp ph&#225;p tại Canada bằng con đường du học" href="/du-hoc/huong-dan-dinh-cu-hop-phap-tai-canada-bang-con-duong-du-hoc-20170312235653321.htm">Hướng dẫn định cư hợp ph&#225;p tại Canada bằng con đường du học </a></h3>
+<p>
+Theo số liệu của Tổ chức Di cư quốc tế (IMO) lấy từ nguồn dữ liệu của Vụ Liên hiệp quốc về vấn đề kinh tế và xã hội năm 2015 trung bình mỗi năm có gần 100 nghìn người Việt Nam di cư ra nước ngoài, hầu hết người Việt Nam di cư đến các nước phát triển như Mỹ, Pháp, Đức, Canada… Trong năm 2016 có đến hơn 5000 người định cư thành công tại Canada trong đó có đến 60% là du học sinh định cư thông qua con đường du học.</p>
+</div>
+
+<div class="item">
+<a href="/du-hoc/ngay-hoi-tu-van-tuyen-sinh-vao-hon-69-truong-new-zealand-20170314074538549.htm" alt="Anh" title="Ng&#224;y hội tư vấn, tuyển sinh v&#224;o hơn 69 trường New Zealand"><img alt="Ng&#224;y hội tư vấn, tuyển sinh v&#224;o hơn 69 trường New Zealand" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-2-1489452062861.jpg"/></a>
+
+<h3>
+<a title="Ng&#224;y hội tư vấn, tuyển sinh v&#224;o hơn 69 trường New Zealand" href="/du-hoc/ngay-hoi-tu-van-tuyen-sinh-vao-hon-69-truong-new-zealand-20170314074538549.htm">Ng&#224;y hội tư vấn, tuyển sinh v&#224;o hơn 69 trường New Zealand </a></h3>
+<p>
+“Ngày hội tuyển sinh, tư vấn học bổng vào hơn 69 trường New Zealand” sẽ là cơ hội để bạn tìm được câu trả lời thỏa đáng về nhiều vấn đề của du học. Chúng tôi thân mời các phụ huynh học sinh và bạn học sinh, sinh viên có ý định du học nghiêm túc, đến dự buổi triển lãm nhỏ này</p>
+</div>
+
+<div class="item">
+<a href="/co-hoi-du-hoc/du-hoc-uc-uu-tien-hang-dau-ve-giao-duc-cung-chinh-sach-hap-dan-thu-hut-nhan-tai-2017-20170313085442331.htm" alt="Anh" title="Du học &#218;c - Ưu ti&#234;n h&#224;ng đầu về gi&#225;o dục c&#249;ng ch&#237;nh s&#225;ch hấp dẫn thu h&#250;t nh&#226;n t&#224;i 2017"><img alt="Du học &#218;c - Ưu ti&#234;n h&#224;ng đầu về gi&#225;o dục c&#249;ng ch&#237;nh s&#225;ch hấp dẫn thu h&#250;t nh&#226;n t&#224;i 2017" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/du-hoc-1489369833993.jpg"/></a>
+
+<h3>
+<a title="Du học &#218;c - Ưu ti&#234;n h&#224;ng đầu về gi&#225;o dục c&#249;ng ch&#237;nh s&#225;ch hấp dẫn thu h&#250;t nh&#226;n t&#224;i 2017" href="/co-hoi-du-hoc/du-hoc-uc-uu-tien-hang-dau-ve-giao-duc-cung-chinh-sach-hap-dan-thu-hut-nhan-tai-2017-20170313085442331.htm">Du học &#218;c - Ưu ti&#234;n h&#224;ng đầu về gi&#225;o dục c&#249;ng ch&#237;nh s&#225;ch hấp dẫn thu h&#250;t nh&#226;n t&#224;i 2017 </a></h3>
+<p>
+Chính phủ Úc sẵn sàng đưa ra nhiều chính sách đi đầu về giáo dục, việc làm và cơ hội định cư dành cho tất cả sinh viên quốc tế đến đây phát huy sự sáng tạo của tuổi trẻ kể cả học sinh và sinh viên quốc tế</p>
+</div>
+
+<div class="item">
+<a href="/co-hoi-du-hoc/hoi-thao-du-hoc-thuy-si-truong-vatel-danh-gia-20170313000718033.htm" alt="Anh" title="Hội thảo du học Thuỵ Sĩ, trường Vatel danh gi&#225;"><img alt="Hội thảo du học Thuỵ Sĩ, trường Vatel danh gi&#225;" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/vatel2-1489338213004.jpg"/></a>
+
+<h3>
+<a title="Hội thảo du học Thuỵ Sĩ, trường Vatel danh gi&#225;" href="/co-hoi-du-hoc/hoi-thao-du-hoc-thuy-si-truong-vatel-danh-gia-20170313000718033.htm">Hội thảo du học Thuỵ Sĩ, trường Vatel danh gi&#225; </a></h3>
+<p>
+Trường Vatel ở Thụy Sĩ là sự đúc kết tinh túy từ gần 120 năm bí quyết quản lí khách sạn của Thụy Sĩ và của hơn 30 năm kinh nghiệm đào tạo đại học xuất sắc của tập đoàn Vatel. Trường đào tạo chương trình cử nhân và thạc sĩ theo chuẩn Châu Âu bằng tiếng Anh và tiếng Pháp.</p>
+</div>
+
+<div class="item">
+<a href="/co-hoi-du-hoc/moi-du-trien-lam-du-hoc-pho-thong-anh-uc-my-new-zealand-singapore-20170313113202217.htm" alt="Anh" title="Mời dự Triển l&#227;m du học phổ th&#244;ng Anh, &#218;c, Mỹ, New Zealand, Singapore"><img alt="Mời dự Triển l&#227;m du học phổ th&#244;ng Anh, &#218;c, Mỹ, New Zealand, Singapore" width="193px" src="https://dantri.vcmedia.vn/zoom/200_150/2017/photo-1-1489379307645-crop-1489379423895.jpg"/></a>
+
+<h3>
+<a title="Mời dự Triển l&#227;m du học phổ th&#244;ng Anh, &#218;c, Mỹ, New Zealand, Singapore" href="/co-hoi-du-hoc/moi-du-trien-lam-du-hoc-pho-thong-anh-uc-my-new-zealand-singapore-20170313113202217.htm">Mời dự Triển l&#227;m du học phổ th&#244;ng Anh, &#218;c, Mỹ, New Zealand, Singapore </a></h3>
+<p>
+Trân trọng mời các phụ huynh và học sinh quan tâm tới dự Triển lãm du học quốc tế- bậc phổ thông, tại Anh, Úc, Mỹ, New Zealand, Canada và Singapore, do công ty Đức anh và các trường đồng tổ chức tại:</p>
+</div>
+
+</div>
+<script type="text/javascript" language="javascript">
+$('.list .item:last').addClass("last");
+</script>
+<div class="cat-trangsau">
+&nbsp;[ <a href="/du-hoc/co-hoi-du-hoc/trang-2.htm" title"sau">Trang sau</a> ]
+</div>
+<div id="ContentPlaceHolder1_ContentPlaceHolder1_List1_divBaiDaDang">
+
+<div class="oldernew">  
+<p>Các bài đã đăng</p>
+<ul>
+
+<li><a href="/co-hoi-du-hoc/5-kho-khan-va-3-loi-ich-cua-viec-di-du-hoc-20170311121738986.htm" title="5 kh&#243; khăn v&#224; 3 lợi &#237;ch của việc đi du học">5 kh&#243; khăn v&#224; 3 lợi &#237;ch của việc đi du học (11/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/ban-da-san-sang-cho-cuoc-san-hoc-bong-du-hoc-singapore-20170311101723875.htm" title="Bạn đ&#227; sẵn s&#224;ng cho cuộc “săn” Học bổng Du học Singapore?">Bạn đ&#227; sẵn s&#224;ng cho cuộc “săn” Học bổng Du học Singapore? (11/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/tang-co-hoi-dinh-cu-canada-sau-tot-nghiep-voi-lo-trinh-du-hoc-thong-minh-20170311074744785.htm" title="Tăng cơ hội định cư Canada sau tốt nghiệp với lộ tr&#236;nh du học th&#244;ng minh">Tăng cơ hội định cư Canada sau tốt nghiệp với lộ tr&#236;nh du học th&#244;ng minh (11/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/trien-lam-du-hoc-pho-thong-anh-uc-my-new-zealand-canada-20170310132045745.htm" title="Triển l&#227;m du học phổ th&#244;ng Anh, &#218;c, Mỹ, New Zealand, Canada,…">Triển l&#227;m du học phổ th&#244;ng Anh, &#218;c, Mỹ, New Zealand, Canada,… (10/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/7-ly-do-khien-ban-khong-the-bo-lo-ngay-hoi-du-hoc-tieng-anh-eduphilippines-fair-2017-20170310111717916.htm" title="7 l&#253; do khiến bạn kh&#244;ng thể bỏ lỡ ng&#224;y hội du học tiếng Anh EduPhilippines Fair 2017">7 l&#253; do khiến bạn kh&#244;ng thể bỏ lỡ ng&#224;y hội du học tiếng Anh EduPhilippines Fair 2017 (10/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/co-hoi-hoc-nganh-du-lich-nha-hang-khach-san-gia-re-chat-luong-cao-tai-canada-voi-dai-hoc-cape-breton-20170310094735898.htm" title="Cơ hội học ng&#224;nh Du Lịch, Nh&#224; H&#224;ng &amp; Kh&#225;ch Sạn gi&#225; rẻ, chất lượng cao tại Canada với Đại học Cape Breton">Cơ hội học ng&#224;nh Du Lịch, Nh&#224; H&#224;ng &amp; Kh&#225;ch Sạn gi&#225; rẻ, chất lượng cao tại Canada với Đại học Cape Breton (10/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/hoi-thao-du-hoc-singapore-nhan-hoc-bong-s4000-va-co-hoi-thuc-tap-tai-singapore-cung-mdis-20170310093246102.htm" title="Hội thảo Du học Singapore: Nhận học bổng S$4000 v&#224; cơ hội thực tập tại Singapore c&#249;ng MDIS">Hội thảo Du học Singapore: Nhận học bổng S$4000 v&#224; cơ hội thực tập tại Singapore c&#249;ng MDIS (10/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/chuong-trinh-thuc-tap-huong-luong-cua-dai-hoc-simon-fraser-canada-20170309142159368.htm" title="Chương tr&#236;nh thực tập hưởng lương của Đại học Simon Fraser, Canada">Chương tr&#236;nh thực tập hưởng lương của Đại học Simon Fraser, Canada (9/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/tuyen-sinh-du-hoc-cong-hoa-sip-khoa-thang-6-nam-2017-20170308230143242.htm" title="Tuyển sinh du học cộng h&#242;a S&#237;p kh&#243;a th&#225;ng 6 năm 2017">Tuyển sinh du học cộng h&#242;a S&#237;p kh&#243;a th&#225;ng 6 năm 2017 (9/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/co-hoi-hoc-bong-hap-dan-chi-co-tai-ngay-hoi-tuyen-sinh-truc-tiep-interview-day-20170308104352394.htm" title="Cơ hội học bổng hấp dẫn chỉ c&#243; tại Ng&#224;y hội tuyển sinh trực tiếp Interview Day">Cơ hội học bổng hấp dẫn chỉ c&#243; tại Ng&#224;y hội tuyển sinh trực tiếp Interview Day (8/3)</a></li>
+
+<li><a href="/co-hoi-du-hoc/trien-lam-giao-duc-canada-mua-xuan-2017-2017030808395725.htm" title="Triển l&#227;m gi&#225;o dục Canada m&#249;a Xu&#226;n 2017">Triển l&#227;m gi&#225;o dục Canada m&#249;a Xu&#226;n 2017 (8/3)</a></li>
+
+<li><a href="/du-hoc/hoi-thao-du-hoc-canada-2017-suc-hap-dan-tu-nhieu-chinh-sach-trong-dung-nhan-tai-20170307152256531.htm" title="Hội thảo Du học Canada 2017 - Sức hấp dẫn từ nhiều ch&#237;nh s&#225;ch trọng dụng nh&#226;n t&#224;i">Hội thảo Du học Canada 2017 - Sức hấp dẫn từ nhiều ch&#237;nh s&#225;ch trọng dụng nh&#226;n t&#224;i (8/3)</a></li>
+
+<li><a href="/du-hoc/phu-huynh-viet-nam-chon-mat-gui-vang-nhu-the-nao-khi-cho-con-du-hoc-20170307091432792.htm" title="Phụ huynh Việt Nam “chọn mặt gửi v&#224;ng” như thế n&#224;o khi cho con du học?">Phụ huynh Việt Nam “chọn mặt gửi v&#224;ng” như thế n&#224;o khi cho con du học? (7/3)</a></li>
+
+</ul>
+<input type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="" class="sprite xembaitheongaythang" id="viewbdate" />
+</div>
+</div>
+
+</div>
+<div id="column-right">
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_401.ads"></script>
+</div>
+
+<div class="boxrightcontent2 block">
+ 
+<p class="sprite header">
+<a href="/du-hoc/cam-nang-hoi-dap.htm" title="Cẩm nang - Hỏi đáp">Cẩm nang - Hỏi đáp</a></p>
+<div class="brc-container">
+<div class="brc-img"><div class="brc-img-top"><span></span></div><div class="brc-img-center"><a href="/du-hoc/sinh-vien-viet-bat-dau-tim-viec-o-nhat-kha-muon-do-thieu-thong-tin-20170110090633741.htm" title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin"><img alt="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" src="https://dantri.vcmedia.vn/zoom/273_204/2017/nhatban1-1484013830959.jpg" border="0px" width="273px" title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" /></a></div><div class="brc-img-bottom"><span></span></div></div>
+
+<h4>
+<a title="Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin" href="/du-hoc/sinh-vien-viet-bat-dau-tim-viec-o-nhat-kha-muon-do-thieu-thong-tin-20170110090633741.htm">Sinh vi&#234;n Việt bắt đầu t&#236;m việc ở Nhật kh&#225; muộn do thiếu th&#244;ng tin</a></h4>
+<p class="sapo">
+
+</p>
+<ul>
+<li><i class="dotted sprite"></i><h4><a title="10 lời khuy&#234;n gi&#250;p bản CV của bạn th&#234;m &quot;long lanh&quot; trong mắt nh&#224; tuyển dụng" href="/du-hoc/10-loi-khuyen-giup-ban-cv-cua-ban-them-long-lanh-trong-mat-nha-tuyen-dung-2016110108305491.htm">10 lời khuy&#234;n gi&#250;p bản CV của bạn th&#234;m &quot;long lanh&quot; trong mắt nh&#224; tuyển dụng</a></h4></li><li><i class="dotted sprite"></i><h4><a title="Du học H&#224;n Quốc kh&#225;c biệt thế n&#224;o so với c&#225;c nước ch&#226;u &#194;u?" href="/du-hoc/du-hoc-han-quoc-khac-biet-the-nao-so-voi-cac-nuoc-chau-au-20161004073306704.htm">Du học H&#224;n Quốc kh&#225;c biệt thế n&#224;o so với c&#225;c nước ch&#226;u &#194;u?</a></h4></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+<div class="boxrightcontent5 block">
+<p class="sprite header"><a href="/du-hoc/goc-multimedia.htm" title="Góc Multimedia"><img src="/Images/blank.gif" border="0"/></a></p>
+<div class="brc-container">
+<div class="brc-img"><a href="/du-hoc/khoe-anh-cuoi-ngot-ngao-o-3-nuoc-tu-linh-mo-ve-mot-gia-dinh-nho-20170303124506059.htm" title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ"><img alt="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ" src="https://dantri.vcmedia.vn/zoom/273_204/2017/tulinh1-1488519632407-crop-1488551221194.png" border="0px" width="193px" title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ"/></a></div>
+
+<h4><a title="Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ" href="/du-hoc/khoe-anh-cuoi-ngot-ngao-o-3-nuoc-tu-linh-mo-ve-mot-gia-dinh-nho-20170303124506059.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Khoe ảnh cưới ngọt ng&#224;o ở 3 nước, T&#250; Linh mơ về một gia đ&#236;nh nhỏ</a></h4>
+<ul>
+<li><i class="dotted sprite"></i><h4><a title="Nữ thạc sĩ 9X xinh đẹp trong t&#224; &#225;o d&#224;i đi lễ ch&#249;a đầu năm" href="/du-hoc/nu-thac-si-9x-xinh-dep-trong-ta-ao-dai-di-le-chua-dau-nam-20170211084500757.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Nữ thạc sĩ 9X xinh đẹp trong t&#224; &#225;o d&#224;i đi lễ ch&#249;a đầu năm</a></h4></li><li><i class="dotted sprite"></i><h4><a title="Hot girl c&#243; nụ cười “trẻ thơ” kể chuyện du học Mỹ" href="/nhip-song-tre/hot-girl-co-nu-cuoi-tre-tho-ke-chuyen-du-hoc-my-20170209000016635.htm"><img border="0" src="https://dantri3.vcmedia.vn/App_Themes/Default/Images/ico_image2.png" />&nbsp; Hot girl c&#243; nụ cười “trẻ thơ” kể chuyện du học Mỹ</a></h4></li>
+</ul>
+</div>
+</div>
+
+<div class="tiemdiem2 block">
+<p class="sprite header"><img src="https://dantri3.vcmedia.vn/Images/duhoc/blank.gif" class="headerAvatar"/></p>
+<div class="container">
+
+<div class="item">
+<a href="/du-hoc/du-hoc-thpt-tai-uc-thang-tien-vao-dai-hoc-top-dau-the-gioi-20170307075209587.htm" title="Du học THPT tại &#218;c - Thẳng tiến v&#224;o Đại học TOP đầu Thế giới"><img width="45px" src="https://dantri.vcmedia.vn/zoom/54_40/2017/photo-2-1488847711166-crop-1488847853924.jpg"/ alt="Du học THPT tại &#218;c - Thẳng tiến v&#224;o Đại học TOP đầu Thế giới"></a>
+<h4><a href="/du-hoc/du-hoc-thpt-tai-uc-thang-tien-vao-dai-hoc-top-dau-the-gioi-20170307075209587.htm" title="Du học THPT tại &#218;c - Thẳng tiến v&#224;o Đại học TOP đầu Thế giới"> Du học THPT tại &#218;c - Thẳng tiến v&#224;o Đại học TOP đầu Thế giới</a></h4>
+</div>
+
+</div>
+</div>
+
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_345.ads"></script>
+</div>
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_366.ads"></script>
+</div>
+</div>
+<div id="column-right-list">
+
+<div class="block">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_228.ads"></script>
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="footer">
+<div class="footer-logo"><a class="sprite" rel="nofollow" title="Du học" href="/"></a></div>
+<div class="footer-menu">
+<ul>
+<li><a rel="nofollow" title="Du học" href="/"><span>Du Học</span></a></li>
+<li><a rel="nofollow" title="Cơ hội du học" href="/du-hoc/co-hoi-du-hoc.htm"><span>Cơ hội du học</span></a></li>
+<li><a rel="nofollow" title="Thế giới du học" href="/du-hoc/the-gioi-du-hoc.htm"><span>Thế giới du học</span></a></li>
+<li><a rel="nofollow" title="Tài trí việt" href="/du-hoc/tai-tri-viet.htm"><span>Tài trí Việt</span></a></li>
+<li><a rel="nofollow" title="Cẩm nang hỏi đáp" href="/du-hoc/cam-nang-hoi-dap.htm"><span>Cẩm nang - Hỏi đáp</span></a></li>
+<li><a rel="nofollow" title="Các ngôi trường danh tiếng" href="/du-hoc/cac-ngoi-truong-danh-tieng.htm"><span>Các ngôi trường danh tiếng</span></a></li>
+<li class="last"><a rel="nofollow" title="Góc chia sẻ" href="/du-hoc/goc-chia-se.htm"><span>Góc chia sẻ</span></a></li>
+</ul>
+<p>Chuyên mục của báo Điện tử Dân trí</p>
+</div>
+</div>
+
+
+</div>
+
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="14DD91A0" />
+</div></form>
+</body>
+</html><!--u: 03/18/2017 08:27:49-->

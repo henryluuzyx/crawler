@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Những tòa lâu đài đẹp như cổ tích tại Ba Lan - Dân Việt
+</title><meta name="keywords" content="Trung Âu,gothic,tu sửa,cai trị,chiến tranh thế giới thứ 2,Ba Lan,bảo tàng,công trình xây dựng,phòng thủ,mạo hiểm,phòng ngự,trưng bày,cải tạo,tham quan" /><meta name="description" content="Ba Lan được ví như trái tim của Trung Âu. Nơi đây như một bảo tàng sống với những kiến trúc cổ kính và huyền ảo đã trải qua bao thăng trầm lịch sử. Tới đây,..." />
+<link rel="canonical" href="http://www.baomoi.com/nhung-toa-lau-dai-dep-nhu-co-tich-tai-ba-lan/c/21792410.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21792410" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21792410" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://danviet.vn/du-lich/nhung-toa-lau-dai-dep-nhu-co-tich-tai-ba-lan-754090.html");
+else
+window.location.replace("http://www.baomoi.com/nhung-toa-lau-dai-dep-nhu-co-tich-tai-ba-lan/c/21792410.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

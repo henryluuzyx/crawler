@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+NTK Hoàng Ngân 'đá sân' mỹ thuật - Giao Thông
+</title><meta name="keywords" content="Hoàng Ngân,Đức Minh Gallery,balê,31C Lê Quý Đôn,acrylic,Quận 3,Hiểu Đồng,trưng bày" /><meta name="description" content="Từ ngày 17-23/3, tại Đức Minh Gallery (31C Lê Quý Đôn, quận 3, TP.HCM) sẽ diễn ra triển lãm tranh của NTK Hoàng Ngân mang tên Những sắc thái ngọt ngào của k..." />
+<link rel="canonical" href="http://www.baomoi.com/ntk-hoang-ngan-da-san-my-thuat/c/21763681.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21763681" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21763681" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://www.baogiaothong.vn/ntk-hoang-ngan-da-san-my-thuat-d192091.html");
+else
+window.location.replace("http://www.baomoi.com/ntk-hoang-ngan-da-san-my-thuat/c/21763681.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

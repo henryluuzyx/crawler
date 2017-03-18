@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+Mỹ công bố 750 video thử nghiệm bom hạt nhân - ANTĐ
+</title><meta name="keywords" content="Greg Spriggs,Lawrence Livermore,Trân Châu Cảng,scan,thử nghiệm,chính phủ mỹ,trả đũa,vũ khí hạt nhân,Mỹ,cuba,mexico,vi-đê-ô,youtube,Nhật Bản" /><meta name="description" content="Chính quyền Mỹ vừa công bố 750 video ghi lại 210 vụ thử nghiệm bom hạt nhân trong giai đoạn từ 1945 đến 1962. Đây là những thước phim vô cùng ấn tượng nhưng..." />
+<link rel="canonical" href="http://www.baomoi.com/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi" />
+</head>
+<body onpageshow="load()" onload="load()">
+<input type="hidden" class="bm-track" data-key="web_all" data-value="" /><input type="hidden" class="bm-track" data-key="web_article" data-value="21793074" /><input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="21793074" />
+<script src="http://s.baomoi.xdn.vn/web/js/tracking.js?v=0.113"></script>
+<script type="text/javascript">
+var isRedirected = false;
+function redirect() {
+if (!isRedirected) {
+isRedirected = true;
+var userAgent = navigator.userAgent.toLowerCase();
+var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+if (!isBot)
+window.location.replace("http://anninhthudo.vn/quan-su/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/721649.antd");
+else
+window.location.replace("http://www.baomoi.com/my-cong-bo-750-video-thu-nghiem-bom-hat-nhan/c/21793074.epi");
+}
+}
+function load() {
+setTimeout(redirect, 100);
+}
+</script>
+</body>
+</html> 

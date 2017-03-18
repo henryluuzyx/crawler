@@ -1,0 +1,1116 @@
+<!doctype html>
+<!--[if IE 7]><html lang="en" class="ie7"></html><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie8"></html><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie9"></html><![endif]-->
+<!-- [if gt IE 9] <!-->
+<html lang="en">
+  <!-- <![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <title>Thông báo | Tuổi Trẻ Online</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="" />
+    <meta name="viewport" content="width=device-width" />
+    <!--<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />-->
+    <!--<link rel="stylesheet" type="text/css" href="../css/flexslider.css" media="screen" />-->
+    <!--<link rel="stylesheet" type="text/css" href="../css/plug-in-cmt.css" media="screen" />-->
+    <!--<link rel="stylesheet" type="text/css" href="../css/jscroll.css" media="screen" />-->
+    <!--<link rel="stylesheet" type="text/css" href="../css/screen.css" media="screen" />-->
+    <!--[if lt IE 9]><!--<script type="text/javascript" src="../js/html5.js"></script>--><![endif]-->
+    <style type="text/css">
+
+
+    /* reset & default */
+
+    html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, img, ins, kbd, q, s, samp,
+    small, strike, strong, tt, var,
+    b, u, i, center,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend, input, textarea, select,
+    article, aside, canvas, details, embed,
+    figure, figcaption, footer, header, hgroup,
+    menu, nav, output, ruby, section, summary,
+    time, mark, audio, video {margin: 0; padding: 0; border: 0; outline: 0; background: transparent; font-size: 100%; vertical-align: baseline;}
+    article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+    body {background: #fff; color: #666; font-family: "Arial"; font-size: 12px; line-height: 1.1;}
+    textarea {font-family: inherit; overflow: auto; vertical-align: top; resize: none}
+    ol, ul {list-style: none;}
+    blockquote, q {quotes: none;}
+    blockquote:before, blockquote:after, q:before, q:after {content: ''; content: none;}
+    ins {text-decoration: none;}
+    del {text-decoration: line-through;}
+    abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
+    table, caption, tbody, tfoot, thead, tr, th, td {margin: 0; padding: 0;}
+    table {border-spacing: 0; border-collapse: collapse;}
+    sup {vertical-align: text-top;}
+    sub {vertical-align: text-bottom;}
+    img {max-width: 100%;}
+    h1 {font-size: 20px;}
+    h2 {font-size: 18px;}
+    h3 {font-size: 16px;}
+    h4 {font-size: 14px;}
+    h5 {font-size: 12px;}
+    a { text-decoration: none;}
+    a:hover {color: #0069b2;}
+    .float-l{ float:left !important;}
+    .float-r{ float:right !important;}
+    .no-padding{ padding: 0!important;}
+    .no-margin { margin: 0!important;}
+    ul, li {list-style: none;}
+    /*icon*/
+    .icon-social { background-image: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/YF10P90t.png); background-repeat: no-repeat;}
+    .icon-facebook { background-position: 0 0 ; width: 19px; height: 20px;}
+    .icon-facebook:hover { background-position: 0 100% ;}
+    .icon-tw { background-position: -20px 0 ; width: 20px; height: 20px;}
+    .icon-tw:hover  { background-position: -20px 100% ;}
+    .icon-google { background-position: -42px 0 ; width: 20px; height: 20px;}
+    .icon-google:hover { background-position: -42px 100% ;}
+    .icon-ytobe { background-position: -64px 0 ; width: 21px; height: 20px;}
+    .icon-ytobe:hover { background-position: -64px 100% ;}
+
+    .icon-pay { background-image: url(../images/icon-pay.png); background-repeat: no-repeat;}
+    .icon-pay-1 { background-position: 0 0 ; }
+    .list-pay li:hover .icon-pay-1 { background-position: 0 -48px ; }
+    .icon-pay-2 { background-position: -48px 0 ; }
+    .list-pay li:hover .icon-pay-2 { background-position: -48px -48px ; }
+    .icon-pay-3 { background-position: -96px 0 ; }
+    .list-pay li:hover .icon-pay-3 { background-position: -96px -48px ; }
+    .icon-pay-4 { background-position: -144px 0 ; }
+    .list-pay li:hover .icon-pay-4 { background-position: -144px -48px ; }
+    .icon-pay-5 { background-position: -192px 0 ; }
+    .list-pay li:hover .icon-pay-5 { background-position: -192px -48px ; }
+    .icon-pay-6 { background-position: -240px 0 ; }
+    .list-pay li:hover .icon-pay-6 { background-position: -240px -48px ; }
+    .icon-pay-7 { background-position: -288px 0 ; }
+    .list-pay li:hover  .icon-pay-7 { background-position: -288px -48px ; }
+    .icon-pay-8 { background-position: -336px 0 ; }
+    .list-pay li:hover  .icon-pay-8 { background-position: -336px -48px ; }
+    .icon-pay-9 { background-position: -384px 0 ; }
+    .list-pay li:hover .icon-pay-9 { background-position: -384px -48px ; }
+    .icon-pay-10 { background-position: -432px 0 ; }
+    .list-pay li:hover .icon-pay-10 { background-position: -432px -48px ; }
+    .icon-pay-11 { background-position: -480px 0 ; }
+    .list-pay li:hover .icon-pay-11 { background-position: -480px -48px ; }
+    .icon-pay-12 { background-position: -528px 0 ; }
+    .list-pay li:hover .icon-pay-12 { background-position: -528px -48px ; }
+    .icon-pay-13 { background-position: -576px 0 ; }
+    .list-pay li:hover .icon-pay-13 { background-position: -576px -48px ; }
+    .icon-pay-14 { background-position: -624px 0 ; }
+    .list-pay li:hover .icon-pay-14 { background-position: -624px -48px ; }
+    .icon-pay-15 { background-position: -672px 0 ; }
+    .list-pay li:hover .icon-pay-15 { background-position: -672px -48px ; }
+    .icon-pay-16 { background-position: -720px 0 ; }
+    .list-pay li:hover .icon-pay-16 { background-position: -720px -48px ; }
+
+    .icon-play { width: 18px; height: 18px; background: url(../images/play.png) 0 0 no-repeat; position: absolute; top: 77px; right: 130px;}
+    .list-media li:hover .icon-play { background: url(../images/play.png) 0 -18px no-repeat;}
+
+    .icon-views { float: left; width: 20px; height: 13px; background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -30px 0 no-repeat; margin-right: 5px;}
+    .list-tool li a:hover .icon-views {  background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -30px -18px no-repeat;}
+    .icon-mail { width: 16px; height: 13px; background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -54px 0 no-repeat; margin-top: 2px;}
+    .list-tool li a:hover .icon-mail {  background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -54px -18px no-repeat;}
+    .icon-comments { width: 15px; height: 13px; background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -90px 0 no-repeat; margin-right: 5px; margin-top: 1px;}
+    .list-tool li a:hover .icon-comments {  background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -90px -18px no-repeat;}
+    .icon-print { width: 17px; height: 15px; background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -72px 0 no-repeat;}
+    .list-tool li a:hover .icon-print { background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -72px -18px no-repeat;}
+
+    .icon-date { width: 22px; height: 22px; background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -160px 0 no-repeat; float: left; margin-right: 5px;}
+    .icon-human { width: 22px; height: 22px; background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -120px 0 no-repeat; float: left; margin-right: 5px;}
+
+    .icon-view-1 { width: 23px; height: 15px;  background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -240px 0 no-repeat;  margin-right: 0px; }
+    .icon-comment-1 { width: 23px; height: 15px;  background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png) -200px 0 no-repeat;  margin-right: 0px; }
+
+    .btn-4:hover .icon-view-1 { background-position: -240px -19px;}
+    .btn-4:hover .icon-comment-1 { background-position: -200px -19px;}
+    /*Structure*/
+    .wrapper { width: 980px; margin: 0 auto; position: relative; z-index: 1;}
+    .header { overflow: hidden; padding-top: 8px;}
+    .main { padding: 15px 0; overflow: hidden;}
+    .content { float: left; width: 665px;}
+    .sidebar { float: right; width: 300px; position: relative;}
+    .left-side { float: left; width: 490px}
+    .right-side { float: right; width: 160px; position: relative;}
+    /*top-menu*/
+    .top-menu { float: left; padding-top: 4px;}
+    .top-menu li { float: left; padding: 0 5px; border-left: 1px solid #aaa; }
+    .top-menu li:first-child { padding-left: 0; border: none;}
+    .top-menu li a { text-transform: uppercase; color:#666; font-size: 10px; float: left; font-weight: 700;}
+    .top-menu li a:hover { color:#0e71b4;}
+    /*list-social*/
+    .list-social { float: right;  }
+    .list-social li { float: left; padding: 0 5px;}
+    .list-social li a { font-size: 12px; color:#666; overflow: hidden; text-indent: -9999px; display: block;}
+    .list-social li.btn-sethome { padding-left: 10px; padding-top: 3px;}
+    .list-social li.btn-sethome a { text-indent: 0; text-transform: uppercase; font-size: 10px; font-weight: 700; padding-top: 1px; cursor: pointer;}
+    .list-social li.btn-sethome a:hover { color:#0e71b4;}
+    .list-social li:first-child { padding-right: 10px; border-right: solid 1px #aaa; padding-top: 3px;}
+    .list-social li:first-child a { font-weight: bold; color:#e32c24; text-indent: 0;}
+    .bottom-header { width: 100%; overflow: hidden; padding: 18px 0;}
+    .outer-logo { float: left;}
+    .outer-logo p { text-align: center; padding-bottom: 12px;}
+    .block-banner { float: right;}
+    .block-banner .banner-1 { float: left;}
+    /*nav-main*/
+    .nav-main { height: 36px;}
+    .nav-main > ul {  background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/VPWQSByE.jpg) top left repeat-x; width: 100% ;position: relative; max-width: 980px;}
+    .nav-main > ul > li { float: left; padding: 12px 0 10px 0;  border-bottom: solid 1px #ccc;}
+    .nav-main > ul > li > a { text-transform: uppercase; color:#333; font-weight: bold; float: left; font-size: 10px; padding: 1px 4.8px; border-left: solid 1px #ccc;  }
+
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+        .nav-main > ul > li > a { padding: 1px 4.7px;}
+    }
+
+    .nav-main > ul > li:hover > a ,.nav-main > ul > li.active > a{ color:#e32c24; border: none;}
+    .nav-main > ul > li:first-child { padding-bottom: 7px; padding-top: 11px;}
+
+    .nav-main > ul > li:first-child > a{border: none;  padding-left: 0; overflow: hidden; text-indent: -9999px; width: 15px; height: 15px; background: url(http://static.new.tuoitre.vn/tto/r/2014/08/20/HMOX14Z1.png)  0 0 no-repeat; -webkit-transition: all .2s ease-in;
+        -moz-transition: all .2s ease-in;
+        -ms-transition: all .2s ease-in;
+        -o-transition: all .2s ease-in;
+        transition: all .2s ease-in;}
+    .nav-main > ul > li:first-child > a:hover, .nav-main > ul > li.active:first-child a { background-position: 0 -20px;}
+    .nav-main > ul > li.active:first-child  {border-right: none; border-left: none ; padding-bottom: 4px; padding-top: 8px; background: none; border-right: 1px solid transparent; }
+    .nav-main > ul > li.active:first-child:hover { border-bottom: none;}
+    .nav-main > ul > li.last { padding-right: 0;}
+    .ie9 .nav-main > ul > li.last a {padding-right: 0; }
+    .nav-main > ul > li.active, .nav-main > ul > li:hover  { border-bottom: none; padding-bottom: 11px;   background: #fff url(http://static.new.tuoitre.vn/tto/r/2014/08/20/RzswMD1n.jpg) top left repeat-x; margin-right: -1px; border-right: solid 1px #e4e4e4;border-left: solid 1px #e4e4e4;}
+    .nav-main > ul > li:first-child:hover  { margin-right: 0; border: none; border-bottom: solid 1px #ddd; background: none; padding-bottom: 7px;}
+    .nav-main > ul > li.last:hover { border-right: solid 0px #e4e4e4;}
+    .wrapper-nav{ background:#fff url(http://static.new.tuoitre.vn/tto/r/2014/08/20/2TcfhbVe.jpg) left top  repeat-x;}
+    .wrapper-nav.fixed {  width: 100%; position: fixed; top: 0; left: 0;  z-index: 99; }
+    .wrapper-nav.fixed .nav-main { width: 980px; margin: 0 auto;}
+    /*mega-menu*/
+    .mega-menu { width: 948px;z-index: 9999; display: none;  background:#fff; position: absolute; top: 100%; left: 0; padding: 12px 15px 10px 15px;  border: solid 1px #e4e4e4; border-top: none; box-shadow: 2px 2px 2px #eee;
+        -webkit-transition: all 1.2s ease-in;
+        -moz-transition: all 1.2s ease-in;
+        -ms-transition: all 1.2s ease-in;
+        -o-transition: all 1.2s ease-in;
+        transition: all 1.2s ease-in;}
+    .nav-main > ul > li:hover .mega-menu { display: block;}
+    .list-block li {width: 146px; padding-left: 11px; display: inline-block; vertical-align: top;}
+    .list-block li:first-child { padding-left: 2px;}
+    .list-block li a { font-size: 13px;  color:#000; line-height: 16px; padding: 8px 0 12px 0 ; display: block; }
+    .list-block li a:first-child { padding: 0; }
+    .list-block li:hover  a { color:#e32c24;}
+    .list-bc { padding-bottom: 11px; overflow:hidden;}
+    .list-bc li {  float: left; padding: 0 5px; border-left: solid 1px #ddd;}
+    .list-bc li:first-child { padding-left: 0; border: none;}
+    .list-bc li a { font-weight: bold; color:#333;}
+    .list-bc li.active a, .list-bc li:hover a { color:#ed1b2f;}
+    /*block-feature*/
+    .block-feature { padding-bottom: 8px;}
+    .block-feature > a { display: block;}
+    .block-feature h1{ padding: 12px 0 ; overflow: hidden; }
+    .block-feature h1 a { font-size: 20px; line-height: 24px; color:#333; display: inline;}
+    .block-feature h1 a:hover { color:#e32c24;}
+    .block-feature p { font-size: 13px; color:#666; line-height: 16px;}
+    .block-feature-1 p { color:#333; }
+    /*btn-view*/
+    .btn-view { cursor: pointer; padding-left: 13px; font-size: 10px; color:#b2b2b2; background: url(../images/bullet.png) 0 -22px no-repeat; height: 11px; display: inline; vertical-align: middle; margin-left: 5px; }
+    .btn-view:hover { color:#0e71b4;  background: url(../images/bullet.png) 0 -45px no-repeat;}
+    /*list-news*/
+    .list-news { overflow: hidden; }
+    .list-news li { display: inline-block; width: 153px; padding:10px 0 10px 12px; vertical-align: top;}
+    .list-news li h4 {padding: 5px 0 0 0;}
+    .list-news li h4 a { font-size: 13px; color:#333; line-height: 18px; }
+    .list-news li:hover h4 a { color:#e32c24;}
+    .list-news li:nth-child(4) ,  .list-news li:first-child{ padding-left: 0;}
+    /*block-1*/
+    .block-1 { padding-bottom: 10px; background: url(../images/border.png) left bottom repeat-x;}
+    .block-1 h4 { padding: 5px 0 0 0;}
+    .block-1 h4 a{ font-size: 14px; color:#333;}
+    .block-1:hover h4 a { color:#e32c24;}
+    .block-1.type-1 { background: none;}
+    .block-1.type-1 h4 { padding: 0 0 10px 0;}
+    .block-1.type-1 h4 a { letter-spacing: -0.4px;}
+    .block-1.type-1 p { padding:10px 0 0 0; line-height: 16px;}
+    /*block-2*/
+    .block-2 { padding-top: 0; overflow: hidden;}
+    .block-2 h2 { font-size: 14px; font-weight: normal; margin-bottom: 10px; padding: 5px 0; border-bottom: solid 1px #0e71b4;}
+    .block-2 h2 a { color:#0e71b4;}
+    .block-2 h2 a:hover { color:#0b578a;}
+    .block-2 .thumb { float: left; width: 153px;}
+    .block-2 .thumb:hover a { color:#e32c24;}
+    .block-2 .thumb a {font-size: 13px; font-weight: bold; color:#333; padding-top: 5px; display: block; line-height: 18px;}
+    .block-2 .thumb a:first-child { padding: 0;}
+    .block-2 h4 { padding-top: 5px; font-size: 13px;  line-height: 18px}
+    .block-2 h4 a { color:#333;}
+    .block-2 h4 a:hover{ color:#e32c24;}
+    /*list-thumb*/
+    .list-thumb { float: right; width: 140px;}
+    .list-thumb a{ padding: 0 0 10px 10px; display: block; font-size: 13px; color:#333;  background: url(../images/dotted.png) 0 5px no-repeat;}
+    .list-thumb a:hover { color:#e32c24; background: url(../images/dotted-hover.png) 0 5px no-repeat;}
+
+    /*list-1*/
+    .list-1 { padding: 10px 0 0 0}
+    .list-1 li { padding: 10px 0 0 0; overflow: hidden;}
+    .list-1 li:first-child { padding: 0; }
+    /*.list-1 li a { line-height: 16px; font-size: 13px; font-weight: bold; color:#333; padding-left: 9px; background: url(../images/dotted.png) 0 5px no-repeat; float: left;}*/
+    .list-1 li a { line-height: 16px; font-size: 13px; color:#333; padding-left: 9px; background: url(../images/dotted.png) 0 5px no-repeat; float: left;}
+    .list-1 li a:hover { color:#e32c24; background: url(../images/dotted-hover.png) 0 5px no-repeat;}
+    .title { overflow: hidden; font-size: 18px; font-weight: normal; color:#e32c24; padding: 18px 0 8px 0;  margin-bottom: 10px; background: url(../images/border-red.png) left bottom repeat-x;}
+    .title a { color:#e32c24;}
+    .title.style-1 a { font-size: 18px; font-weight: normal; color:#e32c24;}
+    .title.style-1:hover  {background-image: url(../images/arrow-hover.png) }
+    .title.txt-green a{ color:#008394;}
+    .title.txt-green { background: url(../images/border-green.png) left bottom repeat-x; color:#008394;}
+    .title-1 { margin-bottom: 0;}
+    .block-left .title { padding-top: 3px;}
+    .block-left .list-1 { padding-top: 5px; border-bottom: solid 1px #ccc;}
+    .sidebar .block-left .list-1 {  border-bottom: none;}
+    .block-left .list-1 li { padding: 5px 0; background-position: 0 10px; border-top: dotted 1px #ccc;}
+    .block-left .list-1 li:first-child { border: none;}
+    .block-left.block-market .list-1 { border: none; padding-bottom: 15px;}
+    .right-side .list-1 li a,.block-left-new .list-1 li a { background: none; padding-left: 0;}
+    .block-left-new .list-1 li { border-top: none;}
+    /*frm-search*/
+    .frm-search {  height: 28px ; width: 298px; border: solid 1px #e0e0e0; float: right;}
+    .frm-search .txt-search {float: left; height: 28px; width: 250px; padding: 0 10px; line-height: 28px;}
+    .frm-search .btn-search { width: 28px; height: 28px; float: left; background: url(../images/icon-search.png) 0 0 no-repeat; cursor: pointer;-webkit-transition: all .2s ease-in;
+        -moz-transition: all .2s ease-in;
+        -ms-transition: all .2s ease-in;
+        -o-transition: all .2s ease-in;
+        transition: all .2s ease-in;}
+    .frm-search .btn-search:hover { background: url(../images/icon-search.png) 0 -28px no-repeat;}
+    /*block-ad*/
+    .block-ad a { display: block; padding-bottom: 5px;}
+
+    .block-ad a.banner-tr { padding-bottom: 0;}
+    /*block-adv*/
+    .block-adv { background:#f6f6f6;}
+    .block-adv a{ width: 729px; margin: 0 auto; display: block;}
+    /*highlight*/
+    .highlight { overflow: hidden; padding-bottom: 20px; width: 100%;}
+    .highlight h2 { font-weight: normal;  padding: 4px 0; border-bottom: solid 1px #e32c22; margin-bottom: 10px;  width: 100%; box-shadow: 0 0 2px #ccc;}
+    .highlight h2 > a:first-child { font-size: 18px; color:#e32c24; float: left; letter-spacing: -0.5px;  }
+    .highlight h2 span { background: url(../images/arrow.png)  left 7px no-repeat; float: left; padding-left: 12px ; margin-left: 7px; }
+    .highlight h2 span a { font-size: 13px; color:#4e5860; padding:0 1px 0 5px; background: url(../images/top-dot.png)  left top no-repeat;}
+    .highlight h2 span a:hover { color:#e32c24;}
+    .highlight h2 span a:first-child { background: none; padding-left: 0;}
+    .highlight h2 a.btn-layer {width: 20px; height: 15px; float: right; background: url(../images/icon-show.png) 5px 5px no-repeat; overflow: hidden; text-indent: -9999px; margin-top: 3px; padding-top: 2px;}
+    .highlight h2 a.btn-layer:hover { background-image: url(../images/icon-show-hover.png)}
+
+    .highlight h2 .warpper-btn { float: right; position: relative;}
+    /* .highlight h2 .warpper-btn:hover .layer { display: block;}
+    .highlight h2 .warpper-btn:hover .btn-layer {background-position: 5px -13px;} */
+    .layer { z-index: 9999; display: none; position: absolute; top: 100%; right: 0; width: 150px; border: solid 1px #ccc; background:#fff;}
+    .layer li a { font-size: 12px; color:#333; padding: 6px 10px 6px 10px; display: block;}
+    .layer li a:hover { color:#e32c24; background:#efefef;}
+    .layer.active {display: block;}
+
+    .highlight.txt-purple .layer li a:hover { color:#bf28d9;}
+    .highlight.txt-blue .layer li a:hover { color:#3594d0;}
+    .highlight.txt-green-1 .layer li a:hover { color:#00c0c5;}
+    .highlight.txt-green .layer li a:hover { color:#00b389;}
+
+    .layer li { border-top: solid 1px #ccc; }
+    .layer li:first-child {border: none;}
+    .highlight.txt-purple h2 { border-bottom: solid 1px #bf28d9;}
+    .highlight.txt-purple h2 span a:hover {  color:#bf28d9;}
+    .highlight.txt-purple h2 > a:first-child { color:#bf28d9;}
+    .highlight.txt-blue h2 { border-bottom: solid 1px #3594d0;}
+    .highlight.txt-blue h2 span a:hover {  color:#3594d0;}
+    .highlight.txt-green h2 { border-bottom: solid 1px #00b389;}
+    .highlight.txt-green h2 span a:hover {  color:#00b389;}
+    .highlight.txt-blue h2 > a:first-child { color:#3594d0;}
+    .highlight.txt-green h2 > a:first-child { color:#00b389;}
+    .highlight.txt-green-1 h2 { border-bottom: solid 1px #00c0c5;}
+    .highlight.txt-green-1 h2 span a:hover {  color:#00c0c5;}
+    .highlight.txt-green-1 h2 > a:first-child { color:#00c0c5;}
+
+    .highlight.txt-blue .block-left h3 a:hover { color:#3594d0;}
+    .highlight.txt-blue .feature-1:hover a {color:#3594d0;}
+    .highlight.txt-blue .list-1 li a:hover { color:#3594d0; background-image: url(../images/dotted-hover-1.png);}
+    .highlight.txt-green-1 .ads-1:hover h3 a { color:#00c0c5;}
+
+    .highlight-1 h2  { border-bottom: none;}
+    .highlight-1 h2  { border-top: 1px solid #e32c22; background: url(../images/bgd-title-l.jpg) top right no-repeat;}
+    .highlight-1 h2 a.btn-layer { text-indent: 0; color:#878787; font-size: 10px; text-transform: uppercase; padding-right: 20px; width: auto; background: url(../images/icon-show.png) 97% 2px no-repeat;}
+    .highlight-1 h2 .warpper-btn:hover a.btn-layer {  color:#333;}
+    .highlight-3 { overflow: hidden; width: 100%; }
+
+
+
+
+
+    /*block-left*/
+    .block-left { float: left; width: 345px; }
+    .block-left h3 { padding: 2px 0 10px 0;}
+    .block-left h3 a { color:#333; font-size: 14px; }
+    .block-left h3 a:hover { color:#e32c24;}
+    .block-left > a { float: left; margin-right: 10px;}
+    .block-left > p { font-size: 13px; color:#4e5860; line-height: 16px;}
+    .block-purple > a:first-child{ display: block; float: none; margin: 0; }
+    .block-purple h3 { padding-top: 5px;}
+    .block-purple h3 a { line-height: 18px;}
+    .block-purple:hover h3 a { color:#bf28d9;}
+    .sidebar .block-left { width: 300px; float: none; padding-bottom: 20px;}
+    .sidebar > div { padding-bottom: 20px;}
+    .sidebar > div.block-2 { padding-bottom: 10px;}
+
+
+    .block-left-new {  width: 147px; margin-left: 25px;}
+    .block-left-new.first { margin-left: 0;}
+    .block-left-new .list-1 {border-bottom: none;}
+    .block-left-newt h2 { margin-bottom: 0;}
+    /*block-right*/
+    .block-right { float: right; width: 295px;}
+    .block-right-1 { width: 310px;}
+    /*feature-1*/
+    .feature-1 { overflow: hidden; padding-bottom: 10px; background: url(../images/border.png) left bottom repeat-x;}
+    .feature-1 .thumbs { float: left; margin-right: 10px;}
+    .feature-1 a { font-weight: bold; color:#333; font-size: 14px; line-height: 18px;}
+    .feature-1:hover a { color:#e32c24;}
+    .feature-1 > p { font-size: 11px; color:#878787; padding-bottom: 5px; line-height: 14px;}
+    .feature-1 > p span { text-transform: uppercase;}
+    .feature-2 { padding: 10px 0 0 0; background: none;}
+    /*list-media*/
+    .list-media { overflow: hidden;}
+    .list-media li { float: left; width: 158px; padding:10px 0 10px 11px; position: relative;}
+    .list-media li:first-child { padding-left: 0;}
+    .list-media li h4 { padding :5px 0 0 0;}
+    .list-media li h4 a { color:#333; font-size: 13px; line-height: 18px;}
+    .list-media li:hover h4 a { color:#e32c24;}
+    .btn-more { float: right; font-size: 12px; color:#4e5860; padding-top: 3px;}
+    .btn-more:hover { color:#0e71b4;}
+    .list-media-1 li { width: 153px; padding-left: 12px;}
+    .list-media-2 li { width: 153px; padding-left: 17px;}
+    /*list-etm*/
+    .list-etm li { display: inline-block; vertical-align: top; width: 153px; padding: 0 0 10px 0;}
+    .list-etm li h4 { padding-top: 5px; font-size: 13px; line-height: 18px; }
+    .list-etm li h4 a {color:#333;}
+    .list-etm li:hover h4 a { color:#bf28d9;}
+    /*ads-1*/
+    .ads-1 { display: inline-block; width: 326px; margin-left: 6px; margin-bottom: 8px; vertical-align: top; position: relative;}
+    .ads-1 h3 { position: absolute; bottom: 10px; left: 10px; width: 306px;}
+    .ads-1 h3 a {  color:#fff; font-size: 14px; }
+    .ads-1 > a { display: block; position: relative;}
+    .ads-1 > a > span { position: absolute; bottom: 0; left: 0; width: 100%; height: 71px; background: url(../images/overlay-sp.png) left top repeat-x;}
+    .ads-2 { width: 215px; margin-bottom: 0;}
+    .ads-2 h3 { width: 195px;}
+    .inner-slider { overflow: hidden; padding: 8px 0 6px 0; }
+    .inner-slider a:first-child { float: left; color:#008394; font-weight: bold; padding-left: 10px;}
+    .inner-slider a:first-child:hover { color:#333;}
+    .inner-slider a.n-view { float: right; padding-left: 15px; margin-right: 10px; background: url(../images/icon-view.png) left 1px  no-repeat; font-size: 11px; color:#008394; }
+    .inner-slider a.n-view:hover { color:#333;}
+    /*list-car*/
+    .list-car li { display: inline-block; width: 146px; margin:5px 0 5px 0; vertical-align: top; }
+    .list-car li.odd {  padding-top: 0; margin-left: 4px;}
+    .list-car li h4 { padding-top: 5px;}
+    .list-car li h4 a { font-size: 13px; color:#333; line-height: 18px;}
+    .list-car li:hover h4 a { color:#e32c24;}
+    /*list-pay*/
+    .list-pay { padding: 10px 0; border-bottom: solid 2px #e0e0e0; background: rgba(253,253,253,1);
+        background: -moz-linear-gradient(top, rgba(253,253,253,1) 0%, rgba(246,246,246,1) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(253,253,253,1)), color-stop(100%, rgba(246,246,246,1)));
+        background: -webkit-linear-gradient(top, rgba(253,253,253,1) 0%, rgba(246,246,246,1) 100%);
+        background: -o-linear-gradient(top, rgba(253,253,253,1) 0%, rgba(246,246,246,1) 100%);
+        background: -ms-linear-gradient(top, rgba(253,253,253,1) 0%, rgba(246,246,246,1) 100%);
+        background: linear-gradient(to bottom, rgba(253,253,253,1) 0%, rgba(246,246,246,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f6f6f6', GradientType=0 );}
+    .list-pay li { display: inline-block; vertical-align: top; width: 64px; margin: 0 4px 4px 4px;}
+    .list-pay li a { display: block; padding: 5px 0 0 0; line-height: 13px; font-size: 11px; font-weight: bold; color:#878787; text-align: center; letter-spacing: -0.5px; -webkit-transition: all .2s ease-in;
+        -moz-transition: all .2s ease-in;
+        -ms-transition: all .2s ease-in;
+        -o-transition: all .2s ease-in;
+        transition: all .2s ease-in;}
+    .list-pay li a:first-child { width: 48px; height: 48px; padding: 0; overflow: hidden; text-indent: -9999px; margin: 0 auto;}
+    .list-pay li:hover a { color:#e32c24;}
+    /*block-adver*/
+    .sidebar .block-adver { width: 298px; margin-bottom: 20px; height: 423px; overflow :hidden;}
+    .block-adver { border: solid 1px #ccc; border-top: none;}
+    .block-adver h2 { padding: 10px; background:#fafafa;  font-size: 15px; color:#e32c22; }
+    .block-adver h2 a { color:#e32c22;}
+    .block-adv-1 h2 { padding: 10px; background:#fafafa;  font-size: 15px; color:#e32c22; }
+    .block-adv-1 h2 a { color:#e32c22;}
+    .bgd-gradient { width: 100%; height: 2px; display: block;}
+    /*block-care*/
+    .sidebar .block-care { padding: 10px; background:#f6f6f6; width: 280px; margin-bottom: 15px;}
+    .block-care h2 { font-size: 15px; color:#000;}
+    .block-care h2 a { color:#000;}
+    .block-care p { color:#878787; padding: 5px 0 10px 0; font-weight: bold; font-size: 11px;}
+    .block-care ul li { display: inline-block; vertical-align: top; margin: 0 0 4px 3px;}
+    /*block-market*/
+    .sidebar .block-market { margin-bottom: 20px; position: relative; padding: 5px 10px 10px 10px; border-top: solid 3px #e0e0e0;  border-left: 1px solid #e0e0e0; border-right: 1px solid #e0e0e0; width: 278px; border-bottom: solid 26px #999;}
+    .block-market h2 { font-size: 18px; font-weight: normal; color:#e32c22; overflow: hidden; padding-bottom: 3px; border-bottom: solid 1px #ccc;}
+    .block-market h2 a {  color:#e32c22;}
+    .block-market h2 select { float: right; font-size: 10px; color:#878787; text-transform: uppercase; padding-top: 2px;}
+    .block-market .list-1 li a { font-weight: normal;}
+    .block-left > a.btn-post { margin-right: 0;}
+    .btn-post { text-align: center;  padding-left: 25px; height: 26px; background: #999 url(../images/icon-post.png) 90px 1px no-repeat; position: absolute; bottom: -26px; left: -1px; line-height: 26px; color:#fff; font-weight: bold; font-size: 12px; width: 275px;}
+    .btn-post:hover { background: #999 url(../images/icon-post.png) 90px -25px no-repeat; color:#e32c22;}
+    /*block-adv-1*/
+    .block-adv-1 { border: solid 1px #ccc; border-top: none; height: 137px; overflow: hidden;   }
+    /*footer*/
+    .footer { padding-top: 30px;}
+    .top-footer { overflow: hidden; padding: 5px 0; border-top: solid 1px #ccc; border-bottom: solid 1px #ccc;}
+    .top-footer li { float: left; margin-left: 30px;}
+    .top-footer li:first-child { margin: 0;}
+    .top-footer li.float-r { margin-left: 10px;}
+    .top-footer li a { height: 30px; line-height: 30px; font-size: 12px; text-transform: uppercase; color:#999; font-weight:bold;}
+    .top-footer li a:hover { color:#e32c22;}
+    .top-footer li a.btn-send {text-transform: none; padding: 0 15px ; border-radius: 5px; background:#0e71b4; color:#fff; font-size: 12px; font-weight: bold; box-shadow: 0 0  3px #ccc; display: inline-block; margin: 0;}
+    .top-footer li a.btn-send:hover { background:#e32c22;}
+    .top-footer li a.btn-set {text-transform: none; padding: 0 15px ; border-radius: 5px; background:#0e71b4; color:#fff; font-size: 12px; font-weight: bold; box-shadow: 0 0  3px #ccc; display: inline-block;}
+    .top-footer li a.btn-set:hover { background:#e32c22;}
+    /*list-link*/
+    .list-link { background:#fafafa; padding: 0 0 0 15px; border-bottom: solid 1px #ccc;}
+    .list-link  li { padding: 15px 0 15px 0; display: inline-block; vertical-align: top; width: 158px; font-size: 12px; line-height: 14px;}
+    .list-link dt { font-weight: bold; }
+    .list-link dt, .list-link dd { padding: 4px 0;}
+    .list-link dt a:hover { color:#e32c22;}
+    .list-link dd a:hover { color:#0e71b4;}
+    .list-link dt a , .list-link dd a { color:#333;}
+    .list-link li dl { padding-top: 20px;}
+    .list-link li dl:first-child { padding-top: 0;}
+    /*bottom-footer*/
+    .bottom-footer { overflow: hidden; padding: 20px 0 15px 0; color:#333;}
+    .logo-footer { float: left;}
+    .bottom-footer p.float-l { padding: 10px 0 0 20px; line-height: 18px;}
+    .bottom-footer p.float-r { padding: 10px 0 0 0; line-height: 18px; text-align: right;}
+    .bottom-footer p.float-r a { color:#333;}
+    .bottom-footer p.float-r a:hover { color:#0e71b4;}
+    .list-media li h4 a.playing {text-transform: uppercase; color:#aaa; font-size: 10px; font-weight: bold;  margin-right: 7px;}
+    /*breadcrumb*/
+    .breadcrumb { overflow: hidden; padding: 1px 0 15px 0;}
+    .breadcrumb li { float: left; padding: 0 5px 0 10px; background: url(../images/arrow.png) left center no-repeat;}
+    .breadcrumb li:first-child { padding-left: 0; background: none;}
+    .breadcrumb li a { font-weight: bold; text-transform: uppercase; color:#333;}
+    .breadcrumb li a:hover,.breadcrumb li.active a { color:#ed1b24;}
+    .right-side h2.title:first-child { padding-top: 5px;}
+    .date{ display: block; font-size: 12px; color:#878787; padding-top: 5px;}
+    .date-1 { padding: 0 0 3px 0;}
+    .block-feature .title-2 { padding: 5px 0 10px 0;}
+    .highlight-2 .block-left { width: 100%; float: none;}
+    .highlight-2 .block-left h3 { padding-bottom: 5px;}
+    .highlight-2 .block-left { padding: 15px 0; background: url(../images/border.png) top left repeat-x;}
+    .highlight-2 .block-top { background: none; padding-top: 0;}
+    .right-side .block-adver { width: 160px; margin-top: 20px;}
+    .right-side .block-adv { margin-top: 20px; background: none;}
+    .right-side .block-tap { width: 160px; margin-top: 20px; border: solid 1px #ccc; margin-bottom: 20px; }
+    /*tab*/
+    .tab { display: none; padding: 10px 10px 0 10px;}
+    .tab .items { padding-bottom: 15px; line-height: 15px;}
+    .tab .items h4 { font-size: 12px; padding-bottom: 2px; }
+    .tab .items h4 a { color:#0070be;}
+    .tab .items h4 a:hover { color:#e32c22;}
+    .tab-ul { overflow: hidden;}
+    .tab-ul li { float: left;}
+    .tab-ul li a { height: 30px; line-height: 30px; text-align: center; color:#333; background:#e7e6e5; display: block; width: 80px;}
+    .tab-ul li.active a  { background:#fff; color:#0070be;}
+    .tab-ul li a:hover { color:#0070be;}
+    /*readmore*/
+    .readmore {height: 34px; background: url(../images/bgd-readmore.jpg) repeat-x; width: 100%;}
+    .readmore a { height: 34px; background: url(../images/arrow-down.png) 280px center no-repeat; width: 100%; display: block; text-align: center; line-height: 34px; color:#878787;}
+    .readmore a:hover { color:#e32c24; background-image: url(../images/arrow-down-hover.png)}
+    .btn-calendar { margin-top: 10px; color:#878787; float: right; padding: 0 0 0 25px; background: url(../images/icon-calendar.png) 0 0 no-repeat; height: 18px; line-height: 18px; display: block;}
+    .btn-calendar:hover { background: url(../images/icon-calendar.png) 0 100% no-repeat; color:#e32c22;}
+    .block-camera .slider-1 { background:#b2dadf;}
+    .block-camera .inner-slider { background:#b2dadf; }
+    /*block-feature-1*/
+
+    .block-feature-1 .title-2 a {font-size: 28px; font-weight: normal; }
+
+    /*tool-bar*/
+    .tool-bar { overflow: hidden; padding-bottom: 15px; padding-top: 5px;}
+    .tool-bar span.date { float: left; padding: 0;}
+    .list-tool { float: right;}
+
+    .list-tool li { float: left; padding-left: 20px;}
+    .list-tool li a {color:#333; vertical-align: middle;overflow: hidden;}
+    .list-tool li a:hover {color:#0e71b4;}
+    .list-tool li a img { float: left;}
+    .txt-head { font-weight: bold; color:#333; font-weight: 14px; }
+    /*fck*/
+    .fck p {  font-size: 14px; color:#333; line-height: 18px;}
+    .fck img { width: 100%; cursor: url(../images/zoom_cursor.png), auto; }
+    .fck .icon-zoom { cursor: pointer; z-index: 2;}
+    .fck img.img-1 {width: auto;}
+    .hlight { padding: 15px 20px; background:#f6f6f6;}
+    .fck p.noted {font-size: 12px; font-weight: bold ; color:#333;padding: 5px 0 25px 27px; width: 70%; margin: 0 auto; border-top: solid 1px #e9e9e9; border-bottom: solid 1px #e9e9e9; position: relative; }
+    .noted  img{ position: absolute; top: 8px; left: 0;}
+    .noted .author {position: absolute; right: 0; bottom: 8px; color:#7c7c7c; }
+    .btn-qt { float: left;}
+    .btn-qt a { border-radius: 3px;line-height: 20px; height: 20px; padding: 0 8px 0 20px; background:#a2a2a2 url(../images/icon-like.png) 6px 5px no-repeat; float: left; font-size: 10px; color:#fff; text-transform: uppercase;}
+    .wrapper-qt  strong { float: right;}
+    .wrapper-qt { overflow: hidden;}
+    .btn-qt > span {float: left; padding: 0 2px; color:#878787; font-size: 11px; border: solid 1px #e0e0e0; height: 18px;position: relative; margin-left: 7px;}
+    .btn-qt span span {width: 5px; height: 9px; position: absolute; top: 50%; left: -5px; margin-top: -4.5px; z-index: 2; background: url(../images/arrow-r.png) no-repeat;}
+    .btn-qt a:hover { color:#fff; background-color:#e32c22;}
+    .fck p, .fck table {font-size: 13.5px; margin-bottom: 14px;}
+    .fck a { color:##0072; font-size: 13px;}
+    /*block-qc*/
+    .block-qc { padding: 15px 0; text-align: center;}
+    .block-qc a { display: inline; }
+    /*block-key*/
+    .block-key {  overflow: hidden; padding: 15px 0 5px 0; border-bottom: solid 1px #e0e0e0;  border-top: solid 1px #e0e0e0; width: 100%;}
+    .block-key li { float: left; margin-right: 5px; margin-bottom: 10px;}
+    .block-key li:first-child { padding-left: 23px; background: url(../images/icon-finder.png) no-repeat; color:#333; font-weight: bold; margin-left: 0; margin-right: 10px; margin-top: 3px;}
+    .block-key li a {padding: 2px 5px; background:#f2f2f2; color:#878787; font-size: 13px; float: left;}
+    .block-key li a:hover { color:#111; background:#efefef;}
+    /*add*/
+    .add { background: url(../images/line-top.jpg) center top no-repeat;}
+    .block-share ul li.add { background: url(../images/line-top.jpg) center top no-repeat; padding-bottom: 0;}
+    /*block-share*/
+    .block-share {  padding: 15px 5px; position: absolute; top: 388px; left: 50%; margin-left: -585px; background:#fff; width: 75px;   }
+    .btn-cms { border: solid 1px #ccc;  padding: 10px 5px; display: block; background:#ededed; text-align: center;}
+    .btn-cms:hover span{ color:#e40d00;}
+    .btn-cms span { display: block; font-size: 11px; color:#000;padding: 5px 0 0 0;}
+    .block-share ul { margin-top: 15px; border: solid 1px #ccc; padding: 8px 5px;}
+    .block-share ul li { padding: 10px 0;  background: url(../images/s-line.png) center top no-repeat;}
+    .block-share ul li:first-child { background: none;}
+    .block-share ul li span { font-size: 12px; color:#4a5665; display: block; text-align: center; padding-top: 5px;}
+    .btn-1 { padding: 5px 3px; color:#fff; background:#989898; border-radius: 3px; display: block; }
+    .btn-1:hover, .btn-2:hover { background:#0e71b4; color:#fff;}
+    .btn-2 { background:#e40d00;}
+    .block-share.fixed { position: fixed; top: 40px;}
+    .block-share .btn-2 { text-align: center; font-size: 11px;}
+    /*frm-1*/
+    .frm-1 h1 { padding: 10px 0; font-size: 14px; font-weight: normal; color:#e32c24; text-transform: uppercase;}
+    .frm-1 ul { padding: 15px 0;}
+    .frm-1 ul li { padding-bottom: 10px; overflow: hidden;}
+    .frm-1 ul li label { float: left; width: 125px; text-align: left; height: 28px; line-height: 28px;}
+    .txt-1 { width: 321px ; height: 28px; border: solid 1px #ccc; line-height: 28px; padding: 0 10px;float: left; color:#333;}
+    .txt-2 { width: 175px; margin-right: 10px;}
+    .select-1 { width: 343px; height: 28px; border: solid 1px #ccc; line-height: 28px;}
+    .file-1 { height: 30px;}
+    .txtare-1 { width: 321px; height: 140px; padding: 5px 10px; border: solid 1px #ccc; color:#333;}
+    .frm-1 ul li p { margin-left: 125px; line-height: 14px;}
+    .btn-3 { padding: 0 15px; line-height: 30px; height: 30px; background:#e32c22; color:#fff; font-weight: bold; border-radius: 3px; cursor: pointer;}
+    .btn-3:hover { background:#0e71b4;}
+    .frm-1 .btn-3 { margin-left: 125px;}
+    .btn-4 { overflow: hidden; color:#4a5665; line-height: 15px; height: 15px; display: block; width: 51px; margin: 0 auto; }
+    .btn-4 img { float: left;}
+
+    /*layer-404*/
+    .layer-404 { padding: 90px 0; text-align: center;}
+    .layer-404 h2 { font-size: 22px; color:#333; padding: 13px; text-transform: uppercase;}
+    .layer-404 p { padding-bottom: 7px; font-size: 14px;}
+    .layer-404 p a { font-weight: bold; color:#0e71b4;}
+    .layer-404 p a:hover { color:#e32c24;}
+    /*layer-fb*/
+    .layer-fb {padding: 10px ; background:#fafafa; color:#666; font-size: 13px; line-height: 16px; margin-top: 49px;}
+    /**/
+    .fancybox .icon-zoom, .slide_content .btnSlideshow  { overflow: hidden; text-indent: -9999px; background: url(../images/icon-zoom.png) 0 0 no-repeat; width: 28px; height: 28px; position: absolute; top: 10px; right: 5px;}
+    .fck .fancybox  { position: relative;}
+    .slide_content { position: relative;}
+    /*popup lightbox goes*/
+    .wrapPopup{
+        height: auto;
+        width: 100%;
+        left: 0;
+        min-height: 100%;
+        position: fixed;
+        right: 0;
+        top: 0;
+        z-index: 99999;
+        background: url(../images/overlay.png) repeat;
+        display: none;
+    }
+    .wrapPopup .popup{
+        -webkit-box-shadow: 0 2px 26px rgba(0, 0, 0, .3), 0 0 0 1px rgba(0, 0, 0, .1);
+        position: absolute;
+        width: 500px;
+        min-height: 100px;
+        background-color: #fff; top: 50%; left: 50%; margin-left: -250px; z-index: 99999;
+    }
+    #feedbackForm.wrapPopup .popup { margin-top: 35px;}
+    #contactForm.wrapPopup .popup { margin-top: 88px;}
+    #feedbackForm.wrapPopup .centerPopup section .content { padding-bottom: 0}
+    .wrapPopup .popup .loading{ text-align: center; padding-top: 30px;}
+    .popup .content { width: auto; float: none;}
+    .centerPopup section header{ min-height: 12px; position:relative; background-color: #f5f6f7; height:auto; overflow:hidden; clear:both;
+        border-bottom: 1px solid #e5e5e5;padding: 10px 12px; text-shadow: 0 1px 0 #fff;-webkit-border-radius:3px 3px 0 0;   -moz-border-radius:3px 3px 0 0;border-radius:3px 3px 0 0;}
+    .centerPopup section header h1{ float:left; font-size: 14px; color: #4e5665; font-weight:bold;}
+    a.closepp{ position:absolute; z-index: 1; top: 10px; right: 10px; background:url(../images/controls.png) no-repeat 0px -172px; width: 15px; height: 15px;}
+    a.closepp:hover{ background-position: 0px -150px;}
+    .centerPopup section .content{ padding: 10px 15px; }
+    .centerPopup section .content p{ padding-bottom: 6px; line-height: 18px; color:#111; }
+    .centerPopup section .content p.layer-fb{ margin-top: 0;  font-weight: normal!important;}
+    .centerPopup section .content .frm-1 p { font-weight: bold;}
+    .centerPopup section .content .frm-1 ul li p { font-weight: normal;}
+    .frm-4 p.error{ display: block; clear: both; padding: 5px 0 0 140px!important; color:#FF0000 ;}
+    .centerPopup section .content table p{ padding: 2px 0 ; line-height: 16px;}
+    .centerPopup section .content p strong { color:#525252;}
+    .centerPopup section .content p span strong { font-size: 14px;}
+    .centerPopup section .content p strong.text-blue { color:#0079BE;}
+    .wrapPopup .popup-2 { margin-top: 38px;}
+    .popup .txtare-1 { height: 70px;}
+    .popup .frm-1 { margin-left: 1px;}
+    .txtare-2 { width: 830px;}
+    .title-post { font-size: 14px;  color:#e32c24; padding-bottom: 11px; }
+    .wrapPopup .txt-2 { width: 172px;}
+    p.layer-fb-1 { margin-top: 0;  font-weight: normal!important; background:#fafafa; padding: 10px; color:#666; font-size: 13px; line-height: 16px;}
+    /*popup lightbox end*/
+    /*btn-top*/
+    .btn-top { width: 45px; height: 45px; border-radius: 4px; background:#f0f0f0 url(../images/btn-top.png) 16px 18px no-repeat;position: fixed; right: 30px;  bottom: 30px; display: none; overflow: hidden; text-indent: -9999px;
+        -webkit-transition: all .2s ease-in;
+        -moz-transition: all .2s ease-in;
+        -ms-transition: all .2s ease-in;
+        -o-transition: all .2s ease-in;
+        transition: all .2s ease-in; }
+    .btn-top:hover { background:#e32c24 url(../images/btn-top.png) 16px -13px no-repeat;}
+    .style-1 { background: url(../images/arrow.png) right 25px no-repeat;}
+    .block-comment .form-comment p.warning { font-size: 12px; color:#e32c22; float: left; padding-top: 15px; padding-left: 0; font-style: normal;}
+    /**/
+    .btn-view-1 {}
+    /*changes*/
+    .wrapper-slider { overflow: hidden;}
+    .wrapper-slider .flexslider-1 { float: left; width: 635px;}
+    .wrapper-slider { padding-top: 15px;}
+    /*popup-slider*/
+    .tool-box { position: fixed; bottom: 0 ; left: 0;  font-weight: bold; font-size: 14px; padding: 10px; width: 100%; background:url(../images/fancybox_overlay.png) repeat;}
+    .tool-box  a { color:#fff; float:left; padding-right: 10px;line-height: 22px; cursor: pointer;}
+    .tool-box  a:hover { color:#0e71b4;}
+    .tool-title{ position: fixed; top: 100px; left: 80px; color:#fff;  font-size: 12px;  max-width: 200px;   text-align: right;  line-height: 18px; padding: 10px; border-radius: 3px; background: url(../images/overlay.png) repeat;}
+    /*style-old css*/
+    p.desc_image span, table.desc_image .ck_legend, .description{color: #878787;
+        text-align: left;
+        display: block;
+        font-size: 12px;
+        padding: 8px;
+        background: #f6f6f6;}
+    .slide_content td {
+        position: relative;
+        padding: 0;
+    }
+    .dbox td {
+        background: #f6f6f6;
+        padding: 8px 18px;
+        margin-top: 22px;
+        margin-bottom: 10px;
+    }
+    .dbox td p { padding-bottom: 0;}
+    td.pBody{background: #f6f6f6;padding: 10px}
+    .pInterTitle{font-weight:bold;}
+    /*check Editor*/
+    /* Ckeditor */
+    .ck_special_title{font-family:arial,helvetica,sans-serif;color:#e32c22;font-size:13px;font-weight:normal;font-style:normal;padding:0px;margin:0px;text-align:left;line-height:22px}
+    .ck_super_title{font-family:arial,helvetica,sans-serif;color:#000;font-size:13px;font-weight:normal;font-style:normal;padding:0px;margin:0px;text-align:left;line-height:22px}
+    .ck_title{font-family:arial,helvetica,sans-serif;color:#000;font-size:14px;font-weight:bold;font-style:normal;padding:5px 0px 5px 0px;margin:5px 0px 5px 0px;text-align:left;line-height:22px}
+    .ck_sub_title{font-family:arial,helvetica,sans-serif;color:#000;font-size:13px;font-weight:bold;font-style:normal;padding:5px 0px 5px 0px;margin:5px 0px 5px 0px;text-align:left;line-height:22px}
+    .ck_inner_title{font-family:arial,helvetica,sans-serif;color:#000;font-size:14px;font-weight:bold;font-style:normal;padding:0px;margin:0px;text-align:left;line-height:22px}
+    .ck_chapeau{font-family:arial,helvetica,sans-serif;color:#878787;font-size:13px;font-weight:bold;font-style:normal;padding:0px;margin:0px;text-align:left;line-height:22px}
+    .ck_author{font-family:arial,helvetica,sans-serif;color:#000;font-size:13px;font-weight:bold;font-style:normal;padding:0px;margin:0px;text-align:right;line-height:22px}
+    .ck_source{font-family:arial,helvetica,sans-serif;color:#000;font-size:13px;font-weight:normal;font-style:italic;padding:0px;margin:0px;text-align:right;line-height:22px}
+    .ck_legend{font-family:arial,helvetica,sans-serif;color:#878787;font-size:12px;font-weight:normal;font-style:normal;padding:0px;margin:0px;text-align:left;line-height:22px}
+    .ck_question{font-family:arial,helvetica,sans-serif;color:#000;font-size:13px;font-weight:bold;font-style:normal;padding:0px;margin:0px;text-align:left;line-height:22px}
+    .ck_answer{font-family:arial,helvetica,sans-serif;color:#000;font-size:13px;font-weight:normal;font-style:normal;padding:0px;margin:0px;text-align:left;line-height:22px}
+    .ck_image_small{max-width:624px;float:left;margin-right:10px;margin-bottom:10px;}
+    .ck_image_large{max-width:624px;display:block;margin:0 auto;margin-bottom:10px;}
+    .cke_textarea_inline{float:left;width:730px;padding:5px;border:1px solid #C0C0C0;margin-bottom:9px;font-size:12px;background:#fff;}
+    .excerpt_wrapper .cke_textarea_inline{height:80px !important;}
+    #summary_box .cke_textarea_inline{width:95%;float:none;}
+    /*frm-search-1*/
+    .frm-search-1 { overflow: hidden;}
+    .txt-s1 { float: left; width: 544px; padding: 0 10px; line-height: 27px; height: 27px; border: solid 1px #ccc; color:#aaa; border-right: none;}
+    .btn-submit-s { cursor: pointer; width: 100px; height: 29px; line-height: 26px; background:#cb0906 ; color:#fff; text-align: center; text-transform: uppercase;}
+    .btn-submit-s:hover { background:#0e71b4;}
+    .search-mode {margin: 10px 0;
+        display: block;
+        color: #878787;
+        background-image: url(../images/plus.png);
+        background-repeat: no-repeat;
+        background-position-y: center;
+        padding-left: 16px;}
+    .search-mode:hover { color:#e32c24;}
+    /*search-page*/
+    .frm-search-2 { padding: 10px 15px; background:#f6f6f6;}
+    .frm-search-2 li { overflow: hidden; padding: 3px 0; }
+    .frm-search-2 li h2 { text-transform: uppercase; font-size: 12px; color:#e32c22; float: left; height: 20px; line-height: 20px;}
+    .frm-search-2 li .btn-close { float: right; width: 20px; height: 20px; background: url(../images/close-button.png) no-repeat;}
+    .title-tag { font-size: 18px; color: #e32c24; float: left; width: 100%; font-weight: normal; padding-bottom: 5px; margin-bottom: 10px; border-bottom: solid 1px #e32c24; overflow: hidden;}
+    .title-tag .btn-date { width: auto; font-size: 12px; color:#333; padding-left: 22px; line-height: 18px;}
+    .title-tag .btn-date:hover { color:#e32c24; background-position: 0 100%;}
+    .txt-search-1 { height: 29px; width: 612px; padding: 0 10px; border: solid 1px #e0e0e0; color:#989898;}
+    .frm-search-2 li label:first-child {  width: 120px; font-size: 12px; color:#3f3f3f; float: left; padding: 0; height: 31px; line-height: 31px;}
+    .frm-search-2 li label { float: left; padding-right: 15px; line-height: 16px; padding-top: 8px;}
+    .frm-search-2 li label.chk-1 input { float: left; margin-right: 5px;}
+    .frm-search-2 .sl-1 {border: solid 1px #e0e0e0; color:#989898; height: 29px; width: 514px; padding: 0 10px;}
+    .frm-search-2 .sl-2 { width: 485px;}
+    .btn-submit-2 { cursor: pointer; width: 100px; height: 29px; line-height: 26px; background:#cb0906 ; color:#fff; text-align: center; float: right; text-transform: uppercase;}
+    .btn-submit-2:hover {  background:#0e71b4;}
+    .btn-date { width: 18px; height: 18px; background:url(../images/icon-calendar.png) 0 0 no-repeat; float: right; margin: 4px 3px 0 0;}
+    .btn-date:hover { background-position: 0 100%;}
+    .search-result { padding-top: 20px;}
+    .ctn-search { display: none;}
+    .tab { display: none;}
+    /*scroll fixed*/
+    #banner-top-1.fixed { position: fixed; top: 50px; }
+    .title-profile { color:#333; margin-bottom: 10px;}
+    .block-ver {  border: solid 1px #ccc; }
+    .block-ver > div.inner-ver { padding: 10px 15px 15px 15px;}
+    .block-ver a.thumbs img { width: 100%;}
+    /*menu-bar*/
+    .menu-bar { height: 13px; overflow: hidden; padding: 10px 0; background:#fff; border-bottom: solid 1px #ccc; margin-bottom: 15px; font-weight: bold; color:#333; width: 663px;}
+    .menu-bar.fixed { position: fixed; top: 30px; z-index: 99; border-left: solid 1px #ccc; border-right: solid 1px #ccc; width: 663px; margin-left: -1px; }
+    .menu-bar li { float: left; padding-right: 5px; padding-left: 15px;}
+    .menu-bar li a { color:#333;}
+    .menu-bar li a.selected { color:#e32c24;}
+    /*block-ver*/
+    .block-ver { margin-bottom: 20px;}
+    .block-ver h1 { font-size: 24px; color:#333; padding: 15px 0 5px 0;}
+    .block-ver p { padding: 10px 0 0 0; line-height: 18px; font-size: 13px;}
+    /*socialbar*/
+    .socialbar { float: left; }
+    .socialbar li { float: left; padding-right: 5px;}
+    #banner-top.fixed { position: fixed; top: 30px;}
+    /*btn-resize*/
+    .btn-resize { width: 18px; height: 16px; position: absolute; top: 3px; right: 3px; background: url(../images/fancybox_buttons.png) -5px -68px no-repeat; cursor: pointer; z-index: 9998;}
+    .btn-resize.active { background-position: -36px -68px ; top: 10px; right: 50px;}
+    .fancybox-outer .btnToggle {width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 9999;
+        background: #fff;}
+    /*full-screen*/
+    .full-screen {position: fixed!important; top: 0!important; left: 0!important; width: 100%!important; height: 100%!important; margin: 0!important;}
+    .full-screen .fancybox-skin {width: 100%!important; height: 100%!important; margin: 0!important; padding: 0!important;}
+    .full-screen .fancybox-skin .fancybox-outer { width: 100%!important; height: 100%!important;}
+    .full-screen .fancybox-skin .fancybox-outer .fancybox-inner { width: auto!important; height: 100%!important;}
+    /*pBody*/
+    .pBody a {padding-left: 20px; background: url(../images/dotted-hover-1.png) 8px 7px no-repeat; color:#3594d0;}
+    .pBody a:hover { background: url(../images/dotted-hover.png) 8px 7px no-repeat; color:#ed1b2f;}
+    /*canbiet_main*/
+    .canbiet_main { width: 345px;}
+    /*wrapper-ads*/
+    .wrapper-ads .ads-1:first-child { margin-left: 0; margin-right: 2px;}
+
+    /*clearfix*/
+    .clearfix:after {
+        content: ".";
+        display: block;
+        clear: both;
+        visibility: hidden;
+        line-height: 0;
+        height: 0;
+    }
+
+    .clearfix {
+        display: inline-block;
+    }
+
+    html[xmlns] .clearfix {
+        display: block;
+    }
+
+    * html .clearfix {
+        height: 1%;
+    }
+
+
+    /*image size*/
+    .img_218_125, .img_218_125 img{width: 218px; height: 125px}
+    .img_146_82, .img_146_82 img{width: 153px; height: 87px}
+    .img_80_45, .img_80_45 img{width: 80px; height: 45px}
+    .img_326_164, .img_326_164 img{width: 326px; height: 164px}
+    .img_344_194, .img_344_194 img{width: 344px; height: 194px}
+    .img_139_79, .img_139_79 img{width: 139px; height: 79px}
+    .img_160_90, .img_160_90 img{width: 153px; height: 87px}
+    .img_160_90_1, .img_160_90_1 img{width: 160px; height: 90px}
+    .img_300_170, .img_300_170 img{width: 300px;height: 170px}
+    .img_490_276, .img_490_276 img{width: 490px; height: 276px}
+
+    /*menu*/
+    .wrapper-nav li a.active{color: #ed1b24}
+
+    /*category*/
+    .category .right-side .block-1:first-child{margin-top: 30px}
+    .category .right-side .block-1:first-child h4{padding: 0px}
+    .category .right-side .block-1:first-child img{margin-bottom: 5px}
+
+    /*detail*/
+    .detail .block-share li {text-align: center;}
+    .clear{clear: both;}
+    /*frm-s-1*/
+.frm-s-1 .txt-s1 { width: 325px; border-right: solid 1px #ccc;}
+.frm-s-1  { width: 460px; margin: 10px auto 0 auto;}
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+.block-feature p { font-size: 15px; line-height: 20px;}
+.fck p{ display: block; font-size: 15px;}
+.main .block-right .list-1 li a { width: 97%;}
+.sidebar .list-1 li a { width: 95%;}
+.wrapper-qt strong, .top-footer li a, .inner-slider a:first-child, .block-key li , .block-2 h2 a , .list-bc li a , .block-ts h2.title > a:first-child, .sidebar .title a , .highlight h2 > a:first-child , .breadcrumb li a ,.top-menu li a ,.list-social li.btn-sethome a ,.nav-main > ul > li > a ,.highlight h2 span , .breadcrumb li a  {  white-space: nowrap;}
+.block-right .feature-1 a:nth-child(2) {width: 98%; display: block;}
+.lst-comment ul li dl dd p { font-size: 15px;}
+.content  .left-side .block-left h3 a { font-size: 15px;}
+.wrapper-travel .list-1 li a { width: 95%; display: block;}
+.newhot_most_content .block-left > p  { width: 99%;}
+
+
+}
+
+    </style>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-46730129-1', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+        ga('send', 'event', 'Not Found', '404', 'page: ' + document.location.pathname + document.location.search + ' - ref: ' + document.referrer, 0, true);
+
+    </script>
+
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <ul class="top-menu">
+                <li><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi-tuan" target="_blank" title="Tuổi Trẻ Cuối Tuần">Tuổi Trẻ Cuối Tuần</a></li>
+                <li><a href="http://tuoitre.vn/tin/tuoi-tre-cuoi" target="_blank" title="Tuổi Trẻ Cười">Tuổi Trẻ Cười</a></li>
+                <li><a href="http://tv.tuoitre.vn/" target="_blank" title="Truyền Hình Tuổi Trẻ">Truyền Hình Tuổi Trẻ</a></li>
+                <li><a href="http://tuoitrenews.vn/" target="_blank" title="Tuoitrenews">Tuoitrenews</a></li>
+            </ul>
+            <ul class="list-social">
+                <li><a href="#" title="0918.033.133">0918.033.133</a></li>
+                <li class="btn-sethome"><a href="#" title="Đặt làm trang chủ">Đặt làm trang chủ</a></li>
+                <li><a class="icon-social icon-facebook" href="#" title="faceboook">facebook</a></li>
+                <li><a class="icon-social icon-tw" href="#" title="twitter">twitter</a></li>
+                <li><a class="icon-social icon-google" href="#" title="googleplus">googleplus</a></li>
+                <li><a class="icon-social icon-ytobe" href="#" title="youtube">youtube</a></li>
+            </ul>
+            <div class="bottom-header">
+                <div class="outer-logo">
+                    <p></p>
+                    <a href="http://tuoitre.vn" title="Tuổi Trẻ Online"><img alt="logo" src="http://static.new.tuoitre.vn/tto/r/2014/08/20/rwmNzqtv.png" /></a>
+                </div>
+                <div class="block-banner">
+                    <script type="text/javascript" language="javascript" src="http://s.tuoitre.vn/DominoX/tracking.ashx?action=5b47bde3-cfa0-4991-9bc7-eec7afa5c06e&ext=fff4ce74-30df-4acb-bd09-c0e1da34211a"></script>
+                </div>
+            </div>
+        </header>
+        <div class="wrapper-nav">
+        <nav class="nav-main">
+        <ul class="clearfix">
+        <li class="active">
+            <a class=" " href="http://tuoitre.vn" title="Home">Home</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" title="Chính trị xã hội">Chính trị xã hội</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/the-gioi" title="Thế giới">Thế giới</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/phap-luat" title="Pháp luật">Pháp luật</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế">Kinh tế</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/song-khoe" title="Sống khỏe">Sống khỏe</a>
+        </li>
+        <li>
+            <a class="last " href="http://tuoitre.vn/tin/giao-duc" title="Giáo dục">Giáo dục</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/van-hoa-giai-tri" title="Văn hóa - Giải trí">Văn hóa - Giải trí</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/nhip-song-tre" title="Nhịp sống trẻ">Nhịp sống trẻ</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/nhip-song-so" title="Nhịp sống số">Nhịp sống số</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/ban-doc" title="Bạn đọc">Bạn đọc</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/du-lich" title="Du lịch">Du lịch</a>
+        </li>
+        <li>
+            <a class=" " href="http://thethao.tuoitre.vn" title="Thể thao">Thể thao</a>
+        </li>
+        <li>
+            <a class=" " href="http://media.tuoitre.vn/" title="Media">Media</a>
+        </li>
+        <li>
+            <a class=" " href="http://tuoitre.vn/tin/can-biet" title="Cần biết">Cần biết</a>
+        </li>
+        </ul>
+        </nav>
+        </div>
+        <section class="main">
+            <div class="layer-404">
+                <!--<img alt="Nội dung không tìm thấy" src="http://static.new.tuoitre.vn/tto/r/2014/08/20/e1Zi5VNY.png" />-->
+                <h2>Nội dung không tìm thấy.</h2>
+                <p>Quay về <a href="http://tuoitre.vn" title="Tuổi Trẻ Online">http://tuoitre.vn</a> hoặc sử dụng tìm kiếm tại đây.</p>
+                <form class="frm-search-1 frm-s-1" method="GET" action="http://tuoitre.vn/tim-kiem/tat-ca/">
+                    <input name="q" class="txt-s1" type="text" value="" placeholder="Nội dung tìm kiếm">
+                    <input type="submit" value="Tìm kiếm" class="btn-submit-s">
+                </form>
+            </div>
+        </section>
+        
+        <footer class="footer">
+            <ul class="top-footer">
+                <li><a href="http://tuoitrenews.vn/" target="_blank" title="Tuổi Trẻ News ">Tuổi Trẻ News </a></li>
+                <li><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/" target="_blank" title="Tuổi Trẻ Cuối Tuần">Tuổi Trẻ Cuối Tuần </a></li>
+                <li><a href="http://tv.tuoitre.vn/" target="_blank" title="Tuổi trẻ TV">Tuổi trẻ TV</a></li>
+                <li><a href="http://tuoitre.vn/Ao-trang" target="_blank" title="Áo Trắng">Áo Trắng</a></li>
+                <li><a href="http://tusach.tuoitre.vn" target="_blank" title="Tủ Sách Tuổi Trẻ">Tủ Sách Tuổi Trẻ</a></li>
+                <li class="float-r"><a class="btn-send" href="http://chuyentrang.tuoitre.vn/Service/Contacr.aspx" onclick="openPopup('feedbackForm')" title="Gửi bài về Toà soạn">Gửi bài về Toà soạn</a></li>
+                <li class="float-r"><a class="btn-set" href="http://pay.tuoitre.vn/dat-bao" target="_blank" title="Đặt báo Online">Đặt báo Online</a></li>
+            </ul>
+            <ul class="list-link">
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi" title="Chính trị - Xã hội">Chính trị - Xã hội</a></dt>
+                        <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/thoi-su-suy-nghi" title="Thời sự - Suy nghĩ">Thời sự - Suy nghĩ</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/phong-su-ky-su" title="Phóng sự - Ký sự">Phóng sự - Ký sự</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/moi-truong" title="Môi trường">Môi trường</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/chuyen-thuong-ngay" title="Chuyện thường ngày">Chuyện thường ngày</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/the-gioi" title="Thế giới">Thế giới</a></dt>
+                        <dd><a href="http://tuoitre.vn/tin/the-gioi/quan-sat-binh-luan" title="Quan sát – Bình luận">Quan sát – Bình luận</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/the-gioi/the-gioi-muon-mau" title="Thế giới muôn màu">Thế giới muôn màu</a></dd>
+                        <dd><a href="http://tuoitre.vn/tinthe-gioi/nguoi-viet-nam-chau" title="Người Việt năm châu">Người Việt năm châu</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/the-gioi/ho-so" title="Hồ sơ">Hồ sơ</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/giao-duc" title="Giáo dục">Giáo dục</a></dt>
+                        <dd><a href="http://tuyensinh.tuoitre.vn" title="Tuyển sinh">Tuyển sinh</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/giao-duc/du-hoc" title="Du học">Du học</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/giao-duc/khoa-hoc" title="Khoa học">Khoa học</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/giao-duc/cau-chuyen-giao-duc" title="Câu chuyện giáo dục">Câu chuyện giáo dục</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/giao-duc/giao-duc-cac-nuoc" title="Giáo dục các nước">Giáo dục các nước</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/nhip-song-tre" title="Nhịp sống trẻ">Nhịp sống trẻ</a></dt>
+                        <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/song-va-yeu" title="Sống &amp; Yêu">Sống &amp; Yêu</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/co-hoi-viec-lam" title="Cơ hội việc làm">Cơ hội việc làm</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/nhip-song-online" title="Nhịp sống online">Nhịp sống online</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/nhip-song-tre/bac-nhip-trai-tim" title="Bắc nhịp trái tim">Bắc nhịp trái tim</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://dulich.tuoitre.vn" title="Du lịch">Du lịch</a></dt>
+                        <dd><a href="http://dulich.tuoitre.vn/nhung-mien-dat-la" title="Những miền đất lạ">Những miền đất lạ</a></dd>
+                        <dd><a href="http://dulich.tuoitre.vn/kham-pha" title="Trải nghiệm - Khám phá">Trải nghiệm - Khám phá</a></dd>
+                        <dd><a href="http://dulich.tuoitre.vn/am-thuc" title="Ẩm thực">Ẩm thực</a></dd>
+                        <dd><a href="http://dulich.tuoitre.vn/van-hoa" title="Văn hoá">Văn hoá</a></dd>
+                        <dd><a href="http://dulich.tuoitre.vn/goc-anh-lu-hanh" title="Góc ảnh lữ hành">Góc ảnh lữ hành</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a target="_blank" href="http://media.tuoitre.vn" title="Media">Media</a></dt>
+                        <dd><a target="_blank" href="http://media.tuoitre.vn/TTAudio.aspx" title="Nghe đọc báo">Nghe đọc báo</a></dd>
+                        <dd><a target="_blank" href="http://media.tuoitre.vn/BookMedia.aspx" title="Sách báo">Sách báo</a></dd>
+                        <dd><a target="_blank" href="http://media.tuoitre.vn/TVO.aspx" title="Clip thời sự">Clip thời sự</a></dd>
+                        <dd><a target="_blank" href="http://media.tuoitre.vn/Radio.aspx" title="Nghe nhạc">Nghe nhạc</a></dd>
+                        <dd><a target="_blank" href="http://media.tuoitre.vn/Film.aspx" title="Xem phim">Xem phim</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://nhipsongso.tuoitre.vn" title="Nhịp sống số">Nhịp sống số</a></dt>
+                        <dd><a href="http://nhipsongso.tuoitre.vn/dien-thoai" title="Điện thoại">Điện thoại</a></dd>
+                        <dd><a href="http://nhipsongso.tuoitre.vn/thiet-bi-so" title="Thiết bị số">Thiết bị số</a></dd>
+                        <dd><a href="http://nhipsongso.tuoitre.vn/blog" title="Blog">Blog</a></dd>
+                        <dd><a href="http://nhipsongso.tuoitre.vn/thu-thuat-kien-thuc" title="Thủ thuật - Kiến thức">Thủ thuật - Kiến thức</a></dd>
+                        <dd><a href="http://nhipsongso.tuoitre.vn/tu-van-tieu-dung" title="Tư vấn tiêu dùng">Tư vấn tiêu dùng</a></dd>
+                        <dd><a href="http://nhipsongso.tuoitre.vn/nhip-cau" title="Nhịp cầu">Nhịp cầu</a></dd>
+
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/kinh-te" title="Kinh tế">Kinh tế</a></dt>
+                        <dd><a href="http://tuoitre.vn/tin/kinh-te/thi-truong" title="Thị trường">Thị trường</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/kinh-te/tai-chinh" title="Tài chính">Tài chính</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/kinh-te/doanh-nhan" title="Doanh nhân">Doanh nhân</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/kinh-te/the-gioi-xe" title="Thế giới xe">Thế giới xe</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/kinh-te/bat-dong-san" title="Bất động sản">Bất động sản</a></dd>
+                        <dd><a href="http://dulich.tuoitre.vn/" title="Du lịch">Du lịch</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a target="_blank" href="http://thethao.tuoitre.vn/" title="Thể thao">Thể thao</a></dt>
+                        <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/bong-da" title="Bóng đá">Bóng đá</a></dd>
+                        <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/quan-vot" title="Quần vợt">Quần vợt</a></dd>
+                        <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/cac-mon-khac" title="Các môn khác">Các môn khác</a></dd>
+                        <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/suc-khoe-the-thao" title="Sức khỏe thể thao">Sức khỏe thể thao</a></dd>
+                        <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/the-thao-cuoc-song" title="Thể thao và Cuộc sống">Thể thao và Cuộc sống</a></dd>
+                        <dd><a target="_blank" href="http://thethao.tuoitre.vn/trang/hau-truong" title="Hậu trường Thể thao">Hậu trường Thể thao</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/song-khoe" title="Sống khoẻ">Sống khoẻ</a></dt>
+                        <dd><a href="http://tuoitre.vn/tin/song-khoe/phong-mach-online" title="Phòng mạch Online">Phòng mạch Online</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/song-khoe/me-va-be" title="Mẹ &amp; Bé">Mẹ &amp; Bé</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/song-khoe/gioi-tinh" title="Giới tính">Giới tính</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/song-khoe/tu-van-hiem-muon" title="Tư vấn hiếm muộn">Tư vấn hiếm muộn</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/song-khoe/blog-bac-si" title="Blog bác sĩ">Blog bác sĩ</a></dd>
+                    </dl>
+
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/van-hoa-giai-tri" title="Văn hoá - Giải trí">Văn hoá - Giải trí</a></dt>
+                        <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/am-nhac" title="Âm nhạc">Âm nhạc</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/dien-anh" title="Điện ảnh">Điện ảnh</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/" title="Thời trang">Thời trang</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/truyen-hinh" title="Truyền hình">Truyền hình</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/hau-truong" title="Hậu trường">Hậu trường</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/van-hoa-giai-tri/van-hoc-sach" title="Văn học - Sách">Văn học - Sách</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/phap-luat" title="Pháp luật">Pháp luật</a></dt>
+                        <dd><a href="http://tuoitre.vn/tin/phap-luat/tu-van" title="Tư vấn">Tư vấn</a></dd>
+                        <dd><a href="http://tuoitre.vn/tin/phap-luat/ky-su-phap-dinh" title="Ký sự pháp đình">Ký sự pháp đình</a></dd>
+                    </dl>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/ban-doc" title="Bạn đọc">Bạn đọc</a></dt>
+                    </dl>
+                    <dl>
+                        <dt><a href="http://tuoitre.vn/tin/can-biet" title="Cần biết">Cần biết</a></dt>
+                    </dl>
+                </li>
+
+            </ul>
+            <div class="bottom-footer">
+                <a class="logo-footer" href="#" title="logo"><img  alt="Tuổi Trẻ Online" src="http://static.new.tuoitre.vn/tto/r/2014/08/20/JfWmKr8f.png" /></a>
+                <p class="float-l">
+                    <strong>© Copyright 2014 TUOITRE.VN</strong>, All rights reserved <br/>
+                    ® Tuổi Trẻ Online giữ bản quyền nội dung trên website này.
+                </p>
+                <p class="float-r">
+                    <a href="http://tuoitre.vn/tin/thong-tin-toa-soan" title="Thông tin Toà soạn">Thông tin Toà soạn</a> -
+                    <a target="_blank" href="http://www.thanhdoan.hochiminhcity.gov.vn/webtd/vn/Home.aspx" title="Thông tin Thành Đoàn">Thông tin Thành Đoàn</a> -
+                    <a target="_blank" href=" http://thitruong.tuoitre.vn" title="Liên hệ Quảng cáo">Liên hệ Quảng cáo</a> <br/>
+                    <span>Điện thoại liên hệ: <strong><a href="tel:0918.033.133">0918.033.133</a></strong></span>
+                </p>
+            </div>
+        </footer>
+    
+    </div>
+    <!--<script type="text/javascript" src="../js/jquery-1.11.0.min.js"></script>-->
+    <!--<script type="text/javascript" src="../js/jquery.flexslider.js"></script>-->
+    <!--<script type="text/javascript" src="../js/jscrollpane.js"></script>-->
+    <!--<script type="text/javascript" src="../js/start.js"></script>-->
+</body>
+</html>
